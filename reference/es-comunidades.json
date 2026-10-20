@@ -1,0 +1,608 @@
+{
+  "id": "es-comunidades",
+  "name": "Comunidades autónomas de España",
+  "title": "Comunidades autónomas de España",
+  "description": "Administrative regions/states of ES with coordinates",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 5089,
+      "name": "A Coruña",
+      "state_code": "",
+      "type": "province",
+      "latitude": "43.37097030",
+      "longitude": "-8.39594250"
+    },
+    {
+      "id": 5109,
+      "name": "Albacete",
+      "state_code": "",
+      "type": "province",
+      "latitude": "38.99509210",
+      "longitude": "-1.85591540"
+    },
+    {
+      "id": 5108,
+      "name": "Alicante",
+      "state_code": "",
+      "type": "province",
+      "latitude": "38.34363650",
+      "longitude": "-0.48817080"
+    },
+    {
+      "id": 5095,
+      "name": "Almeria",
+      "state_code": "",
+      "type": "province",
+      "latitude": "36.84141970",
+      "longitude": "-2.46281350"
+    },
+    {
+      "id": 5325,
+      "name": "Andalusia",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "37.33999640",
+      "longitude": "-4.58116140"
+    },
+    {
+      "id": 5093,
+      "name": "Araba",
+      "state_code": "",
+      "type": "province",
+      "latitude": "42.84407220",
+      "longitude": "-2.68208290"
+    },
+    {
+      "id": 5326,
+      "name": "Aragon",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "41.37872910",
+      "longitude": "-0.76393730"
+    },
+    {
+      "id": 1160,
+      "name": "Asturias",
+      "state_code": "",
+      "type": "province",
+      "latitude": "43.31338680",
+      "longitude": "-5.94192000"
+    },
+    {
+      "id": 5701,
+      "name": "Asturias, Principality of",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "43.36138889",
+      "longitude": "-5.84777778"
+    },
+    {
+      "id": 1189,
+      "name": "Ávila",
+      "state_code": "",
+      "type": "province",
+      "latitude": "40.62327680",
+      "longitude": "-4.83542020"
+    },
+    {
+      "id": 5092,
+      "name": "Badajoz",
+      "state_code": "",
+      "type": "province",
+      "latitude": "38.87818700",
+      "longitude": "-6.97011150"
+    },
+    {
+      "id": 5335,
+      "name": "Balearic Islands",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "39.61343200",
+      "longitude": "2.88291850"
+    },
+    {
+      "id": 5102,
+      "name": "Barcelona",
+      "state_code": "",
+      "type": "province",
+      "latitude": "41.38258020",
+      "longitude": "2.17707300"
+    },
+    {
+      "id": 5332,
+      "name": "Basque Country",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "42.99118160",
+      "longitude": "-2.55430230"
+    },
+    {
+      "id": 5094,
+      "name": "Bizkaia",
+      "state_code": "",
+      "type": "province",
+      "latitude": "43.23848200",
+      "longitude": "-2.85163160"
+    },
+    {
+      "id": 1146,
+      "name": "Burgos",
+      "state_code": "",
+      "type": "province",
+      "latitude": "42.32471420",
+      "longitude": "-3.67653890"
+    },
+    {
+      "id": 1190,
+      "name": "Caceres",
+      "state_code": "",
+      "type": "province",
+      "latitude": "39.47451750",
+      "longitude": "-6.37167610"
+    },
+    {
+      "id": 5096,
+      "name": "Cádiz",
+      "state_code": "",
+      "type": "province",
+      "latitude": "36.52974380",
+      "longitude": "-6.29289760"
+    },
+    {
+      "id": 5222,
+      "name": "Canary Islands",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "28.29357850",
+      "longitude": "-16.62144710"
+    },
+    {
+      "id": 1170,
+      "name": "Cantabria",
+      "state_code": "",
+      "type": "province",
+      "latitude": "43.15956640",
+      "longitude": "-4.08783820"
+    },
+    {
+      "id": 5702,
+      "name": "Cantabria",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "43.33333333",
+      "longitude": "-4.00000000"
+    },
+    {
+      "id": 5110,
+      "name": "Castellón",
+      "state_code": "",
+      "type": "province",
+      "latitude": "40.25185680",
+      "longitude": "-0.06150520"
+    },
+    {
+      "id": 5329,
+      "name": "Castile and Leon",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "41.55005000",
+      "longitude": "-5.13874010"
+    },
+    {
+      "id": 5330,
+      "name": "Castilla-La Mancha",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "39.41779020",
+      "longitude": "-2.62323320"
+    },
+    {
+      "id": 5331,
+      "name": "Catalonia",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "41.85230940",
+      "longitude": "1.57450430"
+    },
+    {
+      "id": 5223,
+      "name": "Ceuta",
+      "state_code": "",
+      "type": "autonomous city",
+      "latitude": "35.88836100",
+      "longitude": "-5.30413800"
+    },
+    {
+      "id": 5105,
+      "name": "Ciudad Real",
+      "state_code": "",
+      "type": "province",
+      "latitude": "38.98542010",
+      "longitude": "-3.92851380"
+    },
+    {
+      "id": 5337,
+      "name": "Community of Madrid",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "40.52483190",
+      "longitude": "-3.77156280"
+    },
+    {
+      "id": 5097,
+      "name": "Córdoba",
+      "state_code": "",
+      "type": "province",
+      "latitude": "37.95671160",
+      "longitude": "-4.84772410"
+    },
+    {
+      "id": 5106,
+      "name": "Cuenca",
+      "state_code": "",
+      "type": "province",
+      "latitude": "40.06610310",
+      "longitude": "-2.13135280"
+    },
+    {
+      "id": 5333,
+      "name": "Estremadura",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "39.17484260",
+      "longitude": "-6.15298910"
+    },
+    {
+      "id": 5334,
+      "name": "Galicia",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "42.61946000",
+      "longitude": "-7.86311200"
+    },
+    {
+      "id": 1191,
+      "name": "Gipuzkoa",
+      "state_code": "",
+      "type": "province",
+      "latitude": "43.14452780",
+      "longitude": "-2.20379550"
+    },
+    {
+      "id": 5103,
+      "name": "Girona",
+      "state_code": "",
+      "type": "province",
+      "latitude": "41.97930060",
+      "longitude": "2.81994390"
+    },
+    {
+      "id": 5098,
+      "name": "Granada",
+      "state_code": "",
+      "type": "province",
+      "latitude": "37.17349950",
+      "longitude": "-3.59953370"
+    },
+    {
+      "id": 5107,
+      "name": "Guadalajara",
+      "state_code": "",
+      "type": "province",
+      "latitude": "40.63269790",
+      "longitude": "-3.16460670"
+    },
+    {
+      "id": 5099,
+      "name": "Huelva",
+      "state_code": "",
+      "type": "province",
+      "latitude": "37.25758740",
+      "longitude": "-6.94849450"
+    },
+    {
+      "id": 1177,
+      "name": "Huesca",
+      "state_code": "",
+      "type": "province",
+      "latitude": "42.13637860",
+      "longitude": "-0.43658370"
+    },
+    {
+      "id": 1174,
+      "name": "Islas Baleares",
+      "state_code": "",
+      "type": "province",
+      "latitude": "39.61343200",
+      "longitude": "2.88291850"
+    },
+    {
+      "id": 5100,
+      "name": "Jaén",
+      "state_code": "",
+      "type": "province",
+      "latitude": "37.77288580",
+      "longitude": "-3.78832890"
+    },
+    {
+      "id": 5703,
+      "name": "La Rioja",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "42.25000000",
+      "longitude": "-2.50000000"
+    },
+    {
+      "id": 1171,
+      "name": "La Rioja",
+      "state_code": "",
+      "type": "province",
+      "latitude": "42.28146420",
+      "longitude": "-2.48280500"
+    },
+    {
+      "id": 1185,
+      "name": "Las Palmas",
+      "state_code": "",
+      "type": "province",
+      "latitude": "27.95800040",
+      "longitude": "-15.60623050"
+    },
+    {
+      "id": 1200,
+      "name": "León",
+      "state_code": "",
+      "type": "province",
+      "latitude": "42.59870410",
+      "longitude": "-5.56708390"
+    },
+    {
+      "id": 5104,
+      "name": "Lleida",
+      "state_code": "",
+      "type": "province",
+      "latitude": "41.61476050",
+      "longitude": "0.62678420"
+    },
+    {
+      "id": 5090,
+      "name": "Lugo",
+      "state_code": "",
+      "type": "province",
+      "latitude": "43.01184370",
+      "longitude": "-7.55657490"
+    },
+    {
+      "id": 1158,
+      "name": "Madrid",
+      "state_code": "",
+      "type": "province",
+      "latitude": "40.41675150",
+      "longitude": "-3.70383220"
+    },
+    {
+      "id": 5101,
+      "name": "Málaga",
+      "state_code": "",
+      "type": "province",
+      "latitude": "36.72130280",
+      "longitude": "-4.42163660"
+    },
+    {
+      "id": 5224,
+      "name": "Melilla",
+      "state_code": "",
+      "type": "autonomous city",
+      "latitude": "35.29370000",
+      "longitude": "-2.93830000"
+    },
+    {
+      "id": 1176,
+      "name": "Murcia",
+      "state_code": "",
+      "type": "province",
+      "latitude": "37.99237950",
+      "longitude": "-1.13054310"
+    },
+    {
+      "id": 1204,
+      "name": "Navarra",
+      "state_code": "",
+      "type": "province",
+      "latitude": "42.61254880",
+      "longitude": "-1.83078770"
+    },
+    {
+      "id": 5339,
+      "name": "Navarre",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "42.61254880",
+      "longitude": "-1.83078770"
+    },
+    {
+      "id": 5091,
+      "name": "Ourense",
+      "state_code": "",
+      "type": "province",
+      "latitude": "42.34389320",
+      "longitude": "-7.85717920"
+    },
+    {
+      "id": 1157,
+      "name": "Palencia",
+      "state_code": "",
+      "type": "province",
+      "latitude": "42.00968320",
+      "longitude": "-4.52879490"
+    },
+    {
+      "id": 1167,
+      "name": "Pontevedra",
+      "state_code": "",
+      "type": "province",
+      "latitude": "42.43188760",
+      "longitude": "-8.64315920"
+    },
+    {
+      "id": 5338,
+      "name": "Region of Murcia",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "38.06401230",
+      "longitude": "-1.67193770"
+    },
+    {
+      "id": 1147,
+      "name": "Salamanca",
+      "state_code": "",
+      "type": "province",
+      "latitude": "40.76655820",
+      "longitude": "-6.02176500"
+    },
+    {
+      "id": 5112,
+      "name": "Santa Cruz de Tenerife",
+      "state_code": "",
+      "type": "province",
+      "latitude": "28.46717800",
+      "longitude": "-16.25078430"
+    },
+    {
+      "id": 1192,
+      "name": "Segovia",
+      "state_code": "",
+      "type": "province",
+      "latitude": "40.94292960",
+      "longitude": "-4.10889420"
+    },
+    {
+      "id": 1193,
+      "name": "Sevilla",
+      "state_code": "",
+      "type": "province",
+      "latitude": "37.38863030",
+      "longitude": "-5.99534030"
+    },
+    {
+      "id": 1208,
+      "name": "Soria",
+      "state_code": "",
+      "type": "province",
+      "latitude": "41.76338420",
+      "longitude": "-2.46420410"
+    },
+    {
+      "id": 1203,
+      "name": "Tarragona",
+      "state_code": "",
+      "type": "province",
+      "latitude": "41.11723640",
+      "longitude": "1.25460570"
+    },
+    {
+      "id": 5111,
+      "name": "Teruel",
+      "state_code": "",
+      "type": "province",
+      "latitude": "40.34504100",
+      "longitude": "-1.11847440"
+    },
+    {
+      "id": 1205,
+      "name": "Toledo",
+      "state_code": "",
+      "type": "province",
+      "latitude": "39.85606790",
+      "longitude": "-4.02395680"
+    },
+    {
+      "id": 1175,
+      "name": "Valencia",
+      "state_code": "",
+      "type": "province",
+      "latitude": "39.33420580",
+      "longitude": "-0.79734740"
+    },
+    {
+      "id": 5340,
+      "name": "Valencian Community",
+      "state_code": "",
+      "type": "autonomous community",
+      "latitude": "39.68195910",
+      "longitude": "-0.76544060"
+    },
+    {
+      "id": 1183,
+      "name": "Valladolid",
+      "state_code": "",
+      "type": "province",
+      "latitude": "41.65173750",
+      "longitude": "-4.72449500"
+    },
+    {
+      "id": 1161,
+      "name": "Zamora",
+      "state_code": "",
+      "type": "province",
+      "latitude": "41.68576930",
+      "longitude": "-5.94231500"
+    },
+    {
+      "id": 5113,
+      "name": "Zaragoza",
+      "state_code": "",
+      "type": "province",
+      "latitude": "41.65213420",
+      "longitude": "-0.88094280"
+    }
+  ],
+  "meta": {
+    "title": "Comunidades autónomas de España - Descarga gratuita",
+    "description": "Administrative regions/states of ES with coordinates Contiene 69 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Comunidades autónomas de España | ListBase",
+    "seo_description": "Descargar Comunidades autónomas de España — 69 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 69 registros / 6 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

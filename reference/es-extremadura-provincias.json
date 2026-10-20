@@ -1,0 +1,93 @@
+{
+  "id": "es-extremadura-provincias",
+  "name": "Provincias de Extremadura - 2 provincias",
+  "title": "Provincias de Extremadura - 2 provincias",
+  "description": "Lista de las 2 demarcaciones provinciales de la comunidad autónoma Extremadura (11) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '11'.",
+  "category": "reference",
+  "source": "https://github.com/ByMykel/spanish-cities",
+  "source_url": "https://github.com/ByMykel/spanish-cities",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "nombre_comun",
+      "label": "Nombre Comun",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "code_autonomy",
+      "label": "Code Autonomy",
+      "type": "number"
+    },
+    {
+      "key": "autonomy_nombre",
+      "label": "Autonomy Nombre",
+      "type": "string"
+    },
+    {
+      "key": "autonomy_slug",
+      "label": "Autonomy Slug",
+      "type": "string"
+    },
+    {
+      "key": "flag",
+      "label": "Flag",
+      "type": "string"
+    },
+    {
+      "key": "coat_of_arms",
+      "label": "Coat Of Arms",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "06",
+      "nombre": "Badajoz",
+      "nombre_comun": "Badajoz",
+      "slug": "badajoz",
+      "code_autonomy": "11",
+      "autonomy_nombre": "Extremadura",
+      "autonomy_slug": "extremadura",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Provincia_de_Badajoz_-_Bandera.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Provincia_de_Badajoz_-_Escudo.svg"
+    },
+    {
+      "code": "10",
+      "nombre": "Cáceres",
+      "nombre_comun": "Cáceres",
+      "slug": "caceres",
+      "code_autonomy": "11",
+      "autonomy_nombre": "Extremadura",
+      "autonomy_slug": "extremadura",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/9/95/Flag_of_the_province_of_C%C3%A1ceres.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/4/48/Escudo_de_la_Diputaci%C3%B3n_de_C%C3%A1ceres.svg"
+    }
+  ],
+  "meta": {
+    "title": "Provincias de Extremadura - 2 provincias - Descarga gratuita",
+    "description": "Lista de las 2 demarcaciones provinciales de la comunidad autónoma Extremadura (11) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '11'. Contiene 2 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Provincias de Extremadura - 2 provincias | ListBase",
+    "seo_description": "Descargar Provincias de Extremadura - 2 provincias — 2 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 2 registros / 9 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: https://github.com/ByMykel/spanish-cities"
+    ]
+  }
+}

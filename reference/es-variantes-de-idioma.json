@@ -1,0 +1,101 @@
+{
+  "id": "es-variantes-de-idioma",
+  "name": "Variantes de idioma — nombres en español (CLDR)",
+  "title": "Variantes de idioma — nombres en español (CLDR)",
+  "description": "Códigos BCP-47 de variantes de idioma y sus nombres en español de la configuración regional es en CLDR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "1901",
+      "nombre": "Ortografía alemana tradicional"
+    },
+    {
+      "id": 2,
+      "code": "1996",
+      "nombre": "Ortografía alemana de 1996"
+    },
+    {
+      "id": 3,
+      "code": "AREVELA",
+      "nombre": "Armenio oriental"
+    },
+    {
+      "id": 4,
+      "code": "FONIPA",
+      "nombre": "Alfabeto fonético internacional IPA"
+    },
+    {
+      "id": 5,
+      "code": "MONOTON",
+      "nombre": "Monotónico"
+    },
+    {
+      "id": 6,
+      "code": "PINYIN",
+      "nombre": "Romanización pinyin"
+    },
+    {
+      "id": 7,
+      "code": "POLYTON",
+      "nombre": "Politónico"
+    },
+    {
+      "id": 8,
+      "code": "POSIX",
+      "nombre": "Ordenador"
+    },
+    {
+      "id": 9,
+      "code": "REVISED",
+      "nombre": "Ortografía revisada"
+    },
+    {
+      "id": 10,
+      "code": "SCOTLAND",
+      "nombre": "Inglés escocés estándar"
+    },
+    {
+      "id": 11,
+      "code": "VALENCIA",
+      "nombre": "Valenciano"
+    },
+    {
+      "id": 12,
+      "code": "WADEGILE",
+      "nombre": "Romanización Wade-Giles"
+    }
+  ],
+  "meta": {
+    "title": "Variantes de idioma — nombres en español (CLDR) - Descarga gratuita",
+    "description": "Códigos BCP-47 de variantes de idioma y sus nombres en español de la configuración regional es en CLDR. Contiene 12 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Variantes de idioma — nombres en español (CLDR) | ListBase",
+    "seo_description": "Descargar Variantes de idioma — nombres en español (CLDR) — 12 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 12 registros / 3 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+﻿"Id","Unit Code","Categoria","Nombre","Abreviatura","Forma Estrecha","Patron"
+"1","acceleration-g-force","acceleration","unidades de fuerza g","Fg","Fg","{0} unidades de fuerza g"
+"2","acceleration-meter-per-square-second","acceleration","metros por segundo al cuadrado","m/s²","m/s²","{0} metros por segundo al cuadrado"

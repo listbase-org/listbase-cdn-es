@@ -1,0 +1,93 @@
+{
+  "id": "es-sevilla-bancos",
+  "name": "Bancos en Sevilla — códigos SWIFT/BIC",
+  "title": "Bancos en Sevilla — códigos SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"SEVILLA\" (6 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 15,
+      "bank": "ABENGOA",
+      "city": "SEVILLA",
+      "branch": "",
+      "swift_code": "ABGOESSE"
+    },
+    {
+      "id": 255,
+      "bank": "BANKINTER, S.A.",
+      "city": "SEVILLA",
+      "branch": "",
+      "swift_code": "BKBKESMMSEV"
+    },
+    {
+      "id": 464,
+      "bank": "CAIXABANK, S.A.",
+      "city": "SEVILLA",
+      "branch": "",
+      "swift_code": "CAIXESBB661"
+    },
+    {
+      "id": 497,
+      "bank": "CAJA RURAL DE UTRERA",
+      "city": "SEVILLA",
+      "branch": "",
+      "swift_code": "BCOEESMM020"
+    },
+    {
+      "id": 500,
+      "bank": "CAJA RURAL DEL SUR,SDAD.COOP.CTO (FORMERLY CAJA RURAL DE HUELVA Y SEVILLA)",
+      "city": "SEVILLA",
+      "branch": "",
+      "swift_code": "BCOEESMM187"
+    },
+    {
+      "id": 704,
+      "bank": "JUNTA DE ANDALUCIA",
+      "city": "SEVILLA",
+      "branch": "",
+      "swift_code": "JANDESS1"
+    }
+  ],
+  "meta": {
+    "title": "Bancos en Sevilla — códigos SWIFT/BIC - Descarga gratuita",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"SEVILLA\" (6 institutions). Contiene 6 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Bancos en Sevilla — códigos SWIFT/BIC | ListBase",
+    "seo_description": "Descargar Bancos en Sevilla — códigos SWIFT/BIC — 6 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 6 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

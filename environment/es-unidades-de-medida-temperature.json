@@ -1,0 +1,106 @@
+{
+  "id": "es-unidades-de-medida-temperature",
+  "name": "Unidades de medida — categoría 'temperature' (5)",
+  "title": "Unidades de medida — categoría 'temperature' (5)",
+  "description": "Unidades de medida de la categoría 'temperature' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "temperature-celsius",
+      "categoria": "temperature",
+      "nombre": "grados Celsius",
+      "abreviatura": "°C",
+      "forma_estrecha": "°C",
+      "patron": "{0} grados Celsius"
+    },
+    {
+      "id": 2,
+      "unit_code": "temperature-fahrenheit",
+      "categoria": "temperature",
+      "nombre": "grados Fahrenheit",
+      "abreviatura": "°F",
+      "forma_estrecha": "°F",
+      "patron": "{0} grados Fahrenheit"
+    },
+    {
+      "id": 3,
+      "unit_code": "temperature-generic",
+      "categoria": "temperature",
+      "nombre": "grados",
+      "abreviatura": "°",
+      "forma_estrecha": "°",
+      "patron": "{0} grados"
+    },
+    {
+      "id": 4,
+      "unit_code": "temperature-kelvin",
+      "categoria": "temperature",
+      "nombre": "kelvin",
+      "abreviatura": "K",
+      "forma_estrecha": "K",
+      "patron": "{0} kelvin"
+    },
+    {
+      "id": 5,
+      "unit_code": "temperature-rankine",
+      "categoria": "temperature",
+      "nombre": "°R",
+      "abreviatura": "°R",
+      "forma_estrecha": "°R",
+      "patron": "{0} °R"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'temperature' (5) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'temperature' de la configuración regional es en CLDR, con nombres en español. Contiene 5 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'temperature' (5) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'temperature' (5) — 5 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 5 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

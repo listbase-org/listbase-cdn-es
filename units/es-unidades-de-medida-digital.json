@@ -1,0 +1,160 @@
+{
+  "id": "es-unidades-de-medida-digital",
+  "name": "Unidades de medida — categoría 'digital' (11)",
+  "title": "Unidades de medida — categoría 'digital' (11)",
+  "description": "Unidades de medida de la categoría 'digital' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "digital-bit",
+      "categoria": "digital",
+      "nombre": "bits",
+      "abreviatura": "b",
+      "forma_estrecha": "b",
+      "patron": "{0} bits"
+    },
+    {
+      "id": 2,
+      "unit_code": "digital-byte",
+      "categoria": "digital",
+      "nombre": "bytes",
+      "abreviatura": "B",
+      "forma_estrecha": "B",
+      "patron": "{0} bytes"
+    },
+    {
+      "id": 3,
+      "unit_code": "digital-gigabit",
+      "categoria": "digital",
+      "nombre": "gigabits",
+      "abreviatura": "Gb",
+      "forma_estrecha": "Gb",
+      "patron": "{0} gigabits"
+    },
+    {
+      "id": 4,
+      "unit_code": "digital-gigabyte",
+      "categoria": "digital",
+      "nombre": "gigabytes",
+      "abreviatura": "GB",
+      "forma_estrecha": "GB",
+      "patron": "{0} gigabytes"
+    },
+    {
+      "id": 5,
+      "unit_code": "digital-kilobit",
+      "categoria": "digital",
+      "nombre": "kilobits",
+      "abreviatura": "kb",
+      "forma_estrecha": "kb",
+      "patron": "{0} kilobits"
+    },
+    {
+      "id": 6,
+      "unit_code": "digital-kilobyte",
+      "categoria": "digital",
+      "nombre": "kilobytes",
+      "abreviatura": "kB",
+      "forma_estrecha": "kB",
+      "patron": "{0} kilobytes"
+    },
+    {
+      "id": 7,
+      "unit_code": "digital-megabit",
+      "categoria": "digital",
+      "nombre": "megabits",
+      "abreviatura": "Mb",
+      "forma_estrecha": "Mb",
+      "patron": "{0} megabits"
+    },
+    {
+      "id": 8,
+      "unit_code": "digital-megabyte",
+      "categoria": "digital",
+      "nombre": "megabytes",
+      "abreviatura": "MB",
+      "forma_estrecha": "MB",
+      "patron": "{0} megabytes"
+    },
+    {
+      "id": 9,
+      "unit_code": "digital-petabyte",
+      "categoria": "digital",
+      "nombre": "petabytes",
+      "abreviatura": "PB",
+      "forma_estrecha": "PB",
+      "patron": "{0} petabytes"
+    },
+    {
+      "id": 10,
+      "unit_code": "digital-terabit",
+      "categoria": "digital",
+      "nombre": "terabits",
+      "abreviatura": "Tb",
+      "forma_estrecha": "Tb",
+      "patron": "{0} terabits"
+    },
+    {
+      "id": 11,
+      "unit_code": "digital-terabyte",
+      "categoria": "digital",
+      "nombre": "terabytes",
+      "abreviatura": "TB",
+      "forma_estrecha": "TB",
+      "patron": "{0} terabytes"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'digital' (11) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'digital' de la configuración regional es en CLDR, con nombres en español. Contiene 11 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'digital' (11) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'digital' (11) — 11 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 11 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

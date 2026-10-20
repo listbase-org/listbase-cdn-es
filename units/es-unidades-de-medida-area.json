@@ -1,0 +1,178 @@
+{
+  "id": "es-unidades-de-medida-area",
+  "name": "Unidades de medida — categoría 'area' (13)",
+  "title": "Unidades de medida — categoría 'area' (13)",
+  "description": "Unidades de medida de la categoría 'area' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "area-acre",
+      "categoria": "area",
+      "nombre": "acres",
+      "abreviatura": "ac",
+      "forma_estrecha": "ac",
+      "patron": "{0} acres"
+    },
+    {
+      "id": 2,
+      "unit_code": "area-bu-jp",
+      "categoria": "area",
+      "nombre": "bu [JP]",
+      "abreviatura": "bu [JP]",
+      "forma_estrecha": "bu [JP]",
+      "patron": "{0} bu [JP]"
+    },
+    {
+      "id": 3,
+      "unit_code": "area-cho",
+      "categoria": "area",
+      "nombre": "cho [JP]",
+      "abreviatura": "cho [JP]",
+      "forma_estrecha": "cho [JP]",
+      "patron": "{0} cho [JP]"
+    },
+    {
+      "id": 4,
+      "unit_code": "area-dunam",
+      "categoria": "area",
+      "nombre": "dunams",
+      "abreviatura": "dunams",
+      "forma_estrecha": "dunam",
+      "patron": "{0} dunams"
+    },
+    {
+      "id": 5,
+      "unit_code": "area-hectare",
+      "categoria": "area",
+      "nombre": "hectáreas",
+      "abreviatura": "ha",
+      "forma_estrecha": "ha",
+      "patron": "{0} hectáreas"
+    },
+    {
+      "id": 6,
+      "unit_code": "area-se-jp",
+      "categoria": "area",
+      "nombre": "se [JP]",
+      "abreviatura": "se [JP]",
+      "forma_estrecha": "se [JP]",
+      "patron": "{0} se [JP]"
+    },
+    {
+      "id": 7,
+      "unit_code": "area-square-centimeter",
+      "categoria": "area",
+      "nombre": "centímetros cuadrados",
+      "abreviatura": "cm²",
+      "forma_estrecha": "cm²",
+      "patron": "{0} centímetros cuadrados"
+    },
+    {
+      "id": 8,
+      "unit_code": "area-square-foot",
+      "categoria": "area",
+      "nombre": "pies cuadrados",
+      "abreviatura": "ft²",
+      "forma_estrecha": "ft²",
+      "patron": "{0} pies cuadrados"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-square-inch",
+      "categoria": "area",
+      "nombre": "pulgadas cuadradas",
+      "abreviatura": "in²",
+      "forma_estrecha": "in²",
+      "patron": "{0} pulgadas cuadradas"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-square-kilometer",
+      "categoria": "area",
+      "nombre": "kilómetros cuadrados",
+      "abreviatura": "km²",
+      "forma_estrecha": "km²",
+      "patron": "{0} kilómetros cuadrados"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-square-meter",
+      "categoria": "area",
+      "nombre": "metros cuadrados",
+      "abreviatura": "m²",
+      "forma_estrecha": "m²",
+      "patron": "{0} metros cuadrados"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-square-mile",
+      "categoria": "area",
+      "nombre": "millas cuadradas",
+      "abreviatura": "mi²",
+      "forma_estrecha": "mi²",
+      "patron": "{0} millas cuadradas"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-square-yard",
+      "categoria": "area",
+      "nombre": "yardas cuadradas",
+      "abreviatura": "yd²",
+      "forma_estrecha": "yd²",
+      "patron": "{0} yardas cuadradas"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'area' (13) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'area' de la configuración regional es en CLDR, con nombres en español. Contiene 13 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'area' (13) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'area' (13) — 13 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 13 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

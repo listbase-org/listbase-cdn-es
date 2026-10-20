@@ -1,0 +1,115 @@
+{
+  "id": "es-unidades-de-medida-angle",
+  "name": "Unidades de medida — categoría 'angle' (6)",
+  "title": "Unidades de medida — categoría 'angle' (6)",
+  "description": "Unidades de medida de la categoría 'angle' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "angle-arc-minute",
+      "categoria": "angle",
+      "nombre": "minutos de arco",
+      "abreviatura": "arcmin",
+      "forma_estrecha": "arcmin",
+      "patron": "{0} minutos de arco"
+    },
+    {
+      "id": 2,
+      "unit_code": "angle-arc-second",
+      "categoria": "angle",
+      "nombre": "segundos de arco",
+      "abreviatura": "arcsec",
+      "forma_estrecha": "arcsec",
+      "patron": "{0} segundos de arco"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-degree",
+      "categoria": "angle",
+      "nombre": "grados",
+      "abreviatura": "grad.",
+      "forma_estrecha": "grad",
+      "patron": "{0} grados"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-radian",
+      "categoria": "angle",
+      "nombre": "radianes",
+      "abreviatura": "rad",
+      "forma_estrecha": "rad",
+      "patron": "{0} radianes"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-revolution",
+      "categoria": "angle",
+      "nombre": "revoluciones",
+      "abreviatura": "rev",
+      "forma_estrecha": "rev",
+      "patron": "{0} revoluciones"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-steradian",
+      "categoria": "angle",
+      "nombre": "estereorradianes",
+      "abreviatura": "sr",
+      "forma_estrecha": "sr",
+      "patron": "{0} estereorradianes"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'angle' (6) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'angle' de la configuración regional es en CLDR, con nombres en español. Contiene 6 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'angle' (6) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'angle' (6) — 6 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 6 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

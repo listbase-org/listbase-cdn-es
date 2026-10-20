@@ -1,0 +1,72 @@
+{
+  "id": "es-murcia-bancos",
+  "name": "Bancos en Murcia — códigos SWIFT/BIC",
+  "title": "Bancos en Murcia — códigos SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"MURCIA\" (3 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 185,
+      "bank": "BANCO MARE NOSTRUM, S.A.",
+      "city": "MURCIA",
+      "branch": "",
+      "swift_code": "CECAESMM043"
+    },
+    {
+      "id": 249,
+      "bank": "BANKINTER, S.A.",
+      "city": "MURCIA",
+      "branch": "",
+      "swift_code": "BKBKESMMMUR"
+    },
+    {
+      "id": 542,
+      "bank": "COMUNIDAD AUTONOMA DE LA REGION DE MURCIA",
+      "city": "MURCIA",
+      "branch": "",
+      "swift_code": "CAMUES21"
+    }
+  ],
+  "meta": {
+    "title": "Bancos en Murcia — códigos SWIFT/BIC - Descarga gratuita",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"MURCIA\" (3 institutions). Contiene 3 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Bancos en Murcia — códigos SWIFT/BIC | ListBase",
+    "seo_description": "Descargar Bancos en Murcia — códigos SWIFT/BIC — 3 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 3 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

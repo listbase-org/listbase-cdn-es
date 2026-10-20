@@ -1,0 +1,142 @@
+{
+  "id": "es-valencia-bancos",
+  "name": "Bancos en Valencia — códigos SWIFT/BIC",
+  "title": "Bancos en Valencia — códigos SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"VALENCIA\" (13 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 26,
+      "bank": "AHORRO CORPORACION FINANCIERA, S.V., S.A.",
+      "city": "VALENCIA",
+      "branch": "(VALENCIA OFFICE)",
+      "swift_code": "AHCFESMMVAL"
+    },
+    {
+      "id": 194,
+      "bank": "BANCO PASTOR S.A.",
+      "city": "VALENCIA",
+      "branch": "",
+      "swift_code": "PSTRESMMVAL"
+    },
+    {
+      "id": 239,
+      "bank": "BANKIA S.A.",
+      "city": "VALENCIA",
+      "branch": "",
+      "swift_code": "CAHMESMM"
+    },
+    {
+      "id": 256,
+      "bank": "BANKINTER, S.A.",
+      "city": "VALENCIA",
+      "branch": "",
+      "swift_code": "BKBKESMMVAL"
+    },
+    {
+      "id": 306,
+      "bank": "BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA",
+      "city": "VALENCIA",
+      "branch": "(VALENCIA BRANCH)",
+      "swift_code": "GEBAESMMVAL"
+    },
+    {
+      "id": 416,
+      "bank": "BOLSA DE VALENCIA",
+      "city": "VALENCIA",
+      "branch": "",
+      "swift_code": "XVALESV1"
+    },
+    {
+      "id": 466,
+      "bank": "CAIXABANK, S.A.",
+      "city": "VALENCIA",
+      "branch": "",
+      "swift_code": "CAIXESBB666"
+    },
+    {
+      "id": 478,
+      "bank": "CAJA RURAL DE ALGEMESI",
+      "city": "VALENCIA",
+      "branch": "",
+      "swift_code": "BCOEESMM117"
+    },
+    {
+      "id": 490,
+      "bank": "CAJA RURAL DE L'ALCUDIA",
+      "city": "VALENCIA",
+      "branch": "",
+      "swift_code": "BCOEESMM096"
+    },
+    {
+      "id": 631,
+      "bank": "GENERALITAT VALENCIANA",
+      "city": "VALENCIA",
+      "branch": "",
+      "swift_code": "CAVAESV1"
+    },
+    {
+      "id": 658,
+      "bank": "HSBC INTERMEDIARIOS (ESPANA) A.V.,S.A.",
+      "city": "VALENCIA",
+      "branch": "",
+      "swift_code": "HSIEESV1"
+    },
+    {
+      "id": 695,
+      "bank": "ISSUER SOLUTIONS SL",
+      "city": "VALENCIA",
+      "branch": "",
+      "swift_code": "ISOLESVV"
+    },
+    {
+      "id": 771,
+      "bank": "NORDKAPP INVERSIONES SOCIEDAD DE VALORES S.A",
+      "city": "VALENCIA",
+      "branch": "",
+      "swift_code": "NISVESM1"
+    }
+  ],
+  "meta": {
+    "title": "Bancos en Valencia — códigos SWIFT/BIC - Descarga gratuita",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"VALENCIA\" (13 institutions). Contiene 13 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Bancos en Valencia — códigos SWIFT/BIC | ListBase",
+    "seo_description": "Descargar Bancos en Valencia — códigos SWIFT/BIC — 13 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 13 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

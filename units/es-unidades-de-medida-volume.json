@@ -1,0 +1,457 @@
+{
+  "id": "es-unidades-de-medida-volume",
+  "name": "Unidades de medida — categoría 'volume' (44)",
+  "title": "Unidades de medida — categoría 'volume' (44)",
+  "description": "Unidades de medida de la categoría 'volume' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "volume-acre-foot",
+      "categoria": "volume",
+      "nombre": "acres-pies",
+      "abreviatura": "ac ft",
+      "forma_estrecha": "ac ft",
+      "patron": "{0} acres-pies"
+    },
+    {
+      "id": 2,
+      "unit_code": "volume-barrel",
+      "categoria": "volume",
+      "nombre": "barriles",
+      "abreviatura": "bbl",
+      "forma_estrecha": "bbl",
+      "patron": "{0} barriles"
+    },
+    {
+      "id": 3,
+      "unit_code": "volume-bushel",
+      "categoria": "volume",
+      "nombre": "bushels",
+      "abreviatura": "bu",
+      "forma_estrecha": "bu",
+      "patron": "{0} bushels"
+    },
+    {
+      "id": 4,
+      "unit_code": "volume-centiliter",
+      "categoria": "volume",
+      "nombre": "centilitros",
+      "abreviatura": "cl",
+      "forma_estrecha": "cl",
+      "patron": "{0} centilitros"
+    },
+    {
+      "id": 5,
+      "unit_code": "volume-cubic-centimeter",
+      "categoria": "volume",
+      "nombre": "centímetros cúbicos",
+      "abreviatura": "cm³",
+      "forma_estrecha": "cm³",
+      "patron": "{0} centímetros cúbicos"
+    },
+    {
+      "id": 6,
+      "unit_code": "volume-cubic-foot",
+      "categoria": "volume",
+      "nombre": "pies cúbicos",
+      "abreviatura": "ft³",
+      "forma_estrecha": "ft³",
+      "patron": "{0} pies cúbicos"
+    },
+    {
+      "id": 7,
+      "unit_code": "volume-cubic-inch",
+      "categoria": "volume",
+      "nombre": "pulgadas cúbicas",
+      "abreviatura": "in³",
+      "forma_estrecha": "in³",
+      "patron": "{0} pulgadas cúbicas"
+    },
+    {
+      "id": 8,
+      "unit_code": "volume-cubic-kilometer",
+      "categoria": "volume",
+      "nombre": "kilómetros cúbicos",
+      "abreviatura": "km³",
+      "forma_estrecha": "km³",
+      "patron": "{0} kilómetros cúbicos"
+    },
+    {
+      "id": 9,
+      "unit_code": "volume-cubic-meter",
+      "categoria": "volume",
+      "nombre": "metros cúbicos",
+      "abreviatura": "m³",
+      "forma_estrecha": "m³",
+      "patron": "{0} metros cúbicos"
+    },
+    {
+      "id": 10,
+      "unit_code": "volume-cubic-mile",
+      "categoria": "volume",
+      "nombre": "millas cúbicas",
+      "abreviatura": "mi³",
+      "forma_estrecha": "mi³",
+      "patron": "{0} millas cúbicas"
+    },
+    {
+      "id": 11,
+      "unit_code": "volume-cubic-yard",
+      "categoria": "volume",
+      "nombre": "yardas cúbicas",
+      "abreviatura": "yd³",
+      "forma_estrecha": "yd³",
+      "patron": "{0} yardas cúbicas"
+    },
+    {
+      "id": 12,
+      "unit_code": "volume-cup",
+      "categoria": "volume",
+      "nombre": "tazas",
+      "abreviatura": "tza",
+      "forma_estrecha": "tza",
+      "patron": "{0} tazas"
+    },
+    {
+      "id": 13,
+      "unit_code": "volume-cup-imperial",
+      "categoria": "volume",
+      "nombre": "cup Imp.",
+      "abreviatura": "cup Imp.",
+      "forma_estrecha": "cup Imp.",
+      "patron": "{0} cup Imp."
+    },
+    {
+      "id": 14,
+      "unit_code": "volume-cup-jp",
+      "categoria": "volume",
+      "nombre": "cup [JP]",
+      "abreviatura": "cup [JP]",
+      "forma_estrecha": "cup [JP]",
+      "patron": "{0} cup [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "volume-cup-metric",
+      "categoria": "volume",
+      "nombre": "tazas métricas",
+      "abreviatura": "tza m",
+      "forma_estrecha": "tza m",
+      "patron": "{0} tazas métricas"
+    },
+    {
+      "id": 16,
+      "unit_code": "volume-deciliter",
+      "categoria": "volume",
+      "nombre": "decilitros",
+      "abreviatura": "dl",
+      "forma_estrecha": "dl",
+      "patron": "{0} decilitros"
+    },
+    {
+      "id": 17,
+      "unit_code": "volume-dessert-spoon",
+      "categoria": "volume",
+      "nombre": "cucharadas de postre",
+      "abreviatura": "c/p",
+      "forma_estrecha": "c/p",
+      "patron": "{0} cucharadas de postre"
+    },
+    {
+      "id": 18,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "categoria": "volume",
+      "nombre": "cucharadas de postre imperiales",
+      "abreviatura": "dstspn imp.",
+      "forma_estrecha": "dsp imp",
+      "patron": "{0} cucharadas de postre imperiales"
+    },
+    {
+      "id": 19,
+      "unit_code": "volume-dram",
+      "categoria": "volume",
+      "nombre": "dracmas líquidas",
+      "abreviatura": "fl dr",
+      "forma_estrecha": "fl dr",
+      "patron": "{0} dracmas líquidas"
+    },
+    {
+      "id": 20,
+      "unit_code": "volume-drop",
+      "categoria": "volume",
+      "nombre": "gotas",
+      "abreviatura": "gota",
+      "forma_estrecha": "gt",
+      "patron": "{0} gotas"
+    },
+    {
+      "id": 21,
+      "unit_code": "volume-fluid-ounce",
+      "categoria": "volume",
+      "nombre": "onzas líquidas",
+      "abreviatura": "fl oz",
+      "forma_estrecha": "fl oz",
+      "patron": "{0} onzas líquidas"
+    },
+    {
+      "id": 22,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "categoria": "volume",
+      "nombre": "onzas líquidas imperiales",
+      "abreviatura": "fl oz imp.",
+      "forma_estrecha": "fl oz imp",
+      "patron": "{0} onzas líquidas imperiales"
+    },
+    {
+      "id": 23,
+      "unit_code": "volume-fluid-ounce-metric",
+      "categoria": "volume",
+      "nombre": "onzas líquidas métricas",
+      "abreviatura": "fl oz m.",
+      "forma_estrecha": "fl oz m.",
+      "patron": "{0} onzas líquidas métricas"
+    },
+    {
+      "id": 24,
+      "unit_code": "volume-gallon",
+      "categoria": "volume",
+      "nombre": "galones",
+      "abreviatura": "gal",
+      "forma_estrecha": "gal",
+      "patron": "{0} galones"
+    },
+    {
+      "id": 25,
+      "unit_code": "volume-gallon-imperial",
+      "categoria": "volume",
+      "nombre": "galones imperiales",
+      "abreviatura": "gal imp.",
+      "forma_estrecha": "gal imp",
+      "patron": "{0} galones imperiales"
+    },
+    {
+      "id": 26,
+      "unit_code": "volume-hectoliter",
+      "categoria": "volume",
+      "nombre": "hectolitros",
+      "abreviatura": "hl",
+      "forma_estrecha": "hl",
+      "patron": "{0} hectolitros"
+    },
+    {
+      "id": 27,
+      "unit_code": "volume-jigger",
+      "categoria": "volume",
+      "nombre": "vasos medidores",
+      "abreviatura": "medidor",
+      "forma_estrecha": "med",
+      "patron": "{0} vasos medidores"
+    },
+    {
+      "id": 28,
+      "unit_code": "volume-koku",
+      "categoria": "volume",
+      "nombre": "koku [JP]",
+      "abreviatura": "koku [JP]",
+      "forma_estrecha": "koku [JP]",
+      "patron": "{0} koku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "volume-kosaji",
+      "categoria": "volume",
+      "nombre": "kosaji [JP]",
+      "abreviatura": "kosaji [JP]",
+      "forma_estrecha": "kosaji [JP]",
+      "patron": "{0} kosaji [JP]"
+    },
+    {
+      "id": 30,
+      "unit_code": "volume-liter",
+      "categoria": "volume",
+      "nombre": "litros",
+      "abreviatura": "l",
+      "forma_estrecha": "l",
+      "patron": "{0} litros"
+    },
+    {
+      "id": 31,
+      "unit_code": "volume-megaliter",
+      "categoria": "volume",
+      "nombre": "megalitros",
+      "abreviatura": "Ml",
+      "forma_estrecha": "Ml",
+      "patron": "{0} megalitros"
+    },
+    {
+      "id": 32,
+      "unit_code": "volume-milliliter",
+      "categoria": "volume",
+      "nombre": "mililitros",
+      "abreviatura": "ml",
+      "forma_estrecha": "ml",
+      "patron": "{0} mililitros"
+    },
+    {
+      "id": 33,
+      "unit_code": "volume-osaji",
+      "categoria": "volume",
+      "nombre": "osaji [JP]",
+      "abreviatura": "osaji [JP]",
+      "forma_estrecha": "osaji [JP]",
+      "patron": "{0} osaji [JP]"
+    },
+    {
+      "id": 34,
+      "unit_code": "volume-pinch",
+      "categoria": "volume",
+      "nombre": "pizcas",
+      "abreviatura": "pzc",
+      "forma_estrecha": "pzc",
+      "patron": "{0} pizcas"
+    },
+    {
+      "id": 35,
+      "unit_code": "volume-pint",
+      "categoria": "volume",
+      "nombre": "pintas",
+      "abreviatura": "p",
+      "forma_estrecha": "p",
+      "patron": "{0} pintas"
+    },
+    {
+      "id": 36,
+      "unit_code": "volume-pint-imperial",
+      "categoria": "volume",
+      "nombre": "pint Imp.",
+      "abreviatura": "pint Imp.",
+      "forma_estrecha": "pint Imp.",
+      "patron": "{0} pt Imp."
+    },
+    {
+      "id": 37,
+      "unit_code": "volume-pint-metric",
+      "categoria": "volume",
+      "nombre": "pintas métricas",
+      "abreviatura": "mpt",
+      "forma_estrecha": "mpt",
+      "patron": "{0} pintas métricas"
+    },
+    {
+      "id": 38,
+      "unit_code": "volume-quart",
+      "categoria": "volume",
+      "nombre": "cuartos",
+      "abreviatura": "qt",
+      "forma_estrecha": "qt",
+      "patron": "{0} cuartos"
+    },
+    {
+      "id": 39,
+      "unit_code": "volume-quart-imperial",
+      "categoria": "volume",
+      "nombre": "cuartos imperiales",
+      "abreviatura": "qt imp.",
+      "forma_estrecha": "qt imp",
+      "patron": "{0} cuartos imperiales"
+    },
+    {
+      "id": 40,
+      "unit_code": "volume-sai",
+      "categoria": "volume",
+      "nombre": "sai [JP]",
+      "abreviatura": "sai [JP]",
+      "forma_estrecha": "sai [JP]",
+      "patron": "{0} sai [JP]"
+    },
+    {
+      "id": 41,
+      "unit_code": "volume-shaku",
+      "categoria": "volume",
+      "nombre": "shaku [vol, JP]",
+      "abreviatura": "shaku [vol, JP]",
+      "forma_estrecha": "shaku [vol, JP]",
+      "patron": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 42,
+      "unit_code": "volume-tablespoon",
+      "categoria": "volume",
+      "nombre": "cucharadas",
+      "abreviatura": "cda",
+      "forma_estrecha": "cda",
+      "patron": "{0} cucharadas"
+    },
+    {
+      "id": 43,
+      "unit_code": "volume-teaspoon",
+      "categoria": "volume",
+      "nombre": "cucharaditas",
+      "abreviatura": "cdta",
+      "forma_estrecha": "cdta",
+      "patron": "{0} cucharaditas"
+    },
+    {
+      "id": 44,
+      "unit_code": "volume-to-jp",
+      "categoria": "volume",
+      "nombre": "to [JP]",
+      "abreviatura": "to [JP]",
+      "forma_estrecha": "to [JP]",
+      "patron": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'volume' (44) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'volume' de la configuración regional es en CLDR, con nombres en español. Contiene 44 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'volume' (44) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'volume' (44) — 44 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 44 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

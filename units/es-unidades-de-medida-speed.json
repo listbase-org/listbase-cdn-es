@@ -1,0 +1,115 @@
+{
+  "id": "es-unidades-de-medida-speed",
+  "name": "Unidades de medida — categoría 'speed' (6)",
+  "title": "Unidades de medida — categoría 'speed' (6)",
+  "description": "Unidades de medida de la categoría 'speed' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "speed-beaufort",
+      "categoria": "speed",
+      "nombre": "Beaufort",
+      "abreviatura": "Bft",
+      "forma_estrecha": "Bft",
+      "patron": "Beaufort {0}"
+    },
+    {
+      "id": 2,
+      "unit_code": "speed-kilometer-per-hour",
+      "categoria": "speed",
+      "nombre": "kilómetros por hora",
+      "abreviatura": "km/h",
+      "forma_estrecha": "km/h",
+      "patron": "{0} kilómetros por hora"
+    },
+    {
+      "id": 3,
+      "unit_code": "speed-knot",
+      "categoria": "speed",
+      "nombre": "nudos",
+      "abreviatura": "kn",
+      "forma_estrecha": "kn",
+      "patron": "{0} nudos"
+    },
+    {
+      "id": 4,
+      "unit_code": "speed-light-speed",
+      "categoria": "speed",
+      "nombre": "luz",
+      "abreviatura": "luz",
+      "forma_estrecha": "luz",
+      "patron": "{0} luz"
+    },
+    {
+      "id": 5,
+      "unit_code": "speed-meter-per-second",
+      "categoria": "speed",
+      "nombre": "metros por segundo",
+      "abreviatura": "m/s",
+      "forma_estrecha": "m/s",
+      "patron": "{0} metros por segundo"
+    },
+    {
+      "id": 6,
+      "unit_code": "speed-mile-per-hour",
+      "categoria": "speed",
+      "nombre": "millas por hora",
+      "abreviatura": "mi/h",
+      "forma_estrecha": "mi/h",
+      "patron": "{0} millas por hora"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'speed' (6) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'speed' de la configuración regional es en CLDR, con nombres en español. Contiene 6 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'speed' (6) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'speed' (6) — 6 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 6 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

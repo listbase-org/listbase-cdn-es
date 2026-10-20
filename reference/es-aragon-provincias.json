@@ -1,0 +1,104 @@
+{
+  "id": "es-aragon-provincias",
+  "name": "Provincias de Aragón - 3 provincias",
+  "title": "Provincias de Aragón - 3 provincias",
+  "description": "Lista de las 3 demarcaciones provinciales de la comunidad autónoma Aragón (02) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '02'.",
+  "category": "reference",
+  "source": "https://github.com/ByMykel/spanish-cities",
+  "source_url": "https://github.com/ByMykel/spanish-cities",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "nombre_comun",
+      "label": "Nombre Comun",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "code_autonomy",
+      "label": "Code Autonomy",
+      "type": "number"
+    },
+    {
+      "key": "autonomy_nombre",
+      "label": "Autonomy Nombre",
+      "type": "string"
+    },
+    {
+      "key": "autonomy_slug",
+      "label": "Autonomy Slug",
+      "type": "string"
+    },
+    {
+      "key": "flag",
+      "label": "Flag",
+      "type": "string"
+    },
+    {
+      "key": "coat_of_arms",
+      "label": "Coat Of Arms",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "22",
+      "nombre": "Huesca",
+      "nombre_comun": "Huesca",
+      "slug": "huesca",
+      "code_autonomy": "02",
+      "autonomy_nombre": "Aragón",
+      "autonomy_slug": "aragon",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Huesca.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Blas%C3%B3n_de_Uesca.svg"
+    },
+    {
+      "code": "44",
+      "nombre": "Teruel",
+      "nombre_comun": "Teruel",
+      "slug": "teruel",
+      "code_autonomy": "02",
+      "autonomy_nombre": "Aragón",
+      "autonomy_slug": "aragon",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Teruel_%28province%29.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Escudo_de_la_Provincia_de_Teruel.svg"
+    },
+    {
+      "code": "50",
+      "nombre": "Zaragoza",
+      "nombre_comun": "Zaragoza",
+      "slug": "zaragoza",
+      "code_autonomy": "02",
+      "autonomy_nombre": "Aragón",
+      "autonomy_slug": "aragon",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bandera_de_la_provincia_de_Zaragoza.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Escudo_de_la_Provincia_de_Zaragoza.svg"
+    }
+  ],
+  "meta": {
+    "title": "Provincias de Aragón - 3 provincias - Descarga gratuita",
+    "description": "Lista de las 3 demarcaciones provinciales de la comunidad autónoma Aragón (02) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '02'. Contiene 3 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Provincias de Aragón - 3 provincias | ListBase",
+    "seo_description": "Descargar Provincias de Aragón - 3 provincias — 3 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 3 registros / 9 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: https://github.com/ByMykel/spanish-cities"
+    ]
+  }
+}

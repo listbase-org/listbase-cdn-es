@@ -1,0 +1,169 @@
+{
+  "id": "es-unidades-de-medida-pressure",
+  "name": "Unidades de medida — categoría 'pressure' (12)",
+  "title": "Unidades de medida — categoría 'pressure' (12)",
+  "description": "Unidades de medida de la categoría 'pressure' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "pressure-atmosphere",
+      "categoria": "pressure",
+      "nombre": "atmósferas",
+      "abreviatura": "atm",
+      "forma_estrecha": "atm",
+      "patron": "{0} atmósferas"
+    },
+    {
+      "id": 2,
+      "unit_code": "pressure-bar",
+      "categoria": "pressure",
+      "nombre": "bares",
+      "abreviatura": "bar",
+      "forma_estrecha": "bar",
+      "patron": "{0} bares"
+    },
+    {
+      "id": 3,
+      "unit_code": "pressure-gasoline-energy-density",
+      "categoria": "pressure",
+      "nombre": "gas E",
+      "abreviatura": "gas E",
+      "forma_estrecha": "gas E",
+      "patron": "{0} gas E"
+    },
+    {
+      "id": 4,
+      "unit_code": "pressure-hectopascal",
+      "categoria": "pressure",
+      "nombre": "hectopascales",
+      "abreviatura": "hPa",
+      "forma_estrecha": "hPa",
+      "patron": "{0} hectopascales"
+    },
+    {
+      "id": 5,
+      "unit_code": "pressure-inch-ofhg",
+      "categoria": "pressure",
+      "nombre": "pulgadas de mercurio",
+      "abreviatura": "inHg",
+      "forma_estrecha": "inHg",
+      "patron": "{0} pulgadas de mercurio"
+    },
+    {
+      "id": 6,
+      "unit_code": "pressure-kilopascal",
+      "categoria": "pressure",
+      "nombre": "kilopascales",
+      "abreviatura": "kPa",
+      "forma_estrecha": "kPa",
+      "patron": "{0} kilopascales"
+    },
+    {
+      "id": 7,
+      "unit_code": "pressure-megapascal",
+      "categoria": "pressure",
+      "nombre": "megapascales",
+      "abreviatura": "MPa",
+      "forma_estrecha": "MPa",
+      "patron": "{0} megapascales"
+    },
+    {
+      "id": 8,
+      "unit_code": "pressure-millibar",
+      "categoria": "pressure",
+      "nombre": "milibares",
+      "abreviatura": "mbar",
+      "forma_estrecha": "mbar",
+      "patron": "{0} milibares"
+    },
+    {
+      "id": 9,
+      "unit_code": "pressure-millimeter-ofhg",
+      "categoria": "pressure",
+      "nombre": "milímetros de mercurio",
+      "abreviatura": "mmHg",
+      "forma_estrecha": "mmHg",
+      "patron": "{0} milímetros de mercurio"
+    },
+    {
+      "id": 10,
+      "unit_code": "pressure-ofhg",
+      "categoria": "pressure",
+      "nombre": "de mercurio",
+      "abreviatura": "de Hg",
+      "forma_estrecha": "de Hg",
+      "patron": "{0} de mercurio"
+    },
+    {
+      "id": 11,
+      "unit_code": "pressure-pascal",
+      "categoria": "pressure",
+      "nombre": "pascales",
+      "abreviatura": "Pa",
+      "forma_estrecha": "Pa",
+      "patron": "{0} pascales"
+    },
+    {
+      "id": 12,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "categoria": "pressure",
+      "nombre": "libras por pulgada cuadrada",
+      "abreviatura": "psi",
+      "forma_estrecha": "psi",
+      "patron": "{0} libras por pulgada cuadrada"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'pressure' (12) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'pressure' de la configuración regional es en CLDR, con nombres en español. Contiene 12 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'pressure' (12) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'pressure' (12) — 12 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 12 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

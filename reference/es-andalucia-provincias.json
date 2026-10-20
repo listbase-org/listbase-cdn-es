@@ -1,0 +1,159 @@
+{
+  "id": "es-andalucia-provincias",
+  "name": "Provincias de Andalucía - 8 provincias",
+  "title": "Provincias de Andalucía - 8 provincias",
+  "description": "Lista de las 8 demarcaciones provinciales de la comunidad autónoma Andalucía (01) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '01'.",
+  "category": "reference",
+  "source": "https://github.com/ByMykel/spanish-cities",
+  "source_url": "https://github.com/ByMykel/spanish-cities",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "nombre_comun",
+      "label": "Nombre Comun",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "code_autonomy",
+      "label": "Code Autonomy",
+      "type": "number"
+    },
+    {
+      "key": "autonomy_nombre",
+      "label": "Autonomy Nombre",
+      "type": "string"
+    },
+    {
+      "key": "autonomy_slug",
+      "label": "Autonomy Slug",
+      "type": "string"
+    },
+    {
+      "key": "flag",
+      "label": "Flag",
+      "type": "string"
+    },
+    {
+      "key": "coat_of_arms",
+      "label": "Coat Of Arms",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "04",
+      "nombre": "Almería",
+      "nombre_comun": "Almería",
+      "slug": "almeria",
+      "code_autonomy": "01",
+      "autonomy_nombre": "Andalucía",
+      "autonomy_slug": "andalucia",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_Almer%C3%ADa_Province.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/0/02/Escudo_de_la_Provincia_de_Almer%C3%ADa.svg"
+    },
+    {
+      "code": "11",
+      "nombre": "Cádiz",
+      "nombre_comun": "Cádiz",
+      "slug": "cadiz",
+      "code_autonomy": "01",
+      "autonomy_nombre": "Andalucía",
+      "autonomy_slug": "andalucia",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Flag_C%C3%A1diz_Province.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Escudo_de_la_provincia_de_C%C3%A1diz.svg"
+    },
+    {
+      "code": "14",
+      "nombre": "Córdoba",
+      "nombre_comun": "Córdoba",
+      "slug": "cordoba",
+      "code_autonomy": "01",
+      "autonomy_nombre": "Andalucía",
+      "autonomy_slug": "andalucia",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/6/60/Provincia_de_C%C3%B3rdoba_-_Bandera.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Provincia_de_C%C3%B3rdoba_-_Escudo.svg"
+    },
+    {
+      "code": "18",
+      "nombre": "Granada",
+      "nombre_comun": "Granada",
+      "slug": "granada",
+      "code_autonomy": "01",
+      "autonomy_nombre": "Andalucía",
+      "autonomy_slug": "andalucia",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bandera_de_la_provincia_de_Granada_%28Espa%C3%B1a%29.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Escudo_de_la_provincia_de_Granada_%28Espa%C3%B1a%29.svg"
+    },
+    {
+      "code": "21",
+      "nombre": "Huelva",
+      "nombre_comun": "Huelva",
+      "slug": "huelva",
+      "code_autonomy": "01",
+      "autonomy_nombre": "Andalucía",
+      "autonomy_slug": "andalucia",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bandera_de_la_Provincia_De_Huelva.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/8/80/Escudo_Provincia_de_Huelva.svg"
+    },
+    {
+      "code": "23",
+      "nombre": "Jaén",
+      "nombre_comun": "Jaén",
+      "slug": "jaen",
+      "code_autonomy": "01",
+      "autonomy_nombre": "Andalucía",
+      "autonomy_slug": "andalucia",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bandera_de_la_provincia_de_Ja%C3%A9n.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Escudo_de_la_provincia_de_Ja%C3%A9n.svg"
+    },
+    {
+      "code": "29",
+      "nombre": "Málaga",
+      "nombre_comun": "Málaga",
+      "slug": "malaga",
+      "code_autonomy": "01",
+      "autonomy_nombre": "Andalucía",
+      "autonomy_slug": "andalucia",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Flag_M%C3%A1laga_Province.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Escudo_de_la_provincia_de_M%C3%A1laga.svg"
+    },
+    {
+      "code": "41",
+      "nombre": "Sevilla",
+      "nombre_comun": "Sevilla",
+      "slug": "sevilla",
+      "code_autonomy": "01",
+      "autonomy_nombre": "Andalucía",
+      "autonomy_slug": "andalucia",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Diputacion_de_Sevilla_Spain.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Escudo_de_la_provincia_de_Sevilla.svg"
+    }
+  ],
+  "meta": {
+    "title": "Provincias de Andalucía - 8 provincias - Descarga gratuita",
+    "description": "Lista de las 8 demarcaciones provinciales de la comunidad autónoma Andalucía (01) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '01'. Contiene 8 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Provincias de Andalucía - 8 provincias | ListBase",
+    "seo_description": "Descargar Provincias de Andalucía - 8 provincias — 8 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 8 registros / 9 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: https://github.com/ByMykel/spanish-cities"
+    ]
+  }
+}

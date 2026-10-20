@@ -1,0 +1,192 @@
+{
+  "id": "es-melilla-codigos-postales",
+  "name": "Códigos Postales de Melilla - 6 códigos postales",
+  "title": "Códigos Postales de Melilla - 6 códigos postales",
+  "description": "Códigos postales de la provincia de Melilla (código INE 52) según el Callejero del Censo Electoral del INE. 6 pares CP↔municipio. Útil para autocompletado de direcciones, validación de formularios y SEO local en consultas tipo \"código postal melilla\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "codigo_postal",
+      "label": "Codigo Postal",
+      "type": "number"
+    },
+    {
+      "key": "municipio_id",
+      "label": "Municipio Id",
+      "type": "number"
+    },
+    {
+      "key": "municipio_id_full",
+      "label": "Municipio Id Full",
+      "type": "number"
+    },
+    {
+      "key": "municipio_nombre",
+      "label": "Municipio Nombre",
+      "type": "string"
+    },
+    {
+      "key": "municipio_nombre_comun",
+      "label": "Municipio Nombre Comun",
+      "type": "string"
+    },
+    {
+      "key": "municipio_slug",
+      "label": "Municipio Slug",
+      "type": "string"
+    },
+    {
+      "key": "codigo_provincia",
+      "label": "Codigo Provincia",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nombre",
+      "label": "Provincia Nombre",
+      "type": "string"
+    },
+    {
+      "key": "provincia_nombre_comun",
+      "label": "Provincia Nombre Comun",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "codigo_autonomy",
+      "label": "Codigo Autonomy",
+      "type": "number"
+    },
+    {
+      "key": "autonomy_nombre",
+      "label": "Autonomy Nombre",
+      "type": "string"
+    },
+    {
+      "key": "autonomy_slug",
+      "label": "Autonomy Slug",
+      "type": "string"
+    },
+    {
+      "key": "is_anomalous_cp",
+      "label": "Is Anomalous Cp",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "codigo_postal": "52001",
+      "municipio_id": "52001",
+      "municipio_id_full": "520018",
+      "municipio_nombre": "Melilla",
+      "municipio_nombre_comun": "Melilla",
+      "municipio_slug": "melilla",
+      "codigo_provincia": "52",
+      "provincia_nombre": "Melilla",
+      "provincia_nombre_comun": "Melilla",
+      "provincia_slug": "melilla",
+      "codigo_autonomy": "19",
+      "autonomy_nombre": "Melilla",
+      "autonomy_slug": "melilla",
+      "is_anomalous_cp": false
+    },
+    {
+      "codigo_postal": "52002",
+      "municipio_id": "52001",
+      "municipio_id_full": "520018",
+      "municipio_nombre": "Melilla",
+      "municipio_nombre_comun": "Melilla",
+      "municipio_slug": "melilla",
+      "codigo_provincia": "52",
+      "provincia_nombre": "Melilla",
+      "provincia_nombre_comun": "Melilla",
+      "provincia_slug": "melilla",
+      "codigo_autonomy": "19",
+      "autonomy_nombre": "Melilla",
+      "autonomy_slug": "melilla",
+      "is_anomalous_cp": false
+    },
+    {
+      "codigo_postal": "52003",
+      "municipio_id": "52001",
+      "municipio_id_full": "520018",
+      "municipio_nombre": "Melilla",
+      "municipio_nombre_comun": "Melilla",
+      "municipio_slug": "melilla",
+      "codigo_provincia": "52",
+      "provincia_nombre": "Melilla",
+      "provincia_nombre_comun": "Melilla",
+      "provincia_slug": "melilla",
+      "codigo_autonomy": "19",
+      "autonomy_nombre": "Melilla",
+      "autonomy_slug": "melilla",
+      "is_anomalous_cp": false
+    },
+    {
+      "codigo_postal": "52004",
+      "municipio_id": "52001",
+      "municipio_id_full": "520018",
+      "municipio_nombre": "Melilla",
+      "municipio_nombre_comun": "Melilla",
+      "municipio_slug": "melilla",
+      "codigo_provincia": "52",
+      "provincia_nombre": "Melilla",
+      "provincia_nombre_comun": "Melilla",
+      "provincia_slug": "melilla",
+      "codigo_autonomy": "19",
+      "autonomy_nombre": "Melilla",
+      "autonomy_slug": "melilla",
+      "is_anomalous_cp": false
+    },
+    {
+      "codigo_postal": "52005",
+      "municipio_id": "52001",
+      "municipio_id_full": "520018",
+      "municipio_nombre": "Melilla",
+      "municipio_nombre_comun": "Melilla",
+      "municipio_slug": "melilla",
+      "codigo_provincia": "52",
+      "provincia_nombre": "Melilla",
+      "provincia_nombre_comun": "Melilla",
+      "provincia_slug": "melilla",
+      "codigo_autonomy": "19",
+      "autonomy_nombre": "Melilla",
+      "autonomy_slug": "melilla",
+      "is_anomalous_cp": false
+    },
+    {
+      "codigo_postal": "52006",
+      "municipio_id": "52001",
+      "municipio_id_full": "520018",
+      "municipio_nombre": "Melilla",
+      "municipio_nombre_comun": "Melilla",
+      "municipio_slug": "melilla",
+      "codigo_provincia": "52",
+      "provincia_nombre": "Melilla",
+      "provincia_nombre_comun": "Melilla",
+      "provincia_slug": "melilla",
+      "codigo_autonomy": "19",
+      "autonomy_nombre": "Melilla",
+      "autonomy_slug": "melilla",
+      "is_anomalous_cp": false
+    }
+  ],
+  "meta": {
+    "title": "Códigos Postales de Melilla - 6 códigos postales - Descarga gratuita",
+    "description": "Códigos postales de la provincia de Melilla (código INE 52) según el Callejero del Censo Electoral del INE. 6 pares CP↔municipio. Útil para autocompletado de direcciones, validación de formularios y SEO local en consultas tipo \"código postal melilla\". Contiene 6 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Códigos Postales de Melilla - 6 códigos postales | ListBase",
+    "seo_description": "Descargar Códigos Postales de Melilla - 6 códigos postales — 6 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 6 registros / 14 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

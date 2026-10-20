@@ -1,0 +1,79 @@
+{
+  "id": "es-unidades-de-medida-torque",
+  "name": "Unidades de medida — categoría 'torque' (2)",
+  "title": "Unidades de medida — categoría 'torque' (2)",
+  "description": "Unidades de medida de la categoría 'torque' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "torque-newton-meter",
+      "categoria": "torque",
+      "nombre": "newton metros",
+      "abreviatura": "Nm",
+      "forma_estrecha": "Nm",
+      "patron": "{0} newton metros"
+    },
+    {
+      "id": 2,
+      "unit_code": "torque-pound-force-foot",
+      "categoria": "torque",
+      "nombre": "libras pies",
+      "abreviatura": "lbf ft",
+      "forma_estrecha": "lbf ft",
+      "patron": "{0} libras pies"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'torque' (2) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'torque' de la configuración regional es en CLDR, con nombres en español. Contiene 2 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'torque' (2) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'torque' (2) — 2 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 2 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

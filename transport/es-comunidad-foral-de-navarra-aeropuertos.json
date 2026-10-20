@@ -1,0 +1,301 @@
+{
+  "id": "es-comunidad-foral-de-navarra-aeropuertos",
+  "name": "Aeropuertos de Comunidad Foral de Navarra",
+  "title": "Aeropuertos de Comunidad Foral de Navarra",
+  "description": "Instalaciones aeronauticas situadas en Comunidad Foral de Navarra (ES-NC) segun OurAirports: 10 registros (5 small_airport, 3 closed, 1 heliport, 1 medium_airport). La particion usa la columna iso_region propia de la fuente; no se ha empleado geometria, geocodificacion inversa ni ningun cruce externo. Incluye codigos ICAO/IATA, coordenadas WGS84, elevacion, municipio y servicio regular.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "comunidad_autonoma",
+      "label": "Comunidad Autonoma",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ident": "ES-0019",
+      "name": "Campo de Aviación de Ablitas",
+      "type": "small_airport",
+      "latitude_deg": "42.003278",
+      "longitude_deg": "-1.620316",
+      "elevation_ft": "324",
+      "iso_country": "ES",
+      "iso_region": "ES-NC",
+      "comunidad_autonoma": "Navarra",
+      "municipality": "",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LETU",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://es.wikipedia.org/wiki/Aer%C3%B3dromo_Militar_de_Ablitas"
+    },
+    {
+      "ident": "ES-0032",
+      "name": "Aerodromo de Monteplano",
+      "type": "closed",
+      "latitude_deg": "42.493953",
+      "longitude_deg": "-1.700802",
+      "elevation_ft": "",
+      "iso_country": "ES",
+      "iso_region": "ES-NC",
+      "comunidad_autonoma": "Navarra",
+      "municipality": "Tafalla",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0038",
+      "name": "Berbinzana",
+      "type": "closed",
+      "latitude_deg": "42.5225",
+      "longitude_deg": "-1.803889",
+      "elevation_ft": "",
+      "iso_country": "ES",
+      "iso_region": "ES-NC",
+      "comunidad_autonoma": "Navarra",
+      "municipality": "",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0095",
+      "name": "Aeródromo de Tudela",
+      "type": "small_airport",
+      "latitude_deg": "42.109262",
+      "longitude_deg": "-1.686976",
+      "elevation_ft": "778",
+      "iso_country": "ES",
+      "iso_region": "ES-NC",
+      "comunidad_autonoma": "Navarra",
+      "municipality": "",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0102",
+      "name": "Aerodromo de Sesma",
+      "type": "small_airport",
+      "latitude_deg": "42.425252",
+      "longitude_deg": "-2.027204",
+      "elevation_ft": "1476",
+      "iso_country": "ES",
+      "iso_region": "ES-NC",
+      "comunidad_autonoma": "Navarra",
+      "municipality": "Sesma",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0105",
+      "name": "Lumbier Airfield",
+      "type": "small_airport",
+      "latitude_deg": "42.664762",
+      "longitude_deg": "-1.304036",
+      "elevation_ft": "1575",
+      "iso_country": "ES",
+      "iso_region": "ES-NC",
+      "comunidad_autonoma": "Navarra",
+      "municipality": "Lumbier",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LEUM",
+      "local_code": "",
+      "home_link": "http://www.pyrineum.com",
+      "wikipedia_link": "https://eu.wikipedia.org/wiki/Irunberriko_hegaldi_zentroa"
+    },
+    {
+      "ident": "ES-0153",
+      "name": "Ororbia Airfield",
+      "type": "small_airport",
+      "latitude_deg": "42.822214",
+      "longitude_deg": "-1.735109",
+      "elevation_ft": "1345",
+      "iso_country": "ES",
+      "iso_region": "ES-NC",
+      "comunidad_autonoma": "Navarra",
+      "municipality": "Ororbia",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0348",
+      "name": "Reina Sofía Hospital Heliport",
+      "type": "heliport",
+      "latitude_deg": "42.040262",
+      "longitude_deg": "-1.625955",
+      "elevation_ft": "1030",
+      "iso_country": "ES",
+      "iso_region": "ES-NC",
+      "comunidad_autonoma": "Navarra",
+      "municipality": "Tudela,",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0364",
+      "name": "Aeródromo de Sangüesa",
+      "type": "closed",
+      "latitude_deg": "42.56736",
+      "longitude_deg": "-1.2889",
+      "elevation_ft": "1297",
+      "iso_country": "ES",
+      "iso_region": "ES-NC",
+      "comunidad_autonoma": "Navarra",
+      "municipality": "Sangüesa",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "LEPP",
+      "name": "Pamplona Airport",
+      "type": "medium_airport",
+      "latitude_deg": "42.77",
+      "longitude_deg": "-1.64633",
+      "elevation_ft": "1504",
+      "iso_country": "ES",
+      "iso_region": "ES-NC",
+      "comunidad_autonoma": "Navarra",
+      "municipality": "Pamplona",
+      "scheduled_service": "yes",
+      "icao_code": "LEPP",
+      "iata_code": "PNA",
+      "gps_code": "LEPP",
+      "local_code": "",
+      "home_link": "https://www.aena.es/en/pamplona.html",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Pamplona_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Aeropuertos de Comunidad Foral de Navarra - Descarga gratuita",
+    "description": "Instalaciones aeronauticas situadas en Comunidad Foral de Navarra (ES-NC) segun OurAirports: 10 registros (5 small_airport, 3 closed, 1 heliport, 1 medium_airport). La particion usa la columna iso_region propia de la fuente; no se ha empleado geometria, geocodificacion inversa ni ningun cruce externo. Incluye codigos ICAO/IATA, coordenadas WGS84, elevacion, municipio y servicio regular. Contiene 10 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Aeropuertos de Comunidad Foral de Navarra | ListBase",
+    "seo_description": "Descargar Aeropuertos de Comunidad Foral de Navarra — 10 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 10 registros / 17 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

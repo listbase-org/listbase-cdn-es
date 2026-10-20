@@ -1,0 +1,126 @@
+{
+  "id": "es-castilla-la-mancha-provincias",
+  "name": "Provincias de Castilla-La Mancha - 5 provincias",
+  "title": "Provincias de Castilla-La Mancha - 5 provincias",
+  "description": "Lista de las 5 demarcaciones provinciales de la comunidad autónoma Castilla-La Mancha (08) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '08'.",
+  "category": "reference",
+  "source": "https://github.com/ByMykel/spanish-cities",
+  "source_url": "https://github.com/ByMykel/spanish-cities",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "nombre_comun",
+      "label": "Nombre Comun",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "code_autonomy",
+      "label": "Code Autonomy",
+      "type": "number"
+    },
+    {
+      "key": "autonomy_nombre",
+      "label": "Autonomy Nombre",
+      "type": "string"
+    },
+    {
+      "key": "autonomy_slug",
+      "label": "Autonomy Slug",
+      "type": "string"
+    },
+    {
+      "key": "flag",
+      "label": "Flag",
+      "type": "string"
+    },
+    {
+      "key": "coat_of_arms",
+      "label": "Coat Of Arms",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "02",
+      "nombre": "Albacete",
+      "nombre_comun": "Albacete",
+      "slug": "albacete",
+      "code_autonomy": "08",
+      "autonomy_nombre": "Castilla-La Mancha",
+      "autonomy_slug": "castilla-la-mancha",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bandera_provincia_Albacete.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/1/18/Escudo_provincia_de_Albacete.svg"
+    },
+    {
+      "code": "13",
+      "nombre": "Ciudad Real",
+      "nombre_comun": "Ciudad Real",
+      "slug": "ciudad-real",
+      "code_autonomy": "08",
+      "autonomy_nombre": "Castilla-La Mancha",
+      "autonomy_slug": "castilla-la-mancha",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/3/37/Flag_Ciudad_Real_Province.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Escudo_de_la_provincia_de_Ciudad_Real.svg"
+    },
+    {
+      "code": "16",
+      "nombre": "Cuenca",
+      "nombre_comun": "Cuenca",
+      "slug": "cuenca",
+      "code_autonomy": "08",
+      "autonomy_nombre": "Castilla-La Mancha",
+      "autonomy_slug": "castilla-la-mancha",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_Cuenca_Province.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Escudo_de_la_Provincia_de_Cuenca.svg"
+    },
+    {
+      "code": "19",
+      "nombre": "Guadalajara",
+      "nombre_comun": "Guadalajara",
+      "slug": "guadalajara",
+      "code_autonomy": "08",
+      "autonomy_nombre": "Castilla-La Mancha",
+      "autonomy_slug": "castilla-la-mancha",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Flag_Guadalajara_Province.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Escudo_de_la_provincia_de_Guadalajara.svg"
+    },
+    {
+      "code": "45",
+      "nombre": "Toledo",
+      "nombre_comun": "Toledo",
+      "slug": "toledo",
+      "code_autonomy": "08",
+      "autonomy_nombre": "Castilla-La Mancha",
+      "autonomy_slug": "castilla-la-mancha",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bandera_de_la_provincia_de_Toledo.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/0/00/Escudo_de_la_provincia_de_Toledo.svg"
+    }
+  ],
+  "meta": {
+    "title": "Provincias de Castilla-La Mancha - 5 provincias - Descarga gratuita",
+    "description": "Lista de las 5 demarcaciones provinciales de la comunidad autónoma Castilla-La Mancha (08) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '08'. Contiene 5 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Provincias de Castilla-La Mancha - 5 provincias | ListBase",
+    "seo_description": "Descargar Provincias de Castilla-La Mancha - 5 provincias — 5 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 5 registros / 9 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: https://github.com/ByMykel/spanish-cities"
+    ]
+  }
+}

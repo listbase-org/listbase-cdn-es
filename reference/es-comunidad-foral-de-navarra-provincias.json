@@ -1,0 +1,82 @@
+{
+  "id": "es-comunidad-foral-de-navarra-provincias",
+  "name": "Provincias de Comunidad Foral de Navarra - 1 provincia",
+  "title": "Provincias de Comunidad Foral de Navarra - 1 provincia",
+  "description": "Lista de las 1 demarcaciones provinciales de la comunidad autónoma Comunidad Foral de Navarra (15) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '15'.",
+  "category": "reference",
+  "source": "https://github.com/ByMykel/spanish-cities",
+  "source_url": "https://github.com/ByMykel/spanish-cities",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "nombre_comun",
+      "label": "Nombre Comun",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "code_autonomy",
+      "label": "Code Autonomy",
+      "type": "number"
+    },
+    {
+      "key": "autonomy_nombre",
+      "label": "Autonomy Nombre",
+      "type": "string"
+    },
+    {
+      "key": "autonomy_slug",
+      "label": "Autonomy Slug",
+      "type": "string"
+    },
+    {
+      "key": "flag",
+      "label": "Flag",
+      "type": "string"
+    },
+    {
+      "key": "coat_of_arms",
+      "label": "Coat Of Arms",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "31",
+      "nombre": "Navarra",
+      "nombre_comun": "Navarra",
+      "slug": "navarra",
+      "code_autonomy": "15",
+      "autonomy_nombre": "Comunidad Foral de Navarra",
+      "autonomy_slug": "comunidad-foral-de-navarra",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bandera_de_Navarra.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Escudo_de_Navarra_%28oficial%29.svg"
+    }
+  ],
+  "meta": {
+    "title": "Provincias de Comunidad Foral de Navarra - 1 provincia - Descarga gratuita",
+    "description": "Lista de las 1 demarcaciones provinciales de la comunidad autónoma Comunidad Foral de Navarra (15) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '15'. Contiene 1 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Provincias de Comunidad Foral de Navarra - 1 provincia | ListBase",
+    "seo_description": "Descargar Provincias de Comunidad Foral de Navarra - 1 provincia — 1 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 1 registros / 9 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: https://github.com/ByMykel/spanish-cities"
+    ]
+  }
+}

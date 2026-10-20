@@ -1,0 +1,1540 @@
+{
+  "id": "es-frecuencias-aeronauticas",
+  "name": "Frecuencias aeronauticas de Espana",
+  "title": "Frecuencias aeronauticas de Espana",
+  "description": "Frecuencias de radio (249 registros) asociadas a las instalaciones aeronauticas espanolas de OurAirports, unidas por airport_ident. Incluye el tipo de servicio (TWR, GND, APP, ATIS, AFIS, ...), la descripcion textual de la fuente y la frecuencia en MHz.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 249,
+  "columns": [
+    {
+      "key": "airport_ident",
+      "label": "Airport Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "frequency_mhz",
+      "label": "Frequency Mhz",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "airport_ident": "ES-0001",
+      "type": "APP",
+      "description": "Sevilla APP",
+      "frequency_mhz": "128.5"
+    },
+    {
+      "airport_ident": "ES-0001",
+      "type": "RDO",
+      "description": "Trebujena Radio (Blind transmissions only)",
+      "frequency_mhz": "123.325"
+    },
+    {
+      "airport_ident": "ES-0001",
+      "type": "TWR",
+      "description": "Jerez Tower",
+      "frequency_mhz": "118.55"
+    },
+    {
+      "airport_ident": "ES-0002",
+      "type": "CTAF",
+      "description": "Vinaròs Radio",
+      "frequency_mhz": "130.125"
+    },
+    {
+      "airport_ident": "ES-0010",
+      "type": "CTAF",
+      "description": "",
+      "frequency_mhz": "129.85"
+    },
+    {
+      "airport_ident": "ES-0012",
+      "type": "RADIO",
+      "description": "",
+      "frequency_mhz": "130.125"
+    },
+    {
+      "airport_ident": "ES-0020",
+      "type": "AutoInfo",
+      "description": "",
+      "frequency_mhz": "130.125"
+    },
+    {
+      "airport_ident": "ES-0024",
+      "type": "info",
+      "description": "",
+      "frequency_mhz": "130.125"
+    },
+    {
+      "airport_ident": "ES-0069",
+      "type": "TWR",
+      "description": "Marugán",
+      "frequency_mhz": "123.5"
+    },
+    {
+      "airport_ident": "ES-0098",
+      "type": "Banda Aèria",
+      "description": "",
+      "frequency_mhz": "130.125"
+    },
+    {
+      "airport_ident": "ES-0111",
+      "type": "VHF",
+      "description": "",
+      "frequency_mhz": "131.125"
+    },
+    {
+      "airport_ident": "ES-0123",
+      "type": "auto informacion",
+      "description": "",
+      "frequency_mhz": "130.125"
+    },
+    {
+      "airport_ident": "ES-0132",
+      "type": "CTAF",
+      "description": "",
+      "frequency_mhz": "130.125"
+    },
+    {
+      "airport_ident": "ES-0148",
+      "type": "VHF",
+      "description": "",
+      "frequency_mhz": "131.125"
+    },
+    {
+      "airport_ident": "ES-0158",
+      "type": "CTAF",
+      "description": "Olocau Radio",
+      "frequency_mhz": "130.125"
+    },
+    {
+      "airport_ident": "ES-0162",
+      "type": "Info",
+      "description": "",
+      "frequency_mhz": "129.975"
+    },
+    {
+      "airport_ident": "ES-0167",
+      "type": "CTAF",
+      "description": "La Llosa radio",
+      "frequency_mhz": "130.1"
+    },
+    {
+      "airport_ident": "ES-0175",
+      "type": "RADIO",
+      "description": "",
+      "frequency_mhz": "135.125"
+    },
+    {
+      "airport_ident": "ES-0178",
+      "type": "VHF",
+      "description": "",
+      "frequency_mhz": "130.125"
+    },
+    {
+      "airport_ident": "ES-0219",
+      "type": "VFR",
+      "description": "",
+      "frequency_mhz": "129.975"
+    },
+    {
+      "airport_ident": "ES-0219",
+      "type": "VFR",
+      "description": "",
+      "frequency_mhz": "129.975"
+    },
+    {
+      "airport_ident": "ES-0263",
+      "type": "A/A",
+      "description": "Sierra Morena",
+      "frequency_mhz": "123.5"
+    },
+    {
+      "airport_ident": "GCFV",
+      "type": "APP",
+      "description": "CANARIAS APP",
+      "frequency_mhz": "129.3"
+    },
+    {
+      "airport_ident": "GCFV",
+      "type": "ATIS",
+      "description": "ATIS",
+      "frequency_mhz": "118.65"
+    },
+    {
+      "airport_ident": "GCFV",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "GCFV",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.5"
+    },
+    {
+      "airport_ident": "GCGM",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "GCGM",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.4"
+    },
+    {
+      "airport_ident": "GCHI",
+      "type": "A/D",
+      "description": "CANARIAS APP",
+      "frequency_mhz": "126.1"
+    },
+    {
+      "airport_ident": "GCHI",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.6"
+    },
+    {
+      "airport_ident": "GCHI",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.1"
+    },
+    {
+      "airport_ident": "GCLA",
+      "type": "APP",
+      "description": "CANARIAS APP",
+      "frequency_mhz": "126.1"
+    },
+    {
+      "airport_ident": "GCLA",
+      "type": "ATIS",
+      "description": "INFO",
+      "frequency_mhz": "118.6"
+    },
+    {
+      "airport_ident": "GCLA",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.8"
+    },
+    {
+      "airport_ident": "GCLA",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.9"
+    },
+    {
+      "airport_ident": "GCLP",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "120.9"
+    },
+    {
+      "airport_ident": "GCLP",
+      "type": "ATIS",
+      "description": "ATIS",
+      "frequency_mhz": "118.6"
+    },
+    {
+      "airport_ident": "GCLP",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "GCLP",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.3"
+    },
+    {
+      "airport_ident": "GCRR",
+      "type": "APP",
+      "description": "CANARIAS APP",
+      "frequency_mhz": "129.3"
+    },
+    {
+      "airport_ident": "GCRR",
+      "type": "ATIS",
+      "description": "ATIS",
+      "frequency_mhz": "118.625"
+    },
+    {
+      "airport_ident": "GCRR",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.8"
+    },
+    {
+      "airport_ident": "GCRR",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "120.7"
+    },
+    {
+      "airport_ident": "GCTS",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "120.3"
+    },
+    {
+      "airport_ident": "GCTS",
+      "type": "ATIS",
+      "description": "ATIS",
+      "frequency_mhz": "118.675"
+    },
+    {
+      "airport_ident": "GCTS",
+      "type": "DLV",
+      "description": "",
+      "frequency_mhz": "121.75"
+    },
+    {
+      "airport_ident": "GCTS",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.9"
+    },
+    {
+      "airport_ident": "GCTS",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "119"
+    },
+    {
+      "airport_ident": "GCXO",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "124.8"
+    },
+    {
+      "airport_ident": "GCXO",
+      "type": "APP",
+      "description": "App secondary",
+      "frequency_mhz": "128.85"
+    },
+    {
+      "airport_ident": "GCXO",
+      "type": "ATIS",
+      "description": "ATIS",
+      "frequency_mhz": "118.575"
+    },
+    {
+      "airport_ident": "GCXO",
+      "type": "Emer",
+      "description": "Emergency airport",
+      "frequency_mhz": "243"
+    },
+    {
+      "airport_ident": "GCXO",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "GCXO",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.7"
+    },
+    {
+      "airport_ident": "GCXO",
+      "type": "TWR",
+      "description": "Local Mil",
+      "frequency_mhz": "257.8"
+    },
+    {
+      "airport_ident": "GECE",
+      "type": "AWOS",
+      "description": "",
+      "frequency_mhz": "122.5"
+    },
+    {
+      "airport_ident": "GECE",
+      "type": "CTAF",
+      "description": "",
+      "frequency_mhz": "123.235"
+    },
+    {
+      "airport_ident": "GEML",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "GEML",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.5"
+    },
+    {
+      "airport_ident": "LEAB",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "118.725"
+    },
+    {
+      "airport_ident": "LEAB",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.8"
+    },
+    {
+      "airport_ident": "LEAB",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "122.1"
+    },
+    {
+      "airport_ident": "LEAL",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "118.8"
+    },
+    {
+      "airport_ident": "LEAL",
+      "type": "ATIS",
+      "description": "ATIS",
+      "frequency_mhz": "113.8"
+    },
+    {
+      "airport_ident": "LEAL",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "LEAL",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.15"
+    },
+    {
+      "airport_ident": "LEAM",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "118.35"
+    },
+    {
+      "airport_ident": "LEAM",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "LEAM",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.35"
+    },
+    {
+      "airport_ident": "LEAS",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "118.15"
+    },
+    {
+      "airport_ident": "LEAS",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "LEAS",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.15"
+    },
+    {
+      "airport_ident": "LEAX",
+      "type": "CTAF",
+      "description": "Axarquia Traffic",
+      "frequency_mhz": "123.5"
+    },
+    {
+      "airport_ident": "LEBA",
+      "type": "CTAF",
+      "description": "CTAF",
+      "frequency_mhz": "118.3"
+    },
+    {
+      "airport_ident": "LEBB",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "120.7"
+    },
+    {
+      "airport_ident": "LEBB",
+      "type": "ATIS",
+      "description": "ATIS",
+      "frequency_mhz": "118.825"
+    },
+    {
+      "airport_ident": "LEBB",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "LEBB",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.5"
+    },
+    {
+      "airport_ident": "LEBE",
+      "type": "INFO",
+      "description": "Beas De Segura Information",
+      "frequency_mhz": "123.5"
+    },
+    {
+      "airport_ident": "LEBG",
+      "type": "AFIS",
+      "description": "Burgos Information",
+      "frequency_mhz": "125.425"
+    },
+    {
+      "airport_ident": "LEBG",
+      "type": "UNIC",
+      "description": "UNIC",
+      "frequency_mhz": "122.4"
+    },
+    {
+      "airport_ident": "LEBL",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "119.1"
+    },
+    {
+      "airport_ident": "LEBL",
+      "type": "ATIS",
+      "description": "ATIS",
+      "frequency_mhz": "118.65"
+    },
+    {
+      "airport_ident": "LEBL",
+      "type": "CLD",
+      "description": "CLNC DEL",
+      "frequency_mhz": "121.8"
+    },
+    {
+      "airport_ident": "LEBL",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.65"
+    },
+    {
+      "airport_ident": "LEBL",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.1"
+    },
+    {
+      "airport_ident": "LEBZ",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "139.3"
+    },
+    {
+      "airport_ident": "LEBZ",
+      "type": "TWR",
+      "description": "BADAJOZ TWR",
+      "frequency_mhz": "122.1"
+    },
+    {
+      "airport_ident": "LECD",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "123.5"
+    },
+    {
+      "airport_ident": "LECH",
+      "type": "APP",
+      "description": "Valencia Approach",
+      "frequency_mhz": "120.1"
+    },
+    {
+      "airport_ident": "LECH",
+      "type": "TWR",
+      "description": "Castellon Tower",
+      "frequency_mhz": "120.675"
+    },
+    {
+      "airport_ident": "LECI",
+      "type": "INFO",
+      "description": "",
+      "frequency_mhz": "123.5"
+    },
+    {
+      "airport_ident": "LECN",
+      "type": "CTAF",
+      "description": "Castellón radio",
+      "frequency_mhz": "123.5"
+    },
+    {
+      "airport_ident": "LECO",
+      "type": "APP",
+      "description": "SANTIAGO APP",
+      "frequency_mhz": "120.2"
+    },
+    {
+      "airport_ident": "LECO",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "LECO",
+      "type": "TWR",
+      "description": "A Coruña TWR",
+      "frequency_mhz": "118.3"
+    },
+    {
+      "airport_ident": "LECU",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.8"
+    },
+    {
+      "airport_ident": "LECU",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.7"
+    },
+    {
+      "airport_ident": "LEDA",
+      "type": "Approach",
+      "description": "Barcelona Approach",
+      "frequency_mhz": "127.7"
+    },
+    {
+      "airport_ident": "LEDA",
+      "type": "BAA Company Freq",
+      "description": "BAA Flight School OPS Frequency",
+      "frequency_mhz": "131.675"
+    },
+    {
+      "airport_ident": "LEDA",
+      "type": "Tower",
+      "description": "Lleida Tower",
+      "frequency_mhz": "121.325"
+    },
+    {
+      "airport_ident": "LEFM",
+      "type": "A/G",
+      "description": "AERO CLUB",
+      "frequency_mhz": "123.4"
+    },
+    {
+      "airport_ident": "LEGA",
+      "type": "GND",
+      "description": "",
+      "frequency_mhz": "121.825"
+    },
+    {
+      "airport_ident": "LEGA",
+      "type": "MIL",
+      "description": "",
+      "frequency_mhz": "122.1"
+    },
+    {
+      "airport_ident": "LEGA",
+      "type": "MIL",
+      "description": "",
+      "frequency_mhz": "139.3"
+    },
+    {
+      "airport_ident": "LEGA",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.7"
+    },
+    {
+      "airport_ident": "LEGE",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "120.9"
+    },
+    {
+      "airport_ident": "LEGE",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "LEGE",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.5"
+    },
+    {
+      "airport_ident": "LEGR",
+      "type": "ATIS",
+      "description": "",
+      "frequency_mhz": "120.625"
+    },
+    {
+      "airport_ident": "LEGR",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.925"
+    },
+    {
+      "airport_ident": "LEGR",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.85"
+    },
+    {
+      "airport_ident": "LEGT",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "127.1"
+    },
+    {
+      "airport_ident": "LEGT",
+      "type": "DEP",
+      "description": "MADRID DEP",
+      "frequency_mhz": "127.1"
+    },
+    {
+      "airport_ident": "LEGT",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.6"
+    },
+    {
+      "airport_ident": "LEGT",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "138.3"
+    },
+    {
+      "airport_ident": "LEHC",
+      "type": "LEHC_AFIS",
+      "description": "Huesca Information",
+      "frequency_mhz": "128.95"
+    },
+    {
+      "airport_ident": "LEHC",
+      "type": "LEZG_APP",
+      "description": "Zaragoza Approach",
+      "frequency_mhz": "119.3"
+    },
+    {
+      "airport_ident": "LEIB",
+      "type": "APP",
+      "description": "PALMA APP",
+      "frequency_mhz": "118.125"
+    },
+    {
+      "airport_ident": "LEIB",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "119.8"
+    },
+    {
+      "airport_ident": "LEIB",
+      "type": "ATIS",
+      "description": "ATIS",
+      "frequency_mhz": "117.8"
+    },
+    {
+      "airport_ident": "LEIB",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.8"
+    },
+    {
+      "airport_ident": "LEIB",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.5"
+    },
+    {
+      "airport_ident": "LEIG",
+      "type": "Air/Air",
+      "description": "",
+      "frequency_mhz": "123.175"
+    },
+    {
+      "airport_ident": "LEJR",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "128.5"
+    },
+    {
+      "airport_ident": "LEJR",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.6"
+    },
+    {
+      "airport_ident": "LEJR",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.55"
+    },
+    {
+      "airport_ident": "LELC",
+      "type": "APP",
+      "description": "SAN JAVIER APP",
+      "frequency_mhz": "130.3"
+    },
+    {
+      "airport_ident": "LELC",
+      "type": "GND",
+      "description": "SAN JAVIER GND",
+      "frequency_mhz": "121.6"
+    },
+    {
+      "airport_ident": "LELC",
+      "type": "TWR",
+      "description": "SAN JAVIER TWR",
+      "frequency_mhz": "130.3"
+    },
+    {
+      "airport_ident": "LELL",
+      "type": "ACBS",
+      "description": "AEROCLUB BARCELONA SABADELL",
+      "frequency_mhz": "123.5"
+    },
+    {
+      "airport_ident": "LELL",
+      "type": "GMC",
+      "description": "Sabadell Ground",
+      "frequency_mhz": "121.605"
+    },
+    {
+      "airport_ident": "LELL",
+      "type": "TWR",
+      "description": "Sabadell Tower",
+      "frequency_mhz": "120.805"
+    },
+    {
+      "airport_ident": "LELN",
+      "type": "APP",
+      "description": "Leon Approach",
+      "frequency_mhz": "121.28"
+    },
+    {
+      "airport_ident": "LELN",
+      "type": "TWR",
+      "description": "Leon Tower",
+      "frequency_mhz": "122.105"
+    },
+    {
+      "airport_ident": "LELO",
+      "type": "twr",
+      "description": "",
+      "frequency_mhz": "118.575"
+    },
+    {
+      "airport_ident": "LELO",
+      "type": "twr",
+      "description": "base militar",
+      "frequency_mhz": "123.225"
+    },
+    {
+      "airport_ident": "LELT",
+      "type": "CTAF",
+      "description": "LILLO PAPAMOVIL",
+      "frequency_mhz": "123.375"
+    },
+    {
+      "airport_ident": "LEMD",
+      "type": "APP",
+      "description": "MADRID APP",
+      "frequency_mhz": "127.5"
+    },
+    {
+      "airport_ident": "LEMD",
+      "type": "ATIS",
+      "description": "ATIS",
+      "frequency_mhz": "118.25"
+    },
+    {
+      "airport_ident": "LEMD",
+      "type": "ATIS DEP",
+      "description": "ATIS Departure",
+      "frequency_mhz": "130.85"
+    },
+    {
+      "airport_ident": "LEMD",
+      "type": "CLD",
+      "description": "Delivery East",
+      "frequency_mhz": "130.075"
+    },
+    {
+      "airport_ident": "LEMD",
+      "type": "CLD",
+      "description": "Delivery West",
+      "frequency_mhz": "130.35"
+    },
+    {
+      "airport_ident": "LEMD",
+      "type": "EMR",
+      "description": "FIRE",
+      "frequency_mhz": "122.975"
+    },
+    {
+      "airport_ident": "LEMD",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.85"
+    },
+    {
+      "airport_ident": "LEMD",
+      "type": "TWR",
+      "description": "TWR 36L",
+      "frequency_mhz": "118.07"
+    },
+    {
+      "airport_ident": "LEMD",
+      "type": "TWR",
+      "description": "TWR 14R",
+      "frequency_mhz": "118.15"
+    },
+    {
+      "airport_ident": "LEMD",
+      "type": "TWR",
+      "description": "TWR 36R",
+      "frequency_mhz": "118.67"
+    },
+    {
+      "airport_ident": "LEMD",
+      "type": "TWR",
+      "description": "TWR 14L",
+      "frequency_mhz": "118.975"
+    },
+    {
+      "airport_ident": "LEMG",
+      "type": "APP",
+      "description": "APP Dep",
+      "frequency_mhz": "118.455"
+    },
+    {
+      "airport_ident": "LEMG",
+      "type": "APP",
+      "description": "APP Arr",
+      "frequency_mhz": "123.85"
+    },
+    {
+      "airport_ident": "LEMG",
+      "type": "ATIS",
+      "description": "ATIS",
+      "frequency_mhz": "120.375"
+    },
+    {
+      "airport_ident": "LEMG",
+      "type": "CLD",
+      "description": "CLR DEL",
+      "frequency_mhz": "121.88"
+    },
+    {
+      "airport_ident": "LEMG",
+      "type": "GND",
+      "description": "GND-W",
+      "frequency_mhz": "121.705"
+    },
+    {
+      "airport_ident": "LEMG",
+      "type": "GND",
+      "description": "GND-E",
+      "frequency_mhz": "121.95"
+    },
+    {
+      "airport_ident": "LEMG",
+      "type": "TWR",
+      "description": "TWR-W (RWY 13-31)",
+      "frequency_mhz": "118.15"
+    },
+    {
+      "airport_ident": "LEMG",
+      "type": "TWR",
+      "description": "TWR-E (RWY 12-30)",
+      "frequency_mhz": "118.775"
+    },
+    {
+      "airport_ident": "LEMH",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "119.65"
+    },
+    {
+      "airport_ident": "LEMH",
+      "type": "ATIS",
+      "description": "ATIS",
+      "frequency_mhz": "112.6"
+    },
+    {
+      "airport_ident": "LEMH",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.75"
+    },
+    {
+      "airport_ident": "LEMH",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.2"
+    },
+    {
+      "airport_ident": "LEMO",
+      "type": "APP",
+      "description": "SEVILLA APP",
+      "frequency_mhz": "120"
+    },
+    {
+      "airport_ident": "LEMO",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "25.89"
+    },
+    {
+      "airport_ident": "LEMO",
+      "type": "PMSV",
+      "description": "PMSV METRO",
+      "frequency_mhz": "28.442"
+    },
+    {
+      "airport_ident": "LEMO",
+      "type": "POST",
+      "description": "496 ABS COMD POST",
+      "frequency_mhz": "26.472"
+    },
+    {
+      "airport_ident": "LEMO",
+      "type": "PTD",
+      "description": "PTD",
+      "frequency_mhz": "27.537"
+    },
+    {
+      "airport_ident": "LEMO",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "122.1"
+    },
+    {
+      "airport_ident": "LEMR",
+      "type": "RDO",
+      "description": "La Morgal Radio (A/A, ES)",
+      "frequency_mhz": "123.5"
+    },
+    {
+      "airport_ident": "LEMR",
+      "type": "TWR",
+      "description": "Asturias TWR",
+      "frequency_mhz": "118.15"
+    },
+    {
+      "airport_ident": "LEMT",
+      "type": "VHF",
+      "description": "",
+      "frequency_mhz": "123.5"
+    },
+    {
+      "airport_ident": "LEMU",
+      "type": "RADIO",
+      "description": "Muchamiel Radio",
+      "frequency_mhz": "123.5"
+    },
+    {
+      "airport_ident": "LENA",
+      "type": "TWR",
+      "description": "Benabarre FREQ. - Non controlled aerodrom",
+      "frequency_mhz": "122.475"
+    },
+    {
+      "airport_ident": "LEOC",
+      "type": "UNIC",
+      "description": "RUNWAY INFO SVC",
+      "frequency_mhz": "122.6"
+    },
+    {
+      "airport_ident": "LEOS",
+      "type": "Info",
+      "description": "",
+      "frequency_mhz": "123.5"
+    },
+    {
+      "airport_ident": "LEPA",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "118.95"
+    },
+    {
+      "airport_ident": "LEPA",
+      "type": "ATIS",
+      "description": "ATIS",
+      "frequency_mhz": "119.25"
+    },
+    {
+      "airport_ident": "LEPA",
+      "type": "CLD",
+      "description": "CLNC DEL",
+      "frequency_mhz": "123.88"
+    },
+    {
+      "airport_ident": "LEPA",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.705"
+    },
+    {
+      "airport_ident": "LEPA",
+      "type": "OPS",
+      "description": "OPS",
+      "frequency_mhz": "130.25"
+    },
+    {
+      "airport_ident": "LEPA",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.305"
+    },
+    {
+      "airport_ident": "LEPI",
+      "type": "RADIO",
+      "description": "Casas De Los Pinos Radio",
+      "frequency_mhz": "123.5"
+    },
+    {
+      "airport_ident": "LEPP",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "118.2"
+    },
+    {
+      "airport_ident": "LEPP",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "LEPP",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.2"
+    },
+    {
+      "airport_ident": "LERE",
+      "type": "LEVC_N_TACC",
+      "description": "Valencia Approach",
+      "frequency_mhz": "120.1"
+    },
+    {
+      "airport_ident": "LERE",
+      "type": "RADIO",
+      "description": "Requena Radio",
+      "frequency_mhz": "123.325"
+    },
+    {
+      "airport_ident": "LERI",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.1"
+    },
+    {
+      "airport_ident": "LERM",
+      "type": "RF",
+      "description": "Robledillo",
+      "frequency_mhz": "123.325"
+    },
+    {
+      "airport_ident": "LERP",
+      "type": "VHF",
+      "description": "",
+      "frequency_mhz": "123.45"
+    },
+    {
+      "airport_ident": "LERS",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "118.15"
+    },
+    {
+      "airport_ident": "LERS",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "LERS",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.15"
+    },
+    {
+      "airport_ident": "LERT",
+      "type": "A/G",
+      "description": "CW AOK",
+      "frequency_mhz": "672.15"
+    },
+    {
+      "airport_ident": "LERT",
+      "type": "APP",
+      "description": "SEVILLA APP",
+      "frequency_mhz": "120.8"
+    },
+    {
+      "airport_ident": "LERT",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "128.5"
+    },
+    {
+      "airport_ident": "LERT",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "264.7"
+    },
+    {
+      "airport_ident": "LERT",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "279"
+    },
+    {
+      "airport_ident": "LERT",
+      "type": "ATIS",
+      "description": "ROTA INFORMATION",
+      "frequency_mhz": "267.6"
+    },
+    {
+      "airport_ident": "LERT",
+      "type": "GCA",
+      "description": "ROTA GCA",
+      "frequency_mhz": "123.3"
+    },
+    {
+      "airport_ident": "LERT",
+      "type": "GCA",
+      "description": "GCA",
+      "frequency_mhz": "134.1"
+    },
+    {
+      "airport_ident": "LERT",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "130.7"
+    },
+    {
+      "airport_ident": "LERT",
+      "type": "MISC",
+      "description": "BASE OPS",
+      "frequency_mhz": "126.2"
+    },
+    {
+      "airport_ident": "LERT",
+      "type": "TWR",
+      "description": "ROTA TWR",
+      "frequency_mhz": "119.75"
+    },
+    {
+      "airport_ident": "LERT",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "122.1"
+    },
+    {
+      "airport_ident": "LERT",
+      "type": "TWR",
+      "description": "HEL",
+      "frequency_mhz": "122.225"
+    },
+    {
+      "airport_ident": "LERT",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "139.3"
+    },
+    {
+      "airport_ident": "LERT",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "257.8"
+    },
+    {
+      "airport_ident": "LERT",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "306.85"
+    },
+    {
+      "airport_ident": "LESA",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "124.4"
+    },
+    {
+      "airport_ident": "LESA",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.85"
+    },
+    {
+      "airport_ident": "LESA",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "139.3"
+    },
+    {
+      "airport_ident": "LESB",
+      "type": "APP",
+      "description": "PALMA APP",
+      "frequency_mhz": "119.4"
+    },
+    {
+      "airport_ident": "LESB",
+      "type": "ATIS",
+      "description": "Son Bonet MET",
+      "frequency_mhz": "128.275"
+    },
+    {
+      "airport_ident": "LESB",
+      "type": "CTAF",
+      "description": "Son Bonet Radio",
+      "frequency_mhz": "122.705"
+    },
+    {
+      "airport_ident": "LESB",
+      "type": "CTAF",
+      "description": "Mallorca VFR",
+      "frequency_mhz": "123.5"
+    },
+    {
+      "airport_ident": "LESB",
+      "type": "OPS",
+      "description": "PALMA OPS",
+      "frequency_mhz": "130.25"
+    },
+    {
+      "airport_ident": "LESL",
+      "type": "RDO",
+      "description": "RDO",
+      "frequency_mhz": "123.5"
+    },
+    {
+      "airport_ident": "LESO",
+      "type": "TWR",
+      "description": "SAN SEBASTIAN TOWER",
+      "frequency_mhz": "119.85"
+    },
+    {
+      "airport_ident": "LEST",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "118.2"
+    },
+    {
+      "airport_ident": "LEST",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "LEST",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.75"
+    },
+    {
+      "airport_ident": "LESU",
+      "type": "AFIS",
+      "description": "H24. Outside ATS op hrs, this frq for A/A communications.",
+      "frequency_mhz": "122.205"
+    },
+    {
+      "airport_ident": "LESU",
+      "type": "AFIS",
+      "description": "ATS hours. Outside ATS op hrs, frq for G/A communications.",
+      "frequency_mhz": "131.605"
+    },
+    {
+      "airport_ident": "LESU",
+      "type": "EMERG",
+      "description": "Emergency",
+      "frequency_mhz": "121.5"
+    },
+    {
+      "airport_ident": "LETI",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "129.975"
+    },
+    {
+      "airport_ident": "LETL",
+      "type": "VHF",
+      "description": "",
+      "frequency_mhz": "122.675"
+    },
+    {
+      "airport_ident": "LETO",
+      "type": "APP",
+      "description": "MADRID APP",
+      "frequency_mhz": "118.4"
+    },
+    {
+      "airport_ident": "LETO",
+      "type": "GCA",
+      "description": "GCA",
+      "frequency_mhz": "118.9"
+    },
+    {
+      "airport_ident": "LETO",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "118.3"
+    },
+    {
+      "airport_ident": "LETO",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "122.1"
+    },
+    {
+      "airport_ident": "LEVC",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "120.1"
+    },
+    {
+      "airport_ident": "LEVC",
+      "type": "ATIS",
+      "description": "ATIS",
+      "frequency_mhz": "121.075"
+    },
+    {
+      "airport_ident": "LEVC",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "LEVC",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.55"
+    },
+    {
+      "airport_ident": "LEVD",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "122.2"
+    },
+    {
+      "airport_ident": "LEVT",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.8"
+    },
+    {
+      "airport_ident": "LEVT",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.45"
+    },
+    {
+      "airport_ident": "LEVX",
+      "type": "APP",
+      "description": "SANTIAGO APP",
+      "frequency_mhz": "120.2"
+    },
+    {
+      "airport_ident": "LEVX",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "LEVX",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.45"
+    },
+    {
+      "airport_ident": "LEXJ",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "118.375"
+    },
+    {
+      "airport_ident": "LEXJ",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    },
+    {
+      "airport_ident": "LEXJ",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.1"
+    },
+    {
+      "airport_ident": "LEZG",
+      "type": "APP",
+      "description": "APP",
+      "frequency_mhz": "119.3"
+    },
+    {
+      "airport_ident": "LEZG",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "118.1"
+    },
+    {
+      "airport_ident": "LEZG",
+      "type": "TWR",
+      "description": "TWR",
+      "frequency_mhz": "118.1"
+    },
+    {
+      "airport_ident": "LEZL",
+      "type": "APP",
+      "description": "Sevilla Aproximacion",
+      "frequency_mhz": "125.8"
+    },
+    {
+      "airport_ident": "LEZL",
+      "type": "ATIS",
+      "description": "ATIS",
+      "frequency_mhz": "118.175"
+    },
+    {
+      "airport_ident": "LEZL",
+      "type": "GND",
+      "description": "GND",
+      "frequency_mhz": "121.7"
+    }
+  ],
+  "meta": {
+    "title": "Frecuencias aeronauticas de Espana - Descarga gratuita",
+    "description": "Frecuencias de radio (249 registros) asociadas a las instalaciones aeronauticas espanolas de OurAirports, unidas por airport_ident. Incluye el tipo de servicio (TWR, GND, APP, ATIS, AFIS, ...), la descripcion textual de la fuente y la frecuencia en MHz. Contiene 249 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Frecuencias aeronauticas de Espana | ListBase",
+    "seo_description": "Descargar Frecuencias aeronauticas de Espana — 249 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 249 registros / 4 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

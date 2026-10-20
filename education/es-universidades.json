@@ -1,0 +1,1026 @@
+{
+  "id": "es-universidades",
+  "name": "España — Universidades e instituciones de educación superior",
+  "title": "España — Universidades e instituciones de educación superior",
+  "description": "Listado de universidades e instituciones de educación superior en España. Cada registro contiene el nombre de la institución (en alfabeto latino/inglés), el dominio principal registrado, la lista completa de dominios, la página web principal, el código de país (ISO-3166-1 alpha-2) y la comunidad autónoma (cuando la fuente la proporciona). Extraído filtrando el conjunto de datos global Hipo/university-domains-list (country == \"Spain\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 96,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Barcelona Graduate School of Economics",
+      "slug": "barcelona-graduate-school-economics",
+      "domain": "barcelonagse.eu",
+      "domains": "barcelonagse.eu",
+      "web_page": "http://www.barcelonagse.eu/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Bircham International University",
+      "slug": "bircham-international",
+      "domain": "bircham.edu",
+      "domains": "bircham.edu",
+      "web_page": "http://www.bircham.edu/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Centro Universitario Villanueva",
+      "slug": "centro-universitario-villanueva",
+      "domain": "villanueva.edu",
+      "domains": "villanueva.edu",
+      "web_page": "http://www.villanueva.edu/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Eada Business School Barcelona",
+      "slug": "eada-business-school-barcelona",
+      "domain": "eada.edu",
+      "domains": "eada.edu",
+      "web_page": "https://www.eada.edu/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "ENAE Business School",
+      "slug": "enae-business-school",
+      "domain": "enae.es",
+      "domains": "enae.es",
+      "web_page": "https://www.enae.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "ESADE Business & Law School",
+      "slug": "esade-business-law-school",
+      "domain": "esade.edu",
+      "domains": "esade.edu",
+      "web_page": "https://www.esade.edu/en/about-us/law-school",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Escuela Superior de Gestion Comercial y Marketing (ESIC)",
+      "slug": "escuela-superior-gestion-comercial-marketing-esic",
+      "domain": "esic.es",
+      "domains": "esic.es",
+      "web_page": "http://www.esic.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Florida Universitaria",
+      "slug": "florida-universitaria",
+      "domain": "floridauniversitaria.es",
+      "domains": "floridauniversitaria.es",
+      "web_page": "https://www.floridauniversitaria.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Global Business School Barcelona",
+      "slug": "global-business-school-barcelona",
+      "domain": "global-business-school.org",
+      "domains": "global-business-school.org",
+      "web_page": "http://www.global-business-school.org/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "IE University",
+      "slug": "ie",
+      "domain": "ie.edu",
+      "domains": "ie.edu",
+      "web_page": "http://www.ie.edu/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "IESE Business School",
+      "slug": "iese-business-school",
+      "domain": "iese.edu",
+      "domains": "iese.edu",
+      "web_page": "https://www.iese.edu/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Iniciativa Universidad del Atlantico",
+      "slug": "iniciativa-universidad-atlantico",
+      "domain": "universidadatlantico.org",
+      "domains": "universidadatlantico.org",
+      "web_page": "http://www.universidadatlantico.org/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "International University of Southern Europe",
+      "slug": "international-southern-europe",
+      "domain": "iuse.edu.es",
+      "domains": "iuse.edu.es",
+      "web_page": "http://www.iuse.edu.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "La Salle - Universitat Ramon Llull",
+      "slug": "salle-universitat-ramon-llull",
+      "domain": "salleurl.edu",
+      "domains": "salleurl.edu",
+      "web_page": "http://www.salleurl.edu/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "La Salle Universities - International Programmes",
+      "slug": "salle-international-programmes",
+      "domain": "lasalleuniversities.net",
+      "domains": "lasalleuniversities.net",
+      "web_page": "http://www.lasalleuniversities.net/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Mondragon Univertsitatea",
+      "slug": "mondragon-univertsitatea",
+      "domain": "muni.es",
+      "domains": "muni.es, mundragon.edu",
+      "web_page": "http://www.muni.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Schiller International University, Madrid",
+      "slug": "schiller-international-madrid",
+      "domain": "schillermadrid.edu",
+      "domains": "schillermadrid.edu",
+      "web_page": "http://www.schillermadrid.edu/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Abierta Interactiva",
+      "slug": "universidad-abierta-interactiva",
+      "domain": "uniactiva.com",
+      "domains": "uniactiva.com",
+      "web_page": "http://www.uniactiva.com/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Alfonso X El Sabio",
+      "slug": "universidad-alfonso-x-sabio",
+      "domain": "uax.es",
+      "domains": "uax.es",
+      "web_page": "http://www.uax.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Antonio de Nebrija",
+      "slug": "universidad-antonio-nebrija",
+      "domain": "unnet.es",
+      "domains": "unnet.es",
+      "web_page": "http://www.unnet.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Autónoma de Madrid",
+      "slug": "universidad-autonoma-madrid",
+      "domain": "uam.es",
+      "domains": "uam.es",
+      "web_page": "http://www.uam.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Cardenal Herrera-CEU",
+      "slug": "universidad-cardenal-herrera-ceu",
+      "domain": "uchceu.es",
+      "domains": "uchceu.es",
+      "web_page": "http://www.uchceu.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Carlos III de Madrid",
+      "slug": "universidad-carlos-iii-madrid",
+      "domain": "uc3m.es",
+      "domains": "uc3m.es",
+      "web_page": "http://www.uc3m.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Católica de Valencia",
+      "slug": "universidad-catolica-valencia",
+      "domain": "ucv.es",
+      "domains": "ucv.es",
+      "web_page": "http://www.ucv.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Católica de Ávila",
+      "slug": "universidad-catolica-avila",
+      "domain": "ucavila.es",
+      "domains": "ucavila.es",
+      "web_page": "http://www.ucavila.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Católica San Antonio",
+      "slug": "universidad-catolica-san-antonio",
+      "domain": "ucam.edu",
+      "domains": "ucam.edu",
+      "web_page": "http://www.ucam.edu/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad CEU Fernando III",
+      "slug": "universidad-ceu-fernando-iii",
+      "domain": "uf3ceu.es",
+      "domains": "uf3ceu.es",
+      "web_page": "https://uf3ceu.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Complutense de Madrid",
+      "slug": "universidad-complutense-madrid",
+      "domain": "ucm.es",
+      "domains": "ucm.es",
+      "web_page": "http://www.ucm.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Alcalá de Henares",
+      "slug": "universidad-alcala-henares",
+      "domain": "uah.es",
+      "domains": "uah.es",
+      "web_page": "http://www.uah.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Alicante",
+      "slug": "universidad-alicante",
+      "domain": "ua.es",
+      "domains": "ua.es",
+      "web_page": "http://www.ua.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Almería",
+      "slug": "universidad-almeria",
+      "domain": "ualm.es",
+      "domains": "ualm.es",
+      "web_page": "http://www.ualm.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Burgos",
+      "slug": "universidad-burgos",
+      "domain": "ubu.es",
+      "domains": "ubu.es",
+      "web_page": "http://www.ubu.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Cantabria",
+      "slug": "universidad-cantabria",
+      "domain": "unican.es",
+      "domains": "unican.es",
+      "web_page": "http://www.unican.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Castilla La Mancha",
+      "slug": "universidad-castilla-mancha",
+      "domain": "uclm.es",
+      "domains": "uclm.es",
+      "web_page": "http://www.uclm.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Cádiz",
+      "slug": "universidad-cadiz",
+      "domain": "uca.es",
+      "domains": "uca.es",
+      "web_page": "http://www.uca.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Córdoba",
+      "slug": "universidad-cordoba",
+      "domain": "uco.es",
+      "domains": "uco.es",
+      "web_page": "http://www.uco.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Deusto",
+      "slug": "universidad-deusto",
+      "domain": "deusto.es",
+      "domains": "deusto.es",
+      "web_page": "http://www.deusto.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Extremadura",
+      "slug": "universidad-extremadura",
+      "domain": "unex.es",
+      "domains": "unex.es",
+      "web_page": "http://www.unex.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Gerona",
+      "slug": "universidad-gerona",
+      "domain": "udg.es",
+      "domains": "udg.es",
+      "web_page": "http://www.udg.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Granada",
+      "slug": "universidad-granada",
+      "domain": "ugr.es",
+      "domains": "ugr.es",
+      "web_page": "http://www.ugr.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Huelva",
+      "slug": "universidad-huelva",
+      "domain": "uhu.es",
+      "domains": "uhu.es",
+      "web_page": "http://www.uhu.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Jaén",
+      "slug": "universidad-jaen",
+      "domain": "ujaen.es",
+      "domains": "ujaen.es",
+      "web_page": "http://www.ujaen.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de La Laguna",
+      "slug": "universidad-laguna",
+      "domain": "ull.es",
+      "domains": "ull.es",
+      "web_page": "http://www.ull.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de La Rioja",
+      "slug": "universidad-rioja",
+      "domain": "unirioja.es",
+      "domains": "unirioja.es",
+      "web_page": "http://www.unirioja.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de las Hespérides",
+      "slug": "universidad-las-hesperides",
+      "domain": "hesperides.edu.es",
+      "domains": "hesperides.edu.es",
+      "web_page": "https://hesperides.edu.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Las Palmas de Gran Canaria",
+      "slug": "universidad-las-palmas-gran-canaria",
+      "domain": "ulpgc.es",
+      "domains": "ulpgc.es",
+      "web_page": "http://www.ulpgc.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de León",
+      "slug": "universidad-leon",
+      "domain": "unileon.es",
+      "domains": "unileon.es",
+      "web_page": "http://www.unileon.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Murcia",
+      "slug": "universidad-murcia",
+      "domain": "um.es",
+      "domains": "um.es",
+      "web_page": "http://www.um.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Málaga",
+      "slug": "universidad-malaga",
+      "domain": "uma.es",
+      "domains": "uma.es",
+      "web_page": "http://www.uma.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Navarra",
+      "slug": "universidad-navarra",
+      "domain": "unav.es",
+      "domains": "unav.es",
+      "web_page": "http://www.unav.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Oviedo",
+      "slug": "universidad-oviedo",
+      "domain": "uniovi.es",
+      "domains": "uniovi.es",
+      "web_page": "http://www.uniovi.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Salamanca",
+      "slug": "universidad-salamanca",
+      "domain": "usal.es",
+      "domains": "usal.es",
+      "web_page": "http://www.usal.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de San Pablo CEU",
+      "slug": "universidad-san-pablo-ceu",
+      "domain": "ceu.es",
+      "domains": "ceu.es",
+      "web_page": "http://www.ceu.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Sevilla",
+      "slug": "universidad-sevilla",
+      "domain": "us.es",
+      "domains": "us.es",
+      "web_page": "http://www.us.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Valencia",
+      "slug": "universidad-valencia",
+      "domain": "uv.es",
+      "domains": "uv.es",
+      "web_page": "http://www.uv.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Valladolid",
+      "slug": "universidad-valladolid",
+      "domain": "uva.es",
+      "domains": "uva.es",
+      "web_page": "http://www.uva.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad de Zaragoza",
+      "slug": "universidad-zaragoza",
+      "domain": "unizar.es",
+      "domains": "unizar.es",
+      "web_page": "http://www.unizar.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad del País Vasco",
+      "slug": "universidad-pais-vasco",
+      "domain": "ehu.es",
+      "domains": "ehu.es, ehu.eus",
+      "web_page": "http://www.ehu.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Europea de Madrid",
+      "slug": "universidad-europea-madrid",
+      "domain": "uem.es",
+      "domains": "uem.es",
+      "web_page": "http://www.uem.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Europea del Atlántico",
+      "slug": "universidad-europea-atlantico",
+      "domain": "uneatlantico.es",
+      "domains": "uneatlantico.es",
+      "web_page": "https://www.uneatlantico.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Francisco de Vitoria",
+      "slug": "universidad-francisco-vitoria",
+      "domain": "ufv.es",
+      "domains": "ufv.es",
+      "web_page": "http://www.ufv.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Internacional de Andalucía",
+      "slug": "universidad-internacional-andalucia",
+      "domain": "uia.es",
+      "domains": "uia.es",
+      "web_page": "http://www.uia.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Internacional de Andalucía, Sede Antonio Machado de Baeza",
+      "slug": "universidad-internacional-andalucia-sede-antonio-machado-baeza",
+      "domain": "uniaam.uia.es",
+      "domains": "uniaam.uia.es",
+      "web_page": "http://www.uniaam.uia.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Internacional de Andalucía, Sede La Rábida",
+      "slug": "universidad-internacional-andalucia-sede-rabida",
+      "domain": "uniara.uia.es",
+      "domains": "uniara.uia.es",
+      "web_page": "http://www.uniara.uia.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Internacional de Valencia",
+      "slug": "universidad-internacional-valencia",
+      "domain": "viu.es",
+      "domains": "viu.es",
+      "web_page": "https://viu.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Internacional Isabel I",
+      "slug": "universidad-internacional-isabel",
+      "domain": "ui1.es",
+      "domains": "ui1.es, alumnos.ui1.es",
+      "web_page": "https://www.ui1.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": "Castilla la mancha"
+    },
+    {
+      "name": "Universidad Internacional Menéndez Pelayo",
+      "slug": "universidad-internacional-menendez-pelayo",
+      "domain": "uimp.es",
+      "domains": "uimp.es",
+      "web_page": "http://www.uimp.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Loyola Andalucía",
+      "slug": "universidad-loyola-andalucia",
+      "domain": "uloyola.es",
+      "domains": "uloyola.es",
+      "web_page": "https://www.uloyola.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Miguel Hernández de Elche",
+      "slug": "universidad-miguel-hernandez-elche",
+      "domain": "umh.es",
+      "domains": "umh.es",
+      "web_page": "http://www.umh.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Nacional de Educación a Distancia",
+      "slug": "universidad-nacional-educacion-a-distancia",
+      "domain": "uned.es",
+      "domains": "uned.es",
+      "web_page": "http://www.uned.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Pablo de Olavide",
+      "slug": "universidad-pablo-olavide",
+      "domain": "upo.es",
+      "domains": "upo.es",
+      "web_page": "http://www.upo.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Politécnica de Cartagena",
+      "slug": "universidad-politecnica-cartagena",
+      "domain": "upct.es",
+      "domains": "upct.es",
+      "web_page": "http://www.upct.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Politécnica de Cataluna",
+      "slug": "universidad-politecnica-cataluna",
+      "domain": "upc.edu",
+      "domains": "upc.edu",
+      "web_page": "http://www.upc.edu/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Politécnica de Madrid",
+      "slug": "universidad-politecnica-madrid",
+      "domain": "upm.es",
+      "domains": "upm.es",
+      "web_page": "http://www.upm.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Politécnica de Valencia",
+      "slug": "universidad-politecnica-valencia",
+      "domain": "upv.es",
+      "domains": "upv.es",
+      "web_page": "http://www.upv.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Pontificia Comillas",
+      "slug": "universidad-pontificia-comillas",
+      "domain": "upco.es",
+      "domains": "upco.es",
+      "web_page": "http://www.upco.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Pontificia de Salamanca",
+      "slug": "universidad-pontificia-salamanca",
+      "domain": "upsa.es",
+      "domains": "upsa.es",
+      "web_page": "http://www.upsa.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Pública de Navarra",
+      "slug": "universidad-publica-navarra",
+      "domain": "unavarra.es",
+      "domains": "unavarra.es",
+      "web_page": "http://www.unavarra.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad Rey Juan Carlos",
+      "slug": "universidad-rey-juan-carlos",
+      "domain": "urjc.es",
+      "domains": "urjc.es, gsyc.es",
+      "web_page": "http://www.urjc.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidad San Jorge",
+      "slug": "universidad-san-jorge",
+      "domain": "usj.es",
+      "domains": "usj.es",
+      "web_page": "https://www.usj.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universidade da Coruña",
+      "slug": "universidade-da-coruna",
+      "domain": "udc.gal",
+      "domains": "udc.gal, udc.es",
+      "web_page": "https://www.udc.gal/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": "A Coruña"
+    },
+    {
+      "name": "Universidade de Santiago de Compostela",
+      "slug": "universidade-santiago-compostela",
+      "domain": "usc.es",
+      "domains": "usc.es, usc.gal",
+      "web_page": "https://www.usc.gal/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": "A Coruña"
+    },
+    {
+      "name": "Universidade de Vigo",
+      "slug": "universidade-vigo",
+      "domain": "uvigo.gal",
+      "domains": "uvigo.gal, uvigo.es",
+      "web_page": "https://www.uvigo.gal/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": "Pontevedra"
+    },
+    {
+      "name": "Universitat Autónoma de Barcelona",
+      "slug": "universitat-autonoma-barcelona",
+      "domain": "uab.es",
+      "domains": "uab.es",
+      "web_page": "http://www.uab.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universitat de Barcelona",
+      "slug": "universitat-barcelona",
+      "domain": "ub.es",
+      "domains": "ub.es",
+      "web_page": "http://www.ub.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universitat de les Illes Balears",
+      "slug": "universitat-les-illes-balears",
+      "domain": "uib.es",
+      "domains": "uib.es",
+      "web_page": "http://www.uib.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universitat de Lleida",
+      "slug": "universitat-lleida",
+      "domain": "udl.es",
+      "domains": "udl.es",
+      "web_page": "http://www.udl.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universitat de Vic",
+      "slug": "universitat-vic",
+      "domain": "uvic.es",
+      "domains": "uvic.es",
+      "web_page": "http://www.uvic.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universitat Internacional de Catalunya",
+      "slug": "universitat-internacional-catalunya",
+      "domain": "uic.es",
+      "domains": "uic.es",
+      "web_page": "http://www.uic.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universitat Jaume I de Castellón",
+      "slug": "universitat-jaume-castellon",
+      "domain": "uji.es",
+      "domains": "uji.es",
+      "web_page": "http://www.uji.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universitat Oberta de Catalunya",
+      "slug": "universitat-oberta-catalunya",
+      "domain": "uoc.es",
+      "domains": "uoc.es, uoc.edu",
+      "web_page": "http://www.uoc.edu/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universitat Pompeu Fabra",
+      "slug": "universitat-pompeu-fabra",
+      "domain": "upf.es",
+      "domains": "upf.es, upf.edu",
+      "web_page": "http://www.upf.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universitat Ramon Llull",
+      "slug": "universitat-ramon-llull",
+      "domain": "url.es",
+      "domains": "url.es",
+      "web_page": "http://www.url.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "Universitat Rovira I Virgili Tarragona",
+      "slug": "universitat-rovira-virgili-tarragona",
+      "domain": "urv.es",
+      "domains": "urv.es",
+      "web_page": "http://www.urv.es/",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "University of Barcelona",
+      "slug": "barcelona",
+      "domain": "alumnes.ub.edu",
+      "domains": "alumnes.ub.edu",
+      "web_page": "https://web.ub.edu",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    },
+    {
+      "name": "University of Girona",
+      "slug": "girona",
+      "domain": "campus.udg.edu",
+      "domains": "campus.udg.edu",
+      "web_page": "https://udg.edu",
+      "country": "Spain",
+      "country_code": "ES",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "España — Universidades e instituciones de educación superior - Descarga gratuita",
+    "description": "Listado de universidades e instituciones de educación superior en España. Cada registro contiene el nombre de la institución (en alfabeto latino/inglés), el dominio principal registrado, la lista completa de dominios, la página web principal, el código de país (ISO-3166-1 alpha-2) y la comunidad autónoma (cuando la fuente la proporciona). Extraído filtrando el conjunto de datos global Hipo/university-domains-list (country == \"Spain\"). Contiene 96 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "España — Universidades e instituciones de educación superior | ListBase",
+    "seo_description": "Descargar España — Universidades e instituciones de educación superior — 96 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 96 registros / 8 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

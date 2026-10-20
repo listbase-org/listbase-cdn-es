@@ -1,0 +1,133 @@
+{
+  "id": "es-unidades-de-medida-electric",
+  "name": "Unidades de medida — categoría 'electric' (8)",
+  "title": "Unidades de medida — categoría 'electric' (8)",
+  "description": "Unidades de medida de la categoría 'electric' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "electric-ampere",
+      "categoria": "electric",
+      "nombre": "amperios",
+      "abreviatura": "A",
+      "forma_estrecha": "A",
+      "patron": "{0} amperios"
+    },
+    {
+      "id": 2,
+      "unit_code": "electric-coulomb",
+      "categoria": "electric",
+      "nombre": "culombios",
+      "abreviatura": "C",
+      "forma_estrecha": "C",
+      "patron": "{0} culombios"
+    },
+    {
+      "id": 3,
+      "unit_code": "electric-farad",
+      "categoria": "electric",
+      "nombre": "faradios",
+      "abreviatura": "F",
+      "forma_estrecha": "F",
+      "patron": "{0} faradios"
+    },
+    {
+      "id": 4,
+      "unit_code": "electric-henry",
+      "categoria": "electric",
+      "nombre": "henrios",
+      "abreviatura": "H",
+      "forma_estrecha": "H",
+      "patron": "{0} henrios"
+    },
+    {
+      "id": 5,
+      "unit_code": "electric-milliampere",
+      "categoria": "electric",
+      "nombre": "miliamperios",
+      "abreviatura": "mA",
+      "forma_estrecha": "mA",
+      "patron": "{0} miliamperios"
+    },
+    {
+      "id": 6,
+      "unit_code": "electric-ohm",
+      "categoria": "electric",
+      "nombre": "ohmios",
+      "abreviatura": "Ω",
+      "forma_estrecha": "Ω",
+      "patron": "{0} ohmios"
+    },
+    {
+      "id": 7,
+      "unit_code": "electric-siemens",
+      "categoria": "electric",
+      "nombre": "siemens",
+      "abreviatura": "S",
+      "forma_estrecha": "S",
+      "patron": "{0} siemens"
+    },
+    {
+      "id": 8,
+      "unit_code": "electric-volt",
+      "categoria": "electric",
+      "nombre": "voltios",
+      "abreviatura": "V",
+      "forma_estrecha": "V",
+      "patron": "{0} voltios"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'electric' (8) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'electric' de la configuración regional es en CLDR, con nombres en español. Contiene 8 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'electric' (8) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'electric' (8) — 8 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 8 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

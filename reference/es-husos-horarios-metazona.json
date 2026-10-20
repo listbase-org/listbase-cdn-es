@@ -1,0 +1,1150 @@
+{
+  "id": "es-husos-horarios-metazona",
+  "name": "Metazonas (husos horarios macrorregionales) — nombres en español",
+  "title": "Metazonas (husos horarios macrorregionales) — nombres en español",
+  "description": "Metazonas (husos horarios macrorregionales) de la configuración regional es en CLDR — con nombre genérico, nombre estándar y nombre de verano.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 157,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nombre_generico",
+      "label": "Nombre Generico",
+      "type": "string"
+    },
+    {
+      "key": "nombre_estandar",
+      "label": "Nombre Estandar",
+      "type": "string"
+    },
+    {
+      "key": "nombre_verano",
+      "label": "Nombre Verano",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Acre",
+      "nombre_generico": "Hora de Acre",
+      "nombre_estandar": "Hora estándar de Acre",
+      "nombre_verano": "Hora de verano de Acre"
+    },
+    {
+      "id": 2,
+      "code": "Afghanistan",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Afganistán",
+      "nombre_verano": ""
+    },
+    {
+      "id": 3,
+      "code": "Africa_Central",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de África central",
+      "nombre_verano": ""
+    },
+    {
+      "id": 4,
+      "code": "Africa_Eastern",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de África oriental",
+      "nombre_verano": ""
+    },
+    {
+      "id": 5,
+      "code": "Africa_Southern",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Sudáfrica",
+      "nombre_verano": ""
+    },
+    {
+      "id": 6,
+      "code": "Africa_Western",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de África occidental",
+      "nombre_verano": ""
+    },
+    {
+      "id": 7,
+      "code": "Alaska",
+      "nombre_generico": "hora de Alaska",
+      "nombre_estandar": "hora estándar de Alaska",
+      "nombre_verano": "hora de verano de Alaska"
+    },
+    {
+      "id": 8,
+      "code": "Amazon",
+      "nombre_generico": "hora del Amazonas",
+      "nombre_estandar": "hora estándar del Amazonas",
+      "nombre_verano": "hora de verano del Amazonas"
+    },
+    {
+      "id": 9,
+      "code": "America_Central",
+      "nombre_generico": "hora central",
+      "nombre_estandar": "hora estándar central",
+      "nombre_verano": "hora de verano central"
+    },
+    {
+      "id": 10,
+      "code": "America_Eastern",
+      "nombre_generico": "hora oriental",
+      "nombre_estandar": "hora estándar oriental",
+      "nombre_verano": "hora de verano oriental"
+    },
+    {
+      "id": 11,
+      "code": "America_Mountain",
+      "nombre_generico": "hora de las Montañas Rocosas",
+      "nombre_estandar": "hora estándar de las Montañas Rocosas",
+      "nombre_verano": "hora de verano de las Montañas Rocosas"
+    },
+    {
+      "id": 12,
+      "code": "America_Pacific",
+      "nombre_generico": "hora del Pacífico",
+      "nombre_estandar": "hora estándar del Pacífico",
+      "nombre_verano": "hora de verano del Pacífico"
+    },
+    {
+      "id": 13,
+      "code": "Anadyr",
+      "nombre_generico": "hora de Anadyr",
+      "nombre_estandar": "hora estándar de Anadyr",
+      "nombre_verano": "hora de verano de Anadyr"
+    },
+    {
+      "id": 14,
+      "code": "Apia",
+      "nombre_generico": "hora de Apia",
+      "nombre_estandar": "hora estándar de Apia",
+      "nombre_verano": "horario de verano de Apia"
+    },
+    {
+      "id": 15,
+      "code": "Aqtau",
+      "nombre_generico": "Hora de Aktau",
+      "nombre_estandar": "Hora estándar de Aktau",
+      "nombre_verano": "Hora de verano de Aktau"
+    },
+    {
+      "id": 16,
+      "code": "Aqtobe",
+      "nombre_generico": "Hora de Aktobe",
+      "nombre_estandar": "Hora estándar de Aktobe",
+      "nombre_verano": "Hora de verano de Aktobe"
+    },
+    {
+      "id": 17,
+      "code": "Arabian",
+      "nombre_generico": "hora de Arabia",
+      "nombre_estandar": "hora estándar de Arabia",
+      "nombre_verano": "hora de verano de Arabia"
+    },
+    {
+      "id": 18,
+      "code": "Argentina",
+      "nombre_generico": "hora de Argentina",
+      "nombre_estandar": "hora estándar de Argentina",
+      "nombre_verano": "hora de verano de Argentina"
+    },
+    {
+      "id": 19,
+      "code": "Argentina_Western",
+      "nombre_generico": "hora de Argentina occidental",
+      "nombre_estandar": "hora estándar de Argentina occidental",
+      "nombre_verano": "hora de verano de Argentina occidental"
+    },
+    {
+      "id": 20,
+      "code": "Armenia",
+      "nombre_generico": "hora de Armenia",
+      "nombre_estandar": "hora estándar de Armenia",
+      "nombre_verano": "hora de verano de Armenia"
+    },
+    {
+      "id": 21,
+      "code": "Atlantic",
+      "nombre_generico": "hora del Atlántico",
+      "nombre_estandar": "hora estándar del Atlántico",
+      "nombre_verano": "hora de verano del Atlántico"
+    },
+    {
+      "id": 22,
+      "code": "Australia_Central",
+      "nombre_generico": "hora de Australia central",
+      "nombre_estandar": "hora estándar de Australia central",
+      "nombre_verano": "hora de verano de Australia central"
+    },
+    {
+      "id": 23,
+      "code": "Australia_CentralWestern",
+      "nombre_generico": "hora de Australia centroccidental",
+      "nombre_estandar": "hora estándar de Australia centroccidental",
+      "nombre_verano": "hora de verano de Australia centroccidental"
+    },
+    {
+      "id": 24,
+      "code": "Australia_Eastern",
+      "nombre_generico": "hora de Australia oriental",
+      "nombre_estandar": "hora estándar de Australia oriental",
+      "nombre_verano": "hora de verano de Australia oriental"
+    },
+    {
+      "id": 25,
+      "code": "Australia_Western",
+      "nombre_generico": "hora de Australia occidental",
+      "nombre_estandar": "hora estándar de Australia occidental",
+      "nombre_verano": "hora de verano de Australia occidental"
+    },
+    {
+      "id": 26,
+      "code": "Azerbaijan",
+      "nombre_generico": "hora de Azerbaiyán",
+      "nombre_estandar": "hora estándar de Azerbaiyán",
+      "nombre_verano": "hora de verano de Azerbaiyán"
+    },
+    {
+      "id": 27,
+      "code": "Azores",
+      "nombre_generico": "hora de las Azores",
+      "nombre_estandar": "hora estándar de las Azores",
+      "nombre_verano": "hora de verano de las Azores"
+    },
+    {
+      "id": 28,
+      "code": "Bangladesh",
+      "nombre_generico": "hora de Bangladés",
+      "nombre_estandar": "hora estándar de Bangladés",
+      "nombre_verano": "hora de verano de Bangladés"
+    },
+    {
+      "id": 29,
+      "code": "Bhutan",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Bután",
+      "nombre_verano": ""
+    },
+    {
+      "id": 30,
+      "code": "Bolivia",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Bolivia",
+      "nombre_verano": ""
+    },
+    {
+      "id": 31,
+      "code": "Brasilia",
+      "nombre_generico": "hora de Brasilia",
+      "nombre_estandar": "hora estándar de Brasilia",
+      "nombre_verano": "hora de verano de Brasilia"
+    },
+    {
+      "id": 32,
+      "code": "Brunei",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Brunéi",
+      "nombre_verano": ""
+    },
+    {
+      "id": 33,
+      "code": "Cape_Verde",
+      "nombre_generico": "hora de Cabo Verde",
+      "nombre_estandar": "hora estándar de Cabo Verde",
+      "nombre_verano": "hora de verano de Cabo Verde"
+    },
+    {
+      "id": 34,
+      "code": "Chamorro",
+      "nombre_generico": "",
+      "nombre_estandar": "hora estándar de Chamorro",
+      "nombre_verano": ""
+    },
+    {
+      "id": 35,
+      "code": "Chatham",
+      "nombre_generico": "hora de Chatham",
+      "nombre_estandar": "hora estándar de Chatham",
+      "nombre_verano": "hora de verano de Chatham"
+    },
+    {
+      "id": 36,
+      "code": "Chile",
+      "nombre_generico": "hora de Chile",
+      "nombre_estandar": "hora estándar de Chile",
+      "nombre_verano": "hora de verano de Chile"
+    },
+    {
+      "id": 37,
+      "code": "China",
+      "nombre_generico": "hora de China",
+      "nombre_estandar": "hora estándar de China",
+      "nombre_verano": "hora de verano de China"
+    },
+    {
+      "id": 38,
+      "code": "Christmas",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de la Isla de Navidad",
+      "nombre_verano": ""
+    },
+    {
+      "id": 39,
+      "code": "Cocos",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de las Islas Cocos",
+      "nombre_verano": ""
+    },
+    {
+      "id": 40,
+      "code": "Colombia",
+      "nombre_generico": "hora de Colombia",
+      "nombre_estandar": "hora estándar de Colombia",
+      "nombre_verano": "hora de verano de Colombia"
+    },
+    {
+      "id": 41,
+      "code": "Cook",
+      "nombre_generico": "hora de las Islas Cook",
+      "nombre_estandar": "hora estándar de las Islas Cook",
+      "nombre_verano": "hora de verano media de las Islas Cook"
+    },
+    {
+      "id": 42,
+      "code": "Cuba",
+      "nombre_generico": "hora de Cuba",
+      "nombre_estandar": "hora estándar de Cuba",
+      "nombre_verano": "hora de verano de Cuba"
+    },
+    {
+      "id": 43,
+      "code": "Davis",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Davis",
+      "nombre_verano": ""
+    },
+    {
+      "id": 44,
+      "code": "DumontDUrville",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Dumont-d’Urville",
+      "nombre_verano": ""
+    },
+    {
+      "id": 45,
+      "code": "East_Timor",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Timor Oriental",
+      "nombre_verano": ""
+    },
+    {
+      "id": 46,
+      "code": "Easter",
+      "nombre_generico": "hora de la isla de Pascua",
+      "nombre_estandar": "hora estándar de la isla de Pascua",
+      "nombre_verano": "hora de verano de la isla de Pascua"
+    },
+    {
+      "id": 47,
+      "code": "Ecuador",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Ecuador",
+      "nombre_verano": ""
+    },
+    {
+      "id": 48,
+      "code": "Europe_Central",
+      "nombre_generico": "hora de Europa central",
+      "nombre_estandar": "hora estándar de Europa central",
+      "nombre_verano": "hora de verano de Europa central"
+    },
+    {
+      "id": 49,
+      "code": "Europe_Eastern",
+      "nombre_generico": "hora de Europa oriental",
+      "nombre_estandar": "hora estándar de Europa oriental",
+      "nombre_verano": "hora de verano de Europa oriental"
+    },
+    {
+      "id": 50,
+      "code": "Europe_Further_Eastern",
+      "nombre_generico": "",
+      "nombre_estandar": "hora del extremo oriental de Europa",
+      "nombre_verano": ""
+    },
+    {
+      "id": 51,
+      "code": "Europe_Western",
+      "nombre_generico": "hora de Europa occidental",
+      "nombre_estandar": "hora estándar de Europa occidental",
+      "nombre_verano": "hora de verano de Europa occidental"
+    },
+    {
+      "id": 52,
+      "code": "Falkland",
+      "nombre_generico": "hora de las islas Malvinas",
+      "nombre_estandar": "hora estándar de las islas Malvinas",
+      "nombre_verano": "hora de verano de las islas Malvinas"
+    },
+    {
+      "id": 53,
+      "code": "Fiji",
+      "nombre_generico": "hora de Fiyi",
+      "nombre_estandar": "hora estándar de Fiyi",
+      "nombre_verano": "hora de verano de Fiyi"
+    },
+    {
+      "id": 54,
+      "code": "French_Guiana",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de la Guayana Francesa",
+      "nombre_verano": ""
+    },
+    {
+      "id": 55,
+      "code": "French_Southern",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Antártida y Territorios Australes Franceses",
+      "nombre_verano": ""
+    },
+    {
+      "id": 56,
+      "code": "GMT",
+      "nombre_generico": "",
+      "nombre_estandar": "hora del meridiano de Greenwich",
+      "nombre_verano": ""
+    },
+    {
+      "id": 57,
+      "code": "Galapagos",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Galápagos",
+      "nombre_verano": ""
+    },
+    {
+      "id": 58,
+      "code": "Gambier",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Gambier",
+      "nombre_verano": ""
+    },
+    {
+      "id": 59,
+      "code": "Georgia",
+      "nombre_generico": "hora de Georgia",
+      "nombre_estandar": "hora estándar de Georgia",
+      "nombre_verano": "hora de verano de Georgia"
+    },
+    {
+      "id": 60,
+      "code": "Gilbert_Islands",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de las islas Gilbert",
+      "nombre_verano": ""
+    },
+    {
+      "id": 61,
+      "code": "Greenland_Eastern",
+      "nombre_generico": "hora de Groenlandia oriental",
+      "nombre_estandar": "hora estándar de Groenlandia oriental",
+      "nombre_verano": "hora de verano de Groenlandia oriental"
+    },
+    {
+      "id": 62,
+      "code": "Greenland_Western",
+      "nombre_generico": "hora de Groenlandia occidental",
+      "nombre_estandar": "hora estándar de Groenlandia occidental",
+      "nombre_verano": "hora de verano de Groenlandia occidental"
+    },
+    {
+      "id": 63,
+      "code": "Guam",
+      "nombre_generico": "",
+      "nombre_estandar": "Hora estándar de Guam",
+      "nombre_verano": ""
+    },
+    {
+      "id": 64,
+      "code": "Gulf",
+      "nombre_generico": "",
+      "nombre_estandar": "hora estándar del Golfo",
+      "nombre_verano": ""
+    },
+    {
+      "id": 65,
+      "code": "Guyana",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Guyana",
+      "nombre_verano": ""
+    },
+    {
+      "id": 66,
+      "code": "Hawaii",
+      "nombre_generico": "",
+      "nombre_estandar": "hora estándar de Hawái-Aleutianas",
+      "nombre_verano": ""
+    },
+    {
+      "id": 67,
+      "code": "Hawaii_Aleutian",
+      "nombre_generico": "hora de Hawái-Aleutianas",
+      "nombre_estandar": "hora estándar de Hawái-Aleutianas",
+      "nombre_verano": "hora de verano de Hawái-Aleutianas"
+    },
+    {
+      "id": 68,
+      "code": "Hong_Kong",
+      "nombre_generico": "hora de Hong Kong",
+      "nombre_estandar": "hora estándar de Hong Kong",
+      "nombre_verano": "hora de verano de Hong Kong"
+    },
+    {
+      "id": 69,
+      "code": "Hovd",
+      "nombre_generico": "hora de Hovd",
+      "nombre_estandar": "hora estándar de Hovd",
+      "nombre_verano": "hora de verano de Hovd"
+    },
+    {
+      "id": 70,
+      "code": "India",
+      "nombre_generico": "",
+      "nombre_estandar": "hora estándar de la India",
+      "nombre_verano": ""
+    },
+    {
+      "id": 71,
+      "code": "Indian_Ocean",
+      "nombre_generico": "",
+      "nombre_estandar": "hora del océano Índico",
+      "nombre_verano": ""
+    },
+    {
+      "id": 72,
+      "code": "Indochina",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Indochina",
+      "nombre_verano": ""
+    },
+    {
+      "id": 73,
+      "code": "Indonesia_Central",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Indonesia central",
+      "nombre_verano": ""
+    },
+    {
+      "id": 74,
+      "code": "Indonesia_Eastern",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Indonesia oriental",
+      "nombre_verano": ""
+    },
+    {
+      "id": 75,
+      "code": "Indonesia_Western",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Indonesia occidental",
+      "nombre_verano": ""
+    },
+    {
+      "id": 76,
+      "code": "Iran",
+      "nombre_generico": "hora de Irán",
+      "nombre_estandar": "hora estándar de Irán",
+      "nombre_verano": "hora de verano de Irán"
+    },
+    {
+      "id": 77,
+      "code": "Irkutsk",
+      "nombre_generico": "hora de Irkutsk",
+      "nombre_estandar": "hora estándar de Irkutsk",
+      "nombre_verano": "hora de verano de Irkutsk"
+    },
+    {
+      "id": 78,
+      "code": "Israel",
+      "nombre_generico": "hora de Israel",
+      "nombre_estandar": "hora estándar de Israel",
+      "nombre_verano": "hora de verano de Israel"
+    },
+    {
+      "id": 79,
+      "code": "Japan",
+      "nombre_generico": "hora de Japón",
+      "nombre_estandar": "hora estándar de Japón",
+      "nombre_verano": "hora de verano de Japón"
+    },
+    {
+      "id": 80,
+      "code": "Kamchatka",
+      "nombre_generico": "hora de Kamchatka",
+      "nombre_estandar": "hora estándar de Kamchatka",
+      "nombre_verano": "hora de verano de Kamchatka"
+    },
+    {
+      "id": 81,
+      "code": "Kazakhstan",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Kazajistán",
+      "nombre_verano": ""
+    },
+    {
+      "id": 82,
+      "code": "Kazakhstan_Eastern",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Kazajistán oriental",
+      "nombre_verano": ""
+    },
+    {
+      "id": 83,
+      "code": "Kazakhstan_Western",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Kazajistán occidental",
+      "nombre_verano": ""
+    },
+    {
+      "id": 84,
+      "code": "Korea",
+      "nombre_generico": "hora de Corea",
+      "nombre_estandar": "hora estándar de Corea",
+      "nombre_verano": "hora de verano de Corea"
+    },
+    {
+      "id": 85,
+      "code": "Kosrae",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Kosrae",
+      "nombre_verano": ""
+    },
+    {
+      "id": 86,
+      "code": "Krasnoyarsk",
+      "nombre_generico": "hora de Krasnoyarsk",
+      "nombre_estandar": "hora estándar de Krasnoyarsk",
+      "nombre_verano": "hora de verano de Krasnoyarsk"
+    },
+    {
+      "id": 87,
+      "code": "Kyrgystan",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Kirguistán",
+      "nombre_verano": ""
+    },
+    {
+      "id": 88,
+      "code": "Lanka",
+      "nombre_generico": "",
+      "nombre_estandar": "Hora de Sri Lanka",
+      "nombre_verano": ""
+    },
+    {
+      "id": 89,
+      "code": "Line_Islands",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de las Espóradas Ecuatoriales",
+      "nombre_verano": ""
+    },
+    {
+      "id": 90,
+      "code": "Lord_Howe",
+      "nombre_generico": "hora de Lord Howe",
+      "nombre_estandar": "hora estándar de Lord Howe",
+      "nombre_verano": "hora de verano de Lord Howe"
+    },
+    {
+      "id": 91,
+      "code": "Macau",
+      "nombre_generico": "Hora de Macao",
+      "nombre_estandar": "Hora estándar de Macao",
+      "nombre_verano": "Hora de verano de Macao"
+    },
+    {
+      "id": 92,
+      "code": "Magadan",
+      "nombre_generico": "hora de Magadán",
+      "nombre_estandar": "hora estándar de Magadán",
+      "nombre_verano": "hora de verano de Magadán"
+    },
+    {
+      "id": 93,
+      "code": "Malaysia",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Malasia",
+      "nombre_verano": ""
+    },
+    {
+      "id": 94,
+      "code": "Maldives",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Maldivas",
+      "nombre_verano": ""
+    },
+    {
+      "id": 95,
+      "code": "Marquesas",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Marquesas",
+      "nombre_verano": ""
+    },
+    {
+      "id": 96,
+      "code": "Marshall_Islands",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de las Islas Marshall",
+      "nombre_verano": ""
+    },
+    {
+      "id": 97,
+      "code": "Mauritius",
+      "nombre_generico": "hora de Mauricio",
+      "nombre_estandar": "hora estándar de Mauricio",
+      "nombre_verano": "hora de verano de Mauricio"
+    },
+    {
+      "id": 98,
+      "code": "Mawson",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Mawson",
+      "nombre_verano": ""
+    },
+    {
+      "id": 99,
+      "code": "Mexico_Pacific",
+      "nombre_generico": "hora del Pacífico de México",
+      "nombre_estandar": "hora estándar del Pacífico de México",
+      "nombre_verano": "hora de verano del Pacífico de México"
+    },
+    {
+      "id": 100,
+      "code": "Mongolia",
+      "nombre_generico": "hora de Ulán Bator",
+      "nombre_estandar": "hora estándar de Ulán Bator",
+      "nombre_verano": "hora de verano de Ulán Bator"
+    },
+    {
+      "id": 101,
+      "code": "Moscow",
+      "nombre_generico": "hora de Moscú",
+      "nombre_estandar": "hora estándar de Moscú",
+      "nombre_verano": "hora de verano de Moscú"
+    },
+    {
+      "id": 102,
+      "code": "Myanmar",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Myanmar",
+      "nombre_verano": ""
+    },
+    {
+      "id": 103,
+      "code": "Nauru",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Nauru",
+      "nombre_verano": ""
+    },
+    {
+      "id": 104,
+      "code": "Nepal",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Nepal",
+      "nombre_verano": ""
+    },
+    {
+      "id": 105,
+      "code": "New_Caledonia",
+      "nombre_generico": "hora de Nueva Caledonia",
+      "nombre_estandar": "hora estándar de Nueva Caledonia",
+      "nombre_verano": "hora de verano de Nueva Caledonia"
+    },
+    {
+      "id": 106,
+      "code": "New_Zealand",
+      "nombre_generico": "hora de Nueva Zelanda",
+      "nombre_estandar": "hora estándar de Nueva Zelanda",
+      "nombre_verano": "hora de verano de Nueva Zelanda"
+    },
+    {
+      "id": 107,
+      "code": "Newfoundland",
+      "nombre_generico": "hora de Terranova",
+      "nombre_estandar": "hora estándar de Terranova",
+      "nombre_verano": "hora de verano de Terranova"
+    },
+    {
+      "id": 108,
+      "code": "Niue",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Niue",
+      "nombre_verano": ""
+    },
+    {
+      "id": 109,
+      "code": "Norfolk",
+      "nombre_generico": "hora de la isla Norfolk",
+      "nombre_estandar": "hora estándar de la isla Norfolk",
+      "nombre_verano": "hora de verano de la isla Norfolk"
+    },
+    {
+      "id": 110,
+      "code": "Noronha",
+      "nombre_generico": "hora de Fernando de Noronha",
+      "nombre_estandar": "hora estándar de Fernando de Noronha",
+      "nombre_verano": "hora de verano de Fernando de Noronha"
+    },
+    {
+      "id": 111,
+      "code": "North_Mariana",
+      "nombre_generico": "",
+      "nombre_estandar": "Hora de las Islas Marianas del Norte",
+      "nombre_verano": ""
+    },
+    {
+      "id": 112,
+      "code": "Novosibirsk",
+      "nombre_generico": "hora de Novosibirsk",
+      "nombre_estandar": "hora estándar de Novosibirsk",
+      "nombre_verano": "hora de verano de Novosibirsk"
+    },
+    {
+      "id": 113,
+      "code": "Omsk",
+      "nombre_generico": "hora de Omsk",
+      "nombre_estandar": "hora estándar de Omsk",
+      "nombre_verano": "hora de verano de Omsk"
+    },
+    {
+      "id": 114,
+      "code": "Pakistan",
+      "nombre_generico": "hora de Pakistán",
+      "nombre_estandar": "hora estándar de Pakistán",
+      "nombre_verano": "hora de verano de Pakistán"
+    },
+    {
+      "id": 115,
+      "code": "Palau",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Palaos",
+      "nombre_verano": ""
+    },
+    {
+      "id": 116,
+      "code": "Papua_New_Guinea",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Papúa Nueva Guinea",
+      "nombre_verano": ""
+    },
+    {
+      "id": 117,
+      "code": "Paraguay",
+      "nombre_generico": "hora de Paraguay",
+      "nombre_estandar": "hora estándar de Paraguay",
+      "nombre_verano": "hora de verano de Paraguay"
+    },
+    {
+      "id": 118,
+      "code": "Peru",
+      "nombre_generico": "hora de Perú",
+      "nombre_estandar": "hora estándar de Perú",
+      "nombre_verano": "hora de verano de Perú"
+    },
+    {
+      "id": 119,
+      "code": "Philippines",
+      "nombre_generico": "hora de Filipinas",
+      "nombre_estandar": "hora estándar de Filipinas",
+      "nombre_verano": "hora de verano de Filipinas"
+    },
+    {
+      "id": 120,
+      "code": "Phoenix_Islands",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de las Islas Fénix",
+      "nombre_verano": ""
+    },
+    {
+      "id": 121,
+      "code": "Pierre_Miquelon",
+      "nombre_generico": "hora de San Pedro y Miquelón",
+      "nombre_estandar": "hora estándar de San Pedro y Miquelón",
+      "nombre_verano": "hora de verano de San Pedro y Miquelón"
+    },
+    {
+      "id": 122,
+      "code": "Pitcairn",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Pitcairn",
+      "nombre_verano": ""
+    },
+    {
+      "id": 123,
+      "code": "Ponape",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Pohnpei",
+      "nombre_verano": ""
+    },
+    {
+      "id": 124,
+      "code": "Pyongyang",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Pyongyang",
+      "nombre_verano": ""
+    },
+    {
+      "id": 125,
+      "code": "Qyzylorda",
+      "nombre_generico": "Hora de Qyzylorda",
+      "nombre_estandar": "Hora estándar de Qyzylorda",
+      "nombre_verano": "Hora de verano de Qyzylorda"
+    },
+    {
+      "id": 126,
+      "code": "Reunion",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Reunión",
+      "nombre_verano": ""
+    },
+    {
+      "id": 127,
+      "code": "Rothera",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Rothera",
+      "nombre_verano": ""
+    },
+    {
+      "id": 128,
+      "code": "Sakhalin",
+      "nombre_generico": "hora de Sajalín",
+      "nombre_estandar": "hora estándar de Sajalín",
+      "nombre_verano": "hora de verano de Sajalín"
+    },
+    {
+      "id": 129,
+      "code": "Samara",
+      "nombre_generico": "hora de Samara",
+      "nombre_estandar": "hora estándar de Samara",
+      "nombre_verano": "hora de verano de Samara"
+    },
+    {
+      "id": 130,
+      "code": "Samoa",
+      "nombre_generico": "hora de Samoa",
+      "nombre_estandar": "hora estándar de Samoa",
+      "nombre_verano": "hora de verano de Samoa"
+    },
+    {
+      "id": 131,
+      "code": "Seychelles",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Seychelles",
+      "nombre_verano": ""
+    },
+    {
+      "id": 132,
+      "code": "Singapore",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Singapur",
+      "nombre_verano": ""
+    },
+    {
+      "id": 133,
+      "code": "Solomon",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de las Islas Salomón",
+      "nombre_verano": ""
+    },
+    {
+      "id": 134,
+      "code": "South_Georgia",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Georgia del Sur",
+      "nombre_verano": ""
+    },
+    {
+      "id": 135,
+      "code": "Suriname",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Surinam",
+      "nombre_verano": ""
+    },
+    {
+      "id": 136,
+      "code": "Syowa",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Syowa",
+      "nombre_verano": ""
+    },
+    {
+      "id": 137,
+      "code": "Tahiti",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Tahití",
+      "nombre_verano": ""
+    },
+    {
+      "id": 138,
+      "code": "Taipei",
+      "nombre_generico": "hora de Taipéi",
+      "nombre_estandar": "hora estándar de Taipéi",
+      "nombre_verano": "hora de verano de Taipéi"
+    },
+    {
+      "id": 139,
+      "code": "Tajikistan",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Tayikistán",
+      "nombre_verano": ""
+    },
+    {
+      "id": 140,
+      "code": "Tokelau",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Tokelau",
+      "nombre_verano": ""
+    },
+    {
+      "id": 141,
+      "code": "Tonga",
+      "nombre_generico": "hora de Tonga",
+      "nombre_estandar": "hora estándar de Tonga",
+      "nombre_verano": "hora de verano de Tonga"
+    },
+    {
+      "id": 142,
+      "code": "Truk",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Chuuk",
+      "nombre_verano": ""
+    },
+    {
+      "id": 143,
+      "code": "Turkey",
+      "nombre_generico": "Hora de Turquía",
+      "nombre_estandar": "Hora estándar de Turquía",
+      "nombre_verano": "Hora de verano de Turquía"
+    },
+    {
+      "id": 144,
+      "code": "Turkmenistan",
+      "nombre_generico": "hora de Turkmenistán",
+      "nombre_estandar": "hora estándar de Turkmenistán",
+      "nombre_verano": "hora de verano de Turkmenistán"
+    },
+    {
+      "id": 145,
+      "code": "Tuvalu",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Tuvalu",
+      "nombre_verano": ""
+    },
+    {
+      "id": 146,
+      "code": "Uruguay",
+      "nombre_generico": "hora de Uruguay",
+      "nombre_estandar": "hora estándar de Uruguay",
+      "nombre_verano": "hora de verano de Uruguay"
+    },
+    {
+      "id": 147,
+      "code": "Uzbekistan",
+      "nombre_generico": "hora de Uzbekistán",
+      "nombre_estandar": "hora estándar de Uzbekistán",
+      "nombre_verano": "hora de verano de Uzbekistán"
+    },
+    {
+      "id": 148,
+      "code": "Vanuatu",
+      "nombre_generico": "hora de Vanuatu",
+      "nombre_estandar": "hora estándar de Vanuatu",
+      "nombre_verano": "hora de verano de Vanuatu"
+    },
+    {
+      "id": 149,
+      "code": "Venezuela",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Venezuela",
+      "nombre_verano": ""
+    },
+    {
+      "id": 150,
+      "code": "Vladivostok",
+      "nombre_generico": "hora de Vladivostok",
+      "nombre_estandar": "hora estándar de Vladivostok",
+      "nombre_verano": "hora de verano de Vladivostok"
+    },
+    {
+      "id": 151,
+      "code": "Volgograd",
+      "nombre_generico": "hora de Volgogrado",
+      "nombre_estandar": "hora estándar de Volgogrado",
+      "nombre_verano": "hora de verano de Volgogrado"
+    },
+    {
+      "id": 152,
+      "code": "Vostok",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Vostok",
+      "nombre_verano": ""
+    },
+    {
+      "id": 153,
+      "code": "Wake",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de la isla Wake",
+      "nombre_verano": ""
+    },
+    {
+      "id": 154,
+      "code": "Wallis",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Wallis y Futuna",
+      "nombre_verano": ""
+    },
+    {
+      "id": 155,
+      "code": "Yakutsk",
+      "nombre_generico": "hora de Yakutsk",
+      "nombre_estandar": "hora estándar de Yakutsk",
+      "nombre_verano": "hora de verano de Yakutsk"
+    },
+    {
+      "id": 156,
+      "code": "Yekaterinburg",
+      "nombre_generico": "hora de Ekaterimburgo",
+      "nombre_estandar": "hora estándar de Ekaterimburgo",
+      "nombre_verano": "hora de verano de Ekaterimburgo"
+    },
+    {
+      "id": 157,
+      "code": "Yukon",
+      "nombre_generico": "",
+      "nombre_estandar": "hora de Yukón",
+      "nombre_verano": ""
+    }
+  ],
+  "meta": {
+    "title": "Metazonas (husos horarios macrorregionales) — nombres en español - Descarga gratuita",
+    "description": "Metazonas (husos horarios macrorregionales) de la configuración regional es en CLDR — con nombre genérico, nombre estándar y nombre de verano. Contiene 157 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Metazonas (husos horarios macrorregionales) — nombres en español | ListBase",
+    "seo_description": "Descargar Metazonas (husos horarios macrorregionales) — nombres en español — 157 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 157 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

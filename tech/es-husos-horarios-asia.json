@@ -1,0 +1,456 @@
+{
+  "id": "es-husos-horarios-asia",
+  "name": "Husos horarios — Asia (50)",
+  "title": "Husos horarios — Asia (50)",
+  "description": "Husos horarios cuyo identificador IANA empieza por 'Asia/', con nombres en español.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "ciudad",
+      "label": "Ciudad",
+      "type": "string"
+    },
+    {
+      "key": "nombre_estandar",
+      "label": "Nombre Estandar",
+      "type": "string"
+    },
+    {
+      "key": "nombre_verano",
+      "label": "Nombre Verano",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Asia/Aden",
+      "region": "Asia",
+      "ciudad": "Adén",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Asia/Amman",
+      "region": "Asia",
+      "ciudad": "Ammán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Asia/Anadyr",
+      "region": "Asia",
+      "ciudad": "Anádyr",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Asia/Aqtau",
+      "region": "Asia",
+      "ciudad": "Aktau",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Asia/Aqtobe",
+      "region": "Asia",
+      "ciudad": "Aktobe",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Asia/Ashgabat",
+      "region": "Asia",
+      "ciudad": "Asjabad",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Asia/Baghdad",
+      "region": "Asia",
+      "ciudad": "Bagdad",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Asia/Bahrain",
+      "region": "Asia",
+      "ciudad": "Baréin",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Asia/Baku",
+      "region": "Asia",
+      "ciudad": "Bakú",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Asia/Barnaul",
+      "region": "Asia",
+      "ciudad": "Barnaúl",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Asia/Brunei",
+      "region": "Asia",
+      "ciudad": "Brunéi",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Asia/Calcutta",
+      "region": "Asia",
+      "ciudad": "Calcuta",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Asia/Chita",
+      "region": "Asia",
+      "ciudad": "Chitá",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Asia/Damascus",
+      "region": "Asia",
+      "ciudad": "Damasco",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Asia/Dhaka",
+      "region": "Asia",
+      "ciudad": "Daca",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Asia/Dubai",
+      "region": "Asia",
+      "ciudad": "Dubái",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Asia/Dushanbe",
+      "region": "Asia",
+      "ciudad": "Dusambé",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Asia/Hebron",
+      "region": "Asia",
+      "ciudad": "Hebrón",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Asia/Hovd",
+      "region": "Asia",
+      "ciudad": "Khovd",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Asia/Jakarta",
+      "region": "Asia",
+      "ciudad": "Yakarta",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Asia/Jerusalem",
+      "region": "Asia",
+      "ciudad": "Jerusalén",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Asia/Katmandu",
+      "region": "Asia",
+      "ciudad": "Katmandú",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Asia/Khandyga",
+      "region": "Asia",
+      "ciudad": "Khandiga",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Asia/Macau",
+      "region": "Asia",
+      "ciudad": "Macao",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Asia/Magadan",
+      "region": "Asia",
+      "ciudad": "Magadán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Asia/Makassar",
+      "region": "Asia",
+      "ciudad": "Makasar",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Asia/Muscat",
+      "region": "Asia",
+      "ciudad": "Mascate",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Asia/Qatar",
+      "region": "Asia",
+      "ciudad": "Catar",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Asia/Qostanay",
+      "region": "Asia",
+      "ciudad": "Kostanái",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Asia/Qyzylorda",
+      "region": "Asia",
+      "ciudad": "Kyzylorda",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Asia/Rangoon",
+      "region": "Asia",
+      "ciudad": "Yangón (Rangún)",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Asia/Riyadh",
+      "region": "Asia",
+      "ciudad": "Riad",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Asia/Saigon",
+      "region": "Asia",
+      "ciudad": "Ciudad Ho Chi Minh",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Asia/Sakhalin",
+      "region": "Asia",
+      "ciudad": "Sajalín",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Asia/Samarkand",
+      "region": "Asia",
+      "ciudad": "Samarcanda",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Asia/Seoul",
+      "region": "Asia",
+      "ciudad": "Seúl",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Asia/Shanghai",
+      "region": "Asia",
+      "ciudad": "Shanghái",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Asia/Singapore",
+      "region": "Asia",
+      "ciudad": "Singapur",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Asia/Srednekolymsk",
+      "region": "Asia",
+      "ciudad": "Srednekolimsk",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Asia/Taipei",
+      "region": "Asia",
+      "ciudad": "Taipéi",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "Asia/Tashkent",
+      "region": "Asia",
+      "ciudad": "Taskent",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "Asia/Tbilisi",
+      "region": "Asia",
+      "ciudad": "Tiflis",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "Asia/Tehran",
+      "region": "Asia",
+      "ciudad": "Teherán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "Asia/Thimphu",
+      "region": "Asia",
+      "ciudad": "Timbu",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "Asia/Tokyo",
+      "region": "Asia",
+      "ciudad": "Tokio",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "Asia/Ulaanbaatar",
+      "region": "Asia",
+      "ciudad": "Ulán Bator",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "Asia/Urumqi",
+      "region": "Asia",
+      "ciudad": "Ürümqi",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "Asia/Vientiane",
+      "region": "Asia",
+      "ciudad": "Vientián",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "Asia/Yekaterinburg",
+      "region": "Asia",
+      "ciudad": "Ekaterimburgo",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "Asia/Yerevan",
+      "region": "Asia",
+      "ciudad": "Ereván",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    }
+  ],
+  "meta": {
+    "title": "Husos horarios — Asia (50) - Descarga gratuita",
+    "description": "Husos horarios cuyo identificador IANA empieza por 'Asia/', con nombres en español. Contiene 50 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Husos horarios — Asia (50) | ListBase",
+    "seo_description": "Descargar Husos horarios — Asia (50) — 50 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 50 registros / 6 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

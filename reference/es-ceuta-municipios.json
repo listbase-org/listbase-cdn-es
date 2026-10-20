@@ -1,0 +1,100 @@
+{
+  "id": "es-ceuta-municipios",
+  "name": "Municipios de Ceuta - 1 municipios",
+  "title": "Municipios de Ceuta - 1 municipios",
+  "description": "Lista de los 1 municipios de la provincia de Ceuta (51) según el registro del INE. Pertenece a la comunidad autónoma Ceuta (uniprovincial: en este caso la comunidad autónoma y la provincia comparten el mismo territorio). Subconjunto del registro nacional es-municipios filtrado por code_province = '51' (equivalente a code_autonomy = '18').",
+  "category": "reference",
+  "source": "https://github.com/ByMykel/spanish-cities",
+  "source_url": "https://github.com/ByMykel/spanish-cities",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "nombre_comun",
+      "label": "Nombre Comun",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "code_province",
+      "label": "Code Province",
+      "type": "number"
+    },
+    {
+      "key": "province_nombre",
+      "label": "Province Nombre",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "code_autonomy",
+      "label": "Code Autonomy",
+      "type": "number"
+    },
+    {
+      "key": "autonomy_nombre",
+      "label": "Autonomy Nombre",
+      "type": "string"
+    },
+    {
+      "key": "autonomy_slug",
+      "label": "Autonomy Slug",
+      "type": "string"
+    },
+    {
+      "key": "flag",
+      "label": "Flag",
+      "type": "string"
+    },
+    {
+      "key": "coat_of_arms",
+      "label": "Coat Of Arms",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "510013",
+      "nombre": "Ceuta",
+      "nombre_comun": "Ceuta",
+      "slug": "ceuta",
+      "code_province": "51",
+      "province_nombre": "Ceuta",
+      "province_slug": "ceuta",
+      "code_autonomy": "18",
+      "autonomy_nombre": "Ceuta",
+      "autonomy_slug": "ceuta",
+      "flag": "",
+      "coat_of_arms": ""
+    }
+  ],
+  "meta": {
+    "title": "Municipios de Ceuta - 1 municipios - Descarga gratuita",
+    "description": "Lista de los 1 municipios de la provincia de Ceuta (51) según el registro del INE. Pertenece a la comunidad autónoma Ceuta (uniprovincial: en este caso la comunidad autónoma y la provincia comparten el mismo territorio). Subconjunto del registro nacional es-municipios filtrado por code_province = '51' (equivalente a code_autonomy = '18'). Contiene 1 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Municipios de Ceuta - 1 municipios | ListBase",
+    "seo_description": "Descargar Municipios de Ceuta - 1 municipios — 1 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 1 registros / 12 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: https://github.com/ByMykel/spanish-cities"
+    ]
+  }
+}

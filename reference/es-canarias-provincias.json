@@ -1,0 +1,93 @@
+{
+  "id": "es-canarias-provincias",
+  "name": "Provincias de Canarias - 2 provincias",
+  "title": "Provincias de Canarias - 2 provincias",
+  "description": "Lista de las 2 demarcaciones provinciales de la comunidad autónoma Canarias (05) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '05'.",
+  "category": "reference",
+  "source": "https://github.com/ByMykel/spanish-cities",
+  "source_url": "https://github.com/ByMykel/spanish-cities",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "nombre_comun",
+      "label": "Nombre Comun",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "code_autonomy",
+      "label": "Code Autonomy",
+      "type": "number"
+    },
+    {
+      "key": "autonomy_nombre",
+      "label": "Autonomy Nombre",
+      "type": "string"
+    },
+    {
+      "key": "autonomy_slug",
+      "label": "Autonomy Slug",
+      "type": "string"
+    },
+    {
+      "key": "flag",
+      "label": "Flag",
+      "type": "string"
+    },
+    {
+      "key": "coat_of_arms",
+      "label": "Coat Of Arms",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "35",
+      "nombre": "Palmas, Las",
+      "nombre_comun": "Las Palmas",
+      "slug": "las-palmas",
+      "code_autonomy": "05",
+      "autonomy_nombre": "Canarias",
+      "autonomy_slug": "canarias",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bandera_Provincial_de_Las_Palmas.png",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/8/85/Provincia_de_Las_Palmas_-_Escudo.svg"
+    },
+    {
+      "code": "38",
+      "nombre": "Santa Cruz de Tenerife",
+      "nombre_comun": "Santa Cruz de Tenerife",
+      "slug": "santa-cruz-de-tenerife",
+      "code_autonomy": "05",
+      "autonomy_nombre": "Canarias",
+      "autonomy_slug": "canarias",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bandera_Provincial_de_Santa_Cruz_de_Tenerife.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/3/31/Provincia_de_Santa_Cruz_de_Tenerife_-_Escudo.svg"
+    }
+  ],
+  "meta": {
+    "title": "Provincias de Canarias - 2 provincias - Descarga gratuita",
+    "description": "Lista de las 2 demarcaciones provinciales de la comunidad autónoma Canarias (05) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '05'. Contiene 2 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Provincias de Canarias - 2 provincias | ListBase",
+    "seo_description": "Descargar Provincias de Canarias - 2 provincias — 2 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 2 registros / 9 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: https://github.com/ByMykel/spanish-cities"
+    ]
+  }
+}

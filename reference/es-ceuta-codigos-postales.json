@@ -1,0 +1,176 @@
+{
+  "id": "es-ceuta-codigos-postales",
+  "name": "Códigos Postales de Ceuta - 5 códigos postales",
+  "title": "Códigos Postales de Ceuta - 5 códigos postales",
+  "description": "Códigos postales de la provincia de Ceuta (código INE 51) según el Callejero del Censo Electoral del INE. 5 pares CP↔municipio. Útil para autocompletado de direcciones, validación de formularios y SEO local en consultas tipo \"código postal ceuta\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "codigo_postal",
+      "label": "Codigo Postal",
+      "type": "number"
+    },
+    {
+      "key": "municipio_id",
+      "label": "Municipio Id",
+      "type": "number"
+    },
+    {
+      "key": "municipio_id_full",
+      "label": "Municipio Id Full",
+      "type": "number"
+    },
+    {
+      "key": "municipio_nombre",
+      "label": "Municipio Nombre",
+      "type": "string"
+    },
+    {
+      "key": "municipio_nombre_comun",
+      "label": "Municipio Nombre Comun",
+      "type": "string"
+    },
+    {
+      "key": "municipio_slug",
+      "label": "Municipio Slug",
+      "type": "string"
+    },
+    {
+      "key": "codigo_provincia",
+      "label": "Codigo Provincia",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nombre",
+      "label": "Provincia Nombre",
+      "type": "string"
+    },
+    {
+      "key": "provincia_nombre_comun",
+      "label": "Provincia Nombre Comun",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "codigo_autonomy",
+      "label": "Codigo Autonomy",
+      "type": "number"
+    },
+    {
+      "key": "autonomy_nombre",
+      "label": "Autonomy Nombre",
+      "type": "string"
+    },
+    {
+      "key": "autonomy_slug",
+      "label": "Autonomy Slug",
+      "type": "string"
+    },
+    {
+      "key": "is_anomalous_cp",
+      "label": "Is Anomalous Cp",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "codigo_postal": "51001",
+      "municipio_id": "51001",
+      "municipio_id_full": "510013",
+      "municipio_nombre": "Ceuta",
+      "municipio_nombre_comun": "Ceuta",
+      "municipio_slug": "ceuta",
+      "codigo_provincia": "51",
+      "provincia_nombre": "Ceuta",
+      "provincia_nombre_comun": "Ceuta",
+      "provincia_slug": "ceuta",
+      "codigo_autonomy": "18",
+      "autonomy_nombre": "Ceuta",
+      "autonomy_slug": "ceuta",
+      "is_anomalous_cp": false
+    },
+    {
+      "codigo_postal": "51002",
+      "municipio_id": "51001",
+      "municipio_id_full": "510013",
+      "municipio_nombre": "Ceuta",
+      "municipio_nombre_comun": "Ceuta",
+      "municipio_slug": "ceuta",
+      "codigo_provincia": "51",
+      "provincia_nombre": "Ceuta",
+      "provincia_nombre_comun": "Ceuta",
+      "provincia_slug": "ceuta",
+      "codigo_autonomy": "18",
+      "autonomy_nombre": "Ceuta",
+      "autonomy_slug": "ceuta",
+      "is_anomalous_cp": false
+    },
+    {
+      "codigo_postal": "51003",
+      "municipio_id": "51001",
+      "municipio_id_full": "510013",
+      "municipio_nombre": "Ceuta",
+      "municipio_nombre_comun": "Ceuta",
+      "municipio_slug": "ceuta",
+      "codigo_provincia": "51",
+      "provincia_nombre": "Ceuta",
+      "provincia_nombre_comun": "Ceuta",
+      "provincia_slug": "ceuta",
+      "codigo_autonomy": "18",
+      "autonomy_nombre": "Ceuta",
+      "autonomy_slug": "ceuta",
+      "is_anomalous_cp": false
+    },
+    {
+      "codigo_postal": "51004",
+      "municipio_id": "51001",
+      "municipio_id_full": "510013",
+      "municipio_nombre": "Ceuta",
+      "municipio_nombre_comun": "Ceuta",
+      "municipio_slug": "ceuta",
+      "codigo_provincia": "51",
+      "provincia_nombre": "Ceuta",
+      "provincia_nombre_comun": "Ceuta",
+      "provincia_slug": "ceuta",
+      "codigo_autonomy": "18",
+      "autonomy_nombre": "Ceuta",
+      "autonomy_slug": "ceuta",
+      "is_anomalous_cp": false
+    },
+    {
+      "codigo_postal": "51005",
+      "municipio_id": "51001",
+      "municipio_id_full": "510013",
+      "municipio_nombre": "Ceuta",
+      "municipio_nombre_comun": "Ceuta",
+      "municipio_slug": "ceuta",
+      "codigo_provincia": "51",
+      "provincia_nombre": "Ceuta",
+      "provincia_nombre_comun": "Ceuta",
+      "provincia_slug": "ceuta",
+      "codigo_autonomy": "18",
+      "autonomy_nombre": "Ceuta",
+      "autonomy_slug": "ceuta",
+      "is_anomalous_cp": false
+    }
+  ],
+  "meta": {
+    "title": "Códigos Postales de Ceuta - 5 códigos postales - Descarga gratuita",
+    "description": "Códigos postales de la provincia de Ceuta (código INE 51) según el Callejero del Censo Electoral del INE. 5 pares CP↔municipio. Útil para autocompletado de direcciones, validación de formularios y SEO local en consultas tipo \"código postal ceuta\". Contiene 5 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Códigos Postales de Ceuta - 5 códigos postales | ListBase",
+    "seo_description": "Descargar Códigos Postales de Ceuta - 5 códigos postales — 5 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 5 registros / 14 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

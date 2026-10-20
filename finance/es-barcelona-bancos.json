@@ -1,0 +1,849 @@
+{
+  "id": "es-barcelona-bancos",
+  "name": "Bancos en Barcelona — códigos SWIFT/BIC",
+  "title": "Bancos en Barcelona — códigos SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"BARCELONA\" (114 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 114,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 14,
+      "bank": "ABASIC SLU",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "DSGLESBB"
+    },
+    {
+      "id": 16,
+      "bank": "ABERTIS INFRAESTRUCTURAS, SA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "ABIRESBB"
+    },
+    {
+      "id": 18,
+      "bank": "ACA, S.A. SOCIEDAD DE VALORES",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "ACSVESB1"
+    },
+    {
+      "id": 21,
+      "bank": "AGENBOLSA A.V.B. S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "AGAVESB1"
+    },
+    {
+      "id": 23,
+      "bank": "AHORRO CORPORACION FINANCIERA, S.V., S.A.",
+      "city": "BARCELONA",
+      "branch": "(BARCELONA OFFICE)",
+      "swift_code": "AHCFESMMBAR"
+    },
+    {
+      "id": 33,
+      "bank": "ALMIRALL, S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "PFPFESBB"
+    },
+    {
+      "id": 40,
+      "bank": "ARESBANK, S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "AREBESMMBAR"
+    },
+    {
+      "id": 47,
+      "bank": "ARIBAU PRODUCTOS S L",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "LOCAESM1"
+    },
+    {
+      "id": 48,
+      "bank": "ARQUIA GESTION",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "ARGEESB1"
+    },
+    {
+      "id": 58,
+      "bank": "AXA MEDITERRANEAN SERVICES",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "AXMSESB1"
+    },
+    {
+      "id": 59,
+      "bank": "AXA SEGUROS GENERALES, SA DE SEGUROS Y RESEGUROS",
+      "city": "BARCELONA",
+      "branch": "(MPS)",
+      "swift_code": "AXIPESBBMPS"
+    },
+    {
+      "id": 60,
+      "bank": "AXA SEGUROS GENERALES, SA DE SEGUROS Y RESEGUROS",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "AXIPESBB"
+    },
+    {
+      "id": 106,
+      "bank": "BANCO DE DESARROLLO ECONOMICO ESPANOL",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "DEEEESM10BB"
+    },
+    {
+      "id": 186,
+      "bank": "BANCO MEDIOLANUM, S.A.",
+      "city": "BARCELONA",
+      "branch": "(RENTA FIJA CUENTA PROPIA)",
+      "swift_code": "BFIVESBBRFP"
+    },
+    {
+      "id": 187,
+      "bank": "BANCO MEDIOLANUM, S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "BFIVESBB"
+    },
+    {
+      "id": 190,
+      "bank": "BANCO PASTOR S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "PSTRESMMBAR"
+    },
+    {
+      "id": 198,
+      "bank": "BANCO POPULAR ESPANOL, S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "POPUESMMBAR"
+    },
+    {
+      "id": 231,
+      "bank": "BANK DEGROOF PETERCAM SPAIN, S.A.",
+      "city": "BARCELONA",
+      "branch": "(NON DEPOSITED)",
+      "swift_code": "DEGRESBBNDP"
+    },
+    {
+      "id": 232,
+      "bank": "BANK DEGROOF PETERCAM SPAIN, S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "DEGRESBB"
+    },
+    {
+      "id": 236,
+      "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+      "city": "BARCELONA",
+      "branch": "(BARCELONA SUB-BRANCH OF MADRID BRANCH)",
+      "swift_code": "BOTKESM10BB"
+    },
+    {
+      "id": 242,
+      "bank": "BANKINTER, S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "BKBKESMMBAR"
+    },
+    {
+      "id": 262,
+      "bank": "BANQUE COURTOIS",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "COURESB1"
+    },
+    {
+      "id": 268,
+      "bank": "BANQUE SCS ALLIANCE",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "BSSAESB1"
+    },
+    {
+      "id": 270,
+      "bank": "BARCELONA STOCK EXCHANGE",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "XBARESB1"
+    },
+    {
+      "id": 285,
+      "bank": "BETA CAPITAL S.V.B., S.A.",
+      "city": "BARCELONA",
+      "branch": "(BARCELONA OFFICE)",
+      "swift_code": "BECAESM1BAR"
+    },
+    {
+      "id": 290,
+      "bank": "BME CLEARING",
+      "city": "BARCELONA",
+      "branch": "(ANCILLARY SYSTEM)",
+      "swift_code": "MEFFESBBCCP"
+    },
+    {
+      "id": 291,
+      "bank": "BME CLEARING",
+      "city": "BARCELONA",
+      "branch": "(MARGIN ACCOUNT)",
+      "swift_code": "MEFFESBBMRG"
+    },
+    {
+      "id": 292,
+      "bank": "BME CLEARING",
+      "city": "BARCELONA",
+      "branch": "(MEFF EURO SERVICES)",
+      "swift_code": "MEFFESBBMES"
+    },
+    {
+      "id": 293,
+      "bank": "BME CLEARING",
+      "city": "BARCELONA",
+      "branch": "(MEFF RENTA FIJA)",
+      "swift_code": "MEFFESBBMRF"
+    },
+    {
+      "id": 294,
+      "bank": "BME CLEARING",
+      "city": "BARCELONA",
+      "branch": "(MEFFREPO)",
+      "swift_code": "MEFFESBBRRR"
+    },
+    {
+      "id": 302,
+      "bank": "BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA",
+      "city": "BARCELONA",
+      "branch": "(BARCELONA BRANCH)",
+      "swift_code": "GEBAESMMBAR"
+    },
+    {
+      "id": 419,
+      "bank": "BUCEFALIA INVERSIONES SICAV SA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "BUIIESB1"
+    },
+    {
+      "id": 435,
+      "bank": "CAIXA BARCELONA SEGUROS VIDA, S.A. SEGUROS Y REASEGUROS",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "CBSVESB1"
+    },
+    {
+      "id": 436,
+      "bank": "CAIXA DE CREDIT DELS. ENGINYERS-CAJA DE CREDITO DE LOS INGENIEROS SOC. COOP. DE CREDITO",
+      "city": "BARCELONA",
+      "branch": "(PRUEBAS TESORIA)",
+      "swift_code": "CDENESBBTES"
+    },
+    {
+      "id": 437,
+      "bank": "CAIXA DE CREDIT DELS. ENGINYERS-CAJA DE CREDITO DE LOS INGENIEROS SOC. COOP. DE CREDITO",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "CDENESBB"
+    },
+    {
+      "id": 450,
+      "bank": "CAIXABANK ASSET MANAGEMENT SGIIC S.A.U.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "CSNIESB1"
+    },
+    {
+      "id": 451,
+      "bank": "CAIXABANK ELECTRONIC MONEY EDE S.L.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "CEODESB1"
+    },
+    {
+      "id": 452,
+      "bank": "CAIXABANK S.A. (FORMERLY BARCLAYS BANK S.A.U.)",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "BARCESMM"
+    },
+    {
+      "id": 453,
+      "bank": "CAIXABANK, S.A.",
+      "city": "BARCELONA",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "CAIXESBB"
+    },
+    {
+      "id": 454,
+      "bank": "CAIXABANK, S.A.",
+      "city": "BARCELONA",
+      "branch": "(OOFF THROUGH BME)",
+      "swift_code": "CAIXESBBBME"
+    },
+    {
+      "id": 455,
+      "bank": "CAIXABANK, S.A.",
+      "city": "BARCELONA",
+      "branch": "(SYNDICATED OPERATIONS)",
+      "swift_code": "CAIXESBBOSN"
+    },
+    {
+      "id": 456,
+      "bank": "CAIXABANK, S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "CAIXESBBEAG"
+    },
+    {
+      "id": 472,
+      "bank": "CAJA DE ARQUITECTOS S.COOP.DE CREDITO",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "CASDESBB"
+    },
+    {
+      "id": 521,
+      "bank": "CEMENTOS MOLINS SA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "CEMOESBB"
+    },
+    {
+      "id": 525,
+      "bank": "CHINA CONSTRUCTION BANK (EUROPE) S.A. SUCURSAL EN ESPANA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "PCBCESBB"
+    },
+    {
+      "id": 530,
+      "bank": "CITIBANK N.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "CITIESB1"
+    },
+    {
+      "id": 533,
+      "bank": "COFITUR INVERSIONES SICAV SA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "COVSESB1"
+    },
+    {
+      "id": 534,
+      "bank": "COMMERZBANK AG",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "COBAESMXBAR"
+    },
+    {
+      "id": 539,
+      "bank": "COMSA CORPORACION",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "CMEMESBB"
+    },
+    {
+      "id": 551,
+      "bank": "CREDIT AGRICOLE (CRCAM SUD MEDITERRANEE - ARIEGE - PYRENEES ORIENTALES S.E.)",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "AGRIESB1"
+    },
+    {
+      "id": 568,
+      "bank": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA",
+      "city": "BARCELONA",
+      "branch": "(BCN-BRANCH)",
+      "swift_code": "DEUTESBBASS"
+    },
+    {
+      "id": 569,
+      "bank": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "DEUTESBB"
+    },
+    {
+      "id": 574,
+      "bank": "DL CORPORATION AGENCIA DE VALORES S A",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "COAVESB1"
+    },
+    {
+      "id": 575,
+      "bank": "DON CURRO INVERSIONES SICAV SA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "DCISESB1"
+    },
+    {
+      "id": 589,
+      "bank": "EUROBANK DEL MEDITERRANEO S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "EUMEESB1"
+    },
+    {
+      "id": 592,
+      "bank": "EURONA WIRELESS TELECOM",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "EUWTESBB"
+    },
+    {
+      "id": 606,
+      "bank": "FIBANC EXCELLENT FI",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "FBBEESB1"
+    },
+    {
+      "id": 612,
+      "bank": "FITCH RATINGS ESPANA. S.A.U.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "FRIPESB1"
+    },
+    {
+      "id": 614,
+      "bank": "FOMENTO DE CONSTRUCCIONES Y CONTRATAS",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "FCOTESB1"
+    },
+    {
+      "id": 619,
+      "bank": "G.V.C. GENERAL DE VALORES Y CAMBIOS , S.A., S.V.B.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "GGVCESB1"
+    },
+    {
+      "id": 620,
+      "bank": "GAESCO BOLSA SOCIEDAD DE VALORES Y BOLSA SA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "GAESESM1"
+    },
+    {
+      "id": 622,
+      "bank": "GAS NATURAL SDG S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "GANRESBB"
+    },
+    {
+      "id": 625,
+      "bank": "GENERAL DE VALORES Y CAMBIOS S.V. S.A.",
+      "city": "BARCELONA",
+      "branch": "(AS ENTIDAD AGENTE)",
+      "swift_code": "GVCBESBBAGE"
+    },
+    {
+      "id": 626,
+      "bank": "GENERAL DE VALORES Y CAMBIOS S.V. S.A.",
+      "city": "BARCELONA",
+      "branch": "(ETB GVC GAESCO)",
+      "swift_code": "GVCBESBBETB"
+    },
+    {
+      "id": 627,
+      "bank": "GENERAL DE VALORES Y CAMBIOS S.V. S.A.",
+      "city": "BARCELONA",
+      "branch": "(THIRD PARTY ACCOUNT EOC)",
+      "swift_code": "GVCBESBBEOC"
+    },
+    {
+      "id": 628,
+      "bank": "GENERAL DE VALORES Y CAMBIOS S.V. S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "GVCBESBB"
+    },
+    {
+      "id": 629,
+      "bank": "GENERAL ELECTRIC CAPITAL BANK S.A",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "GEECESB1"
+    },
+    {
+      "id": 643,
+      "bank": "GRIFOLS S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "GRLSESBB"
+    },
+    {
+      "id": 644,
+      "bank": "GRUPO INVERSOR HESPERIA, S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "GIHSESB1"
+    },
+    {
+      "id": 650,
+      "bank": "HERMES BOLSA, AVB, S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "HEBVESB1"
+    },
+    {
+      "id": 670,
+      "bank": "INBARSAVE SICAV SA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "IBSVESB1"
+    },
+    {
+      "id": 676,
+      "bank": "INMOB CALERA Y CHOZAS CART SICAV SA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "ICCRESB1"
+    },
+    {
+      "id": 678,
+      "bank": "INTERBROKERS ESPANOLA DE VALORES, AGENCIA DE VALORES, S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "IEVAESB1"
+    },
+    {
+      "id": 690,
+      "bank": "INVERCAIXA VALORES S.V.B., S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "INBVESB1"
+    },
+    {
+      "id": 694,
+      "bank": "ISDIN SA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "ISDIESBB"
+    },
+    {
+      "id": 716,
+      "bank": "LABORATORIOS DEL DR. ESTEVE, S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "ESTEESBB"
+    },
+    {
+      "id": 718,
+      "bank": "LANDESBANK BADEN-WUERTTEMBERG",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "SOLAESB1"
+    },
+    {
+      "id": 726,
+      "bank": "LONDON FORFAITING A PARIS, S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "LOFPESB1"
+    },
+    {
+      "id": 735,
+      "bank": "MEDIFOND PLUS FI",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "MEPLESB1"
+    },
+    {
+      "id": 736,
+      "bank": "MEDIGESTION 02 SICAV SA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "MESVESB1"
+    },
+    {
+      "id": 737,
+      "bank": "MEDIOLANIUM ALPHA PLUS-F.I.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "MEAUESB1"
+    },
+    {
+      "id": 739,
+      "bank": "MEFFCLEAR",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "MEFEESB1"
+    },
+    {
+      "id": 742,
+      "bank": "MERCATO CONTINUO ESPANOL",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "XMCEESB1"
+    },
+    {
+      "id": 744,
+      "bank": "MERCHBOLSA AGENCIA DE VALORES, S.A",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "XBAVESB1"
+    },
+    {
+      "id": 757,
+      "bank": "MORCOTE INVERSIONES SICAV SA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "MOIIESB1"
+    },
+    {
+      "id": 766,
+      "bank": "NEXUS ENERGIA S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "NEXNESB1"
+    },
+    {
+      "id": 774,
+      "bank": "NUEVO MICRO BANK, S.A.U.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "MIKBESB1"
+    },
+    {
+      "id": 775,
+      "bank": "OLIVARDA SICAV SA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "OLSIESB1"
+    },
+    {
+      "id": 792,
+      "bank": "PRIMER BANCO AHORRO Y PRESTAMO VIVIENDA FAMILIAR,S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "PAPIESB1"
+    },
+    {
+      "id": 794,
+      "bank": "PRIVAT BANK S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "PRVBESB1"
+    },
+    {
+      "id": 799,
+      "bank": "PUIG, S.L.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "PUIGESBB"
+    },
+    {
+      "id": 803,
+      "bank": "RCSCCH 1604 SICAV SA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "RCSIESB1"
+    },
+    {
+      "id": 813,
+      "bank": "RENTCAIXA, S.A DE SEGUROS Y REASEGUROS",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "RTCAESB1"
+    },
+    {
+      "id": 816,
+      "bank": "RIVA Y GARCIA - 1877, SOCIEDAD DE VALORES, S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "RIGIESB1"
+    },
+    {
+      "id": 817,
+      "bank": "ROCA SANITARIO, S. A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "GROCESBB"
+    },
+    {
+      "id": 822,
+      "bank": "SABA INFRAESTRUCTURAS, S. A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "SINFESBB"
+    },
+    {
+      "id": 837,
+      "bank": "SEBROKER BOLSA AGENCIA DE VALORES, S A",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "SBAOESB1"
+    },
+    {
+      "id": 838,
+      "bank": "SEGURCAIXA SOCIEDAD ANONIMA DE SEGUROS Y REASEGUROS",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "SSAEESB1"
+    },
+    {
+      "id": 873,
+      "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
+      "city": "BARCELONA",
+      "branch": "(ANCIILARY SYSTEM)",
+      "swift_code": "XBCNESBBSCL"
+    },
+    {
+      "id": 874,
+      "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
+      "city": "BARCELONA",
+      "branch": "(EVENTOS CORPORATIVOS (FASE2))",
+      "swift_code": "XBCNESBBEC2"
+    },
+    {
+      "id": 875,
+      "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
+      "city": "BARCELONA",
+      "branch": "(EVENTOS CORPORATIVOS)",
+      "swift_code": "XBCNESBBECO"
+    },
+    {
+      "id": 876,
+      "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
+      "city": "BARCELONA",
+      "branch": "(LIBRO REGISTRO ACCIONISTAS)",
+      "swift_code": "XBCNESBBLRA"
+    },
+    {
+      "id": 877,
+      "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
+      "city": "BARCELONA",
+      "branch": "(SER. DE COMP. Y LIQ. BOLSA DE VALORES DE BARCELONA CUENTA GARANTIAS)",
+      "swift_code": "XBCNESBBGAR"
+    },
+    {
+      "id": 878,
+      "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
+      "city": "BARCELONA",
+      "branch": "(SISTEMAS DE GESTION (FASE2))",
+      "swift_code": "XBCNESBBSG2"
+    },
+    {
+      "id": 879,
+      "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
+      "city": "BARCELONA",
+      "branch": "(SISTEMAS DE GESTION)",
+      "swift_code": "XBCNESBBSGX"
+    },
+    {
+      "id": 880,
+      "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "XBCNESBB"
+    },
+    {
+      "id": 887,
+      "bank": "SOCIETE GENERALE, SUCURSAL EN ESPANA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "SOGEESMMBAR"
+    },
+    {
+      "id": 892,
+      "bank": "SOLVENTIS A.V., S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "SOVVESB1"
+    },
+    {
+      "id": 896,
+      "bank": "SYNECTIC, TECNOLOGIAS DE LA INFORMACION SA.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "AGBBESBB"
+    },
+    {
+      "id": 906,
+      "bank": "THE GB FOODS, S.A.",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "GBFSESBB"
+    },
+    {
+      "id": 925,
+      "bank": "USATEGI INVERSIONES SICAV SA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "USISESB1"
+    },
+    {
+      "id": 926,
+      "bank": "VIDACAIXA, S.A DE SEGUROS Y REASEGUROS",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "VDCAESB1"
+    },
+    {
+      "id": 928,
+      "bank": "VUELING AIRLINES S.A",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "VLNGESBB"
+    },
+    {
+      "id": 933,
+      "bank": "ZURICH INSURANCE PLC. SUCURSAL EN ESPANA",
+      "city": "BARCELONA",
+      "branch": "",
+      "swift_code": "ZURIESBB"
+    }
+  ],
+  "meta": {
+    "title": "Bancos en Barcelona — códigos SWIFT/BIC - Descarga gratuita",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"BARCELONA\" (114 institutions). Contiene 114 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Bancos en Barcelona — códigos SWIFT/BIC | ListBase",
+    "seo_description": "Descargar Bancos en Barcelona — códigos SWIFT/BIC — 114 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 114 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

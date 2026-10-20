@@ -1,0 +1,152 @@
+{
+  "id": "es-husos-horarios-pacific",
+  "name": "Husos horarios — Pacific (12)",
+  "title": "Husos horarios — Pacific (12)",
+  "description": "Husos horarios cuyo identificador IANA empieza por 'Pacific/', con nombres en español.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "ciudad",
+      "label": "Ciudad",
+      "type": "string"
+    },
+    {
+      "key": "nombre_estandar",
+      "label": "Nombre Estandar",
+      "type": "string"
+    },
+    {
+      "key": "nombre_verano",
+      "label": "Nombre Verano",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Pacific/Easter",
+      "region": "Pacific",
+      "ciudad": "Isla de Pascua",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Pacific/Enderbury",
+      "region": "Pacific",
+      "ciudad": "Isla Kanton",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Pacific/Fiji",
+      "region": "Pacific",
+      "ciudad": "Fiyi",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Pacific/Galapagos",
+      "region": "Pacific",
+      "ciudad": "Galápagos",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Pacific/Honolulu",
+      "region": "Pacific",
+      "ciudad": "Honolulú",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Pacific/Noumea",
+      "region": "Pacific",
+      "ciudad": "Numea",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Pacific/Palau",
+      "region": "Pacific",
+      "ciudad": "Palaos",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Pacific/Ponape",
+      "region": "Pacific",
+      "ciudad": "Pohnpei",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Pacific/Saipan",
+      "region": "Pacific",
+      "ciudad": "Saipán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Pacific/Tahiti",
+      "region": "Pacific",
+      "ciudad": "Tahití",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Pacific/Truk",
+      "region": "Pacific",
+      "ciudad": "Chuuk",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Pacific/Wallis",
+      "region": "Pacific",
+      "ciudad": "Wallis & Futuna",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    }
+  ],
+  "meta": {
+    "title": "Husos horarios — Pacific (12) - Descarga gratuita",
+    "description": "Husos horarios cuyo identificador IANA empieza por 'Pacific/', con nombres en español. Contiene 12 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Husos horarios — Pacific (12) | ListBase",
+    "seo_description": "Descargar Husos horarios — Pacific (12) — 12 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 12 registros / 6 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

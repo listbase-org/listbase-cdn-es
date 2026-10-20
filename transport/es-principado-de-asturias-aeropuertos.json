@@ -1,0 +1,282 @@
+{
+  "id": "es-principado-de-asturias-aeropuertos",
+  "name": "Aeropuertos de Principado de Asturias",
+  "title": "Aeropuertos de Principado de Asturias",
+  "description": "Instalaciones aeronauticas situadas en Principado de Asturias (ES-AS) segun OurAirports: 9 registros (4 small_airport, 4 heliport, 1 large_airport). La particion usa la columna iso_region propia de la fuente; no se ha empleado geometria, geocodificacion inversa ni ningun cruce externo. Incluye codigos ICAO/IATA, coordenadas WGS84, elevacion, municipio y servicio regular.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "comunidad_autonoma",
+      "label": "Comunidad Autonoma",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ident": "ES-0044",
+      "name": "Aeródromo de la Curiscada",
+      "type": "small_airport",
+      "latitude_deg": "43.3330166667",
+      "longitude_deg": "-6.3785",
+      "elevation_ft": "2241",
+      "iso_country": "ES",
+      "iso_region": "ES-AS",
+      "comunidad_autonoma": "Asturias",
+      "municipality": "Tineo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0193",
+      "name": "Aeroclub Arnao UL",
+      "type": "small_airport",
+      "latitude_deg": "43.5531667",
+      "longitude_deg": "-7.0168",
+      "elevation_ft": "69",
+      "iso_country": "ES",
+      "iso_region": "ES-AS",
+      "comunidad_autonoma": "Asturias",
+      "municipality": "Arnao",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0296",
+      "name": "Aerodromo de Sevares",
+      "type": "small_airport",
+      "latitude_deg": "43.36372",
+      "longitude_deg": "-5.24199",
+      "elevation_ft": "",
+      "iso_country": "ES",
+      "iso_region": "ES-AS",
+      "comunidad_autonoma": "Asturias",
+      "municipality": "Piloña",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0336",
+      "name": "Parque de Bomberos de Cangas de Onís Heliport",
+      "type": "heliport",
+      "latitude_deg": "43.35014",
+      "longitude_deg": "-5.11164",
+      "elevation_ft": "",
+      "iso_country": "ES",
+      "iso_region": "ES-AS",
+      "comunidad_autonoma": "Asturias",
+      "municipality": "Cangas de Onís",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0337",
+      "name": "Ibias Park Fire Fighting Heliport",
+      "type": "heliport",
+      "latitude_deg": "43.027069",
+      "longitude_deg": "-6.88433",
+      "elevation_ft": "2533",
+      "iso_country": "ES",
+      "iso_region": "ES-AS",
+      "comunidad_autonoma": "Asturias",
+      "municipality": "San Antolín de Ibias",
+      "scheduled_service": "no",
+      "icao_code": "LEBO",
+      "iata_code": "",
+      "gps_code": "LEBO",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "LEAS",
+      "name": "Asturias Airport",
+      "type": "large_airport",
+      "latitude_deg": "43.563599",
+      "longitude_deg": "-6.03462",
+      "elevation_ft": "416",
+      "iso_country": "ES",
+      "iso_region": "ES-AS",
+      "comunidad_autonoma": "Asturias",
+      "municipality": "Ranón",
+      "scheduled_service": "yes",
+      "icao_code": "LEAS",
+      "iata_code": "OVD",
+      "gps_code": "LEAS",
+      "local_code": "",
+      "home_link": "https://www.aena.es/en/asturias.html",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Asturias_Airport"
+    },
+    {
+      "ident": "LEEL",
+      "name": "El Musel Heliport",
+      "type": "heliport",
+      "latitude_deg": "43.54973220825195",
+      "longitude_deg": "-5.695445537567139",
+      "elevation_ft": "1",
+      "iso_country": "ES",
+      "iso_region": "ES-AS",
+      "comunidad_autonoma": "Asturias",
+      "municipality": "Gijón",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LEEL",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "LEHU",
+      "name": "Oviedo Hospital Heliport",
+      "type": "heliport",
+      "latitude_deg": "43.37721",
+      "longitude_deg": "-5.82638",
+      "elevation_ft": "",
+      "iso_country": "ES",
+      "iso_region": "ES-AS",
+      "comunidad_autonoma": "Asturias",
+      "municipality": "Oviedo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LEHU",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "LEMR",
+      "name": "La Morgal Airfield",
+      "type": "small_airport",
+      "latitude_deg": "43.429199",
+      "longitude_deg": "-5.83056",
+      "elevation_ft": "541",
+      "iso_country": "ES",
+      "iso_region": "ES-AS",
+      "comunidad_autonoma": "Asturias",
+      "municipality": "Oviedo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LEMR",
+      "local_code": "",
+      "home_link": "http://www.aeroclubllanera.com/",
+      "wikipedia_link": "http://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_La_Morgal"
+    }
+  ],
+  "meta": {
+    "title": "Aeropuertos de Principado de Asturias - Descarga gratuita",
+    "description": "Instalaciones aeronauticas situadas en Principado de Asturias (ES-AS) segun OurAirports: 9 registros (4 small_airport, 4 heliport, 1 large_airport). La particion usa la columna iso_region propia de la fuente; no se ha empleado geometria, geocodificacion inversa ni ningun cruce externo. Incluye codigos ICAO/IATA, coordenadas WGS84, elevacion, municipio y servicio regular. Contiene 9 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Aeropuertos de Principado de Asturias | ListBase",
+    "seo_description": "Descargar Aeropuertos de Principado de Asturias — 9 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 9 registros / 17 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

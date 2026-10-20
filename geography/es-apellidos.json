@@ -1,0 +1,376 @@
+{
+  "id": "es-apellidos",
+  "name": "Es Apellidos",
+  "title": "Es Apellidos",
+  "description": "Top-40 apellidos más comunes de España con número de portadores y porcentaje de la población",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "count",
+      "label": "Count",
+      "type": "number"
+    },
+    {
+      "key": "percent",
+      "label": "Percent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "ES-1",
+      "rank": 1,
+      "localized": "García",
+      "romanized": "García",
+      "count": 1378000,
+      "percent": 0.0348
+    },
+    {
+      "name_group": "ES-2",
+      "rank": 2,
+      "localized": "Fernández",
+      "romanized": "Fernández",
+      "count": 851000,
+      "percent": 0.0215
+    },
+    {
+      "name_group": "ES-3",
+      "rank": 3,
+      "localized": "González",
+      "romanized": "González",
+      "count": 839000,
+      "percent": 0.0212
+    },
+    {
+      "name_group": "ES-4",
+      "rank": 4,
+      "localized": "Rodríguez",
+      "romanized": "Rodríguez",
+      "count": 804000,
+      "percent": 0.0203
+    },
+    {
+      "name_group": "ES-5",
+      "rank": 5,
+      "localized": "López",
+      "romanized": "López",
+      "count": 796000,
+      "percent": 0.0201
+    },
+    {
+      "name_group": "ES-6",
+      "rank": 6,
+      "localized": "Martínez",
+      "romanized": "Martínez",
+      "count": 788000,
+      "percent": 0.0197
+    },
+    {
+      "name_group": "ES-7",
+      "rank": 7,
+      "localized": "Sánchez",
+      "romanized": "Sánchez",
+      "count": 725000,
+      "percent": 0.0183
+    },
+    {
+      "name_group": "ES-8",
+      "rank": 8,
+      "localized": "Pérez",
+      "romanized": "Pérez",
+      "count": 709000,
+      "percent": 0.0179
+    },
+    {
+      "name_group": "ES-9",
+      "rank": 9,
+      "localized": "Martín",
+      "romanized": "Martín",
+      "count": 459000,
+      "percent": 0.0116
+    },
+    {
+      "name_group": "ES-10",
+      "rank": 10,
+      "localized": "Gómez",
+      "romanized": "Gómez",
+      "count": 440000,
+      "percent": 0.0111
+    },
+    {
+      "name_group": "ES-11",
+      "rank": 11,
+      "localized": "Ruiz",
+      "romanized": "Ruiz",
+      "count": 321000,
+      "percent": 0.0081
+    },
+    {
+      "name_group": "ES-12",
+      "rank": 12,
+      "localized": "Hernández",
+      "romanized": "Hernández",
+      "count": 305000,
+      "percent": 0.0077
+    },
+    {
+      "name_group": "ES-13",
+      "rank": 13,
+      "localized": "Jiménez",
+      "romanized": "Jiménez",
+      "count": 293000,
+      "percent": 0.0074
+    },
+    {
+      "name_group": "ES-14",
+      "rank": 14,
+      "localized": "Díaz",
+      "romanized": "Díaz",
+      "count": 293000,
+      "percent": 0.0074
+    },
+    {
+      "name_group": "ES-15",
+      "rank": 15,
+      "localized": "Álvarez",
+      "romanized": "Álvarez",
+      "count": 273000,
+      "percent": 0.0069
+    },
+    {
+      "name_group": "ES-16",
+      "rank": 16,
+      "localized": "Moreno",
+      "romanized": "Moreno",
+      "count": 261000,
+      "percent": 0.0066
+    },
+    {
+      "name_group": "ES-17",
+      "rank": 17,
+      "localized": "Muñoz",
+      "romanized": "Muñoz",
+      "count": 241000,
+      "percent": 0.0061
+    },
+    {
+      "name_group": "ES-18",
+      "rank": 18,
+      "localized": "Alonso",
+      "romanized": "Alonso",
+      "count": 206000,
+      "percent": 0.0052
+    },
+    {
+      "name_group": "ES-19",
+      "rank": 19,
+      "localized": "Gutiérrez",
+      "romanized": "Gutiérrez",
+      "count": 170000,
+      "percent": 0.0043
+    },
+    {
+      "name_group": "ES-20",
+      "rank": 20,
+      "localized": "Romero",
+      "romanized": "Romero",
+      "count": 170000,
+      "percent": 0.0043
+    },
+    {
+      "name_group": "ES-21",
+      "rank": 21,
+      "localized": "Navarro",
+      "romanized": "Navarro",
+      "count": 158400,
+      "percent": 0.004
+    },
+    {
+      "name_group": "ES-22",
+      "rank": 22,
+      "localized": "Torres",
+      "romanized": "Torres",
+      "count": 134600,
+      "percent": 0.0034
+    },
+    {
+      "name_group": "ES-23",
+      "rank": 23,
+      "localized": "Domínguez",
+      "romanized": "Domínguez",
+      "count": 134600,
+      "percent": 0.0034
+    },
+    {
+      "name_group": "ES-24",
+      "rank": 24,
+      "localized": "Gil",
+      "romanized": "Gil",
+      "count": 134600,
+      "percent": 0.0034
+    },
+    {
+      "name_group": "ES-25",
+      "rank": 25,
+      "localized": "Vázquez",
+      "romanized": "Vázquez",
+      "count": 130000,
+      "percent": 0.0033
+    },
+    {
+      "name_group": "ES-26",
+      "rank": 26,
+      "localized": "Serrano",
+      "romanized": "Serrano",
+      "count": 122700,
+      "percent": 0.0031
+    },
+    {
+      "name_group": "ES-27",
+      "rank": 27,
+      "localized": "Ramos",
+      "romanized": "Ramos",
+      "count": 118000,
+      "percent": 0.003
+    },
+    {
+      "name_group": "ES-28",
+      "rank": 28,
+      "localized": "Blanco",
+      "romanized": "Blanco",
+      "count": 118000,
+      "percent": 0.003
+    },
+    {
+      "name_group": "ES-29",
+      "rank": 29,
+      "localized": "Sanz",
+      "romanized": "Sanz",
+      "count": 106900,
+      "percent": 0.0027
+    },
+    {
+      "name_group": "ES-30",
+      "rank": 30,
+      "localized": "Castro",
+      "romanized": "Castro",
+      "count": 102900,
+      "percent": 0.0026
+    },
+    {
+      "name_group": "ES-31",
+      "rank": 31,
+      "localized": "Suárez",
+      "romanized": "Suárez",
+      "count": 102900,
+      "percent": 0.0026
+    },
+    {
+      "name_group": "ES-32",
+      "rank": 32,
+      "localized": "Ortega",
+      "romanized": "Ortega",
+      "count": 99000,
+      "percent": 0.0025
+    },
+    {
+      "name_group": "ES-33",
+      "rank": 33,
+      "localized": "Rubio",
+      "romanized": "Rubio",
+      "count": 99000,
+      "percent": 0.0025
+    },
+    {
+      "name_group": "ES-34",
+      "rank": 34,
+      "localized": "Molina",
+      "romanized": "Molina",
+      "count": 99000,
+      "percent": 0.0025
+    },
+    {
+      "name_group": "ES-35",
+      "rank": 35,
+      "localized": "Delgado",
+      "romanized": "Delgado",
+      "count": 95000,
+      "percent": 0.0024
+    },
+    {
+      "name_group": "ES-36",
+      "rank": 36,
+      "localized": "Ramírez",
+      "romanized": "Ramírez",
+      "count": 95000,
+      "percent": 0.0024
+    },
+    {
+      "name_group": "ES-37",
+      "rank": 37,
+      "localized": "Morales",
+      "romanized": "Morales",
+      "count": 95000,
+      "percent": 0.0024
+    },
+    {
+      "name_group": "ES-38",
+      "rank": 38,
+      "localized": "Ortiz",
+      "romanized": "Ortiz",
+      "count": 87120,
+      "percent": 0.0022
+    },
+    {
+      "name_group": "ES-39",
+      "rank": 39,
+      "localized": "Marín",
+      "romanized": "Marín",
+      "count": 83160,
+      "percent": 0.0021
+    },
+    {
+      "name_group": "ES-40",
+      "rank": 40,
+      "localized": "Iglesias",
+      "romanized": "Iglesias",
+      "count": 83160,
+      "percent": 0.0021
+    }
+  ],
+  "meta": {
+    "title": "Es Apellidos - Descarga gratuita",
+    "description": "Top-40 apellidos más comunes de España con número de portadores y porcentaje de la población Contiene 40 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Es Apellidos | ListBase",
+    "seo_description": "Descargar Es Apellidos — 40 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 40 registros / 6 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

@@ -1,0 +1,696 @@
+{
+  "id": "es-sistemas-de-escritura",
+  "name": "Sistemas de escritura del mundo (ISO 15924 / CLDR en español)",
+  "title": "Sistemas de escritura del mundo (ISO 15924 / CLDR en español)",
+  "description": "Códigos ISO 15924 de sistemas de escritura y sus nombres en español de la configuración regional es en CLDR.",
+  "category": "language",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 131,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Adlm",
+      "nombre": "ádlam"
+    },
+    {
+      "id": 2,
+      "code": "Arab",
+      "nombre": "árabe"
+    },
+    {
+      "id": 3,
+      "code": "Arab-alt-variant",
+      "nombre": "perso-árabe"
+    },
+    {
+      "id": 4,
+      "code": "Aran",
+      "nombre": "nastaliq"
+    },
+    {
+      "id": 5,
+      "code": "Armn",
+      "nombre": "armenio"
+    },
+    {
+      "id": 6,
+      "code": "Avst",
+      "nombre": "avéstico"
+    },
+    {
+      "id": 7,
+      "code": "Bali",
+      "nombre": "balinés"
+    },
+    {
+      "id": 8,
+      "code": "Batk",
+      "nombre": "batak"
+    },
+    {
+      "id": 9,
+      "code": "Beng",
+      "nombre": "bengalí"
+    },
+    {
+      "id": 10,
+      "code": "Blis",
+      "nombre": "símbolos blis"
+    },
+    {
+      "id": 11,
+      "code": "Bopo",
+      "nombre": "bopomofo"
+    },
+    {
+      "id": 12,
+      "code": "Brah",
+      "nombre": "brahmi"
+    },
+    {
+      "id": 13,
+      "code": "Brai",
+      "nombre": "braille"
+    },
+    {
+      "id": 14,
+      "code": "Bugi",
+      "nombre": "buginés"
+    },
+    {
+      "id": 15,
+      "code": "Buhd",
+      "nombre": "buhid"
+    },
+    {
+      "id": 16,
+      "code": "Cakm",
+      "nombre": "chakma"
+    },
+    {
+      "id": 17,
+      "code": "Cans",
+      "nombre": "silabarios aborígenes canadienses unificados"
+    },
+    {
+      "id": 18,
+      "code": "Cari",
+      "nombre": "cario"
+    },
+    {
+      "id": 19,
+      "code": "Cham",
+      "nombre": "cham"
+    },
+    {
+      "id": 20,
+      "code": "Cher",
+      "nombre": "cheroqui"
+    },
+    {
+      "id": 21,
+      "code": "Cirt",
+      "nombre": "cirth"
+    },
+    {
+      "id": 22,
+      "code": "Copt",
+      "nombre": "copto"
+    },
+    {
+      "id": 23,
+      "code": "Cprt",
+      "nombre": "chipriota"
+    },
+    {
+      "id": 24,
+      "code": "Cyrl",
+      "nombre": "cirílico"
+    },
+    {
+      "id": 25,
+      "code": "Cyrs",
+      "nombre": "cirílico del antiguo eslavo eclesiástico"
+    },
+    {
+      "id": 26,
+      "code": "Deva",
+      "nombre": "devanagari"
+    },
+    {
+      "id": 27,
+      "code": "Dsrt",
+      "nombre": "deseret"
+    },
+    {
+      "id": 28,
+      "code": "Egyd",
+      "nombre": "egipcio demótico"
+    },
+    {
+      "id": 29,
+      "code": "Egyh",
+      "nombre": "egipcio hierático"
+    },
+    {
+      "id": 30,
+      "code": "Egyp",
+      "nombre": "jeroglíficos egipcios"
+    },
+    {
+      "id": 31,
+      "code": "Ethi",
+      "nombre": "etiópico"
+    },
+    {
+      "id": 32,
+      "code": "Geok",
+      "nombre": "georgiano eclesiástico"
+    },
+    {
+      "id": 33,
+      "code": "Geor",
+      "nombre": "georgiano"
+    },
+    {
+      "id": 34,
+      "code": "Glag",
+      "nombre": "glagolítico"
+    },
+    {
+      "id": 35,
+      "code": "Goth",
+      "nombre": "gótico"
+    },
+    {
+      "id": 36,
+      "code": "Grek",
+      "nombre": "griego"
+    },
+    {
+      "id": 37,
+      "code": "Gujr",
+      "nombre": "guyaratí"
+    },
+    {
+      "id": 38,
+      "code": "Guru",
+      "nombre": "gurmuji"
+    },
+    {
+      "id": 39,
+      "code": "Hanb",
+      "nombre": "han con bopomofo"
+    },
+    {
+      "id": 40,
+      "code": "Hang",
+      "nombre": "hangul"
+    },
+    {
+      "id": 41,
+      "code": "Hani",
+      "nombre": "han"
+    },
+    {
+      "id": 42,
+      "code": "Hano",
+      "nombre": "hanunoo"
+    },
+    {
+      "id": 43,
+      "code": "Hans",
+      "nombre": "simplificado"
+    },
+    {
+      "id": 44,
+      "code": "Hans-alt-stand-alone",
+      "nombre": "han simplificado"
+    },
+    {
+      "id": 45,
+      "code": "Hant",
+      "nombre": "tradicional"
+    },
+    {
+      "id": 46,
+      "code": "Hant-alt-stand-alone",
+      "nombre": "han tradicional"
+    },
+    {
+      "id": 47,
+      "code": "Hebr",
+      "nombre": "hebreo"
+    },
+    {
+      "id": 48,
+      "code": "Hira",
+      "nombre": "hiragana"
+    },
+    {
+      "id": 49,
+      "code": "Hmng",
+      "nombre": "pahawh hmong"
+    },
+    {
+      "id": 50,
+      "code": "Hrkt",
+      "nombre": "silabarios japoneses"
+    },
+    {
+      "id": 51,
+      "code": "Hung",
+      "nombre": "húngaro antiguo"
+    },
+    {
+      "id": 52,
+      "code": "Inds",
+      "nombre": "Indio (harappan)"
+    },
+    {
+      "id": 53,
+      "code": "Ital",
+      "nombre": "antigua bastardilla"
+    },
+    {
+      "id": 54,
+      "code": "Jamo",
+      "nombre": "jamo"
+    },
+    {
+      "id": 55,
+      "code": "Java",
+      "nombre": "javanés"
+    },
+    {
+      "id": 56,
+      "code": "Jpan",
+      "nombre": "japonés"
+    },
+    {
+      "id": 57,
+      "code": "Kali",
+      "nombre": "kayah li"
+    },
+    {
+      "id": 58,
+      "code": "Kana",
+      "nombre": "katakana"
+    },
+    {
+      "id": 59,
+      "code": "Khar",
+      "nombre": "kharosthi"
+    },
+    {
+      "id": 60,
+      "code": "Khmr",
+      "nombre": "jemer"
+    },
+    {
+      "id": 61,
+      "code": "Knda",
+      "nombre": "canarés"
+    },
+    {
+      "id": 62,
+      "code": "Kore",
+      "nombre": "coreano"
+    },
+    {
+      "id": 63,
+      "code": "Lana",
+      "nombre": "lanna"
+    },
+    {
+      "id": 64,
+      "code": "Laoo",
+      "nombre": "laosiano"
+    },
+    {
+      "id": 65,
+      "code": "Latf",
+      "nombre": "latino fraktur"
+    },
+    {
+      "id": 66,
+      "code": "Latg",
+      "nombre": "latino gaélico"
+    },
+    {
+      "id": 67,
+      "code": "Latn",
+      "nombre": "latino"
+    },
+    {
+      "id": 68,
+      "code": "Lepc",
+      "nombre": "lepcha"
+    },
+    {
+      "id": 69,
+      "code": "Limb",
+      "nombre": "limbu"
+    },
+    {
+      "id": 70,
+      "code": "Lina",
+      "nombre": "lineal A"
+    },
+    {
+      "id": 71,
+      "code": "Linb",
+      "nombre": "lineal B"
+    },
+    {
+      "id": 72,
+      "code": "Lyci",
+      "nombre": "licio"
+    },
+    {
+      "id": 73,
+      "code": "Lydi",
+      "nombre": "lidio"
+    },
+    {
+      "id": 74,
+      "code": "Mand",
+      "nombre": "mandeo"
+    },
+    {
+      "id": 75,
+      "code": "Maya",
+      "nombre": "jeroglíficos mayas"
+    },
+    {
+      "id": 76,
+      "code": "Mero",
+      "nombre": "meroítico"
+    },
+    {
+      "id": 77,
+      "code": "Mlym",
+      "nombre": "malayálam"
+    },
+    {
+      "id": 78,
+      "code": "Mong",
+      "nombre": "mongol"
+    },
+    {
+      "id": 79,
+      "code": "Moon",
+      "nombre": "moon"
+    },
+    {
+      "id": 80,
+      "code": "Mtei",
+      "nombre": "meitei"
+    },
+    {
+      "id": 81,
+      "code": "Mymr",
+      "nombre": "birmano"
+    },
+    {
+      "id": 82,
+      "code": "Nkoo",
+      "nombre": "n’ko"
+    },
+    {
+      "id": 83,
+      "code": "Ogam",
+      "nombre": "ogham"
+    },
+    {
+      "id": 84,
+      "code": "Olck",
+      "nombre": "ol chiki"
+    },
+    {
+      "id": 85,
+      "code": "Orkh",
+      "nombre": "orkhon"
+    },
+    {
+      "id": 86,
+      "code": "Orya",
+      "nombre": "oriya"
+    },
+    {
+      "id": 87,
+      "code": "Osma",
+      "nombre": "osmaniya"
+    },
+    {
+      "id": 88,
+      "code": "Perm",
+      "nombre": "permiano antiguo"
+    },
+    {
+      "id": 89,
+      "code": "Phag",
+      "nombre": "phags-pa"
+    },
+    {
+      "id": 90,
+      "code": "Phnx",
+      "nombre": "fenicio"
+    },
+    {
+      "id": 91,
+      "code": "Plrd",
+      "nombre": "Pollard Miao"
+    },
+    {
+      "id": 92,
+      "code": "Qaag",
+      "nombre": "zawgyi"
+    },
+    {
+      "id": 93,
+      "code": "Rjng",
+      "nombre": "rejang"
+    },
+    {
+      "id": 94,
+      "code": "Rohg",
+      "nombre": "hanifi"
+    },
+    {
+      "id": 95,
+      "code": "Roro",
+      "nombre": "rongo-rongo"
+    },
+    {
+      "id": 96,
+      "code": "Runr",
+      "nombre": "rúnico"
+    },
+    {
+      "id": 97,
+      "code": "Sara",
+      "nombre": "sarati"
+    },
+    {
+      "id": 98,
+      "code": "Saur",
+      "nombre": "saurashtra"
+    },
+    {
+      "id": 99,
+      "code": "Sgnw",
+      "nombre": "SignWriting"
+    },
+    {
+      "id": 100,
+      "code": "Shaw",
+      "nombre": "shaviano"
+    },
+    {
+      "id": 101,
+      "code": "Sinh",
+      "nombre": "cingalés"
+    },
+    {
+      "id": 102,
+      "code": "Sund",
+      "nombre": "sundanés"
+    },
+    {
+      "id": 103,
+      "code": "Sylo",
+      "nombre": "syloti nagri"
+    },
+    {
+      "id": 104,
+      "code": "Syrc",
+      "nombre": "siriaco"
+    },
+    {
+      "id": 105,
+      "code": "Syre",
+      "nombre": "siriaco estrangelo"
+    },
+    {
+      "id": 106,
+      "code": "Syrj",
+      "nombre": "siriaco occidental"
+    },
+    {
+      "id": 107,
+      "code": "Syrn",
+      "nombre": "siriaco oriental"
+    },
+    {
+      "id": 108,
+      "code": "Tagb",
+      "nombre": "tagbanúa"
+    },
+    {
+      "id": 109,
+      "code": "Tale",
+      "nombre": "tai le"
+    },
+    {
+      "id": 110,
+      "code": "Talu",
+      "nombre": "nuevo tai lue"
+    },
+    {
+      "id": 111,
+      "code": "Taml",
+      "nombre": "tamil"
+    },
+    {
+      "id": 112,
+      "code": "Telu",
+      "nombre": "telugu"
+    },
+    {
+      "id": 113,
+      "code": "Teng",
+      "nombre": "tengwar"
+    },
+    {
+      "id": 114,
+      "code": "Tfng",
+      "nombre": "tifinagh"
+    },
+    {
+      "id": 115,
+      "code": "Tglg",
+      "nombre": "tagalo"
+    },
+    {
+      "id": 116,
+      "code": "Thaa",
+      "nombre": "thaana"
+    },
+    {
+      "id": 117,
+      "code": "Thai",
+      "nombre": "tailandés"
+    },
+    {
+      "id": 118,
+      "code": "Tibt",
+      "nombre": "tibetano"
+    },
+    {
+      "id": 119,
+      "code": "Ugar",
+      "nombre": "ugarítico"
+    },
+    {
+      "id": 120,
+      "code": "Vaii",
+      "nombre": "vai"
+    },
+    {
+      "id": 121,
+      "code": "Visp",
+      "nombre": "lenguaje visible"
+    },
+    {
+      "id": 122,
+      "code": "Xpeo",
+      "nombre": "persa antiguo"
+    },
+    {
+      "id": 123,
+      "code": "Xsux",
+      "nombre": "cuneiforme sumerio-acadio"
+    },
+    {
+      "id": 124,
+      "code": "Yiii",
+      "nombre": "yi"
+    },
+    {
+      "id": 125,
+      "code": "Zinh",
+      "nombre": "heredado"
+    },
+    {
+      "id": 126,
+      "code": "Zmth",
+      "nombre": "notación matemática"
+    },
+    {
+      "id": 127,
+      "code": "Zsye",
+      "nombre": "emojis"
+    },
+    {
+      "id": 128,
+      "code": "Zsym",
+      "nombre": "símbolos"
+    },
+    {
+      "id": 129,
+      "code": "Zxxx",
+      "nombre": "no escrito"
+    },
+    {
+      "id": 130,
+      "code": "Zyyy",
+      "nombre": "común"
+    },
+    {
+      "id": 131,
+      "code": "Zzzz",
+      "nombre": "alfabeto desconocido"
+    }
+  ],
+  "meta": {
+    "title": "Sistemas de escritura del mundo (ISO 15924 / CLDR en español) - Descarga gratuita",
+    "description": "Códigos ISO 15924 de sistemas de escritura y sus nombres en español de la configuración regional es en CLDR. Contiene 131 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Sistemas de escritura del mundo (ISO 15924 / CLDR en español) | ListBase",
+    "seo_description": "Descargar Sistemas de escritura del mundo (ISO 15924 / CLDR en español) — 131 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 131 registros / 3 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

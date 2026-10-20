@@ -1,0 +1,86 @@
+{
+  "id": "es-clubes-futbol",
+  "name": "Clubes de fútbol de España",
+  "title": "Clubes de fútbol de España",
+  "description": "Football clubs in ES with founding year, stadium, city",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "CF Rayo Majadahonda",
+      "founded": 1976,
+      "aliases": "Rayo Majadahonda | Club de Fútbol Rayo Majadahonda, R. Majadahonda, Málaga, Málaga Club de Fútbol, CF Málaga | FC Málaga, Málaga B, Sevilla  | Sevilla Fútbol Club | FC Sevilla, Sevilla B, Sevilla Atlético    #  the reserve team of Sevilla FC, Betis | Betis Sevilla | Real Betis Sevilla | Real Betis Balompié, Algeciras, Almería | Unión Deportiva Almería, Cádiz, Cádiz Club de Fútbol, FC Cádiz [de], Córdoba | Córdoba Club de Fútbol, Écija, Jaén | Real Jaén | Real Jaén Club de Fútbol, Granada  | Granada Club de Fútbol, FC Granada, Barcelona  | Fútbol Club Barcelona, Barcelona B | Fútbol Club Barcelona B, Espanyol | Esp. Barcelona | Espan. Barcelona | Espanyol Barc. | Espanyol Barcelona, Real CD Espanyol | Real Club Deportivo Espanyol, Español | Real Club Deportivo Español, RCD Espanyol de Barcelona, Reial Club Deportiu Espanyol de Barcelona, Unió Esportiva Sant Andreu, Gimnàstic, Gimn. Tarragona, Girona | Girona Futbol Club | FC Girona"
+    },
+    {
+      "name": "CF Reus",
+      "founded": 1909,
+      "aliases": "Reus Deportiu | CF Reus Deportiu | Club de Futbol Reus Deportiu, Club Lleida Esportiu, Lleida | Lerida, Unió Esportiva Lleida, La Coruña, RC Deportivo La Coruña | RC Deportivo de La Coruña | Real Club Deportivo La Coruña, Deportivo | Deportivo La Coruña | Deportivo de La Coruña | Deportivo da Coruña, Dep. La Coruña, Celta | Celta Vigo | R.C. Celta | Real Club Celta Vigo | Real Club Celta de Vigo, Celta de Vigo | RC Celta de Vigo, Compostela, Ferrol, Racing de Ferrol, Racing Club de Ferrol, Valencia | Valencia Club de Fútbol | FC Valencia | CF Valencia, Levante | UD Levante | Levante Unión Deportiva, Alicante, Hércules | Hércules de Alicante Club de Fútbol, Alcoyano, Elche, Elche Club de Fútbol, FC Elche [de], Castellón, Club Deportivo Castellón, Villarreal | FC Villarreal, Villarreal Club de Fútbol, Villareal      ## fix (allow) typo Villareal, Villarreal B, CF Villarreal B"
+    },
+    {
+      "name": "CD Eldense",
+      "founded": 1921,
+      "aliases": "Club Deportivo Eldense, Eldense, Sociedad | R. Sociedad | R. S. San Sebastián, S. Sebastián, Real Sociedad San Sebastián | Real Sociedad de Fútbol, Alavés | CD Alavés, Eibar | Sociedad Deportiva Eibar, Athletic | Athletic Club | Ath. Bilbao | Athl. Bilbao | Athletic Bilbao, Athletic Club de Bilbao, Ath. Bilbao B | Athletic Bilbao B, Sporting | Sp Gijón | Real Sporting | Real Sporting de Gijón, Sporting de Gijón, Albacete, Guadalajara, Badajoz, Extremadura, Extremadura, Extremadura Unión Deportiva, UD Extremadura, Mérida"
+    },
+    {
+      "name": "Mérida AD",
+      "founded": 2013,
+      "aliases": "Mérida Asociación Deportiva, Burgos, Burgos Club de Fútbol, Mirandés | Club Deportivo Mirandés, Murcia | Real Murcia | Real Murcia Club de Fútbol"
+    },
+    {
+      "name": "UCAM Murcia",
+      "founded": 1999,
+      "aliases": "UCAM Murcia CF, Universidad Católica de Murcia Club de Fútbol, Ciudad de Murcia, Cartagena, Fútbol Club Cartagena, Zaragoza, Real Saragossa [de], Huesca, Sociedad Deportiva Huesca, Las Palmas | Unión Deportiva Las Palmas | Las Palmas UD, U.Las Palmas, Mallorca | Real CD Mallorca | Real Club Deportivo Mallorca, Real Mallorca, Mallorca B, Atlético Baleares, Club Deportivo Atlético Baleares, Tenerife | Club Deportivo Tenerife, Teneriffa CD [de] | CD Teneriffa [de], Osasuna | At. Osasuna | Club Atlético Osasuna, Leganés | Club Deportivo Leganés"
+    },
+    {
+      "name": "Cultural Leonesa",
+      "founded": 1923,
+      "aliases": "Leonesa | Cultural y Deportiva Leonesa, CD Leonesa, Llagostera, Logroñés, Unión Deportiva Logroñés, Sociedad Deportiva Logroñés, Lorca, Lugo | Club Deportivo Lugo, Numancia | Club Deportivo Numancia de Soria, Numancia CD, Ourense | Orense, Oviedo, Poli Ejido, Ponferradina | Sociedad Deportiva Ponferradina, Ponferradina SD, Pontevedra, Recreativo | RC Recreativo de Huelva |Real Club Recreativo de Huelva, Sabadell | CE Sabadell FC | Centre d'Esports Sabadell Futbol Club, Salamanca"
+    },
+    {
+      "name": "Real Racing Santander",
+      "founded": 1913,
+      "aliases": "Santander | Racing Santander | Real Racing Club de Santander, Real Racing Club, Racing, Terrassa, Toledo, Valladolid | Real Valladolid | R. Valladolid C.F. | Real Valladolid Club de Fútbol, Vecindario, Xerez, Deportivo Xerez, Castilla | Real Madrid Castilla Club de Fútbol, Marino Luanco, Club de Fútbol Illueca, Illueca CF, UD Socuéllamos CF | Unión Deportiva Socuéllamos, Unión Montañesa Escobedo, Segoviana | Gimnástica Segoviana CF | Gimnástica Segoviana Club de Fútbol, Zamora Club de Fútbol, Club Deportivo El Álamo, El Palmar Club de Fútbol-Estrella Grana, EG El Palmar CF, Bergantiños Fútbol Club, Bergantiños CF, Tolosa Club de Fútbol, Club de Fútbol Badalona, Atlético Antoniano | Club Atlético Antoniano, Club Deportivo Peña Azagresa, Club Deportivo Becerril, Union Deportiva Melilla, Melilla UD, Amorebieta, Sociedad Deportiva Amorebieta, Ibiza, Unión Deportiva Ibiza, Club Deportivo Ebro, Club de Fútbol Villanovense, Unión Deportiva Mutilvera, Club Deportivo Calahorra, Lorca Fútbol Club, La Hoya Lorca CF, La Hoya Deportiva Club de Fútbol"
+    },
+    {
+      "name": "CF Lorca Deportiva",
+      "founded": 2012,
+      "aliases": "Club de Fútbol Lorca Deportiva, Lorca Deportiva, Ontinyent Club de Fútbol"
+    },
+    {
+      "name": "Ontinyent 1931 CF",
+      "founded": 2019,
+      "aliases": "Ontinyent 1931 Club de Futbol"
+    }
+  ],
+  "meta": {
+    "title": "Clubes de fútbol de España - Descarga gratuita",
+    "description": "Football clubs in ES with founding year, stadium, city Contiene 9 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Clubes de fútbol de España | ListBase",
+    "seo_description": "Descargar Clubes de fútbol de España — 9 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 9 registros / 3 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

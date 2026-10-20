@@ -1,0 +1,205 @@
+{
+  "id": "es-dias-trimestres-eras",
+  "name": "Días, trimestres, periodos del día y eras — nombres en español (CLDR)",
+  "title": "Días, trimestres, periodos del día y eras — nombres en español (CLDR)",
+  "description": "Nombres de días, trimestres, periodos del día y eras del calendario gregoriano en español de la configuración regional es en CLDR.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tipo": "dia",
+      "code": "sun",
+      "nombre": "domingo",
+      "abreviatura": "dom"
+    },
+    {
+      "id": 2,
+      "tipo": "dia",
+      "code": "mon",
+      "nombre": "lunes",
+      "abreviatura": "lun"
+    },
+    {
+      "id": 3,
+      "tipo": "dia",
+      "code": "tue",
+      "nombre": "martes",
+      "abreviatura": "mar"
+    },
+    {
+      "id": 4,
+      "tipo": "dia",
+      "code": "wed",
+      "nombre": "miércoles",
+      "abreviatura": "mié"
+    },
+    {
+      "id": 5,
+      "tipo": "dia",
+      "code": "thu",
+      "nombre": "jueves",
+      "abreviatura": "jue"
+    },
+    {
+      "id": 6,
+      "tipo": "dia",
+      "code": "fri",
+      "nombre": "viernes",
+      "abreviatura": "vie"
+    },
+    {
+      "id": 7,
+      "tipo": "dia",
+      "code": "sat",
+      "nombre": "sábado",
+      "abreviatura": "sáb"
+    },
+    {
+      "id": 8,
+      "tipo": "trimestre",
+      "code": "1",
+      "nombre": "1.er trimestre",
+      "abreviatura": "T1"
+    },
+    {
+      "id": 9,
+      "tipo": "trimestre",
+      "code": "2",
+      "nombre": "2.º trimestre",
+      "abreviatura": "T2"
+    },
+    {
+      "id": 10,
+      "tipo": "trimestre",
+      "code": "3",
+      "nombre": "3.er trimestre",
+      "abreviatura": "T3"
+    },
+    {
+      "id": 11,
+      "tipo": "trimestre",
+      "code": "4",
+      "nombre": "4.º trimestre",
+      "abreviatura": "T4"
+    },
+    {
+      "id": 12,
+      "tipo": "periodo_dia",
+      "code": "am",
+      "nombre": "a. m.",
+      "abreviatura": "a. m."
+    },
+    {
+      "id": 13,
+      "tipo": "periodo_dia",
+      "code": "noon",
+      "nombre": "del mediodía",
+      "abreviatura": "del mediodía"
+    },
+    {
+      "id": 14,
+      "tipo": "periodo_dia",
+      "code": "pm",
+      "nombre": "p. m.",
+      "abreviatura": "p. m."
+    },
+    {
+      "id": 15,
+      "tipo": "periodo_dia",
+      "code": "morning1",
+      "nombre": "de la madrugada",
+      "abreviatura": "de la madrugada"
+    },
+    {
+      "id": 16,
+      "tipo": "periodo_dia",
+      "code": "morning2",
+      "nombre": "de la mañana",
+      "abreviatura": "de la mañana"
+    },
+    {
+      "id": 17,
+      "tipo": "periodo_dia",
+      "code": "evening1",
+      "nombre": "de la tarde",
+      "abreviatura": "de la tarde"
+    },
+    {
+      "id": 18,
+      "tipo": "periodo_dia",
+      "code": "night1",
+      "nombre": "de la noche",
+      "abreviatura": "de la noche"
+    },
+    {
+      "id": 19,
+      "tipo": "era",
+      "code": "0",
+      "nombre": "antes de Cristo",
+      "abreviatura": "a. C."
+    },
+    {
+      "id": 20,
+      "tipo": "era",
+      "code": "0-alt-variant",
+      "nombre": "antes de la era común",
+      "abreviatura": "a. e. c."
+    },
+    {
+      "id": 21,
+      "tipo": "era",
+      "code": "1",
+      "nombre": "después de Cristo",
+      "abreviatura": "d. C."
+    },
+    {
+      "id": 22,
+      "tipo": "era",
+      "code": "1-alt-variant",
+      "nombre": "era común",
+      "abreviatura": "e. c."
+    }
+  ],
+  "meta": {
+    "title": "Días, trimestres, periodos del día y eras — nombres en español (CLDR) - Descarga gratuita",
+    "description": "Nombres de días, trimestres, periodos del día y eras del calendario gregoriano en español de la configuración regional es en CLDR. Contiene 22 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Días, trimestres, periodos del día y eras — nombres en español (CLDR) | ListBase",
+    "seo_description": "Descargar Días, trimestres, periodos del día y eras — nombres en español (CLDR) — 22 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 22 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

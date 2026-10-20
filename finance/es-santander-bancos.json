@@ -1,0 +1,72 @@
+{
+  "id": "es-santander-bancos",
+  "name": "Bancos en Santander — códigos SWIFT/BIC",
+  "title": "Bancos en Santander — códigos SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"SANTANDER\" (3 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 254,
+      "bank": "BANKINTER, S.A.",
+      "city": "SANTANDER",
+      "branch": "",
+      "swift_code": "BKBKESMMSAN"
+    },
+    {
+      "id": 469,
+      "bank": "CAJA DE AHORROS DE SANTANDER Y CANTABRIA",
+      "city": "SANTANDER",
+      "branch": "",
+      "swift_code": "CECAESMM066"
+    },
+    {
+      "id": 641,
+      "bank": "GOBIERNO DE CANTABRIA",
+      "city": "SANTANDER",
+      "branch": "",
+      "swift_code": "CTCAES21"
+    }
+  ],
+  "meta": {
+    "title": "Bancos en Santander — códigos SWIFT/BIC - Descarga gratuita",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"SANTANDER\" (3 institutions). Contiene 3 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Bancos en Santander — códigos SWIFT/BIC | ListBase",
+    "seo_description": "Descargar Bancos en Santander — códigos SWIFT/BIC — 3 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 3 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

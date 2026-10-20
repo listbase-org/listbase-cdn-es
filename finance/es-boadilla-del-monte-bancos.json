@@ -1,0 +1,114 @@
+{
+  "id": "es-boadilla-del-monte-bancos",
+  "name": "Bancos en Boadilla Del Monte — códigos SWIFT/BIC",
+  "title": "Bancos en Boadilla Del Monte — códigos SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"BOADILLA DEL MONTE\" (9 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 211,
+      "bank": "BANCO SANTANDER S.A. FORMERLY BANCO BANIF S.A.",
+      "city": "BOADILLA DEL MONTE",
+      "branch": "",
+      "swift_code": "NORTESMM"
+    },
+    {
+      "id": 212,
+      "bank": "BANCO SANTANDER S.A. FORMERLY BANCO ESPANOL DE CREDITO",
+      "city": "BOADILLA DEL MONTE",
+      "branch": "(MADRID AND ALL SPANISH OFFICES)",
+      "swift_code": "ESPCESMM"
+    },
+    {
+      "id": 825,
+      "bank": "SANTANDER ASSET MANAGEMENT, S.A.",
+      "city": "BOADILLA DEL MONTE",
+      "branch": "",
+      "swift_code": "SAMXESMM"
+    },
+    {
+      "id": 827,
+      "bank": "SANTANDER BANCO EMISIONES",
+      "city": "BOADILLA DEL MONTE",
+      "branch": "",
+      "swift_code": "BSSSES31"
+    },
+    {
+      "id": 828,
+      "bank": "SANTANDER BANCO EMISIONES.TERCEROS OPENBANK",
+      "city": "BOADILLA DEL MONTE",
+      "branch": "",
+      "swift_code": "BSSSES21"
+    },
+    {
+      "id": 829,
+      "bank": "SANTANDER BRASIL E.F.C. S.A.",
+      "city": "BOADILLA DEL MONTE",
+      "branch": "",
+      "swift_code": "SBFCESMM"
+    },
+    {
+      "id": 832,
+      "bank": "SANTANDER INVESTMENT SERVICES S.A.",
+      "city": "BOADILLA DEL MONTE",
+      "branch": "(SANTANDER SECURITIES SERVICES)",
+      "swift_code": "SABNESMMSSS"
+    },
+    {
+      "id": 833,
+      "bank": "SANTANDER INVESTMENT SERVICES S.A.",
+      "city": "BOADILLA DEL MONTE",
+      "branch": "",
+      "swift_code": "SABNESMM"
+    },
+    {
+      "id": 835,
+      "bank": "SANTANDER SECURITIES SERVICES, S.A.",
+      "city": "BOADILLA DEL MONTE",
+      "branch": "",
+      "swift_code": "BSSSESM2"
+    }
+  ],
+  "meta": {
+    "title": "Bancos en Boadilla Del Monte — códigos SWIFT/BIC - Descarga gratuita",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"BOADILLA DEL MONTE\" (9 institutions). Contiene 9 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Bancos en Boadilla Del Monte — códigos SWIFT/BIC | ListBase",
+    "seo_description": "Descargar Bancos en Boadilla Del Monte — códigos SWIFT/BIC — 9 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 9 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

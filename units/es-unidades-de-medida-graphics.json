@@ -1,0 +1,133 @@
+{
+  "id": "es-unidades-de-medida-graphics",
+  "name": "Unidades de medida — categoría 'graphics' (8)",
+  "title": "Unidades de medida — categoría 'graphics' (8)",
+  "description": "Unidades de medida de la categoría 'graphics' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "graphics-dot",
+      "categoria": "graphics",
+      "nombre": "puntos tipográficos",
+      "abreviatura": "pt",
+      "forma_estrecha": "pt",
+      "patron": "{0} puntos tipográficos"
+    },
+    {
+      "id": 2,
+      "unit_code": "graphics-dot-per-centimeter",
+      "categoria": "graphics",
+      "nombre": "puntos por centímetro",
+      "abreviatura": "ppcm",
+      "forma_estrecha": "ppcm",
+      "patron": "{0} puntos por centímetro"
+    },
+    {
+      "id": 3,
+      "unit_code": "graphics-dot-per-inch",
+      "categoria": "graphics",
+      "nombre": "puntos por pulgada",
+      "abreviatura": "ppp",
+      "forma_estrecha": "ppp",
+      "patron": "{0} puntos por pulgada"
+    },
+    {
+      "id": 4,
+      "unit_code": "graphics-em",
+      "categoria": "graphics",
+      "nombre": "espacios eme",
+      "abreviatura": "em",
+      "forma_estrecha": "em",
+      "patron": "{0} espacios eme"
+    },
+    {
+      "id": 5,
+      "unit_code": "graphics-megapixel",
+      "categoria": "graphics",
+      "nombre": "megapíxeles",
+      "abreviatura": "Mpx",
+      "forma_estrecha": "Mpx",
+      "patron": "{0} megapíxeles"
+    },
+    {
+      "id": 6,
+      "unit_code": "graphics-pixel",
+      "categoria": "graphics",
+      "nombre": "píxeles",
+      "abreviatura": "px",
+      "forma_estrecha": "px",
+      "patron": "{0} píxeles"
+    },
+    {
+      "id": 7,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "categoria": "graphics",
+      "nombre": "píxeles por centímetro",
+      "abreviatura": "px/cm",
+      "forma_estrecha": "px/cm",
+      "patron": "{0} píxeles por centímetro"
+    },
+    {
+      "id": 8,
+      "unit_code": "graphics-pixel-per-inch",
+      "categoria": "graphics",
+      "nombre": "píxeles por pulgada",
+      "abreviatura": "px/in",
+      "forma_estrecha": "px/in",
+      "patron": "{0} píxeles por pulgada"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'graphics' (8) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'graphics' de la configuración regional es en CLDR, con nombres en español. Contiene 8 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'graphics' (8) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'graphics' (8) — 8 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 8 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

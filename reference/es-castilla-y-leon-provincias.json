@@ -1,0 +1,170 @@
+{
+  "id": "es-castilla-y-leon-provincias",
+  "name": "Provincias de Castilla y León - 9 provincias",
+  "title": "Provincias de Castilla y León - 9 provincias",
+  "description": "Lista de las 9 demarcaciones provinciales de la comunidad autónoma Castilla y León (07) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '07'.",
+  "category": "reference",
+  "source": "https://github.com/ByMykel/spanish-cities",
+  "source_url": "https://github.com/ByMykel/spanish-cities",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "nombre_comun",
+      "label": "Nombre Comun",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "code_autonomy",
+      "label": "Code Autonomy",
+      "type": "number"
+    },
+    {
+      "key": "autonomy_nombre",
+      "label": "Autonomy Nombre",
+      "type": "string"
+    },
+    {
+      "key": "autonomy_slug",
+      "label": "Autonomy Slug",
+      "type": "string"
+    },
+    {
+      "key": "flag",
+      "label": "Flag",
+      "type": "string"
+    },
+    {
+      "key": "coat_of_arms",
+      "label": "Coat Of Arms",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "05",
+      "nombre": "Ávila",
+      "nombre_comun": "Ávila",
+      "slug": "avila",
+      "code_autonomy": "07",
+      "autonomy_nombre": "Castilla y León",
+      "autonomy_slug": "castilla-y-leon",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bandera_de_la_provincia_de_%C3%81vila.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Escudo_de_la_provincia_de_%C3%81vila.svg"
+    },
+    {
+      "code": "09",
+      "nombre": "Burgos",
+      "nombre_comun": "Burgos",
+      "slug": "burgos",
+      "code_autonomy": "07",
+      "autonomy_nombre": "Castilla y León",
+      "autonomy_slug": "castilla-y-leon",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_Burgos_Province.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Escudo_de_la_Provincia_de_Burgos.svg"
+    },
+    {
+      "code": "24",
+      "nombre": "León",
+      "nombre_comun": "León",
+      "slug": "leon",
+      "code_autonomy": "07",
+      "autonomy_nombre": "Castilla y León",
+      "autonomy_slug": "castilla-y-leon",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bandera_de_Le%C3%B3n.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Escudo_de_Le%C3%B3n.svg"
+    },
+    {
+      "code": "34",
+      "nombre": "Palencia",
+      "nombre_comun": "Palencia",
+      "slug": "palencia",
+      "code_autonomy": "07",
+      "autonomy_nombre": "Castilla y León",
+      "autonomy_slug": "castilla-y-leon",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bandera_de_la_provincia_de_Palencia1.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Escudo_de_la_Provincia_de_Palencia.svg"
+    },
+    {
+      "code": "37",
+      "nombre": "Salamanca",
+      "nombre_comun": "Salamanca",
+      "slug": "salamanca",
+      "code_autonomy": "07",
+      "autonomy_nombre": "Castilla y León",
+      "autonomy_slug": "castilla-y-leon",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bandera_de_la_provincia_de_Salamanca.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Escudo_de_la_Provincia_de_Salamanca.svg"
+    },
+    {
+      "code": "40",
+      "nombre": "Segovia",
+      "nombre_comun": "Segovia",
+      "slug": "segovia",
+      "code_autonomy": "07",
+      "autonomy_nombre": "Castilla y León",
+      "autonomy_slug": "castilla-y-leon",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_Segovia_province.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/7/77/Escudo_de_la_provincia_de_Segovia.svg"
+    },
+    {
+      "code": "42",
+      "nombre": "Soria",
+      "nombre_comun": "Soria",
+      "slug": "soria",
+      "code_autonomy": "07",
+      "autonomy_nombre": "Castilla y León",
+      "autonomy_slug": "castilla-y-leon",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_Soria_province.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Escudo_de_la_provincia_de_Soria2.svg"
+    },
+    {
+      "code": "47",
+      "nombre": "Valladolid",
+      "nombre_comun": "Valladolid",
+      "slug": "valladolid",
+      "code_autonomy": "07",
+      "autonomy_nombre": "Castilla y León",
+      "autonomy_slug": "castilla-y-leon",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bandera_de_la_provincia_de_Valladolid.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Va-dip.svg"
+    },
+    {
+      "code": "49",
+      "nombre": "Zamora",
+      "nombre_comun": "Zamora",
+      "slug": "zamora",
+      "code_autonomy": "07",
+      "autonomy_nombre": "Castilla y León",
+      "autonomy_slug": "castilla-y-leon",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bandera_de_Zamora.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/5/57/Escudo_de_la_provincia_de_Zamora.svg"
+    }
+  ],
+  "meta": {
+    "title": "Provincias de Castilla y León - 9 provincias - Descarga gratuita",
+    "description": "Lista de las 9 demarcaciones provinciales de la comunidad autónoma Castilla y León (07) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '07'. Contiene 9 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Provincias de Castilla y León - 9 provincias | ListBase",
+    "seo_description": "Descargar Provincias de Castilla y León - 9 provincias — 9 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 9 registros / 9 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: https://github.com/ByMykel/spanish-cities"
+    ]
+  }
+}

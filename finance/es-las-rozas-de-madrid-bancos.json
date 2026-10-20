@@ -1,0 +1,114 @@
+{
+  "id": "es-las-rozas-de-madrid-bancos",
+  "name": "Bancos en Las Rozas De Madrid — códigos SWIFT/BIC",
+  "title": "Bancos en Las Rozas De Madrid — códigos SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"LAS ROZAS DE MADRID\" (9 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 219,
+      "bank": "BANDENIA CAPITAL INVESTMENT PLC",
+      "city": "LAS ROZAS DE MADRID",
+      "branch": "",
+      "swift_code": "BNCVESM1"
+    },
+    {
+      "id": 220,
+      "bank": "BANDENIA EMPRENDE S.A.C.",
+      "city": "LAS ROZAS DE MADRID",
+      "branch": "",
+      "swift_code": "BNESESM1"
+    },
+    {
+      "id": 223,
+      "bank": "BANDENIA FINANZIA E.D.E., S.L.",
+      "city": "LAS ROZAS DE MADRID",
+      "branch": "",
+      "swift_code": "BAZEESM1"
+    },
+    {
+      "id": 224,
+      "bank": "BANDENIA PARTICIPADAS S.L.",
+      "city": "LAS ROZAS DE MADRID",
+      "branch": "",
+      "swift_code": "BADTESM1"
+    },
+    {
+      "id": 225,
+      "bank": "BANDENIA PRIVATE EQUITY PARTNES LTD",
+      "city": "LAS ROZAS DE MADRID",
+      "branch": "",
+      "swift_code": "BPEEESM1"
+    },
+    {
+      "id": 226,
+      "bank": "BANDENIA PROPERTIES LTD",
+      "city": "LAS ROZAS DE MADRID",
+      "branch": "",
+      "swift_code": "BNRRESM1"
+    },
+    {
+      "id": 228,
+      "bank": "BANDENIA SECURE PROCESSING LTD",
+      "city": "LAS ROZAS DE MADRID",
+      "branch": "",
+      "swift_code": "BAUCESM1"
+    },
+    {
+      "id": 651,
+      "bank": "HEWLETT-PACKARD ESPANOLA S.L.",
+      "city": "LAS ROZAS DE MADRID",
+      "branch": "",
+      "swift_code": "HEESESM1"
+    },
+    {
+      "id": 675,
+      "bank": "ING BANK NV,SPANISH BRANCH (DIRECT)",
+      "city": "LAS ROZAS DE MADRID",
+      "branch": "",
+      "swift_code": "INGDESMM"
+    }
+  ],
+  "meta": {
+    "title": "Bancos en Las Rozas De Madrid — códigos SWIFT/BIC - Descarga gratuita",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"LAS ROZAS DE MADRID\" (9 institutions). Contiene 9 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Bancos en Las Rozas De Madrid — códigos SWIFT/BIC | ListBase",
+    "seo_description": "Descargar Bancos en Las Rozas De Madrid — códigos SWIFT/BIC — 9 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 9 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

@@ -1,0 +1,1704 @@
+{
+  "id": "es-husos-horarios",
+  "name": "Husos horarios del mundo (IANA / CLDR en español)",
+  "title": "Husos horarios del mundo (IANA / CLDR en español)",
+  "description": "Identificadores de husos horarios IANA y nombres de ciudades representativas en español de la configuración regional es en CLDR. 'region' es el primer segmento del identificador.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 206,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "ciudad",
+      "label": "Ciudad",
+      "type": "string"
+    },
+    {
+      "key": "nombre_estandar",
+      "label": "Nombre Estandar",
+      "type": "string"
+    },
+    {
+      "key": "nombre_verano",
+      "label": "Nombre Verano",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Abidjan",
+      "region": "Africa",
+      "ciudad": "Abiyán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Accra",
+      "region": "Africa",
+      "ciudad": "Acra",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Addis_Ababa",
+      "region": "Africa",
+      "ciudad": "Adís Abeba",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/Algiers",
+      "region": "Africa",
+      "ciudad": "Argel",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Asmera",
+      "region": "Africa",
+      "ciudad": "Asmara",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/Bissau",
+      "region": "Africa",
+      "ciudad": "Bisáu",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/Cairo",
+      "region": "Africa",
+      "ciudad": "El Cairo",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Africa/Conakry",
+      "region": "Africa",
+      "ciudad": "Conakri",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Africa/Dar_es_Salaam",
+      "region": "Africa",
+      "ciudad": "Dar es-Salam",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Africa/Djibouti",
+      "region": "Africa",
+      "ciudad": "Yibuti",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Africa/Douala",
+      "region": "Africa",
+      "ciudad": "Duala",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Africa/El_Aaiun",
+      "region": "Africa",
+      "ciudad": "El Aaiún",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Africa/Johannesburg",
+      "region": "Africa",
+      "ciudad": "Johannesburgo",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Africa/Khartoum",
+      "region": "Africa",
+      "ciudad": "Jartum",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Africa/Lome",
+      "region": "Africa",
+      "ciudad": "Lomé",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Africa/Mogadishu",
+      "region": "Africa",
+      "ciudad": "Mogadiscio",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Africa/Ndjamena",
+      "region": "Africa",
+      "ciudad": "Yamena",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Africa/Nouakchott",
+      "region": "Africa",
+      "ciudad": "Nuakchot",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Africa/Ouagadougou",
+      "region": "Africa",
+      "ciudad": "Uagadugú",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Africa/Porto-Novo",
+      "region": "Africa",
+      "ciudad": "Portonovo",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Africa/Sao_Tome",
+      "region": "Africa",
+      "ciudad": "Santo Tomé",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Africa/Tripoli",
+      "region": "Africa",
+      "ciudad": "Trípoli",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Africa/Tunis",
+      "region": "Africa",
+      "ciudad": "Túnez",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "America/Anguilla",
+      "region": "America",
+      "ciudad": "Anguila",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "America/Araguaina",
+      "region": "America",
+      "ciudad": "Araguaína",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "region": "America",
+      "ciudad": "Río Gallegos",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "America/Argentina/Tucuman",
+      "region": "America",
+      "ciudad": "Tucumán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "America/Asuncion",
+      "region": "America",
+      "ciudad": "Asunción",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "America/Bahia",
+      "region": "America",
+      "ciudad": "Bahía",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "America/Bahia_Banderas",
+      "region": "America",
+      "ciudad": "Bahía de Banderas",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "America/Belem",
+      "region": "America",
+      "ciudad": "Belén",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "America/Belize",
+      "region": "America",
+      "ciudad": "Belice",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "America/Bogota",
+      "region": "America",
+      "ciudad": "Bogotá",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "America/Cancun",
+      "region": "America",
+      "ciudad": "Cancún",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "America/Cayenne",
+      "region": "America",
+      "ciudad": "Cayena",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "America/Cayman",
+      "region": "America",
+      "ciudad": "Caimán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "America/Ciudad_Juarez",
+      "region": "America",
+      "ciudad": "Ciudad Juárez",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "America/Coral_Harbour",
+      "region": "America",
+      "ciudad": "Atikokan",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "America/Cordoba",
+      "region": "America",
+      "ciudad": "Córdoba",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "America/Cuiaba",
+      "region": "America",
+      "ciudad": "Cuiabá",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "America/Curacao",
+      "region": "America",
+      "ciudad": "Curazao",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "America/Eirunepe",
+      "region": "America",
+      "ciudad": "Eirunepé",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "America/Godthab",
+      "region": "America",
+      "ciudad": "Nuuk",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "America/Grand_Turk",
+      "region": "America",
+      "ciudad": "Gran Turca",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "America/Grenada",
+      "region": "America",
+      "ciudad": "Granada",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "America/Guadeloupe",
+      "region": "America",
+      "ciudad": "Guadalupe",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "America/Havana",
+      "region": "America",
+      "ciudad": "La Habana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "America/Indiana/Knox",
+      "region": "America",
+      "ciudad": "Knox, Indiana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "America/Indiana/Marengo",
+      "region": "America",
+      "ciudad": "Marengo, Indiana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "America/Indiana/Petersburg",
+      "region": "America",
+      "ciudad": "Petersburg, Indiana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "America/Indiana/Tell_City",
+      "region": "America",
+      "ciudad": "Tell City, Indiana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "America/Indiana/Vevay",
+      "region": "America",
+      "ciudad": "Vevay, Indiana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "America/Indiana/Vincennes",
+      "region": "America",
+      "ciudad": "Vincennes, Indiana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "America/Indiana/Winamac",
+      "region": "America",
+      "ciudad": "Winamac, Indiana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "America/Indianapolis",
+      "region": "America",
+      "ciudad": "Indianápolis",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "America/Kentucky/Monticello",
+      "region": "America",
+      "ciudad": "Monticello, Kentucky",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "America/Los_Angeles",
+      "region": "America",
+      "ciudad": "Los Ángeles",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "America/Lower_Princes",
+      "region": "America",
+      "ciudad": "Lower Prince’s Quarter",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 59,
+      "tz_id": "America/Maceio",
+      "region": "America",
+      "ciudad": "Maceió",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 60,
+      "tz_id": "America/Manaus",
+      "region": "America",
+      "ciudad": "Manaos",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 61,
+      "tz_id": "America/Martinique",
+      "region": "America",
+      "ciudad": "Martinica",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 62,
+      "tz_id": "America/Mazatlan",
+      "region": "America",
+      "ciudad": "Mazatlán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 63,
+      "tz_id": "America/Merida",
+      "region": "America",
+      "ciudad": "Mérida",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 64,
+      "tz_id": "America/Mexico_City",
+      "region": "America",
+      "ciudad": "Ciudad de México",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 65,
+      "tz_id": "America/Miquelon",
+      "region": "America",
+      "ciudad": "Miquelón",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 66,
+      "tz_id": "America/New_York",
+      "region": "America",
+      "ciudad": "Nueva York",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 67,
+      "tz_id": "America/Noronha",
+      "region": "America",
+      "ciudad": "Fernando de Noronha",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 68,
+      "tz_id": "America/North_Dakota/Beulah",
+      "region": "America",
+      "ciudad": "Beulah, Dakota del Norte",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 69,
+      "tz_id": "America/North_Dakota/Center",
+      "region": "America",
+      "ciudad": "Center, Dakota del Norte",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 70,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "region": "America",
+      "ciudad": "New Salem, Dakota del Norte",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 71,
+      "tz_id": "America/Panama",
+      "region": "America",
+      "ciudad": "Panamá",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 72,
+      "tz_id": "America/Port-au-Prince",
+      "region": "America",
+      "ciudad": "Puerto Príncipe",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 73,
+      "tz_id": "America/Port_of_Spain",
+      "region": "America",
+      "ciudad": "Puerto España",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 74,
+      "tz_id": "America/Rio_Branco",
+      "region": "America",
+      "ciudad": "Río Branco",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 75,
+      "tz_id": "America/Santarem",
+      "region": "America",
+      "ciudad": "Santarém",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 76,
+      "tz_id": "America/Santiago",
+      "region": "America",
+      "ciudad": "Santiago de Chile",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 77,
+      "tz_id": "America/Sao_Paulo",
+      "region": "America",
+      "ciudad": "São Paulo",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 78,
+      "tz_id": "America/Scoresbysund",
+      "region": "America",
+      "ciudad": "Ittoqqortoormiit",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 79,
+      "tz_id": "America/St_Barthelemy",
+      "region": "America",
+      "ciudad": "San Bartolomé",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 80,
+      "tz_id": "America/St_Johns",
+      "region": "America",
+      "ciudad": "San Juan de Terranova",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 81,
+      "tz_id": "America/St_Kitts",
+      "region": "America",
+      "ciudad": "San Cristóbal",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 82,
+      "tz_id": "America/St_Lucia",
+      "region": "America",
+      "ciudad": "Santa Lucía",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 83,
+      "tz_id": "America/St_Thomas",
+      "region": "America",
+      "ciudad": "St. Thomas",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 84,
+      "tz_id": "America/St_Vincent",
+      "region": "America",
+      "ciudad": "San Vicente",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 85,
+      "tz_id": "America/Tortola",
+      "region": "America",
+      "ciudad": "Tórtola",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 86,
+      "tz_id": "Antarctica/DumontDUrville",
+      "region": "Antarctica",
+      "ciudad": "Dumont-d’Urville",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 87,
+      "tz_id": "Antarctica/Syowa",
+      "region": "Antarctica",
+      "ciudad": "Showa",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 88,
+      "tz_id": "Asia/Aden",
+      "region": "Asia",
+      "ciudad": "Adén",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 89,
+      "tz_id": "Asia/Amman",
+      "region": "Asia",
+      "ciudad": "Ammán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 90,
+      "tz_id": "Asia/Anadyr",
+      "region": "Asia",
+      "ciudad": "Anádyr",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 91,
+      "tz_id": "Asia/Aqtau",
+      "region": "Asia",
+      "ciudad": "Aktau",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 92,
+      "tz_id": "Asia/Aqtobe",
+      "region": "Asia",
+      "ciudad": "Aktobe",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 93,
+      "tz_id": "Asia/Ashgabat",
+      "region": "Asia",
+      "ciudad": "Asjabad",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 94,
+      "tz_id": "Asia/Baghdad",
+      "region": "Asia",
+      "ciudad": "Bagdad",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 95,
+      "tz_id": "Asia/Bahrain",
+      "region": "Asia",
+      "ciudad": "Baréin",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 96,
+      "tz_id": "Asia/Baku",
+      "region": "Asia",
+      "ciudad": "Bakú",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 97,
+      "tz_id": "Asia/Barnaul",
+      "region": "Asia",
+      "ciudad": "Barnaúl",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 98,
+      "tz_id": "Asia/Brunei",
+      "region": "Asia",
+      "ciudad": "Brunéi",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 99,
+      "tz_id": "Asia/Calcutta",
+      "region": "Asia",
+      "ciudad": "Calcuta",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 100,
+      "tz_id": "Asia/Chita",
+      "region": "Asia",
+      "ciudad": "Chitá",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 101,
+      "tz_id": "Asia/Damascus",
+      "region": "Asia",
+      "ciudad": "Damasco",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 102,
+      "tz_id": "Asia/Dhaka",
+      "region": "Asia",
+      "ciudad": "Daca",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 103,
+      "tz_id": "Asia/Dubai",
+      "region": "Asia",
+      "ciudad": "Dubái",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 104,
+      "tz_id": "Asia/Dushanbe",
+      "region": "Asia",
+      "ciudad": "Dusambé",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 105,
+      "tz_id": "Asia/Hebron",
+      "region": "Asia",
+      "ciudad": "Hebrón",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 106,
+      "tz_id": "Asia/Hovd",
+      "region": "Asia",
+      "ciudad": "Khovd",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 107,
+      "tz_id": "Asia/Jakarta",
+      "region": "Asia",
+      "ciudad": "Yakarta",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 108,
+      "tz_id": "Asia/Jerusalem",
+      "region": "Asia",
+      "ciudad": "Jerusalén",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 109,
+      "tz_id": "Asia/Katmandu",
+      "region": "Asia",
+      "ciudad": "Katmandú",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 110,
+      "tz_id": "Asia/Khandyga",
+      "region": "Asia",
+      "ciudad": "Khandiga",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 111,
+      "tz_id": "Asia/Macau",
+      "region": "Asia",
+      "ciudad": "Macao",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 112,
+      "tz_id": "Asia/Magadan",
+      "region": "Asia",
+      "ciudad": "Magadán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 113,
+      "tz_id": "Asia/Makassar",
+      "region": "Asia",
+      "ciudad": "Makasar",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 114,
+      "tz_id": "Asia/Muscat",
+      "region": "Asia",
+      "ciudad": "Mascate",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 115,
+      "tz_id": "Asia/Qatar",
+      "region": "Asia",
+      "ciudad": "Catar",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 116,
+      "tz_id": "Asia/Qostanay",
+      "region": "Asia",
+      "ciudad": "Kostanái",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 117,
+      "tz_id": "Asia/Qyzylorda",
+      "region": "Asia",
+      "ciudad": "Kyzylorda",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 118,
+      "tz_id": "Asia/Rangoon",
+      "region": "Asia",
+      "ciudad": "Yangón (Rangún)",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 119,
+      "tz_id": "Asia/Riyadh",
+      "region": "Asia",
+      "ciudad": "Riad",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 120,
+      "tz_id": "Asia/Saigon",
+      "region": "Asia",
+      "ciudad": "Ciudad Ho Chi Minh",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 121,
+      "tz_id": "Asia/Sakhalin",
+      "region": "Asia",
+      "ciudad": "Sajalín",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 122,
+      "tz_id": "Asia/Samarkand",
+      "region": "Asia",
+      "ciudad": "Samarcanda",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 123,
+      "tz_id": "Asia/Seoul",
+      "region": "Asia",
+      "ciudad": "Seúl",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 124,
+      "tz_id": "Asia/Shanghai",
+      "region": "Asia",
+      "ciudad": "Shanghái",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 125,
+      "tz_id": "Asia/Singapore",
+      "region": "Asia",
+      "ciudad": "Singapur",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 126,
+      "tz_id": "Asia/Srednekolymsk",
+      "region": "Asia",
+      "ciudad": "Srednekolimsk",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 127,
+      "tz_id": "Asia/Taipei",
+      "region": "Asia",
+      "ciudad": "Taipéi",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 128,
+      "tz_id": "Asia/Tashkent",
+      "region": "Asia",
+      "ciudad": "Taskent",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 129,
+      "tz_id": "Asia/Tbilisi",
+      "region": "Asia",
+      "ciudad": "Tiflis",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 130,
+      "tz_id": "Asia/Tehran",
+      "region": "Asia",
+      "ciudad": "Teherán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 131,
+      "tz_id": "Asia/Thimphu",
+      "region": "Asia",
+      "ciudad": "Timbu",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 132,
+      "tz_id": "Asia/Tokyo",
+      "region": "Asia",
+      "ciudad": "Tokio",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 133,
+      "tz_id": "Asia/Ulaanbaatar",
+      "region": "Asia",
+      "ciudad": "Ulán Bator",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 134,
+      "tz_id": "Asia/Urumqi",
+      "region": "Asia",
+      "ciudad": "Ürümqi",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 135,
+      "tz_id": "Asia/Vientiane",
+      "region": "Asia",
+      "ciudad": "Vientián",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 136,
+      "tz_id": "Asia/Yekaterinburg",
+      "region": "Asia",
+      "ciudad": "Ekaterimburgo",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 137,
+      "tz_id": "Asia/Yerevan",
+      "region": "Asia",
+      "ciudad": "Ereván",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 138,
+      "tz_id": "Atlantic/Bermuda",
+      "region": "Atlantic",
+      "ciudad": "Bermudas",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 139,
+      "tz_id": "Atlantic/Canary",
+      "region": "Atlantic",
+      "ciudad": "Canarias",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 140,
+      "tz_id": "Atlantic/Cape_Verde",
+      "region": "Atlantic",
+      "ciudad": "Cabo Verde",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 141,
+      "tz_id": "Atlantic/Faeroe",
+      "region": "Atlantic",
+      "ciudad": "Islas Feroe",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 142,
+      "tz_id": "Atlantic/Reykjavik",
+      "region": "Atlantic",
+      "ciudad": "Reikiavik",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 143,
+      "tz_id": "Atlantic/South_Georgia",
+      "region": "Atlantic",
+      "ciudad": "Georgia del Sur",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 144,
+      "tz_id": "Atlantic/St_Helena",
+      "region": "Atlantic",
+      "ciudad": "Santa Elena",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 145,
+      "tz_id": "Australia/Adelaide",
+      "region": "Australia",
+      "ciudad": "Adelaida",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 146,
+      "tz_id": "Australia/Sydney",
+      "region": "Australia",
+      "ciudad": "Sídney",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 147,
+      "tz_id": "Etc/UTC",
+      "region": "Etc",
+      "ciudad": "",
+      "nombre_estandar": "tiempo universal coordinado",
+      "nombre_verano": ""
+    },
+    {
+      "id": 148,
+      "tz_id": "Etc/Unknown",
+      "region": "Etc",
+      "ciudad": "Ciudad desconocida",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 149,
+      "tz_id": "Europe/Amsterdam",
+      "region": "Europe",
+      "ciudad": "Ámsterdam",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 150,
+      "tz_id": "Europe/Astrakhan",
+      "region": "Europe",
+      "ciudad": "Astracán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 151,
+      "tz_id": "Europe/Athens",
+      "region": "Europe",
+      "ciudad": "Atenas",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 152,
+      "tz_id": "Europe/Belgrade",
+      "region": "Europe",
+      "ciudad": "Belgrado",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 153,
+      "tz_id": "Europe/Berlin",
+      "region": "Europe",
+      "ciudad": "Berlín",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 154,
+      "tz_id": "Europe/Brussels",
+      "region": "Europe",
+      "ciudad": "Bruselas",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 155,
+      "tz_id": "Europe/Bucharest",
+      "region": "Europe",
+      "ciudad": "Bucarest",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 156,
+      "tz_id": "Europe/Busingen",
+      "region": "Europe",
+      "ciudad": "Büsingen",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 157,
+      "tz_id": "Europe/Chisinau",
+      "region": "Europe",
+      "ciudad": "Chisináu",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 158,
+      "tz_id": "Europe/Copenhagen",
+      "region": "Europe",
+      "ciudad": "Copenhague",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 159,
+      "tz_id": "Europe/Dublin",
+      "region": "Europe",
+      "ciudad": "Dublín",
+      "nombre_estandar": "",
+      "nombre_verano": "hora de verano de Irlanda"
+    },
+    {
+      "id": 160,
+      "tz_id": "Europe/Guernsey",
+      "region": "Europe",
+      "ciudad": "Guernesey",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 161,
+      "tz_id": "Europe/Isle_of_Man",
+      "region": "Europe",
+      "ciudad": "Isla de Man",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 162,
+      "tz_id": "Europe/Istanbul",
+      "region": "Europe",
+      "ciudad": "Estambul",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 163,
+      "tz_id": "Europe/Kaliningrad",
+      "region": "Europe",
+      "ciudad": "Kaliningrado",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 164,
+      "tz_id": "Europe/Kiev",
+      "region": "Europe",
+      "ciudad": "Kiev",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 165,
+      "tz_id": "Europe/Kirov",
+      "region": "Europe",
+      "ciudad": "Kírov",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 166,
+      "tz_id": "Europe/Lisbon",
+      "region": "Europe",
+      "ciudad": "Lisboa",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 167,
+      "tz_id": "Europe/Ljubljana",
+      "region": "Europe",
+      "ciudad": "Liubliana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 168,
+      "tz_id": "Europe/London",
+      "region": "Europe",
+      "ciudad": "Londres",
+      "nombre_estandar": "",
+      "nombre_verano": "hora de verano británica"
+    },
+    {
+      "id": 169,
+      "tz_id": "Europe/Luxembourg",
+      "region": "Europe",
+      "ciudad": "Luxemburgo",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 170,
+      "tz_id": "Europe/Monaco",
+      "region": "Europe",
+      "ciudad": "Mónaco",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 171,
+      "tz_id": "Europe/Moscow",
+      "region": "Europe",
+      "ciudad": "Moscú",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 172,
+      "tz_id": "Europe/Paris",
+      "region": "Europe",
+      "ciudad": "París",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 173,
+      "tz_id": "Europe/Prague",
+      "region": "Europe",
+      "ciudad": "Praga",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 174,
+      "tz_id": "Europe/Rome",
+      "region": "Europe",
+      "ciudad": "Roma",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 175,
+      "tz_id": "Europe/Saratov",
+      "region": "Europe",
+      "ciudad": "Sarátov",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 176,
+      "tz_id": "Europe/Simferopol",
+      "region": "Europe",
+      "ciudad": "Simferópol",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 177,
+      "tz_id": "Europe/Skopje",
+      "region": "Europe",
+      "ciudad": "Skopie",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 178,
+      "tz_id": "Europe/Sofia",
+      "region": "Europe",
+      "ciudad": "Sofía",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 179,
+      "tz_id": "Europe/Stockholm",
+      "region": "Europe",
+      "ciudad": "Estocolmo",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 180,
+      "tz_id": "Europe/Tallinn",
+      "region": "Europe",
+      "ciudad": "Tallin",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 181,
+      "tz_id": "Europe/Tirane",
+      "region": "Europe",
+      "ciudad": "Tirana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 182,
+      "tz_id": "Europe/Ulyanovsk",
+      "region": "Europe",
+      "ciudad": "Uliánovsk",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 183,
+      "tz_id": "Europe/Vatican",
+      "region": "Europe",
+      "ciudad": "El Vaticano",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 184,
+      "tz_id": "Europe/Vienna",
+      "region": "Europe",
+      "ciudad": "Viena",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 185,
+      "tz_id": "Europe/Vilnius",
+      "region": "Europe",
+      "ciudad": "Vilna",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 186,
+      "tz_id": "Europe/Volgograd",
+      "region": "Europe",
+      "ciudad": "Volgogrado",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 187,
+      "tz_id": "Europe/Warsaw",
+      "region": "Europe",
+      "ciudad": "Varsovia",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 188,
+      "tz_id": "Europe/Zurich",
+      "region": "Europe",
+      "ciudad": "Zúrich",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 189,
+      "tz_id": "Indian/Christmas",
+      "region": "Indian",
+      "ciudad": "Navidad",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 190,
+      "tz_id": "Indian/Comoro",
+      "region": "Indian",
+      "ciudad": "Comoras",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 191,
+      "tz_id": "Indian/Mahe",
+      "region": "Indian",
+      "ciudad": "Mahé",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 192,
+      "tz_id": "Indian/Maldives",
+      "region": "Indian",
+      "ciudad": "Maldivas",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 193,
+      "tz_id": "Indian/Mauritius",
+      "region": "Indian",
+      "ciudad": "Mauricio",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 194,
+      "tz_id": "Indian/Reunion",
+      "region": "Indian",
+      "ciudad": "Reunión",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 195,
+      "tz_id": "Pacific/Easter",
+      "region": "Pacific",
+      "ciudad": "Isla de Pascua",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 196,
+      "tz_id": "Pacific/Enderbury",
+      "region": "Pacific",
+      "ciudad": "Isla Kanton",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 197,
+      "tz_id": "Pacific/Fiji",
+      "region": "Pacific",
+      "ciudad": "Fiyi",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 198,
+      "tz_id": "Pacific/Galapagos",
+      "region": "Pacific",
+      "ciudad": "Galápagos",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 199,
+      "tz_id": "Pacific/Honolulu",
+      "region": "Pacific",
+      "ciudad": "Honolulú",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 200,
+      "tz_id": "Pacific/Noumea",
+      "region": "Pacific",
+      "ciudad": "Numea",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 201,
+      "tz_id": "Pacific/Palau",
+      "region": "Pacific",
+      "ciudad": "Palaos",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 202,
+      "tz_id": "Pacific/Ponape",
+      "region": "Pacific",
+      "ciudad": "Pohnpei",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 203,
+      "tz_id": "Pacific/Saipan",
+      "region": "Pacific",
+      "ciudad": "Saipán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 204,
+      "tz_id": "Pacific/Tahiti",
+      "region": "Pacific",
+      "ciudad": "Tahití",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 205,
+      "tz_id": "Pacific/Truk",
+      "region": "Pacific",
+      "ciudad": "Chuuk",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 206,
+      "tz_id": "Pacific/Wallis",
+      "region": "Pacific",
+      "ciudad": "Wallis & Futuna",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    }
+  ],
+  "meta": {
+    "title": "Husos horarios del mundo (IANA / CLDR en español) - Descarga gratuita",
+    "description": "Identificadores de husos horarios IANA y nombres de ciudades representativas en español de la configuración regional es en CLDR. 'region' es el primer segmento del identificador. Contiene 206 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Husos horarios del mundo (IANA / CLDR en español) | ListBase",
+    "seo_description": "Descargar Husos horarios del mundo (IANA / CLDR en español) — 206 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 206 registros / 6 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

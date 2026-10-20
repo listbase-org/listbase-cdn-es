@@ -1,0 +1,86 @@
+{
+  "id": "es-la-coruna-a-coruna-bancos",
+  "name": "Bancos en La Coruna (A Coruna) — códigos SWIFT/BIC",
+  "title": "Bancos en La Coruna (A Coruna) — códigos SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"LA CORUNA (A CORUNA)\" (5 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 7,
+      "bank": "ABANCA CORPORACION BANCARIA, S.A.",
+      "city": "LA CORUNA (A CORUNA)",
+      "branch": "(INTL. OPERATIONS AND FOREIGN TRADE)",
+      "swift_code": "CAGLESMMCOP"
+    },
+    {
+      "id": 8,
+      "bank": "ABANCA CORPORACION BANCARIA, S.A.",
+      "city": "LA CORUNA (A CORUNA)",
+      "branch": "(PAYMENT SYSTEMS DEPT.)",
+      "swift_code": "CAGLESMMLCO"
+    },
+    {
+      "id": 192,
+      "bank": "BANCO PASTOR S.A.",
+      "city": "LA CORUNA (A CORUNA)",
+      "branch": "",
+      "swift_code": "PSTRESMM"
+    },
+    {
+      "id": 193,
+      "bank": "BANCO PASTOR S.A.",
+      "city": "LA CORUNA (A CORUNA)",
+      "branch": "",
+      "swift_code": "PSTRESMMLCO"
+    },
+    {
+      "id": 805,
+      "bank": "REGISTRO NACIONAL DE DERECHOS DA EMISSION DE GEI-RENADE",
+      "city": "LA CORUNA (A CORUNA)",
+      "branch": "",
+      "swift_code": "RNDEES21"
+    }
+  ],
+  "meta": {
+    "title": "Bancos en La Coruna (A Coruna) — códigos SWIFT/BIC - Descarga gratuita",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"LA CORUNA (A CORUNA)\" (5 institutions). Contiene 5 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Bancos en La Coruna (A Coruna) — códigos SWIFT/BIC | ListBase",
+    "seo_description": "Descargar Bancos en La Coruna (A Coruna) — códigos SWIFT/BIC — 5 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 5 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

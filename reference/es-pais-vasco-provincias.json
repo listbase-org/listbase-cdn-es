@@ -1,0 +1,104 @@
+{
+  "id": "es-pais-vasco-provincias",
+  "name": "Provincias de País Vasco - 3 provincias",
+  "title": "Provincias de País Vasco - 3 provincias",
+  "description": "Lista de las 3 demarcaciones provinciales de la comunidad autónoma País Vasco (16) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '16'.",
+  "category": "reference",
+  "source": "https://github.com/ByMykel/spanish-cities",
+  "source_url": "https://github.com/ByMykel/spanish-cities",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "nombre_comun",
+      "label": "Nombre Comun",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "code_autonomy",
+      "label": "Code Autonomy",
+      "type": "number"
+    },
+    {
+      "key": "autonomy_nombre",
+      "label": "Autonomy Nombre",
+      "type": "string"
+    },
+    {
+      "key": "autonomy_slug",
+      "label": "Autonomy Slug",
+      "type": "string"
+    },
+    {
+      "key": "flag",
+      "label": "Flag",
+      "type": "string"
+    },
+    {
+      "key": "coat_of_arms",
+      "label": "Coat Of Arms",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "01",
+      "nombre": "Araba/Álava",
+      "nombre_comun": "Araba/Álava",
+      "slug": "araba",
+      "code_autonomy": "16",
+      "autonomy_nombre": "País Vasco",
+      "autonomy_slug": "pais-vasco",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_%C3%81lava.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/1/12/Escudo_de_%C3%81lava.svg"
+    },
+    {
+      "code": "20",
+      "nombre": "Gipuzkoa",
+      "nombre_comun": "Gipuzkoa",
+      "slug": "gipuzkoa",
+      "code_autonomy": "16",
+      "autonomy_nombre": "País Vasco",
+      "autonomy_slug": "pais-vasco",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Guip%C3%BAzcoa.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Escudo_de_Guipuzcoa.svg"
+    },
+    {
+      "code": "48",
+      "nombre": "Bizkaia",
+      "nombre_comun": "Bizkaia",
+      "slug": "bizkaia",
+      "code_autonomy": "16",
+      "autonomy_nombre": "País Vasco",
+      "autonomy_slug": "pais-vasco",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bandera_de_Vizcaya.svg",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/2/20/Escudo_de_Bizkaia_2007.svg"
+    }
+  ],
+  "meta": {
+    "title": "Provincias de País Vasco - 3 provincias - Descarga gratuita",
+    "description": "Lista de las 3 demarcaciones provinciales de la comunidad autónoma País Vasco (16) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '16'. Contiene 3 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Provincias de País Vasco - 3 provincias | ListBase",
+    "seo_description": "Descargar Provincias de País Vasco - 3 provincias — 3 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 3 registros / 9 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: https://github.com/ByMykel/spanish-cities"
+    ]
+  }
+}

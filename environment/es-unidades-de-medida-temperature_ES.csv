@@ -1,0 +1,6 @@
+﻿"Id","Unit Code","Categoria","Nombre","Abreviatura","Forma Estrecha","Patron"
+"1","temperature-celsius","temperature","grados Celsius","°C","°C","{0} grados Celsius"
+"2","temperature-fahrenheit","temperature","grados Fahrenheit","°F","°F","{0} grados Fahrenheit"
+"3","temperature-generic","temperature","grados","°","°","{0} grados"
+"4","temperature-kelvin","temperature","kelvin","K","K","{0} kelvin"
+"5","temperature-rankine","temperature","°R","°R","°R","{0} °R"

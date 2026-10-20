@@ -1,0 +1,5 @@
+﻿"Id","Unit Code","Categoria","Nombre","Abreviatura","Forma Estrecha","Patron"
+"1","frequency-gigahertz","frequency","gigahercios","GHz","GHz","{0} gigahercios"
+"2","frequency-hertz","frequency","hercios","Hz","Hz","{0} hercios"
+"3","frequency-kilohertz","frequency","kilohercios","kHz","kHz","{0} kilohercios"
+"4","frequency-megahertz","frequency","megahercios","MHz","MHz","{0} megahercios"

@@ -1,0 +1,212 @@
+{
+  "id": "es-bilbao-bancos",
+  "name": "Bancos en Bilbao — códigos SWIFT/BIC",
+  "title": "Bancos en Bilbao — códigos SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"BILBAO\" (23 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 35,
+      "bank": "ALVEAN SUGAR, S.L., BILBAO",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "ALVEES22"
+    },
+    {
+      "id": 56,
+      "bank": "AXA AURORA VIDA",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "AXAVES21"
+    },
+    {
+      "id": 67,
+      "bank": "BANCA POPOLARE ETICA",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "ETICES21"
+    },
+    {
+      "id": 179,
+      "bank": "BANCO INDUSTRIAL DE BILBAO, S.A.",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "INBBESM1"
+    },
+    {
+      "id": 191,
+      "bank": "BANCO PASTOR S.A.",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "PSTRESMMBIL"
+    },
+    {
+      "id": 243,
+      "bank": "BANKINTER, S.A.",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "BKBKESMMBIL"
+    },
+    {
+      "id": 275,
+      "bank": "BBVA BANCO DE FINANCIACION, S.A.",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "BBFIES21"
+    },
+    {
+      "id": 288,
+      "bank": "BILBAO PLAZA FINANCIERA DEPOSITARIA, AGENCIA DE V LORES, S.A.",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "BPFDES21"
+    },
+    {
+      "id": 303,
+      "bank": "BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "GEBAESMMBIL"
+    },
+    {
+      "id": 457,
+      "bank": "CAIXABANK, S.A.",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "CAIXESBB609"
+    },
+    {
+      "id": 546,
+      "bank": "CONSULNOR SERVICIOS FINANCIEROS, SOCIEDAD DE VALORES S.A.U.",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "GALAES21"
+    },
+    {
+      "id": 611,
+      "bank": "FINECO SOCIEDAD DE VALORES S.A.",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "FIOVES21"
+    },
+    {
+      "id": 662,
+      "bank": "IBERDROLA S.A.",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "IBDLES2B"
+    },
+    {
+      "id": 707,
+      "bank": "KUTXABANK, S.A.",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "BASKES2B"
+    },
+    {
+      "id": 709,
+      "bank": "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "CLPEES21083"
+    },
+    {
+      "id": 741,
+      "bank": "MERCAGENTES S.A., SOCIEDAD DE VALORES",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "MERSESM1"
+    },
+    {
+      "id": 750,
+      "bank": "MINERALES Y PRODUCTOS DERIVADOS S.A",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "MYPDES2B"
+    },
+    {
+      "id": 769,
+      "bank": "NORBOLSA S.V.,S.A.",
+      "city": "BILBAO",
+      "branch": "(NORBOLSA)",
+      "swift_code": "NORLESB1BIO"
+    },
+    {
+      "id": 770,
+      "bank": "NORBOLSA S.V.,S.A.",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "NORLES2B"
+    },
+    {
+      "id": 881,
+      "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BILBAO, S.A.",
+      "city": "BILBAO",
+      "branch": "(ANCILLARY SYSTEM)",
+      "swift_code": "XRBVES21SCL"
+    },
+    {
+      "id": 882,
+      "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BILBAO, S.A.",
+      "city": "BILBAO",
+      "branch": "(LIQUIDACION CUENTA GARANTIA)",
+      "swift_code": "XRBVES21GAR"
+    },
+    {
+      "id": 883,
+      "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BILBAO, S.A.",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "XRBVES21"
+    },
+    {
+      "id": 884,
+      "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BILBAOS.A.",
+      "city": "BILBAO",
+      "branch": "",
+      "swift_code": "XBILES21"
+    }
+  ],
+  "meta": {
+    "title": "Bancos en Bilbao — códigos SWIFT/BIC - Descarga gratuita",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"BILBAO\" (23 institutions). Contiene 23 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Bancos en Bilbao — códigos SWIFT/BIC | ListBase",
+    "seo_description": "Descargar Bancos en Bilbao — códigos SWIFT/BIC — 23 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 23 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

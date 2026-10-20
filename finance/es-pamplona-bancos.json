@@ -1,0 +1,79 @@
+{
+  "id": "es-pamplona-bancos",
+  "name": "Bancos en Pamplona — códigos SWIFT/BIC",
+  "title": "Bancos en Pamplona — códigos SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"PAMPLONA\" (4 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 251,
+      "bank": "BANKINTER, S.A.",
+      "city": "PAMPLONA",
+      "branch": "",
+      "swift_code": "BKBKESMMNAV"
+    },
+    {
+      "id": 491,
+      "bank": "CAJA RURAL DE NAVARRA",
+      "city": "PAMPLONA",
+      "branch": "",
+      "swift_code": "BCOEESMM008"
+    },
+    {
+      "id": 642,
+      "bank": "GOBIERNO DE NAVARRA",
+      "city": "PAMPLONA",
+      "branch": "",
+      "swift_code": "CANAES21"
+    },
+    {
+      "id": 713,
+      "bank": "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)",
+      "city": "PAMPLONA",
+      "branch": "",
+      "swift_code": "CLPEES21195"
+    }
+  ],
+  "meta": {
+    "title": "Bancos en Pamplona — códigos SWIFT/BIC - Descarga gratuita",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"PAMPLONA\" (4 institutions). Contiene 4 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Bancos en Pamplona — códigos SWIFT/BIC | ListBase",
+    "seo_description": "Descargar Bancos en Pamplona — códigos SWIFT/BIC — 4 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 4 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "es-ceuta-municipios-demografia",
+  "name": "Municipios de Ceuta (demografía) — 1 municipios",
+  "title": "Municipios de Ceuta (demografía) — 1 municipios",
+  "description": "Los 1 municipios de la provincia de Ceuta (51) con datos demográficos y geográficos: población municipal (INE), superficie (ha y km²), perímetro, altitud, coordenadas y capital municipal. Subconjunto del registro nacional es-municipios-demografia filtrado por code_province = '51'.",
+  "category": "reference",
+  "source": "https://github.com/geoinnova/municipiosJson",
+  "source_url": "https://github.com/geoinnova/municipiosJson",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "code_ine",
+      "label": "Code Ine",
+      "type": "number"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "poblacion",
+      "label": "Poblacion",
+      "type": "number"
+    },
+    {
+      "key": "superficie_ha",
+      "label": "Superficie Ha",
+      "type": "number"
+    },
+    {
+      "key": "superficie_km2",
+      "label": "Superficie Km2",
+      "type": "number"
+    },
+    {
+      "key": "perimetro_m",
+      "label": "Perimetro M",
+      "type": "number"
+    },
+    {
+      "key": "altitud_m",
+      "label": "Altitud M",
+      "type": "number"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "poblacion_capital",
+      "label": "Poblacion Capital",
+      "type": "number"
+    },
+    {
+      "key": "latitud",
+      "label": "Latitud",
+      "type": "number"
+    },
+    {
+      "key": "longitud",
+      "label": "Longitud",
+      "type": "number"
+    },
+    {
+      "key": "code_province",
+      "label": "Code Province",
+      "type": "number"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code_ine": "51001",
+      "nombre": "Ceuta",
+      "slug": "ceuta",
+      "poblacion": 84777,
+      "superficie_ha": 1987,
+      "superficie_km2": 19.87,
+      "perimetro_m": 42546,
+      "altitud_m": 27,
+      "capital": "Ceuta",
+      "poblacion_capital": 70357,
+      "latitud": 35.88810209,
+      "longitud": -5.30675127,
+      "code_province": "51",
+      "provincia": "Ceuta",
+      "provincia_slug": "ceuta"
+    }
+  ],
+  "meta": {
+    "title": "Municipios de Ceuta (demografía) — 1 municipios - Descarga gratuita",
+    "description": "Los 1 municipios de la provincia de Ceuta (51) con datos demográficos y geográficos: población municipal (INE), superficie (ha y km²), perímetro, altitud, coordenadas y capital municipal. Subconjunto del registro nacional es-municipios-demografia filtrado por code_province = '51'. Contiene 1 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Municipios de Ceuta (demografía) — 1 municipios | ListBase",
+    "seo_description": "Descargar Municipios de Ceuta (demografía) — 1 municipios — 1 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 1 registros / 15 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: https://github.com/geoinnova/municipiosJson"
+    ]
+  }
+}

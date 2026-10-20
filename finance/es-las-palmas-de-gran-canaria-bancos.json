@@ -1,0 +1,79 @@
+{
+  "id": "es-las-palmas-de-gran-canaria-bancos",
+  "name": "Bancos en Las Palmas De Gran Canaria — códigos SWIFT/BIC",
+  "title": "Bancos en Las Palmas De Gran Canaria — códigos SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"LAS PALMAS DE GRAN CANARIA\" (4 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 41,
+      "bank": "ARESBANK, S.A.",
+      "city": "LAS PALMAS DE GRAN CANARIA",
+      "branch": "",
+      "swift_code": "AREBESMMCAN"
+    },
+    {
+      "id": 244,
+      "bank": "BANKINTER, S.A.",
+      "city": "LAS PALMAS DE GRAN CANARIA",
+      "branch": "",
+      "swift_code": "BKBKESMMLPS"
+    },
+    {
+      "id": 459,
+      "bank": "CAIXABANK, S.A.",
+      "city": "LAS PALMAS DE GRAN CANARIA",
+      "branch": "",
+      "swift_code": "CAIXESBB521"
+    },
+    {
+      "id": 540,
+      "bank": "COMUNIDAD AUTONOMA DE CANARIAS",
+      "city": "LAS PALMAS DE GRAN CANARIA",
+      "branch": "",
+      "swift_code": "GCANES21"
+    }
+  ],
+  "meta": {
+    "title": "Bancos en Las Palmas De Gran Canaria — códigos SWIFT/BIC - Descarga gratuita",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"LAS PALMAS DE GRAN CANARIA\" (4 institutions). Contiene 4 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Bancos en Las Palmas De Gran Canaria — códigos SWIFT/BIC | ListBase",
+    "seo_description": "Descargar Bancos en Las Palmas De Gran Canaria — códigos SWIFT/BIC — 4 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 4 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "id": "es-husos-horarios-africa",
+  "name": "Husos horarios — Africa (23)",
+  "title": "Husos horarios — Africa (23)",
+  "description": "Husos horarios cuyo identificador IANA empieza por 'Africa/', con nombres en español.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "ciudad",
+      "label": "Ciudad",
+      "type": "string"
+    },
+    {
+      "key": "nombre_estandar",
+      "label": "Nombre Estandar",
+      "type": "string"
+    },
+    {
+      "key": "nombre_verano",
+      "label": "Nombre Verano",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Abidjan",
+      "region": "Africa",
+      "ciudad": "Abiyán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Accra",
+      "region": "Africa",
+      "ciudad": "Acra",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Addis_Ababa",
+      "region": "Africa",
+      "ciudad": "Adís Abeba",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/Algiers",
+      "region": "Africa",
+      "ciudad": "Argel",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Asmera",
+      "region": "Africa",
+      "ciudad": "Asmara",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/Bissau",
+      "region": "Africa",
+      "ciudad": "Bisáu",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/Cairo",
+      "region": "Africa",
+      "ciudad": "El Cairo",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Africa/Conakry",
+      "region": "Africa",
+      "ciudad": "Conakri",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Africa/Dar_es_Salaam",
+      "region": "Africa",
+      "ciudad": "Dar es-Salam",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Africa/Djibouti",
+      "region": "Africa",
+      "ciudad": "Yibuti",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Africa/Douala",
+      "region": "Africa",
+      "ciudad": "Duala",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Africa/El_Aaiun",
+      "region": "Africa",
+      "ciudad": "El Aaiún",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Africa/Johannesburg",
+      "region": "Africa",
+      "ciudad": "Johannesburgo",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Africa/Khartoum",
+      "region": "Africa",
+      "ciudad": "Jartum",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Africa/Lome",
+      "region": "Africa",
+      "ciudad": "Lomé",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Africa/Mogadishu",
+      "region": "Africa",
+      "ciudad": "Mogadiscio",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Africa/Ndjamena",
+      "region": "Africa",
+      "ciudad": "Yamena",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Africa/Nouakchott",
+      "region": "Africa",
+      "ciudad": "Nuakchot",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Africa/Ouagadougou",
+      "region": "Africa",
+      "ciudad": "Uagadugú",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Africa/Porto-Novo",
+      "region": "Africa",
+      "ciudad": "Portonovo",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Africa/Sao_Tome",
+      "region": "Africa",
+      "ciudad": "Santo Tomé",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Africa/Tripoli",
+      "region": "Africa",
+      "ciudad": "Trípoli",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Africa/Tunis",
+      "region": "Africa",
+      "ciudad": "Túnez",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    }
+  ],
+  "meta": {
+    "title": "Husos horarios — Africa (23) - Descarga gratuita",
+    "description": "Husos horarios cuyo identificador IANA empieza por 'Africa/', con nombres en español. Contiene 23 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Husos horarios — Africa (23) | ListBase",
+    "seo_description": "Descargar Husos horarios — Africa (23) — 23 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 23 registros / 6 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

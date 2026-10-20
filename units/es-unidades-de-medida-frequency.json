@@ -1,0 +1,97 @@
+{
+  "id": "es-unidades-de-medida-frequency",
+  "name": "Unidades de medida — categoría 'frequency' (4)",
+  "title": "Unidades de medida — categoría 'frequency' (4)",
+  "description": "Unidades de medida de la categoría 'frequency' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "frequency-gigahertz",
+      "categoria": "frequency",
+      "nombre": "gigahercios",
+      "abreviatura": "GHz",
+      "forma_estrecha": "GHz",
+      "patron": "{0} gigahercios"
+    },
+    {
+      "id": 2,
+      "unit_code": "frequency-hertz",
+      "categoria": "frequency",
+      "nombre": "hercios",
+      "abreviatura": "Hz",
+      "forma_estrecha": "Hz",
+      "patron": "{0} hercios"
+    },
+    {
+      "id": 3,
+      "unit_code": "frequency-kilohertz",
+      "categoria": "frequency",
+      "nombre": "kilohercios",
+      "abreviatura": "kHz",
+      "forma_estrecha": "kHz",
+      "patron": "{0} kilohercios"
+    },
+    {
+      "id": 4,
+      "unit_code": "frequency-megahertz",
+      "categoria": "frequency",
+      "nombre": "megahercios",
+      "abreviatura": "MHz",
+      "forma_estrecha": "MHz",
+      "patron": "{0} megahercios"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'frequency' (4) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'frequency' de la configuración regional es en CLDR, con nombres en español. Contiene 4 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'frequency' (4) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'frequency' (4) — 4 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 4 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "id": "es-unidades-de-medida-mass",
+  "name": "Unidades de medida — categoría 'mass' (17)",
+  "title": "Unidades de medida — categoría 'mass' (17)",
+  "description": "Unidades de medida de la categoría 'mass' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "mass-carat",
+      "categoria": "mass",
+      "nombre": "quilates",
+      "abreviatura": "ct",
+      "forma_estrecha": "ct",
+      "patron": "{0} quilates"
+    },
+    {
+      "id": 2,
+      "unit_code": "mass-dalton",
+      "categoria": "mass",
+      "nombre": "daltones",
+      "abreviatura": "Da",
+      "forma_estrecha": "Da",
+      "patron": "{0} daltones"
+    },
+    {
+      "id": 3,
+      "unit_code": "mass-earth-mass",
+      "categoria": "mass",
+      "nombre": "masas terrestres",
+      "abreviatura": "M⊕",
+      "forma_estrecha": "M⊕",
+      "patron": "{0} masas terrestres"
+    },
+    {
+      "id": 4,
+      "unit_code": "mass-fun",
+      "categoria": "mass",
+      "nombre": "fun [JP]",
+      "abreviatura": "fun [JP]",
+      "forma_estrecha": "fun [JP]",
+      "patron": "{0} fun [JP]"
+    },
+    {
+      "id": 5,
+      "unit_code": "mass-grain",
+      "categoria": "mass",
+      "nombre": "granos",
+      "abreviatura": "gr",
+      "forma_estrecha": "gr",
+      "patron": "{0} granos"
+    },
+    {
+      "id": 6,
+      "unit_code": "mass-gram",
+      "categoria": "mass",
+      "nombre": "gramos",
+      "abreviatura": "g",
+      "forma_estrecha": "g",
+      "patron": "{0} gramos"
+    },
+    {
+      "id": 7,
+      "unit_code": "mass-kilogram",
+      "categoria": "mass",
+      "nombre": "kilogramos",
+      "abreviatura": "kg",
+      "forma_estrecha": "kg",
+      "patron": "{0} kilogramos"
+    },
+    {
+      "id": 8,
+      "unit_code": "mass-microgram",
+      "categoria": "mass",
+      "nombre": "microgramos",
+      "abreviatura": "μg",
+      "forma_estrecha": "μg",
+      "patron": "{0} microgramos"
+    },
+    {
+      "id": 9,
+      "unit_code": "mass-milligram",
+      "categoria": "mass",
+      "nombre": "miligramos",
+      "abreviatura": "mg",
+      "forma_estrecha": "mg",
+      "patron": "{0} miligramos"
+    },
+    {
+      "id": 10,
+      "unit_code": "mass-ounce",
+      "categoria": "mass",
+      "nombre": "onzas",
+      "abreviatura": "oz",
+      "forma_estrecha": "oz",
+      "patron": "{0} onzas"
+    },
+    {
+      "id": 11,
+      "unit_code": "mass-ounce-troy",
+      "categoria": "mass",
+      "nombre": "onzas troy",
+      "abreviatura": "oz t",
+      "forma_estrecha": "oz t",
+      "patron": "{0} onzas troy"
+    },
+    {
+      "id": 12,
+      "unit_code": "mass-pound",
+      "categoria": "mass",
+      "nombre": "libras",
+      "abreviatura": "lb",
+      "forma_estrecha": "lb",
+      "patron": "{0} libras"
+    },
+    {
+      "id": 13,
+      "unit_code": "mass-slug",
+      "categoria": "mass",
+      "nombre": "slug",
+      "abreviatura": "slug",
+      "forma_estrecha": "slug",
+      "patron": "{0} slug"
+    },
+    {
+      "id": 14,
+      "unit_code": "mass-solar-mass",
+      "categoria": "mass",
+      "nombre": "masas solares",
+      "abreviatura": "M☉",
+      "forma_estrecha": "M☉",
+      "patron": "{0} masas solares"
+    },
+    {
+      "id": 15,
+      "unit_code": "mass-stone",
+      "categoria": "mass",
+      "nombre": "stones",
+      "abreviatura": "st",
+      "forma_estrecha": "st",
+      "patron": "{0} stones"
+    },
+    {
+      "id": 16,
+      "unit_code": "mass-ton",
+      "categoria": "mass",
+      "nombre": "toneladas cortas",
+      "abreviatura": "tc",
+      "forma_estrecha": "tc",
+      "patron": "{0} toneladas cortas"
+    },
+    {
+      "id": 17,
+      "unit_code": "mass-tonne",
+      "categoria": "mass",
+      "nombre": "toneladas",
+      "abreviatura": "t",
+      "forma_estrecha": "t",
+      "patron": "{0} toneladas"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'mass' (17) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'mass' de la configuración regional es en CLDR, con nombres en español. Contiene 17 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'mass' (17) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'mass' (17) — 17 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 17 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

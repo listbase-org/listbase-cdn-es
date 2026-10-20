@@ -1,0 +1,7 @@
+﻿"Id","Unit Code","Categoria","Nombre","Abreviatura","Forma Estrecha","Patron"
+"1","speed-beaufort","speed","Beaufort","Bft","Bft","Beaufort {0}"
+"2","speed-kilometer-per-hour","speed","kilómetros por hora","km/h","km/h","{0} kilómetros por hora"
+"3","speed-knot","speed","nudos","kn","kn","{0} nudos"
+"4","speed-light-speed","speed","luz","luz","luz","{0} luz"
+"5","speed-meter-per-second","speed","metros por segundo","m/s","m/s","{0} metros por segundo"
+"6","speed-mile-per-hour","speed","millas por hora","mi/h","mi/h","{0} millas por hora"

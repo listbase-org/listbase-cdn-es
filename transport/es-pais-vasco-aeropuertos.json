@@ -1,0 +1,263 @@
+{
+  "id": "es-pais-vasco-aeropuertos",
+  "name": "Aeropuertos de Pais Vasco",
+  "title": "Aeropuertos de Pais Vasco",
+  "description": "Instalaciones aeronauticas situadas en Pais Vasco (ES-PV) segun OurAirports: 8 registros (2 closed, 2 heliport, 2 medium_airport, 1 small_airport, 1 large_airport). La particion usa la columna iso_region propia de la fuente; no se ha empleado geometria, geocodificacion inversa ni ningun cruce externo. Incluye codigos ICAO/IATA, coordenadas WGS84, elevacion, municipio y servicio regular.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "comunidad_autonoma",
+      "label": "Comunidad Autonoma",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ident": "ES-0040",
+      "name": "Zalduendo ULM",
+      "type": "small_airport",
+      "latitude_deg": "42.873599",
+      "longitude_deg": "-2.337437",
+      "elevation_ft": "1936",
+      "iso_country": "ES",
+      "iso_region": "ES-PV",
+      "comunidad_autonoma": "Basque Country",
+      "municipality": "Zalduondo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0180",
+      "name": "Aeródromo de Zalla - Forestal",
+      "type": "closed",
+      "latitude_deg": "43.186232",
+      "longitude_deg": "-3.120631",
+      "elevation_ft": "1641",
+      "iso_country": "ES",
+      "iso_region": "ES-PV",
+      "comunidad_autonoma": "Basque Country",
+      "municipality": "Zalla",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0227",
+      "name": "Dima Airfield",
+      "type": "closed",
+      "latitude_deg": "43.075701",
+      "longitude_deg": "-2.683326",
+      "elevation_ft": "1936",
+      "iso_country": "ES",
+      "iso_region": "ES-PV",
+      "comunidad_autonoma": "Basque Country",
+      "municipality": "",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "LEBB",
+      "name": "Bilbao Airport",
+      "type": "large_airport",
+      "latitude_deg": "43.301102",
+      "longitude_deg": "-2.91061",
+      "elevation_ft": "138",
+      "iso_country": "ES",
+      "iso_region": "ES-PV",
+      "comunidad_autonoma": "Basque Country",
+      "municipality": "Bilbao",
+      "scheduled_service": "yes",
+      "icao_code": "LEBB",
+      "iata_code": "BIO",
+      "gps_code": "LEBB",
+      "local_code": "",
+      "home_link": "https://www.aena.es/en/bilbao.html",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Bilbao_Airport"
+    },
+    {
+      "ident": "LEGV",
+      "name": "Campo Gaviota Heliport",
+      "type": "heliport",
+      "latitude_deg": "43.44169998168945",
+      "longitude_deg": "-2.7536098957061768",
+      "elevation_ft": "630",
+      "iso_country": "ES",
+      "iso_region": "ES-PV",
+      "comunidad_autonoma": "Basque Country",
+      "municipality": "",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LEGV",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "LEIU",
+      "name": "Iurreta Heliport",
+      "type": "heliport",
+      "latitude_deg": "43.18190002441406",
+      "longitude_deg": "-2.646389961242676",
+      "elevation_ft": "422",
+      "iso_country": "ES",
+      "iso_region": "ES-PV",
+      "comunidad_autonoma": "Basque Country",
+      "municipality": "Durango",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LEIU",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "LESO",
+      "name": "San Sebastián Airport",
+      "type": "medium_airport",
+      "latitude_deg": "43.356499",
+      "longitude_deg": "-1.79061",
+      "elevation_ft": "16",
+      "iso_country": "ES",
+      "iso_region": "ES-PV",
+      "comunidad_autonoma": "Basque Country",
+      "municipality": "Hondarribia",
+      "scheduled_service": "yes",
+      "icao_code": "LESO",
+      "iata_code": "EAS",
+      "gps_code": "LESO",
+      "local_code": "",
+      "home_link": "https://www.aena.es/en/san-sebastian.html",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/San_Sebasti%C3%A1n_Airport"
+    },
+    {
+      "ident": "LEVT",
+      "name": "Vitoria Airport",
+      "type": "medium_airport",
+      "latitude_deg": "42.882801",
+      "longitude_deg": "-2.72447",
+      "elevation_ft": "1682",
+      "iso_country": "ES",
+      "iso_region": "ES-PV",
+      "comunidad_autonoma": "Basque Country",
+      "municipality": "Alava",
+      "scheduled_service": "yes",
+      "icao_code": "LEVT",
+      "iata_code": "VIT",
+      "gps_code": "LEVT",
+      "local_code": "",
+      "home_link": "https://www.aena.es/en/vitoria.html",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Vitoria_Airport"
+    }
+  ],
+  "meta": {
+    "title": "Aeropuertos de Pais Vasco - Descarga gratuita",
+    "description": "Instalaciones aeronauticas situadas en Pais Vasco (ES-PV) segun OurAirports: 8 registros (2 closed, 2 heliport, 2 medium_airport, 1 small_airport, 1 large_airport). La particion usa la columna iso_region propia de la fuente; no se ha empleado geometria, geocodificacion inversa ni ningun cruce externo. Incluye codigos ICAO/IATA, coordenadas WGS84, elevacion, municipio y servicio regular. Contiene 8 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Aeropuertos de Pais Vasco | ListBase",
+    "seo_description": "Descargar Aeropuertos de Pais Vasco — 8 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 8 registros / 17 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

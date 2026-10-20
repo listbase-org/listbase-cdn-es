@@ -1,0 +1,187 @@
+{
+  "id": "es-unidades-de-medida-energy",
+  "name": "Unidades de medida — categoría 'energy' (14)",
+  "title": "Unidades de medida — categoría 'energy' (14)",
+  "description": "Unidades de medida de la categoría 'energy' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "energy-becquerel",
+      "categoria": "energy",
+      "nombre": "bequereles",
+      "abreviatura": "Bq",
+      "forma_estrecha": "Bq",
+      "patron": "{0} bequereles"
+    },
+    {
+      "id": 2,
+      "unit_code": "energy-british-thermal-unit",
+      "categoria": "energy",
+      "nombre": "unidades térmicas británicas",
+      "abreviatura": "BTU",
+      "forma_estrecha": "BTU",
+      "patron": "{0} unidades térmicas británicas"
+    },
+    {
+      "id": 3,
+      "unit_code": "energy-british-thermal-unit-it",
+      "categoria": "energy",
+      "nombre": "BTU-IT",
+      "abreviatura": "BTU-IT",
+      "forma_estrecha": "BTU-IT",
+      "patron": "{0} BTU-IT"
+    },
+    {
+      "id": 4,
+      "unit_code": "energy-calorie",
+      "categoria": "energy",
+      "nombre": "calorías",
+      "abreviatura": "cal",
+      "forma_estrecha": "cal",
+      "patron": "{0} calorías"
+    },
+    {
+      "id": 5,
+      "unit_code": "energy-calorie-it",
+      "categoria": "energy",
+      "nombre": "calorías [IT]",
+      "abreviatura": "cal-IT",
+      "forma_estrecha": "cal-IT",
+      "patron": "{0} calorías [IT]"
+    },
+    {
+      "id": 6,
+      "unit_code": "energy-electronvolt",
+      "categoria": "energy",
+      "nombre": "electronvoltios",
+      "abreviatura": "eV",
+      "forma_estrecha": "eV",
+      "patron": "{0} electronvoltios"
+    },
+    {
+      "id": 7,
+      "unit_code": "energy-foodcalorie",
+      "categoria": "energy",
+      "nombre": "kilocalorías",
+      "abreviatura": "",
+      "forma_estrecha": "",
+      "patron": "{0} kilocalorías"
+    },
+    {
+      "id": 8,
+      "unit_code": "energy-gray",
+      "categoria": "energy",
+      "nombre": "grais",
+      "abreviatura": "Gy",
+      "forma_estrecha": "Gy",
+      "patron": "{0} grais"
+    },
+    {
+      "id": 9,
+      "unit_code": "energy-joule",
+      "categoria": "energy",
+      "nombre": "julios",
+      "abreviatura": "J",
+      "forma_estrecha": "J",
+      "patron": "{0} julios"
+    },
+    {
+      "id": 10,
+      "unit_code": "energy-kilocalorie",
+      "categoria": "energy",
+      "nombre": "kilocalorías",
+      "abreviatura": "kcal",
+      "forma_estrecha": "kcal",
+      "patron": "{0} kilocalorías"
+    },
+    {
+      "id": 11,
+      "unit_code": "energy-kilojoule",
+      "categoria": "energy",
+      "nombre": "kilojulios",
+      "abreviatura": "kJ",
+      "forma_estrecha": "kJ",
+      "patron": "{0} kilojulios"
+    },
+    {
+      "id": 12,
+      "unit_code": "energy-kilowatt-hour",
+      "categoria": "energy",
+      "nombre": "kilovatios hora",
+      "abreviatura": "kWh",
+      "forma_estrecha": "kWh",
+      "patron": "{0} kilovatios hora"
+    },
+    {
+      "id": 13,
+      "unit_code": "energy-sievert",
+      "categoria": "energy",
+      "nombre": "siéverts",
+      "abreviatura": "Sv",
+      "forma_estrecha": "Sv",
+      "patron": "{0} siéverts"
+    },
+    {
+      "id": 14,
+      "unit_code": "energy-therm-us",
+      "categoria": "energy",
+      "nombre": "termias estadounidenses",
+      "abreviatura": "thm EE. UU.",
+      "forma_estrecha": "thm EE. UU.",
+      "patron": "{0} termias estadounidenses"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'energy' (14) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'energy' de la configuración regional es en CLDR, con nombres en español. Contiene 14 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'energy' (14) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'energy' (14) — 14 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 14 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

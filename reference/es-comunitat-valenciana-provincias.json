@@ -1,0 +1,104 @@
+{
+  "id": "es-comunitat-valenciana-provincias",
+  "name": "Provincias de Comunitat Valenciana - 3 provincias",
+  "title": "Provincias de Comunitat Valenciana - 3 provincias",
+  "description": "Lista de las 3 demarcaciones provinciales de la comunidad autónoma Comunitat Valenciana (10) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '10'.",
+  "category": "reference",
+  "source": "https://github.com/ByMykel/spanish-cities",
+  "source_url": "https://github.com/ByMykel/spanish-cities",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "nombre_comun",
+      "label": "Nombre Comun",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "code_autonomy",
+      "label": "Code Autonomy",
+      "type": "number"
+    },
+    {
+      "key": "autonomy_nombre",
+      "label": "Autonomy Nombre",
+      "type": "string"
+    },
+    {
+      "key": "autonomy_slug",
+      "label": "Autonomy Slug",
+      "type": "string"
+    },
+    {
+      "key": "flag",
+      "label": "Flag",
+      "type": "string"
+    },
+    {
+      "key": "coat_of_arms",
+      "label": "Coat Of Arms",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "03",
+      "nombre": "Alicante/Alacant",
+      "nombre_comun": "Alicante/Alacant",
+      "slug": "alicante",
+      "code_autonomy": "10",
+      "autonomy_nombre": "Comunitat Valenciana",
+      "autonomy_slug": "comunitat-valenciana",
+      "flag": "",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/7/75/Escut_de_la_Prov%C3%ADncia_d%27Alacant.svg"
+    },
+    {
+      "code": "12",
+      "nombre": "Castellón/Castelló",
+      "nombre_comun": "Castellón/Castelló",
+      "slug": "castellon",
+      "code_autonomy": "10",
+      "autonomy_nombre": "Comunitat Valenciana",
+      "autonomy_slug": "comunitat-valenciana",
+      "flag": "",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/7/79/Escut_de_la_Prov%C3%ADncia_de_Castell%C3%B3.svg"
+    },
+    {
+      "code": "46",
+      "nombre": "Valencia/València",
+      "nombre_comun": "Valencia/València",
+      "slug": "valencia",
+      "code_autonomy": "10",
+      "autonomy_nombre": "Comunitat Valenciana",
+      "autonomy_slug": "comunitat-valenciana",
+      "flag": "",
+      "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Escut_de_la_Prov%C3%ADncia_de_Val%C3%A8ncia.svg"
+    }
+  ],
+  "meta": {
+    "title": "Provincias de Comunitat Valenciana - 3 provincias - Descarga gratuita",
+    "description": "Lista de las 3 demarcaciones provinciales de la comunidad autónoma Comunitat Valenciana (10) según los códigos del INE. Subconjunto del registro nacional es-provincias filtrado por code_autonomy = '10'. Contiene 3 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Provincias de Comunitat Valenciana - 3 provincias | ListBase",
+    "seo_description": "Descargar Provincias de Comunitat Valenciana - 3 provincias — 3 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 3 registros / 9 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: https://github.com/ByMykel/spanish-cities"
+    ]
+  }
+}

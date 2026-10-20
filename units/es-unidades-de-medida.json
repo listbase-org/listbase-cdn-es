@@ -1,0 +1,2140 @@
+{
+  "id": "es-unidades-de-medida",
+  "name": "Unidades de medida — nombres en español (CLDR)",
+  "title": "Unidades de medida — nombres en español (CLDR)",
+  "description": "Lista de unidades de medida de la configuración regional es en CLDR — con nombre completo (nombre), abreviatura (abreviatura), forma estrecha (forma_estrecha) y patrón de visualización (patron).",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 231,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "acceleration-g-force",
+      "categoria": "acceleration",
+      "nombre": "unidades de fuerza g",
+      "abreviatura": "Fg",
+      "forma_estrecha": "Fg",
+      "patron": "{0} unidades de fuerza g"
+    },
+    {
+      "id": 2,
+      "unit_code": "acceleration-meter-per-square-second",
+      "categoria": "acceleration",
+      "nombre": "metros por segundo al cuadrado",
+      "abreviatura": "m/s²",
+      "forma_estrecha": "m/s²",
+      "patron": "{0} metros por segundo al cuadrado"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-arc-minute",
+      "categoria": "angle",
+      "nombre": "minutos de arco",
+      "abreviatura": "arcmin",
+      "forma_estrecha": "arcmin",
+      "patron": "{0} minutos de arco"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-arc-second",
+      "categoria": "angle",
+      "nombre": "segundos de arco",
+      "abreviatura": "arcsec",
+      "forma_estrecha": "arcsec",
+      "patron": "{0} segundos de arco"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-degree",
+      "categoria": "angle",
+      "nombre": "grados",
+      "abreviatura": "grad.",
+      "forma_estrecha": "grad",
+      "patron": "{0} grados"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-radian",
+      "categoria": "angle",
+      "nombre": "radianes",
+      "abreviatura": "rad",
+      "forma_estrecha": "rad",
+      "patron": "{0} radianes"
+    },
+    {
+      "id": 7,
+      "unit_code": "angle-revolution",
+      "categoria": "angle",
+      "nombre": "revoluciones",
+      "abreviatura": "rev",
+      "forma_estrecha": "rev",
+      "patron": "{0} revoluciones"
+    },
+    {
+      "id": 8,
+      "unit_code": "angle-steradian",
+      "categoria": "angle",
+      "nombre": "estereorradianes",
+      "abreviatura": "sr",
+      "forma_estrecha": "sr",
+      "patron": "{0} estereorradianes"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-acre",
+      "categoria": "area",
+      "nombre": "acres",
+      "abreviatura": "ac",
+      "forma_estrecha": "ac",
+      "patron": "{0} acres"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-bu-jp",
+      "categoria": "area",
+      "nombre": "bu [JP]",
+      "abreviatura": "bu [JP]",
+      "forma_estrecha": "bu [JP]",
+      "patron": "{0} bu [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-cho",
+      "categoria": "area",
+      "nombre": "cho [JP]",
+      "abreviatura": "cho [JP]",
+      "forma_estrecha": "cho [JP]",
+      "patron": "{0} cho [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-dunam",
+      "categoria": "area",
+      "nombre": "dunams",
+      "abreviatura": "dunams",
+      "forma_estrecha": "dunam",
+      "patron": "{0} dunams"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-hectare",
+      "categoria": "area",
+      "nombre": "hectáreas",
+      "abreviatura": "ha",
+      "forma_estrecha": "ha",
+      "patron": "{0} hectáreas"
+    },
+    {
+      "id": 14,
+      "unit_code": "area-se-jp",
+      "categoria": "area",
+      "nombre": "se [JP]",
+      "abreviatura": "se [JP]",
+      "forma_estrecha": "se [JP]",
+      "patron": "{0} se [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "area-square-centimeter",
+      "categoria": "area",
+      "nombre": "centímetros cuadrados",
+      "abreviatura": "cm²",
+      "forma_estrecha": "cm²",
+      "patron": "{0} centímetros cuadrados"
+    },
+    {
+      "id": 16,
+      "unit_code": "area-square-foot",
+      "categoria": "area",
+      "nombre": "pies cuadrados",
+      "abreviatura": "ft²",
+      "forma_estrecha": "ft²",
+      "patron": "{0} pies cuadrados"
+    },
+    {
+      "id": 17,
+      "unit_code": "area-square-inch",
+      "categoria": "area",
+      "nombre": "pulgadas cuadradas",
+      "abreviatura": "in²",
+      "forma_estrecha": "in²",
+      "patron": "{0} pulgadas cuadradas"
+    },
+    {
+      "id": 18,
+      "unit_code": "area-square-kilometer",
+      "categoria": "area",
+      "nombre": "kilómetros cuadrados",
+      "abreviatura": "km²",
+      "forma_estrecha": "km²",
+      "patron": "{0} kilómetros cuadrados"
+    },
+    {
+      "id": 19,
+      "unit_code": "area-square-meter",
+      "categoria": "area",
+      "nombre": "metros cuadrados",
+      "abreviatura": "m²",
+      "forma_estrecha": "m²",
+      "patron": "{0} metros cuadrados"
+    },
+    {
+      "id": 20,
+      "unit_code": "area-square-mile",
+      "categoria": "area",
+      "nombre": "millas cuadradas",
+      "abreviatura": "mi²",
+      "forma_estrecha": "mi²",
+      "patron": "{0} millas cuadradas"
+    },
+    {
+      "id": 21,
+      "unit_code": "area-square-yard",
+      "categoria": "area",
+      "nombre": "yardas cuadradas",
+      "abreviatura": "yd²",
+      "forma_estrecha": "yd²",
+      "patron": "{0} yardas cuadradas"
+    },
+    {
+      "id": 22,
+      "unit_code": "concentr-item",
+      "categoria": "concentr",
+      "nombre": "ítem",
+      "abreviatura": "ítem",
+      "forma_estrecha": "ítem",
+      "patron": "{0} ítems"
+    },
+    {
+      "id": 23,
+      "unit_code": "concentr-karat",
+      "categoria": "concentr",
+      "nombre": "quilates",
+      "abreviatura": "ct",
+      "forma_estrecha": "ct",
+      "patron": "{0} quilates"
+    },
+    {
+      "id": 24,
+      "unit_code": "concentr-katal",
+      "categoria": "concentr",
+      "nombre": "katales",
+      "abreviatura": "kat",
+      "forma_estrecha": "kat",
+      "patron": "{0} katales"
+    },
+    {
+      "id": 25,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "categoria": "concentr",
+      "nombre": "miligramos por decilitro",
+      "abreviatura": "mg/dL",
+      "forma_estrecha": "mg/dL",
+      "patron": "{0} miligramos por decilitro"
+    },
+    {
+      "id": 26,
+      "unit_code": "concentr-millimole-per-liter",
+      "categoria": "concentr",
+      "nombre": "milimoles por litro",
+      "abreviatura": "mmol/L",
+      "forma_estrecha": "mmol/L",
+      "patron": "{0} milimoles por litro"
+    },
+    {
+      "id": 27,
+      "unit_code": "concentr-mole",
+      "categoria": "concentr",
+      "nombre": "moles",
+      "abreviatura": "mol",
+      "forma_estrecha": "mol",
+      "patron": "{0} moles"
+    },
+    {
+      "id": 28,
+      "unit_code": "concentr-ofglucose",
+      "categoria": "concentr",
+      "nombre": "de glucosa",
+      "abreviatura": "Glc",
+      "forma_estrecha": "Glc",
+      "patron": "{0} de glucosa"
+    },
+    {
+      "id": 29,
+      "unit_code": "concentr-part",
+      "categoria": "concentr",
+      "nombre": "partes",
+      "abreviatura": "parte",
+      "forma_estrecha": "parte",
+      "patron": "{0} partes"
+    },
+    {
+      "id": 30,
+      "unit_code": "concentr-part-per-1e6",
+      "categoria": "concentr",
+      "nombre": "partes por millón",
+      "abreviatura": "ppm",
+      "forma_estrecha": "ppm",
+      "patron": "{0} partes por millón"
+    },
+    {
+      "id": 31,
+      "unit_code": "concentr-part-per-1e9",
+      "categoria": "concentr",
+      "nombre": "partes por millardo",
+      "abreviatura": "partes/millardo",
+      "forma_estrecha": "partes/millardo",
+      "patron": "{0} partes por millardo"
+    },
+    {
+      "id": 32,
+      "unit_code": "concentr-percent",
+      "categoria": "concentr",
+      "nombre": "por ciento",
+      "abreviatura": "por ciento",
+      "forma_estrecha": "%",
+      "patron": "{0} por ciento"
+    },
+    {
+      "id": 33,
+      "unit_code": "concentr-permille",
+      "categoria": "concentr",
+      "nombre": "por mil",
+      "abreviatura": "por mil",
+      "forma_estrecha": "por mil",
+      "patron": "{0} por mil"
+    },
+    {
+      "id": 34,
+      "unit_code": "concentr-permyriad",
+      "categoria": "concentr",
+      "nombre": "por diez mil",
+      "abreviatura": "por diez mil",
+      "forma_estrecha": "por diez mil",
+      "patron": "{0} por diez mil"
+    },
+    {
+      "id": 35,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "categoria": "consumption",
+      "nombre": "litros por 100 kilómetros",
+      "abreviatura": "l/100 km",
+      "forma_estrecha": "l/100km",
+      "patron": "{0} litros por 100 kilómetros"
+    },
+    {
+      "id": 36,
+      "unit_code": "consumption-liter-per-kilometer",
+      "categoria": "consumption",
+      "nombre": "litros por kilómetro",
+      "abreviatura": "l/km",
+      "forma_estrecha": "l/km",
+      "patron": "{0} litros por kilómetro"
+    },
+    {
+      "id": 37,
+      "unit_code": "consumption-mile-per-gallon",
+      "categoria": "consumption",
+      "nombre": "millas por galón",
+      "abreviatura": "mi/gal",
+      "forma_estrecha": "mi/gal",
+      "patron": "{0} millas por galón"
+    },
+    {
+      "id": 38,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "categoria": "consumption",
+      "nombre": "millas por galón imperial",
+      "abreviatura": "mi/gal imp.",
+      "forma_estrecha": "mi/gal imp",
+      "patron": "{0} millas por galón imperial"
+    },
+    {
+      "id": 39,
+      "unit_code": "digital-bit",
+      "categoria": "digital",
+      "nombre": "bits",
+      "abreviatura": "b",
+      "forma_estrecha": "b",
+      "patron": "{0} bits"
+    },
+    {
+      "id": 40,
+      "unit_code": "digital-byte",
+      "categoria": "digital",
+      "nombre": "bytes",
+      "abreviatura": "B",
+      "forma_estrecha": "B",
+      "patron": "{0} bytes"
+    },
+    {
+      "id": 41,
+      "unit_code": "digital-gigabit",
+      "categoria": "digital",
+      "nombre": "gigabits",
+      "abreviatura": "Gb",
+      "forma_estrecha": "Gb",
+      "patron": "{0} gigabits"
+    },
+    {
+      "id": 42,
+      "unit_code": "digital-gigabyte",
+      "categoria": "digital",
+      "nombre": "gigabytes",
+      "abreviatura": "GB",
+      "forma_estrecha": "GB",
+      "patron": "{0} gigabytes"
+    },
+    {
+      "id": 43,
+      "unit_code": "digital-kilobit",
+      "categoria": "digital",
+      "nombre": "kilobits",
+      "abreviatura": "kb",
+      "forma_estrecha": "kb",
+      "patron": "{0} kilobits"
+    },
+    {
+      "id": 44,
+      "unit_code": "digital-kilobyte",
+      "categoria": "digital",
+      "nombre": "kilobytes",
+      "abreviatura": "kB",
+      "forma_estrecha": "kB",
+      "patron": "{0} kilobytes"
+    },
+    {
+      "id": 45,
+      "unit_code": "digital-megabit",
+      "categoria": "digital",
+      "nombre": "megabits",
+      "abreviatura": "Mb",
+      "forma_estrecha": "Mb",
+      "patron": "{0} megabits"
+    },
+    {
+      "id": 46,
+      "unit_code": "digital-megabyte",
+      "categoria": "digital",
+      "nombre": "megabytes",
+      "abreviatura": "MB",
+      "forma_estrecha": "MB",
+      "patron": "{0} megabytes"
+    },
+    {
+      "id": 47,
+      "unit_code": "digital-petabyte",
+      "categoria": "digital",
+      "nombre": "petabytes",
+      "abreviatura": "PB",
+      "forma_estrecha": "PB",
+      "patron": "{0} petabytes"
+    },
+    {
+      "id": 48,
+      "unit_code": "digital-terabit",
+      "categoria": "digital",
+      "nombre": "terabits",
+      "abreviatura": "Tb",
+      "forma_estrecha": "Tb",
+      "patron": "{0} terabits"
+    },
+    {
+      "id": 49,
+      "unit_code": "digital-terabyte",
+      "categoria": "digital",
+      "nombre": "terabytes",
+      "abreviatura": "TB",
+      "forma_estrecha": "TB",
+      "patron": "{0} terabytes"
+    },
+    {
+      "id": 50,
+      "unit_code": "duration-century",
+      "categoria": "duration",
+      "nombre": "siglos",
+      "abreviatura": "s.",
+      "forma_estrecha": "s",
+      "patron": "{0} siglos"
+    },
+    {
+      "id": 51,
+      "unit_code": "duration-day",
+      "categoria": "duration",
+      "nombre": "días",
+      "abreviatura": "d",
+      "forma_estrecha": "d",
+      "patron": "{0} días"
+    },
+    {
+      "id": 52,
+      "unit_code": "duration-decade",
+      "categoria": "duration",
+      "nombre": "décadas",
+      "abreviatura": "déc.",
+      "forma_estrecha": "déc",
+      "patron": "{0} décadas"
+    },
+    {
+      "id": 53,
+      "unit_code": "duration-fortnight",
+      "categoria": "duration",
+      "nombre": "fortnight",
+      "abreviatura": "fortnight",
+      "forma_estrecha": "fortnight",
+      "patron": "{0} fw"
+    },
+    {
+      "id": 54,
+      "unit_code": "duration-hour",
+      "categoria": "duration",
+      "nombre": "horas",
+      "abreviatura": "horas",
+      "forma_estrecha": "h",
+      "patron": "{0} horas"
+    },
+    {
+      "id": 55,
+      "unit_code": "duration-microsecond",
+      "categoria": "duration",
+      "nombre": "microsegundos",
+      "abreviatura": "μs",
+      "forma_estrecha": "μs",
+      "patron": "{0} microsegundos"
+    },
+    {
+      "id": 56,
+      "unit_code": "duration-millisecond",
+      "categoria": "duration",
+      "nombre": "milisegundos",
+      "abreviatura": "ms",
+      "forma_estrecha": "ms",
+      "patron": "{0} milisegundos"
+    },
+    {
+      "id": 57,
+      "unit_code": "duration-minute",
+      "categoria": "duration",
+      "nombre": "minutos",
+      "abreviatura": "min",
+      "forma_estrecha": "min",
+      "patron": "{0} minutos"
+    },
+    {
+      "id": 58,
+      "unit_code": "duration-month",
+      "categoria": "duration",
+      "nombre": "meses",
+      "abreviatura": "m.",
+      "forma_estrecha": "m",
+      "patron": "{0} meses"
+    },
+    {
+      "id": 59,
+      "unit_code": "duration-nanosecond",
+      "categoria": "duration",
+      "nombre": "nanosegundos",
+      "abreviatura": "ns",
+      "forma_estrecha": "ns",
+      "patron": "{0} nanosegundos"
+    },
+    {
+      "id": 60,
+      "unit_code": "duration-night",
+      "categoria": "duration",
+      "nombre": "noches",
+      "abreviatura": "noches",
+      "forma_estrecha": "noches",
+      "patron": "{0} noches"
+    },
+    {
+      "id": 61,
+      "unit_code": "duration-quarter",
+      "categoria": "duration",
+      "nombre": "trimestres",
+      "abreviatura": "trim.",
+      "forma_estrecha": "trim",
+      "patron": "{0} trimestres"
+    },
+    {
+      "id": 62,
+      "unit_code": "duration-second",
+      "categoria": "duration",
+      "nombre": "segundos",
+      "abreviatura": "s",
+      "forma_estrecha": "s",
+      "patron": "{0} segundos"
+    },
+    {
+      "id": 63,
+      "unit_code": "duration-week",
+      "categoria": "duration",
+      "nombre": "semanas",
+      "abreviatura": "sem.",
+      "forma_estrecha": "sem",
+      "patron": "{0} semanas"
+    },
+    {
+      "id": 64,
+      "unit_code": "duration-year",
+      "categoria": "duration",
+      "nombre": "años",
+      "abreviatura": "a",
+      "forma_estrecha": "a",
+      "patron": "{0} años"
+    },
+    {
+      "id": 65,
+      "unit_code": "electric-ampere",
+      "categoria": "electric",
+      "nombre": "amperios",
+      "abreviatura": "A",
+      "forma_estrecha": "A",
+      "patron": "{0} amperios"
+    },
+    {
+      "id": 66,
+      "unit_code": "electric-coulomb",
+      "categoria": "electric",
+      "nombre": "culombios",
+      "abreviatura": "C",
+      "forma_estrecha": "C",
+      "patron": "{0} culombios"
+    },
+    {
+      "id": 67,
+      "unit_code": "electric-farad",
+      "categoria": "electric",
+      "nombre": "faradios",
+      "abreviatura": "F",
+      "forma_estrecha": "F",
+      "patron": "{0} faradios"
+    },
+    {
+      "id": 68,
+      "unit_code": "electric-henry",
+      "categoria": "electric",
+      "nombre": "henrios",
+      "abreviatura": "H",
+      "forma_estrecha": "H",
+      "patron": "{0} henrios"
+    },
+    {
+      "id": 69,
+      "unit_code": "electric-milliampere",
+      "categoria": "electric",
+      "nombre": "miliamperios",
+      "abreviatura": "mA",
+      "forma_estrecha": "mA",
+      "patron": "{0} miliamperios"
+    },
+    {
+      "id": 70,
+      "unit_code": "electric-ohm",
+      "categoria": "electric",
+      "nombre": "ohmios",
+      "abreviatura": "Ω",
+      "forma_estrecha": "Ω",
+      "patron": "{0} ohmios"
+    },
+    {
+      "id": 71,
+      "unit_code": "electric-siemens",
+      "categoria": "electric",
+      "nombre": "siemens",
+      "abreviatura": "S",
+      "forma_estrecha": "S",
+      "patron": "{0} siemens"
+    },
+    {
+      "id": 72,
+      "unit_code": "electric-volt",
+      "categoria": "electric",
+      "nombre": "voltios",
+      "abreviatura": "V",
+      "forma_estrecha": "V",
+      "patron": "{0} voltios"
+    },
+    {
+      "id": 73,
+      "unit_code": "energy-becquerel",
+      "categoria": "energy",
+      "nombre": "bequereles",
+      "abreviatura": "Bq",
+      "forma_estrecha": "Bq",
+      "patron": "{0} bequereles"
+    },
+    {
+      "id": 74,
+      "unit_code": "energy-british-thermal-unit",
+      "categoria": "energy",
+      "nombre": "unidades térmicas británicas",
+      "abreviatura": "BTU",
+      "forma_estrecha": "BTU",
+      "patron": "{0} unidades térmicas británicas"
+    },
+    {
+      "id": 75,
+      "unit_code": "energy-british-thermal-unit-it",
+      "categoria": "energy",
+      "nombre": "BTU-IT",
+      "abreviatura": "BTU-IT",
+      "forma_estrecha": "BTU-IT",
+      "patron": "{0} BTU-IT"
+    },
+    {
+      "id": 76,
+      "unit_code": "energy-calorie",
+      "categoria": "energy",
+      "nombre": "calorías",
+      "abreviatura": "cal",
+      "forma_estrecha": "cal",
+      "patron": "{0} calorías"
+    },
+    {
+      "id": 77,
+      "unit_code": "energy-calorie-it",
+      "categoria": "energy",
+      "nombre": "calorías [IT]",
+      "abreviatura": "cal-IT",
+      "forma_estrecha": "cal-IT",
+      "patron": "{0} calorías [IT]"
+    },
+    {
+      "id": 78,
+      "unit_code": "energy-electronvolt",
+      "categoria": "energy",
+      "nombre": "electronvoltios",
+      "abreviatura": "eV",
+      "forma_estrecha": "eV",
+      "patron": "{0} electronvoltios"
+    },
+    {
+      "id": 79,
+      "unit_code": "energy-foodcalorie",
+      "categoria": "energy",
+      "nombre": "kilocalorías",
+      "abreviatura": "",
+      "forma_estrecha": "",
+      "patron": "{0} kilocalorías"
+    },
+    {
+      "id": 80,
+      "unit_code": "energy-gray",
+      "categoria": "energy",
+      "nombre": "grais",
+      "abreviatura": "Gy",
+      "forma_estrecha": "Gy",
+      "patron": "{0} grais"
+    },
+    {
+      "id": 81,
+      "unit_code": "energy-joule",
+      "categoria": "energy",
+      "nombre": "julios",
+      "abreviatura": "J",
+      "forma_estrecha": "J",
+      "patron": "{0} julios"
+    },
+    {
+      "id": 82,
+      "unit_code": "energy-kilocalorie",
+      "categoria": "energy",
+      "nombre": "kilocalorías",
+      "abreviatura": "kcal",
+      "forma_estrecha": "kcal",
+      "patron": "{0} kilocalorías"
+    },
+    {
+      "id": 83,
+      "unit_code": "energy-kilojoule",
+      "categoria": "energy",
+      "nombre": "kilojulios",
+      "abreviatura": "kJ",
+      "forma_estrecha": "kJ",
+      "patron": "{0} kilojulios"
+    },
+    {
+      "id": 84,
+      "unit_code": "energy-kilowatt-hour",
+      "categoria": "energy",
+      "nombre": "kilovatios hora",
+      "abreviatura": "kWh",
+      "forma_estrecha": "kWh",
+      "patron": "{0} kilovatios hora"
+    },
+    {
+      "id": 85,
+      "unit_code": "energy-sievert",
+      "categoria": "energy",
+      "nombre": "siéverts",
+      "abreviatura": "Sv",
+      "forma_estrecha": "Sv",
+      "patron": "{0} siéverts"
+    },
+    {
+      "id": 86,
+      "unit_code": "energy-therm-us",
+      "categoria": "energy",
+      "nombre": "termias estadounidenses",
+      "abreviatura": "thm EE. UU.",
+      "forma_estrecha": "thm EE. UU.",
+      "patron": "{0} termias estadounidenses"
+    },
+    {
+      "id": 87,
+      "unit_code": "force-kilogram-force",
+      "categoria": "force",
+      "nombre": "kilogramos fuerza",
+      "abreviatura": "kgf",
+      "forma_estrecha": "kgf",
+      "patron": "{0} kilogramos fuerza"
+    },
+    {
+      "id": 88,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "categoria": "force",
+      "nombre": "kilovatios hora por 100 kilómetros",
+      "abreviatura": "kWh/100 km",
+      "forma_estrecha": "kWh/100 km",
+      "patron": "{0} kilovatios hora por 100 kilómetros"
+    },
+    {
+      "id": 89,
+      "unit_code": "force-newton",
+      "categoria": "force",
+      "nombre": "newtons",
+      "abreviatura": "N",
+      "forma_estrecha": "N",
+      "patron": "{0} newtons"
+    },
+    {
+      "id": 90,
+      "unit_code": "force-pound-force",
+      "categoria": "force",
+      "nombre": "libras de fuerza",
+      "abreviatura": "lbf",
+      "forma_estrecha": "lbf",
+      "patron": "{0} libras de fuerza"
+    },
+    {
+      "id": 91,
+      "unit_code": "frequency-gigahertz",
+      "categoria": "frequency",
+      "nombre": "gigahercios",
+      "abreviatura": "GHz",
+      "forma_estrecha": "GHz",
+      "patron": "{0} gigahercios"
+    },
+    {
+      "id": 92,
+      "unit_code": "frequency-hertz",
+      "categoria": "frequency",
+      "nombre": "hercios",
+      "abreviatura": "Hz",
+      "forma_estrecha": "Hz",
+      "patron": "{0} hercios"
+    },
+    {
+      "id": 93,
+      "unit_code": "frequency-kilohertz",
+      "categoria": "frequency",
+      "nombre": "kilohercios",
+      "abreviatura": "kHz",
+      "forma_estrecha": "kHz",
+      "patron": "{0} kilohercios"
+    },
+    {
+      "id": 94,
+      "unit_code": "frequency-megahertz",
+      "categoria": "frequency",
+      "nombre": "megahercios",
+      "abreviatura": "MHz",
+      "forma_estrecha": "MHz",
+      "patron": "{0} megahercios"
+    },
+    {
+      "id": 95,
+      "unit_code": "graphics-dot",
+      "categoria": "graphics",
+      "nombre": "puntos tipográficos",
+      "abreviatura": "pt",
+      "forma_estrecha": "pt",
+      "patron": "{0} puntos tipográficos"
+    },
+    {
+      "id": 96,
+      "unit_code": "graphics-dot-per-centimeter",
+      "categoria": "graphics",
+      "nombre": "puntos por centímetro",
+      "abreviatura": "ppcm",
+      "forma_estrecha": "ppcm",
+      "patron": "{0} puntos por centímetro"
+    },
+    {
+      "id": 97,
+      "unit_code": "graphics-dot-per-inch",
+      "categoria": "graphics",
+      "nombre": "puntos por pulgada",
+      "abreviatura": "ppp",
+      "forma_estrecha": "ppp",
+      "patron": "{0} puntos por pulgada"
+    },
+    {
+      "id": 98,
+      "unit_code": "graphics-em",
+      "categoria": "graphics",
+      "nombre": "espacios eme",
+      "abreviatura": "em",
+      "forma_estrecha": "em",
+      "patron": "{0} espacios eme"
+    },
+    {
+      "id": 99,
+      "unit_code": "graphics-megapixel",
+      "categoria": "graphics",
+      "nombre": "megapíxeles",
+      "abreviatura": "Mpx",
+      "forma_estrecha": "Mpx",
+      "patron": "{0} megapíxeles"
+    },
+    {
+      "id": 100,
+      "unit_code": "graphics-pixel",
+      "categoria": "graphics",
+      "nombre": "píxeles",
+      "abreviatura": "px",
+      "forma_estrecha": "px",
+      "patron": "{0} píxeles"
+    },
+    {
+      "id": 101,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "categoria": "graphics",
+      "nombre": "píxeles por centímetro",
+      "abreviatura": "px/cm",
+      "forma_estrecha": "px/cm",
+      "patron": "{0} píxeles por centímetro"
+    },
+    {
+      "id": 102,
+      "unit_code": "graphics-pixel-per-inch",
+      "categoria": "graphics",
+      "nombre": "píxeles por pulgada",
+      "abreviatura": "px/in",
+      "forma_estrecha": "px/in",
+      "patron": "{0} píxeles por pulgada"
+    },
+    {
+      "id": 103,
+      "unit_code": "length-astronomical-unit",
+      "categoria": "length",
+      "nombre": "unidades astronómicas",
+      "abreviatura": "au",
+      "forma_estrecha": "au",
+      "patron": "{0} unidades astronómicas"
+    },
+    {
+      "id": 104,
+      "unit_code": "length-centimeter",
+      "categoria": "length",
+      "nombre": "centímetros",
+      "abreviatura": "cm",
+      "forma_estrecha": "cm",
+      "patron": "{0} centímetros"
+    },
+    {
+      "id": 105,
+      "unit_code": "length-chain",
+      "categoria": "length",
+      "nombre": "chain",
+      "abreviatura": "chain",
+      "forma_estrecha": "chain",
+      "patron": "{0} chain"
+    },
+    {
+      "id": 106,
+      "unit_code": "length-decimeter",
+      "categoria": "length",
+      "nombre": "decímetros",
+      "abreviatura": "dm",
+      "forma_estrecha": "dm",
+      "patron": "{0} decímetros"
+    },
+    {
+      "id": 107,
+      "unit_code": "length-earth-radius",
+      "categoria": "length",
+      "nombre": "radios terrestres",
+      "abreviatura": "R⊕",
+      "forma_estrecha": "R⊕",
+      "patron": "{0} radios terrestres"
+    },
+    {
+      "id": 108,
+      "unit_code": "length-fathom",
+      "categoria": "length",
+      "nombre": "brazas",
+      "abreviatura": "ftm",
+      "forma_estrecha": "ftm",
+      "patron": "{0} brazas"
+    },
+    {
+      "id": 109,
+      "unit_code": "length-foot",
+      "categoria": "length",
+      "nombre": "pies",
+      "abreviatura": "ft",
+      "forma_estrecha": "ft",
+      "patron": "{0} pies"
+    },
+    {
+      "id": 110,
+      "unit_code": "length-furlong",
+      "categoria": "length",
+      "nombre": "furlongs",
+      "abreviatura": "fur",
+      "forma_estrecha": "fur",
+      "patron": "{0} furlongs"
+    },
+    {
+      "id": 111,
+      "unit_code": "length-inch",
+      "categoria": "length",
+      "nombre": "pulgadas",
+      "abreviatura": "in",
+      "forma_estrecha": "in",
+      "patron": "{0} pulgadas"
+    },
+    {
+      "id": 112,
+      "unit_code": "length-jo-jp",
+      "categoria": "length",
+      "nombre": "jo [JP]",
+      "abreviatura": "jo [JP]",
+      "forma_estrecha": "jo [JP]",
+      "patron": "{0} jo [JP]"
+    },
+    {
+      "id": 113,
+      "unit_code": "length-ken",
+      "categoria": "length",
+      "nombre": "ken [JP]",
+      "abreviatura": "ken [JP]",
+      "forma_estrecha": "ken [JP]",
+      "patron": "{0} ken [JP]"
+    },
+    {
+      "id": 114,
+      "unit_code": "length-kilometer",
+      "categoria": "length",
+      "nombre": "kilómetros",
+      "abreviatura": "km",
+      "forma_estrecha": "km",
+      "patron": "{0} kilómetros"
+    },
+    {
+      "id": 115,
+      "unit_code": "length-light-year",
+      "categoria": "length",
+      "nombre": "años luz",
+      "abreviatura": "a. l.",
+      "forma_estrecha": "al",
+      "patron": "{0} años luz"
+    },
+    {
+      "id": 116,
+      "unit_code": "length-meter",
+      "categoria": "length",
+      "nombre": "metros",
+      "abreviatura": "m",
+      "forma_estrecha": "m",
+      "patron": "{0} metros"
+    },
+    {
+      "id": 117,
+      "unit_code": "length-micrometer",
+      "categoria": "length",
+      "nombre": "micrómetros",
+      "abreviatura": "μm",
+      "forma_estrecha": "μm",
+      "patron": "{0} micrómetros"
+    },
+    {
+      "id": 118,
+      "unit_code": "length-mile",
+      "categoria": "length",
+      "nombre": "millas",
+      "abreviatura": "mi",
+      "forma_estrecha": "mi",
+      "patron": "{0} millas"
+    },
+    {
+      "id": 119,
+      "unit_code": "length-mile-scandinavian",
+      "categoria": "length",
+      "nombre": "millas escandinavas",
+      "abreviatura": "mi esc.",
+      "forma_estrecha": "mi esc",
+      "patron": "{0} millas escandinavas"
+    },
+    {
+      "id": 120,
+      "unit_code": "length-millimeter",
+      "categoria": "length",
+      "nombre": "milímetros",
+      "abreviatura": "mm",
+      "forma_estrecha": "mm",
+      "patron": "{0} milímetros"
+    },
+    {
+      "id": 121,
+      "unit_code": "length-nanometer",
+      "categoria": "length",
+      "nombre": "nanómetros",
+      "abreviatura": "nm",
+      "forma_estrecha": "nm",
+      "patron": "{0} nanómetros"
+    },
+    {
+      "id": 122,
+      "unit_code": "length-nautical-mile",
+      "categoria": "length",
+      "nombre": "millas náuticas",
+      "abreviatura": "M",
+      "forma_estrecha": "M",
+      "patron": "{0} millas náuticas"
+    },
+    {
+      "id": 123,
+      "unit_code": "length-parsec",
+      "categoria": "length",
+      "nombre": "parsecs",
+      "abreviatura": "pc",
+      "forma_estrecha": "pc",
+      "patron": "{0} parsecs"
+    },
+    {
+      "id": 124,
+      "unit_code": "length-picometer",
+      "categoria": "length",
+      "nombre": "picómetros",
+      "abreviatura": "pm",
+      "forma_estrecha": "pm",
+      "patron": "{0} picómetros"
+    },
+    {
+      "id": 125,
+      "unit_code": "length-point",
+      "categoria": "length",
+      "nombre": "puntos",
+      "abreviatura": "ptos.",
+      "forma_estrecha": "ptos",
+      "patron": "{0} puntos"
+    },
+    {
+      "id": 126,
+      "unit_code": "length-ri-jp",
+      "categoria": "length",
+      "nombre": "ri [JP]",
+      "abreviatura": "ri [JP]",
+      "forma_estrecha": "ri [JP]",
+      "patron": "{0} ri [JP]"
+    },
+    {
+      "id": 127,
+      "unit_code": "length-rin",
+      "categoria": "length",
+      "nombre": "rin [JP]",
+      "abreviatura": "rin [JP]",
+      "forma_estrecha": "rin [JP]",
+      "patron": "{0} rin [JP]"
+    },
+    {
+      "id": 128,
+      "unit_code": "length-rod",
+      "categoria": "length",
+      "nombre": "rod",
+      "abreviatura": "rod",
+      "forma_estrecha": "rod",
+      "patron": "{0} rod"
+    },
+    {
+      "id": 129,
+      "unit_code": "length-shaku-cloth",
+      "categoria": "length",
+      "nombre": "shaku [cloth, JP]",
+      "abreviatura": "shaku [cloth, JP]",
+      "forma_estrecha": "shaku [cloth, JP]",
+      "patron": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 130,
+      "unit_code": "length-shaku-length",
+      "categoria": "length",
+      "nombre": "shaku [JP]",
+      "abreviatura": "shaku [JP]",
+      "forma_estrecha": "shaku [JP]",
+      "patron": "{0} shaku [JP]"
+    },
+    {
+      "id": 131,
+      "unit_code": "length-solar-radius",
+      "categoria": "length",
+      "nombre": "radios solares",
+      "abreviatura": "R☉",
+      "forma_estrecha": "R☉",
+      "patron": "{0} radios solares"
+    },
+    {
+      "id": 132,
+      "unit_code": "length-sun",
+      "categoria": "length",
+      "nombre": "sun [JP]",
+      "abreviatura": "sun [JP]",
+      "forma_estrecha": "sun [JP]",
+      "patron": "{0} sun [JP]"
+    },
+    {
+      "id": 133,
+      "unit_code": "length-yard",
+      "categoria": "length",
+      "nombre": "yardas",
+      "abreviatura": "yd",
+      "forma_estrecha": "yd",
+      "patron": "{0} yardas"
+    },
+    {
+      "id": 134,
+      "unit_code": "light-candela",
+      "categoria": "light",
+      "nombre": "candelas",
+      "abreviatura": "cd",
+      "forma_estrecha": "cd",
+      "patron": "{0} candelas"
+    },
+    {
+      "id": 135,
+      "unit_code": "light-lumen",
+      "categoria": "light",
+      "nombre": "lúmenes",
+      "abreviatura": "lm",
+      "forma_estrecha": "lm",
+      "patron": "{0} lúmenes"
+    },
+    {
+      "id": 136,
+      "unit_code": "light-lux",
+      "categoria": "light",
+      "nombre": "luxes",
+      "abreviatura": "lx",
+      "forma_estrecha": "lx",
+      "patron": "{0} luxes"
+    },
+    {
+      "id": 137,
+      "unit_code": "light-solar-luminosity",
+      "categoria": "light",
+      "nombre": "luminosidades solares",
+      "abreviatura": "L☉",
+      "forma_estrecha": "L☉",
+      "patron": "{0} luminosidades solares"
+    },
+    {
+      "id": 138,
+      "unit_code": "magnetic-tesla",
+      "categoria": "magnetic",
+      "nombre": "teslas",
+      "abreviatura": "T",
+      "forma_estrecha": "T",
+      "patron": "{0} teslas"
+    },
+    {
+      "id": 139,
+      "unit_code": "magnetic-weber",
+      "categoria": "magnetic",
+      "nombre": "webers",
+      "abreviatura": "Wb",
+      "forma_estrecha": "Wb",
+      "patron": "{0} webers"
+    },
+    {
+      "id": 140,
+      "unit_code": "mass-carat",
+      "categoria": "mass",
+      "nombre": "quilates",
+      "abreviatura": "ct",
+      "forma_estrecha": "ct",
+      "patron": "{0} quilates"
+    },
+    {
+      "id": 141,
+      "unit_code": "mass-dalton",
+      "categoria": "mass",
+      "nombre": "daltones",
+      "abreviatura": "Da",
+      "forma_estrecha": "Da",
+      "patron": "{0} daltones"
+    },
+    {
+      "id": 142,
+      "unit_code": "mass-earth-mass",
+      "categoria": "mass",
+      "nombre": "masas terrestres",
+      "abreviatura": "M⊕",
+      "forma_estrecha": "M⊕",
+      "patron": "{0} masas terrestres"
+    },
+    {
+      "id": 143,
+      "unit_code": "mass-fun",
+      "categoria": "mass",
+      "nombre": "fun [JP]",
+      "abreviatura": "fun [JP]",
+      "forma_estrecha": "fun [JP]",
+      "patron": "{0} fun [JP]"
+    },
+    {
+      "id": 144,
+      "unit_code": "mass-grain",
+      "categoria": "mass",
+      "nombre": "granos",
+      "abreviatura": "gr",
+      "forma_estrecha": "gr",
+      "patron": "{0} granos"
+    },
+    {
+      "id": 145,
+      "unit_code": "mass-gram",
+      "categoria": "mass",
+      "nombre": "gramos",
+      "abreviatura": "g",
+      "forma_estrecha": "g",
+      "patron": "{0} gramos"
+    },
+    {
+      "id": 146,
+      "unit_code": "mass-kilogram",
+      "categoria": "mass",
+      "nombre": "kilogramos",
+      "abreviatura": "kg",
+      "forma_estrecha": "kg",
+      "patron": "{0} kilogramos"
+    },
+    {
+      "id": 147,
+      "unit_code": "mass-microgram",
+      "categoria": "mass",
+      "nombre": "microgramos",
+      "abreviatura": "μg",
+      "forma_estrecha": "μg",
+      "patron": "{0} microgramos"
+    },
+    {
+      "id": 148,
+      "unit_code": "mass-milligram",
+      "categoria": "mass",
+      "nombre": "miligramos",
+      "abreviatura": "mg",
+      "forma_estrecha": "mg",
+      "patron": "{0} miligramos"
+    },
+    {
+      "id": 149,
+      "unit_code": "mass-ounce",
+      "categoria": "mass",
+      "nombre": "onzas",
+      "abreviatura": "oz",
+      "forma_estrecha": "oz",
+      "patron": "{0} onzas"
+    },
+    {
+      "id": 150,
+      "unit_code": "mass-ounce-troy",
+      "categoria": "mass",
+      "nombre": "onzas troy",
+      "abreviatura": "oz t",
+      "forma_estrecha": "oz t",
+      "patron": "{0} onzas troy"
+    },
+    {
+      "id": 151,
+      "unit_code": "mass-pound",
+      "categoria": "mass",
+      "nombre": "libras",
+      "abreviatura": "lb",
+      "forma_estrecha": "lb",
+      "patron": "{0} libras"
+    },
+    {
+      "id": 152,
+      "unit_code": "mass-slug",
+      "categoria": "mass",
+      "nombre": "slug",
+      "abreviatura": "slug",
+      "forma_estrecha": "slug",
+      "patron": "{0} slug"
+    },
+    {
+      "id": 153,
+      "unit_code": "mass-solar-mass",
+      "categoria": "mass",
+      "nombre": "masas solares",
+      "abreviatura": "M☉",
+      "forma_estrecha": "M☉",
+      "patron": "{0} masas solares"
+    },
+    {
+      "id": 154,
+      "unit_code": "mass-stone",
+      "categoria": "mass",
+      "nombre": "stones",
+      "abreviatura": "st",
+      "forma_estrecha": "st",
+      "patron": "{0} stones"
+    },
+    {
+      "id": 155,
+      "unit_code": "mass-ton",
+      "categoria": "mass",
+      "nombre": "toneladas cortas",
+      "abreviatura": "tc",
+      "forma_estrecha": "tc",
+      "patron": "{0} toneladas cortas"
+    },
+    {
+      "id": 156,
+      "unit_code": "mass-tonne",
+      "categoria": "mass",
+      "nombre": "toneladas",
+      "abreviatura": "t",
+      "forma_estrecha": "t",
+      "patron": "{0} toneladas"
+    },
+    {
+      "id": 157,
+      "unit_code": "power-gigawatt",
+      "categoria": "power",
+      "nombre": "gigavatios",
+      "abreviatura": "GW",
+      "forma_estrecha": "GW",
+      "patron": "{0} gigavatios"
+    },
+    {
+      "id": 158,
+      "unit_code": "power-horsepower",
+      "categoria": "power",
+      "nombre": "caballos de vapor",
+      "abreviatura": "CV",
+      "forma_estrecha": "CV",
+      "patron": "{0} caballos de vapor"
+    },
+    {
+      "id": 159,
+      "unit_code": "power-kilowatt",
+      "categoria": "power",
+      "nombre": "kilovatios",
+      "abreviatura": "kW",
+      "forma_estrecha": "kW",
+      "patron": "{0} kilovatios"
+    },
+    {
+      "id": 160,
+      "unit_code": "power-megawatt",
+      "categoria": "power",
+      "nombre": "megavatios",
+      "abreviatura": "MW",
+      "forma_estrecha": "MW",
+      "patron": "{0} megavatios"
+    },
+    {
+      "id": 161,
+      "unit_code": "power-milliwatt",
+      "categoria": "power",
+      "nombre": "milivatios",
+      "abreviatura": "mW",
+      "forma_estrecha": "mW",
+      "patron": "{0} milivatios"
+    },
+    {
+      "id": 162,
+      "unit_code": "power-watt",
+      "categoria": "power",
+      "nombre": "vatios",
+      "abreviatura": "W",
+      "forma_estrecha": "W",
+      "patron": "{0} vatios"
+    },
+    {
+      "id": 163,
+      "unit_code": "pressure-atmosphere",
+      "categoria": "pressure",
+      "nombre": "atmósferas",
+      "abreviatura": "atm",
+      "forma_estrecha": "atm",
+      "patron": "{0} atmósferas"
+    },
+    {
+      "id": 164,
+      "unit_code": "pressure-bar",
+      "categoria": "pressure",
+      "nombre": "bares",
+      "abreviatura": "bar",
+      "forma_estrecha": "bar",
+      "patron": "{0} bares"
+    },
+    {
+      "id": 165,
+      "unit_code": "pressure-gasoline-energy-density",
+      "categoria": "pressure",
+      "nombre": "gas E",
+      "abreviatura": "gas E",
+      "forma_estrecha": "gas E",
+      "patron": "{0} gas E"
+    },
+    {
+      "id": 166,
+      "unit_code": "pressure-hectopascal",
+      "categoria": "pressure",
+      "nombre": "hectopascales",
+      "abreviatura": "hPa",
+      "forma_estrecha": "hPa",
+      "patron": "{0} hectopascales"
+    },
+    {
+      "id": 167,
+      "unit_code": "pressure-inch-ofhg",
+      "categoria": "pressure",
+      "nombre": "pulgadas de mercurio",
+      "abreviatura": "inHg",
+      "forma_estrecha": "inHg",
+      "patron": "{0} pulgadas de mercurio"
+    },
+    {
+      "id": 168,
+      "unit_code": "pressure-kilopascal",
+      "categoria": "pressure",
+      "nombre": "kilopascales",
+      "abreviatura": "kPa",
+      "forma_estrecha": "kPa",
+      "patron": "{0} kilopascales"
+    },
+    {
+      "id": 169,
+      "unit_code": "pressure-megapascal",
+      "categoria": "pressure",
+      "nombre": "megapascales",
+      "abreviatura": "MPa",
+      "forma_estrecha": "MPa",
+      "patron": "{0} megapascales"
+    },
+    {
+      "id": 170,
+      "unit_code": "pressure-millibar",
+      "categoria": "pressure",
+      "nombre": "milibares",
+      "abreviatura": "mbar",
+      "forma_estrecha": "mbar",
+      "patron": "{0} milibares"
+    },
+    {
+      "id": 171,
+      "unit_code": "pressure-millimeter-ofhg",
+      "categoria": "pressure",
+      "nombre": "milímetros de mercurio",
+      "abreviatura": "mmHg",
+      "forma_estrecha": "mmHg",
+      "patron": "{0} milímetros de mercurio"
+    },
+    {
+      "id": 172,
+      "unit_code": "pressure-ofhg",
+      "categoria": "pressure",
+      "nombre": "de mercurio",
+      "abreviatura": "de Hg",
+      "forma_estrecha": "de Hg",
+      "patron": "{0} de mercurio"
+    },
+    {
+      "id": 173,
+      "unit_code": "pressure-pascal",
+      "categoria": "pressure",
+      "nombre": "pascales",
+      "abreviatura": "Pa",
+      "forma_estrecha": "Pa",
+      "patron": "{0} pascales"
+    },
+    {
+      "id": 174,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "categoria": "pressure",
+      "nombre": "libras por pulgada cuadrada",
+      "abreviatura": "psi",
+      "forma_estrecha": "psi",
+      "patron": "{0} libras por pulgada cuadrada"
+    },
+    {
+      "id": 175,
+      "unit_code": "speed-beaufort",
+      "categoria": "speed",
+      "nombre": "Beaufort",
+      "abreviatura": "Bft",
+      "forma_estrecha": "Bft",
+      "patron": "Beaufort {0}"
+    },
+    {
+      "id": 176,
+      "unit_code": "speed-kilometer-per-hour",
+      "categoria": "speed",
+      "nombre": "kilómetros por hora",
+      "abreviatura": "km/h",
+      "forma_estrecha": "km/h",
+      "patron": "{0} kilómetros por hora"
+    },
+    {
+      "id": 177,
+      "unit_code": "speed-knot",
+      "categoria": "speed",
+      "nombre": "nudos",
+      "abreviatura": "kn",
+      "forma_estrecha": "kn",
+      "patron": "{0} nudos"
+    },
+    {
+      "id": 178,
+      "unit_code": "speed-light-speed",
+      "categoria": "speed",
+      "nombre": "luz",
+      "abreviatura": "luz",
+      "forma_estrecha": "luz",
+      "patron": "{0} luz"
+    },
+    {
+      "id": 179,
+      "unit_code": "speed-meter-per-second",
+      "categoria": "speed",
+      "nombre": "metros por segundo",
+      "abreviatura": "m/s",
+      "forma_estrecha": "m/s",
+      "patron": "{0} metros por segundo"
+    },
+    {
+      "id": 180,
+      "unit_code": "speed-mile-per-hour",
+      "categoria": "speed",
+      "nombre": "millas por hora",
+      "abreviatura": "mi/h",
+      "forma_estrecha": "mi/h",
+      "patron": "{0} millas por hora"
+    },
+    {
+      "id": 181,
+      "unit_code": "temperature-celsius",
+      "categoria": "temperature",
+      "nombre": "grados Celsius",
+      "abreviatura": "°C",
+      "forma_estrecha": "°C",
+      "patron": "{0} grados Celsius"
+    },
+    {
+      "id": 182,
+      "unit_code": "temperature-fahrenheit",
+      "categoria": "temperature",
+      "nombre": "grados Fahrenheit",
+      "abreviatura": "°F",
+      "forma_estrecha": "°F",
+      "patron": "{0} grados Fahrenheit"
+    },
+    {
+      "id": 183,
+      "unit_code": "temperature-generic",
+      "categoria": "temperature",
+      "nombre": "grados",
+      "abreviatura": "°",
+      "forma_estrecha": "°",
+      "patron": "{0} grados"
+    },
+    {
+      "id": 184,
+      "unit_code": "temperature-kelvin",
+      "categoria": "temperature",
+      "nombre": "kelvin",
+      "abreviatura": "K",
+      "forma_estrecha": "K",
+      "patron": "{0} kelvin"
+    },
+    {
+      "id": 185,
+      "unit_code": "temperature-rankine",
+      "categoria": "temperature",
+      "nombre": "°R",
+      "abreviatura": "°R",
+      "forma_estrecha": "°R",
+      "patron": "{0} °R"
+    },
+    {
+      "id": 186,
+      "unit_code": "torque-newton-meter",
+      "categoria": "torque",
+      "nombre": "newton metros",
+      "abreviatura": "Nm",
+      "forma_estrecha": "Nm",
+      "patron": "{0} newton metros"
+    },
+    {
+      "id": 187,
+      "unit_code": "torque-pound-force-foot",
+      "categoria": "torque",
+      "nombre": "libras pies",
+      "abreviatura": "lbf ft",
+      "forma_estrecha": "lbf ft",
+      "patron": "{0} libras pies"
+    },
+    {
+      "id": 188,
+      "unit_code": "volume-acre-foot",
+      "categoria": "volume",
+      "nombre": "acres-pies",
+      "abreviatura": "ac ft",
+      "forma_estrecha": "ac ft",
+      "patron": "{0} acres-pies"
+    },
+    {
+      "id": 189,
+      "unit_code": "volume-barrel",
+      "categoria": "volume",
+      "nombre": "barriles",
+      "abreviatura": "bbl",
+      "forma_estrecha": "bbl",
+      "patron": "{0} barriles"
+    },
+    {
+      "id": 190,
+      "unit_code": "volume-bushel",
+      "categoria": "volume",
+      "nombre": "bushels",
+      "abreviatura": "bu",
+      "forma_estrecha": "bu",
+      "patron": "{0} bushels"
+    },
+    {
+      "id": 191,
+      "unit_code": "volume-centiliter",
+      "categoria": "volume",
+      "nombre": "centilitros",
+      "abreviatura": "cl",
+      "forma_estrecha": "cl",
+      "patron": "{0} centilitros"
+    },
+    {
+      "id": 192,
+      "unit_code": "volume-cubic-centimeter",
+      "categoria": "volume",
+      "nombre": "centímetros cúbicos",
+      "abreviatura": "cm³",
+      "forma_estrecha": "cm³",
+      "patron": "{0} centímetros cúbicos"
+    },
+    {
+      "id": 193,
+      "unit_code": "volume-cubic-foot",
+      "categoria": "volume",
+      "nombre": "pies cúbicos",
+      "abreviatura": "ft³",
+      "forma_estrecha": "ft³",
+      "patron": "{0} pies cúbicos"
+    },
+    {
+      "id": 194,
+      "unit_code": "volume-cubic-inch",
+      "categoria": "volume",
+      "nombre": "pulgadas cúbicas",
+      "abreviatura": "in³",
+      "forma_estrecha": "in³",
+      "patron": "{0} pulgadas cúbicas"
+    },
+    {
+      "id": 195,
+      "unit_code": "volume-cubic-kilometer",
+      "categoria": "volume",
+      "nombre": "kilómetros cúbicos",
+      "abreviatura": "km³",
+      "forma_estrecha": "km³",
+      "patron": "{0} kilómetros cúbicos"
+    },
+    {
+      "id": 196,
+      "unit_code": "volume-cubic-meter",
+      "categoria": "volume",
+      "nombre": "metros cúbicos",
+      "abreviatura": "m³",
+      "forma_estrecha": "m³",
+      "patron": "{0} metros cúbicos"
+    },
+    {
+      "id": 197,
+      "unit_code": "volume-cubic-mile",
+      "categoria": "volume",
+      "nombre": "millas cúbicas",
+      "abreviatura": "mi³",
+      "forma_estrecha": "mi³",
+      "patron": "{0} millas cúbicas"
+    },
+    {
+      "id": 198,
+      "unit_code": "volume-cubic-yard",
+      "categoria": "volume",
+      "nombre": "yardas cúbicas",
+      "abreviatura": "yd³",
+      "forma_estrecha": "yd³",
+      "patron": "{0} yardas cúbicas"
+    },
+    {
+      "id": 199,
+      "unit_code": "volume-cup",
+      "categoria": "volume",
+      "nombre": "tazas",
+      "abreviatura": "tza",
+      "forma_estrecha": "tza",
+      "patron": "{0} tazas"
+    },
+    {
+      "id": 200,
+      "unit_code": "volume-cup-imperial",
+      "categoria": "volume",
+      "nombre": "cup Imp.",
+      "abreviatura": "cup Imp.",
+      "forma_estrecha": "cup Imp.",
+      "patron": "{0} cup Imp."
+    },
+    {
+      "id": 201,
+      "unit_code": "volume-cup-jp",
+      "categoria": "volume",
+      "nombre": "cup [JP]",
+      "abreviatura": "cup [JP]",
+      "forma_estrecha": "cup [JP]",
+      "patron": "{0} cup [JP]"
+    },
+    {
+      "id": 202,
+      "unit_code": "volume-cup-metric",
+      "categoria": "volume",
+      "nombre": "tazas métricas",
+      "abreviatura": "tza m",
+      "forma_estrecha": "tza m",
+      "patron": "{0} tazas métricas"
+    },
+    {
+      "id": 203,
+      "unit_code": "volume-deciliter",
+      "categoria": "volume",
+      "nombre": "decilitros",
+      "abreviatura": "dl",
+      "forma_estrecha": "dl",
+      "patron": "{0} decilitros"
+    },
+    {
+      "id": 204,
+      "unit_code": "volume-dessert-spoon",
+      "categoria": "volume",
+      "nombre": "cucharadas de postre",
+      "abreviatura": "c/p",
+      "forma_estrecha": "c/p",
+      "patron": "{0} cucharadas de postre"
+    },
+    {
+      "id": 205,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "categoria": "volume",
+      "nombre": "cucharadas de postre imperiales",
+      "abreviatura": "dstspn imp.",
+      "forma_estrecha": "dsp imp",
+      "patron": "{0} cucharadas de postre imperiales"
+    },
+    {
+      "id": 206,
+      "unit_code": "volume-dram",
+      "categoria": "volume",
+      "nombre": "dracmas líquidas",
+      "abreviatura": "fl dr",
+      "forma_estrecha": "fl dr",
+      "patron": "{0} dracmas líquidas"
+    },
+    {
+      "id": 207,
+      "unit_code": "volume-drop",
+      "categoria": "volume",
+      "nombre": "gotas",
+      "abreviatura": "gota",
+      "forma_estrecha": "gt",
+      "patron": "{0} gotas"
+    },
+    {
+      "id": 208,
+      "unit_code": "volume-fluid-ounce",
+      "categoria": "volume",
+      "nombre": "onzas líquidas",
+      "abreviatura": "fl oz",
+      "forma_estrecha": "fl oz",
+      "patron": "{0} onzas líquidas"
+    },
+    {
+      "id": 209,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "categoria": "volume",
+      "nombre": "onzas líquidas imperiales",
+      "abreviatura": "fl oz imp.",
+      "forma_estrecha": "fl oz imp",
+      "patron": "{0} onzas líquidas imperiales"
+    },
+    {
+      "id": 210,
+      "unit_code": "volume-fluid-ounce-metric",
+      "categoria": "volume",
+      "nombre": "onzas líquidas métricas",
+      "abreviatura": "fl oz m.",
+      "forma_estrecha": "fl oz m.",
+      "patron": "{0} onzas líquidas métricas"
+    },
+    {
+      "id": 211,
+      "unit_code": "volume-gallon",
+      "categoria": "volume",
+      "nombre": "galones",
+      "abreviatura": "gal",
+      "forma_estrecha": "gal",
+      "patron": "{0} galones"
+    },
+    {
+      "id": 212,
+      "unit_code": "volume-gallon-imperial",
+      "categoria": "volume",
+      "nombre": "galones imperiales",
+      "abreviatura": "gal imp.",
+      "forma_estrecha": "gal imp",
+      "patron": "{0} galones imperiales"
+    },
+    {
+      "id": 213,
+      "unit_code": "volume-hectoliter",
+      "categoria": "volume",
+      "nombre": "hectolitros",
+      "abreviatura": "hl",
+      "forma_estrecha": "hl",
+      "patron": "{0} hectolitros"
+    },
+    {
+      "id": 214,
+      "unit_code": "volume-jigger",
+      "categoria": "volume",
+      "nombre": "vasos medidores",
+      "abreviatura": "medidor",
+      "forma_estrecha": "med",
+      "patron": "{0} vasos medidores"
+    },
+    {
+      "id": 215,
+      "unit_code": "volume-koku",
+      "categoria": "volume",
+      "nombre": "koku [JP]",
+      "abreviatura": "koku [JP]",
+      "forma_estrecha": "koku [JP]",
+      "patron": "{0} koku [JP]"
+    },
+    {
+      "id": 216,
+      "unit_code": "volume-kosaji",
+      "categoria": "volume",
+      "nombre": "kosaji [JP]",
+      "abreviatura": "kosaji [JP]",
+      "forma_estrecha": "kosaji [JP]",
+      "patron": "{0} kosaji [JP]"
+    },
+    {
+      "id": 217,
+      "unit_code": "volume-liter",
+      "categoria": "volume",
+      "nombre": "litros",
+      "abreviatura": "l",
+      "forma_estrecha": "l",
+      "patron": "{0} litros"
+    },
+    {
+      "id": 218,
+      "unit_code": "volume-megaliter",
+      "categoria": "volume",
+      "nombre": "megalitros",
+      "abreviatura": "Ml",
+      "forma_estrecha": "Ml",
+      "patron": "{0} megalitros"
+    },
+    {
+      "id": 219,
+      "unit_code": "volume-milliliter",
+      "categoria": "volume",
+      "nombre": "mililitros",
+      "abreviatura": "ml",
+      "forma_estrecha": "ml",
+      "patron": "{0} mililitros"
+    },
+    {
+      "id": 220,
+      "unit_code": "volume-osaji",
+      "categoria": "volume",
+      "nombre": "osaji [JP]",
+      "abreviatura": "osaji [JP]",
+      "forma_estrecha": "osaji [JP]",
+      "patron": "{0} osaji [JP]"
+    },
+    {
+      "id": 221,
+      "unit_code": "volume-pinch",
+      "categoria": "volume",
+      "nombre": "pizcas",
+      "abreviatura": "pzc",
+      "forma_estrecha": "pzc",
+      "patron": "{0} pizcas"
+    },
+    {
+      "id": 222,
+      "unit_code": "volume-pint",
+      "categoria": "volume",
+      "nombre": "pintas",
+      "abreviatura": "p",
+      "forma_estrecha": "p",
+      "patron": "{0} pintas"
+    },
+    {
+      "id": 223,
+      "unit_code": "volume-pint-imperial",
+      "categoria": "volume",
+      "nombre": "pint Imp.",
+      "abreviatura": "pint Imp.",
+      "forma_estrecha": "pint Imp.",
+      "patron": "{0} pt Imp."
+    },
+    {
+      "id": 224,
+      "unit_code": "volume-pint-metric",
+      "categoria": "volume",
+      "nombre": "pintas métricas",
+      "abreviatura": "mpt",
+      "forma_estrecha": "mpt",
+      "patron": "{0} pintas métricas"
+    },
+    {
+      "id": 225,
+      "unit_code": "volume-quart",
+      "categoria": "volume",
+      "nombre": "cuartos",
+      "abreviatura": "qt",
+      "forma_estrecha": "qt",
+      "patron": "{0} cuartos"
+    },
+    {
+      "id": 226,
+      "unit_code": "volume-quart-imperial",
+      "categoria": "volume",
+      "nombre": "cuartos imperiales",
+      "abreviatura": "qt imp.",
+      "forma_estrecha": "qt imp",
+      "patron": "{0} cuartos imperiales"
+    },
+    {
+      "id": 227,
+      "unit_code": "volume-sai",
+      "categoria": "volume",
+      "nombre": "sai [JP]",
+      "abreviatura": "sai [JP]",
+      "forma_estrecha": "sai [JP]",
+      "patron": "{0} sai [JP]"
+    },
+    {
+      "id": 228,
+      "unit_code": "volume-shaku",
+      "categoria": "volume",
+      "nombre": "shaku [vol, JP]",
+      "abreviatura": "shaku [vol, JP]",
+      "forma_estrecha": "shaku [vol, JP]",
+      "patron": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 229,
+      "unit_code": "volume-tablespoon",
+      "categoria": "volume",
+      "nombre": "cucharadas",
+      "abreviatura": "cda",
+      "forma_estrecha": "cda",
+      "patron": "{0} cucharadas"
+    },
+    {
+      "id": 230,
+      "unit_code": "volume-teaspoon",
+      "categoria": "volume",
+      "nombre": "cucharaditas",
+      "abreviatura": "cdta",
+      "forma_estrecha": "cdta",
+      "patron": "{0} cucharaditas"
+    },
+    {
+      "id": 231,
+      "unit_code": "volume-to-jp",
+      "categoria": "volume",
+      "nombre": "to [JP]",
+      "abreviatura": "to [JP]",
+      "forma_estrecha": "to [JP]",
+      "patron": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — nombres en español (CLDR) - Descarga gratuita",
+    "description": "Lista de unidades de medida de la configuración regional es en CLDR — con nombre completo (nombre), abreviatura (abreviatura), forma estrecha (forma_estrecha) y patrón de visualización (patron). Contiene 231 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — nombres en español (CLDR) | ListBase",
+    "seo_description": "Descargar Unidades de medida — nombres en español (CLDR) — 231 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 231 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

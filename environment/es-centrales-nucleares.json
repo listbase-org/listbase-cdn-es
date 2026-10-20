@@ -1,0 +1,226 @@
+{
+  "id": "es-centrales-nucleares",
+  "name": "Centrales nucleares en España",
+  "title": "Centrales nucleares en España",
+  "description": "Centrales nucleares en España — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "reactor_type",
+      "label": "Reactor Type",
+      "type": "string"
+    },
+    {
+      "key": "reactor_model",
+      "label": "Reactor Model",
+      "type": "string"
+    },
+    {
+      "key": "construction_start",
+      "label": "Construction Start",
+      "type": "date"
+    },
+    {
+      "key": "operational_from",
+      "label": "Operational From",
+      "type": "date"
+    },
+    {
+      "key": "operational_to",
+      "label": "Operational To",
+      "type": "date"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "iaea_id",
+      "label": "Iaea Id",
+      "type": "number"
+    },
+    {
+      "key": "data_source",
+      "label": "Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Almaraz-1",
+      "latitude": 39.807,
+      "longitude": -5.698,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "WH 3LP",
+      "construction_start": "1973-07-03",
+      "operational_from": "1983-09-01",
+      "operational_to": "",
+      "capacity_mw": 900,
+      "iaea_id": 153,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Almaraz-2",
+      "latitude": 39.807,
+      "longitude": -5.698,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "WH 3LP",
+      "construction_start": "1973-07-03",
+      "operational_from": "1984-07-01",
+      "operational_to": "",
+      "capacity_mw": 900,
+      "iaea_id": 154,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Asco-1",
+      "latitude": 41.202,
+      "longitude": 0.571,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "WH 3LP",
+      "construction_start": "1974-05-16",
+      "operational_from": "1984-12-10",
+      "operational_to": "",
+      "capacity_mw": 888,
+      "iaea_id": 155,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Asco-2",
+      "latitude": 41.202,
+      "longitude": 0.571,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "WH 3LP",
+      "construction_start": "1975-03-07",
+      "operational_from": "1986-03-31",
+      "operational_to": "",
+      "capacity_mw": 888,
+      "iaea_id": 156,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Cofrentes",
+      "latitude": 39.216,
+      "longitude": -1.051,
+      "status": "Operational",
+      "reactor_type": "BWR",
+      "reactor_model": "BWR-6 (Mark 3)",
+      "construction_start": "1975-09-09",
+      "operational_from": "1985-03-11",
+      "operational_to": "",
+      "capacity_mw": 939,
+      "iaea_id": 140,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Jose Cabrera-1 (Zorita)",
+      "latitude": 40.362,
+      "longitude": -2.818,
+      "status": "Shutdown",
+      "reactor_type": "PWR",
+      "reactor_model": "WH 1LP",
+      "construction_start": "1964-06-24",
+      "operational_from": "1969-08-13",
+      "operational_to": "2006-04-30",
+      "capacity_mw": 153,
+      "iaea_id": 139,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Santa Maria de Garona",
+      "latitude": 42.775,
+      "longitude": -3.205,
+      "status": "Shutdown",
+      "reactor_type": "BWR",
+      "reactor_model": "BWR-3",
+      "construction_start": "1966-09-01",
+      "operational_from": "1971-05-11",
+      "operational_to": "2017-08-02",
+      "capacity_mw": 440,
+      "iaea_id": 149,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Trillo-1",
+      "latitude": 40.699,
+      "longitude": -2.622,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "PWR 3 loops",
+      "construction_start": "1979-08-17",
+      "operational_from": "1988-08-06",
+      "operational_to": "",
+      "capacity_mw": 990,
+      "iaea_id": 141,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Vandellos-1",
+      "latitude": 40.949,
+      "longitude": 0.867,
+      "status": "Shutdown",
+      "reactor_type": "GCR",
+      "reactor_model": "",
+      "construction_start": "1968-06-21",
+      "operational_from": "1972-08-02",
+      "operational_to": "1990-07-31",
+      "capacity_mw": 480,
+      "iaea_id": 150,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Vandellos-2",
+      "latitude": 40.949,
+      "longitude": 0.867,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "WH 3LP",
+      "construction_start": "1980-12-29",
+      "operational_from": "1988-03-08",
+      "operational_to": "",
+      "capacity_mw": 930,
+      "iaea_id": 146,
+      "data_source": "WNA/IAEA"
+    }
+  ],
+  "meta": {
+    "title": "Centrales nucleares en España - Descarga gratuita",
+    "description": "Centrales nucleares en España — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies). Contiene 10 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Centrales nucleares en España | ListBase",
+    "seo_description": "Descargar Centrales nucleares en España — 10 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 10 registros / 12 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "es-husos-horarios-atlantic",
+  "name": "Husos horarios — Atlantic (7)",
+  "title": "Husos horarios — Atlantic (7)",
+  "description": "Husos horarios cuyo identificador IANA empieza por 'Atlantic/', con nombres en español.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "ciudad",
+      "label": "Ciudad",
+      "type": "string"
+    },
+    {
+      "key": "nombre_estandar",
+      "label": "Nombre Estandar",
+      "type": "string"
+    },
+    {
+      "key": "nombre_verano",
+      "label": "Nombre Verano",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Atlantic/Bermuda",
+      "region": "Atlantic",
+      "ciudad": "Bermudas",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Atlantic/Canary",
+      "region": "Atlantic",
+      "ciudad": "Canarias",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Atlantic/Cape_Verde",
+      "region": "Atlantic",
+      "ciudad": "Cabo Verde",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Atlantic/Faeroe",
+      "region": "Atlantic",
+      "ciudad": "Islas Feroe",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Atlantic/Reykjavik",
+      "region": "Atlantic",
+      "ciudad": "Reikiavik",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Atlantic/South_Georgia",
+      "region": "Atlantic",
+      "ciudad": "Georgia del Sur",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Atlantic/St_Helena",
+      "region": "Atlantic",
+      "ciudad": "Santa Elena",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    }
+  ],
+  "meta": {
+    "title": "Husos horarios — Atlantic (7) - Descarga gratuita",
+    "description": "Husos horarios cuyo identificador IANA empieza por 'Atlantic/', con nombres en español. Contiene 7 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Husos horarios — Atlantic (7) | ListBase",
+    "seo_description": "Descargar Husos horarios — Atlantic (7) — 7 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 7 registros / 6 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

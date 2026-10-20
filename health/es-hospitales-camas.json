@@ -1,0 +1,246 @@
+{
+  "id": "es-hospitales-camas",
+  "name": "Hospitales y camas hospitalarias por comunidad autónoma en España - 18 registros",
+  "title": "Hospitales y camas hospitalarias por comunidad autónoma en España - 18 registros",
+  "description": "Recuento de hospitales, número total de camas y ratio de camas por mil habitantes para cada comunidad y ciudad autónoma de España (año de referencia 2021). Útil para análisis de cobertura sanitaria, planificación regional y SEO en consultas como \"número de camas hospitalarias por comunidad autónoma\" o \"cuántos hospitales hay en España\".",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "comunidad_autonoma_nombre",
+      "label": "Comunidad Autonoma Nombre",
+      "type": "string"
+    },
+    {
+      "key": "comunidad_autonoma_slug",
+      "label": "Comunidad Autonoma Slug",
+      "type": "string"
+    },
+    {
+      "key": "comunidad_autonoma_codigo",
+      "label": "Comunidad Autonoma Codigo",
+      "type": "number"
+    },
+    {
+      "key": "cantidad_hospitales",
+      "label": "Cantidad Hospitales",
+      "type": "number"
+    },
+    {
+      "key": "cantidad_camas",
+      "label": "Cantidad Camas",
+      "type": "number"
+    },
+    {
+      "key": "camas_por_mil_habitantes",
+      "label": "Camas Por Mil Habitantes",
+      "type": "number"
+    },
+    {
+      "key": "year_reference",
+      "label": "Year Reference",
+      "type": "number"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "comunidad_autonoma_nombre": "Andalucía",
+      "comunidad_autonoma_slug": "andalucia",
+      "comunidad_autonoma_codigo": "01",
+      "cantidad_hospitales": 50,
+      "cantidad_camas": 14407,
+      "camas_por_mil_habitantes": 1.7,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "Aragón",
+      "comunidad_autonoma_slug": "aragon",
+      "comunidad_autonoma_codigo": "02",
+      "cantidad_hospitales": 20,
+      "cantidad_camas": 4091,
+      "camas_por_mil_habitantes": 3.4,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "Principado de Asturias",
+      "comunidad_autonoma_slug": "asturias",
+      "comunidad_autonoma_codigo": "03",
+      "cantidad_hospitales": 12,
+      "cantidad_camas": 3053,
+      "camas_por_mil_habitantes": 3.2,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "Illes Balears",
+      "comunidad_autonoma_slug": "illes-balears",
+      "comunidad_autonoma_codigo": "04",
+      "cantidad_hospitales": 11,
+      "cantidad_camas": 2251,
+      "camas_por_mil_habitantes": 2.2,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "Canarias",
+      "comunidad_autonoma_slug": "canarias",
+      "comunidad_autonoma_codigo": "05",
+      "cantidad_hospitales": 12,
+      "cantidad_camas": 4326,
+      "camas_por_mil_habitantes": 2.1,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "Cantabria",
+      "comunidad_autonoma_slug": "cantabria",
+      "comunidad_autonoma_codigo": "06",
+      "cantidad_hospitales": 5,
+      "cantidad_camas": 1502,
+      "camas_por_mil_habitantes": 2.7,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "Castilla y León",
+      "comunidad_autonoma_slug": "castilla-y-leon",
+      "comunidad_autonoma_codigo": "07",
+      "cantidad_hospitales": 16,
+      "cantidad_camas": 6649,
+      "camas_por_mil_habitantes": 3.1,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "Castilla-La Mancha",
+      "comunidad_autonoma_slug": "castilla-la-mancha",
+      "comunidad_autonoma_codigo": "08",
+      "cantidad_hospitales": 20,
+      "cantidad_camas": 4497,
+      "camas_por_mil_habitantes": 2.5,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "Cataluña",
+      "comunidad_autonoma_slug": "cataluna",
+      "comunidad_autonoma_codigo": "09",
+      "cantidad_hospitales": 157,
+      "cantidad_camas": 26199,
+      "camas_por_mil_habitantes": 3.7,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "Comunitat Valenciana",
+      "comunidad_autonoma_slug": "comunitat-valenciana",
+      "comunidad_autonoma_codigo": "10",
+      "cantidad_hospitales": 39,
+      "cantidad_camas": 10,
+      "camas_por_mil_habitantes": 2.3,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "Extremadura",
+      "comunidad_autonoma_slug": "extremadura",
+      "comunidad_autonoma_codigo": "11",
+      "cantidad_hospitales": 12,
+      "cantidad_camas": 3508,
+      "camas_por_mil_habitantes": 3.5,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "Galicia",
+      "comunidad_autonoma_slug": "galicia",
+      "comunidad_autonoma_codigo": "12",
+      "cantidad_hospitales": 19,
+      "cantidad_camas": 7653,
+      "camas_por_mil_habitantes": 3.2,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "Comunidad de Madrid",
+      "comunidad_autonoma_slug": "madrid",
+      "comunidad_autonoma_codigo": "13",
+      "cantidad_hospitales": 37,
+      "cantidad_camas": 12578,
+      "camas_por_mil_habitantes": 2.1,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "Región de Murcia",
+      "comunidad_autonoma_slug": "murcia",
+      "comunidad_autonoma_codigo": "14",
+      "cantidad_hospitales": 16,
+      "cantidad_camas": 3503,
+      "camas_por_mil_habitantes": 2.5,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "Comunidad Foral de Navarra",
+      "comunidad_autonoma_slug": "navarra",
+      "comunidad_autonoma_codigo": "15",
+      "cantidad_hospitales": 6,
+      "cantidad_camas": 1595,
+      "camas_por_mil_habitantes": 2.7,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "País Vasco",
+      "comunidad_autonoma_slug": "pais-vasco",
+      "comunidad_autonoma_codigo": "16",
+      "cantidad_hospitales": 26,
+      "cantidad_camas": 6042,
+      "camas_por_mil_habitantes": 3.1,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "La Rioja",
+      "comunidad_autonoma_slug": "la-rioja",
+      "comunidad_autonoma_codigo": "17",
+      "cantidad_hospitales": 6,
+      "cantidad_camas": 991,
+      "camas_por_mil_habitantes": 3.2,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    },
+    {
+      "comunidad_autonoma_nombre": "Ceuta y Melilla",
+      "comunidad_autonoma_slug": "ceuta-y-melilla",
+      "comunidad_autonoma_codigo": "18-19",
+      "cantidad_hospitales": 2,
+      "cantidad_camas": 341,
+      "camas_por_mil_habitantes": 2.5,
+      "year_reference": 2021,
+      "source": "INE - Indicadores hospitalarios"
+    }
+  ],
+  "meta": {
+    "title": "Hospitales y camas hospitalarias por comunidad autónoma en España - 18 registros - Descarga gratuita",
+    "description": "Recuento de hospitales, número total de camas y ratio de camas por mil habitantes para cada comunidad y ciudad autónoma de España (año de referencia 2021). Útil para análisis de cobertura sanitaria, planificación regional y SEO en consultas como \"número de camas hospitalarias por comunidad autónoma\" o \"cuántos hospitales hay en España\". Contiene 18 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Hospitales y camas hospitalarias por comunidad autónoma en España - 18 registros | ListBase",
+    "seo_description": "Descargar Hospitales y camas hospitalarias por comunidad autónoma en España - 18 registros — 18 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 18 registros / 8 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

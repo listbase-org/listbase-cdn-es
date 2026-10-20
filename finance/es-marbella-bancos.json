@@ -1,0 +1,72 @@
+{
+  "id": "es-marbella-bancos",
+  "name": "Bancos en Marbella — códigos SWIFT/BIC",
+  "title": "Bancos en Marbella — códigos SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"MARBELLA\" (3 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 46,
+      "bank": "ARESBANK, S.A.",
+      "city": "MARBELLA",
+      "branch": "",
+      "swift_code": "AREBESMMMAR"
+    },
+    {
+      "id": 267,
+      "bank": "BANQUE SCANDINAVE EN SUISSE",
+      "city": "MARBELLA",
+      "branch": "",
+      "swift_code": "SCSIESM1"
+    },
+    {
+      "id": 895,
+      "bank": "SVENSKA HANDELSBANKEN AB",
+      "city": "MARBELLA",
+      "branch": "",
+      "swift_code": "HANDES21"
+    }
+  ],
+  "meta": {
+    "title": "Bancos en Marbella — códigos SWIFT/BIC - Descarga gratuita",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"MARBELLA\" (3 institutions). Contiene 3 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Bancos en Marbella — códigos SWIFT/BIC | ListBase",
+    "seo_description": "Descargar Bancos en Marbella — códigos SWIFT/BIC — 3 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 3 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

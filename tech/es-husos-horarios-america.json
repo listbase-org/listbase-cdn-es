@@ -1,0 +1,552 @@
+{
+  "id": "es-husos-horarios-america",
+  "name": "Husos horarios — America (62)",
+  "title": "Husos horarios — America (62)",
+  "description": "Husos horarios cuyo identificador IANA empieza por 'America/', con nombres en español.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "ciudad",
+      "label": "Ciudad",
+      "type": "string"
+    },
+    {
+      "key": "nombre_estandar",
+      "label": "Nombre Estandar",
+      "type": "string"
+    },
+    {
+      "key": "nombre_verano",
+      "label": "Nombre Verano",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "America/Anguilla",
+      "region": "America",
+      "ciudad": "Anguila",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "America/Araguaina",
+      "region": "America",
+      "ciudad": "Araguaína",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "region": "America",
+      "ciudad": "Río Gallegos",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "America/Argentina/Tucuman",
+      "region": "America",
+      "ciudad": "Tucumán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "America/Asuncion",
+      "region": "America",
+      "ciudad": "Asunción",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "America/Bahia",
+      "region": "America",
+      "ciudad": "Bahía",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "America/Bahia_Banderas",
+      "region": "America",
+      "ciudad": "Bahía de Banderas",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "America/Belem",
+      "region": "America",
+      "ciudad": "Belén",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "America/Belize",
+      "region": "America",
+      "ciudad": "Belice",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "America/Bogota",
+      "region": "America",
+      "ciudad": "Bogotá",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "America/Cancun",
+      "region": "America",
+      "ciudad": "Cancún",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "America/Cayenne",
+      "region": "America",
+      "ciudad": "Cayena",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "America/Cayman",
+      "region": "America",
+      "ciudad": "Caimán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "America/Ciudad_Juarez",
+      "region": "America",
+      "ciudad": "Ciudad Juárez",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "America/Coral_Harbour",
+      "region": "America",
+      "ciudad": "Atikokan",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "America/Cordoba",
+      "region": "America",
+      "ciudad": "Córdoba",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "America/Cuiaba",
+      "region": "America",
+      "ciudad": "Cuiabá",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "America/Curacao",
+      "region": "America",
+      "ciudad": "Curazao",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "America/Eirunepe",
+      "region": "America",
+      "ciudad": "Eirunepé",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "America/Godthab",
+      "region": "America",
+      "ciudad": "Nuuk",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "America/Grand_Turk",
+      "region": "America",
+      "ciudad": "Gran Turca",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "America/Grenada",
+      "region": "America",
+      "ciudad": "Granada",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "America/Guadeloupe",
+      "region": "America",
+      "ciudad": "Guadalupe",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "America/Havana",
+      "region": "America",
+      "ciudad": "La Habana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "America/Indiana/Knox",
+      "region": "America",
+      "ciudad": "Knox, Indiana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "America/Indiana/Marengo",
+      "region": "America",
+      "ciudad": "Marengo, Indiana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "America/Indiana/Petersburg",
+      "region": "America",
+      "ciudad": "Petersburg, Indiana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "America/Indiana/Tell_City",
+      "region": "America",
+      "ciudad": "Tell City, Indiana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "America/Indiana/Vevay",
+      "region": "America",
+      "ciudad": "Vevay, Indiana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "America/Indiana/Vincennes",
+      "region": "America",
+      "ciudad": "Vincennes, Indiana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "America/Indiana/Winamac",
+      "region": "America",
+      "ciudad": "Winamac, Indiana",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "America/Indianapolis",
+      "region": "America",
+      "ciudad": "Indianápolis",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "America/Kentucky/Monticello",
+      "region": "America",
+      "ciudad": "Monticello, Kentucky",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "America/Los_Angeles",
+      "region": "America",
+      "ciudad": "Los Ángeles",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "America/Lower_Princes",
+      "region": "America",
+      "ciudad": "Lower Prince’s Quarter",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "America/Maceio",
+      "region": "America",
+      "ciudad": "Maceió",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "America/Manaus",
+      "region": "America",
+      "ciudad": "Manaos",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "America/Martinique",
+      "region": "America",
+      "ciudad": "Martinica",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "America/Mazatlan",
+      "region": "America",
+      "ciudad": "Mazatlán",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "America/Merida",
+      "region": "America",
+      "ciudad": "Mérida",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "America/Mexico_City",
+      "region": "America",
+      "ciudad": "Ciudad de México",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "America/Miquelon",
+      "region": "America",
+      "ciudad": "Miquelón",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "America/New_York",
+      "region": "America",
+      "ciudad": "Nueva York",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "America/Noronha",
+      "region": "America",
+      "ciudad": "Fernando de Noronha",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "America/North_Dakota/Beulah",
+      "region": "America",
+      "ciudad": "Beulah, Dakota del Norte",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "America/North_Dakota/Center",
+      "region": "America",
+      "ciudad": "Center, Dakota del Norte",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "region": "America",
+      "ciudad": "New Salem, Dakota del Norte",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "America/Panama",
+      "region": "America",
+      "ciudad": "Panamá",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "America/Port-au-Prince",
+      "region": "America",
+      "ciudad": "Puerto Príncipe",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "America/Port_of_Spain",
+      "region": "America",
+      "ciudad": "Puerto España",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "America/Rio_Branco",
+      "region": "America",
+      "ciudad": "Río Branco",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "America/Santarem",
+      "region": "America",
+      "ciudad": "Santarém",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "America/Santiago",
+      "region": "America",
+      "ciudad": "Santiago de Chile",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "America/Sao_Paulo",
+      "region": "America",
+      "ciudad": "São Paulo",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "America/Scoresbysund",
+      "region": "America",
+      "ciudad": "Ittoqqortoormiit",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "America/St_Barthelemy",
+      "region": "America",
+      "ciudad": "San Bartolomé",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "America/St_Johns",
+      "region": "America",
+      "ciudad": "San Juan de Terranova",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "America/St_Kitts",
+      "region": "America",
+      "ciudad": "San Cristóbal",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 59,
+      "tz_id": "America/St_Lucia",
+      "region": "America",
+      "ciudad": "Santa Lucía",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 60,
+      "tz_id": "America/St_Thomas",
+      "region": "America",
+      "ciudad": "St. Thomas",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 61,
+      "tz_id": "America/St_Vincent",
+      "region": "America",
+      "ciudad": "San Vicente",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    },
+    {
+      "id": 62,
+      "tz_id": "America/Tortola",
+      "region": "America",
+      "ciudad": "Tórtola",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    }
+  ],
+  "meta": {
+    "title": "Husos horarios — America (62) - Descarga gratuita",
+    "description": "Husos horarios cuyo identificador IANA empieza por 'America/', con nombres en español. Contiene 62 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Husos horarios — America (62) | ListBase",
+    "seo_description": "Descargar Husos horarios — America (62) — 62 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 62 registros / 6 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

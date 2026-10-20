@@ -1,0 +1,7 @@
+﻿"Id","Unit Code","Categoria","Nombre","Abreviatura","Forma Estrecha","Patron"
+"1","power-gigawatt","power","gigavatios","GW","GW","{0} gigavatios"
+"2","power-horsepower","power","caballos de vapor","CV","CV","{0} caballos de vapor"
+"3","power-kilowatt","power","kilovatios","kW","kW","{0} kilovatios"
+"4","power-megawatt","power","megavatios","MW","MW","{0} megavatios"
+"5","power-milliwatt","power","milivatios","mW","mW","{0} milivatios"
+"6","power-watt","power","vatios","W","W","{0} vatios"

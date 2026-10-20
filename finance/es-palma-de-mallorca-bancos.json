@@ -1,0 +1,121 @@
+{
+  "id": "es-palma-de-mallorca-bancos",
+  "name": "Bancos en Palma De Mallorca — códigos SWIFT/BIC",
+  "title": "Bancos en Palma De Mallorca — códigos SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"PALMA DE MALLORCA\" (10 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 65,
+      "bank": "BANCA MARCH, SA",
+      "city": "PALMA DE MALLORCA",
+      "branch": "",
+      "swift_code": "BMARES2M"
+    },
+    {
+      "id": 250,
+      "bank": "BANKINTER, S.A.",
+      "city": "PALMA DE MALLORCA",
+      "branch": "",
+      "swift_code": "BKBKESMMPAL"
+    },
+    {
+      "id": 462,
+      "bank": "CAIXABANK, S.A.",
+      "city": "PALMA DE MALLORCA",
+      "branch": "",
+      "swift_code": "CAIXESBB652"
+    },
+    {
+      "id": 543,
+      "bank": "COMUNIDAD AUTONOMA DE LAS ISLAS BALEARES",
+      "city": "PALMA DE MALLORCA",
+      "branch": "",
+      "swift_code": "CBALES21"
+    },
+    {
+      "id": 645,
+      "bank": "GRUPO PINERO (LEVANTUR)",
+      "city": "PALMA DE MALLORCA",
+      "branch": "",
+      "swift_code": "GPPIES2M"
+    },
+    {
+      "id": 654,
+      "bank": "HOTELBEDS GROUP SLU",
+      "city": "PALMA DE MALLORCA",
+      "branch": "",
+      "swift_code": "HBEDES2M"
+    },
+    {
+      "id": 665,
+      "bank": "IBEROSTAR HOTELES Y APARTAMENTOS, S.L.",
+      "city": "PALMA DE MALLORCA",
+      "branch": "",
+      "swift_code": "STARES2M"
+    },
+    {
+      "id": 796,
+      "bank": "PRODIGIOS INTERACTIVOS, S.A.",
+      "city": "PALMA DE MALLORCA",
+      "branch": "",
+      "swift_code": "PRDSES2M"
+    },
+    {
+      "id": 815,
+      "bank": "RIUSA II S.A.",
+      "city": "PALMA DE MALLORCA",
+      "branch": "",
+      "swift_code": "RIUHES2M"
+    },
+    {
+      "id": 891,
+      "bank": "SOL MELIA, S.A.",
+      "city": "PALMA DE MALLORCA",
+      "branch": "",
+      "swift_code": "SOELES21"
+    }
+  ],
+  "meta": {
+    "title": "Bancos en Palma De Mallorca — códigos SWIFT/BIC - Descarga gratuita",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"PALMA DE MALLORCA\" (10 institutions). Contiene 10 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Bancos en Palma De Mallorca — códigos SWIFT/BIC | ListBase",
+    "seo_description": "Descargar Bancos en Palma De Mallorca — códigos SWIFT/BIC — 10 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 10 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

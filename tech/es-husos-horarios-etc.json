@@ -1,0 +1,72 @@
+{
+  "id": "es-husos-horarios-etc",
+  "name": "Husos horarios — Etc (2)",
+  "title": "Husos horarios — Etc (2)",
+  "description": "Husos horarios cuyo identificador IANA empieza por 'Etc/', con nombres en español.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "ciudad",
+      "label": "Ciudad",
+      "type": "string"
+    },
+    {
+      "key": "nombre_estandar",
+      "label": "Nombre Estandar",
+      "type": "string"
+    },
+    {
+      "key": "nombre_verano",
+      "label": "Nombre Verano",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Etc/UTC",
+      "region": "Etc",
+      "ciudad": "",
+      "nombre_estandar": "tiempo universal coordinado",
+      "nombre_verano": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Etc/Unknown",
+      "region": "Etc",
+      "ciudad": "Ciudad desconocida",
+      "nombre_estandar": "",
+      "nombre_verano": ""
+    }
+  ],
+  "meta": {
+    "title": "Husos horarios — Etc (2) - Descarga gratuita",
+    "description": "Husos horarios cuyo identificador IANA empieza por 'Etc/', con nombres en español. Contiene 2 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Husos horarios — Etc (2) | ListBase",
+    "seo_description": "Descargar Husos horarios — Etc (2) — 2 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 2 registros / 6 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "id": "es-caminos-de-santiago",
+  "name": "Caminos de Santiago - 11 rutas jacobeas",
+  "title": "Caminos de Santiago - 11 rutas jacobeas",
+  "description": "Catálogo de las 11 rutas del Camino de Santiago definidas en el proyecto de-calixtinus (datos CC-BY 4.0 de Doug Palmer, lineage Editorial Buen Camino): Camino Francés, Camino Portugués, Camino del Norte, Camino Primitivo, Camino Inglés, Vía de la Plata, Camino Sanabrés, Camino de Invierno, Camino de Madrid, Camino Aragonés y Camino de Fisterra. Cada ruta incluye nombre multilingüe (es/en/fr/gl/eu...), descripción, fuente, versión y recuentos de localidades y tramos. Las localidades y tramos detallados están en es-caminos-de-santiago-localidades y es-caminos-de-santiago-tramos.",
+  "category": "reference",
+  "source": "https://github.com/charvolant/de-calixtinus",
+  "source_url": "https://github.com/charvolant/de-calixtinus",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "nombre_en",
+      "label": "Nombre En",
+      "type": "string"
+    },
+    {
+      "key": "nombres",
+      "label": "Nombres",
+      "type": "string"
+    },
+    {
+      "key": "descripcion",
+      "label": "Descripcion",
+      "type": "string"
+    },
+    {
+      "key": "descripcion_en",
+      "label": "Descripcion En",
+      "type": "string"
+    },
+    {
+      "key": "fuente",
+      "label": "Fuente",
+      "type": "string"
+    },
+    {
+      "key": "licencia",
+      "label": "Licencia",
+      "type": "string"
+    },
+    {
+      "key": "creado",
+      "label": "Creado",
+      "type": "date"
+    },
+    {
+      "key": "modificado",
+      "label": "Modificado",
+      "type": "date"
+    },
+    {
+      "key": "version",
+      "label": "Version",
+      "type": "number"
+    },
+    {
+      "key": "localidades_count",
+      "label": "Localidades Count",
+      "type": "number"
+    },
+    {
+      "key": "tramos_count",
+      "label": "Tramos Count",
+      "type": "number"
+    },
+    {
+      "key": "rutas_count",
+      "label": "Rutas Count",
+      "type": "number"
+    },
+    {
+      "key": "importa",
+      "label": "Importa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "AR",
+      "slug": "camino-aragones",
+      "nombre": "Camino Aragonés",
+      "nombre_en": "Aragonese Way",
+      "nombres": "es: Camino Aragonés, en: Aragonese Way, eu: Aragoiko bidea",
+      "descripcion": "The Camino Aragonés begins at the Spanish-French border and joins the Camino Francés in Navarre.",
+      "descripcion_en": "The Camino Aragonés begins at the Spanish-French border and joins the Camino Francés in Navarre.",
+      "fuente": "https://www.editorialbuencamino.com/",
+      "licencia": "CC-BY-4.0",
+      "creado": "2026-02-10",
+      "modificado": "2026-02-10",
+      "version": "0.1",
+      "localidades_count": 44,
+      "tramos_count": 50,
+      "rutas_count": 5,
+      "importa": "I-OP"
+    },
+    {
+      "id": "FI",
+      "slug": "camino-fisterra",
+      "nombre": "Camino Finisterre",
+      "nombre_en": "Camino Fisterra",
+      "nombres": "ga: Camino Fisterra, es: Camino Finisterre",
+      "descripcion": "The Camino Fisterra leaves Santiago de Compostella and heads West, to Fisterra/Finisterre, the End of the World. This Camino is often undertaken by pilgrims who have arrived at Santiago de Compostella by other routes and wish to continue to the Westernmost part of Spain.",
+      "descripcion_en": "The Camino Fisterra leaves Santiago de Compostella and heads West, to Fisterra/Finisterre, the End of the World. This Camino is often undertaken by pilgrims who have arrived at Santiago de Compostella by other routes and wish to continue to the Westernmost part of Spain.",
+      "fuente": "https://www.editorialbuencamino.com/",
+      "licencia": "CC-BY-4.0",
+      "creado": "2024-04-12",
+      "modificado": "2025-01-27",
+      "version": "0.6",
+      "localidades_count": 52,
+      "tramos_count": 54,
+      "rutas_count": 2,
+      "importa": "I-ST"
+    },
+    {
+      "id": "F",
+      "slug": "camino-frances",
+      "nombre": "Camino francés",
+      "nombre_en": "French Way",
+      "nombres": "ga: Camiño francés, fr: Camino Frances, en: French Way, es: Camino francés, eu: Frantses bidea",
+      "descripcion": "El Camino Francês es la ruta mas popular, viniendo de Saint-Jean-Pied-de-Port France a Santiago de Compostella.",
+      "descripcion_en": "The Camino Frances is the most popular Camino route, running from Saint-Jean-Pied-de-Port in France to Santiago de Compostella.",
+      "fuente": "https://www.editorialbuencamino.com/",
+      "licencia": "CC-BY-4.0",
+      "creado": "2024-04-29",
+      "modificado": "2025-07-11",
+      "version": "0.7",
+      "localidades_count": 223,
+      "tramos_count": 246,
+      "rutas_count": 5,
+      "importa": "I-MS, I-PF, I-AT, I-SG, I-OP"
+    },
+    {
+      "id": "I",
+      "slug": "camino-ingles",
+      "nombre": "Camino Ingles",
+      "nombre_en": "English Way",
+      "nombres": "es: Camino Ingles, en: English Way",
+      "descripcion": "The Camino Ingles is a short camino from Ferrol or A Coruña on the Northen coast of Spain. The route was traditionally used by pilgrims from Northern Europe.",
+      "descripcion_en": "The Camino Ingles is a short camino from Ferrol or A Coruña on the Northen coast of Spain. The route was traditionally used by pilgrims from Northern Europe.",
+      "fuente": "https://www.editorialbuencamino.com/",
+      "licencia": "CC-BY-4.0",
+      "creado": "2024-06-21",
+      "modificado": "2025-01-27",
+      "version": "0.6",
+      "localidades_count": 38,
+      "tramos_count": 40,
+      "rutas_count": 2,
+      "importa": "I-ST"
+    },
+    {
+      "id": "W",
+      "slug": "camino-invierno",
+      "nombre": "Camino Invierno",
+      "nombre_en": "Winter Way",
+      "nombres": "es: Camino Invierno, en: Winter Way",
+      "descripcion": "The Camino Invierno (Winter Way) is a Camino that runs from Ponferrada to Santiago de Compostella, somewhat to the South of the French Way. It then joins the Camino Sanabrés and approaches Santiago de Compostella from the South. Traditionally, pilgrims used this way to avoid the snows of O Cebreiro in wintertime, from which its name derives.",
+      "descripcion_en": "The Camino Invierno (Winter Way) is a Camino that runs from Ponferrada to Santiago de Compostella, somewhat to the South of the French Way. It then joins the Camino Sanabrés and approaches Santiago de Compostella from the South. Traditionally, pilgrims used this way to avoid the snows of O Cebreiro in wintertime, from which its name derives.",
+      "fuente": "https://www.editorialbuencamino.com/",
+      "licencia": "CC-BY-4.0",
+      "creado": "2025-07-11",
+      "modificado": "2025-07-11",
+      "version": "0.1",
+      "localidades_count": 65,
+      "tramos_count": 68,
+      "rutas_count": 2,
+      "importa": "I-PF, I-BS"
+    },
+    {
+      "id": "MD",
+      "slug": "camino-madrid",
+      "nombre": "Camino Madrid",
+      "nombre_en": "Camino Madrid",
+      "nombres": "es: Camino Madrid, en: Camino Madrid",
+      "descripcion": "The Camino Madrid begins at the Plazuela de Santigo in Madrid and joins the Camino Francés at Sahagún.",
+      "descripcion_en": "The Camino Madrid begins at the Plazuela de Santigo in Madrid and joins the Camino Francés at Sahagún.",
+      "fuente": "https://www.editorialbuencamino.com/",
+      "licencia": "CC-BY-4.0",
+      "creado": "2026-02-10",
+      "modificado": "2026-03-03",
+      "version": "0.1",
+      "localidades_count": 42,
+      "tramos_count": 46,
+      "rutas_count": 5,
+      "importa": "I-SG"
+    },
+    {
+      "id": "N",
+      "slug": "camino-norte",
+      "nombre": "Camino del Norte",
+      "nombre_en": "Northern Way",
+      "nombres": "es: Camino del Norte, en: Northern Way",
+      "descripcion": "The Camino del Norte follows the Northen coastline of Spain. This route follows the Via Agrippa for some of its way, which was used in the Middle Ages by Christian pilgrims when travel along the French Way was dangerous.",
+      "descripcion_en": "The Camino del Norte follows the Northen coastline of Spain. This route follows the Via Agrippa for some of its way, which was used in the Middle Ages by Christian pilgrims when travel along the French Way was dangerous.",
+      "fuente": "https://www.editorialbuencamino.com/",
+      "licencia": "CC-BY-4.0",
+      "creado": "2025-04-30",
+      "modificado": "2025-04-30",
+      "version": "0.7",
+      "localidades_count": 280,
+      "tramos_count": 307,
+      "rutas_count": 10,
+      "importa": "I-VV, I-AS"
+    },
+    {
+      "id": "P",
+      "slug": "camino-portuguese",
+      "nombre": "Camino Portugués",
+      "nombre_en": "Portuguese Way",
+      "nombres": "pt: Caminho Português, es: Camino Portugués, en: Portuguese Way",
+      "descripcion": "The Caminho Português (Camino Portuguese) covers the Camino routes starting in Portugal, usually Lisbon or Porto. Short pilgrimages usually start in Tui in Spain, It is the second-most popular route, after the French route. Variants include the side-pilgrimage to Fátima, the coastal route and the Spiritual Variant.",
+      "descripcion_en": "The Caminho Português (Camino Portuguese) covers the Camino routes starting in Portugal, usually Lisbon or Porto. Short pilgrimages usually start in Tui in Spain, It is the second-most popular route, after the French route. Variants include the side-pilgrimage to Fátima, the coastal route and the Spiritual Variant.",
+      "fuente": "https://www.editorialbuencamino.com/",
+      "licencia": "CC-BY-4.0",
+      "creado": "2023-10-20",
+      "modificado": "2025-07-02",
+      "version": "0.7",
+      "localidades_count": 446,
+      "tramos_count": 465,
+      "rutas_count": 10,
+      "importa": "I-ST"
+    },
+    {
+      "id": "PR",
+      "slug": "camino-primitivo",
+      "nombre": "Camino Primitivo",
+      "nombre_en": "Camino Primitivo",
+      "nombres": "es: Camino Primitivo",
+      "descripcion": "The Camino Primitivo, or Original Camino is the oldest of the Camino routes to Santiago de Compostella. King Alfosno II of Asturias is considered its first pilgrim in the 9th century.",
+      "descripcion_en": "The Camino Primitivo, or Original Camino is the oldest of the Camino routes to Santiago de Compostella. King Alfosno II of Asturias is considered its first pilgrim in the 9th century.",
+      "fuente": "https://www.editorialbuencamino.com/",
+      "licencia": "CC-BY-4.0",
+      "creado": "2024-12-29",
+      "modificado": "2025-01-27",
+      "version": "0.6",
+      "localidades_count": 129,
+      "tramos_count": 136,
+      "rutas_count": 5,
+      "importa": "I-MS, I-VV"
+    },
+    {
+      "id": "SN",
+      "slug": "camino-sanabres",
+      "nombre": "Camino Sanabrés",
+      "nombre_en": "Camino Sanabrés",
+      "nombres": "es: Camino Sanabrés",
+      "descripcion": "The Camino Sanabrés starts in Granja de Moreruela and follows the royal road between Meseta and Galacia, reaching Santiago de Compostella from the South. It is often used by pilgrims on the Vía de la Plata as a final stage to Santiago de Compostella. The route is less tavelled than the major caminos and has a reputation for being peaceful and gentle.",
+      "descripcion_en": "The Camino Sanabrés starts in Granja de Moreruela and follows the royal road between Meseta and Galacia, reaching Santiago de Compostella from the South. It is often used by pilgrims on the Vía de la Plata as a final stage to Santiago de Compostella. The route is less tavelled than the major caminos and has a reputation for being peaceful and gentle.",
+      "fuente": "https://www.editorialbuencamino.com/",
+      "licencia": "CC-BY-4.0",
+      "creado": "2025-11-09",
+      "modificado": "2025-11-09",
+      "version": "0.1.0",
+      "localidades_count": 126,
+      "tramos_count": 131,
+      "rutas_count": 3,
+      "importa": "I-GM, I-BS"
+    },
+    {
+      "id": "V",
+      "slug": "camino-viadelaplata",
+      "nombre": "Vía de la Plata",
+      "nombre_en": "Silver Way",
+      "nombres": "es: Vía de la Plata, en: Silver Way, en: Mozarabic Way",
+      "descripcion": "The Vía de la Plata (Silver Way) is a Camino that runs from Seville and runs through the whole of Western Spain to Santiago de Compostella. The camino itself runs from Seville and joins either the French Camino at Astorga on the Camino Sanabrés at Granja de la Moreruela. The route has been used for commerce and pilgrimage since ancient times. Despite the name, \"Plata\" comes from the Arabic word al-balat or paved road and refers to the original Roman road.",
+      "descripcion_en": "The Vía de la Plata (Silver Way) is a Camino that runs from Seville and runs through the whole of Western Spain to Santiago de Compostella. The camino itself runs from Seville and joins either the French Camino at Astorga on the Camino Sanabrés at Granja de la Moreruela. The route has been used for commerce and pilgrimage since ancient times. Despite the name, \"Plata\" comes from the Arabic word al-balat or paved road and refers to the original Roman road.",
+      "fuente": "https://www.editorialbuencamino.com/",
+      "licencia": "CC-BY-4.0",
+      "creado": "2025-10-16",
+      "modificado": "2025-10-16",
+      "version": "0.1.0",
+      "localidades_count": 117,
+      "tramos_count": 123,
+      "rutas_count": 3,
+      "importa": "I-GM, I-AT"
+    }
+  ],
+  "meta": {
+    "title": "Caminos de Santiago - 11 rutas jacobeas - Descarga gratuita",
+    "description": "Catálogo de las 11 rutas del Camino de Santiago definidas en el proyecto de-calixtinus (datos CC-BY 4.0 de Doug Palmer, lineage Editorial Buen Camino): Camino Francés, Camino Portugués, Camino del Norte, Camino Primitivo, Camino Inglés, Vía de la Plata, Camino Sanabrés, Camino de Invierno, Camino de Madrid, Camino Aragonés y Camino de Fisterra. Cada ruta incluye nombre multilingüe (es/en/fr/gl/eu...), descripción, fuente, versión y recuentos de localidades y tramos. Las localidades y tramos detallados están en es-caminos-de-santiago-localidades y es-caminos-de-santiago-tramos. Contiene 11 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Caminos de Santiago - 11 rutas jacobeas | ListBase",
+    "seo_description": "Descargar Caminos de Santiago - 11 rutas jacobeas — 11 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 11 registros / 16 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: https://github.com/charvolant/de-calixtinus"
+    ]
+  }
+}

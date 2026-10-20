@@ -1,0 +1,345 @@
+{
+  "id": "es-cataluna-comarcas",
+  "name": "Comarques de Catalunya — 42 comarques",
+  "title": "Comarques de Catalunya — 42 comarques",
+  "description": "Llista de les comarques de Catalunya amb la província a què pertanyen i la regió sanitària de CatSalut corresponent. Cada registre inclou el nom de la comarca, la província (Barcelona, Girona, Lleida o Tarragona), la regió sanitària, el codi de regió sanitària i un comentari. Dades de l'Idescat (Institut d'Estadística de Catalunya). Inclou el Moianès.",
+  "category": "reference",
+  "source": "https://github.com/gloriamacia/comarques-catalunya",
+  "source_url": "https://github.com/gloriamacia/comarques-catalunya",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "comarca",
+      "label": "Comarca",
+      "type": "string"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "regio_sanitaria",
+      "label": "Regio Sanitaria",
+      "type": "string"
+    },
+    {
+      "key": "codi_regio_sanitaria",
+      "label": "Codi Regio Sanitaria",
+      "type": "string"
+    },
+    {
+      "key": "comentari",
+      "label": "Comentari",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "comarca": "Alt Camp",
+      "provincia": "Tarragona",
+      "regio_sanitaria": "Camp de Tarragona",
+      "codi_regio_sanitaria": "RS13",
+      "comentari": ""
+    },
+    {
+      "comarca": "Alt Empordà",
+      "provincia": "Girona",
+      "regio_sanitaria": "Girona",
+      "codi_regio_sanitaria": "RS15",
+      "comentari": ""
+    },
+    {
+      "comarca": "Alt Penedès",
+      "provincia": "Barcelona",
+      "regio_sanitaria": "Barcelona",
+      "codi_regio_sanitaria": "RS12",
+      "comentari": ""
+    },
+    {
+      "comarca": "Alt Urgell",
+      "provincia": "Lleida",
+      "regio_sanitaria": "Alt Pirineu i Aran",
+      "codi_regio_sanitaria": "RS11",
+      "comentari": ""
+    },
+    {
+      "comarca": "Alta Ribagorça",
+      "provincia": "Lleida",
+      "regio_sanitaria": "Alt Pirineu i Aran",
+      "codi_regio_sanitaria": "RS11",
+      "comentari": ""
+    },
+    {
+      "comarca": "Anoia",
+      "provincia": "Barcelona",
+      "regio_sanitaria": "Catalunya Central",
+      "codi_regio_sanitaria": "RS14",
+      "comentari": ""
+    },
+    {
+      "comarca": "Aran",
+      "provincia": "Lleida",
+      "regio_sanitaria": "Alt Pirineu i Aran",
+      "codi_regio_sanitaria": "RS11",
+      "comentari": ""
+    },
+    {
+      "comarca": "Bages",
+      "provincia": "Barcelona",
+      "regio_sanitaria": "Catalunya Central",
+      "codi_regio_sanitaria": "RS14",
+      "comentari": ""
+    },
+    {
+      "comarca": "Baix Camp",
+      "provincia": "Tarragona",
+      "regio_sanitaria": "Camp de Tarragona",
+      "codi_regio_sanitaria": "RS13",
+      "comentari": ""
+    },
+    {
+      "comarca": "Baix Ebre",
+      "provincia": "Tarragona",
+      "regio_sanitaria": "Terres de l'Ebre",
+      "codi_regio_sanitaria": "RS17",
+      "comentari": ""
+    },
+    {
+      "comarca": "Baix Empordà",
+      "provincia": "Girona",
+      "regio_sanitaria": "Girona",
+      "codi_regio_sanitaria": "RS15",
+      "comentari": ""
+    },
+    {
+      "comarca": "Baix Llobregat",
+      "provincia": "Barcelona",
+      "regio_sanitaria": "Barcelona",
+      "codi_regio_sanitaria": "RS12",
+      "comentari": ""
+    },
+    {
+      "comarca": "Baix Penedès",
+      "provincia": "Tarragona",
+      "regio_sanitaria": "Camp de Tarragona",
+      "codi_regio_sanitaria": "RS13",
+      "comentari": ""
+    },
+    {
+      "comarca": "Barcelonès",
+      "provincia": "Barcelona",
+      "regio_sanitaria": "Barcelona",
+      "codi_regio_sanitaria": "RS12",
+      "comentari": ""
+    },
+    {
+      "comarca": "Berguedà",
+      "provincia": "Barcelona",
+      "regio_sanitaria": "Catalunya Central",
+      "codi_regio_sanitaria": "RS14",
+      "comentari": ""
+    },
+    {
+      "comarca": "Cerdanya",
+      "provincia": "Girona",
+      "regio_sanitaria": "Alt Pirineu i Aran",
+      "codi_regio_sanitaria": "RS11",
+      "comentari": ""
+    },
+    {
+      "comarca": "Conca de Barberà",
+      "provincia": "Tarragona",
+      "regio_sanitaria": "Camp de Tarragona",
+      "codi_regio_sanitaria": "RS13",
+      "comentari": ""
+    },
+    {
+      "comarca": "Garraf",
+      "provincia": "Barcelona",
+      "regio_sanitaria": "Barcelona",
+      "codi_regio_sanitaria": "RS12",
+      "comentari": ""
+    },
+    {
+      "comarca": "Garrigues",
+      "provincia": "Lleida",
+      "regio_sanitaria": "Lleida",
+      "codi_regio_sanitaria": "RS16",
+      "comentari": ""
+    },
+    {
+      "comarca": "Garrotxa",
+      "provincia": "Girona",
+      "regio_sanitaria": "Girona",
+      "codi_regio_sanitaria": "RS15",
+      "comentari": ""
+    },
+    {
+      "comarca": "Gironès",
+      "provincia": "Girona",
+      "regio_sanitaria": "Girona",
+      "codi_regio_sanitaria": "RS15",
+      "comentari": ""
+    },
+    {
+      "comarca": "Maresme",
+      "provincia": "Barcelona",
+      "regio_sanitaria": "Barcelona",
+      "codi_regio_sanitaria": "RS12",
+      "comentari": "Alguns dels municipis del Maresme pertanyen a la RS15."
+    },
+    {
+      "comarca": "Moianès",
+      "provincia": "Barcelona",
+      "regio_sanitaria": "Catalunya Central",
+      "codi_regio_sanitaria": "RS14",
+      "comentari": ""
+    },
+    {
+      "comarca": "Montsià",
+      "provincia": "Tarragona",
+      "regio_sanitaria": "Terres de l'Ebre",
+      "codi_regio_sanitaria": "RS17",
+      "comentari": ""
+    },
+    {
+      "comarca": "Noguera",
+      "provincia": "Lleida",
+      "regio_sanitaria": "Lleida",
+      "codi_regio_sanitaria": "RS16",
+      "comentari": ""
+    },
+    {
+      "comarca": "Osona",
+      "provincia": "Barcelona",
+      "regio_sanitaria": "Catalunya Central",
+      "codi_regio_sanitaria": "RS14",
+      "comentari": ""
+    },
+    {
+      "comarca": "Pallars Jussà",
+      "provincia": "Lleida",
+      "regio_sanitaria": "Alt Pirineu i Aran",
+      "codi_regio_sanitaria": "RS11",
+      "comentari": ""
+    },
+    {
+      "comarca": "Pallars Sobirà",
+      "provincia": "Lleida",
+      "regio_sanitaria": "Alt Pirineu i Aran",
+      "codi_regio_sanitaria": "RS11",
+      "comentari": ""
+    },
+    {
+      "comarca": "Pla d'Urgell",
+      "provincia": "Lleida",
+      "regio_sanitaria": "Lleida",
+      "codi_regio_sanitaria": "RS16",
+      "comentari": ""
+    },
+    {
+      "comarca": "Pla de l'Estany",
+      "provincia": "Girona",
+      "regio_sanitaria": "Girona",
+      "codi_regio_sanitaria": "RS15",
+      "comentari": ""
+    },
+    {
+      "comarca": "Priorat",
+      "provincia": "Taragona",
+      "regio_sanitaria": "Camp de Tarragona",
+      "codi_regio_sanitaria": "RS13",
+      "comentari": ""
+    },
+    {
+      "comarca": "Ribera d'Ebre",
+      "provincia": "Tarragona",
+      "regio_sanitaria": "Terres de l'Ebre",
+      "codi_regio_sanitaria": "RS17",
+      "comentari": ""
+    },
+    {
+      "comarca": "Ripollès",
+      "provincia": "Girona",
+      "regio_sanitaria": "Girona",
+      "codi_regio_sanitaria": "RS15",
+      "comentari": ""
+    },
+    {
+      "comarca": "Segarra",
+      "provincia": "Lleida",
+      "regio_sanitaria": "Lleida",
+      "codi_regio_sanitaria": "RS16",
+      "comentari": ""
+    },
+    {
+      "comarca": "Segrià",
+      "provincia": "Lleida",
+      "regio_sanitaria": "Lleida",
+      "codi_regio_sanitaria": "RS16",
+      "comentari": ""
+    },
+    {
+      "comarca": "Selva",
+      "provincia": "Girona",
+      "regio_sanitaria": "Girona",
+      "codi_regio_sanitaria": "RS15",
+      "comentari": ""
+    },
+    {
+      "comarca": "Solsonès",
+      "provincia": "Lleida",
+      "regio_sanitaria": "Catalunya Central",
+      "codi_regio_sanitaria": "RS14",
+      "comentari": ""
+    },
+    {
+      "comarca": "Tarragonès",
+      "provincia": "Tarragona",
+      "regio_sanitaria": "Camp de Tarragona",
+      "codi_regio_sanitaria": "RS13",
+      "comentari": ""
+    },
+    {
+      "comarca": "Terra Alta",
+      "provincia": "Tarragona",
+      "regio_sanitaria": "Terres de l'Ebre",
+      "codi_regio_sanitaria": "RS17",
+      "comentari": ""
+    },
+    {
+      "comarca": "Urgell",
+      "provincia": "Lleida",
+      "regio_sanitaria": "Lleida",
+      "codi_regio_sanitaria": "RS16",
+      "comentari": ""
+    },
+    {
+      "comarca": "Vallès Occidental",
+      "provincia": "Barcelona",
+      "regio_sanitaria": "Barcelona",
+      "codi_regio_sanitaria": "RS12",
+      "comentari": ""
+    },
+    {
+      "comarca": "Vallès Oriental",
+      "provincia": "Barcelona",
+      "regio_sanitaria": "Barcelona",
+      "codi_regio_sanitaria": "RS12",
+      "comentari": ""
+    }
+  ],
+  "meta": {
+    "title": "Comarques de Catalunya — 42 comarques - Descarga gratuita",
+    "description": "Llista de les comarques de Catalunya amb la província a què pertanyen i la regió sanitària de CatSalut corresponent. Cada registre inclou el nom de la comarca, la província (Barcelona, Girona, Lleida o Tarragona), la regió sanitària, el codi de regió sanitària i un comentari. Dades de l'Idescat (Institut d'Estadística de Catalunya). Inclou el Moianès. Contiene 42 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Comarques de Catalunya — 42 comarques | ListBase",
+    "seo_description": "Descargar Comarques de Catalunya — 42 comarques — 42 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 42 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: https://github.com/gloriamacia/comarques-catalunya"
+    ]
+  }
+}

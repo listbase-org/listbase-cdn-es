@@ -1,0 +1,118 @@
+{
+  "id": "es-melilla-municipios-demografia",
+  "name": "Municipios de Melilla (demografía) — 1 municipios",
+  "title": "Municipios de Melilla (demografía) — 1 municipios",
+  "description": "Los 1 municipios de la provincia de Melilla (52) con datos demográficos y geográficos: población municipal (INE), superficie (ha y km²), perímetro, altitud, coordenadas y capital municipal. Subconjunto del registro nacional es-municipios-demografia filtrado por code_province = '52'.",
+  "category": "reference",
+  "source": "https://github.com/geoinnova/municipiosJson",
+  "source_url": "https://github.com/geoinnova/municipiosJson",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "code_ine",
+      "label": "Code Ine",
+      "type": "number"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "poblacion",
+      "label": "Poblacion",
+      "type": "number"
+    },
+    {
+      "key": "superficie_ha",
+      "label": "Superficie Ha",
+      "type": "number"
+    },
+    {
+      "key": "superficie_km2",
+      "label": "Superficie Km2",
+      "type": "number"
+    },
+    {
+      "key": "perimetro_m",
+      "label": "Perimetro M",
+      "type": "number"
+    },
+    {
+      "key": "altitud_m",
+      "label": "Altitud M",
+      "type": "number"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "poblacion_capital",
+      "label": "Poblacion Capital",
+      "type": "number"
+    },
+    {
+      "key": "latitud",
+      "label": "Latitud",
+      "type": "number"
+    },
+    {
+      "key": "longitud",
+      "label": "Longitud",
+      "type": "number"
+    },
+    {
+      "key": "code_province",
+      "label": "Code Province",
+      "type": "number"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code_ine": "52001",
+      "nombre": "Melilla",
+      "slug": "melilla",
+      "poblacion": 86487,
+      "superficie_ha": 1424.28,
+      "superficie_km2": 14.2428,
+      "perimetro_m": 38362,
+      "altitud_m": 2,
+      "capital": "Melilla",
+      "poblacion_capital": 86487,
+      "latitud": 35.29220967,
+      "longitud": -2.937088836,
+      "code_province": "52",
+      "provincia": "Melilla",
+      "provincia_slug": "melilla"
+    }
+  ],
+  "meta": {
+    "title": "Municipios de Melilla (demografía) — 1 municipios - Descarga gratuita",
+    "description": "Los 1 municipios de la provincia de Melilla (52) con datos demográficos y geográficos: población municipal (INE), superficie (ha y km²), perímetro, altitud, coordenadas y capital municipal. Subconjunto del registro nacional es-municipios-demografia filtrado por code_province = '52'. Contiene 1 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Municipios de Melilla (demografía) — 1 municipios | ListBase",
+    "seo_description": "Descargar Municipios de Melilla (demografía) — 1 municipios — 1 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 1 registros / 15 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: https://github.com/geoinnova/municipiosJson"
+    ]
+  }
+}

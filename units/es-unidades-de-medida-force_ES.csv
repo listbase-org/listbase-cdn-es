@@ -1,0 +1,5 @@
+﻿"Id","Unit Code","Categoria","Nombre","Abreviatura","Forma Estrecha","Patron"
+"1","force-kilogram-force","force","kilogramos fuerza","kgf","kgf","{0} kilogramos fuerza"
+"2","force-kilowatt-hour-per-100-kilometer","force","kilovatios hora por 100 kilómetros","kWh/100 km","kWh/100 km","{0} kilovatios hora por 100 kilómetros"
+"3","force-newton","force","newtons","N","N","{0} newtons"
+"4","force-pound-force","force","libras de fuerza","lbf","lbf","{0} libras de fuerza"

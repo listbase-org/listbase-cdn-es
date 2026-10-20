@@ -1,0 +1,196 @@
+{
+  "id": "es-unidades-de-medida-duration",
+  "name": "Unidades de medida — categoría 'duration' (15)",
+  "title": "Unidades de medida — categoría 'duration' (15)",
+  "description": "Unidades de medida de la categoría 'duration' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "duration-century",
+      "categoria": "duration",
+      "nombre": "siglos",
+      "abreviatura": "s.",
+      "forma_estrecha": "s",
+      "patron": "{0} siglos"
+    },
+    {
+      "id": 2,
+      "unit_code": "duration-day",
+      "categoria": "duration",
+      "nombre": "días",
+      "abreviatura": "d",
+      "forma_estrecha": "d",
+      "patron": "{0} días"
+    },
+    {
+      "id": 3,
+      "unit_code": "duration-decade",
+      "categoria": "duration",
+      "nombre": "décadas",
+      "abreviatura": "déc.",
+      "forma_estrecha": "déc",
+      "patron": "{0} décadas"
+    },
+    {
+      "id": 4,
+      "unit_code": "duration-fortnight",
+      "categoria": "duration",
+      "nombre": "fortnight",
+      "abreviatura": "fortnight",
+      "forma_estrecha": "fortnight",
+      "patron": "{0} fw"
+    },
+    {
+      "id": 5,
+      "unit_code": "duration-hour",
+      "categoria": "duration",
+      "nombre": "horas",
+      "abreviatura": "horas",
+      "forma_estrecha": "h",
+      "patron": "{0} horas"
+    },
+    {
+      "id": 6,
+      "unit_code": "duration-microsecond",
+      "categoria": "duration",
+      "nombre": "microsegundos",
+      "abreviatura": "μs",
+      "forma_estrecha": "μs",
+      "patron": "{0} microsegundos"
+    },
+    {
+      "id": 7,
+      "unit_code": "duration-millisecond",
+      "categoria": "duration",
+      "nombre": "milisegundos",
+      "abreviatura": "ms",
+      "forma_estrecha": "ms",
+      "patron": "{0} milisegundos"
+    },
+    {
+      "id": 8,
+      "unit_code": "duration-minute",
+      "categoria": "duration",
+      "nombre": "minutos",
+      "abreviatura": "min",
+      "forma_estrecha": "min",
+      "patron": "{0} minutos"
+    },
+    {
+      "id": 9,
+      "unit_code": "duration-month",
+      "categoria": "duration",
+      "nombre": "meses",
+      "abreviatura": "m.",
+      "forma_estrecha": "m",
+      "patron": "{0} meses"
+    },
+    {
+      "id": 10,
+      "unit_code": "duration-nanosecond",
+      "categoria": "duration",
+      "nombre": "nanosegundos",
+      "abreviatura": "ns",
+      "forma_estrecha": "ns",
+      "patron": "{0} nanosegundos"
+    },
+    {
+      "id": 11,
+      "unit_code": "duration-night",
+      "categoria": "duration",
+      "nombre": "noches",
+      "abreviatura": "noches",
+      "forma_estrecha": "noches",
+      "patron": "{0} noches"
+    },
+    {
+      "id": 12,
+      "unit_code": "duration-quarter",
+      "categoria": "duration",
+      "nombre": "trimestres",
+      "abreviatura": "trim.",
+      "forma_estrecha": "trim",
+      "patron": "{0} trimestres"
+    },
+    {
+      "id": 13,
+      "unit_code": "duration-second",
+      "categoria": "duration",
+      "nombre": "segundos",
+      "abreviatura": "s",
+      "forma_estrecha": "s",
+      "patron": "{0} segundos"
+    },
+    {
+      "id": 14,
+      "unit_code": "duration-week",
+      "categoria": "duration",
+      "nombre": "semanas",
+      "abreviatura": "sem.",
+      "forma_estrecha": "sem",
+      "patron": "{0} semanas"
+    },
+    {
+      "id": 15,
+      "unit_code": "duration-year",
+      "categoria": "duration",
+      "nombre": "años",
+      "abreviatura": "a",
+      "forma_estrecha": "a",
+      "patron": "{0} años"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'duration' (15) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'duration' de la configuración regional es en CLDR, con nombres en español. Contiene 15 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'duration' (15) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'duration' (15) — 15 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 15 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

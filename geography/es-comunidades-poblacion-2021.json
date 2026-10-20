@@ -1,0 +1,232 @@
+{
+  "id": "es-comunidades-poblacion-2021",
+  "name": "Población por comunidad autónoma en España (2021) - 19 registros",
+  "title": "Población por comunidad autónoma en España (2021) - 19 registros",
+  "description": "Cifras oficiales de población residente en cada comunidad y ciudad autónoma de España según el INE (1 de enero de 2021). Útil para cálculos per cápita, comparativas regionales y SEO en consultas como \"población comunidades autónomas España\" o \"habitantes por comunidad\".",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "comunidad_autonoma_nombre",
+      "label": "Comunidad Autonoma Nombre",
+      "type": "string"
+    },
+    {
+      "key": "comunidad_autonoma_slug",
+      "label": "Comunidad Autonoma Slug",
+      "type": "string"
+    },
+    {
+      "key": "comunidad_autonoma_codigo",
+      "label": "Comunidad Autonoma Codigo",
+      "type": "number"
+    },
+    {
+      "key": "poblacion_total",
+      "label": "Poblacion Total",
+      "type": "number"
+    },
+    {
+      "key": "tamano_municipios",
+      "label": "Tamano Municipios",
+      "type": "string"
+    },
+    {
+      "key": "year_reference",
+      "label": "Year Reference",
+      "type": "number"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "comunidad_autonoma_nombre": "Andalucía",
+      "comunidad_autonoma_slug": "andalucia",
+      "comunidad_autonoma_codigo": "01",
+      "poblacion_total": 8472407,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "Cataluña",
+      "comunidad_autonoma_slug": "cataluna",
+      "comunidad_autonoma_codigo": "09",
+      "poblacion_total": 7763362,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "Comunidad de Madrid",
+      "comunidad_autonoma_slug": "madrid",
+      "comunidad_autonoma_codigo": "13",
+      "poblacion_total": 6751251,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "Comunitat Valenciana",
+      "comunidad_autonoma_slug": "comunitat-valenciana",
+      "comunidad_autonoma_codigo": "10",
+      "poblacion_total": 5058138,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "Galicia",
+      "comunidad_autonoma_slug": "galicia",
+      "comunidad_autonoma_codigo": "12",
+      "poblacion_total": 2695645,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "Castilla y León",
+      "comunidad_autonoma_slug": "castilla-y-leon",
+      "comunidad_autonoma_codigo": "07",
+      "poblacion_total": 2383139,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "País Vasco",
+      "comunidad_autonoma_slug": "pais-vasco",
+      "comunidad_autonoma_codigo": "16",
+      "poblacion_total": 2213993,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "Canarias",
+      "comunidad_autonoma_slug": "canarias",
+      "comunidad_autonoma_codigo": "05",
+      "poblacion_total": 2172944,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "Castilla-La Mancha",
+      "comunidad_autonoma_slug": "castilla-la-mancha",
+      "comunidad_autonoma_codigo": "08",
+      "poblacion_total": 2049562,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "Región de Murcia",
+      "comunidad_autonoma_slug": "murcia",
+      "comunidad_autonoma_codigo": "14",
+      "poblacion_total": 1518486,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "Aragón",
+      "comunidad_autonoma_slug": "aragon",
+      "comunidad_autonoma_codigo": "02",
+      "poblacion_total": 1326261,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "Illes Balears",
+      "comunidad_autonoma_slug": "illes-balears",
+      "comunidad_autonoma_codigo": "04",
+      "poblacion_total": 1173008,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "Extremadura",
+      "comunidad_autonoma_slug": "extremadura",
+      "comunidad_autonoma_codigo": "11",
+      "poblacion_total": 1059501,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "Principado de Asturias",
+      "comunidad_autonoma_slug": "asturias",
+      "comunidad_autonoma_codigo": "03",
+      "poblacion_total": 1011792,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "Comunidad Foral de Navarra",
+      "comunidad_autonoma_slug": "navarra",
+      "comunidad_autonoma_codigo": "15",
+      "poblacion_total": 661537,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "Cantabria",
+      "comunidad_autonoma_slug": "cantabria",
+      "comunidad_autonoma_codigo": "06",
+      "poblacion_total": 584507,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "La Rioja",
+      "comunidad_autonoma_slug": "la-rioja",
+      "comunidad_autonoma_codigo": "17",
+      "poblacion_total": 319796,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "Melilla",
+      "comunidad_autonoma_slug": "melilla",
+      "comunidad_autonoma_codigo": "19",
+      "poblacion_total": 86261,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    },
+    {
+      "comunidad_autonoma_nombre": "Ceuta",
+      "comunidad_autonoma_slug": "ceuta",
+      "comunidad_autonoma_codigo": "18",
+      "poblacion_total": 83517,
+      "tamano_municipios": "Total",
+      "year_reference": 2021,
+      "source": "INE - Cifras oficiales de población"
+    }
+  ],
+  "meta": {
+    "title": "Población por comunidad autónoma en España (2021) - 19 registros - Descarga gratuita",
+    "description": "Cifras oficiales de población residente en cada comunidad y ciudad autónoma de España según el INE (1 de enero de 2021). Útil para cálculos per cápita, comparativas regionales y SEO en consultas como \"población comunidades autónomas España\" o \"habitantes por comunidad\". Contiene 19 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Población por comunidad autónoma en España (2021) - 19 registros | ListBase",
+    "seo_description": "Descargar Población por comunidad autónoma en España (2021) - 19 registros — 19 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 19 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

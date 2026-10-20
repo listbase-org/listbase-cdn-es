@@ -1,0 +1,97 @@
+{
+  "id": "es-unidades-de-medida-consumption",
+  "name": "Unidades de medida — categoría 'consumption' (4)",
+  "title": "Unidades de medida — categoría 'consumption' (4)",
+  "description": "Unidades de medida de la categoría 'consumption' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "categoria": "consumption",
+      "nombre": "litros por 100 kilómetros",
+      "abreviatura": "l/100 km",
+      "forma_estrecha": "l/100km",
+      "patron": "{0} litros por 100 kilómetros"
+    },
+    {
+      "id": 2,
+      "unit_code": "consumption-liter-per-kilometer",
+      "categoria": "consumption",
+      "nombre": "litros por kilómetro",
+      "abreviatura": "l/km",
+      "forma_estrecha": "l/km",
+      "patron": "{0} litros por kilómetro"
+    },
+    {
+      "id": 3,
+      "unit_code": "consumption-mile-per-gallon",
+      "categoria": "consumption",
+      "nombre": "millas por galón",
+      "abreviatura": "mi/gal",
+      "forma_estrecha": "mi/gal",
+      "patron": "{0} millas por galón"
+    },
+    {
+      "id": 4,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "categoria": "consumption",
+      "nombre": "millas por galón imperial",
+      "abreviatura": "mi/gal imp.",
+      "forma_estrecha": "mi/gal imp",
+      "patron": "{0} millas por galón imperial"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'consumption' (4) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'consumption' de la configuración regional es en CLDR, con nombres en español. Contiene 4 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'consumption' (4) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'consumption' (4) — 4 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 4 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

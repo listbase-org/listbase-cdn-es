@@ -1,0 +1,178 @@
+{
+  "id": "es-unidades-de-medida-concentr",
+  "name": "Unidades de medida — categoría 'concentr' (13)",
+  "title": "Unidades de medida — categoría 'concentr' (13)",
+  "description": "Unidades de medida de la categoría 'concentr' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "concentr-item",
+      "categoria": "concentr",
+      "nombre": "ítem",
+      "abreviatura": "ítem",
+      "forma_estrecha": "ítem",
+      "patron": "{0} ítems"
+    },
+    {
+      "id": 2,
+      "unit_code": "concentr-karat",
+      "categoria": "concentr",
+      "nombre": "quilates",
+      "abreviatura": "ct",
+      "forma_estrecha": "ct",
+      "patron": "{0} quilates"
+    },
+    {
+      "id": 3,
+      "unit_code": "concentr-katal",
+      "categoria": "concentr",
+      "nombre": "katales",
+      "abreviatura": "kat",
+      "forma_estrecha": "kat",
+      "patron": "{0} katales"
+    },
+    {
+      "id": 4,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "categoria": "concentr",
+      "nombre": "miligramos por decilitro",
+      "abreviatura": "mg/dL",
+      "forma_estrecha": "mg/dL",
+      "patron": "{0} miligramos por decilitro"
+    },
+    {
+      "id": 5,
+      "unit_code": "concentr-millimole-per-liter",
+      "categoria": "concentr",
+      "nombre": "milimoles por litro",
+      "abreviatura": "mmol/L",
+      "forma_estrecha": "mmol/L",
+      "patron": "{0} milimoles por litro"
+    },
+    {
+      "id": 6,
+      "unit_code": "concentr-mole",
+      "categoria": "concentr",
+      "nombre": "moles",
+      "abreviatura": "mol",
+      "forma_estrecha": "mol",
+      "patron": "{0} moles"
+    },
+    {
+      "id": 7,
+      "unit_code": "concentr-ofglucose",
+      "categoria": "concentr",
+      "nombre": "de glucosa",
+      "abreviatura": "Glc",
+      "forma_estrecha": "Glc",
+      "patron": "{0} de glucosa"
+    },
+    {
+      "id": 8,
+      "unit_code": "concentr-part",
+      "categoria": "concentr",
+      "nombre": "partes",
+      "abreviatura": "parte",
+      "forma_estrecha": "parte",
+      "patron": "{0} partes"
+    },
+    {
+      "id": 9,
+      "unit_code": "concentr-part-per-1e6",
+      "categoria": "concentr",
+      "nombre": "partes por millón",
+      "abreviatura": "ppm",
+      "forma_estrecha": "ppm",
+      "patron": "{0} partes por millón"
+    },
+    {
+      "id": 10,
+      "unit_code": "concentr-part-per-1e9",
+      "categoria": "concentr",
+      "nombre": "partes por millardo",
+      "abreviatura": "partes/millardo",
+      "forma_estrecha": "partes/millardo",
+      "patron": "{0} partes por millardo"
+    },
+    {
+      "id": 11,
+      "unit_code": "concentr-percent",
+      "categoria": "concentr",
+      "nombre": "por ciento",
+      "abreviatura": "por ciento",
+      "forma_estrecha": "%",
+      "patron": "{0} por ciento"
+    },
+    {
+      "id": 12,
+      "unit_code": "concentr-permille",
+      "categoria": "concentr",
+      "nombre": "por mil",
+      "abreviatura": "por mil",
+      "forma_estrecha": "por mil",
+      "patron": "{0} por mil"
+    },
+    {
+      "id": 13,
+      "unit_code": "concentr-permyriad",
+      "categoria": "concentr",
+      "nombre": "por diez mil",
+      "abreviatura": "por diez mil",
+      "forma_estrecha": "por diez mil",
+      "patron": "{0} por diez mil"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'concentr' (13) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'concentr' de la configuración regional es en CLDR, con nombres en español. Contiene 13 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'concentr' (13) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'concentr' (13) — 13 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 13 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

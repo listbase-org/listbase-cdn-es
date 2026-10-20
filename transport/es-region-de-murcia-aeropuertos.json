@@ -1,0 +1,339 @@
+{
+  "id": "es-region-de-murcia-aeropuertos",
+  "name": "Aeropuertos de Region de Murcia",
+  "title": "Aeropuertos de Region de Murcia",
+  "description": "Instalaciones aeronauticas situadas en Region de Murcia (ES-MC) segun OurAirports: 12 registros (8 small_airport, 2 medium_airport, 1 heliport, 1 large_airport). La particion usa la columna iso_region propia de la fuente; no se ha empleado geometria, geocodificacion inversa ni ningun cruce externo. Incluye codigos ICAO/IATA, coordenadas WGS84, elevacion, municipio y servicio regular.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "comunidad_autonoma",
+      "label": "Comunidad Autonoma",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ident": "ES-0028",
+      "name": "AeroCieza",
+      "type": "small_airport",
+      "latitude_deg": "38.32305",
+      "longitude_deg": "-1.456967",
+      "elevation_ft": "",
+      "iso_country": "ES",
+      "iso_region": "ES-MC",
+      "comunidad_autonoma": "Murcia (region)",
+      "municipality": "",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0035",
+      "name": "Aeroclub Mar Menor",
+      "type": "small_airport",
+      "latitude_deg": "37.845278",
+      "longitude_deg": "-0.881111",
+      "elevation_ft": "289",
+      "iso_country": "ES",
+      "iso_region": "ES-MC",
+      "comunidad_autonoma": "Murcia (region)",
+      "municipality": "San Javier",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LELG",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0036",
+      "name": "Aeroclub Totana",
+      "type": "small_airport",
+      "latitude_deg": "37.753083",
+      "longitude_deg": "-1.4487",
+      "elevation_ft": "",
+      "iso_country": "ES",
+      "iso_region": "ES-MC",
+      "comunidad_autonoma": "Murcia (region)",
+      "municipality": "Totana",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LETX",
+      "local_code": "",
+      "home_link": "https://aerototana.org/",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0073",
+      "name": "Aeródromo de Caravaca de la Cruz",
+      "type": "small_airport",
+      "latitude_deg": "38.0468",
+      "longitude_deg": "-1.92201",
+      "elevation_ft": "2625",
+      "iso_country": "ES",
+      "iso_region": "ES-MC",
+      "comunidad_autonoma": "Murcia (region)",
+      "municipality": "",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0125",
+      "name": "Aeródromo de Villa María",
+      "type": "small_airport",
+      "latitude_deg": "37.9273008",
+      "longitude_deg": "-1.7751475",
+      "elevation_ft": "2740",
+      "iso_country": "ES",
+      "iso_region": "ES-MC",
+      "comunidad_autonoma": "Murcia (region)",
+      "municipality": "Coy (Lorca)",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0160",
+      "name": "Campo de Vuelo Yecla",
+      "type": "small_airport",
+      "latitude_deg": "38.58759",
+      "longitude_deg": "-1.105",
+      "elevation_ft": "",
+      "iso_country": "ES",
+      "iso_region": "ES-MC",
+      "comunidad_autonoma": "Murcia (region)",
+      "municipality": "Yecla",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "ES-0293",
+      "name": "Cartagena Helicopter Base",
+      "type": "heliport",
+      "latitude_deg": "37.697502",
+      "longitude_deg": "-0.842058",
+      "elevation_ft": "",
+      "iso_country": "ES",
+      "iso_region": "ES-MC",
+      "comunidad_autonoma": "Murcia (region)",
+      "municipality": "",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "LELC",
+      "name": "San Javier Airport",
+      "type": "medium_airport",
+      "latitude_deg": "37.775002",
+      "longitude_deg": "-0.812389",
+      "elevation_ft": "11",
+      "iso_country": "ES",
+      "iso_region": "ES-MC",
+      "comunidad_autonoma": "Murcia (region)",
+      "municipality": "San Javier",
+      "scheduled_service": "no",
+      "icao_code": "LELC",
+      "iata_code": "",
+      "gps_code": "LELC",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Murcia-San_Javier_Airport"
+    },
+    {
+      "ident": "LELH",
+      "name": "Alhama De Murcia Airfield",
+      "type": "small_airport",
+      "latitude_deg": "37.748901",
+      "longitude_deg": "-1.30216",
+      "elevation_ft": "669",
+      "iso_country": "ES",
+      "iso_region": "ES-MC",
+      "comunidad_autonoma": "Murcia (region)",
+      "municipality": "Cánovas",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LELH",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": ""
+    },
+    {
+      "ident": "LEMI",
+      "name": "Region of Murcia International Airport",
+      "type": "large_airport",
+      "latitude_deg": "37.802852",
+      "longitude_deg": "-1.124884",
+      "elevation_ft": "644",
+      "iso_country": "ES",
+      "iso_region": "ES-MC",
+      "comunidad_autonoma": "Murcia (region)",
+      "municipality": "Corvera",
+      "scheduled_service": "yes",
+      "icao_code": "LEMI",
+      "iata_code": "RMU",
+      "gps_code": "LEMI",
+      "local_code": "",
+      "home_link": "https://www.aena.es/en/internacional-region-de-murcia.html",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Murcia-Corvera_Airport"
+    },
+    {
+      "ident": "LEMP",
+      "name": "Los Martínez Del Puerto Airfield",
+      "type": "small_airport",
+      "latitude_deg": "37.836817",
+      "longitude_deg": "-1.097667",
+      "elevation_ft": "534",
+      "iso_country": "ES",
+      "iso_region": "ES-MC",
+      "comunidad_autonoma": "Murcia (region)",
+      "municipality": "Murcia",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LEMP",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Los_Mart%C3%ADnez_del_Puerto"
+    },
+    {
+      "ident": "LERI",
+      "name": "Alcantarilla Air Base",
+      "type": "medium_airport",
+      "latitude_deg": "37.951099",
+      "longitude_deg": "-1.23032",
+      "elevation_ft": "250",
+      "iso_country": "ES",
+      "iso_region": "ES-MC",
+      "comunidad_autonoma": "Murcia (region)",
+      "municipality": "Alcantarilla",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "LERI",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://es.wikipedia.org/wiki/Base_A%C3%A9rea_de_Alcantarilla"
+    }
+  ],
+  "meta": {
+    "title": "Aeropuertos de Region de Murcia - Descarga gratuita",
+    "description": "Instalaciones aeronauticas situadas en Region de Murcia (ES-MC) segun OurAirports: 12 registros (8 small_airport, 2 medium_airport, 1 heliport, 1 large_airport). La particion usa la columna iso_region propia de la fuente; no se ha empleado geometria, geocodificacion inversa ni ningun cruce externo. Incluye codigos ICAO/IATA, coordenadas WGS84, elevacion, municipio y servicio regular. Contiene 12 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Aeropuertos de Region de Murcia | ListBase",
+    "seo_description": "Descargar Aeropuertos de Region de Murcia — 12 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 12 registros / 17 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

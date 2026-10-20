@@ -1,0 +1,340 @@
+{
+  "id": "es-unidades-de-medida-length",
+  "name": "Unidades de medida — categoría 'length' (31)",
+  "title": "Unidades de medida — categoría 'length' (31)",
+  "description": "Unidades de medida de la categoría 'length' de la configuración regional es en CLDR, con nombres en español.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "abreviatura",
+      "label": "Abreviatura",
+      "type": "string"
+    },
+    {
+      "key": "forma_estrecha",
+      "label": "Forma Estrecha",
+      "type": "string"
+    },
+    {
+      "key": "patron",
+      "label": "Patron",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "length-astronomical-unit",
+      "categoria": "length",
+      "nombre": "unidades astronómicas",
+      "abreviatura": "au",
+      "forma_estrecha": "au",
+      "patron": "{0} unidades astronómicas"
+    },
+    {
+      "id": 2,
+      "unit_code": "length-centimeter",
+      "categoria": "length",
+      "nombre": "centímetros",
+      "abreviatura": "cm",
+      "forma_estrecha": "cm",
+      "patron": "{0} centímetros"
+    },
+    {
+      "id": 3,
+      "unit_code": "length-chain",
+      "categoria": "length",
+      "nombre": "chain",
+      "abreviatura": "chain",
+      "forma_estrecha": "chain",
+      "patron": "{0} chain"
+    },
+    {
+      "id": 4,
+      "unit_code": "length-decimeter",
+      "categoria": "length",
+      "nombre": "decímetros",
+      "abreviatura": "dm",
+      "forma_estrecha": "dm",
+      "patron": "{0} decímetros"
+    },
+    {
+      "id": 5,
+      "unit_code": "length-earth-radius",
+      "categoria": "length",
+      "nombre": "radios terrestres",
+      "abreviatura": "R⊕",
+      "forma_estrecha": "R⊕",
+      "patron": "{0} radios terrestres"
+    },
+    {
+      "id": 6,
+      "unit_code": "length-fathom",
+      "categoria": "length",
+      "nombre": "brazas",
+      "abreviatura": "ftm",
+      "forma_estrecha": "ftm",
+      "patron": "{0} brazas"
+    },
+    {
+      "id": 7,
+      "unit_code": "length-foot",
+      "categoria": "length",
+      "nombre": "pies",
+      "abreviatura": "ft",
+      "forma_estrecha": "ft",
+      "patron": "{0} pies"
+    },
+    {
+      "id": 8,
+      "unit_code": "length-furlong",
+      "categoria": "length",
+      "nombre": "furlongs",
+      "abreviatura": "fur",
+      "forma_estrecha": "fur",
+      "patron": "{0} furlongs"
+    },
+    {
+      "id": 9,
+      "unit_code": "length-inch",
+      "categoria": "length",
+      "nombre": "pulgadas",
+      "abreviatura": "in",
+      "forma_estrecha": "in",
+      "patron": "{0} pulgadas"
+    },
+    {
+      "id": 10,
+      "unit_code": "length-jo-jp",
+      "categoria": "length",
+      "nombre": "jo [JP]",
+      "abreviatura": "jo [JP]",
+      "forma_estrecha": "jo [JP]",
+      "patron": "{0} jo [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "length-ken",
+      "categoria": "length",
+      "nombre": "ken [JP]",
+      "abreviatura": "ken [JP]",
+      "forma_estrecha": "ken [JP]",
+      "patron": "{0} ken [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "length-kilometer",
+      "categoria": "length",
+      "nombre": "kilómetros",
+      "abreviatura": "km",
+      "forma_estrecha": "km",
+      "patron": "{0} kilómetros"
+    },
+    {
+      "id": 13,
+      "unit_code": "length-light-year",
+      "categoria": "length",
+      "nombre": "años luz",
+      "abreviatura": "a. l.",
+      "forma_estrecha": "al",
+      "patron": "{0} años luz"
+    },
+    {
+      "id": 14,
+      "unit_code": "length-meter",
+      "categoria": "length",
+      "nombre": "metros",
+      "abreviatura": "m",
+      "forma_estrecha": "m",
+      "patron": "{0} metros"
+    },
+    {
+      "id": 15,
+      "unit_code": "length-micrometer",
+      "categoria": "length",
+      "nombre": "micrómetros",
+      "abreviatura": "μm",
+      "forma_estrecha": "μm",
+      "patron": "{0} micrómetros"
+    },
+    {
+      "id": 16,
+      "unit_code": "length-mile",
+      "categoria": "length",
+      "nombre": "millas",
+      "abreviatura": "mi",
+      "forma_estrecha": "mi",
+      "patron": "{0} millas"
+    },
+    {
+      "id": 17,
+      "unit_code": "length-mile-scandinavian",
+      "categoria": "length",
+      "nombre": "millas escandinavas",
+      "abreviatura": "mi esc.",
+      "forma_estrecha": "mi esc",
+      "patron": "{0} millas escandinavas"
+    },
+    {
+      "id": 18,
+      "unit_code": "length-millimeter",
+      "categoria": "length",
+      "nombre": "milímetros",
+      "abreviatura": "mm",
+      "forma_estrecha": "mm",
+      "patron": "{0} milímetros"
+    },
+    {
+      "id": 19,
+      "unit_code": "length-nanometer",
+      "categoria": "length",
+      "nombre": "nanómetros",
+      "abreviatura": "nm",
+      "forma_estrecha": "nm",
+      "patron": "{0} nanómetros"
+    },
+    {
+      "id": 20,
+      "unit_code": "length-nautical-mile",
+      "categoria": "length",
+      "nombre": "millas náuticas",
+      "abreviatura": "M",
+      "forma_estrecha": "M",
+      "patron": "{0} millas náuticas"
+    },
+    {
+      "id": 21,
+      "unit_code": "length-parsec",
+      "categoria": "length",
+      "nombre": "parsecs",
+      "abreviatura": "pc",
+      "forma_estrecha": "pc",
+      "patron": "{0} parsecs"
+    },
+    {
+      "id": 22,
+      "unit_code": "length-picometer",
+      "categoria": "length",
+      "nombre": "picómetros",
+      "abreviatura": "pm",
+      "forma_estrecha": "pm",
+      "patron": "{0} picómetros"
+    },
+    {
+      "id": 23,
+      "unit_code": "length-point",
+      "categoria": "length",
+      "nombre": "puntos",
+      "abreviatura": "ptos.",
+      "forma_estrecha": "ptos",
+      "patron": "{0} puntos"
+    },
+    {
+      "id": 24,
+      "unit_code": "length-ri-jp",
+      "categoria": "length",
+      "nombre": "ri [JP]",
+      "abreviatura": "ri [JP]",
+      "forma_estrecha": "ri [JP]",
+      "patron": "{0} ri [JP]"
+    },
+    {
+      "id": 25,
+      "unit_code": "length-rin",
+      "categoria": "length",
+      "nombre": "rin [JP]",
+      "abreviatura": "rin [JP]",
+      "forma_estrecha": "rin [JP]",
+      "patron": "{0} rin [JP]"
+    },
+    {
+      "id": 26,
+      "unit_code": "length-rod",
+      "categoria": "length",
+      "nombre": "rod",
+      "abreviatura": "rod",
+      "forma_estrecha": "rod",
+      "patron": "{0} rod"
+    },
+    {
+      "id": 27,
+      "unit_code": "length-shaku-cloth",
+      "categoria": "length",
+      "nombre": "shaku [cloth, JP]",
+      "abreviatura": "shaku [cloth, JP]",
+      "forma_estrecha": "shaku [cloth, JP]",
+      "patron": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 28,
+      "unit_code": "length-shaku-length",
+      "categoria": "length",
+      "nombre": "shaku [JP]",
+      "abreviatura": "shaku [JP]",
+      "forma_estrecha": "shaku [JP]",
+      "patron": "{0} shaku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "length-solar-radius",
+      "categoria": "length",
+      "nombre": "radios solares",
+      "abreviatura": "R☉",
+      "forma_estrecha": "R☉",
+      "patron": "{0} radios solares"
+    },
+    {
+      "id": 30,
+      "unit_code": "length-sun",
+      "categoria": "length",
+      "nombre": "sun [JP]",
+      "abreviatura": "sun [JP]",
+      "forma_estrecha": "sun [JP]",
+      "patron": "{0} sun [JP]"
+    },
+    {
+      "id": 31,
+      "unit_code": "length-yard",
+      "categoria": "length",
+      "nombre": "yardas",
+      "abreviatura": "yd",
+      "forma_estrecha": "yd",
+      "patron": "{0} yardas"
+    }
+  ],
+  "meta": {
+    "title": "Unidades de medida — categoría 'length' (31) - Descarga gratuita",
+    "description": "Unidades de medida de la categoría 'length' de la configuración regional es en CLDR, con nombres en español. Contiene 31 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Unidades de medida — categoría 'length' (31) | ListBase",
+    "seo_description": "Descargar Unidades de medida — categoría 'length' (31) — 31 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 31 registros / 7 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}

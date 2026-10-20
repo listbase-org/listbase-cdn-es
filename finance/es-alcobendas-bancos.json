@@ -1,0 +1,100 @@
+{
+  "id": "es-alcobendas-bancos",
+  "name": "Bancos en Alcobendas — códigos SWIFT/BIC",
+  "title": "Bancos en Alcobendas — códigos SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"ALCOBENDAS\" (7 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 31,
+      "bank": "ALLFUNDS BANK",
+      "city": "ALCOBENDAS",
+      "branch": "",
+      "swift_code": "ALLFESMM"
+    },
+    {
+      "id": 598,
+      "bank": "EVER CAPITAL INVESTMENTS S.V., S.A.",
+      "city": "ALCOBENDAS",
+      "branch": "",
+      "swift_code": "ECIVES21"
+    },
+    {
+      "id": 672,
+      "bank": "INDRA SISTEMAS, S.A.",
+      "city": "ALCOBENDAS",
+      "branch": "",
+      "swift_code": "ISSAESM1"
+    },
+    {
+      "id": 693,
+      "bank": "IRUS CENTER LAS ROZAS, S.L.U.",
+      "city": "ALCOBENDAS",
+      "branch": "",
+      "swift_code": "IRRSES22"
+    },
+    {
+      "id": 763,
+      "bank": "NEINVER, S.A.",
+      "city": "ALCOBENDAS",
+      "branch": "",
+      "swift_code": "NENVES22"
+    },
+    {
+      "id": 784,
+      "bank": "PKB PRIVATBANK AG",
+      "city": "ALCOBENDAS",
+      "branch": "",
+      "swift_code": "PKBSES21"
+    },
+    {
+      "id": 927,
+      "bank": "VOLKSWAGEN BANK GMBH SPANISH BRANCH",
+      "city": "ALCOBENDAS",
+      "branch": "",
+      "swift_code": "VOWAES21"
+    }
+  ],
+  "meta": {
+    "title": "Bancos en Alcobendas — códigos SWIFT/BIC - Descarga gratuita",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ES located in the city the source records verbatim as \"ALCOBENDAS\" (7 institutions). Contiene 7 registros. Descargar en formatos Excel, CSV, PDF.",
+    "seo_title": "Bancos en Alcobendas — códigos SWIFT/BIC | ListBase",
+    "seo_description": "Descargar Bancos en Alcobendas — códigos SWIFT/BIC — 7 registros. Disponible en formatos Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 7 registros / 5 campos",
+      "Descarga gratuita en formatos Excel, CSV y PDF",
+      "Fuente de datos: open data"
+    ]
+  }
+}
