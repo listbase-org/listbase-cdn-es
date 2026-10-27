@@ -1,0 +1,240 @@
+{
+  "id": "es-premio-cervantes",
+  "name": "Premio Miguel de Cervantes — galardonados",
+  "title": "Premio Miguel de Cervantes — galardonados",
+  "description": "Escritores galardonados con el Premio Cervantes, máximo reconocimiento de las letras en español, desde 1976.",
+  "category": "culture",
+  "source": "https://es.wikipedia.org/wiki/Premio_Miguel_de_Cervantes",
+  "source_url": "https://es.wikipedia.org/wiki/Premio_Miguel_de_Cervantes",
+  "updated": "2026-10",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "anio",
+      "label": "Anio",
+      "type": "number"
+    },
+    {
+      "key": "autor",
+      "label": "Autor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "anio": 1976,
+      "autor": "Jorge Guillén"
+    },
+    {
+      "anio": 1977,
+      "autor": "Alejo Carpentier"
+    },
+    {
+      "anio": 1978,
+      "autor": "Dámaso Alonso"
+    },
+    {
+      "anio": "1979 ( ex aequo )",
+      "autor": "Jorge Luis Borges"
+    },
+    {
+      "anio": "1979 ( ex aequo )",
+      "autor": "Gerardo Diego"
+    },
+    {
+      "anio": 1980,
+      "autor": "Juan Carlos Onetti"
+    },
+    {
+      "anio": 1981,
+      "autor": "Octavio Paz"
+    },
+    {
+      "anio": 1982,
+      "autor": "Luis Rosales"
+    },
+    {
+      "anio": 1983,
+      "autor": "Rafael Alberti"
+    },
+    {
+      "anio": 1984,
+      "autor": "Ernesto Sabato"
+    },
+    {
+      "anio": 1985,
+      "autor": "Gonzalo Torrente Ballester"
+    },
+    {
+      "anio": 1986,
+      "autor": "Antonio Buero Vallejo"
+    },
+    {
+      "anio": 1987,
+      "autor": "Carlos Fuentes"
+    },
+    {
+      "anio": 1988,
+      "autor": "María Zambrano"
+    },
+    {
+      "anio": 1989,
+      "autor": "Augusto Roa Bastos"
+    },
+    {
+      "anio": 1990,
+      "autor": "Adolfo Bioy Casares"
+    },
+    {
+      "anio": 1991,
+      "autor": "Francisco Ayala"
+    },
+    {
+      "anio": 1992,
+      "autor": "Dulce María Loynaz"
+    },
+    {
+      "anio": 1993,
+      "autor": "Miguel Delibes"
+    },
+    {
+      "anio": 1994,
+      "autor": "Mario Vargas Llosa"
+    },
+    {
+      "anio": 1995,
+      "autor": "Camilo José Cela"
+    },
+    {
+      "anio": 1996,
+      "autor": "José García Nieto"
+    },
+    {
+      "anio": 1997,
+      "autor": "Guillermo Cabrera Infante"
+    },
+    {
+      "anio": 1998,
+      "autor": "José Hierro"
+    },
+    {
+      "anio": 1999,
+      "autor": "Jorge Edwards"
+    },
+    {
+      "anio": 2000,
+      "autor": "Francisco Umbral"
+    },
+    {
+      "anio": 2001,
+      "autor": "Álvaro Mutis"
+    },
+    {
+      "anio": 2002,
+      "autor": "José Jiménez Lozano"
+    },
+    {
+      "anio": 2003,
+      "autor": "Gonzalo Rojas"
+    },
+    {
+      "anio": 2004,
+      "autor": "Rafael Sánchez Ferlosio"
+    },
+    {
+      "anio": 2005,
+      "autor": "Sergio Pitol"
+    },
+    {
+      "anio": 2006,
+      "autor": "Antonio Gamoneda"
+    },
+    {
+      "anio": 2007,
+      "autor": "Juan Gelman"
+    },
+    {
+      "anio": 2008,
+      "autor": "Juan Marsé"
+    },
+    {
+      "anio": 2009,
+      "autor": "José Emilio Pacheco"
+    },
+    {
+      "anio": 2010,
+      "autor": "Ana María Matute"
+    },
+    {
+      "anio": 2011,
+      "autor": "Nicanor Parra"
+    },
+    {
+      "anio": 2012,
+      "autor": "José Manuel Caballero Bonald"
+    },
+    {
+      "anio": 2013,
+      "autor": "Elena Poniatowska"
+    },
+    {
+      "anio": 2014,
+      "autor": "Juan Goytisolo"
+    },
+    {
+      "anio": 2015,
+      "autor": "Fernando del Paso"
+    },
+    {
+      "anio": 2016,
+      "autor": "Eduardo Mendoza"
+    },
+    {
+      "anio": 2017,
+      "autor": "Sergio Ramírez"
+    },
+    {
+      "anio": 2018,
+      "autor": "Ida Vitale"
+    },
+    {
+      "anio": 2019,
+      "autor": "Joan Margarit"
+    },
+    {
+      "anio": 2020,
+      "autor": "Francisco Brines"
+    },
+    {
+      "anio": 2021,
+      "autor": "Cristina Peri Rossi"
+    },
+    {
+      "anio": 2022,
+      "autor": "Rafael Cadenas"
+    },
+    {
+      "anio": 2023,
+      "autor": "Luis Mateo Díez"
+    },
+    {
+      "anio": 2024,
+      "autor": "Álvaro Pombo"
+    },
+    {
+      "anio": 2025,
+      "autor": "Gonzalo Celorio"
+    }
+  ],
+  "meta": {
+    "title": "Premio Miguel de Cervantes — galardonados - Free Download",
+    "description": "Escritores galardonados con el Premio Cervantes, máximo reconocimiento de las letras en español, desde 1976. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Premio Miguel de Cervantes — galardonados | ListBase",
+    "seo_description": "Download Premio Miguel de Cervantes — galardonados — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Premio_Miguel_de_Cervantes"
+    ]
+  }
+}
