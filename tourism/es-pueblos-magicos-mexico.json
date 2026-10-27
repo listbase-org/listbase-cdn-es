@@ -1,0 +1,926 @@
+{
+  "id": "es-pueblos-magicos-mexico",
+  "name": "Pueblos Mágicos de México",
+  "title": "Pueblos Mágicos de México",
+  "description": "Localidades de México con nombramiento de Pueblo Mágico, por estado y fecha de inscripción.",
+  "category": "tourism",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Pueblos_mágicos",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Pueblos_mágicos",
+  "updated": "2026-10",
+  "record_count": 177,
+  "columns": [
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    },
+    {
+      "key": "localidad",
+      "label": "Localidad",
+      "type": "string"
+    },
+    {
+      "key": "fecha_inscripcion",
+      "label": "Fecha Inscripcion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "estado": "Aguascalientes",
+      "localidad": "Calvillo",
+      "fecha_inscripcion": "1 de noviembre de 2012"
+    },
+    {
+      "estado": "Aguascalientes",
+      "localidad": "Pabellón de Hidalgo",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Aguascalientes",
+      "localidad": "Real de Asientos",
+      "fecha_inscripcion": "30 de octubre de 2006"
+    },
+    {
+      "estado": "Aguascalientes",
+      "localidad": "San José de Gracia",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Baja California",
+      "localidad": "Tecate",
+      "fecha_inscripcion": "2012"
+    },
+    {
+      "estado": "Baja California Sur",
+      "localidad": "Loreto",
+      "fecha_inscripcion": "13 de junio de 2012"
+    },
+    {
+      "estado": "Baja California Sur",
+      "localidad": "Santa Rosalía",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Baja California Sur",
+      "localidad": "Todos Santos",
+      "fecha_inscripcion": "2006"
+    },
+    {
+      "estado": "Campeche",
+      "localidad": "Candelaria",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Campeche",
+      "localidad": "Isla Aguada",
+      "fecha_inscripcion": "1 de diciembre de 2020"
+    },
+    {
+      "estado": "Campeche",
+      "localidad": "Palizada",
+      "fecha_inscripcion": "4 de octubre de 2010"
+    },
+    {
+      "estado": "Chiapas",
+      "localidad": "Chiapa de Corzo",
+      "fecha_inscripcion": "9 de octubre de 2012"
+    },
+    {
+      "estado": "Chiapas",
+      "localidad": "Comitán de Domínguez",
+      "fecha_inscripcion": "9 de octubre de 2012"
+    },
+    {
+      "estado": "Chiapas",
+      "localidad": "Copainalá",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Chiapas",
+      "localidad": "Ocozocoautla de Espinosa",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Chiapas",
+      "localidad": "Palenque",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Chiapas",
+      "localidad": "San Cristóbal de las Casas",
+      "fecha_inscripcion": "2003"
+    },
+    {
+      "estado": "Chihuahua",
+      "localidad": "Batopilas de Manuel Gómez Morín",
+      "fecha_inscripcion": "19 de octubre de 2012"
+    },
+    {
+      "estado": "Chihuahua",
+      "localidad": "Casas Grandes",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Chihuahua",
+      "localidad": "Creel",
+      "fecha_inscripcion": "2007"
+    },
+    {
+      "estado": "Chihuahua",
+      "localidad": "Guachochi",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Chihuahua",
+      "localidad": "Hidalgo del Parral",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Coahuila",
+      "localidad": "Arteaga",
+      "fecha_inscripcion": "2012"
+    },
+    {
+      "estado": "Coahuila",
+      "localidad": "Candela",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Coahuila",
+      "localidad": "Cuatrociénegas de Carranza",
+      "fecha_inscripcion": "2012"
+    },
+    {
+      "estado": "Coahuila",
+      "localidad": "General Cepeda",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Coahuila",
+      "localidad": "Guerrero",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Coahuila",
+      "localidad": "Melchor Múzquiz",
+      "fecha_inscripcion": "11 de octubre de 2018"
+    },
+    {
+      "estado": "Coahuila",
+      "localidad": "Parras de la Fuente",
+      "fecha_inscripcion": "2004"
+    },
+    {
+      "estado": "Coahuila",
+      "localidad": "Viesca",
+      "fecha_inscripcion": "2012"
+    },
+    {
+      "estado": "Colima",
+      "localidad": "Comala",
+      "fecha_inscripcion": "2002"
+    },
+    {
+      "estado": "Durango",
+      "localidad": "Mapimí",
+      "fecha_inscripcion": "27 de noviembre de 2012"
+    },
+    {
+      "estado": "Durango",
+      "localidad": "Nombre de Dios",
+      "fecha_inscripcion": "11 de octubre de 2018"
+    },
+    {
+      "estado": "Estado de México",
+      "localidad": "Aculco de Espinoza",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Estado de México",
+      "localidad": "El Oro de Hidalgo",
+      "fecha_inscripcion": "2011"
+    },
+    {
+      "estado": "Estado de México",
+      "localidad": "Ixtapan de la Sal",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Estado de México",
+      "localidad": "Jilotepec de Molina Enríquez",
+      "fecha_inscripcion": "27 de septiembre de 2024"
+    },
+    {
+      "estado": "Estado de México",
+      "localidad": "Malinalco",
+      "fecha_inscripcion": "25 de octubre de 2010"
+    },
+    {
+      "estado": "Estado de México",
+      "localidad": "Metepec",
+      "fecha_inscripcion": "14 de septiembre de 2012"
+    },
+    {
+      "estado": "Estado de México",
+      "localidad": "Otumba de Gómez Farías",
+      "fecha_inscripcion": "27 de septiembre de 2024"
+    },
+    {
+      "estado": "Estado de México",
+      "localidad": "Teotihuacán San Juan Teotihuacán y San Martín de las Pirámides",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Estado de México",
+      "localidad": "Tepotzotlán",
+      "fecha_inscripcion": "18 de agosto de 2002"
+    },
+    {
+      "estado": "Estado de México",
+      "localidad": "Tonatico",
+      "fecha_inscripcion": "1 de diciembre de 2020"
+    },
+    {
+      "estado": "Estado de México",
+      "localidad": "Valle de Bravo",
+      "fecha_inscripcion": "2 de marzo de 2005"
+    },
+    {
+      "estado": "Estado de México",
+      "localidad": "Villa del Carbón",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Guanajuato",
+      "localidad": "Comonfort",
+      "fecha_inscripcion": "11 de octubre de 2018"
+    },
+    {
+      "estado": "Guanajuato",
+      "localidad": "Dolores Hidalgo",
+      "fecha_inscripcion": "18 de agosto de 2002"
+    },
+    {
+      "estado": "Guanajuato",
+      "localidad": "Jalpa de Cánovas",
+      "fecha_inscripcion": "2012"
+    },
+    {
+      "estado": "Guanajuato",
+      "localidad": "Mineral de Pozos",
+      "fecha_inscripcion": "2012"
+    },
+    {
+      "estado": "Guanajuato",
+      "localidad": "Salvatierra",
+      "fecha_inscripcion": "2012"
+    },
+    {
+      "estado": "Guanajuato",
+      "localidad": "Yuriria",
+      "fecha_inscripcion": "2012"
+    },
+    {
+      "estado": "Guerrero",
+      "localidad": "Ixcateopan de Cuauhtémoc",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Guerrero",
+      "localidad": "Taxco de Alarcón",
+      "fecha_inscripcion": "2002"
+    },
+    {
+      "estado": "Guerrero",
+      "localidad": "Zihuatanejo",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Hidalgo",
+      "localidad": "Acaxochitlán",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Hidalgo",
+      "localidad": "Huasca de Ocampo",
+      "fecha_inscripcion": "5 de octubre de 2001"
+    },
+    {
+      "estado": "Hidalgo",
+      "localidad": "Huichapan",
+      "fecha_inscripcion": "2012"
+    },
+    {
+      "estado": "Hidalgo",
+      "localidad": "Metztitlán",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Hidalgo",
+      "localidad": "Mineral del Chico",
+      "fecha_inscripcion": "9 de agosto de 2011"
+    },
+    {
+      "estado": "Hidalgo",
+      "localidad": "Real del Monte",
+      "fecha_inscripcion": "28 de agosto de 2004"
+    },
+    {
+      "estado": "Hidalgo",
+      "localidad": "Tecozautla",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Hidalgo",
+      "localidad": "Zempoala",
+      "fecha_inscripcion": "1 de diciembre de 2020"
+    },
+    {
+      "estado": "Hidalgo",
+      "localidad": "Zimapán",
+      "fecha_inscripcion": "11 de octubre de 2018"
+    },
+    {
+      "estado": "Jalisco",
+      "localidad": "Ajijic",
+      "fecha_inscripcion": "1 de diciembre de 2020"
+    },
+    {
+      "estado": "Jalisco",
+      "localidad": "Cocula",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Jalisco",
+      "localidad": "Lagos de Moreno",
+      "fecha_inscripcion": "15 de noviembre de 2012"
+    },
+    {
+      "estado": "Jalisco",
+      "localidad": "Mascota",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Jalisco",
+      "localidad": "Mazamitla",
+      "fecha_inscripcion": "15 de agosto de 2005"
+    },
+    {
+      "estado": "Jalisco",
+      "localidad": "San Sebastián del Oeste",
+      "fecha_inscripcion": "8 de diciembre de 2011"
+    },
+    {
+      "estado": "Jalisco",
+      "localidad": "Sayula",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Jalisco",
+      "localidad": "Talpa de Allende",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Jalisco",
+      "localidad": "Tapalpa",
+      "fecha_inscripcion": "6 de mayo de 2002"
+    },
+    {
+      "estado": "Jalisco",
+      "localidad": "Temacapulín",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Jalisco",
+      "localidad": "Tequila",
+      "fecha_inscripcion": "2003"
+    },
+    {
+      "estado": "Jalisco",
+      "localidad": "San Pedro Tlaquepaque",
+      "fecha_inscripcion": "11 de octubre de 2018"
+    },
+    {
+      "estado": "Michoacán",
+      "localidad": "Mineral de Angangueo",
+      "fecha_inscripcion": "20 de marzo de 2012"
+    },
+    {
+      "estado": "Michoacán",
+      "localidad": "Cotija de la Paz",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Michoacán",
+      "localidad": "Cuitzeo del Porvenir",
+      "fecha_inscripcion": "1 de noviembre de 2006"
+    },
+    {
+      "estado": "Michoacán",
+      "localidad": "Jiquilpan de Juárez",
+      "fecha_inscripcion": "27 de noviembre de 2012"
+    },
+    {
+      "estado": "Michoacán",
+      "localidad": "Paracho de Verduzco",
+      "fecha_inscripcion": "1 de diciembre de 2020"
+    },
+    {
+      "estado": "Michoacán",
+      "localidad": "Pátzcuaro",
+      "fecha_inscripcion": "6 de junio de 2002"
+    },
+    {
+      "estado": "Michoacán",
+      "localidad": "Santa Clara del Cobre",
+      "fecha_inscripcion": "30 de agosto de 2010"
+    },
+    {
+      "estado": "Michoacán",
+      "localidad": "Tacámbaro de Codallos",
+      "fecha_inscripcion": "21 de noviembre de 2012"
+    },
+    {
+      "estado": "Michoacán",
+      "localidad": "Tlalpujahua de Rayón",
+      "fecha_inscripcion": "27 de junio de 2005"
+    },
+    {
+      "estado": "Michoacán",
+      "localidad": "Tzintzuntzan",
+      "fecha_inscripcion": "17 de noviembre de 2012"
+    },
+    {
+      "estado": "Morelos",
+      "localidad": "Tepoztlán",
+      "fecha_inscripcion": "2001"
+    },
+    {
+      "estado": "Morelos",
+      "localidad": "Tlaltizapán de Zapata",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Morelos",
+      "localidad": "Tlayacapan",
+      "fecha_inscripcion": "agosto de 2011"
+    },
+    {
+      "estado": "Morelos",
+      "localidad": "Xochitepec",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Nayarit",
+      "localidad": "Ahuacatlán",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Nayarit",
+      "localidad": "Amatlán de Cañas",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Nayarit",
+      "localidad": "Compostela",
+      "fecha_inscripcion": "11 de octubre de 2018"
+    },
+    {
+      "estado": "Nayarit",
+      "localidad": "Ixtlán del Río",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Nayarit",
+      "localidad": "Ciudad Jala",
+      "fecha_inscripcion": "2012"
+    },
+    {
+      "estado": "Nayarit",
+      "localidad": "Mexcaltitán de Uribe",
+      "fecha_inscripcion": "2001"
+    },
+    {
+      "estado": "Nayarit",
+      "localidad": "Puerto Balleto",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Nayarit",
+      "localidad": "San Blas",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Nayarit",
+      "localidad": "Sayulita",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Nuevo León",
+      "localidad": "Bustamante",
+      "fecha_inscripcion": "11 de octubre de 2018"
+    },
+    {
+      "estado": "Nuevo León",
+      "localidad": "General Terán",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Nuevo León",
+      "localidad": "General Zaragoza",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Nuevo León",
+      "localidad": "Linares",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Nuevo León",
+      "localidad": "Santiago",
+      "fecha_inscripcion": "2006"
+    },
+    {
+      "estado": "Oaxaca",
+      "localidad": "Capulálpam de Méndez",
+      "fecha_inscripcion": "2007"
+    },
+    {
+      "estado": "Oaxaca",
+      "localidad": "Huautla de Jiménez",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Oaxaca",
+      "localidad": "Santa Catarina Juquila",
+      "fecha_inscripcion": "1 de diciembre de 2020"
+    },
+    {
+      "estado": "Oaxaca",
+      "localidad": "Mazunte",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Oaxaca",
+      "localidad": "San Pablo Villa de Mitla",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Oaxaca",
+      "localidad": "San Pedro y San Pablo Teposcolula",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Puebla",
+      "localidad": "Atlixco de las Flores",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Puebla",
+      "localidad": "Chignahuapan",
+      "fecha_inscripcion": "30 de octubre de 2012"
+    },
+    {
+      "estado": "Puebla",
+      "localidad": "Cholula San Andrés Cholula y San Pedro Cholula",
+      "fecha_inscripcion": "30 de octubre de 2012"
+    },
+    {
+      "estado": "Puebla",
+      "localidad": "Cuetzalan del Progreso",
+      "fecha_inscripcion": "11 de marzo de 2002"
+    },
+    {
+      "estado": "Puebla",
+      "localidad": "Huauchinango",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Puebla",
+      "localidad": "Huejotzingo de Nieva",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Puebla",
+      "localidad": "Pahuatlán del Valle",
+      "fecha_inscripcion": "23 de marzo de 2012"
+    },
+    {
+      "estado": "Puebla",
+      "localidad": "Tetela de Ocampo",
+      "fecha_inscripcion": "1 de diciembre de 2020"
+    },
+    {
+      "estado": "Puebla",
+      "localidad": "Teziutlán",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Puebla",
+      "localidad": "Tlatlauquitepec",
+      "fecha_inscripcion": "28 de noviembre de 2012"
+    },
+    {
+      "estado": "Puebla",
+      "localidad": "Xicotepec de Juárez",
+      "fecha_inscripcion": "2 de diciembre de 2012"
+    },
+    {
+      "estado": "Puebla",
+      "localidad": "Zacatlán de las Manzanas",
+      "fecha_inscripcion": "27 de abril de 2011"
+    },
+    {
+      "estado": "Querétaro",
+      "localidad": "Amealco de Bonfil",
+      "fecha_inscripcion": "11 de octubre de 2018"
+    },
+    {
+      "estado": "Querétaro",
+      "localidad": "San Sebastian Bernal",
+      "fecha_inscripcion": "2005"
+    },
+    {
+      "estado": "Querétaro",
+      "localidad": "Cadereyta de Montes",
+      "fecha_inscripcion": "2011"
+    },
+    {
+      "estado": "Querétaro",
+      "localidad": "Jalpan de Serra",
+      "fecha_inscripcion": "19 de octubre de 2010"
+    },
+    {
+      "estado": "Querétaro",
+      "localidad": "Pinal de Amoles",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Querétaro",
+      "localidad": "San Joaquín",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Querétaro",
+      "localidad": "Tequisquiapan",
+      "fecha_inscripcion": "16 de octubre de 2012"
+    },
+    {
+      "estado": "Quintana Roo",
+      "localidad": "Bacalar",
+      "fecha_inscripcion": "2006"
+    },
+    {
+      "estado": "Quintana Roo",
+      "localidad": "San Miguel de Cozumel",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Quintana Roo",
+      "localidad": "Isla Mujeres",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Quintana Roo",
+      "localidad": "Tulum",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "San Luis Potosí",
+      "localidad": "Aquismón",
+      "fecha_inscripcion": "11 de octubre de 2018"
+    },
+    {
+      "estado": "San Luis Potosí",
+      "localidad": "Ciudad del Maíz",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "San Luis Potosí",
+      "localidad": "Real de Catorce",
+      "fecha_inscripcion": "2001"
+    },
+    {
+      "estado": "San Luis Potosí",
+      "localidad": "Santa María del Río",
+      "fecha_inscripcion": "1 de diciembre de 2020"
+    },
+    {
+      "estado": "San Luis Potosí",
+      "localidad": "Tierranueva",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "San Luis Potosí",
+      "localidad": "Xilitla",
+      "fecha_inscripcion": "12 de diciembre de 2011"
+    },
+    {
+      "estado": "Sinaloa",
+      "localidad": "Cosalá",
+      "fecha_inscripcion": "2005"
+    },
+    {
+      "estado": "Sinaloa",
+      "localidad": "El Fuerte",
+      "fecha_inscripcion": "16 de julio de 2009"
+    },
+    {
+      "estado": "Sinaloa",
+      "localidad": "El Rosario",
+      "fecha_inscripcion": "2012"
+    },
+    {
+      "estado": "Sinaloa",
+      "localidad": "Mocorito",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Sinaloa",
+      "localidad": "San Ignacio",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Sonora",
+      "localidad": "Álamos",
+      "fecha_inscripcion": "2005"
+    },
+    {
+      "estado": "Sonora",
+      "localidad": "Magdalena de Kino",
+      "fecha_inscripcion": "22 de marzo de 2012"
+    },
+    {
+      "estado": "Sonora",
+      "localidad": "San Carlos",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Sonora",
+      "localidad": "Ures",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Tabasco",
+      "localidad": "Frontera",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Tabasco",
+      "localidad": "Tapijulapa",
+      "fecha_inscripcion": "9 de junio de 2010"
+    },
+    {
+      "estado": "Tabasco",
+      "localidad": "Santiago de Teapa",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Tamaulipas",
+      "localidad": "Ciudad Mier",
+      "fecha_inscripcion": "5 de diciembre de 2007"
+    },
+    {
+      "estado": "Tamaulipas",
+      "localidad": "Ciudad Tula",
+      "fecha_inscripcion": "20 de octubre de 2011"
+    },
+    {
+      "estado": "Tlaxcala",
+      "localidad": "Huamantla",
+      "fecha_inscripcion": "14 de agosto de 2007"
+    },
+    {
+      "estado": "Tlaxcala",
+      "localidad": "Ixtenco",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Tlaxcala",
+      "localidad": "Tlaxco",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Veracruz",
+      "localidad": "Coatepec",
+      "fecha_inscripcion": "17 de agosto de 2006"
+    },
+    {
+      "estado": "Veracruz",
+      "localidad": "Córdoba",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Veracruz",
+      "localidad": "Coscomatepec de Bravo",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Veracruz",
+      "localidad": "Naolinco de Victoria",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Veracruz",
+      "localidad": "Orizaba",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Veracruz",
+      "localidad": "Papantla de Olarte",
+      "fecha_inscripcion": "2006"
+    },
+    {
+      "estado": "Veracruz",
+      "localidad": "Xico",
+      "fecha_inscripcion": "2011"
+    },
+    {
+      "estado": "Veracruz",
+      "localidad": "Zozocolco de Hidalgo",
+      "fecha_inscripcion": "25 de septiembre de 2015"
+    },
+    {
+      "estado": "Yucatán",
+      "localidad": "Espita",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Yucatán",
+      "localidad": "Izamal",
+      "fecha_inscripcion": "16 de febrero de 2002"
+    },
+    {
+      "estado": "Yucatán",
+      "localidad": "Maní",
+      "fecha_inscripcion": "1 de diciembre de 2020"
+    },
+    {
+      "estado": "Yucatán",
+      "localidad": "Motul de Carrillo Puerto",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Yucatán",
+      "localidad": "Sisal",
+      "fecha_inscripcion": "1 de diciembre de 2020"
+    },
+    {
+      "estado": "Yucatán",
+      "localidad": "Tekax",
+      "fecha_inscripcion": "26 de junio de 2023"
+    },
+    {
+      "estado": "Yucatán",
+      "localidad": "Valladolid",
+      "fecha_inscripcion": "30 de agosto de 2012"
+    },
+    {
+      "estado": "Zacatecas",
+      "localidad": "Guadalupe",
+      "fecha_inscripcion": "11 de octubre de 2018"
+    },
+    {
+      "estado": "Zacatecas",
+      "localidad": "Jerez de García Salinas",
+      "fecha_inscripcion": "13 de julio de 2007"
+    },
+    {
+      "estado": "Zacatecas",
+      "localidad": "Nochistlán de Mejía",
+      "fecha_inscripcion": "26 de noviembre de 2012"
+    },
+    {
+      "estado": "Zacatecas",
+      "localidad": "Pinos",
+      "fecha_inscripcion": "31 de octubre de 2012"
+    },
+    {
+      "estado": "Zacatecas",
+      "localidad": "Sombrerete",
+      "fecha_inscripcion": "17 de febrero de 2012"
+    },
+    {
+      "estado": "Zacatecas",
+      "localidad": "Teúl de González Ortega",
+      "fecha_inscripcion": "29 de abril de 2011"
+    },
+    {
+      "estado": "Zacatecas",
+      "localidad": "Villanueva",
+      "fecha_inscripcion": "26 de junio de 2023"
+    }
+  ],
+  "meta": {
+    "title": "Pueblos Mágicos de México - Free Download",
+    "description": "Localidades de México con nombramiento de Pueblo Mágico, por estado y fecha de inscripción. Contains 177 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pueblos Mágicos de México | ListBase",
+    "seo_description": "Download Pueblos Mágicos de México — 177 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 177 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Pueblos_mágicos"
+    ]
+  }
+}
