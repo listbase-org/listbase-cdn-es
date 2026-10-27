@@ -1,0 +1,492 @@
+{
+  "id": "es-alimentos-protegidos-andalucia",
+  "name": "Alimentos con denominación de origen de Andalucía",
+  "title": "Alimentos con denominación de origen de Andalucía",
+  "description": "Alimentos y bebidas protegidos (DOP, IGP) de Andalucía, con tipo, año de obtención y sede del consejo regulador.",
+  "category": "agriculture",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Alimentos_protegidos_de_Andalucía",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Alimentos_protegidos_de_Andalucía",
+  "updated": "2026-10",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "producto",
+      "label": "Producto",
+      "type": "string"
+    },
+    {
+      "key": "proteccion",
+      "label": "Proteccion",
+      "type": "string"
+    },
+    {
+      "key": "obtencion",
+      "label": "Obtencion",
+      "type": "number"
+    },
+    {
+      "key": "sede_consejo_regulador",
+      "label": "Sede Consejo Regulador",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tipo": "Aceite de oliva",
+      "producto": "Antequera",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2005",
+      "sede_consejo_regulador": "Antequera"
+    },
+    {
+      "tipo": "Aceite de oliva",
+      "producto": "Baena",
+      "proteccion": "Denominación de origen",
+      "obtencion": "1995",
+      "sede_consejo_regulador": "Baena"
+    },
+    {
+      "tipo": "Aceite de oliva",
+      "producto": "Estepa",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2004",
+      "sede_consejo_regulador": "Estepa"
+    },
+    {
+      "tipo": "Aceite de oliva",
+      "producto": "Lucena",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2009",
+      "sede_consejo_regulador": "Lucena"
+    },
+    {
+      "tipo": "Aceite de oliva",
+      "producto": "Montes de Granada",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2001",
+      "sede_consejo_regulador": "Deifontes"
+    },
+    {
+      "tipo": "Aceite de oliva",
+      "producto": "Montoro-Adamuz",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2007",
+      "sede_consejo_regulador": "Adamuz"
+    },
+    {
+      "tipo": "Aceite de oliva",
+      "producto": "Poniente de Granada",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2003",
+      "sede_consejo_regulador": "Montefrío"
+    },
+    {
+      "tipo": "Aceite de oliva",
+      "producto": "Priego de Córdoba",
+      "proteccion": "Denominación de origen",
+      "obtencion": "1995",
+      "sede_consejo_regulador": "Priego de Córdoba"
+    },
+    {
+      "tipo": "Aceite de oliva",
+      "producto": "Sierra de Cádiz",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2004",
+      "sede_consejo_regulador": "Olvera"
+    },
+    {
+      "tipo": "Aceite de oliva",
+      "producto": "Sierra de Cazorla",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2000",
+      "sede_consejo_regulador": "Cazorla"
+    },
+    {
+      "tipo": "Aceite de oliva",
+      "producto": "Sierra de Segura",
+      "proteccion": "Denominación de origen",
+      "obtencion": "1993",
+      "sede_consejo_regulador": "La Puerta de Segura"
+    },
+    {
+      "tipo": "Aceite de oliva",
+      "producto": "Sierra Mágina",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2004",
+      "sede_consejo_regulador": "Bedmar"
+    },
+    {
+      "tipo": "Carnes y pescados",
+      "producto": "Caballa de Andalucía",
+      "proteccion": "Denominación específica",
+      "obtencion": "2003",
+      "sede_consejo_regulador": "Tomares"
+    },
+    {
+      "tipo": "Carnes y pescados",
+      "producto": "Melva de Andalucía",
+      "proteccion": "Denominación específica",
+      "obtencion": "2003",
+      "sede_consejo_regulador": "Tomares"
+    },
+    {
+      "tipo": "Carnes y pescados",
+      "producto": "Jamón de Jabugo",
+      "proteccion": "Denominación de origen",
+      "obtencion": "1995",
+      "sede_consejo_regulador": "Jabugo"
+    },
+    {
+      "tipo": "Carnes y pescados",
+      "producto": "Jamón de Trevélez",
+      "proteccion": "Denominación específica",
+      "obtencion": "1998",
+      "sede_consejo_regulador": "Trevélez"
+    },
+    {
+      "tipo": "Carnes y pescados",
+      "producto": "Jamón de Los Pedroches",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2006",
+      "sede_consejo_regulador": "Villanueva de Córdoba"
+    },
+    {
+      "tipo": "Carnes y pescados",
+      "producto": "Cordero de las sierras de Segura y La Sagra",
+      "proteccion": "Denominación específica",
+      "obtencion": "2007",
+      "sede_consejo_regulador": "Huéscar"
+    },
+    {
+      "tipo": "Carnes y pescados",
+      "producto": "Jamón de Serón",
+      "proteccion": "Denominación específica",
+      "obtencion": "2014",
+      "sede_consejo_regulador": "Serón"
+    },
+    {
+      "tipo": "Carnes y pescados",
+      "producto": "Mojama de Barbate",
+      "proteccion": "Denominación específica",
+      "obtencion": "2014",
+      "sede_consejo_regulador": "Tomares"
+    },
+    {
+      "tipo": "Carnes y pescados",
+      "producto": "Mojama de Isla Cristina",
+      "proteccion": "Denominación específica",
+      "obtencion": "2014",
+      "sede_consejo_regulador": "Tomares"
+    },
+    {
+      "tipo": "Frutas, hortalizas y legumbres",
+      "producto": "Aceituna Aloreña de Málaga",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2009",
+      "sede_consejo_regulador": "Pizarra"
+    },
+    {
+      "tipo": "Frutas, hortalizas y legumbres",
+      "producto": "Chirimoya de la Costa Tropical",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2002",
+      "sede_consejo_regulador": "Almuñécar"
+    },
+    {
+      "tipo": "Frutas, hortalizas y legumbres",
+      "producto": "Espárrago de Huétor Tájar",
+      "proteccion": "Denominación específica",
+      "obtencion": "1996",
+      "sede_consejo_regulador": "Huétor Tájar"
+    },
+    {
+      "tipo": "Frutas, hortalizas y legumbres",
+      "producto": "Pasas de Málaga",
+      "proteccion": "Denominación de origen",
+      "obtencion": "1996",
+      "sede_consejo_regulador": "Málaga"
+    },
+    {
+      "tipo": "Frutas, hortalizas y legumbres",
+      "producto": "Tomate de La Cañada-Níjar",
+      "proteccion": "Denominación específica",
+      "obtencion": "2008",
+      "sede_consejo_regulador": "Almería"
+    },
+    {
+      "tipo": "Frutas, hortalizas y legumbres",
+      "producto": "Garbanzo de Escacena",
+      "proteccion": "Denominación específica",
+      "obtencion": "2013",
+      "sede_consejo_regulador": "Escacena del Campo"
+    },
+    {
+      "tipo": "Vinagre",
+      "producto": "Vinagre de Montilla-Moriles",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2008",
+      "sede_consejo_regulador": "Montilla"
+    },
+    {
+      "tipo": "Vinagre",
+      "producto": "Vinagre del Condado de Huelva",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2002",
+      "sede_consejo_regulador": "Bollullos Par del Condado"
+    },
+    {
+      "tipo": "Vinagre",
+      "producto": "Vinagre de Jerez",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2000",
+      "sede_consejo_regulador": "Jerez de la Frontera"
+    },
+    {
+      "tipo": "Repostería",
+      "producto": "Alfajor de Medina Sidonia",
+      "proteccion": "Denominación específica",
+      "obtencion": "2004",
+      "sede_consejo_regulador": "Medina Sidonia"
+    },
+    {
+      "tipo": "Repostería",
+      "producto": "Mantecados de Estepa",
+      "proteccion": "Denominación específica",
+      "obtencion": "2009",
+      "sede_consejo_regulador": "Estepa"
+    },
+    {
+      "tipo": "Repostería",
+      "producto": "Mollete de Antequera",
+      "proteccion": "Denominación específica",
+      "obtencion": "2020",
+      "sede_consejo_regulador": "Antequera"
+    },
+    {
+      "tipo": "Repostería",
+      "producto": "Polvorones de Estepa",
+      "proteccion": "Denominación específica",
+      "obtencion": "2014",
+      "sede_consejo_regulador": "Estepa"
+    },
+    {
+      "tipo": "Repostería",
+      "producto": "Pan de Alfacar",
+      "proteccion": "Denominación específica",
+      "obtencion": "2013",
+      "sede_consejo_regulador": "Alfacar"
+    },
+    {
+      "tipo": "Repostería",
+      "producto": "Tortas de aceite de Castilleja de la Cuesta",
+      "proteccion": "Especialidad tradicional garantizada",
+      "obtencion": "2013",
+      "sede_consejo_regulador": "Castilleja de la Cuesta"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Altiplano de Sierra Nevada",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2005",
+      "sede_consejo_regulador": "Cortes de Baza"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Bailén",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2004",
+      "sede_consejo_regulador": "Bailén"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Cádiz",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2005",
+      "sede_consejo_regulador": "Cádiz"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Condado de Huelva",
+      "proteccion": "Denominación de origen",
+      "obtencion": "1962",
+      "sede_consejo_regulador": "Bollullos Par del Condado"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Córdoba",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2004",
+      "sede_consejo_regulador": "Montilla"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Cumbres del Guadalfeo",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2004",
+      "sede_consejo_regulador": "Cádiar"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Desierto de Almería",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2003",
+      "sede_consejo_regulador": "Lucainena de las Torres"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Granada",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2009",
+      "sede_consejo_regulador": "Peligros"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Jerez-Xérèx-Sherry",
+      "proteccion": "Denominación de origen",
+      "obtencion": "1933",
+      "sede_consejo_regulador": "Jerez de la Frontera"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Laderas del Genil",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2003",
+      "sede_consejo_regulador": "Villanueva Mesía"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Laujar-Alpujarra",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2004",
+      "sede_consejo_regulador": "Laujar de Andarax"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Lebrija",
+      "proteccion": "Vino de Calidad",
+      "obtencion": "2009",
+      "sede_consejo_regulador": "Lebrija"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Los Palacios",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2003",
+      "sede_consejo_regulador": "Los Palacios y Villafranca"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Málaga",
+      "proteccion": "Denominación de origen",
+      "obtencion": "1933",
+      "sede_consejo_regulador": "Málaga"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Manzanilla de Sanlúcar",
+      "proteccion": "Denominación de origen",
+      "obtencion": "1977",
+      "sede_consejo_regulador": "Jerez de la Frontera"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Montilla-Moriles",
+      "proteccion": "Denominación de origen",
+      "obtencion": "1944",
+      "sede_consejo_regulador": "Montilla"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Vino Naranja del Condado de Huelva",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2011",
+      "sede_consejo_regulador": "-"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Norte de Almería",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2008",
+      "sede_consejo_regulador": "Vélez-Rubio"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Ribera del Andarax",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2003",
+      "sede_consejo_regulador": "Enix"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Sierra Norte de Sevilla",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2004",
+      "sede_consejo_regulador": "Sanlúcar la Mayor"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Sierra Sur de Jaén",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2003",
+      "sede_consejo_regulador": "Alcalá la Real"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Sierras de Las Estancias y Los Filabres",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2008",
+      "sede_consejo_regulador": "Lucar"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Sierras de Málaga",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2001",
+      "sede_consejo_regulador": "Málaga"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Torreperogil",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2006",
+      "sede_consejo_regulador": "Torreperogil"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Villaviciosa de Córdoba",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2008",
+      "sede_consejo_regulador": "Villaviciosa de Córdoba"
+    },
+    {
+      "tipo": "Otros",
+      "producto": "Brandy de Jerez",
+      "proteccion": "Denominación específica",
+      "obtencion": "1989",
+      "sede_consejo_regulador": "Jerez de la Frontera"
+    },
+    {
+      "tipo": "Otros",
+      "producto": "Miel de Granada",
+      "proteccion": "Denominación de origen",
+      "obtencion": "2002",
+      "sede_consejo_regulador": "Lanjarón"
+    }
+  ],
+  "meta": {
+    "title": "Alimentos con denominación de origen de Andalucía - Free Download",
+    "description": "Alimentos y bebidas protegidos (DOP, IGP) de Andalucía, con tipo, año de obtención y sede del consejo regulador. Contains 63 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Alimentos con denominación de origen de Andalucía | ListBase",
+    "seo_description": "Download Alimentos con denominación de origen de Andalucía — 63 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 63 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Alimentos_protegidos_de_Andalucía"
+    ]
+  }
+}
