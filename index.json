@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:17:50.641Z",
-  "total_datasets": 488,
-  "total_records": 421818,
+  "generated": "2026-10-27T02:17:53.138Z",
+  "total_datasets": 489,
+  "total_records": 421845,
   "categories": [
     {
       "id": "agriculture",
@@ -43,6 +43,10 @@
     {
       "id": "health",
       "dataset_count": 23
+    },
+    {
+      "id": "history",
+      "dataset_count": 1
     },
     {
       "id": "language",
@@ -2229,6 +2233,33 @@
         "xlsx": {
           "name": "es-pais-vasco-hospitales-diagnosticos_ES.xlsx",
           "size": 19266
+        }
+      }
+    },
+    {
+      "id": "es-reyes-de-espana",
+      "name": "Reyes de España",
+      "category": "history",
+      "record_count": 27,
+      "columns": [
+        "nombre",
+        "sobrenombre",
+        "reinado",
+        "nacimiento",
+        "fallecimiento",
+        "consorte"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Reyes_de_España",
+      "updated": "2026-10",
+      "size": 14085,
+      "files": {
+        "csv": {
+          "name": "es-reyes-de-espana_ES.csv",
+          "size": 8947
+        },
+        "xlsx": {
+          "name": "es-reyes-de-espana_ES.xlsx",
+          "size": 10052
         }
       }
     },

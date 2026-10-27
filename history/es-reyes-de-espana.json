@@ -1,0 +1,272 @@
+{
+  "id": "es-reyes-de-espana",
+  "name": "Reyes de España",
+  "title": "Reyes de España",
+  "description": "Monarcas de España desde los Reyes Católicos, con sobrenombre, reinado, nacimiento y fallecimiento.",
+  "category": "history",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Reyes_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Reyes_de_España",
+  "updated": "2026-10",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "sobrenombre",
+      "label": "Sobrenombre",
+      "type": "string"
+    },
+    {
+      "key": "reinado",
+      "label": "Reinado",
+      "type": "string"
+    },
+    {
+      "key": "nacimiento",
+      "label": "Nacimiento",
+      "type": "string"
+    },
+    {
+      "key": "fallecimiento",
+      "label": "Fallecimiento",
+      "type": "string"
+    },
+    {
+      "key": "consorte",
+      "label": "Consorte",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nombre": "Isabel I de Castilla junto con su marido Fernando V desde 1475",
+      "sobrenombre": "la Católica",
+      "reinado": "13 de diciembre de 1474 - 26 de noviembre de 1504 (29 años y 349 días)",
+      "nacimiento": "22 de abril de 1451 Madrigal de las Altas Torres Hija de Juan II de Castilla e Isabel de Portugal",
+      "fallecimiento": "26 de noviembre de 1504 Medina del Campo (53 años) Capilla Real de Granada",
+      "consorte": "Fernando II de Aragón 7 hijos"
+    },
+    {
+      "nombre": "Fernando V de Castilla junto con su mujer Isabel I",
+      "sobrenombre": "el Católico",
+      "reinado": "15 de enero de 1475 - 26 de noviembre de 1504 (29 años y 316 días)",
+      "nacimiento": "10 de marzo de 1452 Sos del Rey Católico Hijo de Juan II de Aragón y Juana Enríquez",
+      "fallecimiento": "23 de enero de 1516 Madrigalejo (63 años) Capilla Real de Granada",
+      "consorte": "Isabel I de Castilla 7 hijos"
+    },
+    {
+      "nombre": "Fernando II de Aragón",
+      "sobrenombre": "el Católico",
+      "reinado": "20 de enero de 1479 - 23 de enero de 1516 (37 años y 3 días)",
+      "nacimiento": "10 de marzo de 1452 Sos del Rey Católico Hijo de Juan II de Aragón y Juana Enríquez",
+      "fallecimiento": "23 de enero de 1516 Madrigalejo (63 años) Capilla Real de Granada",
+      "consorte": "Isabel I de Castilla 7 hijos"
+    },
+    {
+      "nombre": "Juana I de Castilla junto con su marido Felipe (1506) regida por su padre Fernando (1504-1516) y el cardenal Cisneros (1506-7 y 1516-7) junto con su hijo Carlos I desde 1516",
+      "sobrenombre": "la Loca",
+      "reinado": "26 de noviembre de 1504 - 12 de abril de 1555 (50 años y 137 días)",
+      "nacimiento": "6 de noviembre de 1479 Toledo Hija de Isabel I de Castilla y Fernando II de Aragón",
+      "fallecimiento": "12 de abril de 1555 Tordesillas (75 años) Capilla Real de Granada",
+      "consorte": "Felipe I de Castilla 6 hijos"
+    },
+    {
+      "nombre": "Juana I de Aragón junto con su hijo Carlos I",
+      "sobrenombre": "la Loca",
+      "reinado": "23 de enero de 1516 - 12 de abril de 1555 (39 años y 79 días)",
+      "nacimiento": "6 de noviembre de 1479 Toledo Hija de Isabel I de Castilla y Fernando II de Aragón",
+      "fallecimiento": "12 de abril de 1555 Tordesillas (75 años) Capilla Real de Granada",
+      "consorte": "Felipe I de Castilla 6 hijos"
+    },
+    {
+      "nombre": "Felipe I de Castilla junto con su mujer Juana I",
+      "sobrenombre": "el Hermoso",
+      "reinado": "12 de julio de 1506 - 25 de septiembre de 1506 (75 días)",
+      "nacimiento": "22 de junio de 1478 Brujas Hijo de Maximiliano I de Habsburgo y María de Borgoña",
+      "fallecimiento": "25 de septiembre de 1506 Burgos (28 años) Capilla Real de Granada",
+      "consorte": "Juana I de Castilla 6 hijos"
+    },
+    {
+      "nombre": "Carlos I junto con su madre Juana I hasta el 12 de abril de 1555",
+      "sobrenombre": "el César",
+      "reinado": "14 de marzo de 1516 - 16 de enero de 1556 (39 años y 308 días)",
+      "nacimiento": "24 de febrero de 1500 Gante Hijo de Juana I de Castilla y Felipe I de Castilla",
+      "fallecimiento": "21 de septiembre de 1558 Cuacos de Yuste (58 años) Cripta Real del Monasterio de El Escorial",
+      "consorte": "Isabel de Portugal 5 hijos"
+    },
+    {
+      "nombre": "Felipe II",
+      "sobrenombre": "el Prudente",
+      "reinado": "16 de enero de 1556 - 13 de septiembre de 1598 (42 años y 240 días)",
+      "nacimiento": "21 de mayo de 1527 Valladolid Hijo de Carlos I e Isabel de Portugal",
+      "fallecimiento": "13 de septiembre de 1598 San Lorenzo de El Escorial (71 años) Cripta Real del Monasterio de El Escorial",
+      "consorte": "(1) María I de Inglaterra (2) Isabel de Valois 5 hijas (3) Ana de Austria 5 hijos"
+    },
+    {
+      "nombre": "Felipe III",
+      "sobrenombre": "el Piadoso",
+      "reinado": "13 de septiembre de 1598 - 31 de marzo de 1621 (22 años y 199 días)",
+      "nacimiento": "14 de abril de 1578 Madrid Hijo de Felipe II y Ana de Austria",
+      "fallecimiento": "31 de marzo de 1621 Madrid (42 años) Cripta Real del Monasterio de El Escorial",
+      "consorte": "Margarita de Austria-Estiria 8 hijos"
+    },
+    {
+      "nombre": "Felipe IV",
+      "sobrenombre": "el Grande , el Rey Planeta",
+      "reinado": "31 de marzo de 1621 - 17 de septiembre de 1665 (44 años y 170 días)",
+      "nacimiento": "8 de abril de 1605 Valladolid Hijo de Felipe III y Margarita de Austria-Estiria",
+      "fallecimiento": "17 de septiembre de 1665 Madrid (60 años) Cripta Real del Monasterio de El Escorial",
+      "consorte": "(1) Isabel de Borbón 10 hijos (2) Mariana de Austria 5 hijos"
+    },
+    {
+      "nombre": "Carlos II",
+      "sobrenombre": "el Hechizado",
+      "reinado": "17 de septiembre de 1665 - 1 de noviembre de 1700 (35 años y 45 días)",
+      "nacimiento": "6 de noviembre de 1661 Madrid Hijo de Felipe IV y Mariana de Austria",
+      "fallecimiento": "1 de noviembre de 1700 Madrid (38 años) Cripta Real del Monasterio de El Escorial",
+      "consorte": "(1) María Luisa de Orleans Sin descendencia (2) Mariana de Neoburgo Sin descendencia"
+    },
+    {
+      "nombre": "Archiduque Carlos Rey rival como Carlos III , en guerra contra Felipe V de España",
+      "sobrenombre": "el Archiduque",
+      "reinado": "12 de septiembre de 1703 - 2 de julio de 1715 (11 años y 293 días)",
+      "nacimiento": "1 de octubre de 1685 Viena Hijo de Leopoldo I y Leonor Magdalena de Palatinado-Neoburgo",
+      "fallecimiento": "20 de octubre de 1740 Viena (55 años) Cripta Imperial de Viena",
+      "consorte": "Isabel Cristina de Brunswick-Wolfenbüttel 4 hijos"
+    },
+    {
+      "nombre": "Felipe V",
+      "sobrenombre": "el Animoso",
+      "reinado": "16 de noviembre de 1700 - 14 de enero de 1724 (23 años y 59 días)",
+      "nacimiento": "19 de diciembre de 1683 Versalles Hijo de Luis de Francia y María Ana Victoria de Baviera . Sobrino-nieto de Carlos II.",
+      "fallecimiento": "9 de julio de 1746 Madrid (62 años) Palacio Real de La Granja de San Ildefonso",
+      "consorte": "(1) María Luisa Gabriela de Saboya 4 hijos (2) Isabel de Farnesio 7 hijos"
+    },
+    {
+      "nombre": "Luis I",
+      "sobrenombre": "el Bien Amado , el Liberal",
+      "reinado": "14 de enero - 31 de agosto de 1724 (230 días)",
+      "nacimiento": "25 de agosto de 1707 Madrid Hijo de Felipe V y María Luisa Gabriela de Saboya",
+      "fallecimiento": "31 de agosto de 1724 Madrid (17 años) Cripta Real del Monasterio de El Escorial",
+      "consorte": "Luisa Isabel de Orleans Sin descendencia"
+    },
+    {
+      "nombre": "Felipe V",
+      "sobrenombre": "el Animoso",
+      "reinado": "6 de septiembre de 1724 - 9 de julio de 1746 (21 años y 306 días)",
+      "nacimiento": "19 de diciembre de 1683 Versalles Hijo de Luis de Francia y María Ana Victoria de Baviera. Sobrino-nieto de Carlos II.",
+      "fallecimiento": "9 de julio de 1746 Madrid (62 años) Palacio Real de la Granja de San Ildefonso",
+      "consorte": "Isabel de Farnesio 7 hijos"
+    },
+    {
+      "nombre": "Fernando VI",
+      "sobrenombre": "el Prudente , el Justo",
+      "reinado": "9 de julio de 1746 - 10 de agosto de 1759 (13 años y 32 días)",
+      "nacimiento": "23 de septiembre de 1713 Madrid Hijo de Felipe V y María Luisa Gabriela de Saboya",
+      "fallecimiento": "10 de agosto de 1759 Villaviciosa de Odón (45 años) Convento de las Salesas Reales",
+      "consorte": "Bárbara de Braganza Sin descendencia"
+    },
+    {
+      "nombre": "Carlos III",
+      "sobrenombre": "el Político , el Mejor Alcalde de Madrid",
+      "reinado": "10 de agosto de 1759 - 14 de diciembre de 1788 (29 años y 126 días)",
+      "nacimiento": "20 de enero de 1716 Madrid Hijo de Felipe V e Isabel de Farnesio",
+      "fallecimiento": "14 de diciembre de 1788 Madrid (72 años) Cripta Real del Monasterio de El Escorial",
+      "consorte": "María Amalia de Sajonia 13 hijos"
+    },
+    {
+      "nombre": "Carlos IV",
+      "sobrenombre": "el Cazador",
+      "reinado": "14 de diciembre de 1788 - 19 de marzo de 1808 (19 años y 96 días)",
+      "nacimiento": "11 de noviembre de 1748 Portici Hijo de Carlos III y María Amalia de Sajonia",
+      "fallecimiento": "19 de enero de 1819 Nápoles (70 años) Cripta Real del Monasterio de El Escorial",
+      "consorte": "María Luisa de Parma 14 hijos"
+    },
+    {
+      "nombre": "Fernando VII",
+      "sobrenombre": "el Deseado , el Rey Felón",
+      "reinado": "19 de marzo de 1808 - 6 de mayo de 1808 (48 días)",
+      "nacimiento": "14 de octubre de 1784 San Lorenzo de El Escorial Hijo de Carlos IV y María Luisa de Parma",
+      "fallecimiento": "29 de septiembre de 1833 Madrid (48 años) Cripta Real del Monasterio de El Escorial",
+      "consorte": ""
+    },
+    {
+      "nombre": "José I",
+      "sobrenombre": "Pepe Botella , Pepe Plazuelas , el Intruso",
+      "reinado": "6 de junio de 1808 - 11 de diciembre de 1813 (5 años y 188 días)",
+      "nacimiento": "7 de enero de 1768 Corte Hijo de Carlo Buonaparte y María Leticia Ramolino",
+      "fallecimiento": "28 de julio de 1844 Florencia (76 años) Los Inválidos",
+      "consorte": "Julia Clary 3 hijas"
+    },
+    {
+      "nombre": "Fernando VII",
+      "sobrenombre": "el Deseado , el Rey Felón",
+      "reinado": "11 de agosto de 1808 / 4 de mayo de 1814 - 29 de septiembre de 1833 (25 años y 49 días) / (19 años y 148 días)",
+      "nacimiento": "14 de octubre de 1784 San Lorenzo de El Escorial Hijo de Carlos IV y María Luisa de Parma",
+      "fallecimiento": "29 de septiembre de 1833 Madrid (48 años) Cripta Real del Monasterio de El Escorial",
+      "consorte": "(1) María Isabel de Braganza 1 hija (2) María Josefa Amalia de Sajonia Sin descendencia (3) María Cristina de Borbón-Dos Sicilias 2 hijas"
+    },
+    {
+      "nombre": "Isabel II",
+      "sobrenombre": "la de los Tristes Destinos , la Reina Castiza",
+      "reinado": "29 de septiembre de 1833 - 30 de septiembre de 1868 (35 años y 1 día)",
+      "nacimiento": "10 de octubre de 1830 Madrid Hija de Fernando VII y María Cristina de Borbón-Dos Sicilias",
+      "fallecimiento": "9 de abril de 1904 París (73 años) Cripta Real del Monasterio de El Escorial",
+      "consorte": "Francisco de Asís de Borbón 12 hijos"
+    },
+    {
+      "nombre": "Amadeo I",
+      "sobrenombre": "el Rey Caballero , el Electo",
+      "reinado": "16 de noviembre de 1870 - 11 de febrero de 1873 (2 años y 87 días)",
+      "nacimiento": "30 de mayo de 1845 Turín Hijo de Víctor Manuel II de Italia y María Adelaida de Austria",
+      "fallecimiento": "18 de enero de 1890 Turín (44 años) Basílica de Superga",
+      "consorte": "María Victoria dal Pozzo 3 hijos"
+    },
+    {
+      "nombre": "Alfonso XII",
+      "sobrenombre": "el Pacificador",
+      "reinado": "29 de diciembre de 1874 - 25 de noviembre de 1885 (10 años y 331 días)",
+      "nacimiento": "28 de noviembre de 1857 Madrid Hijo de Isabel II y Francisco de Asís de Borbón",
+      "fallecimiento": "25 de noviembre de 1885 El Pardo (27 años) Cripta Real del Monasterio de El Escorial",
+      "consorte": "(1) María de las Mercedes de Orleans Sin descendencia (2) María Cristina de Habsburgo-Lorena 3 hijos"
+    },
+    {
+      "nombre": "Alfonso XIII",
+      "sobrenombre": "el Africano",
+      "reinado": "17 de mayo de 1886 - 14 de abril de 1931 (44 años y 332 días)",
+      "nacimiento": "17 de mayo de 1886 Madrid Hijo de Alfonso XII y María Cristina de Habsburgo-Lorena",
+      "fallecimiento": "28 de febrero de 1941 Roma (54 años) Cripta Real del Monasterio de El Escorial",
+      "consorte": "Victoria Eugenia de Battenberg 7 hijos"
+    },
+    {
+      "nombre": "Juan Carlos I",
+      "sobrenombre": "",
+      "reinado": "22 de noviembre de 1975 - 19 de junio de 2014 (38 años y 209 días)",
+      "nacimiento": "5 de enero de 1938 Roma (88 años) Hijo de Juan de Borbón , conde de Barcelona y María de las Mercedes de Borbón y Orleans . Nieto de Alfonso XIII.",
+      "fallecimiento": "",
+      "consorte": "Sofía de Grecia 3 hijos"
+    },
+    {
+      "nombre": "Felipe VI",
+      "sobrenombre": "",
+      "reinado": "Desde 19 de junio de 2014 (12 años y 130 días)",
+      "nacimiento": "30 de enero de 1968 Madrid (58 años) Hijo de Juan Carlos I y Sofía de Grecia",
+      "fallecimiento": "",
+      "consorte": "Letizia Ortiz 2 hijas"
+    }
+  ],
+  "meta": {
+    "title": "Reyes de España - Free Download",
+    "description": "Monarcas de España desde los Reyes Católicos, con sobrenombre, reinado, nacimiento y fallecimiento. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Reyes de España | ListBase",
+    "seo_description": "Download Reyes de España — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Reyes_de_España"
+    ]
+  }
+}
