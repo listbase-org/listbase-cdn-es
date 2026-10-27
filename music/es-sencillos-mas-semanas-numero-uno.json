@@ -1,0 +1,264 @@
+{
+  "id": "es-sencillos-mas-semanas-numero-uno",
+  "name": "Sencillos con más semanas en el número uno en España",
+  "title": "Sencillos con más semanas en el número uno en España",
+  "description": "Canciones con más semanas en el número uno de la lista oficial de sencillos de España.",
+  "category": "music",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Sencillos_número_uno_en_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Sencillos_número_uno_en_España",
+  "updated": "2026-10",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "posicion",
+      "label": "Posicion",
+      "type": "number"
+    },
+    {
+      "key": "tema",
+      "label": "Tema",
+      "type": "string"
+    },
+    {
+      "key": "interprete",
+      "label": "Interprete",
+      "type": "string"
+    },
+    {
+      "key": "anio",
+      "label": "Anio",
+      "type": "number"
+    },
+    {
+      "key": "semanas",
+      "label": "Semanas",
+      "type": "number"
+    },
+    {
+      "key": "pais",
+      "label": "Pais",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "posicion": 1,
+      "tema": "Colgando en tus manos",
+      "interprete": "Carlos Baute con Marta Sánchez",
+      "anio": 2009,
+      "semanas": 27,
+      "pais": "Venezuela"
+    },
+    {
+      "posicion": 2,
+      "tema": "Despacito",
+      "interprete": "Luis Fonsi con Daddy Yankee",
+      "anio": 2017,
+      "semanas": 26,
+      "pais": "Puerto Rico"
+    },
+    {
+      "posicion": 3,
+      "tema": "You're the One That I Want",
+      "interprete": "John Travolta con Olivia Newton-John",
+      "anio": "1978/1991",
+      "semanas": 20,
+      "pais": "Estados Unidos"
+    },
+    {
+      "posicion": 3,
+      "tema": "Bailando",
+      "interprete": "Enrique Iglesias con Descemer Bueno y Gente de Zona",
+      "anio": 2014,
+      "semanas": 20,
+      "pais": "España"
+    },
+    {
+      "posicion": 5,
+      "tema": "El perdón",
+      "interprete": "Enrique Iglesias con Nicky Jam",
+      "anio": 2015,
+      "semanas": 18,
+      "pais": "España"
+    },
+    {
+      "posicion": 6,
+      "tema": "Sorry",
+      "interprete": "Justin Bieber",
+      "anio": 2015,
+      "semanas": 17,
+      "pais": "Canadá"
+    },
+    {
+      "posicion": 6,
+      "tema": "Waka Waka (Esto es África)",
+      "interprete": "Shakira",
+      "anio": 2010,
+      "semanas": 17,
+      "pais": "Colombia"
+    },
+    {
+      "posicion": 8,
+      "tema": "Tusa",
+      "interprete": "Karol G con Nicki Minaj",
+      "anio": 2019,
+      "semanas": 16,
+      "pais": "Colombia Trinidad y Tobago"
+    },
+    {
+      "posicion": 8,
+      "tema": "Si antes te hubiera conocido",
+      "interprete": "Karol G",
+      "anio": 2024,
+      "semanas": 16,
+      "pais": "Colombia"
+    },
+    {
+      "posicion": 10,
+      "tema": "Gimme Hope Jo'anna",
+      "interprete": "Eddy Grant",
+      "anio": 1988,
+      "semanas": 15,
+      "pais": "Guyana"
+    },
+    {
+      "posicion": 10,
+      "tema": "On the Floor",
+      "interprete": "Jennifer López con Pitbull",
+      "anio": 2011,
+      "semanas": 15,
+      "pais": "Estados Unidos"
+    },
+    {
+      "posicion": 10,
+      "tema": "Voyage, Voyage",
+      "interprete": "Desireless",
+      "anio": 1987,
+      "semanas": 15,
+      "pais": "Francia"
+    },
+    {
+      "posicion": 10,
+      "tema": "Yo te esperaré",
+      "interprete": "Cali y El Dandee",
+      "anio": 2012,
+      "semanas": 15,
+      "pais": "Colombia"
+    },
+    {
+      "posicion": 14,
+      "tema": "Ai Se Eu te Pego",
+      "interprete": "Michel Teló",
+      "anio": 2011,
+      "semanas": 14,
+      "pais": "Brasil"
+    },
+    {
+      "posicion": 14,
+      "tema": "Candle in the Wind",
+      "interprete": "Elton John",
+      "anio": 1987,
+      "semanas": 14,
+      "pais": "Reino Unido"
+    },
+    {
+      "posicion": 16,
+      "tema": "Quevedo: BZRP Music Sessions, Vol. 52",
+      "interprete": "Bizarrap con Quevedo",
+      "anio": 2022,
+      "semanas": 13,
+      "pais": "Argentina España"
+    },
+    {
+      "posicion": 16,
+      "tema": "La bicicleta",
+      "interprete": "Carlos Vives con Shakira",
+      "anio": 2016,
+      "semanas": 13,
+      "pais": "Colombia"
+    },
+    {
+      "posicion": 16,
+      "tema": "Lambada",
+      "interprete": "Kaoma",
+      "anio": 1989,
+      "semanas": 13,
+      "pais": "Brasil"
+    },
+    {
+      "posicion": 19,
+      "tema": "Duele el corazón",
+      "interprete": "Enrique Iglesias con Wisin",
+      "anio": 2016,
+      "semanas": 12,
+      "pais": "España"
+    },
+    {
+      "posicion": 19,
+      "tema": "Mambo No. 5",
+      "interprete": "Lou Bega",
+      "anio": 1999,
+      "semanas": 12,
+      "pais": "Alemania"
+    },
+    {
+      "posicion": 19,
+      "tema": "Loca",
+      "interprete": "Shakira",
+      "anio": 2010,
+      "semanas": 12,
+      "pais": "Colombia"
+    },
+    {
+      "posicion": 22,
+      "tema": "Always on My Mind",
+      "interprete": "Pet Shop Boys",
+      "anio": 1988,
+      "semanas": 11,
+      "pais": "Reino Unido"
+    },
+    {
+      "posicion": 22,
+      "tema": "La gozadera",
+      "interprete": "Gente de Zona con Marc Anthony",
+      "anio": 2015,
+      "semanas": 11,
+      "pais": "Cuba"
+    },
+    {
+      "posicion": 24,
+      "tema": "Infinity",
+      "interprete": "Guru Josh",
+      "anio": 1990,
+      "semanas": 10,
+      "pais": "Reino Unido"
+    },
+    {
+      "posicion": 24,
+      "tema": "Te voy a esperar",
+      "interprete": "Juan Magán con Belinda",
+      "anio": 2012,
+      "semanas": 10,
+      "pais": "España"
+    },
+    {
+      "posicion": 24,
+      "tema": "The Final Countdown",
+      "interprete": "Europe",
+      "anio": 1987,
+      "semanas": 10,
+      "pais": "Suecia"
+    }
+  ],
+  "meta": {
+    "title": "Sencillos con más semanas en el número uno en España - Free Download",
+    "description": "Canciones con más semanas en el número uno de la lista oficial de sencillos de España. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sencillos con más semanas en el número uno en España | ListBase",
+    "seo_description": "Download Sencillos con más semanas en el número uno en España — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Sencillos_número_uno_en_España"
+    ]
+  }
+}
