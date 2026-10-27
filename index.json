@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:17:40.834Z",
-  "total_datasets": 484,
-  "total_records": 421522,
+  "generated": "2026-10-27T02:17:43.379Z",
+  "total_datasets": 485,
+  "total_records": 421535,
   "categories": [
     {
       "id": "agriculture",
@@ -46,6 +46,10 @@
     },
     {
       "id": "language",
+      "dataset_count": 1
+    },
+    {
+      "id": "law",
       "dataset_count": 1
     },
     {
@@ -2184,6 +2188,33 @@
         "xlsx": {
           "name": "es-sistemas-de-escritura_ES.xlsx",
           "size": 10380
+        }
+      }
+    },
+    {
+      "id": "es-presidentes-tribunal-constitucional",
+      "name": "Presidentes del Tribunal Constitucional de España",
+      "category": "law",
+      "record_count": 13,
+      "columns": [
+        "numero",
+        "presidente",
+        "mandato",
+        "duracion",
+        "propuesto_por",
+        "monarca"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Presidente_del_Tribunal_Constitucional_(España)",
+      "updated": "2026-10",
+      "size": 5560,
+      "files": {
+        "csv": {
+          "name": "es-presidentes-tribunal-constitucional_ES.csv",
+          "size": 2064
+        },
+        "xlsx": {
+          "name": "es-presidentes-tribunal-constitucional_ES.xlsx",
+          "size": 7787
         }
       }
     },
