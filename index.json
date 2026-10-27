@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:17:17.257Z",
-  "total_datasets": 475,
-  "total_records": 420806,
+  "generated": "2026-10-27T02:17:19.996Z",
+  "total_datasets": 476,
+  "total_records": 420906,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "transport",
@@ -14974,6 +14974,34 @@
         "xlsx": {
           "name": "es-fiestas-interes-turistico-nacional_ES.xlsx",
           "size": 19433
+        }
+      }
+    },
+    {
+      "id": "es-paradores-de-turismo",
+      "name": "Paradores de Turismo de España",
+      "category": "tourism",
+      "record_count": 100,
+      "columns": [
+        "parador",
+        "localidad",
+        "provincia",
+        "comunidad_autonoma",
+        "coordenadas",
+        "inauguracion",
+        "codigo_bic"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Paradores_de_Turismo_de_España",
+      "updated": "2026-10",
+      "size": 31068,
+      "files": {
+        "csv": {
+          "name": "es-paradores-de-turismo_ES.csv",
+          "size": 12986
+        },
+        "xlsx": {
+          "name": "es-paradores-de-turismo_ES.xlsx",
+          "size": 14136
         }
       }
     },
