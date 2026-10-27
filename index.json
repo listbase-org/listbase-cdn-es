@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:18:02.936Z",
-  "total_datasets": 491,
-  "total_records": 422013,
+  "generated": "2026-10-27T02:18:05.768Z",
+  "total_datasets": 492,
+  "total_records": 422027,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -2315,6 +2315,36 @@
         "xlsx": {
           "name": "es-presidentes-tribunal-constitucional_ES.xlsx",
           "size": 7787
+        }
+      }
+    },
+    {
+      "id": "es-textos-constitucionales",
+      "name": "Textos constitucionales españoles",
+      "category": "law",
+      "record_count": 14,
+      "columns": [
+        "documento",
+        "ano",
+        "periodo_historico",
+        "ideologia",
+        "sufragio",
+        "forma_de_gobierno",
+        "soberania",
+        "sistema_parlamentario",
+        "modelo_territorial"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Textos_constitucionales_españoles",
+      "updated": "2026-10",
+      "size": 8107,
+      "files": {
+        "csv": {
+          "name": "es-textos-constitucionales_ES.csv",
+          "size": 3033
+        },
+        "xlsx": {
+          "name": "es-textos-constitucionales_ES.xlsx",
+          "size": 8251
         }
       }
     },

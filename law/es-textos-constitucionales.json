@@ -1,0 +1,225 @@
+{
+  "id": "es-textos-constitucionales",
+  "name": "Textos constitucionales españoles",
+  "title": "Textos constitucionales españoles",
+  "description": "Constituciones y textos constitucionales de España desde 1808: ideología, sufragio, soberanía y modelo territorial.",
+  "category": "law",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Textos_constitucionales_españoles",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Textos_constitucionales_españoles",
+  "updated": "2026-10",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "documento",
+      "label": "Documento",
+      "type": "string"
+    },
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "periodo_historico",
+      "label": "Periodo Historico",
+      "type": "string"
+    },
+    {
+      "key": "ideologia",
+      "label": "Ideologia",
+      "type": "string"
+    },
+    {
+      "key": "sufragio",
+      "label": "Sufragio",
+      "type": "string"
+    },
+    {
+      "key": "forma_de_gobierno",
+      "label": "Forma De Gobierno",
+      "type": "string"
+    },
+    {
+      "key": "soberania",
+      "label": "Soberania",
+      "type": "string"
+    },
+    {
+      "key": "sistema_parlamentario",
+      "label": "Sistema Parlamentario",
+      "type": "string"
+    },
+    {
+      "key": "modelo_territorial",
+      "label": "Modelo Territorial",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "documento": "Estatuto de Bayona ( carta otorgada )",
+      "ano": 1808,
+      "periodo_historico": "Reinado de José I",
+      "ideologia": "De transición",
+      "sufragio": "Inexistente",
+      "forma_de_gobierno": "Monarquía absolutista",
+      "soberania": "Compartida entre Rey y Cortes",
+      "sistema_parlamentario": "Cortes estamentales",
+      "modelo_territorial": "Centralismo"
+    },
+    {
+      "documento": "Constitución española de 1812",
+      "ano": 1812,
+      "periodo_historico": "Guerra de la Independencia española",
+      "ideologia": "Progresista",
+      "sufragio": "Universal masculino indirecto",
+      "forma_de_gobierno": "Monarquía parlamentaria",
+      "soberania": "Nacional",
+      "sistema_parlamentario": "Unicameral",
+      "modelo_territorial": "Centralismo"
+    },
+    {
+      "documento": "Estatuto Real de 1834 ( Carta otorgada )",
+      "ano": 1834,
+      "periodo_historico": "Regencia de María Cristina",
+      "ideologia": "Conservadora",
+      "sufragio": "Censitario , muy restringido",
+      "forma_de_gobierno": "Monarquía parlamentaria",
+      "soberania": "Compartida entre Rey y Cortes",
+      "sistema_parlamentario": "Bicameral",
+      "modelo_territorial": "Centralismo"
+    },
+    {
+      "documento": "Constitución española de 1837",
+      "ano": 1837,
+      "periodo_historico": "Regencia de María Cristina",
+      "ideologia": "Liberal",
+      "sufragio": "Censitario",
+      "forma_de_gobierno": "Monarquía parlamentaria",
+      "soberania": "Nacional",
+      "sistema_parlamentario": "Bicameral",
+      "modelo_territorial": "Centralismo"
+    },
+    {
+      "documento": "Constitución española de 1845",
+      "ano": 1845,
+      "periodo_historico": "Reinado de Isabel II",
+      "ideologia": "Conservadora",
+      "sufragio": "Censitario , restringido, pero paulatinamente más abierto",
+      "forma_de_gobierno": "Monarquía parlamentaria",
+      "soberania": "Compartida entre Rey y Cortes",
+      "sistema_parlamentario": "Bicameral",
+      "modelo_territorial": "Centralismo"
+    },
+    {
+      "documento": "Proyecto constitucional de 1852",
+      "ano": 1852,
+      "periodo_historico": "Reinado de Isabel II",
+      "ideologia": "Fuertemente conservadora",
+      "sufragio": "Censitario , muy restringido",
+      "forma_de_gobierno": "Monarquía parlamentaria",
+      "soberania": "Sin determinar",
+      "sistema_parlamentario": "Bicameral",
+      "modelo_territorial": "Centralismo"
+    },
+    {
+      "documento": "Constitución española de 1856 (NON NATA)",
+      "ano": "1856 (no promulgada)",
+      "periodo_historico": "Reinado de Isabel II",
+      "ideologia": "Liberal Progresista",
+      "sufragio": "Universal masculino",
+      "forma_de_gobierno": "Monarquía parlamentaria",
+      "soberania": "Nacional",
+      "sistema_parlamentario": "Bicameral",
+      "modelo_territorial": "Centralismo"
+    },
+    {
+      "documento": "Constitución española de 1869",
+      "ano": 1869,
+      "periodo_historico": "Sexenio Democrático",
+      "ideologia": "Democrática",
+      "sufragio": "Universal masculino",
+      "forma_de_gobierno": "Monarquía parlamentaria",
+      "soberania": "Nacional",
+      "sistema_parlamentario": "Bicameral",
+      "modelo_territorial": "Centralismo"
+    },
+    {
+      "documento": "Proyecto de Constitución Federal de 1873",
+      "ano": 1873,
+      "periodo_historico": "Primera República",
+      "ideologia": "Democrática",
+      "sufragio": "Universal masculino directo",
+      "forma_de_gobierno": "República , presidencialista",
+      "soberania": "Nacional",
+      "sistema_parlamentario": "Bicameral",
+      "modelo_territorial": "Federalismo"
+    },
+    {
+      "documento": "Constitución española de 1876",
+      "ano": 1876,
+      "periodo_historico": "Restauración",
+      "ideologia": "Conservadora",
+      "sufragio": "Censitario en principio, a partir de 1890 universal masculino . En la práctica resultados amañados, pucherazo",
+      "forma_de_gobierno": "Monarquía parlamentaria",
+      "soberania": "Compartida entre Rey y Cortes",
+      "sistema_parlamentario": "Bicameral",
+      "modelo_territorial": "Centralismo"
+    },
+    {
+      "documento": "Proyecto de Constitución de 1929 (carta otorgada)",
+      "ano": 1929,
+      "periodo_historico": "Dictadura de Primo de Rivera",
+      "ideologia": "Autoritaria",
+      "sufragio": "Inexistente",
+      "forma_de_gobierno": "Monarquía autoritaria y tradicional",
+      "soberania": "Real",
+      "sistema_parlamentario": "Unicameral",
+      "modelo_territorial": "Centralismo"
+    },
+    {
+      "documento": "Constitución española de 1931",
+      "ano": 1931,
+      "periodo_historico": "Segunda República",
+      "ideologia": "Democrática",
+      "sufragio": "Universal masculino y femenino (a partir de 1933 por primera vez en la historia de España)",
+      "forma_de_gobierno": "República",
+      "soberania": "Popular",
+      "sistema_parlamentario": "Unicameral",
+      "modelo_territorial": "Centralismo y autonomismo regional"
+    },
+    {
+      "documento": "Leyes Fundamentales",
+      "ano": 1938,
+      "periodo_historico": "franquismo",
+      "ideologia": "Nacionalcatolicista , franquismo",
+      "sufragio": "Restringido , inexistente en la práctica. Sólo determinados referéndums de carácter consultivo",
+      "forma_de_gobierno": "Dictadura personalista",
+      "soberania": "Nacional (de jure)",
+      "sistema_parlamentario": "Cortes corporativas u orgánicas",
+      "modelo_territorial": "Centralismo"
+    },
+    {
+      "documento": "Constitución española de 1978",
+      "ano": 1978,
+      "periodo_historico": "Transición y Reinado de Juan Carlos I y Felipe VI",
+      "ideologia": "Democrática",
+      "sufragio": "Universal",
+      "forma_de_gobierno": "Monarquía parlamentaria",
+      "soberania": "Nacional",
+      "sistema_parlamentario": "Bicameral",
+      "modelo_territorial": "Autonomismo regional"
+    }
+  ],
+  "meta": {
+    "title": "Textos constitucionales españoles - Free Download",
+    "description": "Constituciones y textos constitucionales de España desde 1808: ideología, sufragio, soberanía y modelo territorial. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Textos constitucionales españoles | ListBase",
+    "seo_description": "Download Textos constitucionales españoles — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Textos_constitucionales_españoles"
+    ]
+  }
+}
