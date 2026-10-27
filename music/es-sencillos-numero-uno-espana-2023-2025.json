@@ -1,0 +1,1339 @@
+{
+  "id": "es-sencillos-numero-uno-espana-2023-2025",
+  "name": "Sencillos número uno en España (2023–2025)",
+  "title": "Sencillos número uno en España (2023–2025)",
+  "description": "Canciones número uno semanales de las listas PROMUSICAE Top 100 Canciones y Top 50 Radio en España, 2023–2025.",
+  "category": "music",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Sencillos_número_uno_de_Top_100_Canciones_de_2024",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Sencillos_número_uno_de_Top_100_Canciones_de_2024",
+  "updated": "2026-10",
+  "record_count": 142,
+  "columns": [
+    {
+      "key": "anio",
+      "label": "Anio",
+      "type": "number"
+    },
+    {
+      "key": "semana",
+      "label": "Semana",
+      "type": "number"
+    },
+    {
+      "key": "fecha",
+      "label": "Fecha",
+      "type": "string"
+    },
+    {
+      "key": "cancion",
+      "label": "Cancion",
+      "type": "string"
+    },
+    {
+      "key": "artista",
+      "label": "Artista",
+      "type": "string"
+    },
+    {
+      "key": "radio_cancion",
+      "label": "Radio Cancion",
+      "type": "string"
+    },
+    {
+      "key": "radio_artista",
+      "label": "Radio Artista",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "anio": 2023,
+      "semana": 1,
+      "fecha": "5 de enero",
+      "cancion": "« La bachata »",
+      "artista": "Manuel Turizo",
+      "radio_cancion": "« La bachata »",
+      "radio_artista": "Manuel Turizo"
+    },
+    {
+      "anio": 2023,
+      "semana": 2,
+      "fecha": "12 de enero",
+      "cancion": "« Shakira: BZRP Music Sessions, Vol. 53 »",
+      "artista": "Bizarrap y Shakira",
+      "radio_cancion": "« La bachata »",
+      "radio_artista": "Manuel Turizo"
+    },
+    {
+      "anio": 2023,
+      "semana": 3,
+      "fecha": "19 de enero",
+      "cancion": "« Shakira: BZRP Music Sessions, Vol. 53 »",
+      "artista": "Bizarrap y Shakira",
+      "radio_cancion": "« La bachata »",
+      "radio_artista": "Manuel Turizo"
+    },
+    {
+      "anio": 2023,
+      "semana": 4,
+      "fecha": "26 de enero",
+      "cancion": "« Shakira: BZRP Music Sessions, Vol. 53 »",
+      "artista": "Bizarrap y Shakira",
+      "radio_cancion": "« Shakira: BZRP Music Sessions, Vol. 53 »",
+      "radio_artista": "Bizarrap y Shakira"
+    },
+    {
+      "anio": 2023,
+      "semana": 5,
+      "fecha": "2 de febrero",
+      "cancion": "« Shakira: BZRP Music Sessions, Vol. 53 »",
+      "artista": "Bizarrap y Shakira",
+      "radio_cancion": "« Shakira: BZRP Music Sessions, Vol. 53 »",
+      "radio_artista": "Bizarrap y Shakira"
+    },
+    {
+      "anio": 2023,
+      "semana": 6,
+      "fecha": "9 de febrero",
+      "cancion": "« Shakira: BZRP Music Sessions, Vol. 53 »",
+      "artista": "Bizarrap y Shakira",
+      "radio_cancion": "« Shakira: BZRP Music Sessions, Vol. 53 »",
+      "radio_artista": "Bizarrap y Shakira"
+    },
+    {
+      "anio": 2023,
+      "semana": 7,
+      "fecha": "16 de febrero",
+      "cancion": "« Shakira: BZRP Music Sessions, Vol. 53 »",
+      "artista": "Bizarrap y Shakira",
+      "radio_cancion": "« Shakira: BZRP Music Sessions, Vol. 53 »",
+      "radio_artista": "Bizarrap y Shakira"
+    },
+    {
+      "anio": 2023,
+      "semana": 8,
+      "fecha": "23 de febrero",
+      "cancion": "« Shakira: BZRP Music Sessions, Vol. 53 »",
+      "artista": "Bizarrap y Shakira",
+      "radio_cancion": "« Shakira: BZRP Music Sessions, Vol. 53 »",
+      "radio_artista": "Bizarrap y Shakira"
+    },
+    {
+      "anio": 2023,
+      "semana": 9,
+      "fecha": "2 de marzo",
+      "cancion": "« TQG »",
+      "artista": "Karol G y Shakira",
+      "radio_cancion": "« Shakira: BZRP Music Sessions, Vol. 53 »",
+      "radio_artista": "Bizarrap y Shakira"
+    },
+    {
+      "anio": 2023,
+      "semana": 10,
+      "fecha": "9 de marzo",
+      "cancion": "« TQG »",
+      "artista": "Karol G y Shakira",
+      "radio_cancion": "« Shakira: BZRP Music Sessions, Vol. 53 »",
+      "radio_artista": "Bizarrap y Shakira"
+    },
+    {
+      "anio": 2023,
+      "semana": 11,
+      "fecha": "16 de marzo",
+      "cancion": "« TQG »",
+      "artista": "Karol G y Shakira",
+      "radio_cancion": "« Flowers »",
+      "radio_artista": "Miley Cyrus"
+    },
+    {
+      "anio": 2023,
+      "semana": 12,
+      "fecha": "23 de marzo",
+      "cancion": "« TQG »",
+      "artista": "Karol G y Shakira",
+      "radio_cancion": "« Flowers »",
+      "radio_artista": "Miley Cyrus"
+    },
+    {
+      "anio": 2023,
+      "semana": 13,
+      "fecha": "30 de marzo",
+      "cancion": "« Beso »",
+      "artista": "Rosalía y Rauw Alejandro",
+      "radio_cancion": "« Flowers »",
+      "radio_artista": "Miley Cyrus"
+    },
+    {
+      "anio": 2023,
+      "semana": 14,
+      "fecha": "6 de abril",
+      "cancion": "« Beso »",
+      "artista": "Rosalía y Rauw Alejandro",
+      "radio_cancion": "«Nochentera»",
+      "radio_artista": "Vicco"
+    },
+    {
+      "anio": 2023,
+      "semana": 15,
+      "fecha": "13 de abril",
+      "cancion": "« Beso »",
+      "artista": "Rosalía y Rauw Alejandro",
+      "radio_cancion": "« Flowers »",
+      "radio_artista": "Miley Cyrus"
+    },
+    {
+      "anio": 2023,
+      "semana": 16,
+      "fecha": "20 de abril",
+      "cancion": "« El tonto »",
+      "artista": "Lola Índigo y Quevedo",
+      "radio_cancion": "« Flowers »",
+      "radio_artista": "Miley Cyrus"
+    },
+    {
+      "anio": 2023,
+      "semana": 17,
+      "fecha": "27 de abril",
+      "cancion": "« El tonto »",
+      "artista": "Lola Índigo y Quevedo",
+      "radio_cancion": "« Flowers »",
+      "radio_artista": "Miley Cyrus"
+    },
+    {
+      "anio": 2023,
+      "semana": 18,
+      "fecha": "4 de mayo",
+      "cancion": "«Supernova»",
+      "artista": "Saiko",
+      "radio_cancion": "«Nochentera»",
+      "radio_artista": "Vicco"
+    },
+    {
+      "anio": 2023,
+      "semana": 19,
+      "fecha": "11 de mayo",
+      "cancion": "« El tonto »",
+      "artista": "Lola Índigo y Quevedo",
+      "radio_cancion": "« Flowers »",
+      "radio_artista": "Miley Cyrus"
+    },
+    {
+      "anio": 2023,
+      "semana": 20,
+      "fecha": "18 de mayo",
+      "cancion": "« El tonto »",
+      "artista": "Lola Índigo y Quevedo",
+      "radio_cancion": "«Nochentera»",
+      "radio_artista": "Vicco"
+    },
+    {
+      "anio": 2023,
+      "semana": 21,
+      "fecha": "25 de mayo",
+      "cancion": "« Acróstico »",
+      "artista": "Shakira",
+      "radio_cancion": "«Nochentera»",
+      "radio_artista": "Vicco"
+    },
+    {
+      "anio": 2023,
+      "semana": 22,
+      "fecha": "1 de junio",
+      "cancion": "« Where She Goes »",
+      "artista": "Bad Bunny",
+      "radio_cancion": "«Nochentera»",
+      "radio_artista": "Vicco"
+    },
+    {
+      "anio": 2023,
+      "semana": 23,
+      "fecha": "8 de junio",
+      "cancion": "« Where She Goes »",
+      "artista": "Bad Bunny",
+      "radio_cancion": "« El merengue »",
+      "radio_artista": "Marshmello y Manuel Turizo"
+    },
+    {
+      "anio": 2023,
+      "semana": 24,
+      "fecha": "15 de junio",
+      "cancion": "«Polaris (Remix)»",
+      "artista": "Saiko , Feid , Quevedo y Mora",
+      "radio_cancion": "« Flowers »",
+      "radio_artista": "Miley Cyrus"
+    },
+    {
+      "anio": 2023,
+      "semana": 25,
+      "fecha": "22 de junio",
+      "cancion": "«Polaris (Remix)»",
+      "artista": "Saiko , Feid , Quevedo y Mora",
+      "radio_cancion": "«Nochentera»",
+      "radio_artista": "Vicco"
+    },
+    {
+      "anio": 2023,
+      "semana": 26,
+      "fecha": "29 de junio",
+      "cancion": "« Rauw Alejandro: BZRP Music Sessions, Vol. 56 »",
+      "artista": "Bizarrap y Rauw Alejandro",
+      "radio_cancion": "«Clavaito»",
+      "radio_artista": "Chanel y Abraham Mateo"
+    },
+    {
+      "anio": 2023,
+      "semana": 27,
+      "fecha": "6 de julio",
+      "cancion": "« Lala »",
+      "artista": "Myke Towers",
+      "radio_cancion": "« Baby Don't Hurt Me »",
+      "radio_artista": "David Guetta , Anne-Marie , Coi Leray"
+    },
+    {
+      "anio": 2023,
+      "semana": 28,
+      "fecha": "13 de julio",
+      "cancion": "« Columbia »",
+      "artista": "Quevedo",
+      "radio_cancion": "« El merengue »",
+      "radio_artista": "Marshmello y Manuel Turizo"
+    },
+    {
+      "anio": 2023,
+      "semana": 29,
+      "fecha": "20 de julio",
+      "cancion": "« Columbia »",
+      "artista": "Quevedo",
+      "radio_cancion": "« El merengue »",
+      "radio_artista": "Marshmello y Manuel Turizo"
+    },
+    {
+      "anio": 2023,
+      "semana": 30,
+      "fecha": "27 de julio",
+      "cancion": "« Columbia »",
+      "artista": "Quevedo",
+      "radio_cancion": "« El merengue »",
+      "radio_artista": "Marshmello y Manuel Turizo"
+    },
+    {
+      "anio": 2023,
+      "semana": 31,
+      "fecha": "3 de agosto",
+      "cancion": "« Columbia »",
+      "artista": "Quevedo",
+      "radio_cancion": "« El merengue »",
+      "radio_artista": "Marshmello y Manuel Turizo"
+    },
+    {
+      "anio": 2023,
+      "semana": 32,
+      "fecha": "10 de agosto",
+      "cancion": "« Columbia »",
+      "artista": "Quevedo",
+      "radio_cancion": "« El merengue »",
+      "radio_artista": "Marshmello y Manuel Turizo"
+    },
+    {
+      "anio": 2023,
+      "semana": 33,
+      "fecha": "17 de agosto",
+      "cancion": "« Columbia »",
+      "artista": "Quevedo",
+      "radio_cancion": "« Vagabundo »",
+      "radio_artista": "Sebastián Yatra , Manuel Turizo y Beelé"
+    },
+    {
+      "anio": 2023,
+      "semana": 34,
+      "fecha": "24 de agosto",
+      "cancion": "« Columbia »",
+      "artista": "Quevedo",
+      "radio_cancion": "« Vagabundo »",
+      "radio_artista": "Sebastián Yatra , Manuel Turizo y Beelé"
+    },
+    {
+      "anio": 2023,
+      "semana": 35,
+      "fecha": "31 de agosto",
+      "cancion": "« Columbia »",
+      "artista": "Quevedo",
+      "radio_cancion": "«Clavaito»",
+      "radio_artista": "Chanel y Abraham Mateo"
+    },
+    {
+      "anio": 2023,
+      "semana": 36,
+      "fecha": "7 de septiembre",
+      "cancion": "«Reina»",
+      "artista": "Mora y Saiko",
+      "radio_cancion": "« Dance The Night »",
+      "radio_artista": "Dua Lipa"
+    },
+    {
+      "anio": 2023,
+      "semana": 37,
+      "fecha": "14 de septiembre",
+      "cancion": "«Reina»",
+      "artista": "Mora y Saiko",
+      "radio_cancion": "« El merengue »",
+      "radio_artista": "Marshmello y Manuel Turizo"
+    },
+    {
+      "anio": 2023,
+      "semana": 38,
+      "fecha": "21 de septiembre",
+      "cancion": "«Reina»",
+      "artista": "Mora y Saiko",
+      "radio_cancion": "« Vagabundo »",
+      "radio_artista": "Sebastián Yatra , Manuel Turizo y Beelé"
+    },
+    {
+      "anio": 2023,
+      "semana": 39,
+      "fecha": "28 de septiembre",
+      "cancion": "«Buenas»",
+      "artista": "Quevedo y Saiko",
+      "radio_cancion": "« Vagabundo »",
+      "radio_artista": "Sebastián Yatra , Manuel Turizo y Beelé"
+    },
+    {
+      "anio": 2023,
+      "semana": 40,
+      "fecha": "5 de octubre",
+      "cancion": "« Si no estás »",
+      "artista": "Íñigo Quintero",
+      "radio_cancion": "« Vagabundo »",
+      "radio_artista": "Sebastián Yatra , Manuel Turizo y Beelé"
+    },
+    {
+      "anio": 2023,
+      "semana": 41,
+      "fecha": "12 de octubre",
+      "cancion": "« Si no estás »",
+      "artista": "Íñigo Quintero",
+      "radio_cancion": "« El merengue »",
+      "radio_artista": "Marshmello y Manuel Turizo"
+    },
+    {
+      "anio": 2023,
+      "semana": 42,
+      "fecha": "19 de octubre",
+      "cancion": "« Monaco »",
+      "artista": "Bad Bunny",
+      "radio_cancion": "« El merengue »",
+      "radio_artista": "Marshmello y Manuel Turizo"
+    },
+    {
+      "anio": 2023,
+      "semana": 43,
+      "fecha": "26 de octubre",
+      "cancion": "« Si no estás »",
+      "artista": "Íñigo Quintero",
+      "radio_cancion": "« Vagabundo »",
+      "radio_artista": "Sebastián Yatra , Manuel Turizo y Beelé"
+    },
+    {
+      "anio": 2023,
+      "semana": 44,
+      "fecha": "2 de noviembre",
+      "cancion": "« Si no estás »",
+      "artista": "Íñigo Quintero",
+      "radio_cancion": "« Vagabundo »",
+      "radio_artista": "Sebastián Yatra , Manuel Turizo y Beelé"
+    },
+    {
+      "anio": 2023,
+      "semana": 45,
+      "fecha": "9 de noviembre",
+      "cancion": "« Si no estás »",
+      "artista": "Íñigo Quintero",
+      "radio_cancion": "« Dance The Night »",
+      "radio_artista": "Dua Lipa"
+    },
+    {
+      "anio": 2023,
+      "semana": 46,
+      "fecha": "16 de noviembre",
+      "cancion": "« Si no estás »",
+      "artista": "Íñigo Quintero",
+      "radio_cancion": "« El merengue »",
+      "radio_artista": "Marshmello y Manuel Turizo"
+    },
+    {
+      "anio": 2023,
+      "semana": 47,
+      "fecha": "23 de noviembre",
+      "cancion": "« Si no estás »",
+      "artista": "Íñigo Quintero",
+      "radio_cancion": "«Madrid City»",
+      "radio_artista": "Ana Mena"
+    },
+    {
+      "anio": 2023,
+      "semana": 48,
+      "fecha": "30 de noviembre",
+      "cancion": "« Si no estás »",
+      "artista": "Íñigo Quintero",
+      "radio_cancion": "«Madrid City»",
+      "radio_artista": "Ana Mena"
+    },
+    {
+      "anio": 2023,
+      "semana": 49,
+      "fecha": "7 de diciembre",
+      "cancion": "«Manos rotas»",
+      "artista": "Dellafuente y Morad",
+      "radio_cancion": "«Madrid City»",
+      "radio_artista": "Ana Mena"
+    },
+    {
+      "anio": 2023,
+      "semana": 50,
+      "fecha": "14 de diciembre",
+      "cancion": "«Manos rotas»",
+      "artista": "Dellafuente y Morad",
+      "radio_cancion": "«Madrid City»",
+      "radio_artista": "Ana Mena"
+    },
+    {
+      "anio": 2023,
+      "semana": 51,
+      "fecha": "21 de diciembre",
+      "cancion": "«Manos rotas»",
+      "artista": "Dellafuente y Morad",
+      "radio_cancion": "« Vagabundo »",
+      "radio_artista": "Sebastián Yatra , Manuel Turizo y Beelé"
+    },
+    {
+      "anio": 2023,
+      "semana": 52,
+      "fecha": "28 de diciembre",
+      "cancion": "«Manos rotas»",
+      "artista": "Dellafuente y Morad",
+      "radio_cancion": "«Madrid City»",
+      "radio_artista": "Ana Mena"
+    },
+    {
+      "anio": 2024,
+      "semana": 1,
+      "fecha": "4 de enero",
+      "cancion": "«Manos rotas»",
+      "artista": "Dellafuente y Morad",
+      "radio_cancion": "«Madrid City»",
+      "radio_artista": "Ana Mena"
+    },
+    {
+      "anio": 2024,
+      "semana": 2,
+      "fecha": "11 de enero",
+      "cancion": "«Manos rotas»",
+      "artista": "Dellafuente y Morad",
+      "radio_cancion": "«Madrid City»",
+      "radio_artista": "Ana Mena"
+    },
+    {
+      "anio": 2024,
+      "semana": 3,
+      "fecha": "18 de enero",
+      "cancion": "« Young Miko: BZRP Music Sessions, Vol. 58 »",
+      "artista": "Bizarrap y Young Miko",
+      "radio_cancion": "« Houdini »",
+      "radio_artista": "Dua Lipa"
+    },
+    {
+      "anio": 2024,
+      "semana": 4,
+      "fecha": "25 de enero",
+      "cancion": "« Young Miko: BZRP Music Sessions, Vol. 58 »",
+      "artista": "Bizarrap y Young Miko",
+      "radio_cancion": "«Madrid City»",
+      "radio_artista": "Ana Mena"
+    },
+    {
+      "anio": 2024,
+      "semana": 5,
+      "fecha": "1 de febrero",
+      "cancion": "« Young Miko: BZRP Music Sessions, Vol. 58 »",
+      "artista": "Bizarrap y Young Miko",
+      "radio_cancion": "«Madrid City»",
+      "radio_artista": "Ana Mena"
+    },
+    {
+      "anio": 2024,
+      "semana": 6,
+      "fecha": "8 de febrero",
+      "cancion": "«La última»",
+      "artista": "Quevedo",
+      "radio_cancion": "«Madrid City»",
+      "radio_artista": "Ana Mena"
+    },
+    {
+      "anio": 2024,
+      "semana": 7,
+      "fecha": "15 de febrero",
+      "cancion": "«La última»",
+      "artista": "Quevedo",
+      "radio_cancion": "«Madrid City»",
+      "radio_artista": "Ana Mena"
+    },
+    {
+      "anio": 2024,
+      "semana": 8,
+      "fecha": "22 de febrero",
+      "cancion": "« Luna »",
+      "artista": "Feid y ATL Jacob",
+      "radio_cancion": "« Houdini »",
+      "radio_artista": "Dua Lipa"
+    },
+    {
+      "anio": 2024,
+      "semana": 9,
+      "fecha": "29 de febrero",
+      "cancion": "«Fardos»",
+      "artista": "JC Reyes y De la Ghetto",
+      "radio_cancion": "«Madrid City»",
+      "radio_artista": "Ana Mena"
+    },
+    {
+      "anio": 2024,
+      "semana": 10,
+      "fecha": "7 de marzo",
+      "cancion": "«X'clusivo»",
+      "artista": "Gonzy",
+      "radio_cancion": "«Madrid City»",
+      "radio_artista": "Ana Mena"
+    },
+    {
+      "anio": 2024,
+      "semana": 11,
+      "fecha": "14 de marzo",
+      "cancion": "«X'clusivo»",
+      "artista": "Gonzy",
+      "radio_cancion": "«Madrid City»",
+      "radio_artista": "Ana Mena"
+    },
+    {
+      "anio": 2024,
+      "semana": 12,
+      "fecha": "21 de marzo",
+      "cancion": "«X'clusivo»",
+      "artista": "Gonzy",
+      "radio_cancion": "«Todo cambia»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2024,
+      "semana": 13,
+      "fecha": "28 de marzo",
+      "cancion": "«X'clusivo»",
+      "artista": "Gonzy",
+      "radio_cancion": "«Madrid City»",
+      "radio_artista": "Ana Mena"
+    },
+    {
+      "anio": 2024,
+      "semana": 14,
+      "fecha": "4 de abril",
+      "cancion": "«X'clusivo»",
+      "artista": "Gonzy",
+      "radio_cancion": "« Luna »",
+      "radio_artista": "Feid y ATL Jacob"
+    },
+    {
+      "anio": 2024,
+      "semana": 15,
+      "fecha": "11 de abril",
+      "cancion": "«X'clusivo»",
+      "artista": "Gonzy",
+      "radio_cancion": "«Madrid City»",
+      "radio_artista": "Ana Mena"
+    },
+    {
+      "anio": 2024,
+      "semana": 16,
+      "fecha": "18 de abril",
+      "cancion": "«El conjuntito»",
+      "artista": "El Bobe y Omar Montes",
+      "radio_cancion": "« Beautiful Things »",
+      "radio_artista": "Benson Boone"
+    },
+    {
+      "anio": 2024,
+      "semana": 17,
+      "fecha": "25 de abril",
+      "cancion": "«Santa»",
+      "artista": "Rvssian , Rauw Alejandro y Arya Star",
+      "radio_cancion": "« Luna »",
+      "radio_artista": "Feid y ATL Jacob"
+    },
+    {
+      "anio": 2024,
+      "semana": 18,
+      "fecha": "2 de mayo",
+      "cancion": "«Santa»",
+      "artista": "Rvssian , Rauw Alejandro y Arya Star",
+      "radio_cancion": "« Beautiful Things »",
+      "radio_artista": "Benson Boone"
+    },
+    {
+      "anio": 2024,
+      "semana": 19,
+      "fecha": "9 de mayo",
+      "cancion": "«Badgyal»",
+      "artista": "Saiko , JC Reyes y Dei V",
+      "radio_cancion": "« Lose Control »",
+      "radio_artista": "Teddy Swims"
+    },
+    {
+      "anio": 2024,
+      "semana": 20,
+      "fecha": "16 de mayo",
+      "cancion": "«Badgyal»",
+      "artista": "Saiko , JC Reyes y Dei V",
+      "radio_cancion": "« Beautiful Things »",
+      "radio_artista": "Benson Boone"
+    },
+    {
+      "anio": 2024,
+      "semana": 21,
+      "fecha": "23 de mayo",
+      "cancion": "«Badgyal»",
+      "artista": "Saiko , JC Reyes y Dei V",
+      "radio_cancion": "« Beautiful Things »",
+      "radio_artista": "Benson Boone"
+    },
+    {
+      "anio": 2024,
+      "semana": 22,
+      "fecha": "30 de mayo",
+      "cancion": "«Badgyal»",
+      "artista": "Saiko , JC Reyes y Dei V",
+      "radio_cancion": "«La falda»",
+      "radio_artista": "Myke Towers"
+    },
+    {
+      "anio": 2024,
+      "semana": 23,
+      "fecha": "6 de junio",
+      "cancion": "«Badgyal»",
+      "artista": "Saiko , JC Reyes y Dei V",
+      "radio_cancion": "«La falda»",
+      "radio_artista": "Myke Towers"
+    },
+    {
+      "anio": 2024,
+      "semana": 24,
+      "fecha": "13 de junio",
+      "cancion": "«Badgyal»",
+      "artista": "Saiko , JC Reyes y Dei V",
+      "radio_cancion": "« Beautiful Things »",
+      "radio_artista": "Benson Boone"
+    },
+    {
+      "anio": 2024,
+      "semana": 25,
+      "fecha": "20 de junio",
+      "cancion": "« Real Gangsta Love »",
+      "artista": "Trueno",
+      "radio_cancion": "« Beautiful Things »",
+      "radio_artista": "Benson Boone"
+    },
+    {
+      "anio": 2024,
+      "semana": 26,
+      "fecha": "27 de junio",
+      "cancion": "« Real Gangsta Love »",
+      "artista": "Trueno",
+      "radio_cancion": "« Beautiful Things »",
+      "radio_artista": "Benson Boone"
+    },
+    {
+      "anio": 2024,
+      "semana": 27,
+      "fecha": "4 de julio",
+      "cancion": "« Si antes te hubiera conocido »",
+      "artista": "Karol G",
+      "radio_cancion": "« Lose Control »",
+      "radio_artista": "Teddy Swims"
+    },
+    {
+      "anio": 2024,
+      "semana": 28,
+      "fecha": "11 de julio",
+      "cancion": "« Si antes te hubiera conocido »",
+      "artista": "Karol G",
+      "radio_cancion": "« Beautiful Things »",
+      "radio_artista": "Benson Boone"
+    },
+    {
+      "anio": 2024,
+      "semana": 29,
+      "fecha": "18 de julio",
+      "cancion": "« Potra salvaje »",
+      "artista": "Isabel Aaiún",
+      "radio_cancion": "« Lose Control »",
+      "radio_artista": "Teddy Swims"
+    },
+    {
+      "anio": 2024,
+      "semana": 30,
+      "fecha": "25 de julio",
+      "cancion": "« Si antes te hubiera conocido »",
+      "artista": "Karol G",
+      "radio_cancion": "« Lose Control »",
+      "radio_artista": "Teddy Swims"
+    },
+    {
+      "anio": 2024,
+      "semana": 31,
+      "fecha": "1 de agosto",
+      "cancion": "« Si antes te hubiera conocido »",
+      "artista": "Karol G",
+      "radio_cancion": "« Beautiful Things »",
+      "radio_artista": "Benson Boone"
+    },
+    {
+      "anio": 2024,
+      "semana": 32,
+      "fecha": "8 de agosto",
+      "cancion": "« Si antes te hubiera conocido »",
+      "artista": "Karol G",
+      "radio_cancion": "« Beautiful Things »",
+      "radio_artista": "Benson Boone"
+    },
+    {
+      "anio": 2024,
+      "semana": 33,
+      "fecha": "15 de agosto",
+      "cancion": "« Si antes te hubiera conocido »",
+      "artista": "Karol G",
+      "radio_cancion": "«Todo cambia»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2024,
+      "semana": 34,
+      "fecha": "22 de agosto",
+      "cancion": "« Si antes te hubiera conocido »",
+      "artista": "Karol G",
+      "radio_cancion": "« Si antes te hubiera conocido »",
+      "radio_artista": "Karol G"
+    },
+    {
+      "anio": 2024,
+      "semana": 35,
+      "fecha": "29 de agosto",
+      "cancion": "« Si antes te hubiera conocido »",
+      "artista": "Karol G",
+      "radio_cancion": "« Si antes te hubiera conocido »",
+      "radio_artista": "Karol G"
+    },
+    {
+      "anio": 2024,
+      "semana": 36,
+      "fecha": "5 de septiembre",
+      "cancion": "« Si antes te hubiera conocido »",
+      "artista": "Karol G",
+      "radio_cancion": "« Si antes te hubiera conocido »",
+      "radio_artista": "Karol G"
+    },
+    {
+      "anio": 2024,
+      "semana": 37,
+      "fecha": "12 de septiembre",
+      "cancion": "« Si antes te hubiera conocido »",
+      "artista": "Karol G",
+      "radio_cancion": "« Si antes te hubiera conocido »",
+      "radio_artista": "Karol G"
+    },
+    {
+      "anio": 2024,
+      "semana": 38,
+      "fecha": "19 de septiembre",
+      "cancion": "« Si antes te hubiera conocido »",
+      "artista": "Karol G",
+      "radio_cancion": "« Si antes te hubiera conocido »",
+      "radio_artista": "Karol G"
+    },
+    {
+      "anio": 2024,
+      "semana": 39,
+      "fecha": "26 de septiembre",
+      "cancion": "« Si antes te hubiera conocido »",
+      "artista": "Karol G",
+      "radio_cancion": "« Si antes te hubiera conocido »",
+      "radio_artista": "Karol G"
+    },
+    {
+      "anio": 2024,
+      "semana": 40,
+      "fecha": "3 de octubre",
+      "cancion": "« Si antes te hubiera conocido »",
+      "artista": "Karol G",
+      "radio_cancion": "« Si antes te hubiera conocido »",
+      "radio_artista": "Karol G"
+    },
+    {
+      "anio": 2024,
+      "semana": 41,
+      "fecha": "10 de octubre",
+      "cancion": "« Si antes te hubiera conocido »",
+      "artista": "Karol G",
+      "radio_cancion": "« Beautiful Things »",
+      "radio_artista": "Benson Boone"
+    },
+    {
+      "anio": 2024,
+      "semana": 42,
+      "fecha": "17 de octubre",
+      "cancion": "« Si antes te hubiera conocido »",
+      "artista": "Karol G",
+      "radio_cancion": "« Si antes te hubiera conocido »",
+      "radio_artista": "Karol G"
+    },
+    {
+      "anio": 2024,
+      "semana": 43,
+      "fecha": "24 de octubre",
+      "cancion": "« Si antes te hubiera conocido »",
+      "artista": "Karol G",
+      "radio_cancion": "« Si antes te hubiera conocido »",
+      "radio_artista": "Karol G"
+    },
+    {
+      "anio": 2024,
+      "semana": 44,
+      "fecha": "31 de octubre",
+      "cancion": "«Degenere»",
+      "artista": "Myke Towers y Benny Blanco",
+      "radio_cancion": "« Si antes te hubiera conocido »",
+      "radio_artista": "Karol G"
+    },
+    {
+      "anio": 2024,
+      "semana": 45,
+      "fecha": "7 de noviembre",
+      "cancion": "«Degenere»",
+      "artista": "Myke Towers y Benny Blanco",
+      "radio_cancion": "« Feels like I'm falling in love »",
+      "radio_artista": "Coldplay"
+    },
+    {
+      "anio": 2024,
+      "semana": 46,
+      "fecha": "14 de noviembre",
+      "cancion": "«IA»",
+      "artista": "Clarent",
+      "radio_cancion": "« Si antes te hubiera conocido »",
+      "radio_artista": "Karol G"
+    },
+    {
+      "anio": 2024,
+      "semana": 47,
+      "fecha": "21 de noviembre",
+      "cancion": "« Qué pasaría... »",
+      "artista": "Rauw Alejandro y Bad Bunny",
+      "radio_cancion": "« Si antes te hubiera conocido »",
+      "radio_artista": "Karol G"
+    },
+    {
+      "anio": 2024,
+      "semana": 48,
+      "fecha": "28 de noviembre",
+      "cancion": "« Gran Vía »",
+      "artista": "Quevedo y Aitana",
+      "radio_cancion": "« Soltera »",
+      "radio_artista": "Shakira"
+    },
+    {
+      "anio": 2024,
+      "semana": 49,
+      "fecha": "5 de diciembre",
+      "cancion": "« Gran Vía »",
+      "artista": "Quevedo y Aitana",
+      "radio_cancion": "« Soltera »",
+      "radio_artista": "Shakira"
+    },
+    {
+      "anio": 2024,
+      "semana": 50,
+      "fecha": "12 de diciembre",
+      "cancion": "« Gran Vía »",
+      "artista": "Quevedo y Aitana",
+      "radio_cancion": "« Soltera »",
+      "radio_artista": "Shakira"
+    },
+    {
+      "anio": 2024,
+      "semana": 51,
+      "fecha": "19 de diciembre",
+      "cancion": "« Capaz (merengueton) »",
+      "artista": "Yorghaki y Alleh",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2024,
+      "semana": 52,
+      "fecha": "26 de diciembre",
+      "cancion": "« Capaz (merengueton) »",
+      "artista": "Yorghaki y Alleh",
+      "radio_cancion": "« Soltera »",
+      "radio_artista": "Shakira"
+    },
+    {
+      "anio": 2025,
+      "semana": 1,
+      "fecha": "2 de enero",
+      "cancion": "«Capaz (merengueton)»",
+      "artista": "Alleh y Yorghaki",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 2,
+      "fecha": "9 de enero",
+      "cancion": "«Capaz (merengueton)»",
+      "artista": "Alleh y Yorghaki",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 3,
+      "fecha": "16 de enero",
+      "cancion": "« DTMF »",
+      "artista": "Bad Bunny",
+      "radio_cancion": "« Belong Together »",
+      "radio_artista": "Mark Ambor"
+    },
+    {
+      "anio": 2025,
+      "semana": 4,
+      "fecha": "23 de enero",
+      "cancion": "« DTMF »",
+      "artista": "Bad Bunny",
+      "radio_cancion": "« Die with a Smile »",
+      "radio_artista": "Lady Gaga y Bruno Mars"
+    },
+    {
+      "anio": 2025,
+      "semana": 5,
+      "fecha": "30 de enero",
+      "cancion": "« Nuevayol »",
+      "artista": "Bad Bunny",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 6,
+      "fecha": "6 de febrero",
+      "cancion": "« Nuevayol »",
+      "artista": "Bad Bunny",
+      "radio_cancion": "« Belong Together »",
+      "radio_artista": "Mark Ambor"
+    },
+    {
+      "anio": 2025,
+      "semana": 7,
+      "fecha": "13 de febrero",
+      "cancion": "«Capaz (merengueton)»",
+      "artista": "Alleh y Yorghaki",
+      "radio_cancion": "« Belong Together »",
+      "radio_artista": "Mark Ambor"
+    },
+    {
+      "anio": 2025,
+      "semana": 8,
+      "fecha": "20 de febrero",
+      "cancion": "«Capaz (merengueton)»",
+      "artista": "Alleh y Yorghaki",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 9,
+      "fecha": "27 de febrero",
+      "cancion": "«Capaz (merengueton)»",
+      "artista": "Alleh y Yorghaki",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 10,
+      "fecha": "6 de marzo",
+      "cancion": "«Capaz (merengueton)»",
+      "artista": "Alleh y Yorghaki",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 11,
+      "fecha": "13 de marzo",
+      "cancion": "«La plena (W Sound 05)»",
+      "artista": "W Sound, Beelé y Ovy on the Drums",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 12,
+      "fecha": "20 de marzo",
+      "cancion": "«La plena (W Sound 05)»",
+      "artista": "W Sound, Beelé y Ovy on the Drums",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 13,
+      "fecha": "27 de marzo",
+      "cancion": "«Still Luvin'»",
+      "artista": "Delaossa , Quevedo y Bigla The Kid",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 14,
+      "fecha": "3 de abril",
+      "cancion": "«La plena (W Sound 05)»",
+      "artista": "W Sound, Beelé y Ovy on the Drums",
+      "radio_cancion": "« Die with a Smile »",
+      "radio_artista": "Lady Gaga y Bruno Mars"
+    },
+    {
+      "anio": 2025,
+      "semana": 15,
+      "fecha": "10 de abril",
+      "cancion": "«La plena (W Sound 05)»",
+      "artista": "W Sound, Beelé y Ovy on the Drums",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 16,
+      "fecha": "17 de abril",
+      "cancion": "«La plena (W Sound 05)»",
+      "artista": "W Sound, Beelé y Ovy on the Drums",
+      "radio_cancion": "« Die with a Smile »",
+      "radio_artista": "Lady Gaga y Bruno Mars"
+    },
+    {
+      "anio": 2025,
+      "semana": 17,
+      "fecha": "24 de abril",
+      "cancion": "«La plena (W Sound 05)»",
+      "artista": "W Sound, Beelé y Ovy on the Drums",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 18,
+      "fecha": "1 de mayo",
+      "cancion": "«La plena (W Sound 05)»",
+      "artista": "W Sound, Beelé y Ovy on the Drums",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 19,
+      "fecha": "8 de mayo",
+      "cancion": "«La plena (W Sound 05)»",
+      "artista": "W Sound, Beelé y Ovy on the Drums",
+      "radio_cancion": "« APT. »",
+      "radio_artista": "Rosé y Bruno Mars"
+    },
+    {
+      "anio": 2025,
+      "semana": 20,
+      "fecha": "15 de mayo",
+      "cancion": "«La plena (W Sound 05)»",
+      "artista": "W Sound, Beelé y Ovy on the Drums",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 21,
+      "fecha": "22 de mayo",
+      "cancion": "«La plena (W Sound 05)»",
+      "artista": "W Sound, Beelé y Ovy on the Drums",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 22,
+      "fecha": "29 de mayo",
+      "cancion": "«Droga»",
+      "artista": "Mora y C. Tangana",
+      "radio_cancion": "« APT. »",
+      "radio_artista": "Rosé y Bruno Mars"
+    },
+    {
+      "anio": 2025,
+      "semana": 23,
+      "fecha": "5 de junio",
+      "cancion": "«No tiene sentido»",
+      "artista": "Beelé",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 24,
+      "fecha": "12 de junio",
+      "cancion": "«No tiene sentido»",
+      "artista": "Beelé",
+      "radio_cancion": "« Ordinary »",
+      "radio_artista": "Alex Warren"
+    },
+    {
+      "anio": 2025,
+      "semana": 25,
+      "fecha": "19 de junio",
+      "cancion": "«No tiene sentido»",
+      "artista": "Beelé",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 26,
+      "fecha": "26 de junio",
+      "cancion": "«No tiene sentido»",
+      "artista": "Beelé",
+      "radio_cancion": "« Ordinary »",
+      "radio_artista": "Alex Warren"
+    },
+    {
+      "anio": 2025,
+      "semana": 27,
+      "fecha": "3 de julio",
+      "cancion": "«La plena (W Sound 05)»",
+      "artista": "W Sound, Beelé y Ovy on the Drums",
+      "radio_cancion": "« Ordinary »",
+      "radio_artista": "Alex Warren"
+    },
+    {
+      "anio": 2025,
+      "semana": 28,
+      "fecha": "10 de julio",
+      "cancion": "«La plena (W Sound 05)»",
+      "artista": "W Sound, Beelé y Ovy on the Drums",
+      "radio_cancion": "«Me has invitado a bailar»",
+      "radio_artista": "Dani Fernández"
+    },
+    {
+      "anio": 2025,
+      "semana": 29,
+      "fecha": "17 de julio",
+      "cancion": "«Tuchat»",
+      "artista": "Quevedo",
+      "radio_cancion": "« Ordinary »",
+      "radio_artista": "Alex Warren"
+    },
+    {
+      "anio": 2025,
+      "semana": 30,
+      "fecha": "24 de julio",
+      "cancion": "«La plena (W Sound 05)»",
+      "artista": "W Sound, Beelé y Ovy on the Drums",
+      "radio_cancion": "« Ordinary »",
+      "radio_artista": "Alex Warren"
+    },
+    {
+      "anio": 2025,
+      "semana": 31,
+      "fecha": "31 de julio",
+      "cancion": "«La plena (W Sound 05)»",
+      "artista": "W Sound, Beelé y Ovy on the Drums",
+      "radio_cancion": "« Ordinary »",
+      "radio_artista": "Alex Warren"
+    },
+    {
+      "anio": 2025,
+      "semana": 32,
+      "fecha": "7 de agosto",
+      "cancion": "«Tú vas sin (fav)»",
+      "artista": "Rels B",
+      "radio_cancion": "« Ordinary »",
+      "radio_artista": "Alex Warren"
+    },
+    {
+      "anio": 2025,
+      "semana": 33,
+      "fecha": "14 de agosto",
+      "cancion": "«Tú vas sin (fav)»",
+      "artista": "Rels B",
+      "radio_cancion": "«Anxiety»",
+      "radio_artista": "Doechii"
+    },
+    {
+      "anio": 2025,
+      "semana": 34,
+      "fecha": "21 de agosto",
+      "cancion": "«Tú vas sin (fav)»",
+      "artista": "Rels B",
+      "radio_cancion": "« Ordinary »",
+      "radio_artista": "Alex Warren"
+    },
+    {
+      "anio": 2025,
+      "semana": 35,
+      "fecha": "28 de agosto",
+      "cancion": "«Tú vas sin (fav)»",
+      "artista": "Rels B",
+      "radio_cancion": "« Ordinary »",
+      "radio_artista": "Alex Warren"
+    },
+    {
+      "anio": 2025,
+      "semana": 36,
+      "fecha": "4 de septiembre",
+      "cancion": "«Me mareo»",
+      "artista": "Kid Voodoo y JC Reyes",
+      "radio_cancion": "« 6 de febrero »",
+      "radio_artista": "Aitana"
+    },
+    {
+      "anio": 2025,
+      "semana": 37,
+      "fecha": "11 de septiembre",
+      "cancion": "«Tú vas sin (fav)»",
+      "artista": "Rels B",
+      "radio_cancion": "« Ordinary »",
+      "radio_artista": "Alex Warren"
+    },
+    {
+      "anio": 2025,
+      "semana": 38,
+      "fecha": "18 de septiembre",
+      "cancion": "«Me mareo»",
+      "artista": "Kid Voodoo y JC Reyes",
+      "radio_cancion": "«Anxiety»",
+      "radio_artista": "Doechii"
+    }
+  ],
+  "meta": {
+    "title": "Sencillos número uno en España (2023–2025) - Free Download",
+    "description": "Canciones número uno semanales de las listas PROMUSICAE Top 100 Canciones y Top 50 Radio en España, 2023–2025. Contains 142 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sencillos número uno en España (2023–2025) | ListBase",
+    "seo_description": "Download Sencillos número uno en España (2023–2025) — 142 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 142 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Sencillos_número_uno_de_Top_100_Canciones_de_2024"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:17:57.025Z",
-  "total_datasets": 490,
-  "total_records": 421871,
+  "generated": "2026-10-27T02:18:02.936Z",
+  "total_datasets": 491,
+  "total_records": 422013,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -2342,6 +2342,34 @@
         "xlsx": {
           "name": "es-sencillos-mas-semanas-numero-uno_ES.xlsx",
           "size": 8254
+        }
+      }
+    },
+    {
+      "id": "es-sencillos-numero-uno-espana-2023-2025",
+      "name": "Sencillos número uno en España (2023–2025)",
+      "category": "music",
+      "record_count": 142,
+      "columns": [
+        "anio",
+        "semana",
+        "fecha",
+        "cancion",
+        "artista",
+        "radio_cancion",
+        "radio_artista"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Sencillos_número_uno_de_Top_100_Canciones_de_2024",
+      "updated": "2026-10",
+      "size": 37495,
+      "files": {
+        "csv": {
+          "name": "es-sencillos-numero-uno-espana-2023-2025_ES.csv",
+          "size": 15697
+        },
+        "xlsx": {
+          "name": "es-sencillos-numero-uno-espana-2023-2025_ES.xlsx",
+          "size": 12842
         }
       }
     },
