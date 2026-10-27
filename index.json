@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:17:35.531Z",
-  "total_datasets": 482,
-  "total_records": 421392,
+  "generated": "2026-10-27T02:17:38.043Z",
+  "total_datasets": 483,
+  "total_records": 421494,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "reference",
@@ -2213,6 +2213,33 @@
         "xlsx": {
           "name": "es-presidentes-de-argentina_ES.xlsx",
           "size": 11290
+        }
+      }
+    },
+    {
+      "id": "es-presidentes-de-mexico",
+      "name": "Presidentes de México",
+      "category": "politics",
+      "record_count": 102,
+      "columns": [
+        "numero",
+        "presidente",
+        "entidad_de_origen",
+        "periodo",
+        "partido",
+        "eleccion"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Gobernantes_de_México",
+      "updated": "2026-10",
+      "size": 27229,
+      "files": {
+        "csv": {
+          "name": "es-presidentes-de-mexico_ES.csv",
+          "size": 12063
+        },
+        "xlsx": {
+          "name": "es-presidentes-de-mexico_ES.xlsx",
+          "size": 12192
         }
       }
     },

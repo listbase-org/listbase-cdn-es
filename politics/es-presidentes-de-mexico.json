@@ -1,0 +1,872 @@
+{
+  "id": "es-presidentes-de-mexico",
+  "name": "Presidentes de México",
+  "title": "Presidentes de México",
+  "description": "Presidentes de los Estados Unidos Mexicanos desde 1824, con entidad de origen, período y partido.",
+  "category": "politics",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Gobernantes_de_México",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Gobernantes_de_México",
+  "updated": "2026-10",
+  "record_count": 102,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "string"
+    },
+    {
+      "key": "presidente",
+      "label": "Presidente",
+      "type": "string"
+    },
+    {
+      "key": "entidad_de_origen",
+      "label": "Entidad De Origen",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    },
+    {
+      "key": "partido",
+      "label": "Partido",
+      "type": "string"
+    },
+    {
+      "key": "eleccion",
+      "label": "Eleccion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": "1.º",
+      "presidente": "Guadalupe Victoria",
+      "entidad_de_origen": "Durango",
+      "periodo": "10 de octubre de 1824-31 de marzo de 1825 Presidente del Supremo Poder Ejecutivo",
+      "partido": "Independiente",
+      "eleccion": "( 1824 )"
+    },
+    {
+      "numero": "1.º",
+      "presidente": "Guadalupe Victoria",
+      "entidad_de_origen": "Durango",
+      "periodo": "1 de abril de 1825- 30 de marzo de 1829",
+      "partido": "Independiente",
+      "eleccion": "( 1824 )"
+    },
+    {
+      "numero": "2.º",
+      "presidente": "Vicente Guerrero Saldaña",
+      "entidad_de_origen": "Guerrero",
+      "periodo": "1 de abril de 1829-17 de diciembre de 1829",
+      "partido": "Partido Popular",
+      "eleccion": ""
+    },
+    {
+      "numero": "3.º",
+      "presidente": "José María Bocanegra y Villalpando",
+      "entidad_de_origen": "Aguascalientes",
+      "periodo": "17 de diciembre de 1829-23 de diciembre de 1829",
+      "partido": "Partido Popular",
+      "eleccion": ""
+    },
+    {
+      "numero": "",
+      "presidente": "Pedro Vélez - Luis Quintanar - Lucas Alamán (Triunvirato)",
+      "entidad_de_origen": "Zacatecas (Vélez) Querétaro (Quintanar) Guanajuato (Alamán)",
+      "periodo": "23 de diciembre de 1829-31 de diciembre de 1829",
+      "partido": "Ninguno",
+      "eleccion": ""
+    },
+    {
+      "numero": "4.º",
+      "presidente": "Anastasio Bustamante y Oseguera",
+      "entidad_de_origen": "Michoacán",
+      "periodo": "1 de enero de 1830-13 de agosto de 1832",
+      "partido": "Partido del Orden",
+      "eleccion": ""
+    },
+    {
+      "numero": "5.º",
+      "presidente": "Melchor Múzquiz",
+      "entidad_de_origen": "Coahuila",
+      "periodo": "14 de agosto de 1832-24 de diciembre de 1832",
+      "partido": "Partido del Orden",
+      "eleccion": ""
+    },
+    {
+      "numero": "6.º",
+      "presidente": "Manuel Gómez Pedraza",
+      "entidad_de_origen": "Querétaro",
+      "periodo": "24 de diciembre de 1832-31 de marzo de 1833",
+      "partido": "Independiente",
+      "eleccion": "( 1828 )"
+    },
+    {
+      "numero": "7.º",
+      "presidente": "Valentín Gómez Farías",
+      "entidad_de_origen": "Jalisco",
+      "periodo": "1 de abril de 1833-16 de mayo de 1833",
+      "partido": "Partido del Progreso",
+      "eleccion": ""
+    },
+    {
+      "numero": "8.º",
+      "presidente": "Antonio López de Santa Anna",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "16 de mayo de 1833-3 de junio de 1833",
+      "partido": "Partido del Progreso",
+      "eleccion": "( 1833 )"
+    },
+    {
+      "numero": "2.º mandato",
+      "presidente": "Valentín Gómez Farías",
+      "entidad_de_origen": "Jalisco",
+      "periodo": "3 de junio de 1833-18 de junio de 1833",
+      "partido": "Partido del Progreso",
+      "eleccion": ""
+    },
+    {
+      "numero": "2.º Mandato",
+      "presidente": "Antonio López de Santa Anna",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "18 de junio de 1833-5 de julio de 1833",
+      "partido": "Partido del Progreso",
+      "eleccion": ""
+    },
+    {
+      "numero": "3. er mandato",
+      "presidente": "Valentín Gómez Farías",
+      "entidad_de_origen": "Jalisco",
+      "periodo": "5 de julio de 1833-27 de octubre de 1833",
+      "partido": "Partido del Progreso",
+      "eleccion": ""
+    },
+    {
+      "numero": "3. er mandato",
+      "presidente": "Antonio López de Santa Anna",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "27 de octubre de 1833-15 de diciembre de 1833",
+      "partido": "Partido del Progreso",
+      "eleccion": ""
+    },
+    {
+      "numero": "4.º Mandato",
+      "presidente": "Valentín Gómez Farías",
+      "entidad_de_origen": "Jalisco",
+      "periodo": "16 de diciembre de 1833-24 de abril de 1834",
+      "partido": "Partido del Progreso",
+      "eleccion": ""
+    },
+    {
+      "numero": "4.º Mandato",
+      "presidente": "Antonio López de Santa Anna",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "24 de abril de 1834-27 de enero de 1835",
+      "partido": "Partido del Progreso",
+      "eleccion": ""
+    },
+    {
+      "numero": "9.º",
+      "presidente": "Miguel Barragán",
+      "entidad_de_origen": "San Luis Potosí",
+      "periodo": "28 de enero de 1835-27 de febrero de 1836",
+      "partido": "Partido del Orden",
+      "eleccion": ""
+    },
+    {
+      "numero": "10.º",
+      "presidente": "José Justo Corro",
+      "entidad_de_origen": "Jalisco",
+      "periodo": "27 de febrero de 1836- 19 de abril de 1837",
+      "partido": "Partido del Orden",
+      "eleccion": ""
+    },
+    {
+      "numero": "2.º Mandato",
+      "presidente": "Anastasio Bustamante y Oseguera",
+      "entidad_de_origen": "Michoacán",
+      "periodo": "19 de abril de 1837- 18 de marzo de 1839",
+      "partido": "Partido del Orden",
+      "eleccion": "( 1837 )"
+    },
+    {
+      "numero": "5.º Mandato",
+      "presidente": "Antonio López de Santa Anna",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "18 de marzo- 10 de julio de 1839",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "11.º",
+      "presidente": "Nicolás Bravo",
+      "entidad_de_origen": "Guerrero",
+      "periodo": "10 de julio- 18 de julio de 1839",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "3. er Mandato",
+      "presidente": "Anastasio Bustamante y Oseguera",
+      "entidad_de_origen": "Michoacán",
+      "periodo": "18 de julio de 1839- 22 de septiembre de 1841",
+      "partido": "Partido del Orden",
+      "eleccion": ""
+    },
+    {
+      "numero": "12.º",
+      "presidente": "Francisco Javier Echeverría",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "22 de septiembre- 10 de octubre de 1841",
+      "partido": "Partido del Orden",
+      "eleccion": ""
+    },
+    {
+      "numero": "6.º Mandato",
+      "presidente": "Antonio López de Santa Anna",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "10 de octubre de 1841- 26 de octubre de 1842",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "2.º Mandato",
+      "presidente": "Nicolás Bravo",
+      "entidad_de_origen": "Guerrero",
+      "periodo": "26 de octubre de 1842- 14 de mayo de 1843",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "7.º Mandato",
+      "presidente": "Antonio López de Santa Anna",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "14 de mayo- 6 de septiembre de 1843",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "13.º",
+      "presidente": "Valentín Canalizo",
+      "entidad_de_origen": "Nuevo León",
+      "periodo": "7 de septiembre de 1843- 4 de junio de 1844",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "8.º Mandato",
+      "presidente": "Antonio López de Santa Anna",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "4 de junio- 12 de septiembre de 1844",
+      "partido": "Partido Conservador",
+      "eleccion": "( 1844 )"
+    },
+    {
+      "numero": "14.º",
+      "presidente": "José Joaquín de Herrera",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "12 de septiembre- 21 de septiembre de 1844",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "2.º Mandato",
+      "presidente": "Valentín Canalizo",
+      "entidad_de_origen": "Nuevo León",
+      "periodo": "21 de septiembre- 6 de diciembre de 1844",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "2.º Mandato",
+      "presidente": "José Joaquín de Herrera",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "6 de diciembre de 1844- 30 de diciembre de 1845",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "15.º",
+      "presidente": "Mariano Paredes y Arrillaga",
+      "entidad_de_origen": "Ciudad de México",
+      "periodo": "31 de diciembre de 1845- 28 de julio de 1846",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "3. er Mandato",
+      "presidente": "Nicolás Bravo",
+      "entidad_de_origen": "Guerrero",
+      "periodo": "28 de julio- 6 de agosto de 1846",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "16.°",
+      "presidente": "José Mariano Salas",
+      "entidad_de_origen": "Ciudad de México",
+      "periodo": "6 de agosto- 23 de diciembre de 1846",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "5.º Mandato",
+      "presidente": "Valentín Gómez Farías",
+      "entidad_de_origen": "Jalisco",
+      "periodo": "23 de diciembre de 1846- 21 de marzo de 1847",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "9.º Mandato",
+      "presidente": "Antonio López de Santa Anna",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "21 de marzo- 2 de abril de 1847",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "17.º",
+      "presidente": "Pedro María Anaya",
+      "entidad_de_origen": "Hidalgo",
+      "periodo": "2 de abril- 20 de mayo de 1847",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "10.º Mandato",
+      "presidente": "Antonio López de Santa Anna",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "20 de mayo- 16 de septiembre de 1847",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "18.º",
+      "presidente": "Manuel de la Peña y Peña",
+      "entidad_de_origen": "Ciudad de México",
+      "periodo": "16 de septiembre- 13 de noviembre de 1847",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "2.º Mandato",
+      "presidente": "Pedro María Anaya",
+      "entidad_de_origen": "Hidalgo",
+      "periodo": "13 de noviembre de 1847- 8 de enero de 1848",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "2.º Mandato",
+      "presidente": "Manuel de la Peña y Peña",
+      "entidad_de_origen": "Distrito Federal",
+      "periodo": "8 de enero- 2 de junio de 1848",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "3. er Mandato",
+      "presidente": "José Joaquín de Herrera",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "2 de junio de 1848- 15 de enero de 1851",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "19.º",
+      "presidente": "Mariano Arista",
+      "entidad_de_origen": "San Luis Potosí",
+      "periodo": "15 de enero de 1851- 5 de enero de 1853",
+      "partido": "Partido Liberal",
+      "eleccion": "( 1850 )"
+    },
+    {
+      "numero": "20.º",
+      "presidente": "Juan Bautista Ceballos",
+      "entidad_de_origen": "Durango",
+      "periodo": "6 de enero- 8 de febrero de 1853",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "21.°",
+      "presidente": "Manuel María Lombardini",
+      "entidad_de_origen": "Distrito Federal",
+      "periodo": "8 de febrero- 20 de abril de 1853",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "11.º Mandato",
+      "presidente": "Antonio López de Santa Anna",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "20 de abril de 1853- 12 de agosto de 1855",
+      "partido": "",
+      "eleccion": ""
+    },
+    {
+      "numero": "22.º",
+      "presidente": "Martín Carrera Sabat",
+      "entidad_de_origen": "Puebla",
+      "periodo": "12 de agosto- 12 de septiembre de 1855",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "23.º",
+      "presidente": "Rómulo Díaz de la Vega Fuentes",
+      "entidad_de_origen": "Distrito Federal",
+      "periodo": "12 de septiembre- 3 de octubre de 1855",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "24.º",
+      "presidente": "Juan Álvarez Hurtado",
+      "entidad_de_origen": "Guerrero",
+      "periodo": "4 de octubre- 11 de diciembre de 1855",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "25.º",
+      "presidente": "Ignacio Comonfort",
+      "entidad_de_origen": "Puebla",
+      "periodo": "11 de diciembre de 1855- 30 de noviembre de 1857",
+      "partido": "Partido Liberal",
+      "eleccion": "( 1857 )"
+    },
+    {
+      "numero": "25.º",
+      "presidente": "Ignacio Comonfort",
+      "entidad_de_origen": "Puebla",
+      "periodo": "1 de diciembre de 1857- 21 de enero de 1858",
+      "partido": "Partido Liberal",
+      "eleccion": "( 1857 )"
+    },
+    {
+      "numero": "26.º",
+      "presidente": "Benito Juárez García",
+      "entidad_de_origen": "Oaxaca",
+      "periodo": "21 de enero de 1858- 30 de noviembre de 1861",
+      "partido": "Partido Liberal",
+      "eleccion": "( 1861 )"
+    },
+    {
+      "numero": "26.º",
+      "presidente": "Benito Juárez García",
+      "entidad_de_origen": "Oaxaca",
+      "periodo": "1 de diciembre de 1861- 30 de noviembre de 1865",
+      "partido": "Partido Liberal",
+      "eleccion": "( 1861 )"
+    },
+    {
+      "numero": "27.º",
+      "presidente": "Félix María Zuloaga",
+      "entidad_de_origen": "Sonora",
+      "periodo": "23 de enero- 24 de diciembre de 1858",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "28.°",
+      "presidente": "Manuel Robles Pezuela",
+      "entidad_de_origen": "Guanajuato",
+      "periodo": "24 de diciembre de 1858- 21 de enero de 1859",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "2.º mandato",
+      "presidente": "José Mariano Salas",
+      "entidad_de_origen": "Distrito Federal",
+      "periodo": "21 de enero- 2 de febrero de 1859",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "29.º",
+      "presidente": "Miguel Gregorio Miramón",
+      "entidad_de_origen": "Distrito Federal",
+      "periodo": "2 de febrero de 1859- 13 de agosto de 1860",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "30.º",
+      "presidente": "José Ignacio Pavón",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "13 de agosto- 15 de agosto de 1860",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "2.º Mandato",
+      "presidente": "Miguel Gregorio Miramón",
+      "entidad_de_origen": "Distrito Federal",
+      "periodo": "15 de agosto- 24 de diciembre de 1860",
+      "partido": "Partido Conservador",
+      "eleccion": ""
+    },
+    {
+      "numero": "Continúa",
+      "presidente": "Benito Juárez",
+      "entidad_de_origen": "Oaxaca",
+      "periodo": "",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "Continúa",
+      "presidente": "Benito Juárez",
+      "entidad_de_origen": "Oaxaca",
+      "periodo": "",
+      "partido": "Partido Liberal",
+      "eleccion": "( 1867 ) ( 1871 )"
+    },
+    {
+      "numero": "31.º",
+      "presidente": "Sebastián Lerdo de Tejada",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "",
+      "partido": "Partido Liberal",
+      "eleccion": "( 1872 )"
+    },
+    {
+      "numero": "32.º",
+      "presidente": "José María Iglesias",
+      "entidad_de_origen": "Distrito Federal",
+      "periodo": "",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "33.º",
+      "presidente": "Porfirio Díaz",
+      "entidad_de_origen": "Oaxaca",
+      "periodo": "",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "34.º",
+      "presidente": "Juan Nepomuceno Méndez",
+      "entidad_de_origen": "Puebla",
+      "periodo": "",
+      "partido": "Partido Liberal",
+      "eleccion": ""
+    },
+    {
+      "numero": "2.º Mandato",
+      "presidente": "Porfirio Díaz",
+      "entidad_de_origen": "Oaxaca",
+      "periodo": "",
+      "partido": "Partido Liberal",
+      "eleccion": "( 1877 )"
+    },
+    {
+      "numero": "35.º",
+      "presidente": "Manuel González Flores",
+      "entidad_de_origen": "Tamaulipas",
+      "periodo": "",
+      "partido": "Partido Liberal",
+      "eleccion": "( 1880 )"
+    },
+    {
+      "numero": "3. er mandato",
+      "presidente": "Porfirio Díaz",
+      "entidad_de_origen": "Oaxaca",
+      "periodo": "",
+      "partido": "Partido Liberal",
+      "eleccion": "( 1884 ) ( 1888 ) ( 1892 ) ( 1896 ) ( 1900 ) ( 1904 ) ( 1910 )"
+    },
+    {
+      "numero": "3. er mandato",
+      "presidente": "Porfirio Díaz",
+      "entidad_de_origen": "Oaxaca",
+      "periodo": "",
+      "partido": "Círculo Nacional Porfirista",
+      "eleccion": "( 1884 ) ( 1888 ) ( 1892 ) ( 1896 ) ( 1900 ) ( 1904 ) ( 1910 )"
+    },
+    {
+      "numero": "3. er mandato",
+      "presidente": "Porfirio Díaz",
+      "entidad_de_origen": "Oaxaca",
+      "periodo": "",
+      "partido": "Círculo Nacional Porfirista y Partido Nacional Reeleccionista",
+      "eleccion": "( 1884 ) ( 1888 ) ( 1892 ) ( 1896 ) ( 1900 ) ( 1904 ) ( 1910 )"
+    },
+    {
+      "numero": "36.º",
+      "presidente": "Francisco León de la Barra",
+      "entidad_de_origen": "Querétaro",
+      "periodo": "",
+      "partido": "Independiente",
+      "eleccion": ""
+    },
+    {
+      "numero": "37.º",
+      "presidente": "Francisco I. Madero",
+      "entidad_de_origen": "Coahuila",
+      "periodo": "",
+      "partido": "Partido Constitucional Progresista",
+      "eleccion": "( 1911 )"
+    },
+    {
+      "numero": "38.º",
+      "presidente": "Pedro Lascuráin",
+      "entidad_de_origen": "Distrito Federal",
+      "periodo": "",
+      "partido": "Partido Constitucional Progresista",
+      "eleccion": ""
+    },
+    {
+      "numero": "39.º",
+      "presidente": "Victoriano Huerta Márquez",
+      "entidad_de_origen": "Jalisco",
+      "periodo": "",
+      "partido": "Independiente",
+      "eleccion": ""
+    },
+    {
+      "numero": "40.º",
+      "presidente": "Francisco Carvajal",
+      "entidad_de_origen": "Campeche",
+      "periodo": "",
+      "partido": "Independiente",
+      "eleccion": ""
+    },
+    {
+      "numero": "41.º",
+      "presidente": "Eulalio Gutiérrez Ortiz",
+      "entidad_de_origen": "Coahuila",
+      "periodo": "",
+      "partido": "Convencionista",
+      "eleccion": ""
+    },
+    {
+      "numero": "42.º",
+      "presidente": "Roque González Garza",
+      "entidad_de_origen": "Coahuila",
+      "periodo": "",
+      "partido": "Convencionista",
+      "eleccion": ""
+    },
+    {
+      "numero": "43.º",
+      "presidente": "Francisco Lagos Cházaro",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "",
+      "partido": "Convencionista",
+      "eleccion": ""
+    },
+    {
+      "numero": "44.º",
+      "presidente": "Venustiano Carranza",
+      "entidad_de_origen": "Coahuila",
+      "periodo": "13 de agosto de 1914- 30 de abril de 1917 ( de facto , según los constitucionalistas)",
+      "partido": "Apoyado por el Ejército Constitucionalista",
+      "eleccion": ""
+    },
+    {
+      "numero": "44.º",
+      "presidente": "Venustiano Carranza",
+      "entidad_de_origen": "Coahuila",
+      "periodo": "1 de mayo de 1917-21 de mayo de 1920 (constitucionalmente)",
+      "partido": "Partido Liberal Constitucionalista",
+      "eleccion": "( 1917 )"
+    },
+    {
+      "numero": "45.º",
+      "presidente": "Adolfo de la Huerta",
+      "entidad_de_origen": "Sonora",
+      "periodo": "1 de junio de 1920- 30 de noviembre de 1920",
+      "partido": "Partido Liberal Constitucionalista",
+      "eleccion": ""
+    },
+    {
+      "numero": "46.º",
+      "presidente": "Álvaro Obregón",
+      "entidad_de_origen": "Sonora",
+      "periodo": "1 de diciembre de 1920- 30 de noviembre de 1924",
+      "partido": "Partido Laborista Mexicano",
+      "eleccion": "( 1920 )"
+    },
+    {
+      "numero": "47.º",
+      "presidente": "Plutarco Elías Calles",
+      "entidad_de_origen": "Sonora",
+      "periodo": "1 de diciembre de 1924- 30 de noviembre de 1928",
+      "partido": "Partido Laborista Mexicano",
+      "eleccion": "( 1924 )"
+    },
+    {
+      "numero": "48.º",
+      "presidente": "Emilio Portes Gil",
+      "entidad_de_origen": "Tamaulipas",
+      "periodo": "1 de diciembre de 1928- 5 de febrero de 1930",
+      "partido": "Partido Laborista Mexicano",
+      "eleccion": ""
+    },
+    {
+      "numero": "49.º",
+      "presidente": "Pascual Ortiz Rubio",
+      "entidad_de_origen": "Michoacán",
+      "periodo": "5 de febrero de 1930- 2 de septiembre de 1932",
+      "partido": "Partido Nacional Revolucionario",
+      "eleccion": "( 1929 )"
+    },
+    {
+      "numero": "50.º",
+      "presidente": "Abelardo L. Rodríguez",
+      "entidad_de_origen": "Sonora",
+      "periodo": "3 de septiembre de 1932- 30 de noviembre de 1934",
+      "partido": "Partido Nacional Revolucionario",
+      "eleccion": ""
+    },
+    {
+      "numero": "51.º",
+      "presidente": "Lázaro Cárdenas del Río",
+      "entidad_de_origen": "Michoacán",
+      "periodo": "1 de diciembre de 1934- 30 de noviembre de 1940",
+      "partido": "Partido Nacional Revolucionario",
+      "eleccion": "( 1934 )"
+    },
+    {
+      "numero": "52.º",
+      "presidente": "Manuel Ávila Camacho",
+      "entidad_de_origen": "Puebla",
+      "periodo": "1 de diciembre de 1940- 30 de noviembre de 1946",
+      "partido": "Partido de la Revolución Mexicana",
+      "eleccion": "( 1940 )"
+    },
+    {
+      "numero": "53.º",
+      "presidente": "Miguel Alemán Valdés",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "1 de diciembre de 1946- 30 de noviembre de 1952",
+      "partido": "Partido Revolucionario Institucional",
+      "eleccion": "( 1946 )"
+    },
+    {
+      "numero": "54.º",
+      "presidente": "Adolfo Ruiz Cortines",
+      "entidad_de_origen": "Veracruz",
+      "periodo": "1 de diciembre de 1952- 30 de noviembre de 1958",
+      "partido": "Partido Revolucionario Institucional",
+      "eleccion": "( 1952 )"
+    },
+    {
+      "numero": "55.º",
+      "presidente": "Adolfo López Mateos",
+      "entidad_de_origen": "Estado de México",
+      "periodo": "1 de diciembre de 1958- 30 de noviembre de 1964",
+      "partido": "Partido Revolucionario Institucional",
+      "eleccion": "( 1958 )"
+    },
+    {
+      "numero": "56.º",
+      "presidente": "Gustavo Díaz Ordaz Bolaños",
+      "entidad_de_origen": "Puebla",
+      "periodo": "1 de diciembre de 1964- 30 de noviembre de 1970",
+      "partido": "Partido Revolucionario Institucional",
+      "eleccion": "( 1964 )"
+    },
+    {
+      "numero": "57.º",
+      "presidente": "Luis Echeverría Álvarez",
+      "entidad_de_origen": "Distrito Federal",
+      "periodo": "1 de diciembre de 1970- 30 de noviembre de 1976",
+      "partido": "Partido Revolucionario Institucional",
+      "eleccion": "( 1970 )"
+    },
+    {
+      "numero": "58.º",
+      "presidente": "José López Portillo y Pacheco",
+      "entidad_de_origen": "Distrito Federal",
+      "periodo": "1 de diciembre de 1976- 30 de noviembre de 1982",
+      "partido": "Partido Revolucionario Institucional",
+      "eleccion": "( 1976 )"
+    },
+    {
+      "numero": "59.º",
+      "presidente": "Miguel de la Madrid Hurtado",
+      "entidad_de_origen": "Colima",
+      "periodo": "1 de diciembre de 1982- 30 de noviembre de 1988",
+      "partido": "Partido Revolucionario Institucional",
+      "eleccion": "( 1982 )"
+    },
+    {
+      "numero": "60.º",
+      "presidente": "Carlos Salinas de Gortari",
+      "entidad_de_origen": "Distrito Federal",
+      "periodo": "1 de diciembre de 1988- 30 de noviembre de 1994",
+      "partido": "Partido Revolucionario Institucional",
+      "eleccion": "( 1988 )"
+    },
+    {
+      "numero": "61.º",
+      "presidente": "Ernesto Zedillo Ponce de León",
+      "entidad_de_origen": "Distrito Federal",
+      "periodo": "1 de diciembre de 1994- 30 de noviembre de 2000",
+      "partido": "Partido Revolucionario Institucional",
+      "eleccion": "( 1994 )"
+    },
+    {
+      "numero": "62.º",
+      "presidente": "Vicente Fox Quesada",
+      "entidad_de_origen": "Distrito Federal",
+      "periodo": "1 de diciembre de 2000- 30 de noviembre de 2006",
+      "partido": "Partido Acción Nacional",
+      "eleccion": "( 2000 )"
+    },
+    {
+      "numero": "63.º",
+      "presidente": "Felipe Calderón Hinojosa",
+      "entidad_de_origen": "Michoacán",
+      "periodo": "1 de diciembre de 2006- 30 de noviembre de 2012",
+      "partido": "Partido Acción Nacional",
+      "eleccion": "( 2006 )"
+    },
+    {
+      "numero": "64.º",
+      "presidente": "Enrique Peña Nieto",
+      "entidad_de_origen": "Estado de México",
+      "periodo": "1 de diciembre de 2012- 30 de noviembre de 2018",
+      "partido": "Partido Revolucionario Institucional",
+      "eleccion": "( 2012 )"
+    },
+    {
+      "numero": "65.º",
+      "presidente": "Andrés Manuel López Obrador",
+      "entidad_de_origen": "Tabasco",
+      "periodo": "1 de diciembre de 2018- 30 de septiembre de 2024",
+      "partido": "Morena",
+      "eleccion": "( 2018 )"
+    },
+    {
+      "numero": "66.º",
+      "presidente": "Claudia Sheinbaum Pardo",
+      "entidad_de_origen": "Ciudad de México",
+      "periodo": "Desde el 1 de octubre de 2024",
+      "partido": "Morena",
+      "eleccion": "( 2024 )"
+    }
+  ],
+  "meta": {
+    "title": "Presidentes de México - Free Download",
+    "description": "Presidentes de los Estados Unidos Mexicanos desde 1824, con entidad de origen, período y partido. Contains 102 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidentes de México | ListBase",
+    "seo_description": "Download Presidentes de México — 102 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 102 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Gobernantes_de_México"
+    ]
+  }
+}
