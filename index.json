@@ -1,12 +1,12 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:16:51.859Z",
-  "total_datasets": 465,
-  "total_records": 418862,
+  "generated": "2026-10-27T02:16:54.644Z",
+  "total_datasets": 466,
+  "total_records": 418891,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -85,6 +85,32 @@
         "xlsx": {
           "name": "es-alimentos-protegidos-andalucia_ES.xlsx",
           "size": 9255
+        }
+      }
+    },
+    {
+      "id": "es-alimentos-protegidos-galicia",
+      "name": "Alimentos con denominación de origen de Galicia",
+      "category": "agriculture",
+      "record_count": 29,
+      "columns": [
+        "tipo",
+        "producto",
+        "proteccion",
+        "obtencion",
+        "sede_consejo_regulador"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Alimentos_protegidos_de_Galicia",
+      "updated": "2026-10",
+      "size": 7727,
+      "files": {
+        "csv": {
+          "name": "es-alimentos-protegidos-galicia_ES.csv",
+          "size": 2527
+        },
+        "xlsx": {
+          "name": "es-alimentos-protegidos-galicia_ES.xlsx",
+          "size": 7973
         }
       }
     },

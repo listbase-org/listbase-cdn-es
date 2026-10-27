@@ -1,0 +1,254 @@
+{
+  "id": "es-alimentos-protegidos-galicia",
+  "name": "Alimentos con denominación de origen de Galicia",
+  "title": "Alimentos con denominación de origen de Galicia",
+  "description": "Alimentos y bebidas protegidos (DOP, IGP) de Galicia, con tipo, año de obtención y sede del consejo regulador.",
+  "category": "agriculture",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Alimentos_protegidos_de_Galicia",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Alimentos_protegidos_de_Galicia",
+  "updated": "2026-10",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "producto",
+      "label": "Producto",
+      "type": "string"
+    },
+    {
+      "key": "proteccion",
+      "label": "Proteccion",
+      "type": "string"
+    },
+    {
+      "key": "obtencion",
+      "label": "Obtencion",
+      "type": "number"
+    },
+    {
+      "key": "sede_consejo_regulador",
+      "label": "Sede Consejo Regulador",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tipo": "Vinos",
+      "producto": "Monterrei",
+      "proteccion": "Denominación de origen",
+      "obtencion": "1996",
+      "sede_consejo_regulador": "Verín"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Rías Baixas",
+      "proteccion": "Denominación de origen",
+      "obtencion": "1988",
+      "sede_consejo_regulador": "Pontevedra"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Ribeira Sacra",
+      "proteccion": "Denominación de origen",
+      "obtencion": "1997",
+      "sede_consejo_regulador": "Monforte de Lemos"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Ribeiro",
+      "proteccion": "Denominación de origen",
+      "obtencion": "1932",
+      "sede_consejo_regulador": "Ribadavia"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Valdeorras",
+      "proteccion": "Denominación de origen",
+      "obtencion": "1945",
+      "sede_consejo_regulador": "Villamartín de Valdeorras"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Barbanza e Iria",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2006",
+      "sede_consejo_regulador": "?"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Betanzos",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "2000",
+      "sede_consejo_regulador": "?"
+    },
+    {
+      "tipo": "Vinos",
+      "producto": "Val do Miño-Ourense",
+      "proteccion": "Vino de la Tierra",
+      "obtencion": "1987",
+      "sede_consejo_regulador": "?"
+    },
+    {
+      "tipo": "Carnes y pescados",
+      "producto": "Lacón galego",
+      "proteccion": "Indicación geográfica protegida",
+      "obtencion": "1997",
+      "sede_consejo_regulador": "Lugo"
+    },
+    {
+      "tipo": "Carnes y pescados",
+      "producto": "Mexillón de Galicia",
+      "proteccion": "Denominación de origen protegida",
+      "obtencion": "1994",
+      "sede_consejo_regulador": "Villagarcía de Arosa"
+    },
+    {
+      "tipo": "Carnes y pescados",
+      "producto": "Ternera Galega",
+      "proteccion": "Indicación geográfica protegida",
+      "obtencion": "1996",
+      "sede_consejo_regulador": "Santiago de Compostela"
+    },
+    {
+      "tipo": "Legumbres y hortalizas",
+      "producto": "Faba de Lourenzá",
+      "proteccion": "Indicación geográfica protegida",
+      "obtencion": "2007",
+      "sede_consejo_regulador": "Vilanova de Lorenzana"
+    },
+    {
+      "tipo": "Legumbres y hortalizas",
+      "producto": "Grelos de Galicia",
+      "proteccion": "Indicación geográfica protegida",
+      "obtencion": "2009",
+      "sede_consejo_regulador": "Boqueijón"
+    },
+    {
+      "tipo": "Legumbres y hortalizas",
+      "producto": "Pataca de Galicia",
+      "proteccion": "Indicación geográfica protegida",
+      "obtencion": "1989",
+      "sede_consejo_regulador": "Ginzo de Limia"
+    },
+    {
+      "tipo": "Legumbres y hortalizas",
+      "producto": "Pemento de Arnoia",
+      "proteccion": "Indicación geográfica protegida",
+      "obtencion": "2010",
+      "sede_consejo_regulador": "?"
+    },
+    {
+      "tipo": "Legumbres y hortalizas",
+      "producto": "Pemento de Herbón",
+      "proteccion": "Denominación de origen protegida",
+      "obtencion": "2009",
+      "sede_consejo_regulador": "Padrón"
+    },
+    {
+      "tipo": "Legumbres y hortalizas",
+      "producto": "Pemento do Couto",
+      "proteccion": "Indicación geográfica protegida",
+      "obtencion": "2009",
+      "sede_consejo_regulador": "O Val, Narón"
+    },
+    {
+      "tipo": "Legumbres y hortalizas",
+      "producto": "Pemento de Oimbra",
+      "proteccion": "Indicación geográfica protegida",
+      "obtencion": "2010",
+      "sede_consejo_regulador": "?"
+    },
+    {
+      "tipo": "Quesos",
+      "producto": "Arzúa-Ulloa",
+      "proteccion": "Denominación de origen protegida",
+      "obtencion": "?",
+      "sede_consejo_regulador": "Mellid"
+    },
+    {
+      "tipo": "Quesos",
+      "producto": "Cebreiro",
+      "proteccion": "Denominación de origen protegida",
+      "obtencion": "?",
+      "sede_consejo_regulador": "Piedrafita do Cebrero"
+    },
+    {
+      "tipo": "Quesos",
+      "producto": "Tetilla",
+      "proteccion": "Denominación de origen protegida",
+      "obtencion": "1996",
+      "sede_consejo_regulador": "Boqueijón"
+    },
+    {
+      "tipo": "Quesos",
+      "producto": "San Simón da Costa",
+      "proteccion": "Denominación de origen protegida",
+      "obtencion": "1999",
+      "sede_consejo_regulador": "Villalba"
+    },
+    {
+      "tipo": "Bebidas espirituosas",
+      "producto": "Aguardiente de Galicia",
+      "proteccion": "Denominación geográfica",
+      "obtencion": "?",
+      "sede_consejo_regulador": "Boqueijón"
+    },
+    {
+      "tipo": "Bebidas espirituosas",
+      "producto": "Aguardiente de Hierbas de Galicia",
+      "proteccion": "Denominación geográfica",
+      "obtencion": "?",
+      "sede_consejo_regulador": "Boqueijón"
+    },
+    {
+      "tipo": "Bebidas espirituosas",
+      "producto": "Licor Café de Galicia",
+      "proteccion": "Denominación geográfica",
+      "obtencion": "?",
+      "sede_consejo_regulador": "Boqueijón"
+    },
+    {
+      "tipo": "Bebidas espirituosas",
+      "producto": "Licor de Hierbas de Galicia",
+      "proteccion": "Denominación geográfica",
+      "obtencion": "?",
+      "sede_consejo_regulador": "Boqueijón"
+    },
+    {
+      "tipo": "Otros",
+      "producto": "Mel de Galicia",
+      "proteccion": "Indicación geográfica protegida",
+      "obtencion": "?",
+      "sede_consejo_regulador": "Boqueijón"
+    },
+    {
+      "tipo": "Otros",
+      "producto": "Pan de Cea",
+      "proteccion": "Indicación geográfica protegida",
+      "obtencion": "2005",
+      "sede_consejo_regulador": "Cea"
+    },
+    {
+      "tipo": "Otros",
+      "producto": "Castaña de Galicia",
+      "proteccion": "Indicación geográfica protegida",
+      "obtencion": "2009",
+      "sede_consejo_regulador": ""
+    }
+  ],
+  "meta": {
+    "title": "Alimentos con denominación de origen de Galicia - Free Download",
+    "description": "Alimentos y bebidas protegidos (DOP, IGP) de Galicia, con tipo, año de obtención y sede del consejo regulador. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Alimentos con denominación de origen de Galicia | ListBase",
+    "seo_description": "Download Alimentos con denominación de origen de Galicia — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Alimentos_protegidos_de_Galicia"
+    ]
+  }
+}
