@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:17:12.342Z",
-  "total_datasets": 473,
-  "total_records": 419443,
+  "generated": "2026-10-27T02:17:14.854Z",
+  "total_datasets": 474,
+  "total_records": 419491,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -247,6 +247,34 @@
         "xlsx": {
           "name": "es-mexico-entidades-pib_ES.xlsx",
           "size": 9064
+        }
+      }
+    },
+    {
+      "id": "es-mexico-zonas-metropolitanas-pib",
+      "name": "Zonas metropolitanas de México por PIB",
+      "category": "economy",
+      "record_count": 48,
+      "columns": [
+        "posicion",
+        "zona_metropolitana",
+        "estados",
+        "pib_mxn",
+        "pib_usd",
+        "pib_ppa",
+        "participacion_pct"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_México_por_PIB",
+      "updated": "2026-10",
+      "size": 12128,
+      "files": {
+        "csv": {
+          "name": "es-mexico-zonas-metropolitanas-pib_ES.csv",
+          "size": 3133
+        },
+        "xlsx": {
+          "name": "es-mexico-zonas-metropolitanas-pib_ES.xlsx",
+          "size": 9385
         }
       }
     },

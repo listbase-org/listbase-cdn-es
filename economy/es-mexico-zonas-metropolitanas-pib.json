@@ -1,0 +1,493 @@
+{
+  "id": "es-mexico-zonas-metropolitanas-pib",
+  "name": "Zonas metropolitanas de México por PIB",
+  "title": "Zonas metropolitanas de México por PIB",
+  "description": "PIB de las principales zonas metropolitanas de México en pesos, dólares y PPA.",
+  "category": "economy",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_México_por_PIB",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_México_por_PIB",
+  "updated": "2026-10",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "posicion",
+      "label": "Posicion",
+      "type": "number"
+    },
+    {
+      "key": "zona_metropolitana",
+      "label": "Zona Metropolitana",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "pib_mxn",
+      "label": "Pib Mxn",
+      "type": "number"
+    },
+    {
+      "key": "pib_usd",
+      "label": "Pib Usd",
+      "type": "number"
+    },
+    {
+      "key": "pib_ppa",
+      "label": "Pib Ppa",
+      "type": "number"
+    },
+    {
+      "key": "participacion_pct",
+      "label": "Participacion Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "posicion": 1,
+      "zona_metropolitana": "Valle de México",
+      "estados": "Ciudad de México Estado de México Hidalgo",
+      "pib_mxn": 7732152,
+      "pib_usd": 422297,
+      "pib_ppa": 818778,
+      "participacion_pct": 21.63
+    },
+    {
+      "posicion": "-",
+      "zona_metropolitana": "Monterrey- Saltillo",
+      "estados": "Nuevo León Coahuila",
+      "pib_mxn": 3388091,
+      "pib_usd": 185043,
+      "pib_ppa": 358778,
+      "participacion_pct": 9.16
+    },
+    {
+      "posicion": 2,
+      "zona_metropolitana": "Monterrey",
+      "estados": "Nuevo León",
+      "pib_mxn": 2799963,
+      "pib_usd": 152922,
+      "pib_ppa": 296499,
+      "participacion_pct": 7.61
+    },
+    {
+      "posicion": 3,
+      "zona_metropolitana": "Guadalajara",
+      "estados": "Jalisco",
+      "pib_mxn": 1694713,
+      "pib_usd": 92558,
+      "pib_ppa": 179461,
+      "participacion_pct": 4.76
+    },
+    {
+      "posicion": 4,
+      "zona_metropolitana": "Tijuana",
+      "estados": "Baja California",
+      "pib_mxn": 776406,
+      "pib_usd": 42404,
+      "pib_ppa": 83279,
+      "participacion_pct": 2.17
+    },
+    {
+      "posicion": 5,
+      "zona_metropolitana": "Puebla-Tlaxcala",
+      "estados": "Puebla Tlaxcala",
+      "pib_mxn": 675611,
+      "pib_usd": 36899,
+      "pib_ppa": 71538,
+      "participacion_pct": 1.9
+    },
+    {
+      "posicion": 6,
+      "zona_metropolitana": "Juárez",
+      "estados": "Chihuahua",
+      "pib_mxn": 591203,
+      "pib_usd": 32289,
+      "pib_ppa": 62605,
+      "participacion_pct": 1.68
+    },
+    {
+      "posicion": 7,
+      "zona_metropolitana": "Saltillo",
+      "estados": "Coahuila",
+      "pib_mxn": 588127,
+      "pib_usd": 32121,
+      "pib_ppa": 62279,
+      "participacion_pct": 1.55
+    },
+    {
+      "posicion": 8,
+      "zona_metropolitana": "Querétaro",
+      "estados": "Querétaro",
+      "pib_mxn": 574065,
+      "pib_usd": 31353,
+      "pib_ppa": 62577,
+      "participacion_pct": 1.64
+    },
+    {
+      "posicion": 9,
+      "zona_metropolitana": "Toluca",
+      "estados": "Estado de México",
+      "pib_mxn": 559778,
+      "pib_usd": 30572,
+      "pib_ppa": 61677,
+      "participacion_pct": 1.65
+    },
+    {
+      "posicion": 10,
+      "zona_metropolitana": "La Laguna",
+      "estados": "Coahuila Durango",
+      "pib_mxn": 513826,
+      "pib_usd": 28063,
+      "pib_ppa": 54412,
+      "participacion_pct": 1.4
+    },
+    {
+      "posicion": 11,
+      "zona_metropolitana": "León",
+      "estados": "Guanajuato",
+      "pib_mxn": 457499,
+      "pib_usd": 24986,
+      "pib_ppa": 50775,
+      "participacion_pct": 1.34
+    },
+    {
+      "posicion": 12,
+      "zona_metropolitana": "Hermosillo",
+      "estados": "Sonora",
+      "pib_mxn": 446468,
+      "pib_usd": 24386,
+      "pib_ppa": 48609,
+      "participacion_pct": 1.31
+    },
+    {
+      "posicion": 13,
+      "zona_metropolitana": "San Luis Potosí",
+      "estados": "San Luis Potosí",
+      "pib_mxn": 410072,
+      "pib_usd": 22396,
+      "pib_ppa": 45125,
+      "participacion_pct": 1.21
+    },
+    {
+      "posicion": 14,
+      "zona_metropolitana": "Mexicali",
+      "estados": "Baja California",
+      "pib_mxn": 282364,
+      "pib_usd": 14052,
+      "pib_ppa": 43026,
+      "participacion_pct": 0.99
+    },
+    {
+      "posicion": 15,
+      "zona_metropolitana": "Chihuahua",
+      "estados": "Chihuahua",
+      "pib_mxn": 285953,
+      "pib_usd": 14230,
+      "pib_ppa": 40972,
+      "participacion_pct": 1
+    },
+    {
+      "posicion": 16,
+      "zona_metropolitana": "Aguascalientes",
+      "estados": "Aguascalientes",
+      "pib_mxn": 290997,
+      "pib_usd": 14481,
+      "pib_ppa": 40943,
+      "participacion_pct": 1.02
+    },
+    {
+      "posicion": 17,
+      "zona_metropolitana": "Mérida",
+      "estados": "Yucatán",
+      "pib_mxn": 265159,
+      "pib_usd": 13195,
+      "pib_ppa": 40545,
+      "participacion_pct": 0.93
+    },
+    {
+      "posicion": 18,
+      "zona_metropolitana": "Tampico",
+      "estados": "Tamaulipas",
+      "pib_mxn": 207761,
+      "pib_usd": 10339,
+      "pib_ppa": 35770,
+      "participacion_pct": 0.73
+    },
+    {
+      "posicion": 19,
+      "zona_metropolitana": "Villahermosa",
+      "estados": "Tabasco",
+      "pib_mxn": 301474,
+      "pib_usd": 15003,
+      "pib_ppa": 31120,
+      "participacion_pct": 1.06
+    },
+    {
+      "posicion": 19,
+      "zona_metropolitana": "Cancún",
+      "estados": "Quintana Roo",
+      "pib_mxn": 240863,
+      "pib_usd": 11986,
+      "pib_ppa": 30789,
+      "participacion_pct": 0.85
+    },
+    {
+      "posicion": 20,
+      "zona_metropolitana": "Culiacán",
+      "estados": "Sinaloa",
+      "pib_mxn": 233463,
+      "pib_usd": 11618,
+      "pib_ppa": 28965,
+      "participacion_pct": 0.82
+    },
+    {
+      "posicion": 21,
+      "zona_metropolitana": "Morelia",
+      "estados": "Michoacán",
+      "pib_mxn": 174528,
+      "pib_usd": 8685,
+      "pib_ppa": 26950,
+      "participacion_pct": 0.61
+    },
+    {
+      "posicion": 22,
+      "zona_metropolitana": "Cuernavaca",
+      "estados": "Morelos",
+      "pib_mxn": 176688,
+      "pib_usd": 8793,
+      "pib_ppa": 25256,
+      "participacion_pct": 0.62
+    },
+    {
+      "posicion": 23,
+      "zona_metropolitana": "Veracruz",
+      "estados": "Veracruz",
+      "pib_mxn": 180485,
+      "pib_usd": 8982,
+      "pib_ppa": 24447,
+      "participacion_pct": 0.63
+    },
+    {
+      "posicion": 24,
+      "zona_metropolitana": "Celaya",
+      "estados": "Guanajuato",
+      "pib_mxn": 151019,
+      "pib_usd": 7515,
+      "pib_ppa": 24283,
+      "participacion_pct": 0.53
+    },
+    {
+      "posicion": 25,
+      "zona_metropolitana": "Campeche",
+      "estados": "Campeche",
+      "pib_mxn": 170289,
+      "pib_usd": 8474,
+      "pib_ppa": 21915,
+      "participacion_pct": 0.6
+    },
+    {
+      "posicion": 26,
+      "zona_metropolitana": "Durango",
+      "estados": "Durango",
+      "pib_mxn": 141143,
+      "pib_usd": 7024,
+      "pib_ppa": 20804,
+      "participacion_pct": 0.5
+    },
+    {
+      "posicion": 27,
+      "zona_metropolitana": "Irapuato-Salamanca",
+      "estados": "Guanajuato",
+      "pib_mxn": 118927,
+      "pib_usd": 5918,
+      "pib_ppa": 20378,
+      "participacion_pct": 0.42
+    },
+    {
+      "posicion": 28,
+      "zona_metropolitana": "Xalapa",
+      "estados": "Veracruz",
+      "pib_mxn": 150609,
+      "pib_usd": 7495,
+      "pib_ppa": 18818,
+      "participacion_pct": 0.53
+    },
+    {
+      "posicion": 29,
+      "zona_metropolitana": "Monclova - Frontera",
+      "estados": "Coahuila",
+      "pib_mxn": 115352,
+      "pib_usd": 5740,
+      "pib_ppa": 18406,
+      "participacion_pct": 0.41
+    },
+    {
+      "posicion": 30,
+      "zona_metropolitana": "Oaxaca",
+      "estados": "Oaxaca",
+      "pib_mxn": 120892,
+      "pib_usd": 6016,
+      "pib_ppa": 17369,
+      "participacion_pct": 0.42
+    },
+    {
+      "posicion": 31,
+      "zona_metropolitana": "Tuxtla Gutiérrez",
+      "estados": "Chiapas",
+      "pib_mxn": 120509,
+      "pib_usd": 5997,
+      "pib_ppa": 15641,
+      "participacion_pct": 0.42
+    },
+    {
+      "posicion": 32,
+      "zona_metropolitana": "Acapulco",
+      "estados": "Guerrero",
+      "pib_mxn": 118902,
+      "pib_usd": 5917,
+      "pib_ppa": 15344,
+      "participacion_pct": 0.42
+    },
+    {
+      "posicion": 33,
+      "zona_metropolitana": "Mazatlán",
+      "estados": "Sinaloa",
+      "pib_mxn": 124674,
+      "pib_usd": 6204,
+      "pib_ppa": 15074,
+      "participacion_pct": 0.44
+    },
+    {
+      "posicion": 34,
+      "zona_metropolitana": "Pachuca de Soto",
+      "estados": "Hidalgo",
+      "pib_mxn": 124674,
+      "pib_usd": 6204,
+      "pib_ppa": 14924,
+      "participacion_pct": 0.44
+    },
+    {
+      "posicion": 35,
+      "zona_metropolitana": "Matamoros",
+      "estados": "Tamaulipas",
+      "pib_mxn": 139684,
+      "pib_usd": 6951,
+      "pib_ppa": 14812,
+      "participacion_pct": 0.49
+    },
+    {
+      "posicion": 36,
+      "zona_metropolitana": "Nuevo Laredo",
+      "estados": "Tamaulipas",
+      "pib_mxn": 102557,
+      "pib_usd": 5104,
+      "pib_ppa": 12904,
+      "participacion_pct": 0.36
+    },
+    {
+      "posicion": 37,
+      "zona_metropolitana": "Los Cabos",
+      "estados": "Baja California Sur",
+      "pib_mxn": 96655,
+      "pib_usd": 4810,
+      "pib_ppa": 12483,
+      "participacion_pct": 0.34
+    },
+    {
+      "posicion": 38,
+      "zona_metropolitana": "Tepic",
+      "estados": "Nayarit",
+      "pib_mxn": 93817,
+      "pib_usd": 4669,
+      "pib_ppa": 11700,
+      "participacion_pct": 0.33
+    },
+    {
+      "posicion": 39,
+      "zona_metropolitana": "Tlaxcala-Apizaco",
+      "estados": "Tlaxcala",
+      "pib_mxn": 72351,
+      "pib_usd": 3600,
+      "pib_ppa": 11597,
+      "participacion_pct": 0.25
+    },
+    {
+      "posicion": 40,
+      "zona_metropolitana": "La Paz",
+      "estados": "Baja California Sur",
+      "pib_mxn": 96655,
+      "pib_usd": 4810,
+      "pib_ppa": 10660,
+      "participacion_pct": 0.34
+    },
+    {
+      "posicion": 41,
+      "zona_metropolitana": "Colima-Villa de Álvarez",
+      "estados": "Colima",
+      "pib_mxn": 92515,
+      "pib_usd": 4604,
+      "pib_ppa": 10628,
+      "participacion_pct": 0.33
+    },
+    {
+      "posicion": 42,
+      "zona_metropolitana": "Zacatecas-Guadalupe",
+      "estados": "Zacatecas",
+      "pib_mxn": 80587,
+      "pib_usd": 4010,
+      "pib_ppa": 10440,
+      "participacion_pct": 0.28
+    },
+    {
+      "posicion": 43,
+      "zona_metropolitana": "Poza Rica",
+      "estados": "Veracruz",
+      "pib_mxn": 79224,
+      "pib_usd": 3943,
+      "pib_ppa": 8846,
+      "participacion_pct": 0.28
+    },
+    {
+      "posicion": 44,
+      "zona_metropolitana": "Cuautla",
+      "estados": "Morelos",
+      "pib_mxn": 76100,
+      "pib_usd": 3787,
+      "pib_ppa": 7216,
+      "participacion_pct": 0.27
+    },
+    {
+      "posicion": 47,
+      "zona_metropolitana": "Chetumal",
+      "estados": "Quintana Roo",
+      "pib_mxn": 52993,
+      "pib_usd": 2637,
+      "pib_ppa": 6695,
+      "participacion_pct": 0.19
+    },
+    {
+      "posicion": 48,
+      "zona_metropolitana": "Chilpancingo",
+      "estados": "Guerrero",
+      "pib_mxn": 45719,
+      "pib_usd": 2275,
+      "pib_ppa": 6369,
+      "participacion_pct": 0.16
+    }
+  ],
+  "meta": {
+    "title": "Zonas metropolitanas de México por PIB - Free Download",
+    "description": "PIB de las principales zonas metropolitanas de México en pesos, dólares y PPA. Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Zonas metropolitanas de México por PIB | ListBase",
+    "seo_description": "Download Zonas metropolitanas de México por PIB — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_México_por_PIB"
+    ]
+  }
+}
