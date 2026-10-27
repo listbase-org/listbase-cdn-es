@@ -1,0 +1,1492 @@
+{
+  "id": "es-premio-ariel-mejor-pelicula",
+  "name": "Premio Ariel a la mejor película (nominadas y ganadoras)",
+  "title": "Premio Ariel a la mejor película (nominadas y ganadoras)",
+  "description": "Películas ganadoras y nominadas al Premio Ariel a la mejor película del cine mexicano, por edición.",
+  "category": "entertainment",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Premio_Ariel_a_la_mejor_película",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Premio_Ariel_a_la_mejor_película",
+  "updated": "2026-10",
+  "record_count": 241,
+  "columns": [
+    {
+      "key": "edicion",
+      "label": "Edicion",
+      "type": "string"
+    },
+    {
+      "key": "pelicula",
+      "label": "Pelicula",
+      "type": "string"
+    },
+    {
+      "key": "productora",
+      "label": "Productora",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edicion": "1° (1945/1946)",
+      "pelicula": "La barraca",
+      "productora": "Alfonso Sánchez Tello / Roberto Gavaldón",
+      "director": "Roberto Gavaldón"
+    },
+    {
+      "edicion": "1° (1945/1946)",
+      "pelicula": "Crepúsculo",
+      "productora": "CLASA Films",
+      "director": "Julio Bracho"
+    },
+    {
+      "edicion": "1° (1945/1946)",
+      "pelicula": "Las abandonadas",
+      "productora": "Films Mundiales",
+      "director": "Emilio \"Indio\" Fernández"
+    },
+    {
+      "edicion": "2° (1946/1947)",
+      "pelicula": "Enamorada",
+      "productora": "Panamerican Films",
+      "director": "Emilio \"Indio\" Fernández"
+    },
+    {
+      "edicion": "2° (1946/1947)",
+      "pelicula": "Campeón sin corona",
+      "productora": "Raúl de Anda",
+      "director": "Alejandro Galindo"
+    },
+    {
+      "edicion": "2° (1946/1947)",
+      "pelicula": "La otra",
+      "productora": "Producciones Mercurio",
+      "director": "Roberto Gavaldón"
+    },
+    {
+      "edicion": "3° (1947)",
+      "pelicula": "La perla",
+      "productora": "Águila Films",
+      "director": "Emilio \"Indio\" Fernández"
+    },
+    {
+      "edicion": "3° (1947)",
+      "pelicula": "Cinco rostros de mujer",
+      "productora": "CLASA Films Mundiales",
+      "director": "Gilberto Martínez Solares"
+    },
+    {
+      "edicion": "3° (1947)",
+      "pelicula": "El buen mozo",
+      "productora": "Antonio Momplet",
+      "director": "Antonio Momplet"
+    },
+    {
+      "edicion": "4° (1948)",
+      "pelicula": "Río Escondido",
+      "productora": "Producciones Raúl de Anda",
+      "director": "Emilio \"Indio\" Fernández"
+    },
+    {
+      "edicion": "4° (1948)",
+      "pelicula": "Que Dios me perdone",
+      "productora": "Cinematográfica Filmex",
+      "director": "Tito Davison"
+    },
+    {
+      "edicion": "4° (1948)",
+      "pelicula": "Rosenda",
+      "productora": "CLASA Films Mundiales",
+      "director": "Julio Bracho"
+    },
+    {
+      "edicion": "5° (1949)",
+      "pelicula": "Una familia de tantas",
+      "productora": "Producciones Azteca",
+      "director": "Alejandro Galindo"
+    },
+    {
+      "edicion": "5° (1949)",
+      "pelicula": "El dolor de los hijos",
+      "productora": "Diana Films",
+      "director": "Miguel Zacarías"
+    },
+    {
+      "edicion": "5° (1949)",
+      "pelicula": "Pueblerina",
+      "productora": "Ultramar Films",
+      "director": "Emilio \"Indio\" Fernández"
+    },
+    {
+      "edicion": "6° (1950)",
+      "pelicula": "Los olvidados",
+      "productora": "Ultramar Films",
+      "director": "Luis Buñuel"
+    },
+    {
+      "edicion": "6° (1950)",
+      "pelicula": "Doña Diabla",
+      "productora": "Cinematográfica Filmex",
+      "director": "Tito Davison"
+    },
+    {
+      "edicion": "6° (1950)",
+      "pelicula": "Otra primavera",
+      "productora": "Ultramar Films",
+      "director": "Alfredo B. Crevenna"
+    },
+    {
+      "edicion": "7° (1951)",
+      "pelicula": "En la palma de tu mano",
+      "productora": "Producciones Mier y Brooks",
+      "director": "Roberto Gavaldón"
+    },
+    {
+      "edicion": "7° (1951)",
+      "pelicula": "Deseada",
+      "productora": "Producciones Sansón",
+      "director": "Roberto Gavaldón"
+    },
+    {
+      "edicion": "7° (1951)",
+      "pelicula": "Doña Perfecta",
+      "productora": "Cabrera Films",
+      "director": "Alejandro Galindo"
+    },
+    {
+      "edicion": "8° (1952)",
+      "pelicula": "El jurado se declaró desierto",
+      "productora": "El jurado se declaró desierto",
+      "director": "El jurado se declaró desierto"
+    },
+    {
+      "edicion": "8° (1952)",
+      "pelicula": "El rebozo de Soledad",
+      "productora": "Sindicato de Trabajadores de la Producción Cinematográfica y Tele Voz",
+      "director": "Roberto Gavaldón"
+    },
+    {
+      "edicion": "8° (1952)",
+      "pelicula": "Mi esposa y la otra",
+      "productora": "Royal Films",
+      "director": "Alfredo B. Crevenna"
+    },
+    {
+      "edicion": "8° (1952)",
+      "pelicula": "Subida al cielo",
+      "productora": "Producciones Isla",
+      "director": "Luis Buñuel"
+    },
+    {
+      "edicion": "9° (1953)",
+      "pelicula": "El niño y la niebla",
+      "productora": "Cinematográfica Grovas",
+      "director": "Roberto Gavaldón"
+    },
+    {
+      "edicion": "9° (1953)",
+      "pelicula": "Las tres perfectas casadas",
+      "productora": "Cinematográfica Filmex",
+      "director": "Roberto Gavaldón"
+    },
+    {
+      "edicion": "9° (1953)",
+      "pelicula": "Un divorcio",
+      "productora": "Producciones Argel",
+      "director": "Emilio Gómez Muriel"
+    },
+    {
+      "edicion": "10° (1954)",
+      "pelicula": "Los Fernández de Peralvillo",
+      "productora": "Alianza Cinematográfica Mexicana",
+      "director": "Alejandro Galindo"
+    },
+    {
+      "edicion": "10° (1954)",
+      "pelicula": "Orquídeas para mi esposa",
+      "productora": "Cinematográfica Filmex",
+      "director": "Alfredo B. Crevenna"
+    },
+    {
+      "edicion": "10° (1954)",
+      "pelicula": "Sombra verde",
+      "productora": "Producciones Calderón",
+      "director": "Roberto Gavaldón"
+    },
+    {
+      "edicion": "11° (1955)",
+      "pelicula": "Robinson Crusoe",
+      "productora": "Producciones Tepeyac",
+      "director": "Luis Buñuel"
+    },
+    {
+      "edicion": "11° (1955)",
+      "pelicula": "Ensayo de un crimen",
+      "productora": "Alianza Cinematográfica Española",
+      "director": "Luis Buñuel"
+    },
+    {
+      "edicion": "11° (1955)",
+      "pelicula": "Una mujer en la calle",
+      "productora": "Cinematográfica Latina",
+      "director": "Alfredo B. Crevenna"
+    },
+    {
+      "edicion": "12° (1956)",
+      "pelicula": "El camino de la vida",
+      "productora": "Cinematográfica Latinoamericana",
+      "director": "Alfonso Corona Blake"
+    },
+    {
+      "edicion": "12° (1956)",
+      "pelicula": "La escondida",
+      "productora": "Alfa Films",
+      "director": "Roberto Gavaldón"
+    },
+    {
+      "edicion": "12° (1956)",
+      "pelicula": "Talpa",
+      "productora": "Cinematográfica Latina",
+      "director": "Alfredo B. Crevenna"
+    },
+    {
+      "edicion": "13° (1957)",
+      "pelicula": "Tizoc",
+      "productora": "Producciones Matouk",
+      "director": "Ismael Rodríguez"
+    },
+    {
+      "edicion": "13° (1957)",
+      "pelicula": "Feliz año, amor mío",
+      "productora": "Cinematográfica Filmex",
+      "director": "Tulio Demicheli"
+    },
+    {
+      "edicion": "13° (1957)",
+      "pelicula": "La culta dama",
+      "productora": "Rogelio A. González",
+      "director": "Rogelio A. González"
+    },
+    {
+      "edicion": "14° (1971)",
+      "pelicula": "El águila descalza",
+      "productora": "Producciones Jaguar",
+      "director": "Alfonso Arau"
+    },
+    {
+      "edicion": "14° (1971)",
+      "pelicula": "Las puertas del paraíso",
+      "productora": "Cinematográfica Marte",
+      "director": "Salomón Láiter"
+    },
+    {
+      "edicion": "14° (1971)",
+      "pelicula": "Tú, yo, nosotros",
+      "productora": "Cinematográfica Marco Polo",
+      "director": "Jorge Fons , Gonzalo Martínez Ortega y Juan Manuel Torres"
+    },
+    {
+      "edicion": "15° (1972)",
+      "pelicula": "El castillo de la pureza",
+      "productora": "Estudios Churubusco Azteca",
+      "director": "Arturo Ripstein"
+    },
+    {
+      "edicion": "15° (1972)",
+      "pelicula": "Mecánica nacional",
+      "productora": "Producciones Escorpión",
+      "director": "Luis Alcoriza"
+    },
+    {
+      "edicion": "15° (1972)",
+      "pelicula": "Reed, México insurgente",
+      "productora": "Ollín y Asociados",
+      "director": "Paul Leduc"
+    },
+    {
+      "edicion": "16° (1973)",
+      "pelicula": "El principio",
+      "productora": "Estudios Churubusco Azteca",
+      "director": "Gonzalo Martínez Ortega"
+    },
+    {
+      "edicion": "16° (1973)",
+      "pelicula": "El cambio",
+      "productora": "Departamento de Actividades Cinematográficas de la UNAM",
+      "director": "Alfredo Joskowicz"
+    },
+    {
+      "edicion": "16° (1973)",
+      "pelicula": "Fe, esperanza y caridad",
+      "productora": "Ediciones Germán Camus",
+      "director": "Luis Alcoriza , Alberto Bojórquez y Jorge Fons"
+    },
+    {
+      "edicion": "17° (1974)",
+      "pelicula": "La Choca",
+      "productora": "Estudios Churubusco Azteca",
+      "director": "Emilio \"Indio\" Fernández"
+    },
+    {
+      "edicion": "17° (1974)",
+      "pelicula": "La otra virginidad",
+      "productora": "Sindicato de Trabajadores de la Producción Cinematográfica",
+      "director": "Juan Manuel Torres"
+    },
+    {
+      "edicion": "17° (1974)",
+      "pelicula": "Presagio",
+      "productora": "Producciones Escorpión",
+      "director": "Luis Alcoriza"
+    },
+    {
+      "edicion": "18° (1975)",
+      "pelicula": "Actas de Marusia",
+      "productora": "CONACINE",
+      "director": "Miguel Littín"
+    },
+    {
+      "edicion": "18° (1975)",
+      "pelicula": "Canoa",
+      "productora": "Sindicato de Trabajadores de la Producción Cinematográfica",
+      "director": "Felipe Cazals"
+    },
+    {
+      "edicion": "18° (1975)",
+      "pelicula": "De todos modos Juan te llamas",
+      "productora": "Centro Universitario de Estudios Cinematográficos",
+      "director": "Marcela Fernández Violante"
+    },
+    {
+      "edicion": "19° (1976)",
+      "pelicula": "La pasión según Berenice",
+      "productora": "Dasa Films",
+      "director": "Jaime Humberto Hermosillo"
+    },
+    {
+      "edicion": "19° (1976)",
+      "pelicula": "Cuartelazo",
+      "productora": "Dasa Films",
+      "director": "Alberto Isaac"
+    },
+    {
+      "edicion": "19° (1976)",
+      "pelicula": "Longitud de guerra",
+      "productora": "Dasa Films",
+      "director": "Gonzalo Martínez Ortega"
+    },
+    {
+      "edicion": "20° (1977)",
+      "pelicula": "El lugar sin límites",
+      "productora": "CONACITE DOS",
+      "director": "Arturo Ripstein"
+    },
+    {
+      "edicion": "20° (1977)",
+      "pelicula": "Naufragio",
+      "productora": "CONACITE UNO",
+      "director": "Jaime Humberto Hermosillo"
+    },
+    {
+      "edicion": "20° (1977)",
+      "pelicula": "Los pequeños privilegios",
+      "productora": "CONACITE UNO",
+      "director": "Julián Pastor"
+    },
+    {
+      "edicion": "21° (1978)",
+      "pelicula": "Cadena perpetua",
+      "productora": "CONACINE",
+      "director": "Arturo Ripstein"
+    },
+    {
+      "edicion": "21° (1978)",
+      "pelicula": "Anacrusa",
+      "productora": "Producciones Zinc",
+      "director": "Ariel Zúñiga"
+    },
+    {
+      "edicion": "21° (1978)",
+      "pelicula": "El recurso del método",
+      "productora": "KG Productions",
+      "director": "Miguel Littín"
+    },
+    {
+      "edicion": "22° (1979)",
+      "pelicula": "El año de la peste",
+      "productora": "CONACITE DOS",
+      "director": "Felipe Cazals"
+    },
+    {
+      "edicion": "22° (1979)",
+      "pelicula": "El infierno de todos tan temido",
+      "productora": "CONACINE",
+      "director": "Sergio Olhovich"
+    },
+    {
+      "edicion": "22° (1979)",
+      "pelicula": "Fuego en el mar",
+      "productora": "CONACINE",
+      "director": "Raúl Araiza"
+    },
+    {
+      "edicion": "23° (1980)",
+      "pelicula": "Las grandes aguas",
+      "productora": "CONACINE",
+      "director": "Servando González"
+    },
+    {
+      "edicion": "23° (1980)",
+      "pelicula": "Misterio",
+      "productora": "CONACINE",
+      "director": "Marcela Fernández Violante"
+    },
+    {
+      "edicion": "23° (1980)",
+      "pelicula": "Morir de Madrugada",
+      "productora": "Televicine, S.A. de C.V.",
+      "director": "Julián Pastor"
+    },
+    {
+      "edicion": "24° (1981)",
+      "pelicula": "Ora sí ¡tenemos que ganar!",
+      "productora": "Centro Universitario de Estudios Cinematográficos",
+      "director": "Raúl Kamffer"
+    },
+    {
+      "edicion": "24° (1981)",
+      "pelicula": "Llámenme Mike",
+      "productora": "CONACITE DOS",
+      "director": "Alfredo Gurrola"
+    },
+    {
+      "edicion": "24° (1981)",
+      "pelicula": "Noche de Carnaval",
+      "productora": "Producciones Águila",
+      "director": "Mario Hernández"
+    },
+    {
+      "edicion": "25° (1982)",
+      "pelicula": "El jurado se declaró desierto",
+      "productora": "El jurado se declaró desierto",
+      "director": "El jurado se declaró desierto"
+    },
+    {
+      "edicion": "25° (1982)",
+      "pelicula": "La pachanga",
+      "productora": "Instituto Mexicano de Cinematografía",
+      "director": "José Estrada"
+    },
+    {
+      "edicion": "25° (1982)",
+      "pelicula": "Días de combate",
+      "productora": "Televicine, S.A. de C.V.",
+      "director": "Alfredo Gurrola"
+    },
+    {
+      "edicion": "25° (1982)",
+      "pelicula": "Tiempo de lobos",
+      "productora": "Colima Films",
+      "director": "Alberto Isaac"
+    },
+    {
+      "edicion": "26° (1983)",
+      "pelicula": "Bajo la metralla",
+      "productora": "CONACINE",
+      "director": "Felipe Cazals"
+    },
+    {
+      "edicion": "26° (1983)",
+      "pelicula": "La viuda negra",
+      "productora": "Arturo Ripstein",
+      "director": "Arturo Ripstein"
+    },
+    {
+      "edicion": "26° (1983)",
+      "pelicula": "Nocaut",
+      "productora": "Cooperativa Kinam",
+      "director": "José Luis García Agraz"
+    },
+    {
+      "edicion": "27° (1984)",
+      "pelicula": "Frida, naturaleza viva",
+      "productora": "Clasa Films Mundiales",
+      "director": "Paul Leduc"
+    },
+    {
+      "edicion": "27° (1984)",
+      "pelicula": "De veras me atrapaste",
+      "productora": "Clasa Films Mundiales",
+      "director": "Gerardo Pardo"
+    },
+    {
+      "edicion": "27° (1984)",
+      "pelicula": "Vidas errantes",
+      "productora": "Juan Antonio de la Riva",
+      "director": "Juan Antonio de la Riva"
+    },
+    {
+      "edicion": "28° (1985)",
+      "pelicula": "Veneno para las hadas",
+      "productora": "Instituto Mexicano de Cinematografía",
+      "director": "Carlos Enrique Taboada"
+    },
+    {
+      "edicion": "28° (1985)",
+      "pelicula": "Los motivos de Luz",
+      "productora": "Chimalistac Producciones",
+      "director": "Felipe Cazals"
+    },
+    {
+      "edicion": "28° (1985)",
+      "pelicula": "Redondo",
+      "productora": "Raúl Busteros",
+      "director": "Raúl Busteros"
+    },
+    {
+      "edicion": "29° (1986)",
+      "pelicula": "El imperio de la fortuna",
+      "productora": "CONACINE",
+      "director": "Arturo Ripstein"
+    },
+    {
+      "edicion": "29° (1986)",
+      "pelicula": "Amor a la vuelta de la esquina",
+      "productora": "Producciones Emyll",
+      "director": "Alberto Cortés"
+    },
+    {
+      "edicion": "29° (1986)",
+      "pelicula": "Crónica de familia",
+      "productora": "Imaginaria S.A.",
+      "director": "Diego López Rivera"
+    },
+    {
+      "edicion": "30° (1987)",
+      "pelicula": "Mariana, Mariana",
+      "productora": "Instituto Mexicano de Cinematografía",
+      "director": "Alberto Isaac"
+    },
+    {
+      "edicion": "30° (1987)",
+      "pelicula": "Lo que importa es vivir",
+      "productora": "Instituto Mexicano de Cinematografía",
+      "director": "Luis Alcoriza"
+    },
+    {
+      "edicion": "30° (1987)",
+      "pelicula": "Días difíciles",
+      "productora": "Alejandro Pelayo",
+      "director": "Alejandro Pelayo"
+    },
+    {
+      "edicion": "31° (1988)",
+      "pelicula": "Esperanza",
+      "productora": "Instituto Mexicano de Cinematografía y Lenfilm",
+      "director": "Sergio Olhovich"
+    },
+    {
+      "edicion": "31° (1988)",
+      "pelicula": "¿Nos traicionará el presidente?",
+      "productora": "Cinematográfica Filmex",
+      "director": "Juan Fernando Pérez Gavilán"
+    },
+    {
+      "edicion": "31° (1988)",
+      "pelicula": "El secreto de Romelia",
+      "productora": "Instituto Mexicano de Cinematografía",
+      "director": "Busi Cortés"
+    },
+    {
+      "edicion": "32° (1989)",
+      "pelicula": "Goitia, un dios para sí mismo",
+      "productora": "Imaginaria S.A.",
+      "director": "Diego López Rivera"
+    },
+    {
+      "edicion": "32° (1989)",
+      "pelicula": "El homicida",
+      "productora": "Producciones Rosas Priego",
+      "director": "Alfonso Rosas Priego"
+    },
+    {
+      "edicion": "32° (1989)",
+      "pelicula": "Morir en el golfo",
+      "productora": "Cooperativa José Revueltas",
+      "director": "Alejandro Pelayo"
+    },
+    {
+      "edicion": "33° (1990)",
+      "pelicula": "Rojo amanecer",
+      "productora": "Cinematográfica Sol S.A. de C.V.",
+      "director": "Jorge Fons"
+    },
+    {
+      "edicion": "33° (1990)",
+      "pelicula": "Pueblo de madera",
+      "productora": "Instituto Mexicano de Cinematografía",
+      "director": "Juan Antonio de la Riva"
+    },
+    {
+      "edicion": "34° (1991)",
+      "pelicula": "Como agua para chocolate",
+      "productora": "Arau films internacional, S.A.",
+      "director": "Alfonso Arau"
+    },
+    {
+      "edicion": "34° (1991)",
+      "pelicula": "Danzón",
+      "productora": "Macondo Cinevideo",
+      "director": "María Novaro"
+    },
+    {
+      "edicion": "34° (1991)",
+      "pelicula": "La mujer de Benjamín",
+      "productora": "Centro de Capacitación Cinematográfica",
+      "director": "Carlos Carrera"
+    },
+    {
+      "edicion": "35° (1992)",
+      "pelicula": "La invención de Cronos",
+      "productora": "Grupo del Toro, Instituto Mexicano de Cinematografía, Consejo Nacional para la Cultura y las Artes, Fondo de Fomento a la Calidad Cinematográfica, Universidad de Guadalajara, Iguana Producciones y Ventana Films",
+      "director": "Guillermo del Toro"
+    },
+    {
+      "edicion": "35° (1992)",
+      "pelicula": "Ángel de fuego",
+      "productora": "Otra Productora Más",
+      "director": "Dana Rotberg"
+    },
+    {
+      "edicion": "35° (1992)",
+      "pelicula": "Tequila",
+      "productora": "Clasa Films Mundiales",
+      "director": "Rúben Gámez"
+    },
+    {
+      "edicion": "36° (1993)",
+      "pelicula": "Principio y fin",
+      "productora": "Alameda films, S.A.",
+      "director": "Arturo Ripstein"
+    },
+    {
+      "edicion": "36° (1993)",
+      "pelicula": "Desiertos mares",
+      "productora": "Desiertos Films",
+      "director": "José Luis García Agraz"
+    },
+    {
+      "edicion": "36° (1993)",
+      "pelicula": "Lolo",
+      "productora": "Centro de Capacitación Cinematográfica",
+      "director": "Francisco Athié"
+    },
+    {
+      "edicion": "36° (1993)",
+      "pelicula": "La vida conyugal",
+      "productora": "Tabasco Films",
+      "director": "Carlos Carrera"
+    },
+    {
+      "edicion": "36° (1993)",
+      "pelicula": "Novia que te vea",
+      "productora": "Producciones Arte Nuevo",
+      "director": "Guita Schyfter"
+    },
+    {
+      "edicion": "37° (1994)",
+      "pelicula": "El callejón de los milagros",
+      "productora": "Alameda Films y Consejo Nacional para la Cultura y las Artes",
+      "director": "Jorge Fons"
+    },
+    {
+      "edicion": "37° (1994)",
+      "pelicula": "Bienvenido-Welcome",
+      "productora": "Cooperativa Río Mixcoac",
+      "director": "Gabriel Retes"
+    },
+    {
+      "edicion": "37° (1994)",
+      "pelicula": "Dos crímenes",
+      "productora": "Cuevano Films",
+      "director": "Roberto Sneider"
+    },
+    {
+      "edicion": "37° (1994)",
+      "pelicula": "El jardín del edén",
+      "productora": "Macondo Cinevideo",
+      "director": "María Novaro"
+    },
+    {
+      "edicion": "37° (1994)",
+      "pelicula": "Hasta morir",
+      "productora": "Vida Films",
+      "director": "Fernando Sariñana"
+    },
+    {
+      "edicion": "38° (1995)",
+      "pelicula": "Sin remitente",
+      "productora": "Televicine, S.A. de C.V.",
+      "director": "Carlos Carrera"
+    },
+    {
+      "edicion": "38° (1995)",
+      "pelicula": "Dulces compañías",
+      "productora": "Cooperativa Séptimo Arte",
+      "director": "Óscar Blancarte"
+    },
+    {
+      "edicion": "38° (1995)",
+      "pelicula": "Entre Pancho Villa y una mujer desnuda",
+      "productora": "Televicine, S.A. de C.V.",
+      "director": "Sabina Berman e Isabella Tardán"
+    },
+    {
+      "edicion": "38° (1995)",
+      "pelicula": "Mujeres insumisas",
+      "productora": "Claudio Producciones",
+      "director": "Alberto Isaac"
+    },
+    {
+      "edicion": "38° (1995)",
+      "pelicula": "La reina de la noche",
+      "productora": "Producciones Amaranta",
+      "director": "Arturo Ripstein"
+    },
+    {
+      "edicion": "39° (1996)",
+      "pelicula": "Cilantro y perejil",
+      "productora": "Constelaciones Films",
+      "director": "Rafael Montero"
+    },
+    {
+      "edicion": "39° (1996)",
+      "pelicula": "Profundo carmesí",
+      "productora": "Wanda Films",
+      "director": "Arturo Ripstein"
+    },
+    {
+      "edicion": "39° (1996)",
+      "pelicula": "Reclusorio",
+      "productora": "Películas Rodríguez",
+      "director": "Ismael Rodríguez"
+    },
+    {
+      "edicion": "39° (1996)",
+      "pelicula": "Santo Luzbel",
+      "productora": "Producciones Nuevo Sol",
+      "director": "Miguel Sabido"
+    },
+    {
+      "edicion": "40° (1997)",
+      "pelicula": "Por si no te vuelvo a ver",
+      "productora": "Centro de Capacitación Cinematográfica",
+      "director": "Juan Pablo Villaseñor"
+    },
+    {
+      "edicion": "40° (1997)",
+      "pelicula": "De noche vienes, Esmeralda",
+      "productora": "Monarca Producciones",
+      "director": "Jaime Humberto Hermosillo"
+    },
+    {
+      "edicion": "40° (1997)",
+      "pelicula": "Elisa antes del fin del mundo",
+      "productora": "Televicine, S.A. de C.V.",
+      "director": "Juan Antonio de la Riva"
+    },
+    {
+      "edicion": "41° (1998)",
+      "pelicula": "Bajo California: El límite del tiempo",
+      "productora": "Producciones Sincronía, S.A.",
+      "director": "Carlos Bolado"
+    },
+    {
+      "edicion": "41° (1998)",
+      "pelicula": "El evangelio de las maravillas",
+      "productora": "Instituto Mexicano de Cinematografía",
+      "director": "Arturo Ripstein"
+    },
+    {
+      "edicion": "41° (1998)",
+      "pelicula": "Un embrujo",
+      "productora": "Tequila Gang",
+      "director": "Carlos Carrera"
+    },
+    {
+      "edicion": "42° (1999)",
+      "pelicula": "La ley de Herodes",
+      "productora": "Bandidos Films",
+      "director": "Luis Estrada"
+    },
+    {
+      "edicion": "42° (1999)",
+      "pelicula": "Del olvido al no me acuerdo",
+      "productora": "La Media Luna Producciones",
+      "director": "Juan Carlos Rulfo"
+    },
+    {
+      "edicion": "42° (1999)",
+      "pelicula": "Rito terminal",
+      "productora": "Centro Universitario de Estudios Cinematográficos",
+      "director": "Óscar Urrutia Lazo"
+    },
+    {
+      "edicion": "43° (2000)",
+      "pelicula": "Amores perros",
+      "productora": "Altavista Films",
+      "director": "Alejandro González Iñárritu"
+    },
+    {
+      "edicion": "43° (2000)",
+      "pelicula": "Perfume de violetas (Nadie te oye)",
+      "productora": "Producciones Tragaluz",
+      "director": "Maryse Sistach"
+    },
+    {
+      "edicion": "43° (2000)",
+      "pelicula": "Su Alteza Serenísima",
+      "productora": "Instituto Mexicano de Cinematografía",
+      "director": "Felipe Cazals"
+    },
+    {
+      "edicion": "44° (2001)",
+      "pelicula": "Cuentos de hadas para dormir cocodrilos",
+      "productora": "Malayerba Producciones",
+      "director": "Ignacio Ortiz Cruz"
+    },
+    {
+      "edicion": "44° (2001)",
+      "pelicula": "De la calle",
+      "productora": "Tiempo y Tono Films",
+      "director": "Gerardo Tort"
+    },
+    {
+      "edicion": "44° (2001)",
+      "pelicula": "El gavilán de la sierra",
+      "productora": "Juan Antonio de la Riva",
+      "director": "Juan Antonio de la Riva"
+    },
+    {
+      "edicion": "45° (2002)",
+      "pelicula": "El crimen del padre Amaro",
+      "productora": "Alameda Films",
+      "director": "Carlos Carrera"
+    },
+    {
+      "edicion": "45° (2002)",
+      "pelicula": "Aro Tolbukhin (En la mente del asesino)",
+      "productora": "Altavista Films",
+      "director": "Isaac P. Racine, Agustí Villaronga y Lydia Zimmerman"
+    },
+    {
+      "edicion": "45° (2002)",
+      "pelicula": "Ciudades oscuras",
+      "productora": "Veneno Producciones",
+      "director": "Fernando Sariñana"
+    },
+    {
+      "edicion": "46° (2003)",
+      "pelicula": "El misterio del Trinidad",
+      "productora": "García Agraz & Asociados",
+      "director": "José Luis García Agraz"
+    },
+    {
+      "edicion": "46° (2003)",
+      "pelicula": "Japón",
+      "productora": "Mantarraya Producciones, NoDream Cinema y Carlos Serrano Azcona",
+      "director": "Carlos Reygadas"
+    },
+    {
+      "edicion": "46° (2003)",
+      "pelicula": "Mil nubes de paz cercan el cielo, amor jamás acabarás de ser amor",
+      "productora": "Julián Hernández y Roberto Fiesco",
+      "director": "Julián Hernández"
+    },
+    {
+      "edicion": "47° (2004)",
+      "pelicula": "Temporada de patos",
+      "productora": "Cine Pantera",
+      "director": "Fernando Eimbcke"
+    },
+    {
+      "edicion": "47° (2004)",
+      "pelicula": "Voces Inocentes",
+      "productora": "Altavista Films",
+      "director": "Luis Mandoki"
+    },
+    {
+      "edicion": "47° (2004)",
+      "pelicula": "Manos libres (Nadie te habla)",
+      "productora": "Producciones Tragaluz",
+      "director": "José Buil"
+    },
+    {
+      "edicion": "48° (2005)",
+      "pelicula": "Mezcal",
+      "productora": "Malayerba Producciones",
+      "director": "Ignacio Ortiz Cruz"
+    },
+    {
+      "edicion": "48° (2005)",
+      "pelicula": "Las vueltas del citrillo",
+      "productora": "Cuatro Soles Films",
+      "director": "Felipe Cazals"
+    },
+    {
+      "edicion": "48° (2005)",
+      "pelicula": "Noticias Lejanas",
+      "productora": "Instituto Mexicano de Cinematografía",
+      "director": "Ricardo Benet"
+    },
+    {
+      "edicion": "49° (2006)",
+      "pelicula": "El laberinto del fauno",
+      "productora": "Tequila Gang",
+      "director": "Guillermo del Toro"
+    },
+    {
+      "edicion": "49° (2006)",
+      "pelicula": "Crónicas",
+      "productora": "Producciones Anhelo",
+      "director": "Sebástian Cordero"
+    },
+    {
+      "edicion": "49° (2006)",
+      "pelicula": "El violín",
+      "productora": "Cámara Carnal Films",
+      "director": "Francisco Vargas"
+    },
+    {
+      "edicion": "50° (2007)",
+      "pelicula": "Luz silenciosa",
+      "productora": "Mantarraya Producciones",
+      "director": "Carlos Reygadas"
+    },
+    {
+      "edicion": "50° (2007)",
+      "pelicula": "Cobrador: In God We Trust",
+      "productora": "Salamandra Producciones",
+      "director": "Paul Leduc"
+    },
+    {
+      "edicion": "50° (2007)",
+      "pelicula": "Los ladrones viejos",
+      "productora": "Artegios",
+      "director": "Everardo González"
+    },
+    {
+      "edicion": "51° (2008)",
+      "pelicula": "Lake Tahoe",
+      "productora": "Cine Pantera",
+      "director": "Fernando Eimbcke"
+    },
+    {
+      "edicion": "51° (2008)",
+      "pelicula": "Intimidades de Shakespeare y Víctor Hugo",
+      "productora": "Centro de Capacitación Cinematográfica",
+      "director": "Yulene Olaizola"
+    },
+    {
+      "edicion": "51° (2008)",
+      "pelicula": "Los herederos",
+      "productora": "Tecolote Films",
+      "director": "Eugenio Polgovsky"
+    },
+    {
+      "edicion": "51° (2008)",
+      "pelicula": "Voy a explotar",
+      "productora": "Canana",
+      "director": "Gerardo Navarro"
+    },
+    {
+      "edicion": "52° (2009)",
+      "pelicula": "Cinco días sin Nora",
+      "productora": "Cacerola Films",
+      "director": "Mariana Chenillo"
+    },
+    {
+      "edicion": "52° (2009)",
+      "pelicula": "Corazón del tiempo",
+      "productora": "Bataclán Cinematográfica",
+      "director": "Alberto Cortés"
+    },
+    {
+      "edicion": "52° (2009)",
+      "pelicula": "Norteado",
+      "productora": "Edgar San Juan y Tiburón Producciones",
+      "director": "Rigoberto Pérezcano"
+    },
+    {
+      "edicion": "53° (2010)",
+      "pelicula": "El infierno",
+      "productora": "Bandidos Films",
+      "director": "Luis Estrada"
+    },
+    {
+      "edicion": "53° (2010)",
+      "pelicula": "Abel",
+      "productora": "Vehículo Abeliano",
+      "director": "Diego Luna"
+    },
+    {
+      "edicion": "53° (2010)",
+      "pelicula": "Chicogrande",
+      "productora": "Sierra Alta Films",
+      "director": "Felipe Cazals"
+    },
+    {
+      "edicion": "54° (2011)",
+      "pelicula": "Pastorela",
+      "productora": "Las Producciones del Patrón",
+      "director": "Emilio Portes"
+    },
+    {
+      "edicion": "54° (2011)",
+      "pelicula": "Miss Bala",
+      "productora": "Canana Holdings",
+      "director": "Gerardo Naranjo"
+    },
+    {
+      "edicion": "54° (2011)",
+      "pelicula": "Días de gracia",
+      "productora": "Días de Gracia Producciones",
+      "director": "Everardo Gout"
+    },
+    {
+      "edicion": "55° (2012)",
+      "pelicula": "El premio",
+      "productora": "Kung Works",
+      "director": "Paula Markovitch"
+    },
+    {
+      "edicion": "55° (2012)",
+      "pelicula": "La demora",
+      "productora": "Lulú Producciones",
+      "director": "Rodrigo Plá"
+    },
+    {
+      "edicion": "55° (2012)",
+      "pelicula": "Los últimos cristeros",
+      "productora": "Luc, la Película",
+      "director": "Matías Meyer"
+    },
+    {
+      "edicion": "56° (2013)",
+      "pelicula": "La jaula de oro",
+      "productora": "Cazador Solitario Films",
+      "director": "Diego Quemada-Diez"
+    },
+    {
+      "edicion": "56° (2013)",
+      "pelicula": "Club Sandwich",
+      "productora": "Cine Pantera",
+      "director": "Fernardo Eimbcke"
+    },
+    {
+      "edicion": "56° (2013)",
+      "pelicula": "Heli",
+      "productora": "Mantarraya Producciones",
+      "director": "Amat Escalante Wool"
+    },
+    {
+      "edicion": "56° (2013)",
+      "pelicula": "Los insólitos peces gato",
+      "productora": "Caníbal Networks",
+      "director": "Claudia Sainte-Luce"
+    },
+    {
+      "edicion": "56° (2013)",
+      "pelicula": "No quiero dormir sola",
+      "productora": "Chamaca Films",
+      "director": "Natalia Beristáin"
+    },
+    {
+      "edicion": "57° (2014)",
+      "pelicula": "Güeros",
+      "productora": "Instituto Mexicano de Cinematografía , Consejo Nacional para la Cultura y las Artes, Estudios Churubusco Azteca y Catatonia Films",
+      "director": "Alonso Ruizpalacios"
+    },
+    {
+      "edicion": "57° (2014)",
+      "pelicula": "Carmín tropical",
+      "productora": "FOPROCINE, Tiburón Cine y Cine Pantera",
+      "director": "Rigoberto Pérezcano"
+    },
+    {
+      "edicion": "57° (2014)",
+      "pelicula": "Guten Tag, Ramón",
+      "productora": "Beanca films",
+      "director": "Jorge Ramírez-Suárez"
+    },
+    {
+      "edicion": "57° (2014)",
+      "pelicula": "La dictadura perfecta",
+      "productora": "Bandidos films",
+      "director": "Luis Estrada"
+    },
+    {
+      "edicion": "57° (2014)",
+      "pelicula": "Las oscuras primaveras",
+      "productora": "Agencia SHA, Alebrije producciones y Tintorera producciones",
+      "director": "Ernesto Contreras"
+    },
+    {
+      "edicion": "58° (2015)",
+      "pelicula": "Las elegidas",
+      "productora": "Canana, Manny Films",
+      "director": "David Pablos"
+    },
+    {
+      "edicion": "58° (2015)",
+      "pelicula": "600 millas",
+      "productora": "Lucía films",
+      "director": "Gabriel Ripstein"
+    },
+    {
+      "edicion": "58° (2015)",
+      "pelicula": "Gloria",
+      "productora": "Río Negro producciones y Pelo suelto México Films",
+      "director": "Christian Keller"
+    },
+    {
+      "edicion": "58° (2015)",
+      "pelicula": "La delgada línea amarilla",
+      "productora": "Springall Pictures",
+      "director": "Celso R. García"
+    },
+    {
+      "edicion": "58° (2015)",
+      "pelicula": "Un monstruo de mil cabezas",
+      "productora": "Buenaventura producciones",
+      "director": "Rodrigo Plá"
+    },
+    {
+      "edicion": "59° (2016)",
+      "pelicula": "La 4a. Compañía",
+      "productora": "Pulsación Creadora films, FIDECINE, Alebrije Cine y Video, Arte Mecánica producciones, Astronauta producciones, Sabor para llevar, Renta imagen, Estudios Churubusco Azteca, Terminal films, Polar Studio y Metacube Tecnología y Entretenimiento",
+      "director": "Amir Galván y Mitzi Vanessa Arreola"
+    },
+    {
+      "edicion": "59° (2016)",
+      "pelicula": "Bellas de noche",
+      "productora": "Cine Pantera",
+      "director": "María José Cuevas"
+    },
+    {
+      "edicion": "59° (2016)",
+      "pelicula": "Desierto",
+      "productora": "Esperanto Kino, Ítaca films, Orange Studio y CG Cinema",
+      "director": "Jonás Cuarón"
+    },
+    {
+      "edicion": "59° (2016)",
+      "pelicula": "Desde allá",
+      "productora": "Factor Rh, Lucía films y Malandro films",
+      "director": "Lorenzo Vigas"
+    },
+    {
+      "edicion": "59° (2016)",
+      "pelicula": "El sueño del Mara'akame",
+      "productora": "FOPROCINE y Centro Universitario de Estudios Cinematográficos",
+      "director": "Federico Cecchetti"
+    },
+    {
+      "edicion": "59° (2016)",
+      "pelicula": "Tempestad",
+      "productora": "Pimienta Films, Cactus films y Terminal",
+      "director": "Tatiana Huezo"
+    },
+    {
+      "edicion": "59° (2016)",
+      "pelicula": "Me estás matando Susana",
+      "productora": "Cuevano films",
+      "director": "Roberto Sneider"
+    },
+    {
+      "edicion": "60° (2017)",
+      "pelicula": "Sueño en otro idioma",
+      "productora": "Agencia Sha, Alebrije, Revolver Ámsterdam, FOPROCINE, Estudios Churubusco Azteca y EFICINE",
+      "director": "Ernesto Contreras"
+    },
+    {
+      "edicion": "60° (2017)",
+      "pelicula": "Batallas Íntimas",
+      "productora": "Caguama Producciones, FOPROCINE y Instituto Mexicano de Cinematografía",
+      "director": "Lucía Gajá"
+    },
+    {
+      "edicion": "60° (2017)",
+      "pelicula": "La libertad del diablo",
+      "productora": "Artegios, Animal de Luz Films",
+      "director": "Everardo González"
+    },
+    {
+      "edicion": "60° (2017)",
+      "pelicula": "La región salvaje",
+      "productora": "Mantarraya producciones y Tres tunas",
+      "director": "Amat Escalante"
+    },
+    {
+      "edicion": "60° (2017)",
+      "pelicula": "Tiempo compartido",
+      "productora": "Piano",
+      "director": "Sebastián Hofmann"
+    },
+    {
+      "edicion": "61° (2018)",
+      "pelicula": "Roma",
+      "productora": "Espectáculos fílmicos El Coyúl",
+      "director": "Alfonso Cuarón"
+    },
+    {
+      "edicion": "61° (2018)",
+      "pelicula": "La camarista",
+      "productora": "FOPROCINE, Bambú audiovisual, La Panda & Bbbilly",
+      "director": "Lila Avilés"
+    },
+    {
+      "edicion": "61° (2018)",
+      "pelicula": "Las niñas bien",
+      "productora": "Woo Films",
+      "director": "Alejandra Márquez Abella"
+    },
+    {
+      "edicion": "61° (2018)",
+      "pelicula": "Museo",
+      "productora": "Panaroma Global, Youtube Originals, Detalle films, Ring Cine y Distant Horizon",
+      "director": "Alonso Ruizpalacios"
+    },
+    {
+      "edicion": "61° (2018)",
+      "pelicula": "Nuestro Tiempo",
+      "productora": "Mantarraya producciones, No Dream Cinema",
+      "director": "Carlos Reygadas"
+    },
+    {
+      "edicion": "62° (2019)",
+      "pelicula": "Ya no estoy aquí",
+      "productora": "Panorama Entertainment",
+      "director": "Fernando Frías de la Parra"
+    },
+    {
+      "edicion": "62° (2019)",
+      "pelicula": "Asfixia",
+      "productora": "Puerco Rosa Producciones, EFICINE 226, Instituto Mexicano de Cinematografía , CTT Exp & Rentals, Estudios Churubusco S.A , Ítaca Films, COFIEJ, Neverending y Mil Nubes",
+      "director": "Kenya Márquez"
+    },
+    {
+      "edicion": "62° (2019)",
+      "pelicula": "Cómprame un revólver",
+      "productora": "Woo Films y Burning Blue",
+      "director": "Julio Hernández Cordón"
+    },
+    {
+      "edicion": "62° (2019)",
+      "pelicula": "Esto no es Berlín",
+      "productora": "Catatonia Films y La Palma De Oro Films",
+      "director": "Hari Sama"
+    },
+    {
+      "edicion": "62° (2019)",
+      "pelicula": "Polvo",
+      "productora": "Lady Leonor Producciones S. de R.L. de C.V., Alebrije Cine y Video, S.A. de C.V.",
+      "director": "José María Yázpik"
+    },
+    {
+      "edicion": "63° (2020)",
+      "pelicula": "Sin señas particulares",
+      "productora": "Corpulenta Producciones, FOPROCINE, Avanti Pictures, EnAgua Cines y Nephilim Producciones",
+      "director": "Fernanda Valadez"
+    },
+    {
+      "edicion": "63° (2020)",
+      "pelicula": "Las tres muertes de Marisela Escobedo",
+      "productora": "VICE Studios y Scorpio",
+      "director": "Carlos Pérez Osorio"
+    },
+    {
+      "edicion": "63° (2020)",
+      "pelicula": "El baile de los 41",
+      "productora": "Mexico City Poject y El Estudio",
+      "director": "David Pablos"
+    },
+    {
+      "edicion": "63° (2020)",
+      "pelicula": "Los lobos",
+      "productora": "Animal de Luz Films, Fideicomiso Comisión de filmaciones del Estado de Jalisco y Fondo de inversión y estímulos al cine (FIDECINE) - IMCINE",
+      "director": "Samuel Kishi Leopo"
+    },
+    {
+      "edicion": "63° (2020)",
+      "pelicula": "Selva trágica",
+      "productora": "Malacosa Cine, Varios Lobos, Manny Films y Contravia Films",
+      "director": "Yulene Olaizola"
+    },
+    {
+      "edicion": "64° (2021)",
+      "pelicula": "Noche de fuego",
+      "productora": "Pimienta Films, Match Factory Production y Desvia Producciones",
+      "director": "Tatiana Huezo"
+    },
+    {
+      "edicion": "64° (2021)",
+      "pelicula": "Cosas imposibles",
+      "productora": "Alebrije Cine y Video, Agencia Sha, Jorge Molina Merino y Estudios Churubusco Azteca",
+      "director": "Ernesto Contreras"
+    },
+    {
+      "edicion": "64° (2021)",
+      "pelicula": "El otro Tom",
+      "productora": "Buenaventura Cine",
+      "director": "Laura Santullo y Rodrigo Plá"
+    },
+    {
+      "edicion": "64° (2021)",
+      "pelicula": "Nudo mixteco",
+      "productora": "Madrecine, Avanti Pictures, E12 Media y FOPROCINE - IMCINE",
+      "director": "Ángeles Cruz"
+    },
+    {
+      "edicion": "64° (2021)",
+      "pelicula": "Una película de policías",
+      "productora": "No Ficción S.A. de C.V",
+      "director": "Alonso Ruizpalacios"
+    },
+    {
+      "edicion": "65° (2022)",
+      "pelicula": "El norte sobre el vacío",
+      "productora": "Bengala y Gavilán Cine",
+      "director": "Alejandra Márquez Abella"
+    },
+    {
+      "edicion": "65° (2022)",
+      "pelicula": "Bardo, falsa crónica de unas cuántas verdades",
+      "productora": "Limbo Films",
+      "director": "Alejandro González Iñárritu"
+    },
+    {
+      "edicion": "65° (2022)",
+      "pelicula": "Huesera",
+      "productora": "Machete Producciones y Disruptiva Films",
+      "director": "Michelle Garza Cervera"
+    },
+    {
+      "edicion": "65° (2022)",
+      "pelicula": "La caída",
+      "productora": "Madam, Filmadora e Infinity Hill",
+      "director": "Lucía Puenzo"
+    },
+    {
+      "edicion": "65° (2022)",
+      "pelicula": "La civil",
+      "productora": "Menuetto Film",
+      "director": "Teodora Mihai"
+    },
+    {
+      "edicion": "66° (2023)",
+      "pelicula": "Tótem",
+      "productora": "Limerencia Films, Laterna, Paloma Productions y Alpha Violet",
+      "director": "Lila Avilés"
+    },
+    {
+      "edicion": "66° (2023)",
+      "pelicula": "El eco",
+      "productora": "Radiola Films",
+      "director": "Tatiana Huezo"
+    },
+    {
+      "edicion": "66° (2023)",
+      "pelicula": "Heroico",
+      "productora": "New Fiction Films",
+      "director": "David Zonana"
+    },
+    {
+      "edicion": "66° (2023)",
+      "pelicula": "Temporada de huracanes",
+      "productora": "Woo Films",
+      "director": "Elisa Miller"
+    },
+    {
+      "edicion": "66° (2023)",
+      "pelicula": "Todo el silencio",
+      "productora": "Animal de Luz Films This is Why Cinema",
+      "director": "Diego del Río"
+    },
+    {
+      "edicion": "67° (2024)",
+      "pelicula": "Sujo",
+      "productora": "Enaguas Cine, Corpulenta Producciones, Escuela Nacional de Artes Cinematográficas , Alpha Violet y Silent R Management",
+      "director": "Astrid Rondero y Fernanda Valadez"
+    },
+    {
+      "edicion": "67° (2024)",
+      "pelicula": "La cocina",
+      "productora": "Filmadora",
+      "director": "Alonso Ruizpalacios"
+    },
+    {
+      "edicion": "67° (2024)",
+      "pelicula": "No nos moverán",
+      "productora": "Varios Lobos",
+      "director": "Pierre Saint-Martin Castellanos"
+    },
+    {
+      "edicion": "67° (2024)",
+      "pelicula": "Pedro Páramo",
+      "productora": "Redrum y Woo Films",
+      "director": "Rodrigo Prieto"
+    },
+    {
+      "edicion": "67° (2024)",
+      "pelicula": "Un actor malo",
+      "productora": "Catatonia Cine",
+      "director": "Jorge Cuchí"
+    },
+    {
+      "edicion": "",
+      "pelicula": "En el camino",
+      "productora": "Animal de Luz Films",
+      "director": "David Pablos"
+    },
+    {
+      "edicion": "68° (2025)",
+      "pelicula": "El diablo fuma (y guarda las cabezas de los cerillos quemados en la misma caja)",
+      "productora": "Mandarina Cine",
+      "director": "Ernesto Martínez Bucio"
+    },
+    {
+      "edicion": "68° (2025)",
+      "pelicula": "La libertad de fierro",
+      "productora": "Javier Campos Y Santiago Esteinou",
+      "director": "Santiago Esteinou"
+    },
+    {
+      "edicion": "68° (2025)",
+      "pelicula": "O último azul",
+      "productora": "Cinevinay y Desvia",
+      "director": "Gabriel Mascaro"
+    },
+    {
+      "edicion": "68° (2025)",
+      "pelicula": "Vainilla",
+      "productora": "Huasteca CC y Redrum",
+      "director": "Mayra Hermosillo"
+    }
+  ],
+  "meta": {
+    "title": "Premio Ariel a la mejor película (nominadas y ganadoras) - Free Download",
+    "description": "Películas ganadoras y nominadas al Premio Ariel a la mejor película del cine mexicano, por edición. Contains 241 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Premio Ariel a la mejor película (nominadas y ganadoras) | ListBase",
+    "seo_description": "Download Premio Ariel a la mejor película (nominadas y ganadoras) — 241 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 241 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Premio_Ariel_a_la_mejor_película"
+    ]
+  }
+}
