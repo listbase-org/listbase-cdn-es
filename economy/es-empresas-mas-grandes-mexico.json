@@ -1,0 +1,566 @@
+{
+  "id": "es-empresas-mas-grandes-mexico",
+  "name": "Empresas más grandes de México por ingresos",
+  "title": "Empresas más grandes de México por ingresos",
+  "description": "Las 50 empresas mexicanas más grandes por ingresos, con industria, sede, empleados y director general.",
+  "category": "economy",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Empresas_más_grandes_de_México_por_ingresos",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Empresas_más_grandes_de_México_por_ingresos",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "posicion",
+      "label": "Posicion",
+      "type": "number"
+    },
+    {
+      "key": "empresa",
+      "label": "Empresa",
+      "type": "string"
+    },
+    {
+      "key": "industria",
+      "label": "Industria",
+      "type": "string"
+    },
+    {
+      "key": "ingresos_mxn_millones",
+      "label": "Ingresos Mxn Millones",
+      "type": "number"
+    },
+    {
+      "key": "ingresos_usd_millones",
+      "label": "Ingresos Usd Millones",
+      "type": "number"
+    },
+    {
+      "key": "oficinas",
+      "label": "Oficinas",
+      "type": "string"
+    },
+    {
+      "key": "empleados",
+      "label": "Empleados",
+      "type": "number"
+    },
+    {
+      "key": "director_general",
+      "label": "Director General",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "posicion": 1,
+      "empresa": "Petróleos Mexicanos",
+      "industria": "Petróleo y gas",
+      "ingresos_mxn_millones": 2383388,
+      "ingresos_usd_millones": 118799,
+      "oficinas": "Miguel Hidalgo , Ciudad de México",
+      "empleados": 120054,
+      "director_general": "Octavio Romero"
+    },
+    {
+      "posicion": 2,
+      "empresa": "América Móvil",
+      "industria": "Telecomunicaciones",
+      "ingresos_mxn_millones": 844501,
+      "ingresos_usd_millones": 42093,
+      "oficinas": "Miguel Hidalgo , Ciudad de México",
+      "empleados": 176014,
+      "director_general": "Carlos Slim"
+    },
+    {
+      "posicion": 3,
+      "empresa": "Fomento Económico Mexicano",
+      "industria": "Conglomerado",
+      "ingresos_mxn_millones": 673202,
+      "ingresos_usd_millones": 33556,
+      "oficinas": "Monterrey , Nuevo León",
+      "empleados": 354344,
+      "director_general": "Antonio Carbajal"
+    },
+    {
+      "posicion": 4,
+      "empresa": "Comisión Federal de Electricidad",
+      "industria": "Electricidad",
+      "ingresos_mxn_millones": 620848,
+      "ingresos_usd_millones": 30946,
+      "oficinas": "Cuauhtémoc , Ciudad de México",
+      "empleados": 17346,
+      "director_general": "Emilia Esther"
+    },
+    {
+      "posicion": 5,
+      "empresa": "Grupo Bimbo",
+      "industria": "Alimentos",
+      "ingresos_mxn_millones": 398706,
+      "ingresos_usd_millones": 19873,
+      "oficinas": "Álvaro Obregón , Ciudad de México",
+      "empleados": 139631,
+      "director_general": "Daniel Servitje"
+    },
+    {
+      "posicion": 6,
+      "empresa": "Alfa",
+      "industria": "Conglomerado",
+      "ingresos_mxn_millones": 363864,
+      "ingresos_usd_millones": 18137,
+      "oficinas": "San Pedro Garza García , Nuevo León",
+      "empleados": 57709,
+      "director_general": "Armando Garza"
+    },
+    {
+      "posicion": 7,
+      "empresa": "Grupo Financiero Banorte",
+      "industria": "Servicios financieros",
+      "ingresos_mxn_millones": 347491,
+      "ingresos_usd_millones": 17321,
+      "oficinas": "San Pedro Garza García , Nuevo León",
+      "empleados": 30941,
+      "director_general": "Carlos Hank"
+    },
+    {
+      "posicion": 8,
+      "empresa": "Cemex",
+      "industria": "Material de construcción",
+      "ingresos_mxn_millones": 313312,
+      "ingresos_usd_millones": 15617,
+      "oficinas": "Monterrey , Nuevo León",
+      "empleados": 43535,
+      "director_general": "Rogelio Zambrano"
+    },
+    {
+      "posicion": 9,
+      "empresa": "Grupo México",
+      "industria": "Conglomerado",
+      "ingresos_mxn_millones": 278984,
+      "ingresos_usd_millones": 13906,
+      "oficinas": "Miguel Hidalgo , Ciudad de México",
+      "empleados": 30086,
+      "director_general": "Germán Larrea"
+    },
+    {
+      "posicion": 10,
+      "empresa": "Grupo BAL",
+      "industria": "Conglomerado",
+      "ingresos_mxn_millones": 267199,
+      "ingresos_usd_millones": 13318,
+      "oficinas": "Miguel Hidalgo , Ciudad de México",
+      "empleados": 36555,
+      "director_general": "Alejandro Baillères"
+    },
+    {
+      "posicion": 11,
+      "empresa": "Chedraui",
+      "industria": "Comercio minorista",
+      "ingresos_mxn_millones": 259326,
+      "ingresos_usd_millones": 12926,
+      "oficinas": "Xalapa-Enríquez , Veracruz",
+      "empleados": 69589,
+      "director_general": "Alfredo Chedraui"
+    },
+    {
+      "posicion": 12,
+      "empresa": "Coppel",
+      "industria": "Comercio minorista",
+      "ingresos_mxn_millones": 247532,
+      "ingresos_usd_millones": 12338,
+      "oficinas": "Culiacán , Sinaloa",
+      "empleados": 119818,
+      "director_general": "Agustín Coppel"
+    },
+    {
+      "posicion": 13,
+      "empresa": "Oxxo",
+      "industria": "Tienda de conveniencia",
+      "ingresos_mxn_millones": 233958,
+      "ingresos_usd_millones": 11662,
+      "oficinas": "Monterrey , Nuevo León",
+      "empleados": 175975,
+      "director_general": "Carlos Arenas"
+    },
+    {
+      "posicion": 14,
+      "empresa": "Coca-Cola FEMSA",
+      "industria": "Bebidas",
+      "ingresos_mxn_millones": 226740,
+      "ingresos_usd_millones": 11302,
+      "oficinas": "Monterrey , Nuevo León",
+      "empleados": 97211,
+      "director_general": "John Santa Maria"
+    },
+    {
+      "posicion": 15,
+      "empresa": "Grupo Salinas",
+      "industria": "Conglomerado",
+      "ingresos_mxn_millones": 226740,
+      "ingresos_usd_millones": 11127,
+      "oficinas": "Tlalpan , Ciudad de México",
+      "empleados": 110000,
+      "director_general": "Ricardo Salinas"
+    },
+    {
+      "posicion": 16,
+      "empresa": "Americas Mining Corporation",
+      "industria": "Minería",
+      "ingresos_mxn_millones": 220459,
+      "ingresos_usd_millones": 10989,
+      "oficinas": "Miguel Hidalgo , Ciudad de México",
+      "empleados": "-",
+      "director_general": "Germán Larrea"
+    },
+    {
+      "posicion": 17,
+      "empresa": "Alpek",
+      "industria": "Química",
+      "ingresos_mxn_millones": 212435,
+      "ingresos_usd_millones": 10589,
+      "oficinas": "San Pedro Garza García , Nuevo León",
+      "empleados": 7259,
+      "director_general": "Jorge Young"
+    },
+    {
+      "posicion": 18,
+      "empresa": "Arca Continental",
+      "industria": "Bebidas",
+      "ingresos_mxn_millones": 207785,
+      "ingresos_usd_millones": 10357,
+      "oficinas": "Monterrey , Nuevo León",
+      "empleados": 66750,
+      "director_general": "Jorge Santos"
+    },
+    {
+      "posicion": 19,
+      "empresa": "INFONAVIT",
+      "industria": "Servicios financieros",
+      "ingresos_mxn_millones": 196114,
+      "ingresos_usd_millones": 9775,
+      "oficinas": "Álvaro Obregón , Ciudad de México",
+      "empleados": 4500,
+      "director_general": "Carlos Martínez"
+    },
+    {
+      "posicion": 20,
+      "empresa": "Orbia Advance Corporation",
+      "industria": "Química",
+      "ingresos_mxn_millones": 194058,
+      "ingresos_usd_millones": 9673,
+      "oficinas": "Cuauhtémoc , Ciudad de México",
+      "empleados": 24587,
+      "director_general": "Sameer Bharadwaj"
+    },
+    {
+      "posicion": 21,
+      "empresa": "Grupo Carso",
+      "industria": "Conglomerado",
+      "ingresos_mxn_millones": 181539,
+      "ingresos_usd_millones": 9049,
+      "oficinas": "Miguel Hidalgo , Ciudad de México",
+      "empleados": 94827,
+      "director_general": "Carlos Slim"
+    },
+    {
+      "posicion": 22,
+      "empresa": "El Puerto de Liverpool",
+      "industria": "Comercio minorista",
+      "ingresos_mxn_millones": 176034,
+      "ingresos_usd_millones": 8774,
+      "oficinas": "Cuajimalpa , Ciudad de México",
+      "empleados": 76976,
+      "director_general": "David Michel"
+    },
+    {
+      "posicion": 23,
+      "empresa": "Organización Soriana",
+      "industria": "Comercio minorista",
+      "ingresos_mxn_millones": 166013,
+      "ingresos_usd_millones": 8275,
+      "oficinas": "Monterrey , Nuevo León",
+      "empleados": 84916,
+      "director_general": "Francisco Martín"
+    },
+    {
+      "posicion": 24,
+      "empresa": "Grupo Elektra",
+      "industria": "Comercio minorista",
+      "ingresos_mxn_millones": 166013,
+      "ingresos_usd_millones": 8209,
+      "oficinas": "Iztapalapa , Ciudad de México",
+      "empleados": 72968,
+      "director_general": "Ricardo Salinas"
+    },
+    {
+      "posicion": 25,
+      "empresa": "Sigma Alimentos",
+      "industria": "Alimentos",
+      "ingresos_mxn_millones": 149311,
+      "ingresos_usd_millones": 7442,
+      "oficinas": "San Pedro Garza García , Nuevo León",
+      "empleados": 45150,
+      "director_general": "Rodrigo Fernández"
+    },
+    {
+      "posicion": 26,
+      "empresa": "Gruma",
+      "industria": "Alimentos",
+      "ingresos_mxn_millones": 112492,
+      "ingresos_usd_millones": 5603,
+      "oficinas": "San Pedro Garza García , Nuevo León",
+      "empleados": 23506,
+      "director_general": "Antonio González"
+    },
+    {
+      "posicion": 27,
+      "empresa": "Industrias Peñoles",
+      "industria": "Minería",
+      "ingresos_mxn_millones": 111096,
+      "ingresos_usd_millones": 5538,
+      "oficinas": "Miguel Hidalgo , Ciudad de México",
+      "empleados": 22264,
+      "director_general": "Alejandro Baillères"
+    },
+    {
+      "posicion": 28,
+      "empresa": "Xignux",
+      "industria": "Conglomerado",
+      "ingresos_mxn_millones": 106551,
+      "ingresos_usd_millones": 5311,
+      "oficinas": "San Pedro Garza García , Nuevo León",
+      "empleados": 25958,
+      "director_general": "Ignacio Garza"
+    },
+    {
+      "posicion": 29,
+      "empresa": "Bachoco",
+      "industria": "Avicultura",
+      "ingresos_mxn_millones": 98891,
+      "ingresos_usd_millones": 4929,
+      "oficinas": "Celaya , Guanajuato",
+      "empleados": 34098,
+      "director_general": "Rodolfo Ramos"
+    },
+    {
+      "posicion": 30,
+      "empresa": "Corporativo Fragua",
+      "industria": "Tiendas de conveniencia",
+      "ingresos_mxn_millones": 97918,
+      "ingresos_usd_millones": 4881,
+      "oficinas": "Guadalajara , Jalisco",
+      "empleados": 52457,
+      "director_general": "Javier Arroyo"
+    },
+    {
+      "posicion": 31,
+      "empresa": "Cinépolis",
+      "industria": "Cine",
+      "ingresos_mxn_millones": 95000,
+      "ingresos_usd_millones": 4735,
+      "oficinas": "Morelia , Michoacán",
+      "empleados": 35000,
+      "director_general": "Alejandro Ramírez"
+    },
+    {
+      "posicion": 32,
+      "empresa": "Nemak",
+      "industria": "Automotriz",
+      "ingresos_mxn_millones": 93926,
+      "ingresos_usd_millones": 4682,
+      "oficinas": "Monterrey , Nuevo León",
+      "empleados": 23970,
+      "director_general": "Armando Tamez"
+    },
+    {
+      "posicion": 33,
+      "empresa": "Nemak",
+      "industria": "Automotriz",
+      "ingresos_mxn_millones": 93926,
+      "ingresos_usd_millones": 4682,
+      "oficinas": "Monterrey , Nuevo León",
+      "empleados": 23970,
+      "director_general": "Armando Tamez"
+    },
+    {
+      "posicion": 34,
+      "empresa": "Grupo Lala",
+      "industria": "Alimentos",
+      "ingresos_mxn_millones": 93368,
+      "ingresos_usd_millones": 4654,
+      "oficinas": "Gómez Palacio , Durango",
+      "empleados": 40315,
+      "director_general": "Eduardo Tricio"
+    },
+    {
+      "posicion": 35,
+      "empresa": "Grupo Financiero Inbursa",
+      "industria": "Servicios financieros",
+      "ingresos_mxn_millones": 92492,
+      "ingresos_usd_millones": 4610,
+      "oficinas": "Tlalpan , Ciudad de México",
+      "empleados": 24560,
+      "director_general": "Javier Foncerrada"
+    },
+    {
+      "posicion": 36,
+      "empresa": "Mabe",
+      "industria": "Electrónica de consumo",
+      "ingresos_mxn_millones": 91382,
+      "ingresos_usd_millones": 4555,
+      "oficinas": "Miguel Hidalgo , Ciudad de México",
+      "empleados": 22672,
+      "director_general": "Luis Berrondo"
+    },
+    {
+      "posicion": 37,
+      "empresa": "Banco Azteca",
+      "industria": "Servicios financieros",
+      "ingresos_mxn_millones": 83481,
+      "ingresos_usd_millones": 4161,
+      "oficinas": "Tlalpan , Ciudad de México",
+      "empleados": 42865,
+      "director_general": "Ricardo Salinas"
+    },
+    {
+      "posicion": 38,
+      "empresa": "Grupo Nacional Provincial",
+      "industria": "Seguros",
+      "ingresos_mxn_millones": 82397,
+      "ingresos_usd_millones": 4107,
+      "oficinas": "Coyoacán , Ciudad de México",
+      "empleados": 9156,
+      "director_general": "Alejandro Baillères"
+    },
+    {
+      "posicion": 39,
+      "empresa": "Villacero",
+      "industria": "Siderurgia",
+      "ingresos_mxn_millones": 80000,
+      "ingresos_usd_millones": 3988,
+      "oficinas": "Monterrey , Nuevo León",
+      "empleados": "-",
+      "director_general": "César Villarreal"
+    },
+    {
+      "posicion": 40,
+      "empresa": "Banobras",
+      "industria": "Servicios financieros",
+      "ingresos_mxn_millones": 79816,
+      "ingresos_usd_millones": 3978,
+      "oficinas": "Álvaro Obregón , Ciudad de México",
+      "empleados": 1040,
+      "director_general": "Jorge Mendoza"
+    },
+    {
+      "posicion": 41,
+      "empresa": "Grupo Aeroméxico",
+      "industria": "Aviación",
+      "ingresos_mxn_millones": 78000,
+      "ingresos_usd_millones": 3888,
+      "oficinas": "Cuauhtémoc , Ciudad de México",
+      "empleados": 13868,
+      "director_general": "Javier Arrigunaga"
+    },
+    {
+      "posicion": 42,
+      "empresa": "Grupo Televisa",
+      "industria": "Conglomerado",
+      "ingresos_mxn_millones": 75527,
+      "ingresos_usd_millones": 3765,
+      "oficinas": "Cuajimalpa , Ciudad de México",
+      "empleados": 37374,
+      "director_general": "Emilio Azcárraga"
+    },
+    {
+      "posicion": 43,
+      "empresa": "FEMSA División Salud",
+      "industria": "Farmacia",
+      "ingresos_mxn_millones": 74800,
+      "ingresos_usd_millones": 3728,
+      "oficinas": "Monterrey , Nuevo León",
+      "empleados": 9133,
+      "director_general": "Daniel Belaúnde"
+    },
+    {
+      "posicion": 44,
+      "empresa": "SuKarne",
+      "industria": "Agroindustria",
+      "ingresos_mxn_millones": 70414,
+      "ingresos_usd_millones": 3510,
+      "oficinas": "Culiacán , Sinaloa",
+      "empleados": 14510,
+      "director_general": "Jesús Vizcarra"
+    },
+    {
+      "posicion": 45,
+      "empresa": "Tiendas Elektra",
+      "industria": "Comercio minorista",
+      "ingresos_mxn_millones": 70400,
+      "ingresos_usd_millones": 3509,
+      "oficinas": "Iztapalapa , Ciudad de México",
+      "empleados": 64301,
+      "director_general": "Ricardo Salinas"
+    },
+    {
+      "posicion": 46,
+      "empresa": "Alsea",
+      "industria": "Restaurantes",
+      "ingresos_mxn_millones": 68831,
+      "ingresos_usd_millones": 3431,
+      "oficinas": "Álvaro Obregón , Ciudad de México",
+      "empleados": 75700,
+      "director_general": "Alberto Torrado"
+    },
+    {
+      "posicion": 47,
+      "empresa": "Grupo Empresarial Ángeles",
+      "industria": "Salud",
+      "ingresos_mxn_millones": 68831,
+      "ingresos_usd_millones": 3389,
+      "oficinas": "Magdalena Contreras , Ciudad de México",
+      "empleados": 40000,
+      "director_general": "Olegario Vázquez"
+    },
+    {
+      "posicion": 48,
+      "empresa": "Grupo Desc",
+      "industria": "Conglomerado",
+      "ingresos_mxn_millones": 65099,
+      "ingresos_usd_millones": 3245,
+      "oficinas": "Cuajimalpa , Ciudad de México",
+      "empleados": 24701,
+      "director_general": "Fernando Senderos"
+    },
+    {
+      "posicion": 49,
+      "empresa": "DeAcero",
+      "industria": "Siderurgia",
+      "ingresos_mxn_millones": 65000,
+      "ingresos_usd_millones": 3240,
+      "oficinas": "San Pedro Garza García , Nuevo León",
+      "empleados": 11000,
+      "director_general": "Raúl Gutiérrez"
+    },
+    {
+      "posicion": 50,
+      "empresa": "Grupo Sanborns",
+      "industria": "Comercio minorista",
+      "ingresos_mxn_millones": 64807,
+      "ingresos_usd_millones": 3230,
+      "oficinas": "Miguel Hidalgo , Ciudad de México",
+      "empleados": 42547,
+      "director_general": "Carlos Slim"
+    }
+  ],
+  "meta": {
+    "title": "Empresas más grandes de México por ingresos - Free Download",
+    "description": "Las 50 empresas mexicanas más grandes por ingresos, con industria, sede, empleados y director general. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Empresas más grandes de México por ingresos | ListBase",
+    "seo_description": "Download Empresas más grandes de México por ingresos — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Empresas_más_grandes_de_México_por_ingresos"
+    ]
+  }
+}

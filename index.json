@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:16:59.548Z",
-  "total_datasets": 468,
-  "total_records": 418962,
+  "generated": "2026-10-27T02:17:02.114Z",
+  "total_datasets": 469,
+  "total_records": 419012,
   "categories": [
     {
       "id": "agriculture",
@@ -11,6 +11,10 @@
     {
       "id": "culture",
       "dataset_count": 2
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -181,6 +185,35 @@
         "xlsx": {
           "name": "es-patrimonio-mundial-unesco_ES.xlsx",
           "size": 21377
+        }
+      }
+    },
+    {
+      "id": "es-empresas-mas-grandes-mexico",
+      "name": "Empresas más grandes de México por ingresos",
+      "category": "economy",
+      "record_count": 50,
+      "columns": [
+        "posicion",
+        "empresa",
+        "industria",
+        "ingresos_mxn_millones",
+        "ingresos_usd_millones",
+        "oficinas",
+        "empleados",
+        "director_general"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Empresas_más_grandes_de_México_por_ingresos",
+      "updated": "2026-10",
+      "size": 17255,
+      "files": {
+        "csv": {
+          "name": "es-empresas-mas-grandes-mexico_ES.csv",
+          "size": 5724
+        },
+        "xlsx": {
+          "name": "es-empresas-mas-grandes-mexico_ES.xlsx",
+          "size": 10342
         }
       }
     },
