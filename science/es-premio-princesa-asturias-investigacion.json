@@ -1,0 +1,316 @@
+{
+  "id": "es-premio-princesa-asturias-investigacion",
+  "name": "Premio Princesa de Asturias de Investigación Científica y Técnica",
+  "title": "Premio Princesa de Asturias de Investigación Científica y Técnica",
+  "description": "Galardonados con el Premio Princesa de Asturias de Investigación Científica y Técnica desde 1981.",
+  "category": "science",
+  "source": "https://es.wikipedia.org/wiki/Premio_Princesa_de_Asturias_de_Investigación_Científica_y_Técnica",
+  "source_url": "https://es.wikipedia.org/wiki/Premio_Princesa_de_Asturias_de_Investigación_Científica_y_Técnica",
+  "updated": "2026-10",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "anio",
+      "label": "Anio",
+      "type": "number"
+    },
+    {
+      "key": "premiado",
+      "label": "Premiado",
+      "type": "string"
+    },
+    {
+      "key": "actividad",
+      "label": "Actividad",
+      "type": "string"
+    },
+    {
+      "key": "nacionalidad",
+      "label": "Nacionalidad",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "anio": 1981,
+      "premiado": "Alberto Sols",
+      "actividad": "Bioquímico",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1982,
+      "premiado": "Manuel Ballester Boix",
+      "actividad": "Químico",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1983,
+      "premiado": "Luis Santaló",
+      "actividad": "Matemático",
+      "nacionalidad": "Argentina España"
+    },
+    {
+      "anio": 1984,
+      "premiado": "Antonio García-Bellido",
+      "actividad": "Biólogo y genetista",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1985,
+      "premiado": "David Vázquez Martínez Emilio Rosenblueth",
+      "actividad": "Biólogo Ingeniero sísmico",
+      "nacionalidad": "España Argentina México"
+    },
+    {
+      "anio": 1986,
+      "premiado": "Antonio González González",
+      "actividad": "Químico",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1987,
+      "premiado": "Pablo Rudomín Jacinto Convit",
+      "actividad": "Neurólogo Médico",
+      "nacionalidad": "México Venezuela"
+    },
+    {
+      "anio": 1988,
+      "premiado": "Manuel Cardona Castro Marcos Moshinsky",
+      "actividad": "Físicos",
+      "nacionalidad": "España México"
+    },
+    {
+      "anio": 1989,
+      "premiado": "Guido Münch",
+      "actividad": "Astrofísico",
+      "nacionalidad": "México"
+    },
+    {
+      "anio": 1990,
+      "premiado": "Salvador Moncada Santiago Grisolía",
+      "actividad": "Médico Bioquímico",
+      "nacionalidad": "Honduras España"
+    },
+    {
+      "anio": 1991,
+      "premiado": "Francisco Gonzalo Bolívar Zapata",
+      "actividad": "Bioquímico",
+      "nacionalidad": "México"
+    },
+    {
+      "anio": 1992,
+      "premiado": "Federico García Moliner",
+      "actividad": "Físico",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1993,
+      "premiado": "Amable Liñán",
+      "actividad": "Ingeniero",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1994,
+      "premiado": "Manuel Elkin Patarroyo",
+      "actividad": "Médico",
+      "nacionalidad": "Colombia"
+    },
+    {
+      "anio": 1995,
+      "premiado": "Instituto Nacional de Biodiversidad Manuel Losada Villasante",
+      "actividad": "Institución privada de investigación de la biodiversidad Bioquímico y biólogo",
+      "nacionalidad": "Costa Rica España"
+    },
+    {
+      "anio": 1996,
+      "premiado": "Valentín Fuster",
+      "actividad": "Cardiólogo",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1997,
+      "premiado": "Equipo Investigador de Atapuerca (dirigido por Emiliano Aguirre )",
+      "actividad": "Paleoantropólogos",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1998,
+      "premiado": "Pedro Miguel Echenique Emilio Méndez Pérez",
+      "actividad": "Físicos",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1999,
+      "premiado": "Ricardo Miledi Enrique Moreno González",
+      "actividad": "Médicos",
+      "nacionalidad": "México España"
+    },
+    {
+      "anio": 2000,
+      "premiado": "Luc Montagnier Robert Gallo",
+      "actividad": "Médicos",
+      "nacionalidad": "Francia Estados Unidos"
+    },
+    {
+      "anio": 2001,
+      "premiado": "Jean Weissenbach Craig Venter John Sulston Francis Collins Hamilton O. Smith",
+      "actividad": "Biólogo Biólogo y genetista Químico Genetista Matemático y biólogo",
+      "nacionalidad": "Francia Estados Unidos Reino Unido Estados Unidos Estados Unidos"
+    },
+    {
+      "anio": 2002,
+      "premiado": "Lawrence G. Roberts Robert Kahn Vinton Cerf Tim Berners-Lee",
+      "actividad": "Científicos de la computación",
+      "nacionalidad": "Estados Unidos Estados Unidos Estados Unidos Reino Unido"
+    },
+    {
+      "anio": 2003,
+      "premiado": "Jane Goodall",
+      "actividad": "Biología y primatología",
+      "nacionalidad": "Reino Unido"
+    },
+    {
+      "anio": 2004,
+      "premiado": "Judah Folkman Tony Hunter Joan Massagué Solé Bert Vogelstein Robert Weinberg",
+      "actividad": "Oncólogos",
+      "nacionalidad": "Estados Unidos Reino Unido España Estados Unidos Estados Unidos"
+    },
+    {
+      "anio": 2005,
+      "premiado": "António Damásio",
+      "actividad": "Médico y neurólogo",
+      "nacionalidad": "Portugal"
+    },
+    {
+      "anio": 2006,
+      "premiado": "Juan Ignacio Cirac Sasturain",
+      "actividad": "Físico",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 2007,
+      "premiado": "Ginés Morata Peter Lawrence",
+      "actividad": "Biólogos",
+      "nacionalidad": "España Reino Unido"
+    },
+    {
+      "anio": 2008,
+      "premiado": "Sumio Iijima Shūji Nakamura George M. Whitesides Robert S. Langer Tobin Marks",
+      "actividad": "Físico Ingeniero electrónico Ingeniero Químico Químico",
+      "nacionalidad": "Japón Japón Estados Unidos Estados Unidos Estados Unidos"
+    },
+    {
+      "anio": 2009,
+      "premiado": "Ray Tomlinson Martin Cooper",
+      "actividad": "Ingenieros",
+      "nacionalidad": "Estados Unidos"
+    },
+    {
+      "anio": 2010,
+      "premiado": "David Julius Linda R. Watkins Baruch Minke",
+      "actividad": "Bioquímicos",
+      "nacionalidad": "Estados Unidos Estados Unidos Israel"
+    },
+    {
+      "anio": 2011,
+      "premiado": "Joseph Altman Arturo Álvarez-Buylla Giacomo Rizzolatti",
+      "actividad": "Neurobiólogos",
+      "nacionalidad": "Estados Unidos México Italia"
+    },
+    {
+      "anio": 2012,
+      "premiado": "Gregory Winter Richard Lerner",
+      "actividad": "Biólogo Patólogo",
+      "nacionalidad": "Reino Unido Estados Unidos"
+    },
+    {
+      "anio": 2013,
+      "premiado": "Peter Higgs François Englert Organización Europea para la Investigación Nuclear",
+      "actividad": "Físicos Acelerador de partículas",
+      "nacionalidad": "Reino Unido Bélgica Unión Europea"
+    },
+    {
+      "anio": 2014,
+      "premiado": "Avelino Corma Mark E. Davis Galen Stucky",
+      "actividad": "Químicos",
+      "nacionalidad": "España Estados Unidos Estados Unidos"
+    },
+    {
+      "anio": 2015,
+      "premiado": "Emmanuelle Charpentier Jennifer Doudna",
+      "actividad": "Químicas, Biotecnólogas",
+      "nacionalidad": "Francia Estados Unidos"
+    },
+    {
+      "anio": 2016,
+      "premiado": "Hugh Herr",
+      "actividad": "Ingeniero, profesor de biofísica y escalador",
+      "nacionalidad": "Estados Unidos"
+    },
+    {
+      "anio": 2017,
+      "premiado": "Rainer Weiss Kip Thorne Barry Barish LIGO Scientific Collaboration",
+      "actividad": "Astrofísicos",
+      "nacionalidad": "Estados Unidos"
+    },
+    {
+      "anio": 2018,
+      "premiado": "Svante Pääbo",
+      "actividad": "Biólogo",
+      "nacionalidad": "Suecia"
+    },
+    {
+      "anio": 2019,
+      "premiado": "Joanne Chory Sandra Myrna Díaz",
+      "actividad": "Biólogas",
+      "nacionalidad": "Estados Unidos Argentina"
+    },
+    {
+      "anio": 2020,
+      "premiado": "Emmanuel Candès Ingrid Daubechies Yves Meyer Terence Tao",
+      "actividad": "Matemáticos",
+      "nacionalidad": "Francia Bélgica Francia Australia"
+    },
+    {
+      "anio": 2021,
+      "premiado": "Katalin Karikó Drew Weissman Philip Felgner Uğur Şahin Özlem Türeci Derrick Rossi Sarah Gilbert",
+      "actividad": "Médicos, inmunólogos y vacunólogos.",
+      "nacionalidad": "Hungría Estados Unidos Estados Unidos Alemania Alemania Canadá Reino Unido"
+    },
+    {
+      "anio": 2022,
+      "premiado": "Geoffrey Hinton Yann LeCun Yoshua Bengio Demis Hassabis",
+      "actividad": "Informáticos",
+      "nacionalidad": "Reino Unido Francia Canadá Reino Unido"
+    },
+    {
+      "anio": 2023,
+      "premiado": "Jeffrey I. Gordon Peter Greenberg Bonnie L. Bassler",
+      "actividad": "Biólogos",
+      "nacionalidad": "Estados Unidos Estados Unidos Estados Unidos"
+    },
+    {
+      "anio": 2024,
+      "premiado": "Daniel J. Drucker , Jeffrey M. Friedman , Joel F. Habener , Jens Juul Holst , Svetlana Mojsov",
+      "actividad": "Médicos endocrinólogos, genetistas y bioquímicos",
+      "nacionalidad": "Canadá Estados Unidos Estados Unidos Dinamarca Estados Unidos"
+    },
+    {
+      "anio": 2025,
+      "premiado": "Mary-Claire King",
+      "actividad": "Genetista",
+      "nacionalidad": "Estados Unidos"
+    }
+  ],
+  "meta": {
+    "title": "Premio Princesa de Asturias de Investigación Científica y Técnica - Free Download",
+    "description": "Galardonados con el Premio Princesa de Asturias de Investigación Científica y Técnica desde 1981. Contains 45 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Premio Princesa de Asturias de Investigación Científica y Técnica | ListBase",
+    "seo_description": "Download Premio Princesa de Asturias de Investigación Científica y Técnica — 45 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 45 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Premio_Princesa_de_Asturias_de_Investigación_Científica_y_Técnica"
+    ]
+  }
+}

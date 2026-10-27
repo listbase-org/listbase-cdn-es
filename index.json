@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:17:30.249Z",
-  "total_datasets": 480,
-  "total_records": 421288,
+  "generated": "2026-10-27T02:17:32.995Z",
+  "total_datasets": 481,
+  "total_records": 421333,
   "categories": [
     {
       "id": "agriculture",
@@ -51,6 +51,10 @@
     {
       "id": "reference",
       "dataset_count": 341
+    },
+    {
+      "id": "science",
+      "dataset_count": 1
     },
     {
       "id": "society",
@@ -14542,6 +14546,31 @@
         "xlsx": {
           "name": "es-zaragoza-unlocode_ES.xlsx",
           "size": 20758
+        }
+      }
+    },
+    {
+      "id": "es-premio-princesa-asturias-investigacion",
+      "name": "Premio Princesa de Asturias de Investigación Científica y Técnica",
+      "category": "science",
+      "record_count": 45,
+      "columns": [
+        "anio",
+        "premiado",
+        "actividad",
+        "nacionalidad"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Premio_Princesa_de_Asturias_de_Investigación_Científica_y_Técnica",
+      "updated": "2026-10",
+      "size": 10179,
+      "files": {
+        "csv": {
+          "name": "es-premio-princesa-asturias-investigacion_ES.csv",
+          "size": 4458
+        },
+        "xlsx": {
+          "name": "es-premio-princesa-asturias-investigacion_ES.xlsx",
+          "size": 9537
         }
       }
     },
