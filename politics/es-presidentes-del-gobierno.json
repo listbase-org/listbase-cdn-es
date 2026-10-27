@@ -1,0 +1,313 @@
+{
+  "id": "es-presidentes-del-gobierno",
+  "name": "Presidentes del Gobierno de España",
+  "title": "Presidentes del Gobierno de España",
+  "description": "Presidentes del Gobierno de España desde 1938, con gobierno, nombramiento, cese y tiempo en el cargo.",
+  "category": "politics",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Presidentes_del_Gobierno_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Presidentes_del_Gobierno_de_España",
+  "updated": "2026-10",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "presidente",
+      "label": "Presidente",
+      "type": "string"
+    },
+    {
+      "key": "gobierno",
+      "label": "Gobierno",
+      "type": "string"
+    },
+    {
+      "key": "nombramiento",
+      "label": "Nombramiento",
+      "type": "string"
+    },
+    {
+      "key": "cese",
+      "label": "Cese",
+      "type": "string"
+    },
+    {
+      "key": "tiempo_en_el_cargo",
+      "label": "Tiempo En El Cargo",
+      "type": "string"
+    },
+    {
+      "key": "jefe_del_estado",
+      "label": "Jefe Del Estado",
+      "type": "string"
+    },
+    {
+      "key": "legislatura",
+      "label": "Legislatura",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "presidente": "Vinculación a la jefatura del Estado",
+      "gobierno": "Franco I-XII",
+      "nombramiento": "31 de enero de 1938",
+      "cese": "9 de junio de 1973",
+      "tiempo_en_el_cargo": "35 años, 4 meses y 9 días",
+      "jefe_del_estado": "Francisco Franco (1939-1975)",
+      "legislatura": "Dictador."
+    },
+    {
+      "presidente": "Luis Carrero Blanco",
+      "gobierno": "Carrero",
+      "nombramiento": "9 de junio de 1973",
+      "cese": "20 de diciembre de 1973",
+      "tiempo_en_el_cargo": "6 meses y 11 días",
+      "jefe_del_estado": "Francisco Franco (1939-1975)",
+      "legislatura": "Dictador."
+    },
+    {
+      "presidente": "Torcuato Fernández-Miranda",
+      "gobierno": "Carrero",
+      "nombramiento": "20 de diciembre de 1973",
+      "cese": "31 de diciembre de 1973",
+      "tiempo_en_el_cargo": "11 días",
+      "jefe_del_estado": "Francisco Franco (1939-1975)",
+      "legislatura": "Dictador."
+    },
+    {
+      "presidente": "Carlos Arias Navarro",
+      "gobierno": "Arias I",
+      "nombramiento": "31 de diciembre de 1973",
+      "cese": "2 de julio de 1976",
+      "tiempo_en_el_cargo": "2 años, 6 meses y 2 días",
+      "jefe_del_estado": "Francisco Franco (1939-1975)",
+      "legislatura": "Dictador."
+    },
+    {
+      "presidente": "Carlos Arias Navarro",
+      "gobierno": "Arias II",
+      "nombramiento": "31 de diciembre de 1973",
+      "cese": "2 de julio de 1976",
+      "tiempo_en_el_cargo": "2 años, 6 meses y 2 días",
+      "jefe_del_estado": "Francisco Franco (1939-1975)",
+      "legislatura": "Dictador."
+    },
+    {
+      "presidente": "Carlos Arias Navarro",
+      "gobierno": "Arias III",
+      "nombramiento": "31 de diciembre de 1973",
+      "cese": "2 de julio de 1976",
+      "tiempo_en_el_cargo": "2 años, 6 meses y 2 días",
+      "jefe_del_estado": "Francisco Franco (1939-1975)",
+      "legislatura": "Dictador."
+    },
+    {
+      "presidente": "Carlos Arias Navarro",
+      "gobierno": "Arias III",
+      "nombramiento": "31 de diciembre de 1973",
+      "cese": "2 de julio de 1976",
+      "tiempo_en_el_cargo": "2 años, 6 meses y 2 días",
+      "jefe_del_estado": "Consejo de Regencia",
+      "legislatura": "Dictador."
+    },
+    {
+      "presidente": "Carlos Arias Navarro",
+      "gobierno": "Arias III",
+      "nombramiento": "31 de diciembre de 1973",
+      "cese": "2 de julio de 1976",
+      "tiempo_en_el_cargo": "2 años, 6 meses y 2 días",
+      "jefe_del_estado": "Juan Carlos I (1975-2014)",
+      "legislatura": "Dictador."
+    },
+    {
+      "presidente": "Fernando de Santiago",
+      "gobierno": "Arias III",
+      "nombramiento": "2 de julio de 1976",
+      "cese": "5 de julio de 1976",
+      "tiempo_en_el_cargo": "3 días",
+      "jefe_del_estado": "Juan Carlos I (1975-2014)",
+      "legislatura": "Dictador."
+    },
+    {
+      "presidente": "Adolfo Suárez ( UCD )",
+      "gobierno": "Suárez I",
+      "nombramiento": "5 de julio de 1976, tras designación real",
+      "cese": "5 de julio de 1976, tras designación real",
+      "tiempo_en_el_cargo": "4 años, 7 meses y 21 días",
+      "jefe_del_estado": "Juan Carlos I (1975-2014)",
+      "legislatura": "Dictador."
+    },
+    {
+      "presidente": "Adolfo Suárez ( UCD )",
+      "gobierno": "Suárez II",
+      "nombramiento": "17 de junio de 1977, tras confirmación real",
+      "cese": "17 de junio de 1977, tras confirmación real",
+      "tiempo_en_el_cargo": "4 años, 7 meses y 21 días",
+      "jefe_del_estado": "Juan Carlos I (1975-2014)",
+      "legislatura": "Constituyente Simple de UCD"
+    },
+    {
+      "presidente": "Adolfo Suárez ( UCD )",
+      "gobierno": "Suárez III",
+      "nombramiento": "31 de marzo de 1979",
+      "cese": "26 de febrero de 1981",
+      "tiempo_en_el_cargo": "4 años, 7 meses y 21 días",
+      "jefe_del_estado": "Juan Carlos I (1975-2014)",
+      "legislatura": "I Simple de UCD"
+    },
+    {
+      "presidente": "Leopoldo Calvo-Sotelo (UCD)",
+      "gobierno": "Calvo-Sotelo",
+      "nombramiento": "26 de febrero de 1981",
+      "cese": "2 de diciembre de 1982",
+      "tiempo_en_el_cargo": "1 año, 9 meses y 4 días",
+      "jefe_del_estado": "Juan Carlos I (1975-2014)",
+      "legislatura": "I Simple de UCD"
+    },
+    {
+      "presidente": "Felipe González ( PSOE )",
+      "gobierno": "González I",
+      "nombramiento": "2 de diciembre de 1982",
+      "cese": "23 de junio de 1986",
+      "tiempo_en_el_cargo": "13 años, 5 meses y 3 días",
+      "jefe_del_estado": "Juan Carlos I (1975-2014)",
+      "legislatura": "II Absoluta del PSOE"
+    },
+    {
+      "presidente": "Felipe González ( PSOE )",
+      "gobierno": "González II",
+      "nombramiento": "24 de julio de 1986",
+      "cese": "30 de octubre de 1989",
+      "tiempo_en_el_cargo": "13 años, 5 meses y 3 días",
+      "jefe_del_estado": "Juan Carlos I (1975-2014)",
+      "legislatura": "III Absoluta del PSOE"
+    },
+    {
+      "presidente": "Felipe González ( PSOE )",
+      "gobierno": "González III",
+      "nombramiento": "6 de diciembre de 1989",
+      "cese": "7 de junio de 1993",
+      "tiempo_en_el_cargo": "13 años, 5 meses y 3 días",
+      "jefe_del_estado": "Juan Carlos I (1975-2014)",
+      "legislatura": "IV Simple del PSOE"
+    },
+    {
+      "presidente": "Felipe González ( PSOE )",
+      "gobierno": "González IV",
+      "nombramiento": "10 de julio de 1993",
+      "cese": "5 de mayo de 1996",
+      "tiempo_en_el_cargo": "13 años, 5 meses y 3 días",
+      "jefe_del_estado": "Juan Carlos I (1975-2014)",
+      "legislatura": "V Simple del PSOE"
+    },
+    {
+      "presidente": "José María Aznar ( PP )",
+      "gobierno": "Aznar I",
+      "nombramiento": "5 de mayo de 1996",
+      "cese": "13 de marzo de 2000",
+      "tiempo_en_el_cargo": "7 años, 11 meses y 12 días",
+      "jefe_del_estado": "Juan Carlos I (1975-2014)",
+      "legislatura": "VI Simple del PP"
+    },
+    {
+      "presidente": "José María Aznar ( PP )",
+      "gobierno": "Aznar II",
+      "nombramiento": "27 de abril de 2000",
+      "cese": "17 de abril de 2004",
+      "tiempo_en_el_cargo": "7 años, 11 meses y 12 días",
+      "jefe_del_estado": "Juan Carlos I (1975-2014)",
+      "legislatura": "VII Absoluta del PP"
+    },
+    {
+      "presidente": "José Luis Rodríguez Zapatero (PSOE)",
+      "gobierno": "Zapatero I",
+      "nombramiento": "17 de abril de 2004",
+      "cese": "10 de marzo de 2008",
+      "tiempo_en_el_cargo": "7 años, 8 meses y 4 días",
+      "jefe_del_estado": "Juan Carlos I (1975-2014)",
+      "legislatura": "VIII Simple del PSOE"
+    },
+    {
+      "presidente": "José Luis Rodríguez Zapatero (PSOE)",
+      "gobierno": "Zapatero II",
+      "nombramiento": "12 de abril de 2008",
+      "cese": "21 de diciembre de 2011",
+      "tiempo_en_el_cargo": "7 años, 8 meses y 4 días",
+      "jefe_del_estado": "Juan Carlos I (1975-2014)",
+      "legislatura": "IX Simple del PSOE"
+    },
+    {
+      "presidente": "Mariano Rajoy (PP)",
+      "gobierno": "Rajoy I",
+      "nombramiento": "21 de diciembre de 2011",
+      "cese": "21 de diciembre de 2015",
+      "tiempo_en_el_cargo": "6 años, 5 meses y 12 días",
+      "jefe_del_estado": "Juan Carlos I (1975-2014)",
+      "legislatura": "X Absoluta del PP"
+    },
+    {
+      "presidente": "Mariano Rajoy (PP)",
+      "gobierno": "Rajoy I",
+      "nombramiento": "21 de diciembre de 2011",
+      "cese": "21 de diciembre de 2015",
+      "tiempo_en_el_cargo": "6 años, 5 meses y 12 días",
+      "jefe_del_estado": "Felipe VI (2014-presente)",
+      "legislatura": "XI Simple del PP"
+    },
+    {
+      "presidente": "Mariano Rajoy (PP)",
+      "gobierno": "Rajoy II",
+      "nombramiento": "31 de octubre de 2016",
+      "cese": "2 de junio de 2018",
+      "tiempo_en_el_cargo": "6 años, 5 meses y 12 días",
+      "jefe_del_estado": "Felipe VI (2014-presente)",
+      "legislatura": "XII Simple del PP"
+    },
+    {
+      "presidente": "Pedro Sánchez (PSOE)",
+      "gobierno": "Sánchez I",
+      "nombramiento": "2 de junio de 2018",
+      "cese": "10 de noviembre de 2019",
+      "tiempo_en_el_cargo": "8 años, 4 meses y 25 días",
+      "jefe_del_estado": "Felipe VI (2014-presente)",
+      "legislatura": "XII Simple del PP"
+    },
+    {
+      "presidente": "Pedro Sánchez (PSOE)",
+      "gobierno": "Sánchez I",
+      "nombramiento": "2 de junio de 2018",
+      "cese": "10 de noviembre de 2019",
+      "tiempo_en_el_cargo": "8 años, 4 meses y 25 días",
+      "jefe_del_estado": "Felipe VI (2014-presente)",
+      "legislatura": "XIII Simple del PSOE"
+    },
+    {
+      "presidente": "Pedro Sánchez (PSOE)",
+      "gobierno": "Sánchez II",
+      "nombramiento": "8 de enero de 2020",
+      "cese": "24 de julio de 2023",
+      "tiempo_en_el_cargo": "8 años, 4 meses y 25 días",
+      "jefe_del_estado": "Felipe VI (2014-presente)",
+      "legislatura": "XIV Simple del PSOE+UP"
+    },
+    {
+      "presidente": "Pedro Sánchez (PSOE)",
+      "gobierno": "Sánchez III",
+      "nombramiento": "17 de noviembre de 2023",
+      "cese": "En el cargo",
+      "tiempo_en_el_cargo": "8 años, 4 meses y 25 días",
+      "jefe_del_estado": "Felipe VI (2014-presente)",
+      "legislatura": "XV Simple del PSOE+Sumar"
+    }
+  ],
+  "meta": {
+    "title": "Presidentes del Gobierno de España - Free Download",
+    "description": "Presidentes del Gobierno de España desde 1938, con gobierno, nombramiento, cese y tiempo en el cargo. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidentes del Gobierno de España | ListBase",
+    "seo_description": "Download Presidentes del Gobierno de España — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Presidentes_del_Gobierno_de_España"
+    ]
+  }
+}
