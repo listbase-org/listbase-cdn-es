@@ -1,0 +1,556 @@
+{
+  "id": "es-premio-goya-mejor-pelicula",
+  "name": "Premio Goya a la mejor película",
+  "title": "Premio Goya a la mejor película",
+  "description": "Películas ganadoras del Premio Goya a la mejor película desde 1987, con director, productora, género y número de premios.",
+  "category": "entertainment",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Premio_Goya_a_la_mejor_película",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Premio_Goya_a_la_mejor_película",
+  "updated": "2026-10",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "edicion",
+      "label": "Edicion",
+      "type": "string"
+    },
+    {
+      "key": "pelicula",
+      "label": "Pelicula",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    },
+    {
+      "key": "productora",
+      "label": "Productora",
+      "type": "string"
+    },
+    {
+      "key": "productores",
+      "label": "Productores",
+      "type": "string"
+    },
+    {
+      "key": "guionistas",
+      "label": "Guionistas",
+      "type": "string"
+    },
+    {
+      "key": "genero",
+      "label": "Genero",
+      "type": "string"
+    },
+    {
+      "key": "premios",
+      "label": "Premios",
+      "type": "number"
+    },
+    {
+      "key": "candidaturas",
+      "label": "Candidaturas",
+      "type": "number"
+    },
+    {
+      "key": "otras_candidatas",
+      "label": "Otras Candidatas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edicion": "I edición - 1986",
+      "pelicula": "El viaje a ninguna parte",
+      "director": "Fernando Fernán Gómez",
+      "productora": "Ganesh",
+      "productores": "Maribel Martín Julián Mateos",
+      "guionistas": "Fernando Fernán Gómez ( novela de Fernán Gómez)",
+      "genero": "Drama",
+      "premios": 3,
+      "candidaturas": 5,
+      "otras_candidatas": "27 horas ( Montxo Armendáriz ) La mitad del cielo ( Manuel Gutiérrez Aragón )"
+    },
+    {
+      "edicion": "II edición - 1987",
+      "pelicula": "El bosque animado",
+      "director": "José Luis Cuerda",
+      "productora": "Classic Films Producción",
+      "productores": "Eduardo Ducay",
+      "guionistas": "Rafael Azcona (novela de Wenceslao Fernández Flórez )",
+      "genero": "Comedia / Fantástico",
+      "premios": 5,
+      "candidaturas": 8,
+      "otras_candidatas": "Divinas palabras ( José Luis García Sánchez ) El Lute: camina o revienta ( Vicente Aranda )"
+    },
+    {
+      "edicion": "III edición - 1988",
+      "pelicula": "Mujeres al borde de un ataque de nervios",
+      "director": "Pedro Almodóvar ) (candidata al Óscar a la mejor película extranjera",
+      "productora": "El Deseo Lauren Films",
+      "productores": "Agustín Almodóvar Antonio Llorens",
+      "guionistas": "Pedro Almodóvar",
+      "genero": "Comedia",
+      "premios": 5,
+      "candidaturas": 16,
+      "otras_candidatas": "Diario de invierno ( Francisco Regueiro ) El túnel ( Antonio Drove ) Espérame en el cielo ( Antonio Mercero ) Remando al viento ( Gonzalo Suárez )"
+    },
+    {
+      "edicion": "IV edición - 1989",
+      "pelicula": "El sueño del mono loco",
+      "director": "Fernando Trueba",
+      "productora": "Iberoamericana Films",
+      "productores": "Andrés Vicente Gómez",
+      "guionistas": "Manolo Matji Menno Meyjes Fernando Trueba (novela de Christopher Frank )",
+      "genero": "Drama / Intriga",
+      "premios": 6,
+      "candidaturas": 11,
+      "otras_candidatas": "El mar y el tiempo ( Fernando Fernán Gómez ) El niño de la luna ( Agustí Villaronga ) Esquilache ( Josefina Molina ) Montoyas y Tarantos ( Vicente Escrivá )"
+    },
+    {
+      "edicion": "V edición - 1990",
+      "pelicula": "¡Ay, Carmela!",
+      "director": "Carlos Saura",
+      "productora": "Iberoamericana Films",
+      "productores": "Andrés Vicente Gómez",
+      "guionistas": "Rafael Azcona Carlos Saura ( obra teatral de José Sanchis Sinisterra )",
+      "genero": "Comedia dramática / Guerra civil española",
+      "premios": 13,
+      "candidaturas": 15,
+      "otras_candidatas": "¡Átame! ( Pedro Almodóvar ) Las cartas de Alou ( Montxo Armendáriz ): ( Concha de Oro en el Festival de San Sebastián )."
+    },
+    {
+      "edicion": "VI edición - 1991",
+      "pelicula": "Amantes",
+      "director": "Vicente Aranda",
+      "productora": "Pedro Costa PC",
+      "productores": "Pedro Costa",
+      "guionistas": "Álvaro del Amo Carlos Pérez Merinero Vicente Aranda",
+      "genero": "Drama / Intriga (basado en hechos reales)",
+      "premios": 2,
+      "candidaturas": 7,
+      "otras_candidatas": "Don Juan en los infiernos ( Gonzalo Suárez ) El rey pasmado ( Imanol Uribe )"
+    },
+    {
+      "edicion": "VII edición - 1992",
+      "pelicula": "Belle Époque",
+      "director": "Fernando Trueba ) (premio Óscar a la mejor película extranjera",
+      "productora": "Fernando Trueba PC Lolafilms Animatógrafo French Production",
+      "productores": "Andrés Vicente Gómez",
+      "guionistas": "Rafael Azcona",
+      "genero": "Comedia romántica",
+      "premios": 9,
+      "candidaturas": 17,
+      "otras_candidatas": "El maestro de esgrima ( Pedro Olea ) Jamón, jamón ( Bigas Luna )"
+    },
+    {
+      "edicion": "VIII edición - 1993",
+      "pelicula": "Todos a la cárcel",
+      "director": "Luis García Berlanga",
+      "productora": "Sogetel Central de Producciones Audiovisuales Antea Films",
+      "productores": "Rafael Díaz-Salgado José Luis Olaizola Fernando de Garcillán Pepe Ferrándiz",
+      "guionistas": "Luis García Berlanga Jorge Berlanga",
+      "genero": "Comedia",
+      "premios": 3,
+      "candidaturas": 5,
+      "otras_candidatas": "Intruso ( Vicente Aranda ) Sombras en una batalla ( Mario Camus )"
+    },
+    {
+      "edicion": "IX edición - 1994",
+      "pelicula": "Días contados",
+      "director": "Imanol Uribe ) ( Concha de Oro en el Festival de San Sebastián",
+      "productora": "Aiete Films Ariane Films",
+      "productores": "Andrés Santana Imanol Uribe",
+      "guionistas": "Imanol Uribe (novela de Juan Madrid )",
+      "genero": "Thriller / Drama",
+      "premios": 8,
+      "candidaturas": 19,
+      "otras_candidatas": "Canción de cuna ( José Luis Garci ) La pasión turca ( Vicente Aranda )"
+    },
+    {
+      "edicion": "X edición - 1995",
+      "pelicula": "Nadie hablará de nosotras cuando hayamos muerto",
+      "director": "Agustín Díaz Yanes",
+      "productora": "Flamenco Films Xaloc Cartel",
+      "productores": "Manolo Matji Javier Ramos",
+      "guionistas": "Agustín Díaz Yanes",
+      "genero": "Thriller / Drama",
+      "premios": 8,
+      "candidaturas": 10,
+      "otras_candidatas": "Boca a boca ( Manuel Gómez Pereira ) El día de la bestia ( Álex de la Iglesia )"
+    },
+    {
+      "edicion": "XI edición - 1996",
+      "pelicula": "Tesis",
+      "director": "Alejandro Amenábar",
+      "productora": "Las Producciones del Escorpión",
+      "productores": "José Luis Cuerda Emiliano Otegui",
+      "guionistas": "Alejandro Amenábar",
+      "genero": "Suspense / Terror",
+      "premios": 7,
+      "candidaturas": 8,
+      "otras_candidatas": "Bwana ( Imanol Uribe ): ( Concha de Oro en el Festival de San Sebastián ). El perro del hortelano ( Pilar Miró )"
+    },
+    {
+      "edicion": "XII edición - 1997",
+      "pelicula": "La buena estrella",
+      "director": "Ricardo Franco",
+      "productora": "Pedro Costa PC Enrique Cerezo PC",
+      "productores": "Pedro Costa Enrique Cerezo",
+      "guionistas": "Ricardo Franco Ángeles González-Sinde",
+      "genero": "Drama romántico (basado en hechos reales)",
+      "premios": 5,
+      "candidaturas": 8,
+      "otras_candidatas": "Martín (Hache) ( Adolfo Aristarain ) Secretos del corazón ( Montxo Armendáriz ): (candidata al Óscar a la mejor película extranjera )."
+    },
+    {
+      "edicion": "XIII edición - 1998",
+      "pelicula": "La niña de tus ojos",
+      "director": "Fernando Trueba",
+      "productora": "Cartel Fernando Trueba PC Lolafilms",
+      "productores": "Eduardo Campoy Cristina Huete Andrés Vicente Gómez",
+      "guionistas": "Rafael Azcona David Trueba Carlos López Miguel Ángel Egea",
+      "genero": "Comedia dramática",
+      "premios": 7,
+      "candidaturas": 18,
+      "otras_candidatas": "Abre los ojos ( Alejandro Amenábar ) Barrio ( Fernando León de Aranoa ) El abuelo ( José Luis Garci ): (candidata al Óscar a la mejor película extranjera )."
+    },
+    {
+      "edicion": "XIV edición - 1999",
+      "pelicula": "Todo sobre mi madre",
+      "director": "Pedro Almodóvar ) (premio Óscar , Globo de Oro , BAFTA , César , David de Donatello y Premio del Cine Europeo",
+      "productora": "El Deseo Renn Productions France 2 Cinema",
+      "productores": "Agustín Almodóvar Michel Ruben",
+      "guionistas": "Pedro Almodóvar",
+      "genero": "Drama",
+      "premios": 7,
+      "candidaturas": 14,
+      "otras_candidatas": "Cuando vuelvas a mi lado ( Gracia Querejeta ) La lengua de las mariposas ( José Luis Cuerda ) Solas ( Benito Zambrano )"
+    },
+    {
+      "edicion": "XV edición - 2000",
+      "pelicula": "El Bola",
+      "director": "Achero Mañas",
+      "productora": "Tesela PC",
+      "productores": "José Antonio Félez Francisco Lázaro",
+      "guionistas": "Achero Mañas Verónica Fernández",
+      "genero": "Drama social",
+      "premios": 4,
+      "candidaturas": 5,
+      "otras_candidatas": "La comunidad ( Álex de la Iglesia ) Leo ( José Luis Borau ) You're the One ( José Luis Garci )"
+    },
+    {
+      "edicion": "XVI edición - 2001",
+      "pelicula": "Los otros",
+      "director": "Alejandro Amenábar",
+      "productora": "Las Producciones del Escorpión Sogecine Cruise-Wagner Productions",
+      "productores": "José Luis Cuerda Fernando Bovaira Sunmin Park",
+      "guionistas": "Alejandro Amenábar",
+      "genero": "Suspense / Terror",
+      "premios": 8,
+      "candidaturas": 15,
+      "otras_candidatas": "Juana la Loca ( Vicente Aranda ) Lucía y el sexo ( Julio Medem ) Sin noticias de Dios ( Agustín Díaz Yanes )"
+    },
+    {
+      "edicion": "XVII edición - 2002",
+      "pelicula": "Los lunes al sol",
+      "director": "Fernando León de Aranoa ) ( Concha de Oro en el Festival de San Sebastián",
+      "productora": "Elías Querejeta PC Mediapro",
+      "productores": "Elías Querejeta Jaume Roures",
+      "guionistas": "Fernando León de Aranoa Ignacio del Moral",
+      "genero": "Drama social",
+      "premios": 5,
+      "candidaturas": 8,
+      "otras_candidatas": "El otro lado de la cama ( Emilio Martínez-Lázaro ) En la ciudad sin límites ( Antonio Hernández ) Hable con ella ( Pedro Almodóvar ): ( Globo de Oro , BAFTA y Premio del Cine Europeo )."
+    },
+    {
+      "edicion": "XVIII edición - 2003",
+      "pelicula": "Te doy mis ojos",
+      "director": "Icíar Bollaín",
+      "productora": "Producciones La Iguana Alta Producciones",
+      "productores": "Santiago García de Leániz Enrique González Macho",
+      "guionistas": "Icíar Bollaín Alicia Luna",
+      "genero": "Drama social",
+      "premios": 7,
+      "candidaturas": 9,
+      "otras_candidatas": "Mi vida sin mí ( Isabel Coixet ) Planta 4ª ( Antonio Mercero ) Soldados de Salamina ( David Trueba )"
+    },
+    {
+      "edicion": "XIX edición - 2004",
+      "pelicula": "Mar adentro",
+      "director": "Alejandro Amenábar ) (premio Óscar , Globo de Oro , Independent Spirit y David de Donatello",
+      "productora": "Sogecine Himenóptero",
+      "productores": "Fernando Bovaira Alejandro Amenábar",
+      "guionistas": "Alejandro Amenábar Mateo Gil",
+      "genero": "Drama / Enfermedad (basado en hechos reales)",
+      "premios": 14,
+      "candidaturas": 15,
+      "otras_candidatas": "La mala educación ( Pedro Almodóvar ) Roma ( Adolfo Aristarain ) Tiovivo c. 1950 ( José Luis Garci )"
+    },
+    {
+      "edicion": "XX edición - 2005",
+      "pelicula": "La vida secreta de las palabras",
+      "director": "Isabel Coixet",
+      "productora": "El Deseo Mediapro",
+      "productores": "Agustín Almodóvar Jaume Roures",
+      "guionistas": "Isabel Coixet",
+      "genero": "Drama / Enfermedad",
+      "premios": 4,
+      "candidaturas": 5,
+      "otras_candidatas": "7 vírgenes ( Alberto Rodríguez ) Obaba ( Montxo Armendáriz ) Princesas ( Fernando León de Aranoa )"
+    },
+    {
+      "edicion": "XXI edición - 2006",
+      "pelicula": "Volver",
+      "director": "Pedro Almodóvar",
+      "productora": "El Deseo",
+      "productores": "Agustín Almodóvar Esther García",
+      "guionistas": "Pedro Almodóvar",
+      "genero": "Melodrama / Comedia",
+      "premios": 5,
+      "candidaturas": 14,
+      "otras_candidatas": "Alatriste ( Agustín Díaz Yanes ) El laberinto del fauno ( Guillermo del Toro ): (candidata al Óscar y premio BAFTA ). Salvador (Puig Antich) ( Manuel Huerga )"
+    },
+    {
+      "edicion": "XXII edición - 2007",
+      "pelicula": "La soledad",
+      "director": "Jaime Rosales",
+      "productora": "Wanda Visión Fredesval Films In Vitro Films",
+      "productores": "María José Díez Ricard Figueras José María Morales Jaime Rosales",
+      "guionistas": "Jaime Rosales Enric Rufas",
+      "genero": "Drama social",
+      "premios": 3,
+      "candidaturas": 3,
+      "otras_candidatas": "El orfanato ( Juan Antonio Bayona ) Las 13 rosas ( Emilio Martínez-Lázaro ) Siete mesas de billar francés ( Gracia Querejeta )"
+    },
+    {
+      "edicion": "XXIII edición - 2008",
+      "pelicula": "Camino",
+      "director": "Javier Fesser",
+      "productora": "Mediapro Películas Pendelton",
+      "productores": "Jaume Roures Javier Fesser Luis Manso",
+      "guionistas": "Javier Fesser",
+      "genero": "Drama / Enfermedad (basado en hechos reales)",
+      "premios": 6,
+      "candidaturas": 7,
+      "otras_candidatas": "Los crímenes de Oxford ( Álex de la Iglesia ) Los girasoles ciegos ( José Luis Cuerda ) Solo quiero caminar ( Agustín Díaz Yanes )"
+    },
+    {
+      "edicion": "XXIV edición - 2009",
+      "pelicula": "Celda 211",
+      "director": "Daniel Monzón",
+      "productora": "Telecinco Cinema Vaca Films Morena Films",
+      "productores": "Álvaro Agustín Emma Lustres Borja Pena Juan Gordon",
+      "guionistas": "Daniel Monzón Jorge Guerricaechevarría",
+      "genero": "Thriller / Drama carcelario",
+      "premios": 8,
+      "candidaturas": 16,
+      "otras_candidatas": "Ágora ( Alejandro Amenábar ) El baile de la Victoria ( Fernando Trueba ) El secreto de sus ojos ( Juan José Campanella ): (premio Óscar a la mejor película extranjera por Argentina) ."
+    },
+    {
+      "edicion": "XXV edición - 2010",
+      "pelicula": "Pan negro",
+      "director": "Agustí Villaronga",
+      "productora": "Massa d'Or PC Televisió de Catalunya",
+      "productores": "Isona Passola",
+      "guionistas": "Agustí Villaronga (novela de Emili Teixidor )",
+      "genero": "Drama / Posguerra española",
+      "premios": 9,
+      "candidaturas": 14,
+      "otras_candidatas": "Balada triste de trompeta ( Álex de la Iglesia ) Buried ( Rodrigo Cortés ) También la lluvia ( Icíar Bollaín )"
+    },
+    {
+      "edicion": "XXVI edición - 2011",
+      "pelicula": "No habrá paz para los malvados",
+      "director": "Enrique Urbizu",
+      "productora": "Lazona Films Telecinco Cinema Manto Films",
+      "productores": "Gonzalo Salazar-Simpson Álvaro Augustín",
+      "guionistas": "Enrique Urbizu Michel Gaztambide",
+      "genero": "Thriller policíaco",
+      "premios": 6,
+      "candidaturas": 14,
+      "otras_candidatas": "Blackthorn ( Mateo Gil ) La piel que habito ( Pedro Almodóvar ): (premio BAFTA a la mejor película de habla no inglesa ). La voz dormida ( Benito Zambrano )"
+    },
+    {
+      "edicion": "XXVII edición - 2012",
+      "pelicula": "Blancanieves",
+      "director": "Pablo Berger",
+      "productora": "Arcadia Motion Pictures Nix Films Sisifo Films Noodles Production The Kraken Films",
+      "productores": "Ibon Cormenzana Jérôme Vidal Pablo Berger",
+      "guionistas": "Pablo Berger",
+      "genero": "Drama / Fantasía (cine mudo)",
+      "premios": 10,
+      "candidaturas": 18,
+      "otras_candidatas": "El artista y la modelo ( Fernando Trueba ) Grupo 7 ( Alberto Rodríguez ) Lo imposible ( Juan Antonio Bayona )"
+    },
+    {
+      "edicion": "XXVIII edición - 2013",
+      "pelicula": "Vivir es fácil con los ojos cerrados",
+      "director": "David Trueba",
+      "productora": "Fernando Trueba PC",
+      "productores": "Cristina Huete",
+      "guionistas": "David Trueba",
+      "genero": "Comedia costumbrista (basado en hechos reales)",
+      "premios": 6,
+      "candidaturas": 7,
+      "otras_candidatas": "15 años y un día ( Gracia Querejeta ) Caníbal ( Manuel Martín Cuenca ) La gran familia española ( Daniel Sánchez Arévalo ) La herida ( Fernando Franco )"
+    },
+    {
+      "edicion": "XXIX edición - 2014",
+      "pelicula": "La isla mínima",
+      "director": "Alberto Rodríguez",
+      "productora": "Atípica Films Sacromonte Films Atresmedia Cine",
+      "productores": "José Antonio Félez Gervasio Iglesias Mercedes Gamero y Mikel Lejarza",
+      "guionistas": "Alberto Rodríguez Rafael Cobos",
+      "genero": "Thriller policíaco",
+      "premios": 10,
+      "candidaturas": 17,
+      "otras_candidatas": "El Niño ( Daniel Monzón ) Loreak (Flores) ( Jon Garaño y Jose Mari Goenaga ) Magical Girl ( Carlos Vermut ) ( Concha de Oro en el Festival de San Sebastián ) Relatos salvajes ( Damián Szifron ): (nominada al Óscar a la mejor película extranjera por Argentina) ."
+    },
+    {
+      "edicion": "XXX edición - 2015",
+      "pelicula": "Truman",
+      "director": "Cesc Gay",
+      "productora": "BD Cine Impossible Films Kramer & Sigman Films Televisión Española (TVE) Televisión Federal (Telefe) Trumanfilm",
+      "productores": "Daniel Burman Diego Dubcovsky Marta Esteban",
+      "guionistas": "Cesc Gay Tomàs Aragay",
+      "genero": "Comedia dramática",
+      "premios": 5,
+      "candidaturas": 6,
+      "otras_candidatas": "A cambio de nada ( Daniel Guzmán ) La novia ( Paula Ortiz ) Nadie quiere la noche ( Isabel Coixet ) Un día perfecto ( Fernando León de Aranoa )"
+    },
+    {
+      "edicion": "XXXI edición - 2016",
+      "pelicula": "Tarde para la ira",
+      "director": "Raúl Arévalo",
+      "productora": "La Canica Films Televisión Española (TVE)",
+      "productores": "Beatriz Bodegas",
+      "guionistas": "Raúl Arévalo David Pulido",
+      "genero": "Thriller / Drama",
+      "premios": 4,
+      "candidaturas": 11,
+      "otras_candidatas": "El hombre de las mil caras ( Alberto Rodríguez ) Julieta ( Pedro Almodóvar ) Que Dios nos perdone ( Rodrigo Sorogoyen ) Un monstruo viene a verme ( Juan Antonio Bayona )"
+    },
+    {
+      "edicion": "XXXII edición - 2017",
+      "pelicula": "La librería",
+      "director": "Isabel Coixet",
+      "productora": "Celsius Entertainment Diagonal Televisió A Contracorriente Films Zephyr Films One Two Films",
+      "productores": "Jaume Banacolocha Joan Bas Adolfo Blanco Chris Curling",
+      "guionistas": "Isabel Coixet",
+      "genero": "Drama",
+      "premios": 3,
+      "candidaturas": 12,
+      "otras_candidatas": "El autor ( Manuel Martín Cuenca ) Estiu 1993 ( Carla Simón ) Handia ( Aitor Arregi y Jon Garaño ) Verónica ( Paco Plaza )"
+    },
+    {
+      "edicion": "XXXIII edición - 2018",
+      "pelicula": "Campeones",
+      "director": "Javier Fesser",
+      "productora": "Morena Films Películas Pendelton Telefónica Studios Rey de Babia",
+      "productores": "Gabriel Arias Salgado Álvaro Longoria Luis Manso",
+      "guionistas": "David Marqués Javier Fesser",
+      "genero": "Comedia",
+      "premios": 3,
+      "candidaturas": 11,
+      "otras_candidatas": "Carmen y Lola ( Arantxa Echevarría ) El reino ( Rodrigo Sorogoyen ) Entre dos aguas ( Isaki Lacuesta ) ( Concha de Oro en el Festival de San Sebastián ). Todos lo saben ( Asghar Farhadi )"
+    },
+    {
+      "edicion": "XXXIV edición - 2019",
+      "pelicula": "Dolor y gloria",
+      "director": "Pedro Almodóvar ) (candidata al Óscar a la mejor película extranjera",
+      "productora": "El Deseo",
+      "productores": "Agustín Almodóvar Esther García",
+      "guionistas": "Pedro Almodóvar",
+      "genero": "Drama",
+      "premios": 7,
+      "candidaturas": 16,
+      "otras_candidatas": "Lo que arde ( Oliver Laxe ) Intemperie ( Benito Zambrano ) La trinchera infinita ( Aitor Arregi , Jon Garaño y Jose Mari Goenaga ) Mientras dure la guerra ( Alejandro Amenábar )"
+    },
+    {
+      "edicion": "XXXV edición - 2020",
+      "pelicula": "Las niñas",
+      "director": "Pilar Palomero",
+      "productora": "Inicia Films BTEAM Prods",
+      "productores": "Valérie Delpierre Alex Lafuente",
+      "guionistas": "Pilar Palomero",
+      "genero": "Drama",
+      "premios": 4,
+      "candidaturas": 9,
+      "otras_candidatas": "Adú ( Salvador Calvo ) Ane ( David Pérez Sañudo ) La boda de Rosa ( Iciar Bollaín ) Sentimental ( Cesc Gay )"
+    },
+    {
+      "edicion": "XXXVI edición - 2021",
+      "pelicula": "El buen patrón",
+      "director": "Fernando León de Aranoa",
+      "productora": "Mediapro Reposado PC",
+      "productores": "Jaume Roures Fernando León de Aranoa Pilar de las Heras",
+      "guionistas": "Fernando León de Aranoa",
+      "genero": "Comedia dramática",
+      "premios": 6,
+      "candidaturas": 20,
+      "otras_candidatas": "Libertad ( Clara Roquet ) Madres paralelas ( Pedro Almodóvar ) Maixabel ( Iciar Bollaín ) Mediterráneo ( Marcel Barrena )"
+    },
+    {
+      "edicion": "XXXVII edición - 2022",
+      "pelicula": "As bestas",
+      "director": "Rodrigo Sorogoyen",
+      "productora": "Arcadia Motion Pictures Caballo Films Le Pacte",
+      "productores": "Sandra Tapia Ibón Cormenzana Rodrigo Sorogoyen Thomas Pibarot",
+      "guionistas": "Rodrigo Sorogoyen Isabel Peña",
+      "genero": "Suspense",
+      "premios": 9,
+      "candidaturas": 17,
+      "otras_candidatas": "Alcarràs ( Carla Simón ) ( Oso de Oro en el Festival de Berlín ) Cinco lobitos ( Alauda Ruiz de Azúa ) La maternal ( Pilar Palomero ) Modelo 77 ( Alberto Rodríguez )"
+    },
+    {
+      "edicion": "XXXVIII edición - 2023",
+      "pelicula": "La sociedad de la nieve",
+      "director": "Juan Antonio Bayona ) (candidata al Óscar a la mejor película extranjera",
+      "productora": "Misión de Audaces Films Netflix El Arriero Films",
+      "productores": "Belén Atienza Azcona Sandra Hermida Muñiz",
+      "guionistas": "Juan Antonio Bayona Bernat Vilaplana Jaime Marqués Nicolás Casariego",
+      "genero": "Drama / Suspense",
+      "premios": 12,
+      "candidaturas": 15,
+      "otras_candidatas": "20.000 especies de abejas ( Estibaliz Urresola ) Cerrar los ojos ( Víctor Erice ) Un amor ( Isabel Coixet ) Saben aquell ( David Trueba )"
+    },
+    {
+      "edicion": "XXXIX edición - 2024",
+      "pelicula": "El 47",
+      "director": "Marcel Barrena ) La infiltrada (de Arantxa Echevarría",
+      "productora": "Mediapro Infiltrada L.P Bowfinger Internacional Pictures Beta Fiction Esto También Pasará",
+      "productores": "Javier Méndez Laura Fernández Espeso Álvaro Ariza María Luisa Gutiérrez Pablo Noguerales Mercedes Gamero",
+      "guionistas": "Marcel Barrena Alberto Marini Arantxa Echevarría Amélia Mora",
+      "genero": "Drama biográfico Thriller / Drama",
+      "premios": "5 2",
+      "candidaturas": "14 13",
+      "otras_candidatas": "Casa en llamas ( Dani de la Orden ) Segundo premio ( Isaki Lacuesta y Pol Rodríguez ) La estrella azul ( Javier Macipe )"
+    },
+    {
+      "edicion": "XL edición - 2025",
+      "pelicula": "Los domingos",
+      "director": "Alauda Ruiz de Azúa",
+      "productora": "Buena Pinta Media Colosé Producciones Encanta Films Sayaka Producciones Think Studio Los Desencuentros Movistar Plus+",
+      "productores": "Manu Calvo Marisa Fernández Armenteros Nahikari Ipiña Sandra Hermida Muñiz",
+      "guionistas": "Alauda Ruiz de Azúa",
+      "genero": "Drama",
+      "premios": 5,
+      "candidaturas": 13,
+      "otras_candidatas": "La cena ( Manuel Gómez Pereira ) Maspalomas ( Aitor Arregi y Jose Mari Goenaga ) Sorda ( Eva Libertad ) Sirāt ( Óliver Laxe ) (candidata al Óscar a la mejor película extranjera )"
+    }
+  ],
+  "meta": {
+    "title": "Premio Goya a la mejor película - Free Download",
+    "description": "Películas ganadoras del Premio Goya a la mejor película desde 1987, con director, productora, género y número de premios. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Premio Goya a la mejor película | ListBase",
+    "seo_description": "Download Premio Goya a la mejor película — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Premio_Goya_a_la_mejor_película"
+    ]
+  }
+}

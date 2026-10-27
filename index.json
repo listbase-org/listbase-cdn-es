@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:17:27.912Z",
-  "total_datasets": 479,
-  "total_records": 421248,
+  "generated": "2026-10-27T02:17:30.249Z",
+  "total_datasets": 480,
+  "total_records": 421288,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -382,6 +382,37 @@
         "xlsx": {
           "name": "es-premio-ariel-mejor-pelicula_ES.xlsx",
           "size": 18354
+        }
+      }
+    },
+    {
+      "id": "es-premio-goya-mejor-pelicula",
+      "name": "Premio Goya a la mejor película",
+      "category": "entertainment",
+      "record_count": 40,
+      "columns": [
+        "edicion",
+        "pelicula",
+        "director",
+        "productora",
+        "productores",
+        "guionistas",
+        "genero",
+        "premios",
+        "candidaturas",
+        "otras_candidatas"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Premio_Goya_a_la_mejor_película",
+      "updated": "2026-10",
+      "size": 25151,
+      "files": {
+        "csv": {
+          "name": "es-premio-goya-mejor-pelicula_ES.csv",
+          "size": 14570
+        },
+        "xlsx": {
+          "name": "es-premio-goya-mejor-pelicula_ES.xlsx",
+          "size": 13968
         }
       }
     },
