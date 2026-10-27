@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:16:54.644Z",
-  "total_datasets": 466,
-  "total_records": 418891,
+  "generated": "2026-10-27T02:16:57.250Z",
+  "total_datasets": 467,
+  "total_records": 418942,
   "categories": [
     {
       "id": "agriculture",
@@ -51,6 +51,10 @@
     {
       "id": "time",
       "dataset_count": 2
+    },
+    {
+      "id": "tourism",
+      "dataset_count": 1
     },
     {
       "id": "transport",
@@ -14706,6 +14710,30 @@
         "xlsx": {
           "name": "es-meses-del-calendario_ES.xlsx",
           "size": 9133
+        }
+      }
+    },
+    {
+      "id": "es-castillos-por-provincia",
+      "name": "Castillos de España por provincia",
+      "category": "tourism",
+      "record_count": 51,
+      "columns": [
+        "orden",
+        "provincia",
+        "castillos"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Castillos_de_España",
+      "updated": "2026-10",
+      "size": 5696,
+      "files": {
+        "csv": {
+          "name": "es-castillos-por-provincia_ES.csv",
+          "size": 1124
+        },
+        "xlsx": {
+          "name": "es-castillos-por-provincia_ES.xlsx",
+          "size": 7921
         }
       }
     },

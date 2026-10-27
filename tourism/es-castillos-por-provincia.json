@@ -1,0 +1,296 @@
+{
+  "id": "es-castillos-por-provincia",
+  "name": "Castillos de España por provincia",
+  "title": "Castillos de España por provincia",
+  "description": "Número de castillos por provincia española.",
+  "category": "tourism",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Castillos_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Castillos_de_España",
+  "updated": "2026-10",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "orden",
+      "label": "Orden",
+      "type": "number"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "castillos",
+      "label": "Castillos",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "orden": 1,
+      "provincia": "Barcelona",
+      "castillos": 455
+    },
+    {
+      "orden": 2,
+      "provincia": "Lérida",
+      "castillos": 452
+    },
+    {
+      "orden": 3,
+      "provincia": "Huesca",
+      "castillos": 398
+    },
+    {
+      "orden": 4,
+      "provincia": "Zaragoza",
+      "castillos": 384
+    },
+    {
+      "orden": 5,
+      "provincia": "Gerona",
+      "castillos": 302
+    },
+    {
+      "orden": 6,
+      "provincia": "Teruel",
+      "castillos": 272
+    },
+    {
+      "orden": 7,
+      "provincia": "Tarragona",
+      "castillos": 269
+    },
+    {
+      "orden": 8,
+      "provincia": "Castellón",
+      "castillos": 262
+    },
+    {
+      "orden": 9,
+      "provincia": "Alicante",
+      "castillos": 245
+    },
+    {
+      "orden": 10,
+      "provincia": "Almería",
+      "castillos": 244
+    },
+    {
+      "orden": 11,
+      "provincia": "Valencia",
+      "castillos": 236
+    },
+    {
+      "orden": 12,
+      "provincia": "Córdoba",
+      "castillos": 220
+    },
+    {
+      "orden": 13,
+      "provincia": "Cádiz",
+      "castillos": 210
+    },
+    {
+      "orden": 14,
+      "provincia": "Granada",
+      "castillos": 210
+    },
+    {
+      "orden": 15,
+      "provincia": "Jaén",
+      "castillos": 210
+    },
+    {
+      "orden": 16,
+      "provincia": "Guadalajara",
+      "castillos": 194
+    },
+    {
+      "orden": 17,
+      "provincia": "Islas Baleares",
+      "castillos": 190
+    },
+    {
+      "orden": 18,
+      "provincia": "Madrid",
+      "castillos": 189
+    },
+    {
+      "orden": 19,
+      "provincia": "Burgos",
+      "castillos": 188
+    },
+    {
+      "orden": 20,
+      "provincia": "Soria",
+      "castillos": 173
+    },
+    {
+      "orden": 21,
+      "provincia": "Navarra",
+      "castillos": 170
+    },
+    {
+      "orden": 22,
+      "provincia": "Málaga",
+      "castillos": 149
+    },
+    {
+      "orden": 23,
+      "provincia": "Cantabria",
+      "castillos": 148
+    },
+    {
+      "orden": 24,
+      "provincia": "Murcia",
+      "castillos": 142
+    },
+    {
+      "orden": 25,
+      "provincia": "Cáceres",
+      "castillos": 138
+    },
+    {
+      "orden": 26,
+      "provincia": "Álava",
+      "castillos": 118
+    },
+    {
+      "orden": 27,
+      "provincia": "Cuenca",
+      "castillos": 107
+    },
+    {
+      "orden": 28,
+      "provincia": "Toledo",
+      "castillos": 104
+    },
+    {
+      "orden": 29,
+      "provincia": "Badajoz",
+      "castillos": 104
+    },
+    {
+      "orden": 30,
+      "provincia": "Guipúzcoa",
+      "castillos": 96
+    },
+    {
+      "orden": 31,
+      "provincia": "Sevilla",
+      "castillos": 92
+    },
+    {
+      "orden": 32,
+      "provincia": "Ciudad Real",
+      "castillos": 84
+    },
+    {
+      "orden": 33,
+      "provincia": "Vizcaya",
+      "castillos": 78
+    },
+    {
+      "orden": 34,
+      "provincia": "La Rioja",
+      "castillos": 75
+    },
+    {
+      "orden": 35,
+      "provincia": "León",
+      "castillos": 69
+    },
+    {
+      "orden": 36,
+      "provincia": "Asturias",
+      "castillos": 68
+    },
+    {
+      "orden": 37,
+      "provincia": "Segovia",
+      "castillos": 63
+    },
+    {
+      "orden": 38,
+      "provincia": "Valladolid",
+      "castillos": 63
+    },
+    {
+      "orden": 39,
+      "provincia": "Ávila",
+      "castillos": 62
+    },
+    {
+      "orden": 40,
+      "provincia": "Salamanca",
+      "castillos": 57
+    },
+    {
+      "orden": 41,
+      "provincia": "La Coruña",
+      "castillos": 55
+    },
+    {
+      "orden": 42,
+      "provincia": "Palencia",
+      "castillos": 52
+    },
+    {
+      "orden": 43,
+      "provincia": "Huelva",
+      "castillos": 49
+    },
+    {
+      "orden": 44,
+      "provincia": "Albacete",
+      "castillos": 49
+    },
+    {
+      "orden": 45,
+      "provincia": "Orense",
+      "castillos": 26
+    },
+    {
+      "orden": 46,
+      "provincia": "Lugo",
+      "castillos": 26
+    },
+    {
+      "orden": 47,
+      "provincia": "Pontevedra",
+      "castillos": 24
+    },
+    {
+      "orden": 48,
+      "provincia": "Zamora",
+      "castillos": 23
+    },
+    {
+      "orden": 49,
+      "provincia": "Santa Cruz de Tenerife",
+      "castillos": 22
+    },
+    {
+      "orden": 50,
+      "provincia": "Las Palmas",
+      "castillos": 17
+    },
+    {
+      "orden": "TOTAL :",
+      "provincia": "España",
+      "castillos": 7633
+    }
+  ],
+  "meta": {
+    "title": "Castillos de España por provincia - Free Download",
+    "description": "Número de castillos por provincia española. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Castillos de España por provincia | ListBase",
+    "seo_description": "Download Castillos de España por provincia — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Castillos_de_España"
+    ]
+  }
+}
