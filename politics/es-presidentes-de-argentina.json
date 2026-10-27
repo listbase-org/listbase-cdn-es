@@ -1,0 +1,656 @@
+{
+  "id": "es-presidentes-de-argentina",
+  "name": "Presidentes de la Nación Argentina",
+  "title": "Presidentes de la Nación Argentina",
+  "description": "Presidentes de la República Argentina desde 1826, con lugar de nacimiento, mandato y partido.",
+  "category": "politics",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Presidentes_de_la_Nación_Argentina",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Presidentes_de_la_Nación_Argentina",
+  "updated": "2026-10",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "presidente",
+      "label": "Presidente",
+      "type": "string"
+    },
+    {
+      "key": "lugar_nacimiento",
+      "label": "Lugar Nacimiento",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    },
+    {
+      "key": "inicio",
+      "label": "Inicio",
+      "type": "string"
+    },
+    {
+      "key": "fin",
+      "label": "Fin",
+      "type": "string"
+    },
+    {
+      "key": "duracion",
+      "label": "Duracion",
+      "type": "string"
+    },
+    {
+      "key": "partido",
+      "label": "Partido",
+      "type": "string"
+    },
+    {
+      "key": "elecciones",
+      "label": "Elecciones",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "presidente": "Bernardino Rivadavia (1780-1845)",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "1826-1831",
+      "inicio": "8 de febrero de 1826",
+      "fin": "27 de junio de 1827",
+      "duracion": "1 año, 4 meses y 19 días",
+      "partido": "Partido Unitario",
+      "elecciones": "1826"
+    },
+    {
+      "presidente": "Vicente López y Planes (1785-1856)",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "1826-1831",
+      "inicio": "7 de julio de 1827",
+      "fin": "18 de agosto de 1827",
+      "duracion": "1 mes y 11 días",
+      "partido": "Partido Unitario",
+      "elecciones": "1826"
+    },
+    {
+      "presidente": "Justo José de Urquiza (1801-1870)",
+      "lugar_nacimiento": "Entre Ríos",
+      "periodo": "1854-1860",
+      "inicio": "5 de marzo de 1854",
+      "fin": "5 de marzo de 1860",
+      "duracion": "6 años",
+      "partido": "Partido Federal",
+      "elecciones": "1853"
+    },
+    {
+      "presidente": "Santiago Derqui (1809-1867)",
+      "lugar_nacimiento": "Córdoba",
+      "periodo": "1860-1866",
+      "inicio": "5 de marzo de 1860",
+      "fin": "5 de noviembre de 1861",
+      "duracion": "1 año y 8 meses",
+      "partido": "Partido Federal",
+      "elecciones": "1859"
+    },
+    {
+      "presidente": "Juan Esteban Pedernera (1796-1886)",
+      "lugar_nacimiento": "San Luis",
+      "periodo": "1860-1866",
+      "inicio": "5 de noviembre de 1861",
+      "fin": "12 de diciembre de 1861",
+      "duracion": "1 mes y 7 días",
+      "partido": "Partido Unitario",
+      "elecciones": "1859"
+    },
+    {
+      "presidente": "Bartolomé Mitre (1821-1906) ( Primero no constitucional y luego constitucional )",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "Batalla de Pavón",
+      "inicio": "12 de diciembre de 1861",
+      "fin": "12 de octubre de 1862",
+      "duracion": "10 meses",
+      "partido": "Partido Nacionalista",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Bartolomé Mitre (1821-1906) ( Primero no constitucional y luego constitucional )",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "1862-1868",
+      "inicio": "12 de octubre de 1862",
+      "fin": "12 de octubre de 1868",
+      "duracion": "6 años",
+      "partido": "Partido Nacionalista",
+      "elecciones": "1862"
+    },
+    {
+      "presidente": "Domingo Faustino Sarmiento (1811-1888)",
+      "lugar_nacimiento": "San Juan",
+      "periodo": "1868-1874",
+      "inicio": "12 de octubre de 1868",
+      "fin": "12 de octubre de 1874",
+      "duracion": "6 años",
+      "partido": "Independiente",
+      "elecciones": "1868"
+    },
+    {
+      "presidente": "Nicolás Avellaneda (1837-1885)",
+      "lugar_nacimiento": "Tucumán",
+      "periodo": "1874-1880",
+      "inicio": "12 de octubre de 1874",
+      "fin": "12 de octubre de 1880",
+      "duracion": "6 años",
+      "partido": "Partido Autonomista Nacional",
+      "elecciones": "1874"
+    },
+    {
+      "presidente": "Julio Argentino Roca (1843-1914)",
+      "lugar_nacimiento": "Tucumán",
+      "periodo": "1880-1886",
+      "inicio": "12 de octubre de 1880",
+      "fin": "12 de octubre de 1886",
+      "duracion": "6 años",
+      "partido": "Partido Autonomista Nacional",
+      "elecciones": "1880"
+    },
+    {
+      "presidente": "Miguel Juárez Celman (1844-1909)",
+      "lugar_nacimiento": "Córdoba",
+      "periodo": "1886-1892",
+      "inicio": "12 de octubre de 1886",
+      "fin": "6 de agosto de 1890",
+      "duracion": "3 años, 9 meses y 25 días",
+      "partido": "Partido Autonomista Nacional",
+      "elecciones": "1886"
+    },
+    {
+      "presidente": "Carlos Pellegrini (1846-1906)",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "1886-1892",
+      "inicio": "6 de agosto de 1890",
+      "fin": "12 de octubre de 1892",
+      "duracion": "2 años, 2 meses y 6 días",
+      "partido": "Partido Autonomista Nacional",
+      "elecciones": "1886"
+    },
+    {
+      "presidente": "Luis Sáenz Peña (1822-1907)",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "1892-1898",
+      "inicio": "12 de octubre de 1892",
+      "fin": "23 de enero de 1895",
+      "duracion": "2 años, 3 meses y 11 días",
+      "partido": "Partido Autonomista Nacional",
+      "elecciones": "1892"
+    },
+    {
+      "presidente": "José Evaristo Uriburu (1831-1914)",
+      "lugar_nacimiento": "Salta",
+      "periodo": "1892-1898",
+      "inicio": "23 de enero de 1895",
+      "fin": "12 de octubre de 1898",
+      "duracion": "3 años, 8 meses y 20 días",
+      "partido": "Partido Autonomista Nacional",
+      "elecciones": "1892"
+    },
+    {
+      "presidente": "Julio Argentino Roca (1843-1914)",
+      "lugar_nacimiento": "Tucumán",
+      "periodo": "1898-1904",
+      "inicio": "12 de octubre de 1898",
+      "fin": "12 de octubre de 1904",
+      "duracion": "6 años",
+      "partido": "Partido Autonomista Nacional",
+      "elecciones": "1898"
+    },
+    {
+      "presidente": "Manuel Quintana (1835-1906)",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "1904-1910",
+      "inicio": "12 de octubre de 1904",
+      "fin": "12 de marzo de 1906",
+      "duracion": "1 año y 5 meses",
+      "partido": "Partido Autonomista Nacional",
+      "elecciones": "1904"
+    },
+    {
+      "presidente": "José Figueroa Alcorta (1860-1931)",
+      "lugar_nacimiento": "Córdoba",
+      "periodo": "1904-1910",
+      "inicio": "12 de marzo de 1906",
+      "fin": "12 de octubre de 1910",
+      "duracion": "4 años y 7 meses",
+      "partido": "Partido Autonomista Nacional",
+      "elecciones": "1904"
+    },
+    {
+      "presidente": "Roque Sáenz Peña (1851-1914)",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "1910-1916",
+      "inicio": "12 de octubre de 1910",
+      "fin": "9 de agosto de 1914",
+      "duracion": "3 años, 9 meses y 28 días",
+      "partido": "Partido Autonomista Nacional",
+      "elecciones": "1910"
+    },
+    {
+      "presidente": "Victorino de la Plaza (1840-1919)",
+      "lugar_nacimiento": "Salta",
+      "periodo": "1910-1916",
+      "inicio": "9 de agosto de 1914",
+      "fin": "12 de octubre de 1916",
+      "duracion": "2 años, 2 meses y 3 días",
+      "partido": "Partido Autonomista Nacional",
+      "elecciones": "1910"
+    },
+    {
+      "presidente": "Hipólito Yrigoyen (1852-1933)",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "1916-1922",
+      "inicio": "12 de octubre de 1916",
+      "fin": "12 de octubre de 1922",
+      "duracion": "6 años",
+      "partido": "Unión Cívica Radical",
+      "elecciones": "1916"
+    },
+    {
+      "presidente": "Marcelo Torcuato de Alvear (1868-1942)",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "1922-1928",
+      "inicio": "12 de octubre de 1922",
+      "fin": "12 de octubre de 1928",
+      "duracion": "6 años",
+      "partido": "Unión Cívica Radical",
+      "elecciones": "1922"
+    },
+    {
+      "presidente": "Hipólito Yrigoyen (1852-1933)",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "1928-1934",
+      "inicio": "12 de octubre de 1928",
+      "fin": "6 de septiembre de 1930",
+      "duracion": "1 año, 10 meses y 25 días",
+      "partido": "Unión Cívica Radical",
+      "elecciones": "1928"
+    },
+    {
+      "presidente": "José Félix Uriburu (1868-1932) ( De facto )",
+      "lugar_nacimiento": "Salta",
+      "periodo": "Golpe de 1930",
+      "inicio": "6 de septiembre de 1930",
+      "fin": "20 de febrero de 1932",
+      "duracion": "1 año, 5 meses y 14 días",
+      "partido": "",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Agustín Pedro Justo (1876-1943)",
+      "lugar_nacimiento": "Entre Ríos",
+      "periodo": "1932-1938",
+      "inicio": "20 de febrero de 1932",
+      "fin": "20 de febrero de 1938",
+      "duracion": "6 años",
+      "partido": "Unión Cívica Radical Antipersonalista (Concordancia)",
+      "elecciones": "1931"
+    },
+    {
+      "presidente": "Roberto Marcelino Ortiz (1886-1942)",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "1938-1944",
+      "inicio": "20 de febrero de 1938",
+      "fin": "27 de junio de 1942",
+      "duracion": "4 años, 4 meses y 7 días",
+      "partido": "Unión Cívica Radical Antipersonalista (Concordancia)",
+      "elecciones": "1937"
+    },
+    {
+      "presidente": "Ramón S. Castillo (1873-1944)",
+      "lugar_nacimiento": "Catamarca",
+      "periodo": "1938-1944",
+      "inicio": "27 de junio de 1942",
+      "fin": "4 de junio de 1943",
+      "duracion": "11 meses y 7 días",
+      "partido": "Partido Demócrata Nacional (Concordancia)",
+      "elecciones": "1937"
+    },
+    {
+      "presidente": "Pedro Pablo Ramírez (1884-1962) ( De facto )",
+      "lugar_nacimiento": "Entre Ríos",
+      "periodo": "Revolución de 1943",
+      "inicio": "7 de junio de 1943",
+      "fin": "9 de marzo de 1944",
+      "duracion": "9 meses y 2 días",
+      "partido": "",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Edelmiro Julián Farrell (1887-1980) ( De facto )",
+      "lugar_nacimiento": "Buenos Aires",
+      "periodo": "Revolución de 1943",
+      "inicio": "9 de marzo de 1944",
+      "fin": "4 de junio de 1946",
+      "duracion": "2 años, 2 meses y 26 días",
+      "partido": "",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Juan Domingo Perón (1895-1974)",
+      "lugar_nacimiento": "Buenos Aires",
+      "periodo": "1946-1952",
+      "inicio": "4 de junio de 1946",
+      "fin": "4 de junio de 1952",
+      "duracion": "9 años, 3 meses y 17 días",
+      "partido": "Partido Laborista",
+      "elecciones": "1946"
+    },
+    {
+      "presidente": "Juan Domingo Perón (1895-1974)",
+      "lugar_nacimiento": "Buenos Aires",
+      "periodo": "1952-1958",
+      "inicio": "4 de junio de 1952",
+      "fin": "21 de septiembre de 1955",
+      "duracion": "9 años, 3 meses y 17 días",
+      "partido": "Partido Peronista",
+      "elecciones": "1951"
+    },
+    {
+      "presidente": "Eduardo Lonardi (1896-1956) ( De facto )",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "Revolución Libertadora",
+      "inicio": "23 de septiembre de 1955",
+      "fin": "13 de noviembre de 1955",
+      "duracion": "1 mes y 20 días",
+      "partido": "",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Pedro Eugenio Aramburu (1903-1970) ( De facto )",
+      "lugar_nacimiento": "Córdoba",
+      "periodo": "Revolución Libertadora",
+      "inicio": "13 de noviembre de 1955",
+      "fin": "1 de mayo de 1958",
+      "duracion": "2 años, 5 meses y 18 días",
+      "partido": "",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Arturo Frondizi (1908-1995)",
+      "lugar_nacimiento": "Corrientes",
+      "periodo": "1958-1964",
+      "inicio": "1 de mayo de 1958",
+      "fin": "29 de marzo de 1962",
+      "duracion": "3 años, 10 meses y 28 días",
+      "partido": "Unión Cívica Radical Intransigente",
+      "elecciones": "1958"
+    },
+    {
+      "presidente": "José María Guido (1910-1975) (elegido constitucionalmente, anuló de hecho la Constitución)",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "Golpe de 1962",
+      "inicio": "29 de marzo de 1962",
+      "fin": "12 de octubre de 1963",
+      "duracion": "1 año, 6 meses y 14 días",
+      "partido": "Unión Cívica Radical Intransigente",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Arturo Umberto Illia (1900-1983)",
+      "lugar_nacimiento": "Buenos Aires",
+      "periodo": "1963-1969",
+      "inicio": "12 de octubre de 1963",
+      "fin": "28 de junio de 1966",
+      "duracion": "2 años, 8 meses y 16 días",
+      "partido": "Unión Cívica Radical del Pueblo",
+      "elecciones": "1963"
+    },
+    {
+      "presidente": "Juan Carlos Onganía (1914-1995) ( De facto )",
+      "lugar_nacimiento": "Buenos Aires",
+      "periodo": "Revolución Argentina",
+      "inicio": "29 de junio de 1966",
+      "fin": "8 de junio de 1970",
+      "duracion": "3 años, 11 meses y 10 días",
+      "partido": "",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Roberto Marcelo Levingston (1920-2015) ( De facto )",
+      "lugar_nacimiento": "San Luis",
+      "periodo": "Revolución Argentina",
+      "inicio": "18 de junio de 1970",
+      "fin": "22 de marzo de 1971",
+      "duracion": "9 meses y 14 días",
+      "partido": "",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Alejandro Agustín Lanusse (1918-1996) ( De facto )",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "Revolución Argentina",
+      "inicio": "26 de marzo de 1971",
+      "fin": "25 de mayo de 1973",
+      "duracion": "2 años, 1 mes y 30 días",
+      "partido": "",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Héctor José Cámpora (1909-1980)",
+      "lugar_nacimiento": "Buenos Aires",
+      "periodo": "1973-1977",
+      "inicio": "25 de mayo de 1973",
+      "fin": "13 de julio de 1973",
+      "duracion": "1 mes y 19 días",
+      "partido": "Partido Justicialista (FREJULI)",
+      "elecciones": "Marzo de 1973"
+    },
+    {
+      "presidente": "Raúl Alberto Lastiri (1915-1978)",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "1973-1977",
+      "inicio": "13 de julio de 1973",
+      "fin": "12 de octubre de 1973",
+      "duracion": "2 meses y 30 días",
+      "partido": "Partido Justicialista (FREJULI)",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Juan Domingo Perón (1895-1974)",
+      "lugar_nacimiento": "Buenos Aires",
+      "periodo": "1973-1977",
+      "inicio": "12 de octubre de 1973",
+      "fin": "1 de julio de 1974",
+      "duracion": "8 meses y 20 días",
+      "partido": "Partido Justicialista (FREJULI)",
+      "elecciones": "Septiembre de 1973"
+    },
+    {
+      "presidente": "María Estela Martínez de Perón (n. 1931)",
+      "lugar_nacimiento": "La Rioja",
+      "periodo": "1973-1977",
+      "inicio": "1 de julio de 1974",
+      "fin": "24 de marzo de 1976",
+      "duracion": "1 año, 8 meses y 23 días",
+      "partido": "Partido Justicialista (FREJULI)",
+      "elecciones": "Septiembre de 1973"
+    },
+    {
+      "presidente": "Jorge Rafael Videla (1925-2013) ( De facto)",
+      "lugar_nacimiento": "Buenos Aires",
+      "periodo": "Proceso de Reorganización Nacional",
+      "inicio": "29 de marzo de 1976",
+      "fin": "29 de marzo de 1981",
+      "duracion": "5 años",
+      "partido": "",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Roberto Eduardo Viola (1924-1994) (De facto)",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "Proceso de Reorganización Nacional",
+      "inicio": "29 de marzo de 1981",
+      "fin": "11 de diciembre de 1981",
+      "duracion": "8 meses y 13 días",
+      "partido": "",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Leopoldo Fortunato Galtieri (1926-2003) (De facto)",
+      "lugar_nacimiento": "Buenos Aires",
+      "periodo": "Proceso de Reorganización Nacional",
+      "inicio": "22 de diciembre de 1981",
+      "fin": "18 de junio de 1982",
+      "duracion": "5 meses y 27 días",
+      "partido": "",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Reynaldo Bignone (1928-2018) (De facto)",
+      "lugar_nacimiento": "Buenos Aires",
+      "periodo": "Proceso de Reorganización Nacional",
+      "inicio": "1 de julio de 1982",
+      "fin": "10 de diciembre de 1983",
+      "duracion": "1 año, 5 meses y 9 días",
+      "partido": "",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Raúl Alfonsín (1927-2009)",
+      "lugar_nacimiento": "Buenos Aires",
+      "periodo": "1983-1989",
+      "inicio": "10 de diciembre de 1983",
+      "fin": "8 de julio de 1989",
+      "duracion": "5 años, 6 meses y 29 días",
+      "partido": "Unión Cívica Radical",
+      "elecciones": "1983"
+    },
+    {
+      "presidente": "Carlos Menem (1930-2021)",
+      "lugar_nacimiento": "La Rioja",
+      "periodo": "1989-1995",
+      "inicio": "8 de julio de 1989",
+      "fin": "8 de julio de 1995",
+      "duracion": "10 años, 5 meses y 2 días",
+      "partido": "Partido Justicialista (FREJUPO)",
+      "elecciones": "1989"
+    },
+    {
+      "presidente": "Carlos Menem (1930-2021)",
+      "lugar_nacimiento": "La Rioja",
+      "periodo": "1995-1999",
+      "inicio": "8 de julio de 1995",
+      "fin": "10 de diciembre de 1999",
+      "duracion": "10 años, 5 meses y 2 días",
+      "partido": "Partido Justicialista",
+      "elecciones": "1995"
+    },
+    {
+      "presidente": "Fernando de la Rúa (1937-2019)",
+      "lugar_nacimiento": "Córdoba",
+      "periodo": "1999-2003",
+      "inicio": "10 de diciembre de 1999",
+      "fin": "21 de diciembre de 2001",
+      "duracion": "2 años y 11 días",
+      "partido": "Unión Cívica Radical ( Alianza )",
+      "elecciones": "1999"
+    },
+    {
+      "presidente": "Adolfo Rodríguez Saá (n. 1947)",
+      "lugar_nacimiento": "San Luis",
+      "periodo": "1999-2003",
+      "inicio": "23 de diciembre de 2001",
+      "fin": "30 de diciembre de 2001",
+      "duracion": "7 días",
+      "partido": "Partido Justicialista",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Eduardo Duhalde (n. 1941)",
+      "lugar_nacimiento": "Buenos Aires",
+      "periodo": "1999-2003",
+      "inicio": "2 de enero de 2002",
+      "fin": "25 de mayo de 2003",
+      "duracion": "1 año, 4 meses y 23 días",
+      "partido": "Partido Justicialista",
+      "elecciones": ""
+    },
+    {
+      "presidente": "Néstor Kirchner (1950-2010)",
+      "lugar_nacimiento": "Santa Cruz",
+      "periodo": "1999-2003",
+      "inicio": "25 de mayo de 2003",
+      "fin": "10 de diciembre de 2003",
+      "duracion": "6 meses y 16 días",
+      "partido": "Partido Justicialista ( Frente para la Victoria )",
+      "elecciones": "2003"
+    },
+    {
+      "presidente": "Néstor Kirchner (1950-2010)",
+      "lugar_nacimiento": "Santa Cruz",
+      "periodo": "2003-2007",
+      "inicio": "10 de diciembre de 2003",
+      "fin": "10 de diciembre de 2007",
+      "duracion": "4 años",
+      "partido": "Partido Justicialista ( Frente para la Victoria )",
+      "elecciones": "2003"
+    },
+    {
+      "presidente": "Cristina Fernández de Kirchner (n. 1953)",
+      "lugar_nacimiento": "Buenos Aires",
+      "periodo": "2007-2011",
+      "inicio": "10 de diciembre de 2007",
+      "fin": "10 de diciembre de 2011",
+      "duracion": "8 años",
+      "partido": "Partido Justicialista ( Frente para la Victoria )",
+      "elecciones": "2007"
+    },
+    {
+      "presidente": "Cristina Fernández de Kirchner (n. 1953)",
+      "lugar_nacimiento": "Buenos Aires",
+      "periodo": "2011-2015",
+      "inicio": "10 de diciembre de 2011",
+      "fin": "10 de diciembre de 2015",
+      "duracion": "8 años",
+      "partido": "Partido Justicialista ( Frente para la Victoria )",
+      "elecciones": "2011"
+    },
+    {
+      "presidente": "Mauricio Macri (n. 1959)",
+      "lugar_nacimiento": "Buenos Aires",
+      "periodo": "2015-2019",
+      "inicio": "10 de diciembre de 2015",
+      "fin": "10 de diciembre de 2019",
+      "duracion": "4 años",
+      "partido": "Propuesta Republicana ( Cambiemos )",
+      "elecciones": "2015"
+    },
+    {
+      "presidente": "Alberto Fernández (n. 1959)",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "2019-2023",
+      "inicio": "10 de diciembre de 2019",
+      "fin": "10 de diciembre de 2023",
+      "duracion": "4 años",
+      "partido": "Partido Justicialista ( Frente de Todos )",
+      "elecciones": "2019"
+    },
+    {
+      "presidente": "Javier Milei (n. 1970)",
+      "lugar_nacimiento": "Ciudad de Buenos Aires",
+      "periodo": "2023-2027",
+      "inicio": "10 de diciembre de 2023",
+      "fin": "Actualmente en el cargo",
+      "duracion": "2 años, 10 meses y 17 días",
+      "partido": "La Libertad Avanza ( Alianza La Libertad Avanza )",
+      "elecciones": "2023"
+    }
+  ],
+  "meta": {
+    "title": "Presidentes de la Nación Argentina - Free Download",
+    "description": "Presidentes de la República Argentina desde 1826, con lugar de nacimiento, mandato y partido. Contains 59 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidentes de la Nación Argentina | ListBase",
+    "seo_description": "Download Presidentes de la Nación Argentina — 59 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 59 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Presidentes_de_la_Nación_Argentina"
+    ]
+  }
+}
