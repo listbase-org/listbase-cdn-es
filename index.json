@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:16:57.250Z",
-  "total_datasets": 467,
-  "total_records": 418942,
+  "generated": "2026-10-27T02:16:59.548Z",
+  "total_datasets": 468,
+  "total_records": 418962,
   "categories": [
     {
       "id": "agriculture",
@@ -43,6 +43,10 @@
     {
       "id": "reference",
       "dataset_count": 341
+    },
+    {
+      "id": "society",
+      "dataset_count": 1
     },
     {
       "id": "tech",
@@ -14335,6 +14339,32 @@
         "xlsx": {
           "name": "es-zaragoza-unlocode_ES.xlsx",
           "size": 20758
+        }
+      }
+    },
+    {
+      "id": "es-comunidades-autonomas-idh",
+      "name": "Comunidades autónomas de España por IDH",
+      "category": "society",
+      "record_count": 20,
+      "columns": [
+        "puesto",
+        "comunidad",
+        "anio_datos",
+        "idh",
+        "estado_comparable"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Comunidades_autónomas_de_España_por_IDH",
+      "updated": "2026-10",
+      "size": 4850,
+      "files": {
+        "csv": {
+          "name": "es-comunidades-autonomas-idh_ES.csv",
+          "size": 1014
+        },
+        "xlsx": {
+          "name": "es-comunidades-autonomas-idh_ES.xlsx",
+          "size": 7598
         }
       }
     },

@@ -1,0 +1,191 @@
+{
+  "id": "es-comunidades-autonomas-idh",
+  "name": "Comunidades autónomas de España por IDH",
+  "title": "Comunidades autónomas de España por IDH",
+  "description": "Clasificación de las comunidades y ciudades autónomas de España por índice de desarrollo humano.",
+  "category": "society",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Comunidades_autónomas_de_España_por_IDH",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Comunidades_autónomas_de_España_por_IDH",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "puesto",
+      "label": "Puesto",
+      "type": "string"
+    },
+    {
+      "key": "comunidad",
+      "label": "Comunidad",
+      "type": "string"
+    },
+    {
+      "key": "anio_datos",
+      "label": "Anio Datos",
+      "type": "number"
+    },
+    {
+      "key": "idh",
+      "label": "Idh",
+      "type": "number"
+    },
+    {
+      "key": "estado_comparable",
+      "label": "Estado Comparable",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "puesto": "1.°",
+      "comunidad": "Comunidad de Madrid",
+      "anio_datos": 2023,
+      "idh": 0.951,
+      "estado_comparable": "Bélgica"
+    },
+    {
+      "puesto": "2.°",
+      "comunidad": "País Vasco",
+      "anio_datos": 2023,
+      "idh": 0.947,
+      "estado_comparable": "Finlandia"
+    },
+    {
+      "puesto": "3.º",
+      "comunidad": "Navarra",
+      "anio_datos": 2023,
+      "idh": 0.936,
+      "estado_comparable": "Estados Unidos"
+    },
+    {
+      "puesto": "4.°",
+      "comunidad": "Cataluña",
+      "anio_datos": 2023,
+      "idh": 0.929,
+      "estado_comparable": "Japón"
+    },
+    {
+      "puesto": "5.°",
+      "comunidad": "La Rioja",
+      "anio_datos": 2023,
+      "idh": 0.924,
+      "estado_comparable": "Luxemburgo"
+    },
+    {
+      "puesto": "6.°",
+      "comunidad": "Aragón",
+      "anio_datos": 2023,
+      "idh": 0.923,
+      "estado_comparable": "Luxemburgo"
+    },
+    {
+      "puesto": "7.°",
+      "comunidad": "Castilla y León",
+      "anio_datos": 2023,
+      "idh": 0.92,
+      "estado_comparable": "Francia"
+    },
+    {
+      "puesto": "8.°",
+      "comunidad": "Cantabria",
+      "anio_datos": 2023,
+      "idh": 0.918,
+      "estado_comparable": "España"
+    },
+    {
+      "puesto": "",
+      "comunidad": "España",
+      "anio_datos": 2023,
+      "idh": 0.918,
+      "estado_comparable": ""
+    },
+    {
+      "puesto": "9.°",
+      "comunidad": "Galicia",
+      "anio_datos": 2023,
+      "idh": 0.917,
+      "estado_comparable": "Italia"
+    },
+    {
+      "puesto": "10.°",
+      "comunidad": "Principado de Asturias",
+      "anio_datos": 2023,
+      "idh": 0.914,
+      "estado_comparable": "Chipre"
+    },
+    {
+      "puesto": "11.º",
+      "comunidad": "Comunidad Valenciana",
+      "anio_datos": 2023,
+      "idh": 0.905,
+      "estado_comparable": "Estonia"
+    },
+    {
+      "puesto": "12.°",
+      "comunidad": "Región de Murcia",
+      "anio_datos": 2023,
+      "idh": 0.893,
+      "estado_comparable": "Lituania"
+    },
+    {
+      "puesto": "13.°",
+      "comunidad": "Andalucía",
+      "anio_datos": 2023,
+      "idh": 0.889,
+      "estado_comparable": "Croacia"
+    },
+    {
+      "puesto": "14.°",
+      "comunidad": "Islas Baleares",
+      "anio_datos": 2023,
+      "idh": 0.887,
+      "estado_comparable": "Letonia"
+    },
+    {
+      "puesto": "15.°",
+      "comunidad": "Canarias",
+      "anio_datos": 2023,
+      "idh": 0.884,
+      "estado_comparable": "Eslovaquia"
+    },
+    {
+      "puesto": "15.°",
+      "comunidad": "Castilla-La Mancha",
+      "anio_datos": 2023,
+      "idh": 0.884,
+      "estado_comparable": "Eslovaquia"
+    },
+    {
+      "puesto": "15.°",
+      "comunidad": "Extremadura",
+      "anio_datos": 2023,
+      "idh": 0.884,
+      "estado_comparable": "Eslovaquia"
+    },
+    {
+      "puesto": "18.°",
+      "comunidad": "Melilla",
+      "anio_datos": 2023,
+      "idh": 0.874,
+      "estado_comparable": "Chile"
+    },
+    {
+      "puesto": "19.°",
+      "comunidad": "Ceuta",
+      "anio_datos": 2023,
+      "idh": 0.868,
+      "estado_comparable": "Hungría"
+    }
+  ],
+  "meta": {
+    "title": "Comunidades autónomas de España por IDH - Free Download",
+    "description": "Clasificación de las comunidades y ciudades autónomas de España por índice de desarrollo humano. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Comunidades autónomas de España por IDH | ListBase",
+    "seo_description": "Download Comunidades autónomas de España por IDH — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Comunidades_autónomas_de_España_por_IDH"
+    ]
+  }
+}
