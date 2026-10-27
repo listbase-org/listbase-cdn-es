@@ -1,0 +1,1906 @@
+{
+  "id": "es-estadios-de-futbol",
+  "name": "Estadios de fútbol de España",
+  "title": "Estadios de fútbol de España",
+  "description": "Estadios de fútbol de España ordenados por aforo, con ciudad, equipo y año de inauguración.",
+  "category": "sports",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Estadios_de_fútbol_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Estadios_de_fútbol_de_España",
+  "updated": "2026-10",
+  "record_count": 205,
+  "columns": [
+    {
+      "key": "n",
+      "label": "N",
+      "type": "number"
+    },
+    {
+      "key": "estadio",
+      "label": "Estadio",
+      "type": "string"
+    },
+    {
+      "key": "aforo",
+      "label": "Aforo",
+      "type": "number"
+    },
+    {
+      "key": "ciudad",
+      "label": "Ciudad",
+      "type": "string"
+    },
+    {
+      "key": "equipo",
+      "label": "Equipo",
+      "type": "string"
+    },
+    {
+      "key": "anio",
+      "label": "Anio",
+      "type": "number"
+    },
+    {
+      "key": "categoria_uefa",
+      "label": "Categoria Uefa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "n": "01",
+      "estadio": "Spotify Camp Nou",
+      "aforo": 105000,
+      "ciudad": "Barcelona",
+      "equipo": "F. C. Barcelona",
+      "anio": 1957,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "02",
+      "estadio": "Santiago Bernabéu",
+      "aforo": 83186,
+      "ciudad": "Madrid",
+      "equipo": "Real Madrid C. F.",
+      "anio": 1947,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "03",
+      "estadio": "La Cartuja",
+      "aforo": 71374,
+      "ciudad": "Sevilla",
+      "equipo": "Real Betis Balompié",
+      "anio": 1999,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "04",
+      "estadio": "Riyadh Air Metropolitano",
+      "aforo": 70813,
+      "ciudad": "Madrid",
+      "equipo": "Atlético de Madrid",
+      "anio": 2017,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "05",
+      "estadio": "Nou Mestalla",
+      "aforo": 70044,
+      "ciudad": "Valencia",
+      "equipo": "Valencia C. F.",
+      "anio": "*2027",
+      "categoria_uefa": ""
+    },
+    {
+      "n": "06",
+      "estadio": "Benito Villamarín",
+      "aforo": 60721,
+      "ciudad": "Sevilla",
+      "equipo": "Real Betis Balompié",
+      "anio": 1929,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "07",
+      "estadio": "Olímpic Lluís Companys",
+      "aforo": 55926,
+      "ciudad": "Barcelona",
+      "equipo": "Sin inquilino",
+      "anio": 1929,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "08",
+      "estadio": "San Mamés",
+      "aforo": 53289,
+      "ciudad": "Bilbao",
+      "equipo": "Athletic Club",
+      "anio": 2013,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "09",
+      "estadio": "Mestalla",
+      "aforo": 49430,
+      "ciudad": "Valencia",
+      "equipo": "Valencia C. F.",
+      "anio": 1923,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "10",
+      "estadio": "Ramón Sánchez-Pizjuán",
+      "aforo": 43751,
+      "ciudad": "Sevilla",
+      "equipo": "Sevilla F. C.",
+      "anio": 1958,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "11",
+      "estadio": "RCDE Stadium",
+      "aforo": 40500,
+      "ciudad": "Cornellá de Llobregat y El Prat de Llobregat",
+      "equipo": "R. C. D. Espanyol",
+      "anio": 2009,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "12",
+      "estadio": "Anoeta",
+      "aforo": 40000,
+      "ciudad": "San Sebastián",
+      "equipo": "Real Sociedad",
+      "anio": 1993,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "13",
+      "estadio": "La Romareda",
+      "aforo": 33608,
+      "ciudad": "Zaragoza",
+      "equipo": "Real Zaragoza",
+      "anio": 1957,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "14",
+      "estadio": "Abanca-Riazor",
+      "aforo": 32490,
+      "ciudad": "La Coruña",
+      "equipo": "R. C. Deportivo de La Coruña",
+      "anio": 1944,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "15",
+      "estadio": "Gran Canaria",
+      "aforo": 32392,
+      "ciudad": "Las Palmas de Gran Canaria",
+      "equipo": "U. D. Las Palmas",
+      "anio": 2003,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "16",
+      "estadio": "Enrique Roca",
+      "aforo": 32024,
+      "ciudad": "Murcia",
+      "equipo": "Real Murcia C. F.",
+      "anio": 2006,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "17",
+      "estadio": "Manuel Martínez Valero",
+      "aforo": 31388,
+      "ciudad": "Elche",
+      "equipo": "Elche C. F.",
+      "anio": 1976,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "18",
+      "estadio": "Carlos Tartiere",
+      "aforo": 30500,
+      "ciudad": "Oviedo",
+      "equipo": "Real Oviedo",
+      "anio": 2000,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "19",
+      "estadio": "La Rosaleda",
+      "aforo": 30778,
+      "ciudad": "Málaga",
+      "equipo": "Málaga C. F.",
+      "anio": 1941,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "20",
+      "estadio": "José Rico Pérez",
+      "aforo": 29500,
+      "ciudad": "Alicante",
+      "equipo": "Hércules C. F.",
+      "anio": 1974,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "21",
+      "estadio": "El Molinón-Enrique Castro «Quini»",
+      "aforo": 29371,
+      "ciudad": "Gijón",
+      "equipo": "Sporting de Gijón",
+      "anio": 1908,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "22",
+      "estadio": "José Zorrilla",
+      "aforo": 27618,
+      "ciudad": "Valladolid",
+      "equipo": "Real Valladolid C. F.",
+      "anio": 1982,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "23",
+      "estadio": "Ciutat de València",
+      "aforo": 26354,
+      "ciudad": "Valencia",
+      "equipo": "Levante U. D.",
+      "anio": 1969,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "24",
+      "estadio": "Son Moix",
+      "aforo": 25736,
+      "ciudad": "Palma",
+      "equipo": "R. C. D. Mallorca",
+      "anio": 1999,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "025",
+      "estadio": "Abanca-Balaídos",
+      "aforo": 24870,
+      "ciudad": "Vigo",
+      "equipo": "R. C. Celta de Vigo",
+      "anio": 1928,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "026",
+      "estadio": "El Sadar",
+      "aforo": 23516,
+      "ciudad": "Pamplona",
+      "equipo": "C. A. Osasuna",
+      "anio": 1967,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "027",
+      "estadio": "Heliodoro Rodríguez López",
+      "aforo": 22824,
+      "ciudad": "Santa Cruz de Tenerife",
+      "equipo": "C. D. Tenerife",
+      "anio": 1925,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "028",
+      "estadio": "Campos de Sport de El Sardinero",
+      "aforo": 22514,
+      "ciudad": "Santander",
+      "equipo": "Real Racing Club de Santander",
+      "anio": 1988,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "029",
+      "estadio": "Nuevo Colombino",
+      "aforo": 21670,
+      "ciudad": "Huelva",
+      "equipo": "R. C. Recreativo de Huelva",
+      "anio": 2001,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "030",
+      "estadio": "Bahrain Victorious Nuevo Arcángel",
+      "aforo": 21650,
+      "ciudad": "Córdoba",
+      "equipo": "Córdoba C. F.",
+      "anio": 1993,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "031",
+      "estadio": "Estadio de la Cerámica",
+      "aforo": 21338,
+      "ciudad": "Villarreal",
+      "equipo": "Villarreal C. F.",
+      "anio": 1923,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "032",
+      "estadio": "JP Financial Estadio",
+      "aforo": 21061,
+      "ciudad": "Cádiz",
+      "equipo": "Cádiz C. F.",
+      "anio": 1955,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "033",
+      "estadio": "Chapín",
+      "aforo": 20486,
+      "ciudad": "Jerez de la Frontera",
+      "equipo": "Xerez C. D. y Xerez Deportivo F. C.",
+      "anio": 1988,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "034",
+      "estadio": "Mendizorroza",
+      "aforo": 19840,
+      "ciudad": "Vitoria",
+      "equipo": "Deportivo Alavés",
+      "anio": 1924,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "035",
+      "estadio": "Nuevo Los Cármenes",
+      "aforo": 19189,
+      "ciudad": "Granada",
+      "equipo": "Granada C. F.",
+      "anio": 1995,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "036",
+      "estadio": "UD Almería Stadium",
+      "aforo": 19000,
+      "ciudad": "Almería",
+      "equipo": "U. D. Almería",
+      "anio": 2004,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "037",
+      "estadio": "Carlos Belmonte",
+      "aforo": 17524,
+      "ciudad": "Albacete",
+      "equipo": "Albacete Balompié",
+      "anio": 1960,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "038",
+      "estadio": "Helmántico",
+      "aforo": 17341,
+      "ciudad": "Villares de la Reina",
+      "equipo": "Salamanca C. F. UDS",
+      "anio": 1970,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "039",
+      "estadio": "Coliseum",
+      "aforo": 16500,
+      "ciudad": "Getafe",
+      "equipo": "Getafe C. F.",
+      "anio": 1998,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "040",
+      "estadio": "Las Gaunas",
+      "aforo": 16000,
+      "ciudad": "Logroño",
+      "equipo": "S. D. Logroñés , U. D. Logroñés y EDF Logroño",
+      "anio": 2002,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "041",
+      "estadio": "Skyfi Castalia",
+      "aforo": 15500,
+      "ciudad": "Castellón de la Plana",
+      "equipo": "C. D. Castellón",
+      "anio": 1987,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "042",
+      "estadio": "Nuevo Vivero",
+      "aforo": 14898,
+      "ciudad": "Badajoz",
+      "equipo": "C. D. Badajoz",
+      "anio": 1998,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "043",
+      "estadio": "Estadio de Vallecas",
+      "aforo": 14708,
+      "ciudad": "Madrid",
+      "equipo": "Rayo Vallecano",
+      "anio": 1976,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "044",
+      "estadio": "Romano José Fouto",
+      "aforo": 14600,
+      "ciudad": "Mérida",
+      "equipo": "A. D. Mérida",
+      "anio": 1953,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "045",
+      "estadio": "Nou Estadi Costa Daurada",
+      "aforo": 14591,
+      "ciudad": "Tarragona",
+      "equipo": "Club Gimnàstic de Tarragona",
+      "anio": 1971,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "046",
+      "estadio": "Ontime Butarque",
+      "aforo": 14436,
+      "ciudad": "Leganés",
+      "equipo": "C. D. Leganés",
+      "anio": 1998,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "047",
+      "estadio": "Cartagonova",
+      "aforo": 14353,
+      "ciudad": "Cartagena",
+      "equipo": "F. C. Cartagena",
+      "anio": 1988,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "048",
+      "estadio": "El Soto",
+      "aforo": 14000,
+      "ciudad": "Móstoles",
+      "equipo": "C. D. Móstoles URJC",
+      "anio": 1974,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "049",
+      "estadio": "Camp d'Esports",
+      "aforo": 13500,
+      "ciudad": "Lérida",
+      "equipo": "Lleida Esportiu",
+      "anio": 1919,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "050",
+      "estadio": "Reino de León",
+      "aforo": 13346,
+      "ciudad": "León",
+      "equipo": "Cultural y Deportiva Leonesa",
+      "anio": 2001,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "051",
+      "estadio": "Juan Rojas",
+      "aforo": 13000,
+      "ciudad": "Almería",
+      "equipo": "U. D. Almería \"B\"",
+      "anio": 1976,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "052",
+      "estadio": "El Plantío",
+      "aforo": 12642,
+      "ciudad": "Burgos",
+      "equipo": "Burgos C. F.",
+      "anio": 1964,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "053",
+      "estadio": "La Victoria",
+      "aforo": 12569,
+      "ciudad": "Jaén",
+      "equipo": "Real Jaén C. F.",
+      "anio": 2001,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "054",
+      "estadio": "A Malata",
+      "aforo": 12043,
+      "ciudad": "Ferrol",
+      "equipo": "Racing Club de Ferrol",
+      "anio": 1993,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "055",
+      "estadio": "Verónica Boquete de San Lázaro",
+      "aforo": 12000,
+      "ciudad": "Santiago de Compostela",
+      "equipo": "S. D. Compostela",
+      "anio": 1993,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Francisco de la Hera",
+      "aforo": 12000,
+      "ciudad": "Almendralejo",
+      "equipo": "C. D. Extremadura 1924",
+      "anio": 1996,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "057",
+      "estadio": "Nova Creu Alta",
+      "aforo": 11981,
+      "ciudad": "Sabadell",
+      "equipo": "C. E. Sabadell F. C.",
+      "anio": 1967,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "058",
+      "estadio": "Olímpic de Terrassa",
+      "aforo": 11500,
+      "ciudad": "Tarrasa",
+      "equipo": "Terrassa F. C",
+      "anio": 1960,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "059",
+      "estadio": "Montilivi",
+      "aforo": 11200,
+      "ciudad": "Gerona",
+      "equipo": "Girona F. C.",
+      "anio": 1970,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "060",
+      "estadio": "Ciudad de Tudela",
+      "aforo": 11000,
+      "ciudad": "Tudela",
+      "equipo": "C. D. Tudelano",
+      "anio": 1969,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "061",
+      "estadio": "Ciudad de Málaga",
+      "aforo": 10816,
+      "ciudad": "Málaga",
+      "equipo": "C. A. Málaga",
+      "anio": 2006,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "062",
+      "estadio": "Pasarón",
+      "aforo": 10500,
+      "ciudad": "Pontevedra",
+      "equipo": "Pontevedra C. F.",
+      "anio": 1956,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "062",
+      "estadio": "Álvarez Claro",
+      "aforo": 10000,
+      "ciudad": "Melilla",
+      "equipo": "U. D. Melilla",
+      "anio": 1945,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Linarejos",
+      "aforo": 10000,
+      "ciudad": "Linares",
+      "equipo": "Linares Deportivo",
+      "anio": 1956,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Nou Camp d'Inca",
+      "aforo": 10000,
+      "ciudad": "Inca",
+      "equipo": "CD Constancia",
+      "anio": 1962,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "065",
+      "estadio": "El Alcoraz",
+      "aforo": 9100,
+      "ciudad": "Huesca",
+      "equipo": "SD Huesca",
+      "anio": 1972,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "066",
+      "estadio": "La Murta",
+      "aforo": 9000,
+      "ciudad": "Játiva",
+      "equipo": "CD Olímpic de Xàtiva",
+      "anio": 1920,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Guillermo Amor",
+      "aforo": 9000,
+      "ciudad": "Benidorm",
+      "equipo": "Benidorm CD",
+      "anio": 1964,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Vilatenim",
+      "aforo": 9000,
+      "ciudad": "Figueras",
+      "equipo": "UE Figueres",
+      "anio": 1986,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Antonio Peroles",
+      "aforo": 9000,
+      "ciudad": "Roquetas de Mar",
+      "equipo": "CD Roquetas",
+      "anio": 2005,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Ciudad de la Línea",
+      "aforo": 9000,
+      "ciudad": "La Línea de la Concepción",
+      "equipo": "RB Linense",
+      "anio": 1969,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "071",
+      "estadio": "José del Cuvillo",
+      "aforo": 8600,
+      "ciudad": "El Puerto de Santa María",
+      "equipo": "RC Portuense",
+      "anio": 1972,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "072",
+      "estadio": "El Toralín",
+      "aforo": 8400,
+      "ciudad": "Ponferrada",
+      "equipo": "SD Ponferradina",
+      "anio": 2000,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "073",
+      "estadio": "Nuevo Los Pajaritos",
+      "aforo": 8261,
+      "ciudad": "Soria",
+      "equipo": "CD Numancia",
+      "anio": 1999,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "074",
+      "estadio": "Ipurua",
+      "aforo": 8164,
+      "ciudad": "Éibar",
+      "equipo": "S. D. Eibar",
+      "anio": 1947,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "075",
+      "estadio": "Francisco Artés Carrasco",
+      "aforo": 8120,
+      "ciudad": "Lorca",
+      "equipo": "Lorca CF y CF Lorca Deportiva",
+      "anio": 2003,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "076",
+      "estadio": "Luis Suñer",
+      "aforo": 8104,
+      "ciudad": "Alcira",
+      "equipo": "UD Alzira",
+      "anio": 1973,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "077",
+      "estadio": "Nueva Balastera",
+      "aforo": 8064,
+      "ciudad": "Palencia",
+      "equipo": "C. D. Palencia",
+      "anio": 2006,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "078",
+      "estadio": "Francisco Peraza",
+      "aforo": 8000,
+      "ciudad": "San Cristóbal de La Laguna",
+      "equipo": "C. D. Laguna",
+      "anio": 1923,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "El Val",
+      "aforo": 8000,
+      "ciudad": "Alcalá de Henares",
+      "equipo": "R. S. D. Alcalá",
+      "anio": 1947,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Gerardo Salvador",
+      "aforo": 8000,
+      "ciudad": "Paterna",
+      "equipo": "Paterna C. F.",
+      "anio": 1971,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Jesús Navas",
+      "aforo": 8000,
+      "ciudad": "Sevilla",
+      "equipo": "Sevilla Atlético Club",
+      "anio": 1974,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Nuevo Campo de La Puebla",
+      "aforo": 8000,
+      "ciudad": "La Puebla",
+      "equipo": "U. D. Poblense",
+      "anio": 1977,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Iberoamericano 2010",
+      "aforo": 8000,
+      "ciudad": "San Fernando",
+      "equipo": "San Fernando C. D.",
+      "anio": 1992,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Pedro S. Garrido",
+      "aforo": 8000,
+      "ciudad": "Jerez de la Frontera",
+      "equipo": "Jerez Industrial C. F.",
+      "anio": 2001,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "085",
+      "estadio": "Lasesarre",
+      "aforo": 7960,
+      "ciudad": "Baracaldo",
+      "equipo": "Barakaldo C. F.",
+      "anio": 2001,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "086",
+      "estadio": "Santo Domingo",
+      "aforo": 7870,
+      "ciudad": "El Ejido",
+      "equipo": "CD Poli Ejido 2012",
+      "anio": 2001,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "087",
+      "estadio": "Anxo Carro",
+      "aforo": 7840,
+      "ciudad": "Lugo",
+      "equipo": "C. D. Lugo",
+      "anio": 1974,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "088",
+      "estadio": "Ruta de la Plata",
+      "aforo": 7813,
+      "ciudad": "Zamora",
+      "equipo": "Zamora C. F.",
+      "anio": 2002,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "089",
+      "estadio": "Antonio Domínguez Alfonso",
+      "aforo": 7500,
+      "ciudad": "Los Cristianos",
+      "equipo": "C. D. Marino",
+      "anio": 1992,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "090",
+      "estadio": "Nuevo Mirador",
+      "aforo": 7200,
+      "ciudad": "Algeciras",
+      "equipo": "Algeciras C. F.",
+      "anio": 1999,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "091",
+      "estadio": "Ciudad Deportiva de Lanzarote",
+      "aforo": 7000,
+      "ciudad": "Arrecife",
+      "equipo": "C. D. Orientación Marítima y U. D. Lanzarote",
+      "anio": 1968,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Municipal de Marbella",
+      "aforo": 7000,
+      "ciudad": "Marbella",
+      "equipo": "U. D. Marbella",
+      "anio": 1975,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Príncipe Felipe",
+      "aforo": 7000,
+      "ciudad": "Cáceres",
+      "equipo": "C. P. Cacereño",
+      "anio": 1977,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "094",
+      "estadio": "Ciudad de Puertollano",
+      "aforo": 6813,
+      "ciudad": "Puertollano",
+      "equipo": "C. D. Puertollano",
+      "anio": 2010,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "095",
+      "estadio": "Narcís Sala",
+      "aforo": 6593,
+      "ciudad": "Barcelona",
+      "equipo": "U. E. Sant Andreu",
+      "anio": 1970,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "096",
+      "estadio": "Alfonso Murube",
+      "aforo": 6500,
+      "ciudad": "Ceuta",
+      "equipo": "Agrupación Deportiva Ceuta",
+      "anio": 1933,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Villanovense",
+      "aforo": 6500,
+      "ciudad": "Villanueva de la Serena",
+      "equipo": "C. F. Villanovense",
+      "anio": 1992,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "098",
+      "estadio": "Municipal Futbol L'Hospitalet",
+      "aforo": 6294,
+      "ciudad": "Hospitalet de Llobregat",
+      "equipo": "CE L´Hospitalet",
+      "anio": 1999,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "099",
+      "estadio": "Campos del Malecón",
+      "aforo": 6007,
+      "ciudad": "Torrelavega",
+      "equipo": "R. S. Gimnástica de Torrelavega",
+      "anio": 1922,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "100",
+      "estadio": "Guadalquivir",
+      "aforo": 6000,
+      "ciudad": "Coria del Río",
+      "equipo": "Coria C. F.",
+      "anio": 1923,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Pedro Escartín",
+      "aforo": 6000,
+      "ciudad": "Guadalajara",
+      "equipo": "C. D. Guadalajara",
+      "anio": 1967,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Vicente García",
+      "aforo": 6000,
+      "ciudad": "Torrevieja",
+      "equipo": "F. C. Torrevieja",
+      "anio": 1971,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Adolfo Suárez",
+      "aforo": 6000,
+      "ciudad": "Ávila",
+      "equipo": "Real Ávila C. F.",
+      "anio": 1976,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "La Albuera",
+      "aforo": 6000,
+      "ciudad": "Segovia",
+      "equipo": "Gimnástica Segoviana C. F.",
+      "anio": 1977,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Nuevo Silvestre Carrillo",
+      "aforo": 6000,
+      "ciudad": "Santa Cruz de La Palma",
+      "equipo": "C. D. Mensajero",
+      "anio": 1977,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Municipal de San Miguel",
+      "aforo": 6000,
+      "ciudad": "Úbeda",
+      "equipo": "C. D. Úbeda Viva",
+      "anio": 1986,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Virgen de las Nieves",
+      "aforo": 6000,
+      "ciudad": "Santa Cruz de La Palma",
+      "equipo": "S. D. Tenisca",
+      "anio": 2001,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Alfredo Di Stéfano",
+      "aforo": 6000,
+      "ciudad": "Madrid",
+      "equipo": "Real Madrid Club de Fútbol Castilla",
+      "anio": 2005,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "La Fuensanta",
+      "aforo": 6000,
+      "ciudad": "Cuenca",
+      "equipo": "U. B. Conquense",
+      "anio": 2011,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Johan Cruyff",
+      "aforo": 6000,
+      "ciudad": "Barcelona",
+      "equipo": "FC Barcelona \"B\" y FC Barcelona femenino",
+      "anio": 2019,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Alberto Fernández",
+      "aforo": 6000,
+      "ciudad": "Aguilar de Campoo",
+      "equipo": "C. D. Aguilar",
+      "anio": 1968,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "112",
+      "estadio": "Anduva",
+      "aforo": 5759,
+      "ciudad": "Miranda de Ebro",
+      "equipo": "C. D. Mirandés",
+      "anio": 1950,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "113",
+      "estadio": "O Couto",
+      "aforo": 5659,
+      "ciudad": "Orense",
+      "equipo": "Unión Deportiva Ourense y Ourense Club de Fútbol",
+      "anio": 1948,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "114",
+      "estadio": "La Magdalena",
+      "aforo": 5500,
+      "ciudad": "Novelda",
+      "equipo": "Novelda C. F.",
+      "anio": 1949,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Salto del Tigre",
+      "aforo": 5500,
+      "ciudad": "Toledo",
+      "equipo": "C. D. Toledo",
+      "anio": 1973,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "La Arboleja",
+      "aforo": 5500,
+      "ciudad": "Cieza",
+      "equipo": "C. D. Cieza",
+      "anio": 1984,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Nuestra Señora de la Caridad",
+      "aforo": 5500,
+      "ciudad": "Villarrobledo",
+      "equipo": "C. P. Villarrobledo",
+      "anio": 1958,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Chamorro Martínez",
+      "aforo": 5500,
+      "ciudad": "Martos",
+      "equipo": "Martos C. D.",
+      "anio": 1970,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Polideportivo Municipal",
+      "aforo": 5500,
+      "ciudad": "Almansa",
+      "equipo": "U. D. Almansa",
+      "anio": 1976,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Francisco Gil Valle",
+      "aforo": 5500,
+      "ciudad": "Plasencia",
+      "equipo": "U. P. Plasencia",
+      "anio": 1982,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Los Corrales",
+      "aforo": 5500,
+      "ciudad": "Los Corrales de Buelna",
+      "equipo": "S. D. Buelna",
+      "anio": 2013,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Estadi Balear",
+      "aforo": 5500,
+      "ciudad": "Palma de Mallorca",
+      "equipo": "C. D. Atlético Baleares",
+      "anio": 1960,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "123",
+      "estadio": "Román Suárez Puerta",
+      "aforo": 5400,
+      "ciudad": "Avilés",
+      "equipo": "Real Avilés C. F.",
+      "anio": 1999,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "124",
+      "estadio": "Ciudad de Ayamonte",
+      "aforo": 5200,
+      "ciudad": "Ayamonte",
+      "equipo": "Ayamonte C. F.",
+      "anio": 2007,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "125",
+      "estadio": "Santo Domingo",
+      "aforo": 5100,
+      "ciudad": "Alcorcón",
+      "equipo": "A. D. Alcorcón",
+      "anio": 1978,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "126",
+      "estadio": "Stadium Gal",
+      "aforo": 5000,
+      "ciudad": "Irún",
+      "equipo": "Real Unión Club",
+      "anio": 1926,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "El Prado",
+      "aforo": 5000,
+      "ciudad": "Talavera de la Reina",
+      "equipo": "C. F. Talavera de la Reina",
+      "anio": 1944,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "La Constitución",
+      "aforo": 5000,
+      "ciudad": "Yecla",
+      "equipo": "Yeclano Deportivo",
+      "anio": 1944,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "El Clariano",
+      "aforo": 5000,
+      "ciudad": "Onteniente",
+      "equipo": "Ontinyent 1931 C. F.",
+      "anio": 1951,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "La Florida",
+      "aforo": 5000,
+      "ciudad": "Portugalete",
+      "equipo": "Club Portugalete",
+      "anio": 1951,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Los Cuartos",
+      "aforo": 5000,
+      "ciudad": "La Orotava",
+      "equipo": "U. D. Orotava",
+      "anio": 1953,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Vicente Sanz",
+      "aforo": 5000,
+      "ciudad": "Don Benito",
+      "equipo": "C. D. Don Benito",
+      "anio": 1957,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Lucena",
+      "aforo": 5000,
+      "ciudad": "Lucena",
+      "equipo": "C. D. C. Lucena",
+      "anio": 1972,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "El Maulí",
+      "aforo": 5000,
+      "ciudad": "Antequera",
+      "equipo": "Antequera C. F.",
+      "anio": 1981,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Muncipal de Montilla",
+      "aforo": 5000,
+      "ciudad": "Montilla",
+      "equipo": "Montilla C. F.",
+      "anio": 1981,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Gazituaga",
+      "aforo": 5000,
+      "ciudad": "Zamudio",
+      "equipo": "Zamudio S. D.",
+      "anio": 1990,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Enrique Saura",
+      "aforo": 5000,
+      "ciudad": "Onda",
+      "equipo": "C. D. Onda",
+      "anio": 2000,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Artunduaga",
+      "aforo": 5000,
+      "ciudad": "Basauri",
+      "equipo": "C. D. Basconia",
+      "anio": 2007,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Isidro Calderón",
+      "aforo": 5000,
+      "ciudad": "Monzón",
+      "equipo": "Club Atlético de Monzón",
+      "anio": 2012,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Baltar",
+      "aforo": 5000,
+      "ciudad": "Portonovo",
+      "equipo": "Portonovo S. D.",
+      "anio": "",
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "El Palmar Juan Mateos Padilla",
+      "aforo": 5000,
+      "ciudad": "Sanlúcar de Barrameda",
+      "equipo": "Atlético Sanluqueño C. F.",
+      "anio": 1948,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Miramar",
+      "aforo": 5000,
+      "ciudad": "Luanco",
+      "equipo": "Club Marino de Luanco",
+      "anio": 1952,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Pinilla",
+      "aforo": 5000,
+      "ciudad": "Teruel",
+      "equipo": "C. D. Teruel",
+      "anio": 1957,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Municipal de Deportes de Barbastro",
+      "aforo": 5000,
+      "ciudad": "Barbastro",
+      "equipo": "U. D. Barbastro",
+      "anio": 1966,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Nuevo Estadio de Zafra",
+      "aforo": 5000,
+      "ciudad": "Zafra",
+      "equipo": "U. D. Zafra Atlético",
+      "anio": 1972,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Navalmoral de la Mata",
+      "aforo": 5000,
+      "ciudad": "Navalmoral de la Mata",
+      "equipo": "Moralo C. P.",
+      "anio": 1972,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Mundial 82",
+      "aforo": 5000,
+      "ciudad": "Catarroja",
+      "equipo": "Catarroja C. F.",
+      "anio": 1984,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "La Bòbila",
+      "aforo": 5000,
+      "ciudad": "Gavá",
+      "equipo": "C. F. Gavà",
+      "anio": 1995,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Ciudad Deportiva Municipal de San Vicente de Alcántara",
+      "aforo": 5000,
+      "ciudad": "San Vicente de Alcántara",
+      "equipo": "C. P. Sanvicenteño",
+      "anio": 2007,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Municipal de Alcázar",
+      "aforo": 5000,
+      "ciudad": "Alcázar de San Juan",
+      "equipo": "C. F. Gimnástico de Alcázar",
+      "anio": "",
+      "categoria_uefa": ""
+    },
+    {
+      "n": "151",
+      "estadio": "Reina Sofía",
+      "aforo": 4895,
+      "ciudad": "Salamanca",
+      "equipo": "Unionistas de Salamanca C. F.",
+      "anio": 2021,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "152",
+      "estadio": "BeSoccer La Condomina",
+      "aforo": 4600,
+      "ciudad": "Murcia",
+      "equipo": "UCAM Murcia Club de Fútbol",
+      "anio": 1924,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Área Deportiva de Puente Castro",
+      "aforo": 4600,
+      "ciudad": "León",
+      "equipo": "Cultural y Deportiva Leonesa B",
+      "anio": 1998,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "154",
+      "estadio": "La Planilla",
+      "aforo": 4500,
+      "ciudad": "Calahorra",
+      "equipo": "C. D. Calahorra",
+      "anio": 1946,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Can Misses",
+      "aforo": 4500,
+      "ciudad": "Ibiza",
+      "equipo": "U. D. Ibiza",
+      "anio": 1991,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Matías Prats",
+      "aforo": 4500,
+      "ciudad": "Torredonjimeno",
+      "equipo": "U. D. C. Torredonjimeno",
+      "anio": 1934,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "157",
+      "estadio": "Las Llanas",
+      "aforo": 4367,
+      "ciudad": "Sestao",
+      "equipo": "Sestao River Club y S. D. San Pedro",
+      "anio": 1923,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "158",
+      "estadio": "Escribano Castilla",
+      "aforo": 4300,
+      "ciudad": "Motril",
+      "equipo": "C. F. Motril",
+      "anio": 1970,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Camp Nou Municipal",
+      "aforo": 4300,
+      "ciudad": "Reus",
+      "equipo": "Club de Futbol Reus Deportiu",
+      "anio": 1978,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Municipal de Deportes El Mazo",
+      "aforo": 4300,
+      "ciudad": "Haro",
+      "equipo": "Haro Deportivo",
+      "anio": 2004,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "161",
+      "estadio": "Municipal de Badalona",
+      "aforo": 4170,
+      "ciudad": "Badalona",
+      "equipo": "C. F. Badalona",
+      "anio": 2017,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "162",
+      "estadio": "Pepico Amat",
+      "aforo": 4036,
+      "ciudad": "Elda",
+      "equipo": "C. D. Eldense",
+      "anio": 1964,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "163",
+      "estadio": "Ganzábal",
+      "aforo": 4024,
+      "ciudad": "Langreo",
+      "equipo": "UP Langreo",
+      "anio": 1922,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "164",
+      "estadio": "Paco Gálvez",
+      "aforo": 4000,
+      "ciudad": "Tomelloso",
+      "equipo": "C. D. Atlético Tomelloso",
+      "anio": 1948,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Hermanos Antuña",
+      "aforo": 4000,
+      "ciudad": "Mieres",
+      "equipo": "Caudal Deportivo",
+      "anio": 1951,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Estadi Municipal d'Olot",
+      "aforo": 4000,
+      "ciudad": "Olot",
+      "equipo": "U. E. Olot",
+      "anio": 1954,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Juan Carlos Higuero",
+      "aforo": 4000,
+      "ciudad": "Aranda de Duero",
+      "equipo": "Arandina C. F.",
+      "anio": 1977,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Pozoblanco",
+      "aforo": 4000,
+      "ciudad": "Pozoblanco",
+      "equipo": "C. D. Pozoblanco",
+      "anio": 1983,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Nou Sardenya",
+      "aforo": 4000,
+      "ciudad": "Barcelona",
+      "equipo": "C. E. Europa",
+      "anio": 1995,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Centenario El Rubial",
+      "aforo": 4000,
+      "ciudad": "Águilas",
+      "equipo": "Águilas F. C.",
+      "anio": 1913,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "El Carmen Sariñena",
+      "aforo": 4000,
+      "ciudad": "Sariñena",
+      "equipo": "C. D. Sarineña",
+      "anio": 1960,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Les Comes",
+      "aforo": 4000,
+      "ciudad": "Igualada",
+      "equipo": "C. F. Igualada",
+      "anio": 1986,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "173",
+      "estadio": "Cerro del Espino",
+      "aforo": 3800,
+      "ciudad": "Majadahonda",
+      "equipo": "C. F. Rayo Majadahonda",
+      "anio": 1995,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "174",
+      "estadio": "Nou Municipal de Palamós",
+      "aforo": 3652,
+      "ciudad": "Palamós",
+      "equipo": "Palamós C. F. y U. E. Llagostera",
+      "anio": 1989,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "175",
+      "estadio": "Luís Rodríguez Salvador",
+      "aforo": 3571,
+      "ciudad": "Cartaya",
+      "equipo": "A. D. Cartaya",
+      "anio": "",
+      "categoria_uefa": ""
+    },
+    {
+      "n": "176",
+      "estadio": "Merkatondoa",
+      "aforo": 3500,
+      "ciudad": "Estella",
+      "equipo": "C. D. Izarra",
+      "anio": 1928,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Ciudad Deportiva del Villarreal",
+      "aforo": 3500,
+      "ciudad": "Villarreal",
+      "equipo": "Villarreal C. F. \"B\"",
+      "anio": 2002,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Los Arcos",
+      "aforo": 3500,
+      "ciudad": "Orihuela",
+      "equipo": "Orihuela C. F.",
+      "anio": 1945,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Oreyana",
+      "aforo": 3500,
+      "ciudad": "Ribadesella",
+      "equipo": "Ribadesella C. F.",
+      "anio": 1975,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "San Pablo",
+      "aforo": 3500,
+      "ciudad": "Ecija",
+      "equipo": "Écija Balompié",
+      "anio": 1986,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "As Eiroas",
+      "aforo": 3500,
+      "ciudad": "Carballo",
+      "equipo": "Bergantiños F. C.",
+      "anio": 2001,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "182",
+      "estadio": "Guillermo Olagüe",
+      "aforo": 3259,
+      "ciudad": "Gandía",
+      "equipo": "C. F. Gandía",
+      "anio": 1967,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "183",
+      "estadio": "Instalaciones de Lezama",
+      "aforo": 3200,
+      "ciudad": "Lezama",
+      "equipo": "Bilbao Athletic",
+      "anio": 1971,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "184",
+      "estadio": "El Pilar",
+      "aforo": 3000,
+      "ciudad": "Guarnizo",
+      "equipo": "C. D. Guarnizo",
+      "anio": 1922,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Estadio Noulas",
+      "aforo": 3000,
+      "ciudad": "Nules",
+      "equipo": "C. F. Nules",
+      "anio": 2014,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Pepe Go calvez",
+      "aforo": 3000,
+      "ciudad": "Las Palmas de Gran Canaria",
+      "equipo": "C. F. Unión Viera , A. D. Huracán e Inter-Canarias C. F.",
+      "anio": 1937,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Pepe Ortiz",
+      "aforo": 3000,
+      "ciudad": "Gijón",
+      "equipo": "Real Sporting de Gijón \"B\"",
+      "anio": 1995,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Nuevo Matapiñonera",
+      "aforo": 3000,
+      "ciudad": "San Sebastián de los Reyes",
+      "equipo": "U. D. Sanse",
+      "anio": 2001,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Nuevo Urritxe",
+      "aforo": 3000,
+      "ciudad": "Amorebieta-Echano",
+      "equipo": "S. D. Amorebieta",
+      "anio": 2002,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Ciudad Deportiva de Buñol",
+      "aforo": 3000,
+      "ciudad": "Buñol",
+      "equipo": "Atlético Levante U. D.",
+      "anio": 2003,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Nelson Mandela",
+      "aforo": 3000,
+      "ciudad": "Torrevieja",
+      "equipo": "C. D. Torrevieja",
+      "anio": 2010,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Fernando Torres",
+      "aforo": 3000,
+      "ciudad": "Fuenlabrada",
+      "equipo": "C. D. Fuenlabrada",
+      "anio": 2011,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "193",
+      "estadio": "Municipal de Ejea",
+      "aforo": 2623,
+      "ciudad": "Ejea de los Caballeros",
+      "equipo": "S. D. Ejea",
+      "anio": 2010,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "194",
+      "estadio": "José Luis Orbegozo",
+      "aforo": 2500,
+      "ciudad": "Zubieta",
+      "equipo": "Real Sociedad B",
+      "anio": 2004,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Estadio de la juventud Emilio Campra",
+      "aforo": 2500,
+      "ciudad": "Almería",
+      "equipo": "C. P. Almería",
+      "anio": 2002,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "196",
+      "estadio": "Nou Camp Municipal de Santa Coloma",
+      "aforo": 2400,
+      "ciudad": "Santa Coloma de Gramanet",
+      "equipo": "UDA Gramenet",
+      "anio": 1994,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Javier Sotomayor",
+      "aforo": 2400,
+      "ciudad": "Villares de la Reina",
+      "equipo": "Unionistas de Salamanca C. F.",
+      "anio": 1970,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "198",
+      "estadio": "Antonio Puchades",
+      "aforo": 2250,
+      "ciudad": "Paterna",
+      "equipo": "Valencia C. F. Mestalla",
+      "anio": 1992,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "199",
+      "estadio": "La Mina",
+      "aforo": 2000,
+      "ciudad": "Madrid",
+      "equipo": "R. C. D. Carabanchel",
+      "anio": 1916,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Nuevo San Bartolomé",
+      "aforo": 2000,
+      "ciudad": "Mairena del Alcor",
+      "equipo": "C. D. Mairena",
+      "anio": 1982,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Vicente del Bosque",
+      "aforo": 2000,
+      "ciudad": "Ponferrada",
+      "equipo": "S. D. Ponferradina \"B\"",
+      "anio": 2013,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "El Olivar",
+      "aforo": 2000,
+      "ciudad": "Piedrabuena",
+      "equipo": "C. D. Piedrabuena",
+      "anio": "",
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Municipal d'Horta Feliu i Codina",
+      "aforo": 2000,
+      "ciudad": "Barcelona",
+      "equipo": "Unió Atlètica d'Horta",
+      "anio": 1923,
+      "categoria_uefa": ""
+    },
+    {
+      "n": "",
+      "estadio": "Finca Canterac",
+      "aforo": 2000,
+      "ciudad": "Valladolid",
+      "equipo": "Betis C. F.",
+      "anio": 2002,
+      "categoria_uefa": ""
+    }
+  ],
+  "meta": {
+    "title": "Estadios de fútbol de España - Free Download",
+    "description": "Estadios de fútbol de España ordenados por aforo, con ciudad, equipo y año de inauguración. Contains 205 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Estadios de fútbol de España | ListBase",
+    "seo_description": "Download Estadios de fútbol de España — 205 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 205 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Estadios_de_fútbol_de_España"
+    ]
+  }
+}

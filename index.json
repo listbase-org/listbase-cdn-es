@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:17:02.114Z",
-  "total_datasets": 469,
-  "total_records": 419012,
+  "generated": "2026-10-27T02:17:04.611Z",
+  "total_datasets": 470,
+  "total_records": 419217,
   "categories": [
     {
       "id": "agriculture",
@@ -50,6 +50,10 @@
     },
     {
       "id": "society",
+      "dataset_count": 1
+    },
+    {
+      "id": "sports",
       "dataset_count": 1
     },
     {
@@ -14398,6 +14402,34 @@
         "xlsx": {
           "name": "es-comunidades-autonomas-idh_ES.xlsx",
           "size": 7598
+        }
+      }
+    },
+    {
+      "id": "es-estadios-de-futbol",
+      "name": "Estadios de fútbol de España",
+      "category": "sports",
+      "record_count": 205,
+      "columns": [
+        "n",
+        "estadio",
+        "aforo",
+        "ciudad",
+        "equipo",
+        "anio",
+        "categoria_uefa"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Estadios_de_fútbol_de_España",
+      "updated": "2026-10",
+      "size": 43243,
+      "files": {
+        "csv": {
+          "name": "es-estadios-de-futbol_ES.csv",
+          "size": 15283
+        },
+        "xlsx": {
+          "name": "es-estadios-de-futbol_ES.xlsx",
+          "size": 18882
         }
       }
     },
