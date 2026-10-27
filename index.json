@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:17:19.996Z",
-  "total_datasets": 476,
-  "total_records": 420906,
+  "generated": "2026-10-27T02:17:22.364Z",
+  "total_datasets": 477,
+  "total_records": 420956,
   "categories": [
     {
       "id": "agriculture",
@@ -18,6 +18,10 @@
     },
     {
       "id": "education",
+      "dataset_count": 1
+    },
+    {
+      "id": "entertainment",
       "dataset_count": 1
     },
     {
@@ -304,6 +308,32 @@
         "xlsx": {
           "name": "es-universidades_ES.xlsx",
           "size": 12298
+        }
+      }
+    },
+    {
+      "id": "es-peliculas-mexicanas-mas-taquilleras",
+      "name": "Películas mexicanas más taquilleras",
+      "category": "entertainment",
+      "record_count": 50,
+      "columns": [
+        "posicion",
+        "pelicula",
+        "total_bruto_mxn",
+        "pais",
+        "anio"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Películas_mexicanas_más_taquilleras",
+      "updated": "2026-10",
+      "size": 9986,
+      "files": {
+        "csv": {
+          "name": "es-peliculas-mexicanas-mas-taquilleras_ES.csv",
+          "size": 3284
+        },
+        "xlsx": {
+          "name": "es-peliculas-mexicanas-mas-taquilleras_ES.xlsx",
+          "size": 9009
         }
       }
     },

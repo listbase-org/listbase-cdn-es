@@ -1,0 +1,401 @@
+{
+  "id": "es-peliculas-mexicanas-mas-taquilleras",
+  "name": "Películas mexicanas más taquilleras",
+  "title": "Películas mexicanas más taquilleras",
+  "description": "Las 50 películas mexicanas con mayor recaudación en taquilla en México.",
+  "category": "entertainment",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Películas_mexicanas_más_taquilleras",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Películas_mexicanas_más_taquilleras",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "posicion",
+      "label": "Posicion",
+      "type": "number"
+    },
+    {
+      "key": "pelicula",
+      "label": "Pelicula",
+      "type": "string"
+    },
+    {
+      "key": "total_bruto_mxn",
+      "label": "Total Bruto Mxn",
+      "type": "string"
+    },
+    {
+      "key": "pais",
+      "label": "Pais",
+      "type": "string"
+    },
+    {
+      "key": "anio",
+      "label": "Anio",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "posicion": 1,
+      "pelicula": "No Se Aceptan Devoluciones",
+      "total_bruto_mxn": "$601.1 millones",
+      "pais": "México",
+      "anio": 2013
+    },
+    {
+      "posicion": 2,
+      "pelicula": "Nosotros los Nobles",
+      "total_bruto_mxn": "$341.1 millones",
+      "pais": "México",
+      "anio": 2013
+    },
+    {
+      "posicion": 3,
+      "pelicula": "No Manches Frida 2",
+      "total_bruto_mxn": "$329.3 millones",
+      "pais": "México Alemania Estados Unidos",
+      "anio": 2019
+    },
+    {
+      "posicion": 4,
+      "pelicula": "¿Qué Culpa Tiene el Niño?",
+      "total_bruto_mxn": "$277.7 millones",
+      "pais": "México",
+      "anio": 2016
+    },
+    {
+      "posicion": 5,
+      "pelicula": "Mirreyes vs Godínez",
+      "total_bruto_mxn": "$238.7 millones",
+      "pais": "México",
+      "anio": 2019
+    },
+    {
+      "posicion": 6,
+      "pelicula": "No Manches Frida",
+      "total_bruto_mxn": "$222.3 millones",
+      "pais": "México Alemania Estados Unidos Israel",
+      "anio": 2016
+    },
+    {
+      "posicion": 7,
+      "pelicula": "Radical",
+      "total_bruto_mxn": "$208.4 millones",
+      "pais": "México",
+      "anio": 2023
+    },
+    {
+      "posicion": 8,
+      "pelicula": "Hazlo como Hombre",
+      "total_bruto_mxn": "$201.0 millones",
+      "pais": "México Chile",
+      "anio": 2017
+    },
+    {
+      "posicion": 9,
+      "pelicula": "Ya Veremos",
+      "total_bruto_mxn": "$197.7 millones",
+      "pais": "México",
+      "anio": 2018
+    },
+    {
+      "posicion": 10,
+      "pelicula": "La Dictadura Perfecta",
+      "total_bruto_mxn": "$189.2 millones",
+      "pais": "México",
+      "anio": 2014
+    },
+    {
+      "posicion": 11,
+      "pelicula": "Cásese Quien Pueda",
+      "total_bruto_mxn": "$168.3 millones",
+      "pais": "México",
+      "anio": 2014
+    },
+    {
+      "posicion": 12,
+      "pelicula": "Un Gallo con Muchos Huevos",
+      "total_bruto_mxn": "$167.8 millones",
+      "pais": "México",
+      "anio": 2015
+    },
+    {
+      "posicion": 13,
+      "pelicula": "El Crimen del Padre Amaro",
+      "total_bruto_mxn": "$162.1 millones",
+      "pais": "México España",
+      "anio": 2002
+    },
+    {
+      "posicion": 14,
+      "pelicula": "La Boda de Valentina",
+      "total_bruto_mxn": "$159.1 millones",
+      "pais": "México",
+      "anio": 2018
+    },
+    {
+      "posicion": 15,
+      "pelicula": "Little Boy/El Gran Pequeño",
+      "total_bruto_mxn": "$148.3 millones",
+      "pais": "México Estados Unidos",
+      "anio": 2015
+    },
+    {
+      "posicion": 16,
+      "pelicula": "Una Película de Huevos",
+      "total_bruto_mxn": "$142.3 millones",
+      "pais": "México",
+      "anio": 2006
+    },
+    {
+      "posicion": 17,
+      "pelicula": "Mesa de Regalos",
+      "total_bruto_mxn": "$136.6 millones",
+      "pais": "México",
+      "anio": 2025
+    },
+    {
+      "posicion": 18,
+      "pelicula": "Tod@s Caen",
+      "total_bruto_mxn": "$136.0 millones",
+      "pais": "México",
+      "anio": 2019
+    },
+    {
+      "posicion": 19,
+      "pelicula": "Treintona, Soltera y Fantástica",
+      "total_bruto_mxn": "$135.6 millones",
+      "pais": "México",
+      "anio": 2016
+    },
+    {
+      "posicion": 20,
+      "pelicula": "Rudo y Cursi",
+      "total_bruto_mxn": "$127.8 millones",
+      "pais": "México",
+      "anio": 2008
+    },
+    {
+      "posicion": 21,
+      "pelicula": "Cantinflas",
+      "total_bruto_mxn": "$127.4 millones",
+      "pais": "México",
+      "anio": 2014
+    },
+    {
+      "posicion": 22,
+      "pelicula": "A la Mala",
+      "total_bruto_mxn": "$126.5 millones",
+      "pais": "México",
+      "anio": 2015
+    },
+    {
+      "posicion": 23,
+      "pelicula": "No Eres Tú, Soy Yo",
+      "total_bruto_mxn": "$125.7 millones",
+      "pais": "México",
+      "anio": 2010
+    },
+    {
+      "posicion": 24,
+      "pelicula": "3 Idiotas",
+      "total_bruto_mxn": "$125.6 millones",
+      "pais": "México",
+      "anio": 2017
+    },
+    {
+      "posicion": 25,
+      "pelicula": "Perfectos Desconocidos",
+      "total_bruto_mxn": "$123.3 millones",
+      "pais": "México",
+      "anio": 2019
+    },
+    {
+      "posicion": 26,
+      "pelicula": "Kilómetro 31",
+      "total_bruto_mxn": "$118.8 millones",
+      "pais": "México",
+      "anio": 2007
+    },
+    {
+      "posicion": 27,
+      "pelicula": "Sexo, Pudor y Lágrimas",
+      "total_bruto_mxn": "$118.0 millones",
+      "pais": "México",
+      "anio": 1999
+    },
+    {
+      "posicion": 28,
+      "pelicula": "Otra Película de Huevos y un Pollo",
+      "total_bruto_mxn": "$113.5 millones",
+      "pais": "México",
+      "anio": 2009
+    },
+    {
+      "posicion": 29,
+      "pelicula": "Dulce Familia",
+      "total_bruto_mxn": "$112.6 millones",
+      "pais": "México",
+      "anio": 2019
+    },
+    {
+      "posicion": 30,
+      "pelicula": "Don Gato y su Pandilla",
+      "total_bruto_mxn": "$112.2 millones",
+      "pais": "México Argentina",
+      "anio": 2011
+    },
+    {
+      "posicion": 31,
+      "pelicula": "Me Gusta, pero me Asusta",
+      "total_bruto_mxn": "$110.1 millones",
+      "pais": "México",
+      "anio": 2017
+    },
+    {
+      "posicion": 32,
+      "pelicula": "Cómo Cortar a tu Patán",
+      "total_bruto_mxn": "$108.8 millones",
+      "pais": "México",
+      "anio": 2017
+    },
+    {
+      "posicion": 33,
+      "pelicula": "Cindy la Regia",
+      "total_bruto_mxn": "$106.0 millones",
+      "pais": "México",
+      "anio": 2020
+    },
+    {
+      "posicion": 34,
+      "pelicula": "Una Mujer sin Filtro",
+      "total_bruto_mxn": "$103.5 millones",
+      "pais": "México",
+      "anio": 2018
+    },
+    {
+      "posicion": 35,
+      "pelicula": "Y tu Mamá También",
+      "total_bruto_mxn": "$103.0 millones",
+      "pais": "México",
+      "anio": 2001
+    },
+    {
+      "posicion": 36,
+      "pelicula": "El Candidato Honesto",
+      "total_bruto_mxn": "$102.6 millones",
+      "pais": "México",
+      "anio": 2024
+    },
+    {
+      "posicion": 37,
+      "pelicula": "Infelices para Siempre",
+      "total_bruto_mxn": "$101.7 millones",
+      "pais": "México",
+      "anio": 2023
+    },
+    {
+      "posicion": 38,
+      "pelicula": "La Misma Luna",
+      "total_bruto_mxn": "$101.0 millones",
+      "pais": "México Estados Unidos",
+      "anio": 2008
+    },
+    {
+      "posicion": 39,
+      "pelicula": "La Leyenda del Charro Negro",
+      "total_bruto_mxn": "$100.8 millones",
+      "pais": "México",
+      "anio": 2018
+    },
+    {
+      "posicion": 40,
+      "pelicula": "Todos Queremos a Alguien",
+      "total_bruto_mxn": "$100.1 millones",
+      "pais": "México",
+      "anio": 2017
+    },
+    {
+      "posicion": 41,
+      "pelicula": "La Leyenda del Chupacabras",
+      "total_bruto_mxn": "$100.1 millones",
+      "pais": "México",
+      "anio": 2016
+    },
+    {
+      "posicion": 42,
+      "pelicula": "La Boda de mi Mejor Amigo",
+      "total_bruto_mxn": "$100.1 millones",
+      "pais": "México",
+      "anio": 2019
+    },
+    {
+      "posicion": 43,
+      "pelicula": "Arráncame la Vida",
+      "total_bruto_mxn": "$97.0 millones",
+      "pais": "México",
+      "anio": 2008
+    },
+    {
+      "posicion": 44,
+      "pelicula": "Amores Perros",
+      "total_bruto_mxn": "$95.0 millones",
+      "pais": "México",
+      "anio": 2000
+    },
+    {
+      "posicion": 45,
+      "pelicula": "Amor a Primera Visa",
+      "total_bruto_mxn": "$92.1 millones",
+      "pais": "México",
+      "anio": 2013
+    },
+    {
+      "posicion": 46,
+      "pelicula": "Salvando al soldado Pérez",
+      "total_bruto_mxn": "$91.8 millones",
+      "pais": "México",
+      "anio": 2011
+    },
+    {
+      "posicion": 47,
+      "pelicula": "La Leyenda de las Momias de Guanajuato",
+      "total_bruto_mxn": "$91.1 millones",
+      "pais": "México",
+      "anio": 2014
+    },
+    {
+      "posicion": 48,
+      "pelicula": "El Infierno",
+      "total_bruto_mxn": "$84.0 millones",
+      "pais": "México",
+      "anio": 2010
+    },
+    {
+      "posicion": 49,
+      "pelicula": "El Roomie",
+      "total_bruto_mxn": "$81.2 millones",
+      "pais": "México",
+      "anio": 2024
+    },
+    {
+      "posicion": 50,
+      "pelicula": "Hasta que la Boda nos Separe",
+      "total_bruto_mxn": "$81.0 millones",
+      "pais": "México",
+      "anio": 2018
+    }
+  ],
+  "meta": {
+    "title": "Películas mexicanas más taquilleras - Free Download",
+    "description": "Las 50 películas mexicanas con mayor recaudación en taquilla en México. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Películas mexicanas más taquilleras | ListBase",
+    "seo_description": "Download Películas mexicanas más taquilleras — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Películas_mexicanas_más_taquilleras"
+    ]
+  }
+}
