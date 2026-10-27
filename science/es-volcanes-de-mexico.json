@@ -1,0 +1,288 @@
+{
+  "id": "es-volcanes-de-mexico",
+  "name": "Volcanes de México",
+  "title": "Volcanes de México",
+  "description": "Principales volcanes de México con estado, altitud, tipo y última erupción.",
+  "category": "science",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Volcanes_de_México",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Volcanes_de_México",
+  "updated": "2026-10",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "altitud_m",
+      "label": "Altitud M",
+      "type": "number"
+    },
+    {
+      "key": "clasificacion",
+      "label": "Clasificacion",
+      "type": "string"
+    },
+    {
+      "key": "coordenadas",
+      "label": "Coordenadas",
+      "type": "string"
+    },
+    {
+      "key": "ultima_erupcion",
+      "label": "Ultima Erupcion",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nombre": "Ceboruco",
+      "estados": "Nayarit",
+      "altitud_m": 2280,
+      "clasificacion": "Estratovolcán",
+      "coordenadas": "21°07′30″N 104°30′29″O / 21.125, -104.508",
+      "ultima_erupcion": 1875
+    },
+    {
+      "nombre": "Chichonal",
+      "estados": "Chiapas",
+      "altitud_m": 1206,
+      "clasificacion": "Domo de lava",
+      "coordenadas": "17°20′N 93°12′O / 17.33, -93.20",
+      "ultima_erupcion": 1982
+    },
+    {
+      "nombre": "Cofre de Perote",
+      "estados": "Veracruz",
+      "altitud_m": 4282,
+      "clasificacion": "Volcán en escudo",
+      "coordenadas": "19°29′31″N 97°09′00″O / 19.492, -97.15",
+      "ultima_erupcion": "1150 ± 100 años"
+    },
+    {
+      "nombre": "Sierra Negra",
+      "estados": "Puebla",
+      "altitud_m": 4580,
+      "clasificacion": "Estratovolcán",
+      "coordenadas": "18°59′09″N 97°18′36″O / 18.9859, -97.31",
+      "ultima_erupcion": "Pleistoceno"
+    },
+    {
+      "nombre": "Colima",
+      "estados": "Colima y Jalisco",
+      "altitud_m": 3880,
+      "clasificacion": "Estratovolcán",
+      "coordenadas": "19°31′N 103°37′O / 19.51, -103.62",
+      "ultima_erupcion": 2017
+    },
+    {
+      "nombre": "Volcán Las Cumbres",
+      "estados": "Puebla",
+      "altitud_m": 3940,
+      "clasificacion": "Estratovolcán",
+      "coordenadas": "19°09′N 97°16′O / 19.15, -97.27",
+      "ultima_erupcion": "3920 AC ± 50 años"
+    },
+    {
+      "nombre": "Las Derrumbadas",
+      "estados": "Puebla",
+      "altitud_m": 3400,
+      "clasificacion": "Domo de lava",
+      "coordenadas": "19°11′N 97°17′O / 19.18, -97.28",
+      "ultima_erupcion": ""
+    },
+    {
+      "nombre": "La Gloria",
+      "estados": "Puebla",
+      "altitud_m": 3600,
+      "clasificacion": "Campo volcánico",
+      "coordenadas": "19°20′N 97°15′O / 19.33, -97.25",
+      "ultima_erupcion": ""
+    },
+    {
+      "nombre": "Los Humeros",
+      "estados": "Puebla",
+      "altitud_m": 3150,
+      "clasificacion": "Supervolcan",
+      "coordenadas": "19°41′N 97°27′O / 19.68, -97.45",
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Iztaccíhuatl",
+      "estados": "México y Puebla",
+      "altitud_m": 5286,
+      "clasificacion": "Estratovolcán",
+      "coordenadas": "19°07′N 98°23′O / 19.11, -98.38",
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Jocotitlan",
+      "estados": "Estado de México",
+      "altitud_m": 3900,
+      "clasificacion": "Estratovolcán",
+      "coordenadas": "19°43′26″N 99°45′25″O / 19.724, -99.757",
+      "ultima_erupcion": "1270 ± 75 años"
+    },
+    {
+      "nombre": "Jorullo",
+      "estados": "Michoacán",
+      "altitud_m": 1330,
+      "clasificacion": "Cono de escoria",
+      "coordenadas": "19°29′N 102°15′O / 19.48, -102.25",
+      "ultima_erupcion": 1774
+    },
+    {
+      "nombre": "La Malinche",
+      "estados": "Puebla y Tlaxcala",
+      "altitud_m": 4420,
+      "clasificacion": "Estratovolcán",
+      "coordenadas": "19°08′N 98°01′O / 19.14, -98.02",
+      "ultima_erupcion": "1170 A.C ± 50 años"
+    },
+    {
+      "nombre": "Mascota (campo volcánico)",
+      "estados": "Jalisco",
+      "altitud_m": 2540,
+      "clasificacion": "Campo volcánico",
+      "coordenadas": "20°37′N 104°50′O / 20.62, -104.83",
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Campo volcánico",
+      "estados": "Guanajuato y Michoacán",
+      "altitud_m": 3860,
+      "clasificacion": "Campo volcánico",
+      "coordenadas": "19°51′N 101°45′O / 19.85, -101.75",
+      "ultima_erupcion": 1952
+    },
+    {
+      "nombre": "Naolinco",
+      "estados": "Veracruz",
+      "altitud_m": 2000,
+      "clasificacion": "Campo volcánico",
+      "coordenadas": "19°40′N 96°45′O / 19.67, -96.75",
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Nevado de Colima",
+      "estados": "Jalisco",
+      "altitud_m": 4260,
+      "clasificacion": "Estratovolcán",
+      "coordenadas": "19°33′47″N 103°36′29″O / 19.563, -103.608",
+      "ultima_erupcion": ""
+    },
+    {
+      "nombre": "Xinantécatl",
+      "estados": "Estado de México",
+      "altitud_m": 4690,
+      "clasificacion": "Estratovolcán",
+      "coordenadas": "19°06′29″N 99°45′29″O / 19.108, -99.758",
+      "ultima_erupcion": "1350 AC"
+    },
+    {
+      "nombre": "Volcán Papayo",
+      "estados": "México y Puebla",
+      "altitud_m": 3600,
+      "clasificacion": "Estratovolcán",
+      "coordenadas": "19°18′29″N 98°42′00″O / 19.308, -98.70",
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Paricutín",
+      "estados": "Michoacán",
+      "altitud_m": 2800,
+      "clasificacion": "Estratovolcán Stromboliano",
+      "coordenadas": "19°30′N 102°12′O / 19.5, -102.2",
+      "ultima_erupcion": 1952
+    },
+    {
+      "nombre": "Citlaltépetl o pico de Orizaba",
+      "estados": "Puebla y Veracruz",
+      "altitud_m": 5747,
+      "clasificacion": "Estratovolcán Stromboliano",
+      "coordenadas": "19°01′N 97°10′O / 19.02, -97.16",
+      "ultima_erupcion": 1846
+    },
+    {
+      "nombre": "Popocatépetl",
+      "estados": "México , Puebla y Morelos",
+      "altitud_m": 5500,
+      "clasificacion": "Estratovolcán",
+      "coordenadas": "19°18′29″N 98°42′00″O / 19.308, -98.70",
+      "ultima_erupcion": 2023
+    },
+    {
+      "nombre": "San Martín Tuxtla",
+      "estados": "Veracruz",
+      "altitud_m": 1650,
+      "clasificacion": "Estratovolcán",
+      "coordenadas": "18°34′12″N 95°19′12″O / 18.57, -95.320",
+      "ultima_erupcion": 1796
+    },
+    {
+      "nombre": "Sangangüey",
+      "estados": "Nayarit",
+      "altitud_m": 2353,
+      "clasificacion": "Estratovolcán",
+      "coordenadas": "21°27′N 104°44′O / 21.45, -104.73",
+      "ultima_erupcion": 1742
+    },
+    {
+      "nombre": "Xihuingo",
+      "estados": "Hidalgo",
+      "altitud_m": 3240,
+      "clasificacion": "",
+      "coordenadas": "19°29′N 98°19′O / 19.49, -98.32",
+      "ultima_erupcion": ""
+    },
+    {
+      "nombre": "Xitle",
+      "estados": "Ciudad de México",
+      "altitud_m": 3100,
+      "clasificacion": "Cono de ceniza",
+      "coordenadas": "19°12′N 99°15′O / 19.2, -99.25",
+      "ultima_erupcion": "10,000a.C"
+    },
+    {
+      "nombre": "Serdan-Oriental",
+      "estados": "Puebla",
+      "altitud_m": 3485,
+      "clasificacion": "Estratovolcán",
+      "coordenadas": "19°16′N 97°28′O / 19.27, -97.47",
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Zitácuaro-Valle de Bravo",
+      "estados": "Michoacán",
+      "altitud_m": 3500,
+      "clasificacion": "Estratovolcán",
+      "coordenadas": "19°24′N 100°15′O / 19.40, -100.25",
+      "ultima_erupcion": "3050 AC ± 1000 años"
+    },
+    {
+      "nombre": "Sierra la primavera(Jalisco)",
+      "estados": "Jalisco",
+      "altitud_m": 2270,
+      "clasificacion": "Caldera volcánica",
+      "coordenadas": "20°37′N 103°31′O / 20.62, -103.52",
+      "ultima_erupcion": "Holoceno"
+    }
+  ],
+  "meta": {
+    "title": "Volcanes de México - Free Download",
+    "description": "Principales volcanes de México con estado, altitud, tipo y última erupción. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Volcanes de México | ListBase",
+    "seo_description": "Download Volcanes de México — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Volcanes_de_México"
+    ]
+  }
+}

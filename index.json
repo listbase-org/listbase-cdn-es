@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:18:09.218Z",
-  "total_datasets": 493,
-  "total_records": 422096,
+  "generated": "2026-10-27T02:18:11.699Z",
+  "total_datasets": 494,
+  "total_records": 422125,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "society",
@@ -14902,6 +14902,33 @@
         "xlsx": {
           "name": "es-premio-princesa-asturias-investigacion_ES.xlsx",
           "size": 9537
+        }
+      }
+    },
+    {
+      "id": "es-volcanes-de-mexico",
+      "name": "Volcanes de México",
+      "category": "science",
+      "record_count": 29,
+      "columns": [
+        "nombre",
+        "estados",
+        "altitud_m",
+        "clasificacion",
+        "coordenadas",
+        "ultima_erupcion"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Volcanes_de_México",
+      "updated": "2026-10",
+      "size": 8765,
+      "files": {
+        "csv": {
+          "name": "es-volcanes-de-mexico_ES.csv",
+          "size": 3278
+        },
+        "xlsx": {
+          "name": "es-volcanes-de-mexico_ES.xlsx",
+          "size": 8769
         }
       }
     },
