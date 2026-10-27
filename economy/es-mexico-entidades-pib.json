@@ -1,0 +1,396 @@
+{
+  "id": "es-mexico-entidades-pib",
+  "name": "Entidades federativas de México por PIB",
+  "title": "Entidades federativas de México por PIB",
+  "description": "Producto interno bruto de los estados de México en pesos, dólares y PPA, con crecimiento y participación.",
+  "category": "economy",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_México_por_PIB",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_México_por_PIB",
+  "updated": "2026-10",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "posicion",
+      "label": "Posicion",
+      "type": "number"
+    },
+    {
+      "key": "entidad",
+      "label": "Entidad",
+      "type": "string"
+    },
+    {
+      "key": "pib_mxn_millones",
+      "label": "Pib Mxn Millones",
+      "type": "number"
+    },
+    {
+      "key": "pib_usd_millones",
+      "label": "Pib Usd Millones",
+      "type": "number"
+    },
+    {
+      "key": "pib_ppa",
+      "label": "Pib Ppa",
+      "type": "number"
+    },
+    {
+      "key": "crecimiento",
+      "label": "Crecimiento",
+      "type": "string"
+    },
+    {
+      "key": "participacion_pct",
+      "label": "Participacion Pct",
+      "type": "number"
+    },
+    {
+      "key": "pais_comparable_usd",
+      "label": "Pais Comparable Usd",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "posicion": 1,
+      "entidad": "Ciudad de México",
+      "pib_mxn_millones": 3885957,
+      "pib_usd_millones": 280431,
+      "pib_ppa": 560326,
+      "crecimiento": "+2.11",
+      "participacion_pct": 14.98,
+      "pais_comparable_usd": "Perú"
+    },
+    {
+      "posicion": 2,
+      "entidad": "Estado de México",
+      "pib_mxn_millones": 2313164,
+      "pib_usd_millones": 166930,
+      "pib_ppa": 340759,
+      "crecimiento": "+2.07",
+      "participacion_pct": 9.11,
+      "pais_comparable_usd": "Marruecos"
+    },
+    {
+      "posicion": 3,
+      "entidad": "Nuevo León",
+      "pib_mxn_millones": 2059996,
+      "pib_usd_millones": 148660,
+      "pib_ppa": 304102,
+      "crecimiento": "+3.44",
+      "participacion_pct": 8.13,
+      "pais_comparable_usd": "Kuwait"
+    },
+    {
+      "posicion": 4,
+      "entidad": "Jalisco",
+      "pib_mxn_millones": 1864059,
+      "pib_usd_millones": 134520,
+      "pib_ppa": 278667,
+      "crecimiento": "+0.78",
+      "participacion_pct": 7.45,
+      "pais_comparable_usd": "Uzbekistán"
+    },
+    {
+      "posicion": 5,
+      "entidad": "Guanajuato",
+      "pib_mxn_millones": 1170676,
+      "pib_usd_millones": 84482,
+      "pib_ppa": 169818,
+      "crecimiento": "+3.99",
+      "participacion_pct": 4.54,
+      "pais_comparable_usd": "Panamá"
+    },
+    {
+      "posicion": 6,
+      "entidad": "Veracruz",
+      "pib_mxn_millones": 1094822,
+      "pib_usd_millones": 79008,
+      "pib_ppa": 160841,
+      "crecimiento": "+3.07",
+      "participacion_pct": 4.3,
+      "pais_comparable_usd": "Venezuela"
+    },
+    {
+      "posicion": 7,
+      "entidad": "Baja California",
+      "pib_mxn_millones": 947677,
+      "pib_usd_millones": 68389,
+      "pib_ppa": 144383,
+      "crecimiento": -0.03,
+      "participacion_pct": 3.86,
+      "pais_comparable_usd": "Azerbaiyán"
+    },
+    {
+      "posicion": 8,
+      "entidad": "Chihuahua",
+      "pib_mxn_millones": 930855,
+      "pib_usd_millones": 67175,
+      "pib_ppa": 143261,
+      "crecimiento": -0.98,
+      "participacion_pct": 3.83,
+      "pais_comparable_usd": "Turkmenistán"
+    },
+    {
+      "posicion": 9,
+      "entidad": "Coahuila",
+      "pib_mxn_millones": 922286,
+      "pib_usd_millones": 66557,
+      "pib_ppa": 138398,
+      "crecimiento": -0.61,
+      "participacion_pct": 3.7,
+      "pais_comparable_usd": "Turkmenistán"
+    },
+    {
+      "posicion": 10,
+      "entidad": "Puebla",
+      "pib_mxn_millones": 882360,
+      "pib_usd_millones": 63675,
+      "pib_ppa": 132413,
+      "crecimiento": "+3.48",
+      "participacion_pct": 3.54,
+      "pais_comparable_usd": "Uganda"
+    },
+    {
+      "posicion": 11,
+      "entidad": "Sonora",
+      "pib_mxn_millones": 822557,
+      "pib_usd_millones": 59360,
+      "pib_ppa": 123062,
+      "crecimiento": -0.53,
+      "participacion_pct": 3.29,
+      "pais_comparable_usd": "Uganda"
+    },
+    {
+      "posicion": 12,
+      "entidad": "Tamaulipas",
+      "pib_mxn_millones": 764736,
+      "pib_usd_millones": 55187,
+      "pib_ppa": 112215,
+      "crecimiento": "+2.50",
+      "participacion_pct": 3,
+      "pais_comparable_usd": "Bolivia"
+    },
+    {
+      "posicion": 13,
+      "entidad": "Michoacán",
+      "pib_mxn_millones": 681446,
+      "pib_usd_millones": 49176,
+      "pib_ppa": 102863,
+      "crecimiento": "+0.73",
+      "participacion_pct": 2.75,
+      "pais_comparable_usd": "Zimbabue"
+    },
+    {
+      "posicion": 14,
+      "entidad": "Querétaro",
+      "pib_mxn_millones": 621620,
+      "pib_usd_millones": 44859,
+      "pib_ppa": 89397,
+      "crecimiento": "+1.32",
+      "participacion_pct": 2.39,
+      "pais_comparable_usd": "Estonia"
+    },
+    {
+      "posicion": 15,
+      "entidad": "Tabasco",
+      "pib_mxn_millones": 605207,
+      "pib_usd_millones": 43674,
+      "pib_ppa": 77802,
+      "crecimiento": -6.51,
+      "participacion_pct": 2.08,
+      "pais_comparable_usd": "Chipre"
+    },
+    {
+      "posicion": 16,
+      "entidad": "San Luis Potosí",
+      "pib_mxn_millones": 579636,
+      "pib_usd_millones": 41829,
+      "pib_ppa": 86779,
+      "crecimiento": "+1.05",
+      "participacion_pct": 2.32,
+      "pais_comparable_usd": "Nepal"
+    },
+    {
+      "posicion": 17,
+      "entidad": "Sinaloa",
+      "pib_mxn_millones": 514385,
+      "pib_usd_millones": 37120,
+      "pib_ppa": 78924,
+      "crecimiento": -0.53,
+      "participacion_pct": 2.11,
+      "pais_comparable_usd": "Chipre"
+    },
+    {
+      "posicion": 18,
+      "entidad": "Campeche",
+      "pib_mxn_millones": 473399,
+      "pib_usd_millones": 34162,
+      "pib_ppa": 57977,
+      "crecimiento": -6.91,
+      "participacion_pct": 1.55,
+      "pais_comparable_usd": "Albania"
+    },
+    {
+      "posicion": 19,
+      "entidad": "Oaxaca",
+      "pib_mxn_millones": 467374,
+      "pib_usd_millones": 33738,
+      "pib_ppa": 70322,
+      "crecimiento": "+5.41",
+      "participacion_pct": 1.88,
+      "pais_comparable_usd": "El Salvador"
+    },
+    {
+      "posicion": 20,
+      "entidad": "Hidalgo",
+      "pib_mxn_millones": 454116,
+      "pib_usd_millones": 32771,
+      "pib_ppa": 65458,
+      "crecimiento": "+2.85",
+      "participacion_pct": 1.75,
+      "pais_comparable_usd": "Bosnia y Herzegovina"
+    },
+    {
+      "posicion": 21,
+      "entidad": "Yucatán",
+      "pib_mxn_millones": 402786,
+      "pib_usd_millones": 29067,
+      "pib_ppa": 60970,
+      "crecimiento": "+3.88",
+      "participacion_pct": 1.63,
+      "pais_comparable_usd": "Haití"
+    },
+    {
+      "posicion": 22,
+      "entidad": "Chiapas",
+      "pib_mxn_millones": 389795,
+      "pib_usd_millones": 28129,
+      "pib_ppa": 59473,
+      "crecimiento": "+2.68",
+      "participacion_pct": 1.59,
+      "pais_comparable_usd": "Haití"
+    },
+    {
+      "posicion": 23,
+      "entidad": "Quintana Roo",
+      "pib_mxn_millones": 383116,
+      "pib_usd_millones": 27647,
+      "pib_ppa": 57229,
+      "crecimiento": -3.94,
+      "participacion_pct": 1.53,
+      "pais_comparable_usd": "Zambia"
+    },
+    {
+      "posicion": 24,
+      "entidad": "Aguascalientes",
+      "pib_mxn_millones": 328088,
+      "pib_usd_millones": 23676,
+      "pib_ppa": 48626,
+      "crecimiento": -1.86,
+      "participacion_pct": 1.3,
+      "pais_comparable_usd": "Mongolia"
+    },
+    {
+      "posicion": 25,
+      "entidad": "Durango",
+      "pib_mxn_millones": 323802,
+      "pib_usd_millones": 23367,
+      "pib_ppa": 50496,
+      "crecimiento": "+4.72",
+      "participacion_pct": 1.35,
+      "pais_comparable_usd": "Trinidad y Tobago"
+    },
+    {
+      "posicion": 26,
+      "entidad": "Guerrero",
+      "pib_mxn_millones": 314020,
+      "pib_usd_millones": 22661,
+      "pib_ppa": 48252,
+      "crecimiento": "+1.08",
+      "participacion_pct": 1.29,
+      "pais_comparable_usd": "Mozambique"
+    },
+    {
+      "posicion": 27,
+      "entidad": "Morelos",
+      "pib_mxn_millones": 271219,
+      "pib_usd_millones": 19572,
+      "pib_ppa": 39649,
+      "crecimiento": "+1.28",
+      "participacion_pct": 1.06,
+      "pais_comparable_usd": "Nicaragua"
+    },
+    {
+      "posicion": 28,
+      "entidad": "Zacatecas",
+      "pib_mxn_millones": 240512,
+      "pib_usd_millones": 17356,
+      "pib_ppa": 38527,
+      "crecimiento": "+4.89",
+      "participacion_pct": 1.03,
+      "pais_comparable_usd": "Moldavia"
+    },
+    {
+      "posicion": 29,
+      "entidad": "Baja California Sur",
+      "pib_mxn_millones": 187152,
+      "pib_usd_millones": 13505,
+      "pib_ppa": 28053,
+      "crecimiento": "+3.52",
+      "participacion_pct": 0.75,
+      "pais_comparable_usd": "Malaui"
+    },
+    {
+      "posicion": 30,
+      "entidad": "Nayarit",
+      "pib_mxn_millones": 159750,
+      "pib_usd_millones": 11528,
+      "pib_ppa": 25435,
+      "crecimiento": -1.44,
+      "participacion_pct": 0.68,
+      "pais_comparable_usd": "Guinea Ecuatorial"
+    },
+    {
+      "posicion": 31,
+      "entidad": "Colima",
+      "pib_mxn_millones": 157140,
+      "pib_usd_millones": 11340,
+      "pib_ppa": 23939,
+      "crecimiento": "+2.47",
+      "participacion_pct": 0.64,
+      "pais_comparable_usd": "Somalia"
+    },
+    {
+      "posicion": 32,
+      "entidad": "Tlaxcala",
+      "pib_mxn_millones": 151513,
+      "pib_usd_millones": 10933,
+      "pib_ppa": 22433,
+      "crecimiento": "+1.55",
+      "participacion_pct": 0.6,
+      "pais_comparable_usd": "Mauritania"
+    },
+    {
+      "posicion": "—",
+      "entidad": "México",
+      "pib_mxn_millones": 35301585.3,
+      "pib_usd_millones": 1834801,
+      "pib_ppa": 3548152,
+      "crecimiento": "+1.4",
+      "participacion_pct": 100,
+      "pais_comparable_usd": "Corea del Sur"
+    }
+  ],
+  "meta": {
+    "title": "Entidades federativas de México por PIB - Free Download",
+    "description": "Producto interno bruto de los estados de México en pesos, dólares y PPA, con crecimiento y participación. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Entidades federativas de México por PIB | ListBase",
+    "seo_description": "Download Entidades federativas de México por PIB — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_México_por_PIB"
+    ]
+  }
+}

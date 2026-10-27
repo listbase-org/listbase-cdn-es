@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:17:07.078Z",
-  "total_datasets": 471,
-  "total_records": 419377,
+  "generated": "2026-10-27T02:17:09.689Z",
+  "total_datasets": 472,
+  "total_records": 419410,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -218,6 +218,35 @@
         "xlsx": {
           "name": "es-empresas-mas-grandes-mexico_ES.xlsx",
           "size": 10342
+        }
+      }
+    },
+    {
+      "id": "es-mexico-entidades-pib",
+      "name": "Entidades federativas de México por PIB",
+      "category": "economy",
+      "record_count": 33,
+      "columns": [
+        "posicion",
+        "entidad",
+        "pib_mxn_millones",
+        "pib_usd_millones",
+        "pib_ppa",
+        "crecimiento",
+        "participacion_pct",
+        "pais_comparable_usd"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_México_por_PIB",
+      "updated": "2026-10",
+      "size": 10662,
+      "files": {
+        "csv": {
+          "name": "es-mexico-entidades-pib_ES.csv",
+          "size": 2435
+        },
+        "xlsx": {
+          "name": "es-mexico-entidades-pib_ES.xlsx",
+          "size": 9064
         }
       }
     },
