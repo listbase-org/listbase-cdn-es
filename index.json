@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:17:14.854Z",
-  "total_datasets": 474,
-  "total_records": 419491,
+  "generated": "2026-10-27T02:17:17.257Z",
+  "total_datasets": 475,
+  "total_records": 420806,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -14494,6 +14494,32 @@
         "xlsx": {
           "name": "es-mexico-poblacion-historica-entidades_ES.xlsx",
           "size": 10400
+        }
+      }
+    },
+    {
+      "id": "es-municipios-mas-poblados",
+      "name": "Municipios de España por población",
+      "category": "society",
+      "record_count": 1315,
+      "columns": [
+        "posicion",
+        "municipio",
+        "poblacion",
+        "provincia",
+        "comunidad_autonoma"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Municipios_de_España_por_población",
+      "updated": "2026-10",
+      "size": 225946,
+      "files": {
+        "csv": {
+          "name": "es-municipios-mas-poblados_ES.csv",
+          "size": 71738
+        },
+        "xlsx": {
+          "name": "es-municipios-mas-poblados_ES.xlsx",
+          "size": 52436
         }
       }
     },
