@@ -1,0 +1,608 @@
+{
+  "id": "es-virreyes-de-nueva-espana",
+  "name": "Virreyes de Nueva España",
+  "title": "Virreyes de Nueva España",
+  "description": "Virreyes de Nueva España (1535–1821) con inicio y fin de mandato, otros cargos y monarca correspondiente.",
+  "category": "history",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Virreyes_de_Nueva_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Virreyes_de_Nueva_España",
+  "updated": "2026-10",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "string"
+    },
+    {
+      "key": "virrey",
+      "label": "Virrey",
+      "type": "string"
+    },
+    {
+      "key": "inicio",
+      "label": "Inicio",
+      "type": "string"
+    },
+    {
+      "key": "fin",
+      "label": "Fin",
+      "type": "string"
+    },
+    {
+      "key": "altos_cargos",
+      "label": "Altos Cargos",
+      "type": "string"
+    },
+    {
+      "key": "monarca",
+      "label": "Monarca",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": "1.º",
+      "virrey": "Antonio de Mendoza y Pacheco (1490-1552)",
+      "inicio": "14 de noviembre de 1535",
+      "fin": "25 de noviembre de 1550",
+      "altos_cargos": "• Virrey del Perú (1551-1552) • Presidente de la Real Audiencia de México",
+      "monarca": "Carlos I (1516-1556)"
+    },
+    {
+      "numero": "2.º",
+      "virrey": "Luis de Velasco y Ruiz de Alarcón (1511-1564) IV señor de Salinas",
+      "inicio": "25 de noviembre de 1550",
+      "fin": "31 de julio de 1564",
+      "altos_cargos": "• Virrey de Navarra (1547-1549)",
+      "monarca": "Carlos I (1516-1556)"
+    },
+    {
+      "numero": "2.º",
+      "virrey": "Luis de Velasco y Ruiz de Alarcón (1511-1564) IV señor de Salinas",
+      "inicio": "25 de noviembre de 1550",
+      "fin": "31 de julio de 1564",
+      "altos_cargos": "• Virrey de Navarra (1547-1549)",
+      "monarca": "Felipe II (1556-1598)"
+    },
+    {
+      "numero": "3.º",
+      "virrey": "Gastón de Peralta (1510-1587) III marqués de Falces",
+      "inicio": "19 de octubre de 1566",
+      "fin": "11 de noviembre de 1567",
+      "altos_cargos": "",
+      "monarca": "Felipe II (1556-1598)"
+    },
+    {
+      "numero": "4.º",
+      "virrey": "Martín Enríquez de Almansa (1508-1583)",
+      "inicio": "5 de noviembre de 1568",
+      "fin": "4 de octubre de 1580",
+      "altos_cargos": "• Virrey del Perú (1581-1583)",
+      "monarca": "Felipe II (1556-1598)"
+    },
+    {
+      "numero": "5.º",
+      "virrey": "Lorenzo Suárez de Mendoza (1518-1583) V conde de Coruña",
+      "inicio": "4 de octubre de 1580",
+      "fin": "29 de junio de 1583",
+      "altos_cargos": "",
+      "monarca": "Felipe II (1556-1598)"
+    },
+    {
+      "numero": "6.º",
+      "virrey": "Pedro Moya de Contreras (1527-1591) Arzobispo de México",
+      "inicio": "25 de septiembre de 1584",
+      "fin": "17 de noviembre de 1585",
+      "altos_cargos": "• Arzobispo de México (1573-1591) • Visitador Real (1583-1585) • Presidente del Consejo de Indias (1585-1591) • Fundador del Tribunal de la Fe",
+      "monarca": "Felipe II (1556-1598)"
+    },
+    {
+      "numero": "7.º",
+      "virrey": "Álvaro Manrique de Zúñiga (1532-1604) I marqués de Villamanrique",
+      "inicio": "18 de noviembre de 1585",
+      "fin": "25 de enero de 1590",
+      "altos_cargos": "• Presidente de la Real Audiencia de México",
+      "monarca": "Felipe II (1556-1598)"
+    },
+    {
+      "numero": "8.º",
+      "virrey": "Luis de Velasco y Castilla (1534-1617) I marqués de Salinas del Río Pisuerga",
+      "inicio": "25 de enero de 1590",
+      "fin": "5 de noviembre de 1595",
+      "altos_cargos": "• Virrey del Perú (1596-1604) • Presidente del Consejo de Indias (1611-1616)",
+      "monarca": "Felipe II (1556-1598)"
+    },
+    {
+      "numero": "9.º",
+      "virrey": "Gaspar de Zúñiga Acevedo y Velasco (1560-1606) V conde de Monterrey",
+      "inicio": "5 de noviembre de 1595",
+      "fin": "26 de octubre de 1603",
+      "altos_cargos": "• Virrey del Perú (1604-1606)",
+      "monarca": "Felipe II (1556-1598)"
+    },
+    {
+      "numero": "9.º",
+      "virrey": "Gaspar de Zúñiga Acevedo y Velasco (1560-1606) V conde de Monterrey",
+      "inicio": "5 de noviembre de 1595",
+      "fin": "26 de octubre de 1603",
+      "altos_cargos": "• Virrey del Perú (1604-1606)",
+      "monarca": "Felipe III (1598-1621)"
+    },
+    {
+      "numero": "10.º",
+      "virrey": "Juan de Mendoza y Luna (1571-1628) III marqués de Montesclaros",
+      "inicio": "26 de octubre de 1603",
+      "fin": "2 de julio de 1607",
+      "altos_cargos": "• Virrey del Perú (1607-1615)",
+      "monarca": "Felipe III (1598-1621)"
+    },
+    {
+      "numero": "11.º",
+      "virrey": "Luis de Velasco y Castilla (1534-1617) I marqués de Salinas del Río Pisuerga",
+      "inicio": "2 de julio de 1607",
+      "fin": "17 de junio de 1611",
+      "altos_cargos": "• Virrey del Perú (1596-1604) • Presidente del Consejo de Indias (1611-1616)",
+      "monarca": "Felipe III (1598-1621)"
+    },
+    {
+      "numero": "12.º",
+      "virrey": "Francisco García Guerra (1547-1612) Arzobispo de México",
+      "inicio": "17 de junio de 1611",
+      "fin": "22 de febrero de 1612",
+      "altos_cargos": "• Arzobispo de México (1607-1612)",
+      "monarca": "Felipe III (1598-1621)"
+    },
+    {
+      "numero": "13.º",
+      "virrey": "Diego Fernández de Córdoba (1578-1630) I marqués de Guadalcázar",
+      "inicio": "18 de octubre de 1612",
+      "fin": "14 de marzo de 1621",
+      "altos_cargos": "• Virrey del Perú (1622-1629)",
+      "monarca": "Felipe III (1598-1621)"
+    },
+    {
+      "numero": "14.º",
+      "virrey": "Diego Carrillo de Mendoza y Pimentel (1560-1636) I marqués de Gelves",
+      "inicio": "21 de septiembre de 1621",
+      "fin": "15 de enero de 1624",
+      "altos_cargos": "• Virrey de Aragón (1610-1621)",
+      "monarca": "Felipe IV (1621-1665)"
+    },
+    {
+      "numero": "15.º",
+      "virrey": "Rodrigo Pacheco y Osorio (1580-1652) III marqués de Cerralbo",
+      "inicio": "3 de noviembre de 1624",
+      "fin": "16 de septiembre de 1635",
+      "altos_cargos": "",
+      "monarca": "Felipe IV (1621-1665)"
+    },
+    {
+      "numero": "16.º",
+      "virrey": "Lope Díez de Aux y Armendáriz (1575-1644) I marqués de Cadreita",
+      "inicio": "16 de septiembre de 1635",
+      "fin": "28 de agosto de 1640",
+      "altos_cargos": "",
+      "monarca": "Felipe IV (1621-1665)"
+    },
+    {
+      "numero": "17.º",
+      "virrey": "Diego López Pacheco y Portugal (1599-1653) VII duque de Escalona",
+      "inicio": "28 de agosto de 1640",
+      "fin": "9 de junio de 1642",
+      "altos_cargos": "• Virrey de Navarra (1649-1653)",
+      "monarca": "Felipe IV (1621-1665)"
+    },
+    {
+      "numero": "18.º",
+      "virrey": "Juan de Palafox (1600-1659) Obispo de la Puebla de los Ángeles",
+      "inicio": "9 de junio de 1642",
+      "fin": "23 de noviembre de 1642",
+      "altos_cargos": "• Obispo de la Puebla de los Ángeles (1640-55) • Obispo de Osma (1653-1659)",
+      "monarca": "Felipe IV (1621-1665)"
+    },
+    {
+      "numero": "19.º",
+      "virrey": "García Sarmiento de Sotomayor (1595-1659) marqués de Sobroso",
+      "inicio": "23 de noviembre de 1642",
+      "fin": "13 de mayo de 1648",
+      "altos_cargos": "• Virrey del Perú (1648-1655)",
+      "monarca": "Felipe IV (1621-1665)"
+    },
+    {
+      "numero": "20.º",
+      "virrey": "Marcos de Torres y Rueda (1591-1649) Obispo de Yucatán",
+      "inicio": "13 de mayo de 1648",
+      "fin": "22 de abril de 1649",
+      "altos_cargos": "• Obispo de Yucatán (1646-1649)",
+      "monarca": "Felipe IV (1621-1665)"
+    },
+    {
+      "numero": "21.º",
+      "virrey": "Luis Enríquez de Guzmán (1600-1667) IX conde de Alba de Liste",
+      "inicio": "28 de junio de 1650",
+      "fin": "15 de agosto de 1653",
+      "altos_cargos": "• Virrey del Perú (1655-1661)",
+      "monarca": "Felipe IV (1621-1665)"
+    },
+    {
+      "numero": "22.º",
+      "virrey": "Francisco Fernández de la Cueva y Enríquez de Cabrera (1619-1676) VIII duque de Alburquerque",
+      "inicio": "15 de agosto de 1653",
+      "fin": "16 de septiembre de 1660",
+      "altos_cargos": "• Virrey de Sicilia (1667-1670)",
+      "monarca": "Felipe IV (1621-1665)"
+    },
+    {
+      "numero": "23.º",
+      "virrey": "Juan Francisco de Leyva y de la Cerda (1604-1678) VI marqués de la Adrada",
+      "inicio": "16 de septiembre de 1660",
+      "fin": "29 de junio de 1664",
+      "altos_cargos": "",
+      "monarca": "Felipe IV (1621-1665)"
+    },
+    {
+      "numero": "24.º",
+      "virrey": "Diego Osorio de Escobar (1608-1673) Obispo de la Puebla de los Ángeles",
+      "inicio": "29 de junio de 1664",
+      "fin": "15 de octubre de 1664",
+      "altos_cargos": "• Obispo de la Puebla de los Ángeles (1656-73)",
+      "monarca": "Felipe IV (1621-1665)"
+    },
+    {
+      "numero": "25.º",
+      "virrey": "Antonio Sebastián de Toledo Molina y Salazar (1622-1715) II marqués de Mancera",
+      "inicio": "15 de octubre de 1664",
+      "fin": "20 de noviembre de 1673",
+      "altos_cargos": "• Presidente del Consejo de Italia",
+      "monarca": "Carlos II (1665-1700), bajo regencia de Mariana de Austria (1665-1675)"
+    },
+    {
+      "numero": "26.º",
+      "virrey": "Pedro Nuño Colón de Portugal (1618-1673) VI duque de Veragua",
+      "inicio": "20 de noviembre de 1673",
+      "fin": "13 de diciembre de 1673",
+      "altos_cargos": "",
+      "monarca": "Carlos II (1665-1700), bajo regencia de Mariana de Austria (1665-1675)"
+    },
+    {
+      "numero": "27.º",
+      "virrey": "Payo Enríquez de Rivera (1622-1684) Arzobispo de México",
+      "inicio": "13 de diciembre de 1673",
+      "fin": "7 de noviembre de 1680",
+      "altos_cargos": "• Obispo de Guatemala (1657-1667) • Arzobispo de México (1668-1680)",
+      "monarca": "Carlos II (1665-1700), bajo regencia de Mariana de Austria (1665-1675)"
+    },
+    {
+      "numero": "28.º",
+      "virrey": "Tomás de la Cerda y Aragón (1638-1692) III marqués de la Laguna de Camero Viejo",
+      "inicio": "7 de noviembre de 1680",
+      "fin": "16 de junio de 1686",
+      "altos_cargos": "",
+      "monarca": "Carlos II (1665-1700), bajo regencia de Mariana de Austria (1665-1675)"
+    },
+    {
+      "numero": "29.º",
+      "virrey": "Melchor Portocarrero Lasso de la Vega (1636-1705) III conde de la Monclova",
+      "inicio": "16 de junio de 1686",
+      "fin": "20 de noviembre de 1688",
+      "altos_cargos": "• Virrey del Perú (1689-1705)",
+      "monarca": "Carlos II (1665-1700), bajo regencia de Mariana de Austria (1665-1675)"
+    },
+    {
+      "numero": "30.º",
+      "virrey": "Gaspar de la Cerda y Mendoza (1653-1697) VIII conde de Galve",
+      "inicio": "20 de noviembre de 1688",
+      "fin": "27 de febrero de 1696",
+      "altos_cargos": "",
+      "monarca": "Carlos II (1665-1700), bajo regencia de Mariana de Austria (1665-1675)"
+    },
+    {
+      "numero": "31.º",
+      "virrey": "Juan de Ortega Montañés (1627-1708) Obispo de Michoacán",
+      "inicio": "27 de febrero de 1696",
+      "fin": "18 de diciembre de 1696",
+      "altos_cargos": "• Obispo de Durango (1672-1675) • Obispo de Guatemala (1675-1682) • Obispo de Michoacán (1682-1699) • Arzobispo de México (1700-1708)",
+      "monarca": "Carlos II (1665-1700), bajo regencia de Mariana de Austria (1665-1675)"
+    },
+    {
+      "numero": "32.º",
+      "virrey": "José Sarmiento Valladares (1643-1708) I duque de Atrisco",
+      "inicio": "18 de diciembre de 1696",
+      "fin": "4 de noviembre de 1701",
+      "altos_cargos": "• Presidente del Consejo de Indias (1705-1708)",
+      "monarca": "Felipe V (1700-1724)"
+    },
+    {
+      "numero": "33.º",
+      "virrey": "Juan de Ortega Montañés (1627-1708) Arzobispo de México",
+      "inicio": "4 de noviembre de 1701",
+      "fin": "27 de noviembre de 1702",
+      "altos_cargos": "• Obispo de Durango (1672-1675) • Obispo de Guatemala (1675-1682) • Obispo de Michoacán (1682-1699) • Arzobispo de México (1700-1708)",
+      "monarca": "Felipe V (1700-1724)"
+    },
+    {
+      "numero": "34.º",
+      "virrey": "Francisco Fernández de la Cueva y de la Cueva (1666-1733) X duque de Alburquerque",
+      "inicio": "27 de noviembre de 1702",
+      "fin": "13 de noviembre de 1710",
+      "altos_cargos": "",
+      "monarca": "Felipe V (1700-1724)"
+    },
+    {
+      "numero": "35.º",
+      "virrey": "Fernando de Alencastre Noroña y Silva (1662-1717) III duque de Linares",
+      "inicio": "13 de noviembre de 1710",
+      "fin": "16 de julio de 1716",
+      "altos_cargos": "",
+      "monarca": "Felipe V (1700-1724)"
+    },
+    {
+      "numero": "36.º",
+      "virrey": "Baltasar de Zúñiga y Guzmán (1658-1727) I duque de Arión",
+      "inicio": "16 de julio de 1716",
+      "fin": "15 de octubre de 1722",
+      "altos_cargos": "• Virrey de Navarra (1692-1697) • Virrey de Cerdeña (1704-1707) • Pdte del Consejo de Indias (1724-1727)",
+      "monarca": "Felipe V (1700-1724)"
+    },
+    {
+      "numero": "37.º",
+      "virrey": "Juan Vázquez de Acuña y Bejarano (1658-1734) I marqués de Casa Fuerte",
+      "inicio": "15 de octubre de 1722",
+      "fin": "17 de marzo de 1734",
+      "altos_cargos": "• Capitán general de Aragón (1715-1717) • Capitán general de Mallorca (1717-1722)",
+      "monarca": "Felipe V (1700-1724)"
+    },
+    {
+      "numero": "37.º",
+      "virrey": "Juan Vázquez de Acuña y Bejarano (1658-1734) I marqués de Casa Fuerte",
+      "inicio": "15 de octubre de 1722",
+      "fin": "17 de marzo de 1734",
+      "altos_cargos": "• Capitán general de Aragón (1715-1717) • Capitán general de Mallorca (1717-1722)",
+      "monarca": "Luis I (1724)"
+    },
+    {
+      "numero": "37.º",
+      "virrey": "Juan Vázquez de Acuña y Bejarano (1658-1734) I marqués de Casa Fuerte",
+      "inicio": "15 de octubre de 1722",
+      "fin": "17 de marzo de 1734",
+      "altos_cargos": "• Capitán general de Aragón (1715-1717) • Capitán general de Mallorca (1717-1722)",
+      "monarca": "Felipe V (1724-1746)"
+    },
+    {
+      "numero": "38.º",
+      "virrey": "Juan Antonio Vizarrón y Eguiarreta (1682-1747) Arzobispo de México",
+      "inicio": "17 de marzo de 1734",
+      "fin": "17 de agosto de 1740",
+      "altos_cargos": "• Arzobispo de México (1730-1747)",
+      "monarca": "Felipe V (1724-1746)"
+    },
+    {
+      "numero": "39.º",
+      "virrey": "Pedro de Castro Figueroa y Salazar (1678-1741) I duque de la Conquista",
+      "inicio": "17 de agosto de 1740",
+      "fin": "23 de agosto de 1741",
+      "altos_cargos": "• Presidente del Reino de Sicilia (1735-1737)",
+      "monarca": "Felipe V (1724-1746)"
+    },
+    {
+      "numero": "40.º",
+      "virrey": "Pedro de Cebrián y Agustín (1687-1752) V conde de Fuenclara",
+      "inicio": "23 de agosto de 1741",
+      "fin": "9 de julio de 1746",
+      "altos_cargos": "",
+      "monarca": "Felipe V (1724-1746)"
+    },
+    {
+      "numero": "41.º",
+      "virrey": "Juan Francisco de Güemes (1681-1766) I conde de Revilla Gigedo",
+      "inicio": "9 de julio de 1746",
+      "fin": "9 de noviembre de 1755",
+      "altos_cargos": "• Capitán general de Cuba (1734-1746)",
+      "monarca": "Fernando VI (1746-1759)"
+    },
+    {
+      "numero": "42.º",
+      "virrey": "Agustín de Ahumada y Villalón (1715-1760) Marqués consorte de las Amarillas",
+      "inicio": "9 de noviembre de 1755",
+      "fin": "5 de febrero de 1760",
+      "altos_cargos": "",
+      "monarca": "Fernando VI (1746-1759)"
+    },
+    {
+      "numero": "42.º",
+      "virrey": "Agustín de Ahumada y Villalón (1715-1760) Marqués consorte de las Amarillas",
+      "inicio": "9 de noviembre de 1755",
+      "fin": "5 de febrero de 1760",
+      "altos_cargos": "",
+      "monarca": "Carlos III (1759-1788)"
+    },
+    {
+      "numero": "43.º",
+      "virrey": "Francisco Antonio Cagigal de la Vega (1691-1777)",
+      "inicio": "28 de abril de 1760",
+      "fin": "5 de octubre de 1760",
+      "altos_cargos": "• Capitán general de Cuba (1747-1760)",
+      "monarca": "Carlos III (1759-1788)"
+    },
+    {
+      "numero": "44.º",
+      "virrey": "Joaquín de Montserrat (1700-1771) I marqués de Cruillas",
+      "inicio": "5 de octubre de 1760",
+      "fin": "24 de agosto de 1766",
+      "altos_cargos": "",
+      "monarca": "Carlos III (1759-1788)"
+    },
+    {
+      "numero": "45.º",
+      "virrey": "Carlos Francisco de Croix (1703-1778) I marqués de Croix",
+      "inicio": "24 de agosto de 1766",
+      "fin": "22 de septiembre de 1771",
+      "altos_cargos": "• Capitán general de Andalucía • Capitán general de Galicia (1756-1766) • Capitán general de Valencia (1777-1778)",
+      "monarca": "Carlos III (1759-1788)"
+    },
+    {
+      "numero": "46.º",
+      "virrey": "Antonio María de Bucareli y Ursúa (1717-1779)",
+      "inicio": "22 de septiembre de 1771",
+      "fin": "9 de abril de 1779",
+      "altos_cargos": "• Capitán general de Cuba (1766-1771)",
+      "monarca": "Carlos III (1759-1788)"
+    },
+    {
+      "numero": "47.º",
+      "virrey": "Martín de Mayorga (1721-1783)",
+      "inicio": "22 de agosto de 1779",
+      "fin": "28 de abril de 1783",
+      "altos_cargos": "• Capitán general de Guatemala (1773-1779)",
+      "monarca": "Carlos III (1759-1788)"
+    },
+    {
+      "numero": "48.º",
+      "virrey": "Matías de Gálvez y Gallardo (1717-1784)",
+      "inicio": "28 de abril de 1783",
+      "fin": "20 de octubre de 1784",
+      "altos_cargos": "• Capitán general de Guatemala (1779-1783)",
+      "monarca": "Carlos III (1759-1788)"
+    },
+    {
+      "numero": "49.º",
+      "virrey": "Bernardo de Gálvez (1746-1786) I conde de Gálvez",
+      "inicio": "17 de junio de 1785",
+      "fin": "30 de noviembre de 1786",
+      "altos_cargos": "• Gobernador de la Luisiana (1776-1785)",
+      "monarca": "Carlos III (1759-1788)"
+    },
+    {
+      "numero": "50.º",
+      "virrey": "Alonso Núñez de Haro (1729-1800) Arzobispo de México",
+      "inicio": "8 de mayo de 1787",
+      "fin": "16 de agosto de 1787",
+      "altos_cargos": "• Arzobispo de México (1772-1800)",
+      "monarca": "Carlos III (1759-1788)"
+    },
+    {
+      "numero": "51.º",
+      "virrey": "Manuel Antonio Flórez Maldonado (1723-1799)",
+      "inicio": "16 de agosto de 1787",
+      "fin": "16 de octubre de 1789",
+      "altos_cargos": "• Virrey de Nueva Granada (1776-1781)",
+      "monarca": "Carlos III (1759-1788)"
+    },
+    {
+      "numero": "51.º",
+      "virrey": "Manuel Antonio Flórez Maldonado (1723-1799)",
+      "inicio": "16 de agosto de 1787",
+      "fin": "16 de octubre de 1789",
+      "altos_cargos": "• Virrey de Nueva Granada (1776-1781)",
+      "monarca": "Carlos IV (1788-1808)"
+    },
+    {
+      "numero": "52.º",
+      "virrey": "Juan Vicente de Güemes (1738-1799) II conde de Revilla Gigedo",
+      "inicio": "16 de octubre de 1789",
+      "fin": "11 de julio de 1794",
+      "altos_cargos": "• Capitán general de Cataluña (1796-1797)",
+      "monarca": "Carlos IV (1788-1808)"
+    },
+    {
+      "numero": "53.º",
+      "virrey": "Miguel de la Grúa Talamanca (1750-1812) I marqués de Branciforte",
+      "inicio": "11 de julio de 1794",
+      "fin": "31 de mayo de 1798",
+      "altos_cargos": "",
+      "monarca": "Carlos IV (1788-1808)"
+    },
+    {
+      "numero": "54.º",
+      "virrey": "Miguel José de Azanza (1746-1826) I duque de Santa Fe",
+      "inicio": "31 de mayo de 1798",
+      "fin": "29 de abril de 1800",
+      "altos_cargos": "",
+      "monarca": "Carlos IV (1788-1808)"
+    },
+    {
+      "numero": "55.º",
+      "virrey": "Félix Berenguer de Marquina (1733-1826)",
+      "inicio": "29 de abril de 1800",
+      "fin": "4 de enero de 1803",
+      "altos_cargos": "",
+      "monarca": "Carlos IV (1788-1808)"
+    },
+    {
+      "numero": "56.º",
+      "virrey": "José de Iturrigaray (1742-1815)",
+      "inicio": "4 de enero de 1803",
+      "fin": "15 de septiembre de 1808",
+      "altos_cargos": "",
+      "monarca": "Carlos IV (1788-1808)"
+    },
+    {
+      "numero": "56.º",
+      "virrey": "José de Iturrigaray (1742-1815)",
+      "inicio": "4 de enero de 1803",
+      "fin": "15 de septiembre de 1808",
+      "altos_cargos": "",
+      "monarca": "Fernando VII (1808)"
+    },
+    {
+      "numero": "57.º",
+      "virrey": "Pedro de Garibay (1729-1815)",
+      "inicio": "15 de septiembre de 1808",
+      "fin": "19 de julio de 1809",
+      "altos_cargos": "",
+      "monarca": "Junta Suprema Central (1808-1810)"
+    },
+    {
+      "numero": "58.º",
+      "virrey": "Francisco Javier de Lizana y Beaumont (1749-1811) Arzobispo de México",
+      "inicio": "19 de julio de 1809",
+      "fin": "8 de mayo de 1810",
+      "altos_cargos": "• Obispo de Teruel (1800-1802) • Arzobispo de México (1802-1813)",
+      "monarca": "Junta Suprema Central (1808-1810)"
+    },
+    {
+      "numero": "59.º",
+      "virrey": "Francisco Xavier Venegas (1754-1838) I marqués de la Reunión de Nueva España",
+      "inicio": "14 de septiembre de 1810",
+      "fin": "30 de septiembre de 1812",
+      "altos_cargos": "• Virrey de Nueva Granada (1810) • Jefe Político Superior de N. España (30 sep. 1812-4 mar. 1813)",
+      "monarca": "Consejo de Regencia de España e Indias (1810-1814)"
+    },
+    {
+      "numero": "60.º",
+      "virrey": "Félix Calleja (1753-1828) I conde de Calderón",
+      "inicio": "4 de mayo de 1814",
+      "fin": "20 de septiembre de 1816",
+      "altos_cargos": "• Jefe Político Superior de N. España (4 mar. 1813-4 may. 1814)",
+      "monarca": ""
+    },
+    {
+      "numero": "60.º",
+      "virrey": "Félix Calleja (1753-1828) I conde de Calderón",
+      "inicio": "4 de mayo de 1814",
+      "fin": "20 de septiembre de 1816",
+      "altos_cargos": "• Jefe Político Superior de N. España (4 mar. 1813-4 may. 1814)",
+      "monarca": "Fernando VII (1814-1833)"
+    },
+    {
+      "numero": "61.º",
+      "virrey": "Juan José Ruiz de Apodaca y Eliza (1754-1835) I conde de Venadito",
+      "inicio": "20 de septiembre de 1816",
+      "fin": "31 de mayo de 1820",
+      "altos_cargos": "• Jefe Político Superior de la Nueva España (31 may. 1820-5 jun. 1821)",
+      "monarca": "Fernando VII (1814-1833)"
+    }
+  ],
+  "meta": {
+    "title": "Virreyes de Nueva España - Free Download",
+    "description": "Virreyes de Nueva España (1535–1821) con inicio y fin de mandato, otros cargos y monarca correspondiente. Contains 69 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Virreyes de Nueva España | ListBase",
+    "seo_description": "Download Virreyes de Nueva España — 69 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 69 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Virreyes_de_Nueva_España"
+    ]
+  }
+}
