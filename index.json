@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:17:09.689Z",
-  "total_datasets": 472,
-  "total_records": 419410,
+  "generated": "2026-10-27T02:17:12.342Z",
+  "total_datasets": 473,
+  "total_records": 419443,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -14431,6 +14431,41 @@
         "xlsx": {
           "name": "es-comunidades-autonomas-idh_ES.xlsx",
           "size": 7598
+        }
+      }
+    },
+    {
+      "id": "es-mexico-poblacion-historica-entidades",
+      "name": "Población histórica de las entidades federativas de México",
+      "category": "society",
+      "record_count": 33,
+      "columns": [
+        "posicion",
+        "entidad",
+        "poblacion_2020",
+        "poblacion_2010",
+        "poblacion_2000",
+        "poblacion_1990",
+        "poblacion_1980",
+        "poblacion_1970",
+        "poblacion_1960",
+        "poblacion_1950",
+        "poblacion_1940",
+        "poblacion_1930",
+        "poblacion_1921",
+        "poblacion_1910"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_México_por_superficie,_población_y_densidad",
+      "updated": "2026-10",
+      "size": 17778,
+      "files": {
+        "csv": {
+          "name": "es-mexico-poblacion-historica-entidades_ES.csv",
+          "size": 4525
+        },
+        "xlsx": {
+          "name": "es-mexico-poblacion-historica-entidades_ES.xlsx",
+          "size": 10400
         }
       }
     },
