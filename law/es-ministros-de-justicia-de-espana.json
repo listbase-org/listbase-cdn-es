@@ -1,0 +1,3326 @@
+{
+  "id": "es-ministros-de-justicia-de-espana",
+  "name": "Ministros de Justicia de España",
+  "title": "Ministros de Justicia de España",
+  "description": "Lista histórica de secretarios de Gracia y Justicia y ministros de Justicia de España con mandato, partido, gobierno y jefe del Estado.",
+  "category": "law",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Ministros_de_Justicia_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Ministros_de_Justicia_de_España",
+  "updated": "2026-10",
+  "record_count": 326,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "duration",
+      "label": "Duration",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    },
+    {
+      "key": "head_of_state",
+      "label": "Head Of State",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Manuel Vadillo Velasco (1659-1729)",
+      "start": "30 de noviembre de 1714",
+      "end": "2 de abril de 1717",
+      "duration": "2 años y 123 días",
+      "party": "",
+      "government": "José de Grimaldo",
+      "head_of_state": "Felipe V (1714-1724)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José Rodrigo y Villalpando Marqués de la Compuerta (1668-1741)",
+      "start": "2 de abril de 1717",
+      "end": "6 de diciembre de 1741",
+      "duration": "24 años y 248 días",
+      "party": "",
+      "government": "Juan Bautista de Orendáin",
+      "head_of_state": "Luis I (1724)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José Rodrigo y Villalpando Marqués de la Compuerta (1668-1741)",
+      "start": "2 de abril de 1717",
+      "end": "6 de diciembre de 1741",
+      "duration": "24 años y 248 días",
+      "party": "",
+      "government": "José de Grimaldo",
+      "head_of_state": "Felipe V (1724-1746)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José Rodrigo y Villalpando Marqués de la Compuerta (1668-1741)",
+      "start": "2 de abril de 1717",
+      "end": "6 de diciembre de 1741",
+      "duration": "24 años y 248 días",
+      "party": "",
+      "government": "Juan Bautista de Orendáin",
+      "head_of_state": "Felipe V (1724-1746)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José Rodrigo y Villalpando Marqués de la Compuerta (1668-1741)",
+      "start": "2 de abril de 1717",
+      "end": "6 de diciembre de 1741",
+      "duration": "24 años y 248 días",
+      "party": "",
+      "government": "José Patiño Rosales",
+      "head_of_state": "Felipe V (1724-1746)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José Rodrigo y Villalpando Marqués de la Compuerta (1668-1741)",
+      "start": "2 de abril de 1717",
+      "end": "6 de diciembre de 1741",
+      "duration": "24 años y 248 días",
+      "party": "",
+      "government": "Sebastián de la Cuadra y Llarena",
+      "head_of_state": "Felipe V (1724-1746)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Sebastián de la Cuadra y Llarena Marqués de Villarías (1687-1766)",
+      "start": "6 de diciembre de 1741",
+      "end": "8 de octubre de 1747",
+      "duration": "5 años y 306 días",
+      "party": "",
+      "government": "Sebastián de la Cuadra y Llarena",
+      "head_of_state": "Felipe V (1724-1746)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Alonso Muñiz y Caso Osorio Marqués del Campo de Villar (1693-1765)",
+      "start": "8 de octubre de 1747",
+      "end": "16 de enero de 1765",
+      "duration": "17 años y 100 días",
+      "party": "",
+      "government": "José de Carvajal y Lancaster",
+      "head_of_state": "Felipe V (1724-1746)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Alonso Muñiz y Caso Osorio Marqués del Campo de Villar (1693-1765)",
+      "start": "8 de octubre de 1747",
+      "end": "16 de enero de 1765",
+      "duration": "17 años y 100 días",
+      "party": "",
+      "government": "José de Carvajal y Lancaster",
+      "head_of_state": "Fernando VI (1746-1759)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Alonso Muñiz y Caso Osorio Marqués del Campo de Villar (1693-1765)",
+      "start": "8 de octubre de 1747",
+      "end": "16 de enero de 1765",
+      "duration": "17 años y 100 días",
+      "party": "",
+      "government": "Fernando de Silva y Álvarez de Toledo",
+      "head_of_state": "Fernando VI (1746-1759)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Alonso Muñiz y Caso Osorio Marqués del Campo de Villar (1693-1765)",
+      "start": "8 de octubre de 1747",
+      "end": "16 de enero de 1765",
+      "duration": "17 años y 100 días",
+      "party": "",
+      "government": "Ricardo Wall",
+      "head_of_state": "Fernando VI (1746-1759)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Alonso Muñiz y Caso Osorio Marqués del Campo de Villar (1693-1765)",
+      "start": "8 de octubre de 1747",
+      "end": "16 de enero de 1765",
+      "duration": "17 años y 100 días",
+      "party": "",
+      "government": "Ricardo Wall",
+      "head_of_state": "Carlos III (1759-1788)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Alonso Muñiz y Caso Osorio Marqués del Campo de Villar (1693-1765)",
+      "start": "8 de octubre de 1747",
+      "end": "16 de enero de 1765",
+      "duration": "17 años y 100 días",
+      "party": "",
+      "government": "Jerónimo Grimaldi",
+      "head_of_state": "Carlos III (1759-1788)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Manuel de Roda y Arrieta Marqués de Roda (1708-1782)",
+      "start": "16 de enero de 1765",
+      "end": "30 de agosto de 1782",
+      "duration": "17 años y 226 días",
+      "party": "",
+      "government": "Jerónimo Grimaldi",
+      "head_of_state": "Carlos III (1759-1788)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Manuel de Roda y Arrieta Marqués de Roda (1708-1782)",
+      "start": "Interino hasta la llegada del titular: Esquilache (enero-abril de 1765).",
+      "end": "Interino hasta la llegada del titular: Esquilache (enero-abril de 1765).",
+      "duration": "Interino hasta la llegada del titular: Esquilache (enero-abril de 1765).",
+      "party": "",
+      "government": "José Moñino y Redondo",
+      "head_of_state": "Carlos III (1759-1788)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José Moñino y Redondo Conde de Floridablanca (1728-1808) ministro interino",
+      "start": "30 de agosto de 1782",
+      "end": "25 de abril de 1790",
+      "duration": "7 años y 238 días",
+      "party": "",
+      "government": "José Moñino y Redondo",
+      "head_of_state": "Carlos III (1759-1788)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Antonio Porlier Marqués de Bajamar (1722-1813)",
+      "start": "25 de abril de 1790",
+      "end": "13 de julio de 1792",
+      "duration": "2 años y 79 días",
+      "party": "",
+      "government": "José Moñino y Redondo",
+      "head_of_state": "Carlos IV (1788-1808)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Pedro Antonio Acuña y Malvar (1755-1813)",
+      "start": "13 de julio de 1792",
+      "end": "22 de enero de 1794",
+      "duration": "1 año y 193 días",
+      "party": "",
+      "government": "Pedro Pablo Abarca de Bolea",
+      "head_of_state": "Carlos IV (1788-1808)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Pedro Antonio Acuña y Malvar (1755-1813)",
+      "start": "13 de julio de 1792",
+      "end": "22 de enero de 1794",
+      "duration": "1 año y 193 días",
+      "party": "",
+      "government": "Manuel Godoy",
+      "head_of_state": "Carlos IV (1788-1808)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Eugenio de Llaguno y Amírola (1724-1799)",
+      "start": "22 de enero de 1794",
+      "end": "10 de noviembre de 1797",
+      "duration": "3 años y 292 días",
+      "party": "",
+      "government": "Manuel Godoy",
+      "head_of_state": "Carlos IV (1788-1808)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Gaspar Melchor de Jovellanos (1744-1811)",
+      "start": "10 de noviembre de 1797",
+      "end": "16 de agosto de 1798",
+      "duration": "279 días",
+      "party": "",
+      "government": "Manuel Godoy",
+      "head_of_state": "Carlos IV (1788-1808)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José Antonio Caballero Marqués de Caballero (1754-1821)",
+      "start": "16 de agosto de 1798",
+      "end": "5 de abril de 1808",
+      "duration": "9 años y 233 días",
+      "party": "",
+      "government": "Francisco de Saavedra",
+      "head_of_state": "Carlos IV (1788-1808)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José Antonio Caballero Marqués de Caballero (1754-1821)",
+      "start": "16 de agosto de 1798",
+      "end": "5 de abril de 1808",
+      "duration": "9 años y 233 días",
+      "party": "",
+      "government": "Mariano Luis de Urquijo",
+      "head_of_state": "Carlos IV (1788-1808)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José Antonio Caballero Marqués de Caballero (1754-1821)",
+      "start": "Interino por indisposición del del titular: Miguel Cayetano Soler (1805-1807).",
+      "end": "Interino por indisposición del del titular: Miguel Cayetano Soler (1805-1807).",
+      "duration": "Interino por indisposición del del titular: Miguel Cayetano Soler (1805-1807).",
+      "party": "",
+      "government": "Pedro Cevallos Guerra",
+      "head_of_state": "Fernando VII (1808)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Sebastián Piñuela Alonso (1754-1821)",
+      "start": "5 de abril de 1798",
+      "end": "15 de octubre de 1808",
+      "duration": "193 días",
+      "party": "",
+      "government": "Pedro Cevallos Guerra",
+      "head_of_state": "Fernando VII (1808)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Sebastián Piñuela Alonso (1754-1821)",
+      "start": "7 de julio de 1808",
+      "end": "1 de agosto de 1808",
+      "duration": "25 días",
+      "party": "",
+      "government": "Pedro Cevallos Guerra",
+      "head_of_state": "José I (1808-1813)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Manuel Romero Echalecu (1754-1821)",
+      "start": "5 de septiembre de 1808",
+      "end": "27 de febrero de 1812",
+      "duration": "3 años y 175 días",
+      "party": "",
+      "government": "Manuel Negrete de la Torre",
+      "head_of_state": "José I (1808-1813)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Pedro Antonio Arribas (1771-1828) ministro interino",
+      "start": "27 de febrero de 1812",
+      "end": "27 de junio de 1813",
+      "duration": "1 año y 120 días",
+      "party": "",
+      "government": "Miguel José de Azanza",
+      "head_of_state": "José I (1808-1813)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Benito Ramón Hermida Maldonado (1736-1814)",
+      "start": "15 de octubre de 1808",
+      "end": "6 de febrero de 1810",
+      "duration": "1 año y 114 días",
+      "party": "",
+      "government": "Pedro Cevallos Guerra",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Benito Ramón Hermida Maldonado (1736-1814)",
+      "start": "15 de octubre de 1808",
+      "end": "6 de febrero de 1810",
+      "duration": "1 año y 114 días",
+      "party": "",
+      "government": "Martín de Garay",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Benito Ramón Hermida Maldonado (1736-1814)",
+      "start": "15 de octubre de 1808",
+      "end": "6 de febrero de 1810",
+      "duration": "1 año y 114 días",
+      "party": "",
+      "government": "Pedro de Rivero",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Benito Ramón Hermida Maldonado (1736-1814)",
+      "start": "15 de octubre de 1808",
+      "end": "6 de febrero de 1810",
+      "duration": "1 año y 114 días",
+      "party": "",
+      "government": "Francisco de Saavedra",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Nicolás María Sierra (1750-1817)",
+      "start": "6 de marzo de 1810",
+      "end": "19 de enero de 1811",
+      "duration": "319 días",
+      "party": "",
+      "government": "Nicolás Ambrosio Garro y Arizcun",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José Antonio Larrumbide Urquidizar (1756-1827) ministro interino",
+      "start": "19 de enero de 1811",
+      "end": "12 de agosto de 1811",
+      "duration": "205 días",
+      "party": "",
+      "government": "Eusebio Bardají Azara",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Ignacio de la Pezuela (1764-1850) ministro interino",
+      "start": "12 de agosto de 1811",
+      "end": "23 de junio de 1812",
+      "duration": "317 días",
+      "party": "",
+      "government": "José García de León y Pizarro",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Ignacio de la Pezuela (1764-1850) ministro interino",
+      "start": "12 de agosto de 1811",
+      "end": "23 de junio de 1812",
+      "duration": "317 días",
+      "party": "",
+      "government": "Ignacio de la Pezuela",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Antonio Cano Ramírez de Arellano (1768-1836)",
+      "start": "23 de junio de 1812",
+      "end": "10 de octubre de 1813",
+      "duration": "1 año y 109 días",
+      "party": "",
+      "government": "Carlos Martínez de Irujo y Tacón",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Antonio Cano Ramírez de Arellano (1768-1836)",
+      "start": "23 de junio de 1812",
+      "end": "10 de octubre de 1813",
+      "duration": "1 año y 109 días",
+      "party": "",
+      "government": "Pedro Gómez Labrador",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Antonio Cano Ramírez de Arellano (1768-1836)",
+      "start": "23 de junio de 1812",
+      "end": "10 de octubre de 1813",
+      "duration": "1 año y 109 días",
+      "party": "",
+      "government": "Antonio Cano Ramírez de Arellano",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Manuel García Herreros (1767-1836) ministro interino",
+      "start": "10 de octubre de 1813",
+      "end": "4 de mayo de 1814",
+      "duration": "206 días",
+      "party": "",
+      "government": "Juan O'Donojú",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Manuel García Herreros (1767-1836) ministro interino",
+      "start": "10 de octubre de 1813",
+      "end": "4 de mayo de 1814",
+      "duration": "206 días",
+      "party": "",
+      "government": "José Luyando",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Pedro Macanaz (1764-1830)",
+      "start": "4 de mayo de 1814",
+      "end": "8 de noviembre de 1814",
+      "duration": "188 días",
+      "party": "",
+      "government": "José Miguel de Carvajal y Manrique",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Tomás Moyano (1760-1830)",
+      "start": "8 de noviembre de 1814",
+      "end": "27 de enero de 1816",
+      "duration": "1 año y 80 días",
+      "party": "",
+      "government": "Pedro Cevallos Guerra",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Pedro Cevallos Guerra (1759-1838) ministro interino",
+      "start": "27 de enero de 1816",
+      "end": "30 de octubre de 1816",
+      "duration": "277 días",
+      "party": "",
+      "government": "Pedro Cevallos Guerra",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José García de León y Pizarro (1770-1835) ministro interino",
+      "start": "30 de octubre de 1816",
+      "end": "29 de enero de 1817",
+      "duration": "91 días",
+      "party": "",
+      "government": "José García de León y Pizarro",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Juan Esteban Lozano de Torres Marqués de Casa Lozano (1779-1831)",
+      "start": "29 de enero de 1817",
+      "end": "1 de noviembre de 1819",
+      "duration": "2 años y 276 días",
+      "party": "",
+      "government": "José García de León y Pizarro",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Juan Esteban Lozano de Torres Marqués de Casa Lozano (1779-1831)",
+      "start": "29 de enero de 1817",
+      "end": "1 de noviembre de 1819",
+      "duration": "2 años y 276 días",
+      "party": "",
+      "government": "Carlos Martínez de Irujo y Tacón",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Juan Esteban Lozano de Torres Marqués de Casa Lozano (1779-1831)",
+      "start": "29 de enero de 1817",
+      "end": "1 de noviembre de 1819",
+      "duration": "2 años y 276 días",
+      "party": "",
+      "government": "Manuel González Salmón",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Juan Esteban Lozano de Torres Marqués de Casa Lozano (1779-1831)",
+      "start": "29 de enero de 1817",
+      "end": "1 de noviembre de 1819",
+      "duration": "2 años y 276 días",
+      "party": "",
+      "government": "Joaquín José Melgarejo y Saurín",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Bernardo Mozo de Rosales Marqués de Mataflorida (1762-1832)",
+      "start": "1 de noviembre de 1819",
+      "end": "9 de marzo de 1820",
+      "duration": "129 días",
+      "party": "",
+      "government": "Joaquín José Melgarejo y Saurín",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José García de la Torre (1774-1847) ministro interino",
+      "start": "9 de marzo de 1820",
+      "end": "8 de abril de 1820",
+      "duration": "30 días",
+      "party": "",
+      "government": "Evaristo Pérez de Castro",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Manuel García Herreros (1767-1836)",
+      "start": "8 de abril de 1820",
+      "end": "2 de marzo de 1821",
+      "duration": "328 días",
+      "party": "",
+      "government": "Evaristo Pérez de Castro",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Vicente Cano Manuel Ramírez de Arellano (1774-1838)",
+      "start": "2 de marzo de 1821",
+      "end": "28 de febrero de 1822",
+      "duration": "363 días",
+      "party": "",
+      "government": "Eusebio Bardají Azara",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Vicente Cano Manuel Ramírez de Arellano (1774-1838)",
+      "start": "2 de marzo de 1821",
+      "end": "28 de febrero de 1822",
+      "duration": "363 días",
+      "party": "",
+      "government": "Ramón López-Pelegrín",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Vicente Cano Manuel Ramírez de Arellano (1774-1838)",
+      "start": "2 de marzo de 1821",
+      "end": "28 de febrero de 1822",
+      "duration": "363 días",
+      "party": "",
+      "government": "José Gabriel de Silva-Bazán",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Vicente Cano Manuel Ramírez de Arellano (1774-1838)",
+      "start": "2 de marzo de 1821",
+      "end": "28 de febrero de 1822",
+      "duration": "363 días",
+      "party": "",
+      "government": "Ramón López-Pelegrín",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Nicolás María Garelli (1777-1850)",
+      "start": "28 de febrero de 1822",
+      "end": "23 de julio de 1822",
+      "duration": "145 días",
+      "party": "",
+      "government": "Francisco Martínez de la Rosa",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Damián de la Santa (1769-1835) ministro interino",
+      "start": "23 de julio de 1822",
+      "end": "5 de agosto de 1822",
+      "duration": "16 días",
+      "party": "",
+      "government": "Francisco Martínez de la Rosa",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Felipe Benicio Navarro (1774-1847)",
+      "start": "5 de agosto de 1822",
+      "end": "12 de mayo de 1823",
+      "duration": "280 días",
+      "party": "",
+      "government": "Evaristo Fernández de San Miguel",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Felipe Benicio Navarro (1774-1847)",
+      "start": "5 de agosto de 1822",
+      "end": "12 de mayo de 1823",
+      "duration": "280 días",
+      "party": "",
+      "government": "José Manuel de Vadillo",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Felipe Benicio Navarro (1774-1847)",
+      "start": "5 de agosto de 1822",
+      "end": "12 de mayo de 1823",
+      "duration": "280 días",
+      "party": "",
+      "government": "Santiago Usoz y Mozi",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José María Calatrava (1781-1846)",
+      "start": "12 de mayo de 1823",
+      "end": "30 de septiembre de 1823",
+      "duration": "141 días",
+      "party": "",
+      "government": "José María Pando",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José María Calatrava (1781-1846)",
+      "start": "12 de mayo de 1823",
+      "end": "30 de septiembre de 1823",
+      "duration": "141 días",
+      "party": "",
+      "government": "Juan Antonio Yandiola Garay",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José María Calatrava (1781-1846)",
+      "start": "12 de mayo de 1823",
+      "end": "30 de septiembre de 1823",
+      "duration": "141 días",
+      "party": "",
+      "government": "José Luyando",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José García de la Torre (1774-1847) ministro interino",
+      "start": "30 de septiembre de 1823",
+      "end": "2 de diciembre de 1823",
+      "duration": "63 días",
+      "party": "",
+      "government": "Víctor Damián Sáez",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Narciso Heredia Marqués de Heredia (1775-1843)",
+      "start": "2 de diciembre de 1823",
+      "end": "18 de enero de 1824",
+      "duration": "47 días",
+      "party": "",
+      "government": "Carlos Martínez de Irujo y Tacón",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Francisco Tadeo Calomarde (1773-1842)",
+      "start": "18 de enero de 1824",
+      "end": "1 de octubre de 1832",
+      "duration": "8 años y 257 días",
+      "party": "",
+      "government": "Narciso Heredia",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Francisco Tadeo Calomarde (1773-1842)",
+      "start": "18 de enero de 1824",
+      "end": "1 de octubre de 1832",
+      "duration": "8 años y 257 días",
+      "party": "",
+      "government": "Francisco Cea Bermúdez",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Francisco Tadeo Calomarde (1773-1842)",
+      "start": "18 de enero de 1824",
+      "end": "1 de octubre de 1832",
+      "duration": "8 años y 257 días",
+      "party": "",
+      "government": "Pedro de Alcántara Álvarez de Toledo",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Francisco Tadeo Calomarde (1773-1842)",
+      "start": "18 de enero de 1824",
+      "end": "1 de octubre de 1832",
+      "duration": "8 años y 257 días",
+      "party": "",
+      "government": "Manuel González Salmón",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Francisco Tadeo Calomarde (1773-1842)",
+      "start": "18 de enero de 1824",
+      "end": "1 de octubre de 1832",
+      "duration": "8 años y 257 días",
+      "party": "",
+      "government": "Antonio de Saavedra y Jofré",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "José Cafranga Costilla (1780-1854)",
+      "start": "1 de octubre de 1832",
+      "end": "14 de diciembre de 1832",
+      "duration": "74 días",
+      "party": "",
+      "government": "Francisco Cea Bermúdez",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Francisco Fernández del Pino Conde de Pinofiel (1768-1843)",
+      "start": "14 de diciembre de 1832",
+      "end": "25 de marzo de 1833",
+      "duration": "101 días",
+      "party": "",
+      "government": "Francisco Cea Bermúdez",
+      "head_of_state": "Fernando VII (1808-1833)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Juan Gualberto González Bravo (1777-1857)",
+      "start": "25 de marzo de 1833",
+      "end": "15 de enero de 1834",
+      "duration": "296 días",
+      "party": "",
+      "government": "Francisco Cea Bermúdez",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Antiguo Régimen"
+    },
+    {
+      "name": "Nicolás María Garelli (1777-1850)",
+      "start": "15 de enero de 1834",
+      "end": "7 de junio de 1835",
+      "duration": "1 año y 33 días",
+      "party": "Moderado",
+      "government": "Francisco Martínez de la Rosa",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Juan de la Dehesa (1779-1839)",
+      "start": "17 de febrero de 1835",
+      "end": "13 de junio de 1835",
+      "duration": "116 días",
+      "party": "Moderado",
+      "government": "Francisco Martínez de la Rosa",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Juan de la Dehesa (1779-1839)",
+      "start": "17 de febrero de 1835",
+      "end": "13 de junio de 1835",
+      "duration": "116 días",
+      "party": "Moderado",
+      "government": "José María Queipo de Llano",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel García Herreros (1786-1843)",
+      "start": "13 de junio de 1835",
+      "end": "27 de septiembre de 1835",
+      "duration": "106 días",
+      "party": "Progresista",
+      "government": "José María Queipo de Llano",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel García Herreros (1786-1843)",
+      "start": "13 de junio de 1835",
+      "end": "27 de septiembre de 1835",
+      "duration": "106 días",
+      "party": "Progresista",
+      "government": "Miguel Ricardo de Álava",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Álvaro Gómez Becerra (1771-1855)",
+      "start": "28 de septiembre de 1835",
+      "end": "15 de mayo de 1836",
+      "duration": "230 días",
+      "party": "Progresista",
+      "government": "Juan Álvarez Mendizábal",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Álvaro Gómez Becerra (1771-1855)",
+      "start": "28 de septiembre de 1835",
+      "end": "15 de mayo de 1836",
+      "duration": "230 días",
+      "party": "Progresista",
+      "government": "Ildefonso Díez de Rivera",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel Barrio Ayuso (1788-1850)",
+      "start": "19 de mayo de 1836",
+      "end": "14 de agosto de 1836",
+      "duration": "87 días",
+      "party": "Moderado",
+      "government": "Francisco Javier de Istúriz",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José Landero y Corchado (1784-1848)",
+      "start": "14 de agosto de 1836",
+      "end": "18 de agosto de 1837",
+      "duration": "1 año y 4 días",
+      "party": "Progresista",
+      "government": "José María Calatrava",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Ramón Salvato (1782-1839)",
+      "start": "18 de agosto de 1837",
+      "end": "1 de octubre de 1837",
+      "duration": "44 días",
+      "party": "Progresista",
+      "government": "Baldomero Espartero",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Ramón Salvato (1782-1839)",
+      "start": "18 de agosto de 1837",
+      "end": "1 de octubre de 1837",
+      "duration": "44 días",
+      "party": "Progresista",
+      "government": "Eusebio Bardají Azara",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Juan Antonio Castejón (1785-1)",
+      "start": "1 de octubre de 1837",
+      "end": "4 de octubre de 1837",
+      "duration": "3 días",
+      "party": "Progresista",
+      "government": "Eusebio Bardají Azara",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Pablo Mata Vigil (1782-1839)",
+      "start": "4 de octubre de 1837",
+      "end": "16 de diciembre de 1837",
+      "duration": "73 días",
+      "party": "Progresista",
+      "government": "Eusebio Bardají Azara",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Francisco Castro y Orozco Marqués de Gerona (1809-1847)",
+      "start": "16 de diciembre de 1837",
+      "end": "6 de septiembre de 1838",
+      "duration": "264 días",
+      "party": "Moderado",
+      "government": "Narciso Heredia y Begines de los Ríos",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Domingo Ruiz de la Vega (1789-1871)",
+      "start": "6 de septiembre de 1838",
+      "end": "21 de noviembre de 1838",
+      "duration": "94 días",
+      "party": "Moderado",
+      "government": "Bernardino Fernández de Velasco",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio González y González Marqués de Valdeterrazo (1792-1876)",
+      "start": "21 de noviembre de 1838",
+      "end": "9 de diciembre de 1838",
+      "duration": "18 días",
+      "party": "Progresista",
+      "government": "Bernardino Fernández de Velasco",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Lorenzo Arrazola (1795-1873)",
+      "start": "9 de diciembre de 1838",
+      "end": "20 de julio de 1840",
+      "duration": "1 año y 224 días",
+      "party": "Moderado",
+      "government": "Evaristo Pérez de Castro",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio González y González Marqués de Valdeterrazo (1792-1876)",
+      "start": "20 de julio de 1840",
+      "end": "12 de agosto de 1840",
+      "duration": "23 días",
+      "party": "Progresista",
+      "government": "Antonio González y González",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Francisco Agustín Silvela y Blanco (1792-1876)",
+      "start": "12 de agosto de 1840",
+      "end": "29 de agosto de 1840",
+      "duration": "17 días",
+      "party": "Progresista",
+      "government": "Valentín Ferraz",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Modesto Cortázar (1783-1862)",
+      "start": "29 de agosto de 1840",
+      "end": "11 de septiembre de 1840",
+      "duration": "13 días",
+      "party": "Progresista",
+      "government": "Modesto Cortázar",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Álvaro Gómez Becerra (1771-1855)",
+      "start": "11 de septiembre de 1840",
+      "end": "20 de mayo de 1941",
+      "duration": "251 días",
+      "party": "Progresista",
+      "government": "Vicente Sancho",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Álvaro Gómez Becerra (1771-1855)",
+      "start": "11 de septiembre de 1840",
+      "end": "20 de mayo de 1941",
+      "duration": "251 días",
+      "party": "Progresista",
+      "government": "Baldomero Espartero",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Álvaro Gómez Becerra (1771-1855)",
+      "start": "11 de septiembre de 1840",
+      "end": "20 de mayo de 1941",
+      "duration": "251 días",
+      "party": "Progresista",
+      "government": "Joaquín María Ferrer",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José Alonso Ruiz de Conejares (1781-1855)",
+      "start": "20 de mayo de 1841",
+      "end": "17 de junio de 1842",
+      "duration": "1 año y 28 días",
+      "party": "Progresista",
+      "government": "Antonio González y González",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Miguel Antonio de Zumalacárregui (1773-1846)",
+      "start": "17 de junio de 1842",
+      "end": "9 de mayo de 1843",
+      "duration": "326 días",
+      "party": "Progresista",
+      "government": "José Ramón Rodil",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Joaquín María López (1798-1855)",
+      "start": "9 de mayo de 1843",
+      "end": "19 de mayo de 1843",
+      "duration": "10 días",
+      "party": "Progresista",
+      "government": "Joaquín María López",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Álvaro Gómez Becerra (1771-1855)",
+      "start": "19 de mayo de 1843",
+      "end": "23 de julio de 1843",
+      "duration": "65 días",
+      "party": "Progresista",
+      "government": "Álvaro Gómez Becerra",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Joaquín María López (1798-1855)",
+      "start": "23 de julio de 1843",
+      "end": "24 de noviembre de 1843",
+      "duration": "124 días",
+      "party": "Progresista",
+      "government": "Joaquín María López",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Claudio Antón de Luzuriaga (1792-1874)",
+      "start": "24 de noviembre de 1843",
+      "end": "1 de diciembre de 1843",
+      "duration": "7 días",
+      "party": "Progresista",
+      "government": "Salustiano Olózaga",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Luis Mayans y Enríquez de Navarra (1805-1880)",
+      "start": "5 de diciembre de 1843",
+      "end": "12 de febrero de 1846",
+      "duration": "2 años y 69 días",
+      "party": "Moderado",
+      "government": "Luis González Bravo",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Luis Mayans y Enríquez de Navarra (1805-1880)",
+      "start": "5 de diciembre de 1843",
+      "end": "12 de febrero de 1846",
+      "duration": "2 años y 69 días",
+      "party": "Moderado",
+      "government": "Ramón María Narváez",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Lorenzo Arrazola (1795-1873)",
+      "start": "12 de febrero de 1846",
+      "end": "16 de marzo de 1846",
+      "duration": "32 días",
+      "party": "Moderado",
+      "government": "Manuel Pando Fernández de Pinedo",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Pedro Egaña (1803-1885)",
+      "start": "16 de marzo de 1846",
+      "end": "5 de abril de 1846",
+      "duration": "20 días",
+      "party": "Moderado",
+      "government": "Ramón María Narváez",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Joaquín Díaz Caneja (1777-1851)",
+      "start": "5 de abril de 1846",
+      "end": "28 de enero de 1847",
+      "duration": "298 días",
+      "party": "Moderado",
+      "government": "Francisco Javier de Istúriz",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Juan Bravo Murillo (1803-1873)",
+      "start": "28 de enero de 1847",
+      "end": "28 de marzo de 1847",
+      "duration": "59 días",
+      "party": "Moderado",
+      "government": "Carlos Martínez de Irujo y McKean",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio Benavides Fernández de Navarrete (1807-1884) ministro interino",
+      "start": "28 de marzo de 1847",
+      "end": "30 de marzo de 1847",
+      "duration": "2 días",
+      "party": "Moderado",
+      "government": "Joaquín Francisco Pacheco",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Florencio Rodríguez Vaamonde (1807-1886)",
+      "start": "30 de marzo de 1847",
+      "end": "31 de agosto de 1847",
+      "duration": "154 días",
+      "party": "Moderado",
+      "government": "Joaquín Francisco Pacheco",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Florencio García Goyena (1783-1855) ministro interino",
+      "start": "31 de agosto de 1847",
+      "end": "4 de octubre de 1847",
+      "duration": "34 días",
+      "party": "Moderado",
+      "government": "Florencio García Goyena",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Lorenzo Arrazola (1795-1873)",
+      "start": "4 de octubre de 1847",
+      "end": "19 de octubre de 1849",
+      "duration": "2 años y 15 días",
+      "party": "Moderado",
+      "government": "Ramón María Narváez",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José Manresa",
+      "start": "19 de octubre de 1849",
+      "end": "20 de octubre de 1849",
+      "duration": "1 día",
+      "party": "Moderado",
+      "government": "Serafín María de Sotto",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Lorenzo Arrazola (1795-1873)",
+      "start": "20 de octubre de 1849",
+      "end": "14 de enero de 1851",
+      "duration": "1 año y 86 días",
+      "party": "Moderado",
+      "government": "Ramón María Narváez",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Ventura González Romero (1796-1870)",
+      "start": "14 de enero de 1851",
+      "end": "14 de diciembre de 1852",
+      "duration": "1 año y 335 días",
+      "party": "Moderado",
+      "government": "Juan Bravo Murillo",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Federico Vahey Alba (1807-1856)",
+      "start": "14 de diciembre de 1852",
+      "end": "9 de abril de 1853",
+      "duration": "116 días",
+      "party": "Moderado",
+      "government": "Federico Roncali",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Alejandro Llorente (1814-1901) ministro interino",
+      "start": "9 de abril de 1853",
+      "end": "14 de abril de 1853",
+      "duration": "5 días",
+      "party": "Moderado",
+      "government": "Federico Roncali",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Pablo Govantes (1785-1865)",
+      "start": "14 de abril de 1853",
+      "end": "19 de septiembre de 1853",
+      "duration": "158 días",
+      "party": "Moderado",
+      "government": "Francisco Lersundi Hormaechea",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José de Castro y Orozco Marqués de Gerona (1809-1869)",
+      "start": "19 de septiembre de 1853",
+      "end": "16 de enero de 1854",
+      "duration": "119 días",
+      "party": "Moderado",
+      "government": "Luis José Sartorius",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Jacinto Félix Domenech (1802-1863)",
+      "start": "16 de enero de 1854",
+      "end": "17 de julio de 1854",
+      "duration": "182 días",
+      "party": "Moderado",
+      "government": "Luis José Sartorius",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Pedro Gómez de la Serna (1806-1871)",
+      "start": "17 de julio de 1854",
+      "end": "30 de julio de 1854",
+      "duration": "13 días",
+      "party": "Moderado",
+      "government": "Duque de Rivas",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Pedro Gómez de la Serna (1806-1871)",
+      "start": "17 de julio de 1854",
+      "end": "30 de julio de 1854",
+      "duration": "13 días",
+      "party": "Moderado",
+      "government": "Baldomero Espartero",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José Alonso Ruiz de Conejares (1781-1855)",
+      "start": "30 de julio de 1854",
+      "end": "29 de noviembre de 1854",
+      "duration": "122 días",
+      "party": "Progresista",
+      "government": "Baldomero Espartero",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Joaquín Aguirre de la Peña (1807-1869)",
+      "start": "29 de noviembre de 1854",
+      "end": "6 de junio de 1855",
+      "duration": "189 días",
+      "party": "Progresista",
+      "government": "Baldomero Espartero",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel de la Fuente Andrés (1808-1867)",
+      "start": "6 de junio de 1855",
+      "end": "15 de enero de 1856",
+      "duration": "223 días",
+      "party": "Progresista",
+      "government": "Baldomero Espartero",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José Arias Uría (1799-1873)",
+      "start": "15 de enero de 1856",
+      "end": "14 de julio de 1856",
+      "duration": "181 días",
+      "party": "Progresista",
+      "government": "Baldomero Espartero",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Claudio Antón de Luzuriaga (1792-1874)",
+      "start": "14 de julio de 1856",
+      "end": "7 de agosto de 1856",
+      "duration": "24 días",
+      "party": "",
+      "government": "Leopoldo O'Donnell",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Cirilo Álvarez (1807-1878)",
+      "start": "7 de agosto de 1856",
+      "end": "12 de octubre de 1856",
+      "duration": "66 días",
+      "party": "",
+      "government": "Leopoldo O'Donnell",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel Seijas Lozano (1800-1868)",
+      "start": "12 de octubre de 1856",
+      "end": "15 de octubre de 1857",
+      "duration": "1 año y 3 días",
+      "party": "Moderado",
+      "government": "Ramón María Narváez",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Fernando Álvarez Martínez (1814-1883)",
+      "start": "15 de octubre de 1857",
+      "end": "25 de octubre de 1857",
+      "duration": "10 días",
+      "party": "Moderado",
+      "government": "Francisco Armero Peñaranda",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Joaquín José Casaus (1793-1885)",
+      "start": "25 de octubre de 1857",
+      "end": "14 de enero de 1858",
+      "duration": "81 días",
+      "party": "Moderado",
+      "government": "Francisco Armero Peñaranda",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José Fernández de la Hoz (1812-1887)",
+      "start": "14 de enero de 1858",
+      "end": "30 de junio de 1858",
+      "duration": "167 días",
+      "party": "Moderado",
+      "government": "Francisco Javier de Istúriz",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Santiago Fernández Negrete (1799-1875)",
+      "start": "30 de junio de 1858",
+      "end": "17 de enero de 1863",
+      "duration": "4 años y 201 días",
+      "party": "Unión Liberal",
+      "government": "Leopoldo O'Donnell",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Nicomedes Pastor Díaz (1811-1863)",
+      "start": "17 de enero de 1863",
+      "end": "9 de febrero de 1863",
+      "duration": "23 días",
+      "party": "Unión Liberal",
+      "government": "Leopoldo O'Donnell",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Pedro Nolasco Aurioles (1818-1884)",
+      "start": "9 de febrero de 1863",
+      "end": "2 de marzo de 1863",
+      "duration": "21 días",
+      "party": "Unión Liberal",
+      "government": "Leopoldo O'Donnell",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Rafael Monares Cebrián (1811-1877)",
+      "start": "2 de marzo de 1863",
+      "end": "17 de enero de 1864",
+      "duration": "321 días",
+      "party": "Moderado",
+      "government": "Manuel Pando Fernández de Pinedo",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Fernando Álvarez Martínez (1814-1883)",
+      "start": "17 de enero de 1864",
+      "end": "1 de marzo de 1864",
+      "duration": "44 días",
+      "party": "Moderado",
+      "government": "Lorenzo Arrazola",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Luis Mayans y Enríquez de Navarra (1805-1880)",
+      "start": "1 de marzo de 1864",
+      "end": "16 de septiembre de 1864",
+      "duration": "199 días",
+      "party": "Moderado",
+      "government": "Alejandro Mon y Menéndez",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Lorenzo Arrazola (1795-1873)",
+      "start": "16 de septiembre de 1864",
+      "end": "21 de junio de 1865",
+      "duration": "278 días",
+      "party": "Moderado",
+      "government": "Ramón María Narváez",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Fernando Calderón Collantes Marqués de Reinosa (1811-1890)",
+      "start": "21 de junio de 1865",
+      "end": "10 de julio de 1866",
+      "duration": "1 año y 19 días",
+      "party": "Unión Liberal",
+      "government": "Leopoldo O'Donnell",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Lorenzo Arrazola (1795-1873)",
+      "start": "10 de julio de 1866",
+      "end": "27 de junio de 1867",
+      "duration": "352 días",
+      "party": "Moderado",
+      "government": "Ramón María Narváez",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Joaquín de Roncali y Ceruti Marqués de Roncali (1795-1873)",
+      "start": "27 de junio de 1867",
+      "end": "15 de junio de 1868",
+      "duration": "354 días",
+      "party": "Moderado",
+      "government": "Ramón María Narváez",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Carlos María Coronado (1814-?)",
+      "start": "15 de junio de 1868",
+      "end": "19 de septiembre de 1868",
+      "duration": "96 días",
+      "party": "Moderado",
+      "government": "Luis González Bravo",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Vicente Gomis y Serra (1783-1855) ministro interino",
+      "start": "19 de septiembre de 1868",
+      "end": "8 de octubre de 1868",
+      "duration": "19 días",
+      "party": "Moderado",
+      "government": "José Gutiérrez de la Concha",
+      "head_of_state": "Isabel II (1833-1868)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio Romero Ortiz (1822-1884)",
+      "start": "8 de octubre de 1868",
+      "end": "18 de junio de 1869",
+      "duration": "253 días",
+      "party": "Unión Liberal",
+      "government": "Francisco Serrano y Domínguez",
+      "head_of_state": "Francisco Serrano (regente) (1869-1871)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Cristóbal Martín de Herrera (1831-1878)",
+      "start": "18 de junio de 1869",
+      "end": "13 de julio de 1869",
+      "duration": "25 días",
+      "party": "Progresista",
+      "government": "Juan Prim",
+      "head_of_state": "Francisco Serrano (regente) (1869-1871)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel Ruiz Zorrilla (1833-1895)",
+      "start": "13 de julio de 1869",
+      "end": "9 de enero de 1870",
+      "duration": "180 días",
+      "party": "Progresista",
+      "government": "Juan Prim",
+      "head_of_state": "Francisco Serrano (regente) (1869-1871)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Eugenio Montero Ríos (1832-1914)",
+      "start": "9 de enero de 1870",
+      "end": "4 de enero de 1871",
+      "duration": "360 días",
+      "party": "Progresista",
+      "government": "Juan Prim",
+      "head_of_state": "Francisco Serrano (regente) (1869-1871)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Eugenio Montero Ríos (1832-1914)",
+      "start": "9 de enero de 1870",
+      "end": "4 de enero de 1871",
+      "duration": "360 días",
+      "party": "Progresista",
+      "government": "Juan Bautista Topete",
+      "head_of_state": "Francisco Serrano (regente) (1869-1871)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Augusto Ulloa (1823-1879)",
+      "start": "4 de enero de 1871",
+      "end": "24 de julio de 1871",
+      "duration": "201 días",
+      "party": "Constitucionalista",
+      "government": "Francisco Serrano y Domínguez",
+      "head_of_state": "Amadeo I (1871-1873)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Eugenio Montero Ríos (1832-1914)",
+      "start": "24 de julio de 1871",
+      "end": "5 de octubre de 1871",
+      "duration": "73 días",
+      "party": "Progresista",
+      "government": "Manuel Ruiz Zorrilla",
+      "head_of_state": "Amadeo I (1871-1873)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Eduardo Alonso Colmenares (1820-1888)",
+      "start": "5 de octubre de 1871",
+      "end": "26 de mayo de 1872",
+      "duration": "234 días",
+      "party": "Constitucionalista",
+      "government": "José Malcampo",
+      "head_of_state": "Amadeo I (1871-1873)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Eduardo Alonso Colmenares (1820-1888)",
+      "start": "5 de octubre de 1871",
+      "end": "26 de mayo de 1872",
+      "duration": "234 días",
+      "party": "Constitucionalista",
+      "government": "Práxedes Mateo Sagasta",
+      "head_of_state": "Amadeo I (1871-1873)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Alejandro Groizard (1830-1919)",
+      "start": "26 de mayo de 1872",
+      "end": "13 de junio de 1872",
+      "duration": "18 días",
+      "party": "Constitucionalista",
+      "government": "Francisco Serrano y Domínguez",
+      "head_of_state": "Amadeo I (1871-1873)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Eugenio Montero Ríos (1832-1914)",
+      "start": "13 de junio de 1872",
+      "end": "12 de febrero de 1873",
+      "duration": "244 días",
+      "party": "Progresista",
+      "government": "Manuel Ruiz Zorrilla",
+      "head_of_state": "Amadeo I (1871-1873)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Nicolás Salmerón (1838-1908)",
+      "start": "12 de febrero de 1873",
+      "end": "11 de junio de 1873",
+      "duration": "120 días",
+      "party": "Republicano",
+      "government": "Estanislao Figueras",
+      "head_of_state": "Lista de presidentes de la I República",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José Fernando González (1836-1915)",
+      "start": "11 de junio de 1873",
+      "end": "28 de junio de 1873",
+      "duration": "17 días",
+      "party": "Republicano",
+      "government": "Francisco Pi y Margall",
+      "head_of_state": "Lista de presidentes de la I República",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Joaquín Gil Berges (1834-1920)",
+      "start": "28 de junio de 1873",
+      "end": "18 de julio de 1873",
+      "duration": "20 días",
+      "party": "Republicano",
+      "government": "Francisco Pi y Margall",
+      "head_of_state": "Lista de presidentes de la I República",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Pedro José Moreno Rodríguez (1839-1908)",
+      "start": "18 de julio de 1873",
+      "end": "4 de septiembre de 1873",
+      "duration": "48 días",
+      "party": "Republicano Unitario",
+      "government": "Nicolás Salmerón",
+      "head_of_state": "Lista de presidentes de la I República",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Luis del Río y Ramos (1824-1900)",
+      "start": "8 de septiembre de 1873",
+      "end": "3 de enero de 1874",
+      "duration": "117 días",
+      "party": "Republicano Unitario",
+      "government": "Emilio Castelar",
+      "head_of_state": "Lista de presidentes de la I República",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Eugenio García Ruiz (1818-1883) ministro interino",
+      "start": "3 de enero de 1874",
+      "end": "4 de enero de 1874",
+      "duration": "1 día",
+      "party": "Partido Constitucionalista",
+      "government": "Francisco Serrano y Domínguez",
+      "head_of_state": "Lista de presidentes de la I República",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Cristino Martos (1830-1893)",
+      "start": "4 de enero de 1874",
+      "end": "13 de mayo de 1874",
+      "duration": "129 días",
+      "party": "Partido Constitucionalista",
+      "government": "Francisco Serrano y Domínguez",
+      "head_of_state": "Lista de presidentes de la I República",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel Alonso Martínez (1827-1891)",
+      "start": "13 de mayo de 1874",
+      "end": "3 de septiembre de 1874",
+      "duration": "113 días",
+      "party": "Partido Constitucionalista",
+      "government": "Juan de Zavala y de la Puente",
+      "head_of_state": "Lista de presidentes de la I República",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Eduardo Alonso Colmenares (1820-1888)",
+      "start": "3 de septiembre de 1874",
+      "end": "31 de diciembre de 1874",
+      "duration": "119 días",
+      "party": "Partido Constitucionalista",
+      "government": "Juan de Zavala y de la Puente",
+      "head_of_state": "Lista de presidentes de la I República",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Eduardo Alonso Colmenares (1820-1888)",
+      "start": "3 de septiembre de 1874",
+      "end": "31 de diciembre de 1874",
+      "duration": "119 días",
+      "party": "Partido Constitucionalista",
+      "government": "Práxedes Mateo Sagasta",
+      "head_of_state": "Lista de presidentes de la I República",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Francisco de Cárdenas Espejo (1817-1898)",
+      "start": "31 de diciembre de 1874",
+      "end": "12 de septiembre de 1875",
+      "duration": "255 días",
+      "party": "Conservador",
+      "government": "Antonio Cánovas del Castillo",
+      "head_of_state": "Alfonso XII (1874-1885)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Fernando Calderón Collantes Marqués de Reinosa (1811-1890)",
+      "start": "12 de septiembre de 1875",
+      "end": "2 de diciembre de 1875",
+      "duration": "81 días",
+      "party": "Conservador",
+      "government": "Joaquín Jovellar",
+      "head_of_state": "Alfonso XII (1874-1885)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Cristóbal Martín de Herrera (1831-1878)",
+      "start": "2 de diciembre de 1875",
+      "end": "14 de enero de 1877",
+      "duration": "1 año y 43 días",
+      "party": "Conservador",
+      "government": "Antonio Cánovas del Castillo",
+      "head_of_state": "Alfonso XII (1874-1885)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Fernando Calderón Collantes Marqués de Reinosa (1811-1890)",
+      "start": "14 de enero de 1877",
+      "end": "6 de enero de 1879",
+      "duration": "1 año y 357 días",
+      "party": "Conservador",
+      "government": "Antonio Cánovas del Castillo",
+      "head_of_state": "Alfonso XII (1874-1885)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Saturnino Álvarez Bugallal (1834-1885)",
+      "start": "6 de enero de 1879",
+      "end": "7 de marzo de 1879",
+      "duration": "60 días",
+      "party": "Conservador",
+      "government": "Antonio Cánovas del Castillo",
+      "head_of_state": "Alfonso XII (1874-1885)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Pedro Nolasco Aurioles (1818-1884)",
+      "start": "7 de marzo de 1879",
+      "end": "9 de diciembre de 1879",
+      "duration": "277 días",
+      "party": "Conservador",
+      "government": "Arsenio Martínez-Campos",
+      "head_of_state": "Alfonso XII (1874-1885)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Saturnino Álvarez Bugallal (1834-1885)",
+      "start": "9 de diciembre de 1879",
+      "end": "8 de febrero de 1881",
+      "duration": "1 año y 61 días",
+      "party": "Conservador",
+      "government": "Antonio Cánovas del Castillo",
+      "head_of_state": "Alfonso XII (1874-1885)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel Alonso Martínez (1827-1891)",
+      "start": "8 de febrero de 1881",
+      "end": "9 de enero de 1883",
+      "duration": "1 año y 334 días",
+      "party": "Liberal",
+      "government": "Práxedes Mateo Sagasta",
+      "head_of_state": "Alfonso XII (1874-1885)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Vicente Romero Girón (1835-1900)",
+      "start": "9 de enero de 1883",
+      "end": "13 de octubre de 1883",
+      "duration": "277 días",
+      "party": "Liberal",
+      "government": "Práxedes Mateo Sagasta",
+      "head_of_state": "Alfonso XII (1874-1885)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Aureliano Linares Rivas (1841-1903)",
+      "start": "13 de octubre de 1883",
+      "end": "18 de enero de 1884",
+      "duration": "97 días",
+      "party": "Izquierda Dinástica",
+      "government": "José Posada Herrera",
+      "head_of_state": "Alfonso XII (1874-1885)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Francisco Silvela (1845-1905)",
+      "start": "18 de enero de 1884",
+      "end": "27 de noviembre de 1885",
+      "duration": "1 año y 313 días",
+      "party": "Conservador",
+      "government": "Antonio Cánovas del Castillo",
+      "head_of_state": "Alfonso XII (1874-1885)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel Alonso Martínez (1827-1891)",
+      "start": "27 de noviembre de 1885",
+      "end": "11 de diciembre de 1888",
+      "duration": "3 años y 14 días",
+      "party": "Liberal",
+      "government": "Práxedes Mateo Sagasta",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José Canalejas (1854-1912)",
+      "start": "11 de diciembre de 1888",
+      "end": "21 de enero de 1890",
+      "duration": "1 año y 41 días",
+      "party": "Liberal",
+      "government": "Práxedes Mateo Sagasta",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Joaquín López Puigcerver (1941-1906)",
+      "start": "21 de enero de 1890",
+      "end": "5 de julio de 1890",
+      "duration": "165 días",
+      "party": "Liberal",
+      "government": "Práxedes Mateo Sagasta",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Raimundo Fernández Villaverde Marqués consorte de Pozo Rubio (1848-1905)",
+      "start": "5 de julio de 1890",
+      "end": "23 de noviembre de 1891",
+      "duration": "1 año y 141 días",
+      "party": "Conservador",
+      "government": "Antonio Cánovas del Castillo",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Fernando Cos-Gayón (1825-1898)",
+      "start": "23 de noviembre de 1891",
+      "end": "11 de diciembre de 1892",
+      "duration": "1 año y 18 días",
+      "party": "Conservador",
+      "government": "Antonio Cánovas del Castillo",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Eugenio Montero Ríos (1832-1914)",
+      "start": "11 de diciembre de 1892",
+      "end": "6 de julio de 1893",
+      "duration": "207 días",
+      "party": "Liberal",
+      "government": "Práxedes Mateo Sagasta",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Trinitario Ruiz Capdepón (1836-1911)",
+      "start": "6 de julio de 1893",
+      "end": "4 de noviembre de 1894",
+      "duration": "1 año y 121 días",
+      "party": "Liberal",
+      "government": "Práxedes Mateo Sagasta",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio Maura (1853-1925)",
+      "start": "4 de noviembre de 1894",
+      "end": "23 de marzo de 1895",
+      "duration": "139 días",
+      "party": "Liberal",
+      "government": "Práxedes Mateo Sagasta",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Francisco Romero Robledo (1838-1906)",
+      "start": "23 de marzo de 1895",
+      "end": "14 de diciembre de 1895",
+      "duration": "266 días",
+      "party": "Conservador",
+      "government": "Antonio Cánovas del Castillo",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel Aguirre de Tejada Conde de Tejada de Valdosera (1827-1911)",
+      "start": "14 de diciembre de 1895",
+      "end": "4 de octubre de 1897",
+      "duration": "1 año y 258 días",
+      "party": "Conservador",
+      "government": "Antonio Cánovas del Castillo",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel Aguirre de Tejada Conde de Tejada de Valdosera (1827-1911)",
+      "start": "14 de diciembre de 1895",
+      "end": "4 de octubre de 1897",
+      "duration": "1 año y 258 días",
+      "party": "Conservador",
+      "government": "Marcelo Azcárraga Palmero",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Alejandro Groizard (1830-1919)",
+      "start": "4 de octubre de 1897",
+      "end": "4 de marzo de 1899",
+      "duration": "1 año y 151 días",
+      "party": "Liberal",
+      "government": "Práxedes Mateo Sagasta",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel Durán y Bas (1823-1907)",
+      "start": "4 de marzo de 1899",
+      "end": "24 de octubre de 1899",
+      "duration": "234 días",
+      "party": "Conservador",
+      "government": "Francisco Silvela",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Luis María de la Torre y de la Hoz Conde de Torreánaz (1827-1901)",
+      "start": "24 de octubre de 1899",
+      "end": "18 de abril de 1900",
+      "duration": "176 días",
+      "party": "Conservador",
+      "government": "Francisco Silvela",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Francisco Javier González de Castejón y Elío Marqués de Vadillo (1848-1919)",
+      "start": "18 de abril de 1900",
+      "end": "6 de marzo de 1901",
+      "duration": "322 días",
+      "party": "Conservador",
+      "government": "Francisco Silvela",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Francisco Javier González de Castejón y Elío Marqués de Vadillo (1848-1919)",
+      "start": "18 de abril de 1900",
+      "end": "6 de marzo de 1901",
+      "duration": "322 días",
+      "party": "Conservador",
+      "government": "Marcelo Azcárraga Palmero",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Julián García-San Miguel Marqués de Teverga (1841-1911)",
+      "start": "6 de marzo de 1901",
+      "end": "19 de marzo de 1902",
+      "duration": "1 año y 13 días",
+      "party": "Liberal",
+      "government": "Práxedes Mateo Sagasta",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Juan Montilla y Adán (1856-1903)",
+      "start": "19 de marzo de 1902",
+      "end": "15 de noviembre de 1902",
+      "duration": "241 días",
+      "party": "Liberal",
+      "government": "Práxedes Mateo Sagasta",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Joaquín López Puigcerver (1841-1906)",
+      "start": "15 de noviembre de 1902",
+      "end": "6 de diciembre de 1902",
+      "duration": "21 días",
+      "party": "Liberal",
+      "government": "Práxedes Mateo Sagasta",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Eduardo Dato (1856-1921)",
+      "start": "6 de diciembre de 1902",
+      "end": "20 de julio de 1903",
+      "duration": "226 días",
+      "party": "Conservador",
+      "government": "Francisco Silvela",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Francisco Guzmán y Carballeda (1840-1916)",
+      "start": "20 de julio de 1903",
+      "end": "5 de diciembre de 1903",
+      "duration": "138 días",
+      "party": "Conservador",
+      "government": "Raimundo Fernández Villaverde",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Joaquín Sánchez de Toca (1852-1942)",
+      "start": "5 de diciembre de 1903",
+      "end": "16 de diciembre de 1904",
+      "duration": "1 año y 11 días",
+      "party": "Conservador",
+      "government": "Antonio Maura",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Francisco Javier Ugarte Pagés (1852-1919)",
+      "start": "16 de diciembre de 1904",
+      "end": "23 de junio de 1905",
+      "duration": "189 días",
+      "party": "Conservador",
+      "government": "Marcelo Azcarraga Palmero",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Francisco Javier Ugarte Pagés (1852-1919)",
+      "start": "16 de diciembre de 1904",
+      "end": "23 de junio de 1905",
+      "duration": "189 días",
+      "party": "Conservador",
+      "government": "Raimundo Fernández Villaverde",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Joaquín González de la Peña",
+      "start": "23 de junio de 1905",
+      "end": "31 de octubre de 1905",
+      "duration": "130 días",
+      "party": "Liberal",
+      "government": "Eugenio Montero Ríos",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Joaquín López Puigcerver (1841-1906)",
+      "start": "31 de octubre de 1905",
+      "end": "1 de diciembre de 1905",
+      "duration": "31 días",
+      "party": "Liberal",
+      "government": "Eugenio Montero Ríos",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel García Prieto Marqués de Alhucemas (1859-1938)",
+      "start": "1 de diciembre de 1905",
+      "end": "10 de junio de 1906",
+      "duration": "191 días",
+      "party": "Liberal",
+      "government": "Segismundo Moret",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José María Celleruelo (1840-1911)",
+      "start": "10 de junio de 1906",
+      "end": "6 de julio de 1906",
+      "duration": "26 días",
+      "party": "Liberal",
+      "government": "Segismundo Moret",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Álvaro de Figueroa y Torres Conde de Romanones (1863-1950)",
+      "start": "6 de julio de 1906",
+      "end": "30 de noviembre de 1906",
+      "duration": "147 días",
+      "party": "Liberal",
+      "government": "José López Domínguez",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio Barroso Castillo (1854-1916)",
+      "start": "30 de noviembre de 1906",
+      "end": "25 de enero de 1907",
+      "duration": "56 días",
+      "party": "Liberal",
+      "government": "Segismundo Moret",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio Barroso Castillo (1854-1916)",
+      "start": "30 de noviembre de 1906",
+      "end": "25 de enero de 1907",
+      "duration": "56 días",
+      "party": "Liberal",
+      "government": "Antonio Aguilar Correa",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Juan de Armada y Losada Marqués de Figueroa (1861-1932)",
+      "start": "25 de enero de 1907",
+      "end": "21 de octubre de 1909",
+      "duration": "2 años y 269 días",
+      "party": "Conservador",
+      "government": "Antonio Maura",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Eduardo Martínez del Campo y Acosta (1840-1911)",
+      "start": "21 de octubre de 1909",
+      "end": "9 de febrero de 1910",
+      "duration": "111 días",
+      "party": "Liberal",
+      "government": "Segismundo Moret",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Trinitario Ruiz Valarino (1862-1945)",
+      "start": "9 de febrero de 1910",
+      "end": "3 de abril de 1911",
+      "duration": "1 año y 53 días",
+      "party": "Liberal",
+      "government": "José Canalejas",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio Barroso Castillo (1854-1916)",
+      "start": "3 de abril de 1911",
+      "end": "29 de junio de 1911",
+      "duration": "87 días",
+      "party": "Liberal",
+      "government": "José Canalejas",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José Canalejas (1854-1912)",
+      "start": "29 de junio de 1911",
+      "end": "12 de marzo de 1912",
+      "duration": "257 días",
+      "party": "Liberal",
+      "government": "José Canalejas",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Diego Arias de Miranda (1845-1929)",
+      "start": "12 de marzo de 1912",
+      "end": "31 de diciembre de 1912",
+      "duration": "294 días",
+      "party": "Liberal",
+      "government": "José Canalejas",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Diego Arias de Miranda (1845-1929)",
+      "start": "12 de marzo de 1912",
+      "end": "31 de diciembre de 1912",
+      "duration": "294 días",
+      "party": "Liberal",
+      "government": "Manuel García Prieto",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Diego Arias de Miranda (1845-1929)",
+      "start": "12 de marzo de 1912",
+      "end": "31 de diciembre de 1912",
+      "duration": "294 días",
+      "party": "Liberal",
+      "government": "Conde de Romanones",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio Barroso Castillo (1854-1916)",
+      "start": "31 de diciembre de 1912",
+      "end": "24 de mayo de 1913",
+      "duration": "144 días",
+      "party": "Liberal",
+      "government": "Conde de Romanones",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Álvaro de Figueroa y Torres Conde de Romanones (1863-1950)",
+      "start": "24 de mayo de 1913",
+      "end": "13 de junio de 1913",
+      "duration": "164 días",
+      "party": "Liberal",
+      "government": "Conde de Romanones",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Pedro Rodríguez de la Borbolla (1855-1922)",
+      "start": "13 de junio de 1913",
+      "end": "27 de octubre de 1913",
+      "duration": "136 días",
+      "party": "Liberal",
+      "government": "Conde de Romanones",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Francisco Javier González de Castejón y Elío Marqués de Vadillo (1848-1919)",
+      "start": "27 de octubre de 1913",
+      "end": "7 de septiembre de 1914",
+      "duration": "315 días",
+      "party": "Conservador",
+      "government": "Eduardo Dato Iradier",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Eduardo Dato (1856-1921)",
+      "start": "7 de septiembre de 1914",
+      "end": "4 de enero de 1915",
+      "duration": "119 días",
+      "party": "Conservador",
+      "government": "Eduardo Dato Iradier",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel de Burgos y Mazo (1862-1946)",
+      "start": "4 de enero de 1915",
+      "end": "9 de diciembre de 1915",
+      "duration": "339 días",
+      "party": "Conservador",
+      "government": "Eduardo Dato Iradier",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio Barroso Castillo (1854-1916)",
+      "start": "9 de diciembre de 1915",
+      "end": "8 de octubre de 1916",
+      "duration": "304 días",
+      "party": "Liberal",
+      "government": "Álvaro de Figueroa y Torres",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Juan Alvarado y del Saz (1856-1935)",
+      "start": "8 de octubre de 1916",
+      "end": "19 de abril de 1917",
+      "duration": "193 días",
+      "party": "Liberal",
+      "government": "Álvaro de Figueroa y Torres",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Trinitario Ruiz Valarino (1862-1945)",
+      "start": "19 de abril de 1917",
+      "end": "11 de junio de 1917",
+      "duration": "53 días",
+      "party": "Liberal",
+      "government": "Manuel García Prieto",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel de Burgos y Mazo (1862-1946)",
+      "start": "11 de junio de 1917",
+      "end": "3 de noviembre de 1917",
+      "duration": "145 días",
+      "party": "Conservador",
+      "government": "Eduardo Dato Iradier",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Joaquín Fernández Prida (1863-1942)",
+      "start": "3 de noviembre de 1917",
+      "end": "22 de marzo de 1918",
+      "duration": "139 días",
+      "party": "Liberal",
+      "government": "Manuel García Prieto Gobierno de concentración",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Álvaro de Figueroa y Torres Conde de Romanones (1863-1950)",
+      "start": "22 de marzo de 1918",
+      "end": "10 de octubre de 1918",
+      "duration": "202 días",
+      "party": "Conservador",
+      "government": "Antonio Maura Gobierno de concentración",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio Maura (1853-1925) ministro interino",
+      "start": "10 de octubre de 1918",
+      "end": "9 de noviembre de 1918",
+      "duration": "30 días",
+      "party": "Conservador",
+      "government": "Antonio Maura Gobierno de concentración",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José Roig y Bergadá (1864-1937)",
+      "start": "9 de noviembre de 1918",
+      "end": "5 de diciembre de 1918",
+      "duration": "26 días",
+      "party": "Liberal",
+      "government": "Manuel García Prieto",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Alejandro Rosselló (1853-1928)",
+      "start": "5 de diciembre de 1918",
+      "end": "15 de abril de 1919",
+      "duration": "131 días",
+      "party": "Liberal",
+      "government": "Álvaro de Figueroa y Torres",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José Bahamonde y de Lanz Vizconde de Matamala (1849-1923)",
+      "start": "15 de abril de 1919",
+      "end": "20 de julio de 1919",
+      "duration": "96 días",
+      "party": "Conservador",
+      "government": "Antonio Maura",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Pascual Amat (1856-1928)",
+      "start": "20 de julio de 1919",
+      "end": "12 de diciembre de 1919",
+      "duration": "145 días",
+      "party": "Conservador",
+      "government": "Joaquín Sánchez de Toca",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Pablo Garnica y Echevarría (1876-1959)",
+      "start": "12 de diciembre de 1919",
+      "end": "5 de mayo de 1920",
+      "duration": "145 días",
+      "party": "Conservador",
+      "government": "Manuel Allendesalazar",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Gabino Bugallal Conde de Bugallal (1861-1932)",
+      "start": "5 de mayo de 1920",
+      "end": "1 de septiembre de 1920",
+      "duration": "119 días",
+      "party": "Conservador",
+      "government": "Eduardo Dato Iradier",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Gabino Bugallal Conde de Bugallal (1861-1932)",
+      "start": "5 de mayo de 1920",
+      "end": "1 de septiembre de 1920",
+      "duration": "119 días",
+      "party": "Conservador",
+      "government": "Gabino Bugallal Araújo interino",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Gabino Bugallal Conde de Bugallal (1861-1932)",
+      "start": "5 de mayo de 1920",
+      "end": "1 de septiembre de 1920",
+      "duration": "119 días",
+      "party": "Conservador",
+      "government": "Manuel Allendesalazar",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Gabino Bugallal Conde de Bugallal (1861-1932)",
+      "start": "5 de mayo de 1920",
+      "end": "1 de septiembre de 1920",
+      "duration": "119 días",
+      "party": "Conservador",
+      "government": "Antonio Maura Gobierno de concentración",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Mariano Ordóñez García (1874-1938)",
+      "start": "1 de septiembre de 1920",
+      "end": "13 de marzo de 1921",
+      "duration": "193 días",
+      "party": "Conservador",
+      "government": "Antonio Maura Gobierno de concentración",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Vicente Piniés Bayona (1875-1943)",
+      "start": "13 de marzo de 1921",
+      "end": "7 de julio de 1921",
+      "duration": "116 días",
+      "party": "Conservador",
+      "government": "Antonio Maura Gobierno de concentración",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Julio Wais San Martín (1878-1954)",
+      "start": "7 de julio de 1921",
+      "end": "14 de agosto de 1921",
+      "duration": "38 días",
+      "party": "Conservador",
+      "government": "Antonio Maura Gobierno de concentración",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José Francos Rodríguez (1862-1931)",
+      "start": "14 de agosto de 1921",
+      "end": "8 de marzo de 1922",
+      "duration": "206 días",
+      "party": "Conservador",
+      "government": "Antonio Maura Gobierno de concentración",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José Bertrán (1875-1957)",
+      "start": "8 de marzo de 1922",
+      "end": "1 de abril de 1922",
+      "duration": "24 días",
+      "party": "Conservador",
+      "government": "José Sánchez Guerra",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Mariano Ordóñez García (1874-1938)",
+      "start": "1 de abril de 1922",
+      "end": "4 de diciembre de 1922",
+      "duration": "247 días",
+      "party": "Conservador",
+      "government": "José Sánchez Guerra",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Carlos Cañal y Migolla (1876-1938)",
+      "start": "4 de diciembre de 1922",
+      "end": "7 de diciembre de 1922",
+      "duration": "3 días",
+      "party": "Conservador",
+      "government": "José Sánchez Guerra",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Álvaro de Figueroa y Torres Conde de Romanones (1863-1950)",
+      "start": "7 de diciembre de 1922",
+      "end": "26 de mayo de 1923",
+      "duration": "170 días",
+      "party": "Liberal",
+      "government": "Manuel García Prieto",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio López Muñoz Conde de López Muñoz (1850-1929)",
+      "start": "26 de mayo de 1923",
+      "end": "15 de septiembre de 1923",
+      "duration": "112 días",
+      "party": "Liberal",
+      "government": "Manuel García Prieto",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Fernando Cadalso Manzano (1859-1939)",
+      "start": "15 de septiembre de 1923",
+      "end": "21 de diciembre de 1923",
+      "duration": "97 días",
+      "party": "",
+      "government": "Miguel Primo de Rivera Directorio Militar",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Ernesto Jiménez Sánchez (1859-1928)",
+      "start": "21 de diciembre de 1923",
+      "end": "22 de enero de 1924",
+      "duration": "32 días",
+      "party": "",
+      "government": "Miguel Primo de Rivera Directorio Militar",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Francisco García Goyena y Alzugaray (1859-1935)",
+      "start": "22 de enero de 1924",
+      "end": "3 de diciembre de 1925",
+      "duration": "1 año y 315 días",
+      "party": "",
+      "government": "Miguel Primo de Rivera Directorio Militar",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Galo Ponte y Escartín (1867-1943)",
+      "start": "3 de diciembre de 1925",
+      "end": "30 de enero de 1930",
+      "duration": "4 años y 58 días",
+      "party": "Unión Patriótica",
+      "government": "Miguel Primo de Rivera Directorio Civil",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José Estrada y Estrada (1874-1936)",
+      "start": "30 de enero de 1930",
+      "end": "25 de noviembre de 1930",
+      "duration": "299 días",
+      "party": "",
+      "government": "Dámaso Berenguer Dictadura 1930-1931",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Joaquín de Montes y Jovellar (1879-1936)",
+      "start": "25 de noviembre de 1930",
+      "end": "18 de febrero de 1931",
+      "duration": "85 días",
+      "party": "",
+      "government": "Dámaso Berenguer Dictadura 1930-1931",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel García Prieto Marqués de Alhucemas (1859-1938)",
+      "start": "18 de febrero de 1931",
+      "end": "14 de abril de 1931",
+      "duration": "55 días",
+      "party": "",
+      "government": "Juan Bautista Aznar-Cabañas",
+      "head_of_state": "Alfonso XIII (1886-1931)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Fernando de los Ríos (1879-1949)",
+      "start": "14 de abril de 1931",
+      "end": "16 de diciembre de 1931",
+      "duration": "246 días",
+      "party": "Socialista",
+      "government": "Niceto Alcalá Zamora 1.º Gobierno Provisional",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Fernando de los Ríos (1879-1949)",
+      "start": "14 de abril de 1931",
+      "end": "16 de diciembre de 1931",
+      "duration": "246 días",
+      "party": "Socialista",
+      "government": "Manuel Azaña 2.º Gobierno Provisional",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Álvaro de Albornoz (1879-1954)",
+      "start": "16 de diciembre de 1931",
+      "end": "4 de julio de 1933",
+      "duration": "1 año y 200 días",
+      "party": "Republicano Radical",
+      "government": "Manuel Azaña",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Santiago Casares Quiroga (1884-1950)",
+      "start": "4 de julio de 1933",
+      "end": "12 de septiembre de 1933",
+      "duration": "70 días",
+      "party": "Republicana Gallego",
+      "government": "Manuel Azaña",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Juan Botella Asensi (1884-1942)",
+      "start": "12 de septiembre de 1933",
+      "end": "29 de noviembre de 1933",
+      "duration": "78 días",
+      "party": "Radical Socialista",
+      "government": "Alejandro Lerroux",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Juan Botella Asensi (1884-1942)",
+      "start": "12 de septiembre de 1933",
+      "end": "29 de noviembre de 1933",
+      "duration": "78 días",
+      "party": "Radical Socialista",
+      "government": "Diego Martínez Barrio",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Domingo Barnés Salinas (1879-1940)",
+      "start": "29 de noviembre de 1933",
+      "end": "16 de diciembre de 1933",
+      "duration": "17 días",
+      "party": "Independiente",
+      "government": "Diego Martínez Barrio",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Ramón Álvarez-Valdés (1866-1936)",
+      "start": "16 de diciembre de 1933",
+      "end": "17 de abril de 1934",
+      "duration": "122 días",
+      "party": "Liberal Demócrata",
+      "government": "Alejandro Lerroux",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Ramón Álvarez-Valdés (1866-1936)",
+      "start": "16 de diciembre de 1933",
+      "end": "17 de abril de 1934",
+      "duration": "122 días",
+      "party": "Liberal Demócrata",
+      "government": "Ricardo Samper Ibáñez",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Salvador de Madariaga (1886-1978)",
+      "start": "17 de abril de 1934",
+      "end": "28 de abril de 1934",
+      "duration": "11 días",
+      "party": "Independiente",
+      "government": "Ricardo Samper Ibáñez",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Vicente Cantos Figuerola (1868-1943)",
+      "start": "28 de abril de 1934",
+      "end": "4 de octubre de 1934",
+      "duration": "159 días",
+      "party": "Republicano Radical",
+      "government": "Ricardo Samper Ibáñez",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Rafael Aizpún (1889-1981)",
+      "start": "4 de octubre de 1934",
+      "end": "3 de abril de 1935",
+      "duration": "181 días",
+      "party": "Unión Navarra",
+      "government": "Alejandro Lerroux",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Vicente Cantos Figuerola (1868-1943)",
+      "start": "3 de abril de 1935",
+      "end": "6 de mayo de 1935",
+      "duration": "33 días",
+      "party": "Republicano Radical",
+      "government": "Alejandro Lerroux",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Cándido Casanueva y Gorjón (1881-1947)",
+      "start": "6 de mayo de 1935",
+      "end": "25 de septiembre de 1935",
+      "duration": "142 días",
+      "party": "Agrarista Español",
+      "government": "Alejandro Lerroux",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Federico Salmón (1900-1936)",
+      "start": "25 de septiembre de 1935",
+      "end": "14 de diciembre de 1935",
+      "duration": "80 días",
+      "party": "Acción Popular",
+      "government": "Joaquín Chapaprieta",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Alfredo Martínez García-Argüelles (1877-1936)",
+      "start": "14 de diciembre de 1935",
+      "end": "30 de diciembre de 1935",
+      "duration": "16 días",
+      "party": "Republicano Progresista",
+      "government": "Manuel Portela Valladares",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel Becerra Fernández (1867-1940)",
+      "start": "30 de diciembre de 1935",
+      "end": "16 de febrero de 1936",
+      "duration": "48 días",
+      "party": "Centro Democrático",
+      "government": "Manuel Portela Valladares",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio Lara Zárate (1881-1956)",
+      "start": "19 de febrero de 1936",
+      "end": "13 de mayo de 1936",
+      "duration": "84 días",
+      "party": "Unión Republicana",
+      "government": "Manuel Azaña",
+      "head_of_state": "Niceto Alcalá-Zamora (1931-1936)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio Lara Zárate (1881-1956)",
+      "start": "19 de febrero de 1936",
+      "end": "13 de mayo de 1936",
+      "duration": "84 días",
+      "party": "Unión Republicana",
+      "government": "Augusto Barcia Trelles",
+      "head_of_state": "Manuel Azaña (1936-1939)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel Blasco Garzón (1885-1954)",
+      "start": "13 de mayo de 1936",
+      "end": "4 de septiembre de 1936",
+      "duration": "114 días",
+      "party": "Unión Republicana",
+      "government": "Santiago Casares Quiroga",
+      "head_of_state": "Manuel Azaña (1936-1939)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel Blasco Garzón (1885-1954)",
+      "start": "13 de mayo de 1936",
+      "end": "4 de septiembre de 1936",
+      "duration": "114 días",
+      "party": "Unión Republicana",
+      "government": "Diego Martínez Barrio",
+      "head_of_state": "Manuel Azaña (1936-1939)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel Blasco Garzón (1885-1954)",
+      "start": "13 de mayo de 1936",
+      "end": "4 de septiembre de 1936",
+      "duration": "114 días",
+      "party": "Unión Republicana",
+      "government": "José Giral",
+      "head_of_state": "Manuel Azaña (1936-1939)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Juan García Oliver (1902-1980)",
+      "start": "4 de septiembre de 1936",
+      "end": "17 de mayo de 1937",
+      "duration": "255 días",
+      "party": "Confederación Nacional del Trabajo",
+      "government": "Francisco Largo Caballero",
+      "head_of_state": "Manuel Azaña (1936-1939)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Manuel de Irujo (1891-1981)",
+      "start": "17 de mayo de 1937",
+      "end": "11 de diciembre de 1937",
+      "duration": "208 días",
+      "party": "Partido Nacionalista Vasco",
+      "government": "Juan Negrín",
+      "head_of_state": "Manuel Azaña (1936-1939)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Tomás Bilbao (1890-1954)",
+      "start": "11 de diciembre de 1937",
+      "end": "5 de marzo de 1938",
+      "duration": "334 días",
+      "party": "Acción Nacionalista Vasca",
+      "government": "Juan Negrín",
+      "head_of_state": "Manuel Azaña (1936-1939)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Ramón González Peña (1888-1952)",
+      "start": "5 de marzo de 1938",
+      "end": "1 de abril de 1939",
+      "duration": "27 días",
+      "party": "Socialista",
+      "government": "Consejo Nacional de Defensa",
+      "head_of_state": "José Miaja (1939)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José Cortés López (1883-1964)",
+      "start": "3 de octubre de 1936",
+      "end": "30 de enero de 1938",
+      "duration": "1 año y 119 días",
+      "party": "",
+      "government": "Fidel Dávila Arrondo",
+      "head_of_state": "Francisco Franco (1936-1939)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José Cortés López (1883-1964)",
+      "start": "3 de octubre de 1936",
+      "end": "30 de enero de 1938",
+      "duration": "1 año y 119 días",
+      "party": "",
+      "government": "Francisco Gómez-Jordana Sousa",
+      "head_of_state": "Francisco Franco (1936-1939)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Tomás Domínguez Arévalo Conde de Rodezno (1882-1952)",
+      "start": "30 de enero de 1938",
+      "end": "9 de agosto de 1939",
+      "duration": "1 año y 191 días",
+      "party": "Movimiento Nacional",
+      "government": "Franco I",
+      "head_of_state": "Francisco Franco (1936-1939)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Esteban de Bilbao Eguía Marqués de Bilbao Eguía (1879-1970)",
+      "start": "9 de agosto de 1939",
+      "end": "16 de marzo de 1943",
+      "duration": "3 años y 219 días",
+      "party": "Movimiento Nacional",
+      "government": "Franco II",
+      "head_of_state": "Francisco Franco (1939-1975)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Esteban de Bilbao Eguía Marqués de Bilbao Eguía (1879-1970)",
+      "start": "9 de agosto de 1939",
+      "end": "16 de marzo de 1943",
+      "duration": "3 años y 219 días",
+      "party": "Movimiento Nacional",
+      "government": "Franco III",
+      "head_of_state": "Francisco Franco (1939-1975)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Esteban de Bilbao Eguía Marqués de Bilbao Eguía (1879-1970)",
+      "start": "9 de agosto de 1939",
+      "end": "16 de marzo de 1943",
+      "duration": "3 años y 219 días",
+      "party": "Movimiento Nacional",
+      "government": "Franco IV",
+      "head_of_state": "Francisco Franco (1939-1975)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Eduardo Aunós (1894-1967)",
+      "start": "16 de marzo de 1943",
+      "end": "18 de julio de 1945",
+      "duration": "2 años y 124 días",
+      "party": "Movimiento Nacional",
+      "government": "Franco IV",
+      "head_of_state": "Francisco Franco (1939-1975)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Raimundo Fernández-Cuesta (1896-1992)",
+      "start": "18 de julio de 1945",
+      "end": "18 de julio de 1951",
+      "duration": "6 años",
+      "party": "Movimiento Nacional",
+      "government": "Franco V",
+      "head_of_state": "Francisco Franco (1939-1975)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio Iturmendi (1903-1976)",
+      "start": "18 de julio de 1951",
+      "end": "7 de julio de 1965",
+      "duration": "13 años y 354 días",
+      "party": "Movimiento Nacional",
+      "government": "Franco VI",
+      "head_of_state": "Francisco Franco (1939-1975)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio Iturmendi (1903-1976)",
+      "start": "18 de julio de 1951",
+      "end": "7 de julio de 1965",
+      "duration": "13 años y 354 días",
+      "party": "Movimiento Nacional",
+      "government": "Franco VII",
+      "head_of_state": "Francisco Franco (1939-1975)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio Iturmendi (1903-1976)",
+      "start": "18 de julio de 1951",
+      "end": "7 de julio de 1965",
+      "duration": "13 años y 354 días",
+      "party": "Movimiento Nacional",
+      "government": "Franco VIII",
+      "head_of_state": "Francisco Franco (1939-1975)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio Iturmendi (1903-1976)",
+      "start": "18 de julio de 1951",
+      "end": "7 de julio de 1965",
+      "duration": "13 años y 354 días",
+      "party": "Movimiento Nacional",
+      "government": "Franco IX",
+      "head_of_state": "Francisco Franco (1939-1975)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio María de Oriol (1913-1996)",
+      "start": "7 de julio de 1965",
+      "end": "9 de junio de 1973",
+      "duration": "7 años y 337 días",
+      "party": "Movimiento Nacional",
+      "government": "Franco X",
+      "head_of_state": "Francisco Franco (1939-1975)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio María de Oriol (1913-1996)",
+      "start": "7 de julio de 1965",
+      "end": "9 de junio de 1973",
+      "duration": "7 años y 337 días",
+      "party": "Movimiento Nacional",
+      "government": "Franco XI",
+      "head_of_state": "Francisco Franco (1939-1975)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio María de Oriol (1913-1996)",
+      "start": "7 de julio de 1965",
+      "end": "9 de junio de 1973",
+      "duration": "7 años y 337 días",
+      "party": "Movimiento Nacional",
+      "government": "Franco XII",
+      "head_of_state": "Francisco Franco (1939-1975)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Francisco Ruiz-Jarabo (1901-1990)",
+      "start": "9 de junio de 1973",
+      "end": "11 de marzo de 1975",
+      "duration": "1 año y 275 días",
+      "party": "Movimiento Nacional",
+      "government": "Carrero Blanco",
+      "head_of_state": "Francisco Franco (1939-1975)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Francisco Ruiz-Jarabo (1901-1990)",
+      "start": "9 de junio de 1973",
+      "end": "11 de marzo de 1975",
+      "duration": "1 año y 275 días",
+      "party": "Movimiento Nacional",
+      "government": "Arrias Navarro I",
+      "head_of_state": "Francisco Franco (1939-1975)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José María Sánchez-Ventura y Pascual (1922-2017)",
+      "start": "11 de marzo de 1975",
+      "end": "12 de diciembre de 1975",
+      "duration": "276 días",
+      "party": "Movimiento Nacional",
+      "government": "Arias Navarro II",
+      "head_of_state": "Francisco Franco (1939-1975)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "José María Sánchez-Ventura y Pascual (1922-2017)",
+      "start": "11 de marzo de 1975",
+      "end": "12 de diciembre de 1975",
+      "duration": "276 días",
+      "party": "Movimiento Nacional",
+      "government": "Arias Navarro II",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Edad Contemporánea"
+    },
+    {
+      "name": "Antonio Garrigues Díaz-Cañabate Marqués de Garrigues (1904-2004)",
+      "start": "12 de diciembre de 1975",
+      "end": "5 de julio de 1976",
+      "duration": "206 días",
+      "party": "Movimiento Nacional",
+      "government": "Arias Navarro III",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Landelino Lavilla (1934-2020)",
+      "start": "5 de julio de 1976",
+      "end": "6 de abril de 1979",
+      "duration": "2 años y 275 días",
+      "party": "Independiente",
+      "government": "Suárez I",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Landelino Lavilla (1934-2020)",
+      "start": "5 de julio de 1976",
+      "end": "6 de abril de 1979",
+      "duration": "2 años y 275 días",
+      "party": "UCD",
+      "government": "Suárez II",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Íñigo Cavero Marqués del Castillo de Aysa (1929-2002)",
+      "start": "6 de abril de 1979",
+      "end": "9 de septiembre de 1980",
+      "duration": "1 año y 156 días",
+      "party": "UCD",
+      "government": "Suárez III",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Francisco Fernández Ordóñez (1930-1992)",
+      "start": "9 de septiembre de 1980",
+      "end": "1 de septiembre de 1981",
+      "duration": "357 días",
+      "party": "UCD",
+      "government": "Suárez III",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Francisco Fernández Ordóñez (1930-1992)",
+      "start": "9 de septiembre de 1980",
+      "end": "1 de septiembre de 1981",
+      "duration": "357 días",
+      "party": "UCD",
+      "government": "Calvo-Sotelo",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Pío Cabanillas (1923-1991)",
+      "start": "1 de septiembre de 1981",
+      "end": "3 de diciembre de 1982",
+      "duration": "1 año y 93 días",
+      "party": "UCD",
+      "government": "Calvo-Sotelo",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Fernando Ledesma (1939-)",
+      "start": "3 de diciembre de 1982",
+      "end": "12 de julio de 1988",
+      "duration": "5 años y 222 días",
+      "party": "PSOE",
+      "government": "Gobiernos de Felipe González",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Enrique Múgica (1932-2020)",
+      "start": "12 de julio de 1988",
+      "end": "13 de marzo de 1991",
+      "duration": "2 años y 244 días",
+      "party": "PSOE",
+      "government": "Gobiernos de Felipe González",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Tomás de la Quadra-Salcedo (1946-)",
+      "start": "13 de marzo de 1991",
+      "end": "14 de julio de 1993",
+      "duration": "2 años y 123 días",
+      "party": "PSOE",
+      "government": "Gobiernos de Felipe González",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Juan Alberto Belloch (1950-)",
+      "start": "14 de julio de 1993",
+      "end": "6 de mayo de 1996",
+      "duration": "2 años y 297 días",
+      "party": "PSOE",
+      "government": "Gobiernos de Felipe González",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Margarita Mariscal de Gante (1954-)",
+      "start": "6 de mayo de 1996",
+      "end": "28 de abril de 2000",
+      "duration": "3 años y 358 días",
+      "party": "PP",
+      "government": "I Aznar",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Ángel Acebes (1958-)",
+      "start": "28 de abril de 2000",
+      "end": "10 de julio de 2002",
+      "duration": "2 años y 73 días",
+      "party": "PP",
+      "government": "I Aznar",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "José María Michavila (1960-)",
+      "start": "10 de julio de 2002",
+      "end": "18 de abril de 2004",
+      "duration": "1 año y 283 días",
+      "party": "PP",
+      "government": "II Aznar",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Juan Fernando López Aguilar (1961-)",
+      "start": "18 de abril de 2004",
+      "end": "12 de febrero de 2007",
+      "duration": "2 años y 300 días",
+      "party": "PSOE",
+      "government": "I Zapatero",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Juan Fernando López Aguilar (1961-)",
+      "start": "18 de abril de 2004",
+      "end": "12 de febrero de 2007",
+      "duration": "2 años y 300 días",
+      "party": "PSOE",
+      "government": "II Zapatero",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Mariano Fernández Bermejo (1948-)",
+      "start": "12 de febrero de 2007",
+      "end": "24 de febrero de 2009",
+      "duration": "2 años y 12 días",
+      "party": "PSOE",
+      "government": "II Zapatero",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Francisco Caamaño Domínguez (1963-)",
+      "start": "24 de febrero de 2009",
+      "end": "22 de diciembre de 2011",
+      "duration": "2 años y 301 días",
+      "party": "PSOE",
+      "government": "II Zapatero",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Alberto Ruiz-Gallardón (1958-)",
+      "start": "22 de diciembre de 2011",
+      "end": "24 de septiembre de 2014",
+      "duration": "2 años y 276 días",
+      "party": "PP",
+      "government": "I Rajoy",
+      "head_of_state": "Juan Carlos I (1975-2014)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Alberto Ruiz-Gallardón (1958-)",
+      "start": "22 de diciembre de 2011",
+      "end": "24 de septiembre de 2014",
+      "duration": "2 años y 276 días",
+      "party": "PP",
+      "government": "I Rajoy",
+      "head_of_state": "Felipe VI (2014-presente)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Soraya Sáenz de Santamaría (1971-) ministra interino",
+      "start": "24 de septiembre de 2014",
+      "end": "29 de septiembre de 2014",
+      "duration": "5 días",
+      "party": "PP",
+      "government": "I Rajoy",
+      "head_of_state": "Felipe VI (2014-presente)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Rafael Catalá Polo (1961-)",
+      "start": "29 de septiembre de 2014",
+      "end": "7 de junio de 2018",
+      "duration": "3 años y 251 días",
+      "party": "PP",
+      "government": "I Rajoy",
+      "head_of_state": "Felipe VI (2014-presente)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Rafael Catalá Polo (1961-)",
+      "start": "29 de septiembre de 2014",
+      "end": "7 de junio de 2018",
+      "duration": "3 años y 251 días",
+      "party": "PP",
+      "government": "II Rajoy",
+      "head_of_state": "Felipe VI (2014-presente)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Dolores Delgado (1962-)",
+      "start": "7 de junio de 2018",
+      "end": "13 de enero de 2020",
+      "duration": "1 año y 220 días",
+      "party": "Independiente",
+      "government": "I Sánchez",
+      "head_of_state": "Felipe VI (2014-presente)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Juan Carlos Campo (1961-)",
+      "start": "13 de enero de 2020",
+      "end": "12 de julio de 2021",
+      "duration": "1 año y 180 días",
+      "party": "Independiente",
+      "government": "II Sánchez",
+      "head_of_state": "Felipe VI (2014-presente)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Pilar Llop (1973-)",
+      "start": "12 de julio de 2021",
+      "end": "21 de noviembre de 2023",
+      "duration": "2 años y 132 días",
+      "party": "Independiente",
+      "government": "II Sánchez",
+      "head_of_state": "Felipe VI (2014-presente)",
+      "period": "Época actual"
+    },
+    {
+      "name": "Félix Bolaños (1975-)",
+      "start": "21 de noviembre de 2023",
+      "end": "En el cargo",
+      "duration": "2 años y 341 días",
+      "party": "PSOE",
+      "government": "III Sánchez",
+      "head_of_state": "Felipe VI (2014-presente)",
+      "period": "Época actual"
+    }
+  ],
+  "meta": {
+    "title": "Ministros de Justicia de España - Free Download",
+    "description": "Lista histórica de secretarios de Gracia y Justicia y ministros de Justicia de España con mandato, partido, gobierno y jefe del Estado. Contains 326 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministros de Justicia de España | ListBase",
+    "seo_description": "Download Ministros de Justicia de España — 326 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 326 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Ministros_de_Justicia_de_España"
+    ]
+  }
+}

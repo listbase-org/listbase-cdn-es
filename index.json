@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-28T02:22:51.597Z",
-  "total_datasets": 497,
-  "total_records": 422707,
+  "generated": "2026-10-28T02:22:54.153Z",
+  "total_datasets": 498,
+  "total_records": 423033,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -2340,6 +2340,35 @@
         "xlsx": {
           "name": "es-sistemas-de-escritura_ES.xlsx",
           "size": 10380
+        }
+      }
+    },
+    {
+      "id": "es-ministros-de-justicia-de-espana",
+      "name": "Ministros de Justicia de España",
+      "category": "law",
+      "record_count": 326,
+      "columns": [
+        "name",
+        "start",
+        "end",
+        "duration",
+        "party",
+        "government",
+        "head_of_state",
+        "period"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Ministros_de_Justicia_de_España",
+      "updated": "2026-10",
+      "size": 114243,
+      "files": {
+        "csv": {
+          "name": "es-ministros-de-justicia-de-espana_ES.csv",
+          "size": 62139
+        },
+        "xlsx": {
+          "name": "es-ministros-de-justicia-de-espana_ES.xlsx",
+          "size": 25785
         }
       }
     },
