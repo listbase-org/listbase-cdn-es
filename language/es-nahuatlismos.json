@@ -1,0 +1,751 @@
+{
+  "id": "es-nahuatlismos",
+  "name": "Nahuatlismos en el idioma español",
+  "title": "Nahuatlismos en el idioma español",
+  "description": "Palabras del español de origen náhuatl agrupadas por tema, con su zona de uso y la forma náhuatl original.",
+  "category": "language",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Nahuatlismos_en_el_idioma_español",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Nahuatlismos_en_el_idioma_español",
+  "updated": "2026-10",
+  "record_count": 142,
+  "columns": [
+    {
+      "key": "word",
+      "label": "Word",
+      "type": "string"
+    },
+    {
+      "key": "details",
+      "label": "Details",
+      "type": "string"
+    },
+    {
+      "key": "topic",
+      "label": "Topic",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "word": "Asquel o azquel",
+      "details": "(M) 'hormiga pequeña' (āskā-tl)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Ayote",
+      "details": "(G) (ā-yō-tl)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Ajolote",
+      "details": "(G) (axolotl)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Cacomixtle",
+      "details": "(G)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Chapulín",
+      "details": "(G) (chapolin)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Chalmichi",
+      "details": "(G) (xal-michin)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Chicatana",
+      "details": "(G) (Del nahua tzicatl, hormiga grande, y tanatli, bolsa de palmera)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Chichicuilote",
+      "details": "(M) (tzitzicuiltic)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Coyote",
+      "details": "(G) (coyotl 'adive')",
+      "topic": "Animales"
+    },
+    {
+      "word": "Cuitlacoche",
+      "details": "(M)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Escamol exca-molotl",
+      "details": "",
+      "topic": "Animales"
+    },
+    {
+      "word": "Guajolote",
+      "details": "(M) (huexolotl)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Huilota",
+      "details": "(G) (huilotl)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Hoacín o hoatzín",
+      "details": "",
+      "topic": "Animales"
+    },
+    {
+      "word": "Juil ciego",
+      "details": "(M)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Mapache",
+      "details": "(G) (mapach)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Mayate",
+      "details": "(G) (del nahua mayatl, escarabajo que vuela)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Moyote",
+      "details": "(M) 'mosquito'",
+      "topic": "Animales"
+    },
+    {
+      "word": "Ocelote",
+      "details": "(G) (ocelotl 'tigre')",
+      "topic": "Animales"
+    },
+    {
+      "word": "Papalomoyo",
+      "details": "(G) (Del nahua papalotl, mariposa, y moyotl, mosquito)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Papalote",
+      "details": "(M) (papalō-tl) 'mariposa' (nombre usado para 'cometa')",
+      "topic": "Animales"
+    },
+    {
+      "word": "Pinacate",
+      "details": "(M)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Quetzal",
+      "details": "(G) (quetzalli 'hermosa pluma')",
+      "topic": "Animales"
+    },
+    {
+      "word": "Tecolote",
+      "details": "(M) (tekolō-tl)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Temazate",
+      "details": "(G)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Tepezcuintle",
+      "details": "(G) (tepē- tskwīn-tl)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Teporingo",
+      "details": "(G)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Tiguacal",
+      "details": "(G) (del nahua tlitic, negro, y huacalli, guacal)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Tlacuache",
+      "details": "(G) (tlakwā-tzin)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Tlalcoyote",
+      "details": "(G) (tlal-coyotl) (del nahua tlalli, tierra, y coyotl, coyote)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Totola",
+      "details": "(M) (tōtol-in / tōtō-tl)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Totolate",
+      "details": "(G)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Xoloitzcuintle",
+      "details": "(G) (xōlō- tskwīn-tl)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Zenzontle",
+      "details": "(G) (también cenzontle o sinsonte)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Zopilote",
+      "details": "(G) (tzopílotl)",
+      "topic": "Animales"
+    },
+    {
+      "word": "Aguacate",
+      "details": "(G) (ahuacatl 'fruto del aguacate', 'testículo')",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Cacao",
+      "details": "(G) (cacáhua)",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Cacahuete",
+      "details": "(G) (cacáhuatl)",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Camote",
+      "details": "(G) (kamoh-tl)",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Chayote",
+      "details": "(G) (chayoh-tl)",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Chile",
+      "details": "(G) (chilli)",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Ejote",
+      "details": "(exo-tl)",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Elote",
+      "details": "(M) (ēlō-tl)",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Epazote",
+      "details": "(G) (epasō-tl)",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Guaje",
+      "details": "(G)",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Jilote",
+      "details": "(G) (xilo-tl)",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Jitomate",
+      "details": "(M) (xictli 'ombligo' y tomatl 'tomate')",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Jocote",
+      "details": "(xoco-tl)",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Mesquite",
+      "details": "(G) (miski-tl)",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Nopal",
+      "details": "(M)",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Tejocote",
+      "details": "(M) (te-xoco-tl)",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Tomate",
+      "details": "(G) (tomatl)",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Zapote",
+      "details": "(tzapotl)",
+      "topic": "Frutos y similares"
+    },
+    {
+      "word": "Ahuehuete",
+      "details": "(ā-wēweh-tl)",
+      "topic": "Plantas"
+    },
+    {
+      "word": "Achiote",
+      "details": "(Achiotl)",
+      "topic": "Plantas"
+    },
+    {
+      "word": "Ayote",
+      "details": "(Ayotli)",
+      "topic": "Plantas"
+    },
+    {
+      "word": "Cacahuete",
+      "details": "(cacáhuatl)",
+      "topic": "Plantas"
+    },
+    {
+      "word": "Coyol",
+      "details": "(G) (coyolli)",
+      "topic": "Plantas"
+    },
+    {
+      "word": "Chauixtle",
+      "details": "(M)",
+      "topic": "Plantas"
+    },
+    {
+      "word": "Copinol",
+      "details": "(X) (cuahuitl 'árbol' y pinoli 'harina)",
+      "topic": "Plantas"
+    },
+    {
+      "word": "Guapinol",
+      "details": "(X) (confer copinol)",
+      "topic": "Plantas"
+    },
+    {
+      "word": "Huizache",
+      "details": "(G)",
+      "topic": "Plantas"
+    },
+    {
+      "word": "Jocote",
+      "details": "(xoco-tl)",
+      "topic": "Plantas"
+    },
+    {
+      "word": "Ocote",
+      "details": "(M) (ōko-tl)",
+      "topic": "Plantas"
+    },
+    {
+      "word": "Quelite",
+      "details": "(quílitil)",
+      "topic": "Plantas"
+    },
+    {
+      "word": "Tejocote",
+      "details": "(texóco-tl)",
+      "topic": "Plantas"
+    },
+    {
+      "word": "Tule",
+      "details": "",
+      "topic": "Plantas"
+    },
+    {
+      "word": "Zacate",
+      "details": "(M) (saka-tl)",
+      "topic": "Plantas"
+    },
+    {
+      "word": "Cempasúchil",
+      "details": "(cempōhualxōchitl)",
+      "topic": "Plantas"
+    },
+    {
+      "word": "Atole",
+      "details": "(M) (a-tōl-l)",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Capulín",
+      "details": "(M) (kapol-in)",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Chocolate",
+      "details": "(G) (etimología discutida; confer náhuatl xocoatl de xoco 'amargo' y atl 'agua')",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Chicle",
+      "details": "(G) (tzictli)",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Chipotle",
+      "details": "(M) (chilpoctli 'chile ahumado')",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Guacamole",
+      "details": "(M) (ahuacamulli)",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Huauzontle",
+      "details": "(Wāw-tson-tl)",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Huitlacoche",
+      "details": "(M) (cuitlacochi)",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Jocoque",
+      "details": "(M) (šoco-?)",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Mezcal",
+      "details": "(G) (mexcalli)",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Mixiote",
+      "details": "(mexio-tl)",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Mole",
+      "details": "(M) (mulli 'salsa')",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Nanche",
+      "details": "",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Nixtamal",
+      "details": "(M) (nex-tamal-l)",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Olote",
+      "details": "(M) (yōl-lō-tl)",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Pinole",
+      "details": "(M) (pinol-l)",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Tamal",
+      "details": "(M) (tamalli)",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Tlacoyo",
+      "details": "(M)",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Tlayuda",
+      "details": "(M)",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Xoconostle",
+      "details": "(M)",
+      "topic": "Bebida"
+    },
+    {
+      "word": "Ahuachapán:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Atitlán:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Chalatenango:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Chapultepec:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Chiapas: nombre del estado de la región suroeste de México. Proviene del náhuatl Chía-apan, ‘Río de la chía'",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Chimaltenango:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Chiquimula:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Choluteca:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Coahuila:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Colima: estado y ciudad del oeste de México. El nombre de Colima viene del náhuatl Acolman, que significa \"lugar donde tuerce el agua\" o \"lugar donde hace recodo el río\".",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Comayagua:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Cuernavaca: ciudad al sur de la Ciudad de México. Su nombre viene de Cuahunahuac",
+      "details": "(cuahuit 'árbol' nahuac 'rodeado') que significa \"lugar entre los árboles\".",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Cuscatlán:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Escuintla:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Guanacaste:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Guatemala: nombre del país centroamericano y su capital. Deriva del náhuatl Cuauh-tēmal-lān, 'lugar de muchos árboles'.",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Huehuetenango:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Jalisco: estado de la región oeste de México. Su nombre proviene del náhuatl Xal-īx-co, 'lugar frente a la arena'.",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Masaya:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Managua:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "México: nombre del país norteamericano Estados Unidos Mexicanos, de su capital y de uno de sus estados. Su nombre proviene del náhuatl Mēxīh-co, ver Discusión sobre el nombre \"México\".",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Michoacán: nombre del estado de la región oeste de México. Proviene del náhuatl Michoa-cān, 'lugar de pescadores'",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Nezahualcoyotl:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Nicaragua",
+      "details": "(Nicā(n)-nāhuac, 'cerca del lugar')",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Nuevo México:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Oaxaca",
+      "details": "(Huāx-ya-cac, 'en la punta de los huajes')",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Ocotepeque:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Popocatépetl: Deriva del náhuatl Popōcatepētl, el cerro que humea que a su vez proviene de popōca 'humear'; tepētl, 'cerro es un volcán activo localizado en el centro de México.",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Quetzaltenango:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Sacatepéquez:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Suchitepéquez:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Tegucigalpa:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Tenochtitlan:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Texcoco:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Tlaxcala",
+      "details": "(Tlaxcal-lān, originalmente Texcal-lan 'lugar de las tortillas')",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Tlacotepec",
+      "details": "(Tlacotepetl, en medio del cerro')",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Usulután:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Xalapa: la capital del estado de Veracruz obtiene su nombre del náhuatl, Xallapan que significa manantial en la arena. También es conocida por haber dado origen a los reconidos chiles jalapeños.",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Xochimilco:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Zacapa:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Zacatecas",
+      "details": "(Zaca-tēcah, 'gente de los pastos')",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "Zapopan:",
+      "details": "",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "-co / -c: 'En el...'",
+      "details": "(ejemplos: Tlecuilco, Iztaccalco, Teopantzinco, Caltonco)",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "-tla",
+      "details": "(n)/ -lla (n): 'Lugar donde abunda...' (Ahuacatlan, Cihuatlan, Cempohuallan)",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "-tepec: 'En el monte de...'",
+      "details": "(ejemplos: Coatepec, Tehuantepec)",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "-titlan: 'Lugar entre...'",
+      "details": "(ejemplos: Amatitlán, Atoyatitlán, Michtitlán)",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "-pan: 'Lugar en..., sobre...'",
+      "details": "(ejemplos: Tlalpan)",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "-apan: 'Lugar sobre el río de...'",
+      "details": "(ejemplos: Huichapan, Pijijiapan)",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "-can: 'Lugar donde...'",
+      "details": "(ejemplos: Michoacán)",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "-nahuac: 'Lugar cerca de...'",
+      "details": "(ejemplos: Cuernavaca (= Kwaw-nawak 'cerca del bosque'), Tochnahuac)",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "-ixco, ixpan: 'Lugar frente a...'",
+      "details": "(ejemplos: Tlalixco, Tepetlixco)",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "-ticpac: 'Lugar encima de...'",
+      "details": "(ejemplos: Tepeticpac)",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    },
+    {
+      "word": "-tenco: 'Lugar sobre el borde de..., en la orilla de...'",
+      "details": "(ejemplos Atenco, Tianquistenco, Zanatenco)",
+      "topic": "Topónimos de origen náhuatl en el continente americano"
+    }
+  ],
+  "meta": {
+    "title": "Nahuatlismos en el idioma español - Free Download",
+    "description": "Palabras del español de origen náhuatl agrupadas por tema, con su zona de uso y la forma náhuatl original. Contains 142 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nahuatlismos en el idioma español | ListBase",
+    "seo_description": "Download Nahuatlismos en el idioma español — 142 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 142 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Nahuatlismos_en_el_idioma_español"
+    ]
+  }
+}

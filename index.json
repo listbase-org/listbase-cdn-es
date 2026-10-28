@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-28T02:22:54.153Z",
-  "total_datasets": 498,
-  "total_records": 423033,
+  "generated": "2026-10-28T02:22:56.359Z",
+  "total_datasets": 499,
+  "total_records": 423175,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -2316,6 +2316,30 @@
         "xlsx": {
           "name": "es-gitanismos_ES.xlsx",
           "size": 14008
+        }
+      }
+    },
+    {
+      "id": "es-nahuatlismos",
+      "name": "Nahuatlismos en el idioma español",
+      "category": "language",
+      "record_count": 142,
+      "columns": [
+        "word",
+        "details",
+        "topic"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Nahuatlismos_en_el_idioma_español",
+      "updated": "2026-10",
+      "size": 20207,
+      "files": {
+        "csv": {
+          "name": "es-nahuatlismos_ES.csv",
+          "size": 10082
+        },
+        "xlsx": {
+          "name": "es-nahuatlismos_ES.xlsx",
+          "size": 11489
         }
       }
     },
