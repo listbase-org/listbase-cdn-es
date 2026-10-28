@@ -1,0 +1,436 @@
+{
+  "id": "es-universidades-de-chile",
+  "name": "Universidades de Chile",
+  "title": "Universidades de Chile",
+  "description": "Universidades de Chile con acrónimo, año de fundación, sede central y otras sedes.",
+  "category": "education",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Universidades_de_Chile",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Universidades_de_Chile",
+  "updated": "2026-10",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "university",
+      "label": "University",
+      "type": "string"
+    },
+    {
+      "key": "acronym",
+      "label": "Acronym",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "main_campus",
+      "label": "Main Campus",
+      "type": "string"
+    },
+    {
+      "key": "other_campuses",
+      "label": "Other Campuses",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "university": "Pontificia Universidad Católica de Chile",
+      "acronym": "PUC",
+      "founded": 1888,
+      "main_campus": "Santiago",
+      "other_campuses": "Villarrica"
+    },
+    {
+      "university": "Universidad de Chile",
+      "acronym": "UCh",
+      "founded": 1842,
+      "main_campus": "Santiago",
+      "other_campuses": ""
+    },
+    {
+      "university": "Universidad de Concepción",
+      "acronym": "UdeC",
+      "founded": 1919,
+      "main_campus": "Concepción",
+      "other_campuses": "Chillán Los Ángeles"
+    },
+    {
+      "university": "Pontificia Universidad Católica de Valparaíso",
+      "acronym": "PUCV",
+      "founded": 1928,
+      "main_campus": "Valparaíso",
+      "other_campuses": "Viña del Mar Quillota Quilpué"
+    },
+    {
+      "university": "Universidad de Santiago de Chile",
+      "acronym": "USACh",
+      "founded": 1981,
+      "main_campus": "Santiago",
+      "other_campuses": ""
+    },
+    {
+      "university": "Universidad Austral de Chile",
+      "acronym": "UACh",
+      "founded": 1954,
+      "main_campus": "Valdivia",
+      "other_campuses": "Puerto Montt Osorno Coyhaique"
+    },
+    {
+      "university": "Universidad Técnica Federico Santa María",
+      "acronym": "USM",
+      "founded": 1931,
+      "main_campus": "Valparaíso",
+      "other_campuses": "Viña del Mar Hualpén Rancagua Santiago"
+    },
+    {
+      "university": "Universidad Andrés Bello",
+      "acronym": "UNAB",
+      "founded": 1988,
+      "main_campus": "Santiago",
+      "other_campuses": "Viña del Mar Talcahuano"
+    },
+    {
+      "university": "Universidad de Talca",
+      "acronym": "UTAL",
+      "founded": 1981,
+      "main_campus": "Talca",
+      "other_campuses": "Curicó Santiago Santa Cruz Linares"
+    },
+    {
+      "university": "Universidad de Valparaíso",
+      "acronym": "UV",
+      "founded": 1981,
+      "main_campus": "Valparaíso",
+      "other_campuses": "Viña del Mar Santiago San Felipe"
+    },
+    {
+      "university": "Universidad del Desarrollo",
+      "acronym": "UDD",
+      "founded": 1990,
+      "main_campus": "Concepción",
+      "other_campuses": "Santiago"
+    },
+    {
+      "university": "Universidad Diego Portales",
+      "acronym": "UDP",
+      "founded": 1982,
+      "main_campus": "Santiago",
+      "other_campuses": ""
+    },
+    {
+      "university": "Universidad de La Frontera",
+      "acronym": "UFRO",
+      "founded": 1981,
+      "main_campus": "Temuco",
+      "other_campuses": "Angol Pucón"
+    },
+    {
+      "university": "Universidad de los Andes",
+      "acronym": "UANDES",
+      "founded": 1989,
+      "main_campus": "Santiago",
+      "other_campuses": ""
+    },
+    {
+      "university": "Universidad Católica del Norte",
+      "acronym": "UCN",
+      "founded": 1956,
+      "main_campus": "Antofagasta",
+      "other_campuses": "Coquimbo"
+    },
+    {
+      "university": "Universidad Adolfo Ibáñez",
+      "acronym": "UAI",
+      "founded": 1988,
+      "main_campus": "Santiago",
+      "other_campuses": "Viña del Mar"
+    },
+    {
+      "university": "Universidad Autónoma de Chile",
+      "acronym": "UA",
+      "founded": 1989,
+      "main_campus": "Temuco",
+      "other_campuses": "Talca Santiago"
+    },
+    {
+      "university": "Universidad del Bío-Bío",
+      "acronym": "UBB",
+      "founded": 1988,
+      "main_campus": "Concepción",
+      "other_campuses": "Chillán"
+    },
+    {
+      "university": "Universidad de Tarapacá",
+      "acronym": "UTA",
+      "founded": 1981,
+      "main_campus": "Arica",
+      "other_campuses": "Iquique"
+    },
+    {
+      "university": "Universidad San Sebastián",
+      "acronym": "USS",
+      "founded": 1989,
+      "main_campus": "Santiago",
+      "other_campuses": "Puerto Montt Valdivia Concepción"
+    },
+    {
+      "university": "Universidad de La Serena",
+      "acronym": "ULS",
+      "founded": 1981,
+      "main_campus": "La Serena",
+      "other_campuses": "Coquimbo Ovalle"
+    },
+    {
+      "university": "Universidad Católica de la Santísima Concepción",
+      "acronym": "UCSC",
+      "founded": 1991,
+      "main_campus": "Concepción",
+      "other_campuses": "Talcahuano Los Ángeles Chillán Cañete"
+    },
+    {
+      "university": "Universidad Católica de Temuco",
+      "acronym": "UCT",
+      "founded": 1991,
+      "main_campus": "Temuco",
+      "other_campuses": ""
+    },
+    {
+      "university": "Universidad Bernardo O'Higgins",
+      "acronym": "UBO",
+      "founded": 1990,
+      "main_campus": "Santiago",
+      "other_campuses": ""
+    },
+    {
+      "university": "Universidad Central de Chile",
+      "acronym": "UCEN",
+      "founded": 1982,
+      "main_campus": "Santiago",
+      "other_campuses": "Antofagasta La Serena"
+    },
+    {
+      "university": "Universidad Mayor",
+      "acronym": "U.Mayor",
+      "founded": 1988,
+      "main_campus": "Santiago",
+      "other_campuses": "Temuco"
+    },
+    {
+      "university": "Universidad de Antofagasta",
+      "acronym": "UA",
+      "founded": 1981,
+      "main_campus": "Antofagasta",
+      "other_campuses": ""
+    },
+    {
+      "university": "Universidad Católica del Maule",
+      "acronym": "UCM",
+      "founded": 1991,
+      "main_campus": "Talca",
+      "other_campuses": "Curicó"
+    },
+    {
+      "university": "Universidad Alberto Hurtado",
+      "acronym": "UAH",
+      "founded": 1997,
+      "main_campus": "Santiago",
+      "other_campuses": ""
+    },
+    {
+      "university": "Universidad de Playa Ancha",
+      "acronym": "UPLA",
+      "founded": 1981,
+      "main_campus": "Valparaíso",
+      "other_campuses": "San Felipe"
+    },
+    {
+      "university": "Universidad Arturo Prat",
+      "acronym": "UNAP",
+      "founded": 1984,
+      "main_campus": "Iquique",
+      "other_campuses": "Arica Calama Antofagasta Santiago Victoria"
+    },
+    {
+      "university": "Universidad Tecnológica Metropolitana",
+      "acronym": "UTEM",
+      "founded": 1993,
+      "main_campus": "Santiago",
+      "other_campuses": ""
+    },
+    {
+      "university": "Universidad Finis Terrae",
+      "acronym": "UFT",
+      "founded": 1988,
+      "main_campus": "Santiago",
+      "other_campuses": ""
+    },
+    {
+      "university": "Universidad de Los Lagos",
+      "acronym": "ULAGOS",
+      "founded": 1993,
+      "main_campus": "Osorno",
+      "other_campuses": "Puerto Montt Santiago"
+    },
+    {
+      "university": "Universidad de Magallanes",
+      "acronym": "UMAG",
+      "founded": 1981,
+      "main_campus": "Punta Arenas",
+      "other_campuses": "Puerto Natales Porvenir Puerto Williams Coyhaique"
+    },
+    {
+      "university": "Universidad de Atacama",
+      "acronym": "UDA",
+      "founded": 1981,
+      "main_campus": "Copiapó",
+      "other_campuses": "Vallenar Caldera Santiago"
+    },
+    {
+      "university": "Universidad Santo Tomás",
+      "acronym": "UST",
+      "founded": 1988,
+      "main_campus": "Santiago",
+      "other_campuses": "Arica Iquique Antofagasta Copiapó La Serena Viña del Mar Talca Concepción Los Ángeles Temuco Valdivia Osorno Puerto Montt"
+    },
+    {
+      "university": "Universidad de Las Américas",
+      "acronym": "UDLA",
+      "founded": 1988,
+      "main_campus": "Santiago",
+      "other_campuses": "Viña del Mar Concepción"
+    },
+    {
+      "university": "Universidad Metropolitana de Ciencias de la Educación",
+      "acronym": "UMCE",
+      "founded": 1981,
+      "main_campus": "Santiago",
+      "other_campuses": "Graneros"
+    },
+    {
+      "university": "Universidad de O'Higgins",
+      "acronym": "UOH",
+      "founded": 2015,
+      "main_campus": "Rancagua",
+      "other_campuses": "San Fernando Rengo"
+    },
+    {
+      "university": "Universidad Católica Silva Henríquez",
+      "acronym": "UCSH",
+      "founded": 1990,
+      "main_campus": "Santiago",
+      "other_campuses": ""
+    },
+    {
+      "university": "Universidad Gabriela Mistral",
+      "acronym": "UGM",
+      "founded": 1981,
+      "main_campus": "Santiago",
+      "other_campuses": "Puerto Varas"
+    },
+    {
+      "university": "Universidad de Aysén",
+      "acronym": "UAY",
+      "founded": 2015,
+      "main_campus": "Coyhaique",
+      "other_campuses": ""
+    },
+    {
+      "university": "Universidad Tecnológica de Chile - INACAP",
+      "acronym": "INACAP",
+      "founded": 1966,
+      "main_campus": "Santiago",
+      "other_campuses": "Arica Iquique Calama Antofagasta Copiapó La Serena Valparaíso Rancagua Curicó Talca Chillán Talcahuano San Pedro de la Paz Los Ángeles Temuco Valdivia Osorno Puerto Montt Coyhaique Punta Arenas"
+    },
+    {
+      "university": "Universidad Viña del Mar",
+      "acronym": "UVM",
+      "founded": 1988,
+      "main_campus": "Viña del Mar",
+      "other_campuses": "San Felipe"
+    },
+    {
+      "university": "Universidad Adventista de Chile",
+      "acronym": "UnACh",
+      "founded": 1990,
+      "main_campus": "Chillán",
+      "other_campuses": ""
+    },
+    {
+      "university": "Universidad Academia de Humanismo Cristiano",
+      "acronym": "UAHC",
+      "founded": 1988,
+      "main_campus": "Santiago",
+      "other_campuses": ""
+    },
+    {
+      "university": "Universidad SEK",
+      "acronym": "USEK",
+      "founded": 1990,
+      "main_campus": "Santiago",
+      "other_campuses": "Valdivia"
+    },
+    {
+      "university": "Universidad del Alba",
+      "acronym": "UDALBA",
+      "founded": 2021,
+      "main_campus": "Santiago",
+      "other_campuses": "Chillán La Serena Antofagasta"
+    },
+    {
+      "university": "Universidad UNIACC",
+      "acronym": "UNIACC",
+      "founded": 1981,
+      "main_campus": "Santiago",
+      "other_campuses": "Valparaíso Concepción Punta Arenas"
+    },
+    {
+      "university": "Universidad Miguel de Cervantes",
+      "acronym": "UMC",
+      "founded": 1996,
+      "main_campus": "Santiago",
+      "other_campuses": ""
+    },
+    {
+      "university": "Universidad de Aconcagua",
+      "acronym": "UAC",
+      "founded": 1989,
+      "main_campus": "Santiago",
+      "other_campuses": "Calama La Serena San Felipe Los Andes Quilpué Rancagua Machalí Temuco Puerto Montt Ancud"
+    },
+    {
+      "university": "Universidad Bolivariana",
+      "acronym": "UB",
+      "founded": 1987,
+      "main_campus": "Santiago",
+      "other_campuses": "Iquique La Serena Ovalle Talca Chillán Los Ángeles Concepción"
+    },
+    {
+      "university": "Universidad La República",
+      "acronym": "ULARE",
+      "founded": 1996,
+      "main_campus": "Santiago",
+      "other_campuses": "Arica Calama Antofagasta Coquimbo Rancagua Talca Chillán Concepción Los Ángeles Temuco"
+    },
+    {
+      "university": "Universidad Los Leones",
+      "acronym": "ULL",
+      "founded": 2010,
+      "main_campus": "Santiago",
+      "other_campuses": ""
+    }
+  ],
+  "meta": {
+    "title": "Universidades de Chile - Free Download",
+    "description": "Universidades de Chile con acrónimo, año de fundación, sede central y otras sedes. Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Universidades de Chile | ListBase",
+    "seo_description": "Download Universidades de Chile — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Universidades_de_Chile"
+    ]
+  }
+}

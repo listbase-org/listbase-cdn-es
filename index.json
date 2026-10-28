@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-28T02:22:56.359Z",
-  "total_datasets": 499,
-  "total_records": 423175,
+  "generated": "2026-10-28T02:22:58.646Z",
+  "total_datasets": 500,
+  "total_records": 423230,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "entertainment",
@@ -416,6 +416,32 @@
         "xlsx": {
           "name": "es-universidades_ES.xlsx",
           "size": 12298
+        }
+      }
+    },
+    {
+      "id": "es-universidades-de-chile",
+      "name": "Universidades de Chile",
+      "category": "education",
+      "record_count": 55,
+      "columns": [
+        "university",
+        "acronym",
+        "founded",
+        "main_campus",
+        "other_campuses"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Universidades_de_Chile",
+      "updated": "2026-10",
+      "size": 12373,
+      "files": {
+        "csv": {
+          "name": "es-universidades-de-chile_ES.csv",
+          "size": 4606
+        },
+        "xlsx": {
+          "name": "es-universidades-de-chile_ES.xlsx",
+          "size": 9418
         }
       }
     },
