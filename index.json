@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-28T02:22:58.646Z",
-  "total_datasets": 500,
-  "total_records": 423230,
+  "generated": "2026-10-28T02:23:01.023Z",
+  "total_datasets": 501,
+  "total_records": 423278,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "entertainment",
@@ -442,6 +442,33 @@
         "xlsx": {
           "name": "es-universidades-de-chile_ES.xlsx",
           "size": 9418
+        }
+      }
+    },
+    {
+      "id": "es-universidades-de-mexico",
+      "name": "Universidades de México",
+      "category": "education",
+      "record_count": 48,
+      "columns": [
+        "university",
+        "acronym",
+        "rector",
+        "campus",
+        "state",
+        "enrollment"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Universidades_de_México",
+      "updated": "2026-10",
+      "size": 13491,
+      "files": {
+        "csv": {
+          "name": "es-universidades-de-mexico_ES.csv",
+          "size": 6117
+        },
+        "xlsx": {
+          "name": "es-universidades-de-mexico_ES.xlsx",
+          "size": 10411
         }
       }
     },

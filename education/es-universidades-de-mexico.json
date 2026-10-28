@@ -1,0 +1,440 @@
+{
+  "id": "es-universidades-de-mexico",
+  "name": "Universidades de México",
+  "title": "Universidades de México",
+  "description": "Principales universidades de México con siglas, rector, sede, estado y matrícula de estudiantes.",
+  "category": "education",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Universidades_de_México",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Universidades_de_México",
+  "updated": "2026-10",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "university",
+      "label": "University",
+      "type": "string"
+    },
+    {
+      "key": "acronym",
+      "label": "Acronym",
+      "type": "string"
+    },
+    {
+      "key": "rector",
+      "label": "Rector",
+      "type": "string"
+    },
+    {
+      "key": "campus",
+      "label": "Campus",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "enrollment",
+      "label": "Enrollment",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "university": "Benemérita Universidad Autónoma de Puebla",
+      "acronym": "BUAP",
+      "rector": "María Lilia Cedillo Ramírez",
+      "campus": "Centro, Puebla de Zaragoza",
+      "state": "Puebla",
+      "enrollment": 95224
+    },
+    {
+      "university": "Centro de Investigación y Docencia Económicas",
+      "acronym": "CIDE",
+      "rector": "José Antonio Romero Tellaeche",
+      "campus": "Santa Fe, Cuajimalpa",
+      "state": "Ciudad de México",
+      "enrollment": 490
+    },
+    {
+      "university": "Colegio de México",
+      "acronym": "COLMEX",
+      "rector": "Silvia Giorguli Saucedo",
+      "campus": "Fuentes del Pedregal, Tlalpan",
+      "state": "Ciudad de México",
+      "enrollment": 460
+    },
+    {
+      "university": "Instituto Tecnológico de Sonora",
+      "acronym": "ITSON",
+      "rector": "Jesús Héctor Hernández López",
+      "campus": "Centro, Ciudad Obregón",
+      "state": "Sonora",
+      "enrollment": 16393
+    },
+    {
+      "university": "Universidad del Ejército y Fuerza Aérea Mexicanos",
+      "acronym": "",
+      "rector": "",
+      "campus": "",
+      "state": "Ciudad de México",
+      "enrollment": ""
+    },
+    {
+      "university": "Universidad Naval",
+      "acronym": "",
+      "rector": "",
+      "campus": "",
+      "state": "Ciudad de México",
+      "enrollment": ""
+    },
+    {
+      "university": "Universidad Abierta y a Distancia de México",
+      "acronym": "UnADM",
+      "rector": "Lilian Kravzov Appel",
+      "campus": "Xoco, Benito Juárez",
+      "state": "Ciudad de México",
+      "enrollment": 110650
+    },
+    {
+      "university": "Universidad Autónoma Agraria Antonio Narro",
+      "acronym": "UAAAN",
+      "rector": "Alberto Flores Olivas",
+      "campus": "Buenavista, Saltillo",
+      "state": "Coahuila",
+      "enrollment": 5820
+    },
+    {
+      "university": "Universidad Autónoma Benito Juárez de Oaxaca",
+      "acronym": "UABJO",
+      "rector": "Eduardo Carlos Bautista Martínez",
+      "campus": "Ex - Hacienda de 5 Señores, Oaxaca de Juárez",
+      "state": "Oaxaca",
+      "enrollment": 19330
+    },
+    {
+      "university": "Universidad Autónoma Chapingo",
+      "acronym": "UACh",
+      "rector": "Ángel Garduño García",
+      "campus": "Chapingo, Texcoco",
+      "state": "Estado de México",
+      "enrollment": 6396
+    },
+    {
+      "university": "Universidad Autónoma de Aguascalientes",
+      "acronym": "UAA",
+      "rector": "Sandra Yesenia Pinzón Castro",
+      "campus": "Gigante de los Arellano, Aguascalientes",
+      "state": "Aguascalientes",
+      "enrollment": 16769
+    },
+    {
+      "university": "Universidad Autónoma de Baja California",
+      "acronym": "UABC",
+      "rector": "",
+      "campus": "",
+      "state": "Baja California",
+      "enrollment": ""
+    },
+    {
+      "university": "Universidad Autónoma de Baja California Sur",
+      "acronym": "UABCS",
+      "rector": "Dante Arturo Salgado González",
+      "campus": "Universitario, La Paz",
+      "state": "Baja California Sur",
+      "enrollment": 7942
+    },
+    {
+      "university": "Universidad Autónoma de la Ciudad de México",
+      "acronym": "UACM",
+      "rector": "Mtro. Juan Carlos Aguilar Franco",
+      "campus": "Ciudad de México Col. Doctores, Del. Cuauhtémoc",
+      "state": "Ciudad de México",
+      "enrollment": 19188
+    },
+    {
+      "university": "Universidad Autónoma Metropolitana",
+      "acronym": "UAM",
+      "rector": "José Antonio de los Reyes Heredia",
+      "campus": "Ciudad de México Ex-Hacienda San Juan de Dios, Tlalpan",
+      "state": "Ciudad de México",
+      "enrollment": 57249
+    },
+    {
+      "university": "Universidad de Guadalajara",
+      "acronym": "UdeG",
+      "rector": "Karla Alejandrina Planter Pérez",
+      "campus": "Centro, Guadalajara",
+      "state": "Jalisco",
+      "enrollment": 140348
+    },
+    {
+      "university": "Universidad Autónoma de Nuevo León",
+      "acronym": "UANL",
+      "rector": "Santos Guzmán López",
+      "campus": "Ciudad Universitaria, San Nicolás de los Garza",
+      "state": "Nuevo León",
+      "enrollment": 136423
+    },
+    {
+      "university": "Universidad Autónoma de Sinaloa",
+      "acronym": "UAS",
+      "rector": "Jesús Madueña Molina",
+      "campus": "Ciudad Universitaria, Culiacán",
+      "state": "Sinaloa",
+      "enrollment": 71556
+    },
+    {
+      "university": "Universidad Autónoma del Estado de México",
+      "acronym": "UAEMéx",
+      "rector": "Carlos Eduardo Barrera Díaz",
+      "campus": "Centro, Toluca de Lerdo",
+      "state": "Estado de México",
+      "enrollment": 69794
+    },
+    {
+      "university": "Universidad Michoacana de San Nicolás de Hidalgo",
+      "acronym": "UMSNH",
+      "rector": "Yarabí Ávila González",
+      "campus": "Ciudad Universitaria, Morelia",
+      "state": "Michoacán",
+      "enrollment": 40635
+    },
+    {
+      "university": "Universidad Autónoma de Tamaulipas",
+      "acronym": "UAT",
+      "rector": "Dámaso Leonardo Anaya Alvarado",
+      "campus": "Centro, Ciudad Victoria",
+      "state": "Tamaulipas",
+      "enrollment": 38326
+    },
+    {
+      "university": "Universidad Autónoma de Ciudad Juárez",
+      "acronym": "UACJ",
+      "rector": "Juan Ignacio Camargo Nassar",
+      "campus": "FOVISSSTE Chamizal, Juárez",
+      "state": "Chihuahua",
+      "enrollment": 36414
+    },
+    {
+      "university": "Universidad Autónoma de Guerrero",
+      "acronym": "UAGro",
+      "rector": "Javier Saldaña Almazán",
+      "campus": "Ciudad Universitaria, Chilpancingo de los Bravo",
+      "state": "Guerrero",
+      "enrollment": 35448
+    },
+    {
+      "university": "Universidad de Sonora",
+      "acronym": "UNISON",
+      "rector": "María Rita Plancarte Martínez",
+      "campus": "Centro, Hermosillo",
+      "state": "Sonora",
+      "enrollment": 34176
+    },
+    {
+      "university": "Universidad Autónoma del Estado de Hidalgo",
+      "acronym": "UAEH",
+      "rector": "Octavio Castillo Acosta",
+      "campus": "Centro, Pachuca de Soto",
+      "state": "Hidalgo",
+      "enrollment": 34048
+    },
+    {
+      "university": "Universidad Autónoma de San Luis Potosí",
+      "acronym": "UASLP",
+      "rector": "Alejandro Javier Zermeño Guerra",
+      "campus": "Centro, San Luis Potosí",
+      "state": "San Luis Potosí",
+      "enrollment": 32594
+    },
+    {
+      "university": "Universidad de Guanajuato",
+      "acronym": "UG",
+      "rector": "Claudia Susana Gómez López",
+      "campus": "Centro, Guanajuato",
+      "state": "Guanajuato",
+      "enrollment": 30300
+    },
+    {
+      "university": "Universidad Juárez Autónoma de Tabasco",
+      "acronym": "UJAT",
+      "rector": "Guillermo Narváez Osorio",
+      "campus": "Magisterial, Villahermosa",
+      "state": "Tabasco",
+      "enrollment": 29446
+    },
+    {
+      "university": "Universidad Autónoma de Chihuahua",
+      "acronym": "UACH",
+      "rector": "Luis Alfonso Rivera Campos",
+      "campus": "Zona Centro, Chihuahua",
+      "state": "Chihuahua",
+      "enrollment": 28891
+    },
+    {
+      "university": "Universidad Autónoma del Estado de Morelos",
+      "acronym": "UAEM",
+      "rector": "Viridiana Aideé León Hernández",
+      "campus": "Chamilpa, Cuernavaca",
+      "state": "Morelos",
+      "enrollment": 28778
+    },
+    {
+      "university": "Universidad Autónoma de Zacatecas",
+      "acronym": "UAZ",
+      "rector": "Rubén de Jesús Ibarra Reyes",
+      "campus": "Centro Histórico, Zacatecas",
+      "state": "Zacatecas",
+      "enrollment": 28164
+    },
+    {
+      "university": "Universidad Autónoma de Coahuila",
+      "acronym": "UAdeC",
+      "rector": "Jesús Octavio Pimentel Martínez",
+      "campus": "República Oriente, Saltillo",
+      "state": "Coahuila",
+      "enrollment": 28009
+    },
+    {
+      "university": "Universidad Autónoma de Chiapas",
+      "acronym": "UNACH",
+      "rector": "Oswaldo Chacón Rojas",
+      "campus": "Colina Universitaria, Tuxtla Gutiérrez",
+      "state": "Chiapas",
+      "enrollment": 27265
+    },
+    {
+      "university": "Universidad Autónoma de Querétaro",
+      "acronym": "UAQ",
+      "rector": "Silvia Lorena Amaya Llano",
+      "campus": "Centro Universitario, Santiago de Querétaro",
+      "state": "Querétaro",
+      "enrollment": 25567
+    },
+    {
+      "university": "Universidad de Ciencias y Artes de Chiapas",
+      "acronym": "UNICACH",
+      "rector": "Fanny López Jiménez",
+      "campus": "Ciudad Universitaria Tuxtla Gutiérrez",
+      "state": "Chiapas",
+      "enrollment": ""
+    },
+    {
+      "university": "Universidad Autónoma de Yucatán",
+      "acronym": "UADY",
+      "rector": "Carlos Alberto Estrada Pinto",
+      "campus": "Centro, Mérida",
+      "state": "Yucatán",
+      "enrollment": 19173
+    },
+    {
+      "university": "Universidad de Occidente",
+      "acronym": "UAdeO",
+      "rector": "Sylvia Paz Díaz Camacho",
+      "campus": "Centro, Los Mochis",
+      "state": "Sinaloa",
+      "enrollment": 19018
+    },
+    {
+      "university": "Universidad Autónoma de Nayarit",
+      "acronym": "UAN",
+      "rector": "Norma Liliana Galván Meza",
+      "campus": "Ciudad de la Cultura, Tepic",
+      "state": "Nayarit",
+      "enrollment": 17186
+    },
+    {
+      "university": "Universidad Autónoma de Tlaxcala",
+      "acronym": "UATx",
+      "rector": "Serafín Ortiz Ortiz",
+      "campus": "La Loma Xicohténcatl, Tlaxcala de Xicohténcatl",
+      "state": "Tlaxcala",
+      "enrollment": 16179
+    },
+    {
+      "university": "Universidad Juárez del Estado de Durango",
+      "acronym": "UJED",
+      "rector": "Rubén Solís Ríos",
+      "campus": "Zona Centro, Victoria de Durango",
+      "state": "Durango",
+      "enrollment": 15519
+    },
+    {
+      "university": "Universidad de Colima",
+      "acronym": "UdeC",
+      "rector": "Christian Jorge Torres Ortiz Zermeño",
+      "campus": "Universidad, Colima",
+      "state": "Colima",
+      "enrollment": 14288
+    },
+    {
+      "university": "Universidad Autónoma de Campeche",
+      "acronym": "UACAM",
+      "rector": "José Alberto Abud Flores",
+      "campus": "Buenavista, San Francisco de Campeche",
+      "state": "Campeche",
+      "enrollment": 7871
+    },
+    {
+      "university": "Universidad Autónoma del Carmen",
+      "acronym": "UNACAR",
+      "rector": "Sandra Martha Laffón Leal",
+      "campus": "Benito Juárez, Ciudad del Carmen",
+      "state": "Campeche",
+      "enrollment": 7200
+    },
+    {
+      "university": "Universidad Autónoma del Estado de Quintana Roo",
+      "acronym": "UAEQROO",
+      "rector": "Francisco Xavier López Mena",
+      "campus": "Bosque Chetumal, Chetumal",
+      "state": "Quintana Roo",
+      "enrollment": 7090
+    },
+    {
+      "university": "Universidad Nacional Autónoma de México",
+      "acronym": "UNAM",
+      "rector": "Leonardo Lomelí Vanegas",
+      "campus": "Ciudad de México Ciudad Universitaria, Coyoacán",
+      "state": "Ciudad de México",
+      "enrollment": 257747
+    },
+    {
+      "university": "Universidad Pedagógica Nacional",
+      "acronym": "UPN",
+      "rector": "Rosa María Torres Hernández",
+      "campus": "Ciudad de México Héroes de Padierna, Tlalpan",
+      "state": "Ciudad de México",
+      "enrollment": 8976
+    },
+    {
+      "university": "Universidad Popular Autónoma de Veracruz",
+      "acronym": "UPAV",
+      "rector": "Sergio Torres Mejia",
+      "campus": "Xalapa-Enríquez",
+      "state": "Veracruz",
+      "enrollment": "40,000+"
+    },
+    {
+      "university": "Universidad Veracruzana",
+      "acronym": "UV",
+      "rector": "Martín Gerardo Aguilar Sánchez",
+      "campus": "Zona Universitaria, Xalapa",
+      "state": "Veracruz",
+      "enrollment": 73786
+    }
+  ],
+  "meta": {
+    "title": "Universidades de México - Free Download",
+    "description": "Principales universidades de México con siglas, rector, sede, estado y matrícula de estudiantes. Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Universidades de México | ListBase",
+    "seo_description": "Download Universidades de México — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Universidades_de_México"
+    ]
+  }
+}
