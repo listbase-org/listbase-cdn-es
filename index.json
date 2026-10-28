@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-27T02:18:11.699Z",
-  "total_datasets": 494,
-  "total_records": 422125,
+  "generated": "2026-10-28T02:22:46.405Z",
+  "total_datasets": 495,
+  "total_records": 422512,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -14877,6 +14877,35 @@
         "xlsx": {
           "name": "es-zaragoza-unlocode_ES.xlsx",
           "size": 20758
+        }
+      }
+    },
+    {
+      "id": "es-aves-de-espana",
+      "name": "Aves de España",
+      "category": "science",
+      "record_count": 387,
+      "columns": [
+        "species",
+        "common_name",
+        "world_distribution",
+        "habitat",
+        "size_cm",
+        "presence_in_spain",
+        "conservation_status",
+        "order"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Aves_de_España",
+      "updated": "2026-10",
+      "size": 151915,
+      "files": {
+        "csv": {
+          "name": "es-aves-de-espana_ES.csv",
+          "size": 76202
+        },
+        "xlsx": {
+          "name": "es-aves-de-espana_ES.xlsx",
+          "size": 35149
         }
       }
     },

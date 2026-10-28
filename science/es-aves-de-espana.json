@@ -1,0 +1,3936 @@
+{
+  "id": "es-aves-de-espana",
+  "name": "Aves de España",
+  "title": "Aves de España",
+  "description": "Especies de aves presentes en España con nombre científico y común, distribución, hábitat, medidas, presencia y estado de conservación.",
+  "category": "science",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Aves_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Aves_de_España",
+  "updated": "2026-10",
+  "record_count": 387,
+  "columns": [
+    {
+      "key": "species",
+      "label": "Species",
+      "type": "string"
+    },
+    {
+      "key": "common_name",
+      "label": "Common Name",
+      "type": "string"
+    },
+    {
+      "key": "world_distribution",
+      "label": "World Distribution",
+      "type": "string"
+    },
+    {
+      "key": "habitat",
+      "label": "Habitat",
+      "type": "string"
+    },
+    {
+      "key": "size_cm",
+      "label": "Size Cm",
+      "type": "string"
+    },
+    {
+      "key": "presence_in_spain",
+      "label": "Presence In Spain",
+      "type": "string"
+    },
+    {
+      "key": "conservation_status",
+      "label": "Conservation Status",
+      "type": "string"
+    },
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "species": "Lagopus muta",
+      "common_name": "Perdiz nival",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Terrenos rocosos, áridos y fríos.",
+      "size_cm": "L: 34 - 36 E: 54 - 60",
+      "presence_in_spain": "Residente escaso en la península (solo en los Pirineos).",
+      "conservation_status": "LC",
+      "order": "Galliformes"
+    },
+    {
+      "species": "Tetrao urogallus",
+      "common_name": "Urogallo",
+      "world_distribution": "Eurasia",
+      "habitat": "Bosques de coníferas y mixtos con claros y sotobosque.",
+      "size_cm": "L: 60 - 87 E: 87 - 125",
+      "presence_in_spain": "Residente escaso en la península (solo en los bosques de montaña de Pirineos y la Cordillera Cantábrica).",
+      "conservation_status": "LC",
+      "order": "Galliformes"
+    },
+    {
+      "species": "Bonasa bonasia",
+      "common_name": "Grévol",
+      "world_distribution": "Eurasia",
+      "habitat": "Bosque alpino",
+      "size_cm": "L: 35 - 37 E: 48 - 54",
+      "presence_in_spain": "Reintroducida en los Pirineos.",
+      "conservation_status": "LC",
+      "order": "Galliformes"
+    },
+    {
+      "species": "Alectoris barbara",
+      "common_name": "Perdiz moruna",
+      "world_distribution": "Norte de África",
+      "habitat": "Terrenos abiertos semidesérticos y monte bajo",
+      "size_cm": "L: 32 - 34 E: 46 - 49",
+      "presence_in_spain": "Residente escasa introducida para caza en la península, Baleares y Canarias (excepto Gran Canaria).",
+      "conservation_status": "LC",
+      "order": "Galliformes"
+    },
+    {
+      "species": "Alectoris rufa",
+      "common_name": "Perdiz roja",
+      "world_distribution": "Europa occidental",
+      "habitat": "Terrenos abiertos y secos, monte bajo, dehesas y bosque mediterráneo",
+      "size_cm": "L: 32 - 34 E: 47 - 50",
+      "presence_in_spain": "Residente en la península y Baleares e introducida en Canarias para la caza en la isla de Gran Canaria.",
+      "conservation_status": "LC",
+      "order": "Galliformes"
+    },
+    {
+      "species": "Coturnix coturnix",
+      "common_name": "Codorniz común",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Herbazales abiertos, estepas y tierras de cultivo",
+      "size_cm": "L: 16 - 20 E: 32 - 35",
+      "presence_in_spain": "Residente y estival en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Galliformes"
+    },
+    {
+      "species": "Coturnix japonica",
+      "common_name": "Codorniz japonesa",
+      "world_distribution": "Asia, introducido en Europa y América",
+      "habitat": "Herbazales abiertos, estepas y tierras de cultivo",
+      "size_cm": "L: E:",
+      "presence_in_spain": "Introducido para caza en algunas zonas de la península.",
+      "conservation_status": "NT",
+      "order": "Galliformes"
+    },
+    {
+      "species": "Perdix perdix",
+      "common_name": "Perdiz pardilla",
+      "world_distribution": "Eurasia, introducida en Norteamérica",
+      "habitat": "Herbazales abiertos, estepas y pastos",
+      "size_cm": "L: 29 - 31 E: 45 - 58",
+      "presence_in_spain": "Residente en zonas montañosas del norte de la península.",
+      "conservation_status": "LC",
+      "order": "Galliformes"
+    },
+    {
+      "species": "Phasianus colchicus",
+      "common_name": "Faisán común",
+      "world_distribution": "Asia, introducido en Europa y América",
+      "habitat": "Terrenos abiertos con matorrales y claros de los bosques",
+      "size_cm": "L: 53 - 63 E: 70 - 90",
+      "presence_in_spain": "Residente escaso introducido para caza en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Galliformes"
+    },
+    {
+      "species": "Alopochen aegyptiaca",
+      "common_name": "Ganso del Nilo",
+      "world_distribution": "África",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 63 - 73 E: 140 - 150",
+      "presence_in_spain": "Introducido en la península ibérica.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Anas acuta",
+      "common_name": "Ánade rabudo",
+      "world_distribution": "África, Eurasia y Norteamérica",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 51 - 62 E: 79 - 87",
+      "presence_in_spain": "Invernante en la península y Baleares. Invernante irregular en Canarias.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Anas crecca",
+      "common_name": "Cerceta común",
+      "world_distribution": "África, Eurasia y Norteamérica",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 34 - 38 E: 53 - 59",
+      "presence_in_spain": "Invernante en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Anas platyrhynchos",
+      "common_name": "Ánade real",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 50 - 60 E: 81 - 95",
+      "presence_in_spain": "Residente en la península y Baleares. Invernante raro en Canarias.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Anser albifrons",
+      "common_name": "Ánsar careto",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Estepas, herbazales y campos de cultivo. Cría en la tundra junto a ríos y lagos",
+      "size_cm": "L: 64 - 78 E: 130 - 160",
+      "presence_in_spain": "Invernante escaso en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Anser anser",
+      "common_name": "Ánsar común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Humerales y herbazales",
+      "size_cm": "L: 74 - 84 E: 149 - 168",
+      "presence_in_spain": "Invernante en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Anser fabalis",
+      "common_name": "Ánsar campestre",
+      "world_distribution": "Eurasia",
+      "habitat": "Estepas húmedas, campos de cultivo y humedales despejados",
+      "size_cm": "L: 69 - 88 E: 140 - 174",
+      "presence_in_spain": "Invernante escaso en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Aythya ferina",
+      "common_name": "Porrón europeo",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 42 - 49 E: 67 - 75",
+      "presence_in_spain": "Residente en la península y Baleares. Inverante irregular en Canarias.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Aythya fuligula",
+      "common_name": "Porrón moñudo",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 40 - 47 E: 65 - 72",
+      "presence_in_spain": "Invernante en la península y Baleares. Invernante irregular en Canarias.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Aythya marila",
+      "common_name": "Porrón bastardo",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 42 - 51 E: 71 - 80",
+      "presence_in_spain": "Invernante escaso Invernante escaso en la península.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Aythya nyroca",
+      "common_name": "Porrón pardo",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 38 - 42 E: 60 - 67",
+      "presence_in_spain": "Residente escaso en la península y Baleares.",
+      "conservation_status": "NT",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Branta bernicla",
+      "common_name": "Barnacla carinegra",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Tundra costera, marismas y herbazales costeros",
+      "size_cm": "L: 55 - 62 E: 105 - 117",
+      "presence_in_spain": "Invernante escasa en la península.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Branta leucopsis",
+      "common_name": "Barnacla cariblanca",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Tundra y herbazales costeros",
+      "size_cm": "L: 58 - 70 E: 120 - 142",
+      "presence_in_spain": "Invernante escasa en la península.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Bucephala clangula",
+      "common_name": "Porrón osculado",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 40 - 48 E: 62 - 77",
+      "presence_in_spain": "Invernante escaso en la península.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Clangula hyemalis",
+      "common_name": "Havelda",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 39 - 47 E: 65 - 82",
+      "presence_in_spain": "Invernante escaso en la península.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Cygnus olor",
+      "common_name": "Cisne mudo",
+      "world_distribution": "Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 145 - 160 E: 208 - 238",
+      "presence_in_spain": "Invernante en el norte de la península, reproductor esporádico.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Mareca penelope",
+      "common_name": "Silbón europeo",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 42 - 50 E: 71 - 85",
+      "presence_in_spain": "Invernante en la península y Baleares. Invernante escaso en Canarias.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Mareca strepera",
+      "common_name": "Ánade friso",
+      "world_distribution": "Eurasia, Norteamérica y norte de África",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 46 - 56 E: 78 - 90",
+      "presence_in_spain": "Residente en la península y Baleares. Invernante raro en Canarias.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Marmaronetta angustirostris",
+      "common_name": "Cerceta pardilla",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 39 - 42 E: 63 - 70",
+      "presence_in_spain": "Residente en la península, Baleares y Canaraias (solo Fuerteventura).",
+      "conservation_status": "VU",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Melanitta nigra",
+      "common_name": "Negrón común",
+      "world_distribution": "Éurasia y norte de África",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 44 - 54 E: 70 - 84",
+      "presence_in_spain": "Invernante en las costas del norte peninsular.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Melanitta fusca",
+      "common_name": "Negrón especulado",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 51 - 58 E: 79 - 97",
+      "presence_in_spain": "Invernante escaso en las costas del norte peninsular.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Mergus serrator",
+      "common_name": "Serreta mediana",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 52 - 58 E: 67 - 82",
+      "presence_in_spain": "Invernante y de paso en el norte del península.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Netta rufina",
+      "common_name": "Pato colorado",
+      "world_distribution": "Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 53 - 57 E: 85 - 90",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Oxyura jamaicensis",
+      "common_name": "Malvasía canela",
+      "world_distribution": "Norteamérica, introducida en las islas británicas",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 35 - 43 E: 53 - 62",
+      "presence_in_spain": "Invernante escasa procedente de escapes (a exterminar).",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Oxyura leucocephala",
+      "common_name": "Malvasía cabeciblanca",
+      "world_distribution": "Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 43 - 48 E: 62 - 72",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "EN",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Somateria mollissima",
+      "common_name": "Eider común",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Bahías costeras",
+      "size_cm": "L: 60 - 70 E: 95 - 105",
+      "presence_in_spain": "Invernante escaso en las costas del norte de la península.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Spatula clypeata",
+      "common_name": "Pato cuchara",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 44 - 52 E: 73 - 82",
+      "presence_in_spain": "Invernante en la península y Baleares. Invernante raro en Canarias.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Spatula querquedula",
+      "common_name": "Cerceta carretona",
+      "world_distribution": "África, Eurasia y Oceanía",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 37 - 41 E: 59 - 67",
+      "presence_in_spain": "Estival en migración en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Tadorna ferruginea",
+      "common_name": "Tarro canelo",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 58 - 70 E: 110 - 135",
+      "presence_in_spain": "Invernante raro en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Tadorna tadorna",
+      "common_name": "Tarro blanco",
+      "world_distribution": "Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 55 - 65 E: 100 - 120",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Anseriformes"
+    },
+    {
+      "species": "Podiceps auritus",
+      "common_name": "Zampullín cuellirrojo",
+      "world_distribution": "Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 31 - 38 E: 46 - 55",
+      "presence_in_spain": "Invernante en la península.",
+      "conservation_status": "LC",
+      "order": "Podicipediformes"
+    },
+    {
+      "species": "Podiceps cristatus",
+      "common_name": "Somormujo lavanco",
+      "world_distribution": "Eurasia, África y Oceanía",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 46 - 51 E: 59 - 73",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Podicipediformes"
+    },
+    {
+      "species": "Podiceps grisegena",
+      "common_name": "Somormujo cuellirrojo",
+      "world_distribution": "Eurasia y América del norte",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 40 - 46",
+      "presence_in_spain": "Invernante en la península.",
+      "conservation_status": "LC",
+      "order": "Podicipediformes"
+    },
+    {
+      "species": "Podiceps nigricollis",
+      "common_name": "Zampullín cuellinegro",
+      "world_distribution": "Eurasia, África, y América",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 28 - 34",
+      "presence_in_spain": "Residente en la península y Baleares. Invernante escaso en Canarias.",
+      "conservation_status": "LC",
+      "order": "Podicipediformes"
+    },
+    {
+      "species": "Tachybaptus ruficollis",
+      "common_name": "Zampullín común",
+      "world_distribution": "Eurasia, África y Oceanía",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 23 - 29",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Podicipediformes"
+    },
+    {
+      "species": "Phoenicopterus roseus",
+      "common_name": "Flamenco común",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 125-145 E: 140-170",
+      "presence_in_spain": "Residente en la península y Baleares. Invernante raro en Canarias.",
+      "conservation_status": "LC",
+      "order": "Phoenicopteriformes"
+    },
+    {
+      "species": "Caprimulgus europaeus",
+      "common_name": "Chotacabras europeo",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Claros y linderos de bosques, monte bajo, páramos y semidesiertos",
+      "size_cm": "L: 26 - 28 E: 57 - 64",
+      "presence_in_spain": "Estival y en migración en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Caprimulgiformes"
+    },
+    {
+      "species": "Caprimulgus ruficollis",
+      "common_name": "Chotacabras cuellirrojo",
+      "world_distribution": "Península ibérica y África occidental",
+      "habitat": "Terrenos arbolados secos, monte bajo y semidesiertos",
+      "size_cm": "L: 30 - 32 E: 65 - 68",
+      "presence_in_spain": "Estival en la península.",
+      "conservation_status": "LC",
+      "order": "Caprimulgiformes"
+    },
+    {
+      "species": "Apus affinis",
+      "common_name": "Vencejo moro",
+      "world_distribution": "África y Asia",
+      "habitat": "Montañas, bosques y cultivos con riscos y acantilados para anidar, medios urbanos",
+      "size_cm": "L: 12 E: 34 - 35",
+      "presence_in_spain": "Residente escaso",
+      "conservation_status": "LC",
+      "order": "Apodiformes"
+    },
+    {
+      "species": "Apus apus",
+      "common_name": "Vencejo común",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Montañas, bosques y cultivos con riscos y acantilados para anidar, medios urbanos",
+      "size_cm": "L: 16 - 17 E: 42 - 48",
+      "presence_in_spain": "Estival y en migración en la península, Baleares y la isla de Gran Canaria.",
+      "conservation_status": "LC",
+      "order": "Apodiformes"
+    },
+    {
+      "species": "Apus caffer",
+      "common_name": "Vencejo cafre",
+      "world_distribution": "África y sur de la península ibérica",
+      "habitat": "Terrenos accidentados",
+      "size_cm": "L: 14 E: 34 - 36",
+      "presence_in_spain": "Estival escaso en la mitad sur de la península (ampliando territorio hacia el norte).",
+      "conservation_status": "LC",
+      "order": "Apodiformes"
+    },
+    {
+      "species": "Apus pallidus",
+      "common_name": "Vencejo pálido",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Terrenos accidentados y urbanos, sobrevolando cualquier otro hábitat",
+      "size_cm": "L: 16 -17 E: 42 - 46",
+      "presence_in_spain": "Estival escaso en la península, Baleares y Canarias. Estival en Ceuta.",
+      "conservation_status": "LC",
+      "order": "Apodiformes"
+    },
+    {
+      "species": "Apus unicolor",
+      "common_name": "Vencejo unicolor",
+      "world_distribution": "Macaronesia",
+      "habitat": "Terrenos accidentados",
+      "size_cm": "L: 14 - 15 E: 38 - 39",
+      "presence_in_spain": "Residente en las Islas Canarias (todo el archipiélago).",
+      "conservation_status": "LC",
+      "order": "Apodiformes"
+    },
+    {
+      "species": "Tachymarptis melba",
+      "common_name": "Vencejo real",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Terrenos accidentados y urbanos",
+      "size_cm": "L: 20 - 22 E: 54 - 60",
+      "presence_in_spain": "Estival en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Apodiformes"
+    },
+    {
+      "species": "Pterocles alchata",
+      "common_name": "Ganga ibérica",
+      "world_distribution": "Eurasia meridional y norte de África",
+      "habitat": "Llanos semiáridos",
+      "size_cm": "L: 31 - 39 E: 54 - 65",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Pterocliformes"
+    },
+    {
+      "species": "Pterocles orientalis",
+      "common_name": "Ganga ortega",
+      "world_distribution": "Eurasia meridional y norte de África",
+      "habitat": "Llanos semiáridos",
+      "size_cm": "L: 33 - 35 E: 70 - 73",
+      "presence_in_spain": "Residente en la península y las islas de Fuerteventura y Lanzarote.",
+      "conservation_status": "LC",
+      "order": "Pterocliformes"
+    },
+    {
+      "species": "Columba bollii",
+      "common_name": "Paloma turqué",
+      "world_distribution": "Islas Canarias (solo Tenerife, La Palma, El Hierro y La Gomera)",
+      "habitat": "Laurisilva",
+      "size_cm": "L: 35 - 37 E: 65 - 68",
+      "presence_in_spain": "Residente endémica (solo Tenerife, La Palma, El Hierro y La Gomera).",
+      "conservation_status": "NT",
+      "order": "Columbiformes"
+    },
+    {
+      "species": "Columba junoniae",
+      "common_name": "Paloma rabiche",
+      "world_distribution": "Islas Canarias (solo La Gomera, La Palma y Tenerife)",
+      "habitat": "Laurisilva",
+      "size_cm": "L: 37 - 38 E: 64 - 67",
+      "presence_in_spain": "Residente endémica (solo La Gomera, La Palma y Tenerife).",
+      "conservation_status": "EN",
+      "order": "Columbiformes"
+    },
+    {
+      "species": "Columba livia",
+      "common_name": "Paloma bravía",
+      "world_distribution": "Eurasia y norte de África, introducidas en el resto del mundo",
+      "habitat": "Medios abiertos con acantilados y riscos para anidar, medios urbanos",
+      "size_cm": "L: 31 - 34 E: 63 - 70",
+      "presence_in_spain": "Residente en la península, Baleares, y Canarias.",
+      "conservation_status": "LC",
+      "order": "Columbiformes"
+    },
+    {
+      "species": "Columba oenas",
+      "common_name": "Paloma zurita",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques abiertos y dehesas",
+      "size_cm": "L: 32 - 34 E: 63 - 69",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Columbiformes"
+    },
+    {
+      "species": "Columba palumbus",
+      "common_name": "Paloma torcaz",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Claros y límites de los bosques zonas arboladas abiertas",
+      "size_cm": "L: 40 - 42 E: 75 - 80",
+      "presence_in_spain": "Residente en la península, Baleares y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Columbiformes"
+    },
+    {
+      "species": "Streptopelia decaocto",
+      "common_name": "Tórtola turca",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Zonas urbanas y suburbanas arboladas",
+      "size_cm": "L: 31 - 33 E: 47 - 55",
+      "presence_in_spain": "Residente en la península, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Columbiformes"
+    },
+    {
+      "species": "Streptopelia roseogrisea",
+      "common_name": "Tórtola rosigrís",
+      "world_distribution": "África sudafricana, desde Mauritania hasta Arabia.",
+      "habitat": "Parques y jardines de las zonas urbanas de las islas Canarias.",
+      "size_cm": "L: E:",
+      "presence_in_spain": "Residente introducida en Canarias.",
+      "conservation_status": "LC",
+      "order": "Columbiformes"
+    },
+    {
+      "species": "Streptopelia senegalensis",
+      "common_name": "Tórtola senegalesa",
+      "world_distribution": "África subsahariana, este de África, Oriente Próximo y Turquía",
+      "habitat": "La Gomera, Gran Canaria, Lanzarote y Fuerteventura. Dudosa en Tenerife",
+      "size_cm": "L: E:",
+      "presence_in_spain": "Residente, colonizadora reciente en Canarias.",
+      "conservation_status": "",
+      "order": "Columbiformes"
+    },
+    {
+      "species": "Streptopelia turtur",
+      "common_name": "Tórtola europea",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Zonas arboladas abiertas y límite de los bosques",
+      "size_cm": "L: 26 - 28 E: 47 - 53",
+      "presence_in_spain": "Estival en la península y Baleares. Residente en Canarias.",
+      "conservation_status": "LC",
+      "order": "Columbiformes"
+    },
+    {
+      "species": "Grus grus",
+      "common_name": "Grulla común",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Humerales sin árboles, dehesas y campos abiertos",
+      "size_cm": "L: 110 - 120 E: 220 - 245",
+      "presence_in_spain": "Invernante abundante en la península. Invernante escasa en Baleares.",
+      "conservation_status": "LC",
+      "order": "Gruiformes"
+    },
+    {
+      "species": "Crex crex",
+      "common_name": "Guion de codornices",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Herbazales abiertos y prados",
+      "size_cm": "L: 27 - 30 E: 46 - 53",
+      "presence_in_spain": "Estival muy rara en la península (antes era común).",
+      "conservation_status": "LC",
+      "order": "Gruiformes"
+    },
+    {
+      "species": "Fulica atra",
+      "common_name": "Focha común",
+      "world_distribution": "África, Eurasia y Oceanía",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 36 - 38 E: 70 - 80",
+      "presence_in_spain": "Residente e invernante en la península, Baleares y las islas de Tenerife, Gran Canaria y Fuerteventura.",
+      "conservation_status": "LC",
+      "order": "Gruiformes"
+    },
+    {
+      "species": "Fulica cristata",
+      "common_name": "Focha cornuda",
+      "world_distribution": "África y sur de la península ibérica",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 38 - 42 E: 75 - 85",
+      "presence_in_spain": "Residente rara en la península (sobre todo en el sur).",
+      "conservation_status": "LC",
+      "order": "Gruiformes"
+    },
+    {
+      "species": "Gallinula chloropus",
+      "common_name": "Gallineta común",
+      "world_distribution": "África, América y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 32 - 35 E: 50 - 55",
+      "presence_in_spain": "Residente en la península, Baleares, Ceuta y las islas de La Gomera, Tenerife, Gran Canaria y Fuerteventura.",
+      "conservation_status": "LC",
+      "order": "Gruiformes"
+    },
+    {
+      "species": "Porphyrio porphyrio",
+      "common_name": "Calamón común",
+      "world_distribution": "África, Eurasia y Oceanía",
+      "habitat": "Carrizales",
+      "size_cm": "L: 45 - 50 E: 90 - 100",
+      "presence_in_spain": "Residente en la península y Baleares (localmente común sobre todo en el sur de la península).",
+      "conservation_status": "LC",
+      "order": "Gruiformes"
+    },
+    {
+      "species": "Porzana parva",
+      "common_name": "Polluela bastarda",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 18 - 20 E: 34 - 39",
+      "presence_in_spain": "En migración muy escasa en la península.",
+      "conservation_status": "LC",
+      "order": "Gruiformes"
+    },
+    {
+      "species": "Porzana porzana",
+      "common_name": "Polluela pintoja",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 22 - 24 E: 37 - 42",
+      "presence_in_spain": "En migración estival muy escasa en la península.",
+      "conservation_status": "LC",
+      "order": "Gruiformes"
+    },
+    {
+      "species": "Porzana pusilla",
+      "common_name": "Polluela chica",
+      "world_distribution": "África, Eurasia y Oceanía",
+      "habitat": "Marismas y marjales",
+      "size_cm": "L: 17 - 19 E: 33 - 37",
+      "presence_in_spain": "Estival escasa en la península.",
+      "conservation_status": "LC",
+      "order": "Gruiformes"
+    },
+    {
+      "species": "Rallus aquaticus",
+      "common_name": "Rascón europeo",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Medios acuáticos con vegetación densa",
+      "size_cm": "L: 23 - 28 E: 38 - 45",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Gruiformes"
+    },
+    {
+      "species": "Otis tarda",
+      "common_name": "Avutarda común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Herbazales abiertos",
+      "size_cm": "L: 75 - 105 E: 190 - 260",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "VU",
+      "order": "Otidiformes"
+    },
+    {
+      "species": "Tetrax tetrax",
+      "common_name": "Sisón común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Terrenos abiertos",
+      "size_cm": "L: 40 - 45 E: 105 - 115",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "NT",
+      "order": "Otidiformes"
+    },
+    {
+      "species": "Chlamydotis undulata",
+      "common_name": "Avutarda hubara",
+      "world_distribution": "Norte de África",
+      "habitat": "Llanuras semiáridas",
+      "size_cm": "L: 75 - 105 E: 190 - 260",
+      "presence_in_spain": "Solo en las Islas Canarias. Residente en Lanzaronte y Fuerteventura.",
+      "conservation_status": "VU",
+      "order": "Otidiformes"
+    },
+    {
+      "species": "Clamator glandarius",
+      "common_name": "Críalo europeo",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques abiertos y dehesas",
+      "size_cm": "L: 38 - 40 E: 58 - 61",
+      "presence_in_spain": "Estival en la península y Baleares. Raro en migración en Canarias.",
+      "conservation_status": "LC",
+      "order": "Cuculiformes"
+    },
+    {
+      "species": "Cuculus canorus",
+      "common_name": "Cuco común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques, monte bajo, páramos y marismas",
+      "size_cm": "L: 32 - 34 E: 55 - 60",
+      "presence_in_spain": "Estival en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Cuculiformes"
+    },
+    {
+      "species": "Gavia arctica",
+      "common_name": "Colimbo ártico",
+      "world_distribution": "Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 63 - 75 E: 100 - 127",
+      "presence_in_spain": "Invernante en la península.",
+      "conservation_status": "LC",
+      "order": "Gaviiformes"
+    },
+    {
+      "species": "Gavia immer",
+      "common_name": "Colimbo grande",
+      "world_distribution": "Eurasia y América del Norte",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 73 - 88 E: 122 - 148",
+      "presence_in_spain": "Invernante en la península.",
+      "conservation_status": "LC",
+      "order": "Gaviiformes"
+    },
+    {
+      "species": "Gavia stellata",
+      "common_name": "Colimbo chico",
+      "world_distribution": "Eurasia y América del Norte",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 55 - 67 E: 91 - 110",
+      "presence_in_spain": "Invernante en la península.",
+      "conservation_status": "LC",
+      "order": "Gaviiformes"
+    },
+    {
+      "species": "Ardenna gravis",
+      "common_name": "Pardela capirotada",
+      "world_distribution": "Atlántico",
+      "habitat": "Ave marina",
+      "size_cm": "L: 43- 51 E: 105 - 122",
+      "presence_in_spain": "En migración en la península y Canarias.",
+      "conservation_status": "LC",
+      "order": "Procellariiformes"
+    },
+    {
+      "species": "Ardenna grisea",
+      "common_name": "Pardela sombría",
+      "world_distribution": "Atlántico y Pacífico",
+      "habitat": "Ave marina",
+      "size_cm": "L: 40 - 50 E: 95 - 110",
+      "presence_in_spain": "Estival en la península. En migración en la península y Baleares.",
+      "conservation_status": "NT",
+      "order": "Procellariiformes"
+    },
+    {
+      "species": "Bulweria bulwerii",
+      "common_name": "Petrel de Bulwer",
+      "world_distribution": "Océanos del hemisferio sur",
+      "habitat": "Ave marina",
+      "size_cm": "L: 25 - 29 E: 67 - 73",
+      "presence_in_spain": "Residente en Canarias. Divagante en el resto.",
+      "conservation_status": "LC",
+      "order": "Procellariiformes"
+    },
+    {
+      "species": "Calonectris diomedea",
+      "common_name": "Pardela cenicienta",
+      "world_distribution": "Mediterráneo y Atlántico",
+      "habitat": "Ave marina",
+      "size_cm": "L: 44 - 49 E: 117 - 135",
+      "presence_in_spain": "Estival en la península, Baleares y Ceuta. Invernante en Canarias.",
+      "conservation_status": "LC",
+      "order": "Procellariiformes"
+    },
+    {
+      "species": "Calonectris borealis",
+      "common_name": "Pardela atlántica",
+      "world_distribution": "Atlántico",
+      "habitat": "Ave marina",
+      "size_cm": "L: 48 - 56 E: 113 - 124",
+      "presence_in_spain": "Estival en la península y Canarias. En paso en Baleares.",
+      "conservation_status": "LC",
+      "order": "Procellariiformes"
+    },
+    {
+      "species": "Fulmarus glacialis",
+      "common_name": "Fulmar boreal",
+      "world_distribution": "Pacífico y Atlántico norte",
+      "habitat": "Ave marina",
+      "size_cm": "L: 43 - 52 E: 101 - 117",
+      "presence_in_spain": "Invernante escasa en la península.",
+      "conservation_status": "LC",
+      "order": "Procellariiformes"
+    },
+    {
+      "species": "Puffinus mauretanicus",
+      "common_name": "Pardela balear",
+      "world_distribution": "Mediterráneo y el Atlántico norte. Cría únicamente en Baleares",
+      "habitat": "Ave marina",
+      "size_cm": "L: 34 - 39 E: 78 - 90",
+      "presence_in_spain": "Residente en la península, Baleares y Ceuta. Cría solo en Baleares (sobre todo en Formentera).",
+      "conservation_status": "CR",
+      "order": "Procellariiformes"
+    },
+    {
+      "species": "Puffinus puffinus",
+      "common_name": "Pardela pichoneta",
+      "world_distribution": "Atlántico",
+      "habitat": "Ave marina",
+      "size_cm": "L: 25 - 30 E: 58 - 67",
+      "presence_in_spain": "Estival en la península y Canarias. En migración en la península.",
+      "conservation_status": "LC",
+      "order": "Procellariiformes"
+    },
+    {
+      "species": "Puffinus yelkouan",
+      "common_name": "Pardela mediterránea",
+      "world_distribution": "Mediterráneo y mar Negro, escaso en la costa atlántica.",
+      "habitat": "Ave marina",
+      "size_cm": "L: 34 - 39 E: 78 - 90",
+      "presence_in_spain": "Residente escasa en la península y Baleares.",
+      "conservation_status": "NT",
+      "order": "Procellariiformes"
+    },
+    {
+      "species": "Puffinus assimilis",
+      "common_name": "Pardela chica",
+      "world_distribution": "Océanos del hemisferio sur",
+      "habitat": "Ave marina",
+      "size_cm": "L: 25 - 30 E: 58 - 67",
+      "presence_in_spain": "Invernante en Canarias.",
+      "conservation_status": "LC",
+      "order": "Procellariiformes"
+    },
+    {
+      "species": "Hydrobates pelagicus",
+      "common_name": "Paíño europeo",
+      "world_distribution": "Atlántico Norte y Mediterráneo occidental",
+      "habitat": "Ave marina",
+      "size_cm": "L: 15 - 16 E: 37 - 41",
+      "presence_in_spain": "Residente en península, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Procellariiformes"
+    },
+    {
+      "species": "Oceanodroma castro",
+      "common_name": "Paíño de Madeira",
+      "world_distribution": "Atlántico y Pacífico",
+      "habitat": "Ave marina",
+      "size_cm": "L: 19 - 21 E: 43 - 46",
+      "presence_in_spain": "Residente escasa en la península y Canarias.",
+      "conservation_status": "LC",
+      "order": "Procellariiformes"
+    },
+    {
+      "species": "Oceanodroma leucorhoa",
+      "common_name": "Paíño boreal",
+      "world_distribution": "Atlántico norte",
+      "habitat": "Ave marina",
+      "size_cm": "L: 18 - 21 E: 43 - 48",
+      "presence_in_spain": "Invernante en la península.",
+      "conservation_status": "LC",
+      "order": "Procellariiformes"
+    },
+    {
+      "species": "Oceanites oceanicus",
+      "common_name": "Paíño de Wilson",
+      "world_distribution": "Antártico, Atlántico, Pacífico e Índico",
+      "habitat": "Ave marina",
+      "size_cm": "L: 16 - 18,5 E: 38 - 42",
+      "presence_in_spain": "Divagante estival en la península y Canarias.",
+      "conservation_status": "LC",
+      "order": "Procellariiformes"
+    },
+    {
+      "species": "Pelagodroma marina",
+      "common_name": "Paíño pechialbo",
+      "world_distribution": "Océanos del hemisferio sur",
+      "habitat": "Ave marina",
+      "size_cm": "L: 19 - 21 E: 41 - 44",
+      "presence_in_spain": "Escasa en las aguas Canarias. Divagante rara en el resto.",
+      "conservation_status": "LC",
+      "order": "Procellariiformes"
+    },
+    {
+      "species": "Ciconia ciconia",
+      "common_name": "Cigüeña blanca",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Originalmente ligada a cursos de agua y prados, habitual en medios urbanos y suburbanos.",
+      "size_cm": "L: 95 - 110 E: 180 - 218",
+      "presence_in_spain": "Residente en la península. En migración en Baleares y Canarias",
+      "conservation_status": "LC",
+      "order": "Ciconiiformes"
+    },
+    {
+      "species": "Ciconia nigra",
+      "common_name": "Cigüeña negra",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Anida en árboles o roquedos cerca de cursos de agua.",
+      "size_cm": "L: 90 - 105 E: 173 - 205",
+      "presence_in_spain": "Residente en la península. Rara en Baleares.",
+      "conservation_status": "LC",
+      "order": "Ciconiiformes"
+    },
+    {
+      "species": "Morus bassanus",
+      "common_name": "Alcatraz atlántico",
+      "world_distribution": "Atlántico Norte",
+      "habitat": "Ave marina",
+      "size_cm": "L: 85 - 97 E: 170 - 192",
+      "presence_in_spain": "Invernante en la península, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Suliformes"
+    },
+    {
+      "species": "Phalacrocorax aristotelis",
+      "common_name": "Cormorán moñudo",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 68 - 78 E: 95 - 110",
+      "presence_in_spain": "Residente en la península, Baleares, Canarias y Ceuta",
+      "conservation_status": "LC",
+      "order": "Suliformes"
+    },
+    {
+      "species": "Phalacrocorax carbo",
+      "common_name": "Cormorán grande",
+      "world_distribution": "África, Eurasia y Norteamérica",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 77 - 94 E: 121 - 149",
+      "presence_in_spain": "Residente en la península. Invernante en Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Suliformes"
+    },
+    {
+      "species": "Ardea alba",
+      "common_name": "Garceta grande",
+      "world_distribution": "África, Eurasia, América y Ocenanía",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 85 - 100 E: 145 - 170",
+      "presence_in_spain": "Invernante escasa en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Pelecaniformes"
+    },
+    {
+      "species": "Ardea cinerea",
+      "common_name": "Garza real",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 84 - 102 E: 155 - 175",
+      "presence_in_spain": "Residente en la península, Baleares y Ceuta. Invernante en Canarias.",
+      "conservation_status": "LC",
+      "order": "Pelecaniformes"
+    },
+    {
+      "species": "Ardea purpurea",
+      "common_name": "Garza imperial",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 70 - 90 E: 110 - 145",
+      "presence_in_spain": "Estival en península y Baleares. Estival escasa en Canarias.",
+      "conservation_status": "LC",
+      "order": "Pelecaniformes"
+    },
+    {
+      "species": "Ardeola ralloides",
+      "common_name": "Garcilla cangrejera",
+      "world_distribution": "África, Europa y Oriente próximo",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 40 - 49 E: 71 - 86",
+      "presence_in_spain": "Estival escasa península, Baleares (solo Mallorca), Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Pelecaniformes"
+    },
+    {
+      "species": "Botaurus stellaris",
+      "common_name": "Avetoro común",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 69 - 81 E: 100 - 130",
+      "presence_in_spain": "Residente en la península. Rara en Baleares.",
+      "conservation_status": "LC",
+      "order": "Pelecaniformes"
+    },
+    {
+      "species": "Bubulcus ibis",
+      "common_name": "Garcilla bueyera",
+      "world_distribution": "África, Eurasia, América y Ocenanía",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 45 - 52 E: 82 - 95",
+      "presence_in_spain": "Residente península, Baleares y Ceuta. Principalmente invernal en Canarias.",
+      "conservation_status": "LC",
+      "order": "Pelecaniformes"
+    },
+    {
+      "species": "Egretta garzetta",
+      "common_name": "Garceta común",
+      "world_distribution": "África, Eurasia, América y Ocenanía",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 55 - 65 E: 88 - 106",
+      "presence_in_spain": "Residente península, Baleares y Ceuta. Principalmente invernal en Canarias.",
+      "conservation_status": "LC",
+      "order": "Pelecaniformes"
+    },
+    {
+      "species": "Botaurus minutus",
+      "common_name": "Avetorillo común",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 33 - 38 E: 49 - 58",
+      "presence_in_spain": "Estival escasa en la península, baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Pelecaniformes"
+    },
+    {
+      "species": "Nycticorax nycticorax",
+      "common_name": "Martinete común",
+      "world_distribution": "África, América y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 58 - 65 E: 90 - 100",
+      "presence_in_spain": "Estival en la península y Baleares. Invernante en Ceuta. En migración en Canarias.",
+      "conservation_status": "LC",
+      "order": "Pelecaniformes"
+    },
+    {
+      "species": "Bostrychia hagedash",
+      "common_name": "Ibis hadada",
+      "world_distribution": "África",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 70",
+      "presence_in_spain": "Divagantes y reproducción esporádica en Canarias",
+      "conservation_status": "LC",
+      "order": "Pelecaniformes"
+    },
+    {
+      "species": "Geronticus eremita",
+      "common_name": "Ibis eremita",
+      "world_distribution": "África y Europa",
+      "habitat": "Estepas litorales semiáridas",
+      "size_cm": "L: 70 - 80 E: 120 - 135",
+      "presence_in_spain": "Rareza divagante en estado natural. Reintroducido en Cádiz.",
+      "conservation_status": "CR",
+      "order": "Pelecaniformes"
+    },
+    {
+      "species": "Platalea leucorodia",
+      "common_name": "Espátula común",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 80 - 93 E: 120 - 135",
+      "presence_in_spain": "Residente escasa en la península. En Baleares es rareza. En Canarias invernate escasa.",
+      "conservation_status": "LC",
+      "order": "Pelecaniformes"
+    },
+    {
+      "species": "Plegadis falcinellus",
+      "common_name": "Morito común",
+      "world_distribution": "África, Eurasia, América y Oceanía",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 55 - 65 E: 88 - 105",
+      "presence_in_spain": "Residente en la península. Rareza en Baleares.",
+      "conservation_status": "LC",
+      "order": "Pelecaniformes"
+    },
+    {
+      "species": "Threskiornis aethiopicus",
+      "common_name": "Ibis sagrado",
+      "world_distribution": "África",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 65 - 75 E: 120",
+      "presence_in_spain": "Divagantes y reproducción esporádica en Canarias",
+      "conservation_status": "LC",
+      "order": "Pelecaniformes"
+    },
+    {
+      "species": "Haematopus ostralegus",
+      "common_name": "Ostrero euroasiático",
+      "world_distribution": "Eurasia",
+      "habitat": "Costas",
+      "size_cm": "L: 40 - 46 E: 80 - 86",
+      "presence_in_spain": "Residente en la península. Raro en Baleares. Invernante escaso en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Himantopus himantopus",
+      "common_name": "Cigüeñuela",
+      "world_distribution": "África, América, Eurasia y Oceanía",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 35 - 40 E: 67 - 83",
+      "presence_in_spain": "Estival y residente en el sur de la península. Estival en Baleares. Estival y en migración en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Recurvirostra avosetta",
+      "common_name": "Avoceta común",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 42 - 45 E: 77 - 80",
+      "presence_in_spain": "Residente en la península y Baleares. Estival escasa en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Burhinus oedicnemus",
+      "common_name": "Alcaraván",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Estepas, planicies semidesérticas y brezales con claros",
+      "size_cm": "L: 40 - 44 E: 77 - 85",
+      "presence_in_spain": "Residente en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Glareola pratincola",
+      "common_name": "Canastera común",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Campos abiertos y márgenes secos de humedales",
+      "size_cm": "L: 23 - 26 E: 60 - 65",
+      "presence_in_spain": "Estival en la península. En migración en Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Cursorius cursor",
+      "common_name": "Corredor sahariano",
+      "world_distribution": "África y Ásia",
+      "habitat": "Llanuras áridas",
+      "size_cm": "L: 21 - 24 E: 51 - 57",
+      "presence_in_spain": "Residente solo en Canarias, islas de Lanzarote y Fuerteventura.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Charadrius alexandrinus",
+      "common_name": "Chorlitejo patinegro",
+      "world_distribution": "África, América y Eurasia",
+      "habitat": "Costas arenosas y cenagosas",
+      "size_cm": "L: 15 - 17 E: 42 - 45",
+      "presence_in_spain": "Residente en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Charadrius dubius",
+      "common_name": "Chorlitejo chico",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 14 - 17 E: 42 - 48",
+      "presence_in_spain": "Estival en la península y Baleares. Residente en Canarias (solo Tenerife, Gran Canaria y Fuerteventura).",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Charadrius hiaticula",
+      "common_name": "Chorlitejo grande",
+      "world_distribution": "África, Eurasia y Norteamérica",
+      "habitat": "Costas rocosas, playas y lodazales de estuarios",
+      "size_cm": "L: 18 - 20 E: 48 - 57",
+      "presence_in_spain": "Invernante península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Charadrius morinellus",
+      "common_name": "Chorlitejo carambolo",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Semidesiertos, estepas secas y tundra",
+      "size_cm": "L: 20 - 22 E: 57 - 64",
+      "presence_in_spain": "Estival escaso en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Pluvialis apricaria",
+      "common_name": "Chorlito dorado común",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Tundra, herbazales y lodazales costeros",
+      "size_cm": "L: 26 - 29 E: 67 - 76",
+      "presence_in_spain": "Invernante en la península.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Pluvialis squatarola",
+      "common_name": "Chorlito gris",
+      "world_distribution": "África, América, Eurasia y Oceanía",
+      "habitat": "Tundra, playas y lagunas costeras",
+      "size_cm": "L: 27 - 30 E: 71 - 83",
+      "presence_in_spain": "Invernante en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Vanellus vanellus",
+      "common_name": "Avefría europea",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Herbazales, campos de cultivo y lodazales costeros",
+      "size_cm": "L: 25 - 28 E: 69 - 81",
+      "presence_in_spain": "Residente con llegada de muchos invernantes en la península. Invernante en Baleares. Invernante escaso en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Actitis hypoleucos",
+      "common_name": "Andarríos chico",
+      "world_distribution": "África, Eurasia y Oceanía",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 19 - 21 E: 38 - 41",
+      "presence_in_spain": "Residente en la península y Baleares. Invernal en Ceuta y Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Arenaria interpres",
+      "common_name": "Vuelvepiedras común",
+      "world_distribution": "África, América, Eurasia y Oceanía",
+      "habitat": "Costas rocosas, lagos ríos y tundra",
+      "size_cm": "L: 21 - 25 E: 50 - 57",
+      "presence_in_spain": "Invernante en la península, Canarias y Ceuta. Invernante escaso en Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Calidris alba",
+      "common_name": "Correlimos tridáctilo",
+      "world_distribution": "África, América, Eurasia y Oceanía",
+      "habitat": "Costas arenosas y tundra",
+      "size_cm": "L: 20 - 21 E: 40 - 45",
+      "presence_in_spain": "Invernante en la península, Canarias y Ceuta. Invernante escaso en Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Calidris alpina",
+      "common_name": "Correlimos común",
+      "world_distribution": "África, América y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 16 - 22 E: 38 - 45",
+      "presence_in_spain": "Invernante en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Calidris canutus",
+      "common_name": "Correlimos gordo",
+      "world_distribution": "África, América, Eurasia y Oceanía",
+      "habitat": "Zonas de marea, estuarios y tundra",
+      "size_cm": "L: 23 - 25 E: 57 - 61",
+      "presence_in_spain": "Invernante en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Calidris ferruginea",
+      "common_name": "Correlimos zarapitín",
+      "world_distribution": "África, Eurasia y Oceanía",
+      "habitat": "Lodazales de marea, lagunas costeras y tundra",
+      "size_cm": "L: 18 - 23 E: 42 - 46",
+      "presence_in_spain": "Invernante y en migración en la península. Invernante en Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Calidris maritima",
+      "common_name": "Correlimos oscuro",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Zonas de marea, costas rocosas y tundra",
+      "size_cm": "L: 20 - 22 E: 42 - 46",
+      "presence_in_spain": "Invernante escaso en la costa norte de la península.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Calidris minuta",
+      "common_name": "Correlimos menudo",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Lagos, estuarios costeros y tundra",
+      "size_cm": "L: 12 - 14 E: 34 - 37",
+      "presence_in_spain": "Invernante en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Calidris temminckii",
+      "common_name": "Correlimos de Temmick",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Medios de agua dulce",
+      "size_cm": "L: 13 - 15 E: 34 - 37",
+      "presence_in_spain": "En migración e invernante raro en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Gallinago gallinago",
+      "common_name": "Agachadiza común",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 25 - 27 E: 44 - 47",
+      "presence_in_spain": "Invernante y en migración en la península y Baleares. Invernante escaso en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Limosa lapponica",
+      "common_name": "Aguja colipinta",
+      "world_distribution": "África, Eurasia y Oceanía",
+      "habitat": "Costas arenosas, estuarios y tundra",
+      "size_cm": "L: 37 - 41 E: 70 - 80",
+      "presence_in_spain": "Invernante y en migración en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Limosa limosa",
+      "common_name": "Aguja colinegra",
+      "world_distribution": "África, Eurasia y Oceanía",
+      "habitat": "Lagos y herbazales inundables",
+      "size_cm": "L: 40 - 44 E: 70 - 82",
+      "presence_in_spain": "Invernante en la península y Canarias. Invernante escaso en Baleares.",
+      "conservation_status": "NT",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Lymnocryptes minimus",
+      "common_name": "Agachadiza chica",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Medios de agua dulce",
+      "size_cm": "L: 17 - 29 E: 38 - 42",
+      "presence_in_spain": "Invernante en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Numenius arquata",
+      "common_name": "Zarapito real",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Lodazales y bancos de arena",
+      "size_cm": "L: 50 - 60 E: 80 - 100",
+      "presence_in_spain": "Invernante en la península. Invernante escaso en Baleares y Canarias.",
+      "conservation_status": "NT",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Numenius phaeopus",
+      "common_name": "Zarapito trinador",
+      "world_distribution": "África, Eurasia y Oceanía",
+      "habitat": "Pantanos, lodazales de marea y costas arenosas",
+      "size_cm": "L: 40 - 46 E: 76 - 89",
+      "presence_in_spain": "Invernante en la península, Canarias y Ceuta. Invernante escaso en Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Phalaropus fulicarius",
+      "common_name": "Falaropo picogrueso",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Costas mar abierto y tundra",
+      "size_cm": "L: 20 - 22 E: 40 - 4",
+      "presence_in_spain": "Invernante en la península. Invernante muy raro en Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Phalaropus lobatus",
+      "common_name": "Falaropo picofino",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Costas y mar abierto",
+      "size_cm": "L: 18 - 19 E: 33 - 36",
+      "presence_in_spain": "En migración en la península.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Philomachus pugnax",
+      "common_name": "Combatiente",
+      "world_distribution": "Eurasia, África y Oceanía",
+      "habitat": "Zonas fangosas y herbazales",
+      "size_cm": "L: 20 - 32 E: 48 - 58",
+      "presence_in_spain": "Invernante y en migración en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Scolopax rusticola",
+      "common_name": "Chocha perdiz",
+      "world_distribution": "Eurasia",
+      "habitat": "Bosques y zonas húmedas",
+      "size_cm": "L: 33 - 35 E: 56 - 60",
+      "presence_in_spain": "Residente en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Tringa erythropus",
+      "common_name": "Archibebe oscuro",
+      "world_distribution": "África, Eurasia y Oceanía",
+      "habitat": "Ciénagas, lagunas salobres y tundras arboladas",
+      "size_cm": "L: 29 - 32 E: 61 - 67",
+      "presence_in_spain": "Invernante en la península. invernante escaso en Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Tringa glareola",
+      "common_name": "Adarríos bastardo",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 19 - 21 E: 56 - 57",
+      "presence_in_spain": "En migración en la península y Baleares. Invernante y en migración en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Tringa nebularia",
+      "common_name": "Archibebe claro",
+      "world_distribution": "África, Eurasia y Oceanía",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 30 - 34 E: 68 - 70",
+      "presence_in_spain": "Invernante y en migración en la península y Canarias. Invernante escaso en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Tringa ochropus",
+      "common_name": "Andarríos grande",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Terrenos arbolados húmedos, ríos y lagos",
+      "size_cm": "L: 21 - 24 E: 57 - 61",
+      "presence_in_spain": "Invernante en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Tringa stagnatilis",
+      "common_name": "Archibebe fino",
+      "world_distribution": "África, Eurasia y Oceanía",
+      "habitat": "Lagos y lodazales de marea",
+      "size_cm": "L: 22 - 25 E: 55 - 59",
+      "presence_in_spain": "Invernante y en migración en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Tringa totanus",
+      "common_name": "Archibebe común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Praderas inundables y lagos",
+      "size_cm": "L: 27 - 29 E: 59 - 66",
+      "presence_in_spain": "Residente en la península y Baleares. Invernante en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Turnix sylvatica",
+      "common_name": "Torillo",
+      "world_distribution": "Norte de África, sur de Asia, península ibérica",
+      "habitat": "Monte bajo y herbazales",
+      "size_cm": "L: 15 - 16 E: 25 - 30",
+      "presence_in_spain": "Residente posiblemente extinguida en España (el último sitio que pobló fue el sur de la península).",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Stercorarius longicaudus",
+      "common_name": "Págalo rabero",
+      "world_distribution": "Eurasia, Norteamérica, Atlántico y Pacífico",
+      "habitat": "Ave marina",
+      "size_cm": "L: 48 - 53 E: 105 - 115",
+      "presence_in_spain": "Invernante escaso en la península.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Stercorarius parasiticus",
+      "common_name": "Págalo parásito",
+      "world_distribution": "Eurasia, Norteamérica, Atlántico y Pacífico",
+      "habitat": "Ave marina",
+      "size_cm": "L: 41 - 46 E: 110 - 120",
+      "presence_in_spain": "Invernante en la península, Ceuta y Canarias. Invernante raro en Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Stercorarius pomarinus",
+      "common_name": "Págalo pomarino",
+      "world_distribution": "Eurasia, Norteamérica, Atlántico y Pacífico",
+      "habitat": "Ave marina",
+      "size_cm": "L: 46 - 51 E: 125 - 135",
+      "presence_in_spain": "Invernante en la península y Ceuta. Invernante escaso en Baleares. Invernante irregular en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Stercorarius skua",
+      "common_name": "Págalo grande",
+      "world_distribution": "Europa y Atlántico",
+      "habitat": "Ave marina",
+      "size_cm": "L: 53 - 58 E: 135 - 145",
+      "presence_in_spain": "Invernante en la península, Baleares y Ceuta. Invernante escaso en Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Larus argentatus",
+      "common_name": "Gaviota argéntea",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Ave marina",
+      "size_cm": "L: 52 - 64 E: 138 - 150",
+      "presence_in_spain": "Invernante escasa en la península.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Larus audouinii",
+      "common_name": "Gaviota de Audouin",
+      "world_distribution": "Mar Mediterráneo",
+      "habitat": "Ave marina",
+      "size_cm": "L: 48 - 52 E: 125 - 140",
+      "presence_in_spain": "Residente en la península, Baleares y Ceuta.",
+      "conservation_status": "NT",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Larus canus",
+      "common_name": "Gaviota cana",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Ave marina",
+      "size_cm": "L: 40 - 42 E: 110 - 120",
+      "presence_in_spain": "Invernante en la península. Invernante rara en Baleares. Invernante irregular en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Larus fuscus",
+      "common_name": "Gaviota sombría",
+      "world_distribution": "Europa y Atlántico",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 52 - 60 E: 135 - 150",
+      "presence_in_spain": "Invernante en la peninsular, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Larus genei",
+      "common_name": "Gaviota picofina",
+      "world_distribution": "Mar Mediterráneo y Océano Índico",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 42 - 44 E: 100 - 110",
+      "presence_in_spain": "Residente escasa en la península. Invernante rara en Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Larus marinus",
+      "common_name": "Gavión atlántico",
+      "world_distribution": "Atlántico norte",
+      "habitat": "Ave marina",
+      "size_cm": "L: 67 - 78 E: 150 - 165",
+      "presence_in_spain": "Invernante escasa en la península y Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Larus melanocephalus",
+      "common_name": "Gaviota cabecinegra",
+      "world_distribution": "Mediterráneo y costas atlánticas europeas",
+      "habitat": "Ave marina",
+      "size_cm": "L: 36 - 38 E: 100 - 110",
+      "presence_in_spain": "Invernante en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Larus michahellis",
+      "common_name": "Gaviota patiamarilla",
+      "world_distribution": "Mediterráneo y costas atlánticas ibéricas",
+      "habitat": "Ave marina",
+      "size_cm": "L: 55 - 67 E: 138 - 155",
+      "presence_in_spain": "Residente en la península, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Larus minutus",
+      "common_name": "Gaviota enana",
+      "world_distribution": "Eurasia, Atlántico y Mediterráneo",
+      "habitat": "Ave marina",
+      "size_cm": "L: 25 - 27 E: 75 - 80",
+      "presence_in_spain": "Invernante en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Larus ridibundus",
+      "common_name": "Gaviota reidora común",
+      "world_distribution": "Eurasia, Norteamérica, Atlántico y Pacífico",
+      "habitat": "Medios acuáticos y suburbanos",
+      "size_cm": "L: 36 - 38 E: 100 - 110",
+      "presence_in_spain": "Invernante en la península, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Larus sabini",
+      "common_name": "Gaviota de Sabine",
+      "world_distribution": "Eurasia, Norteamérica, Atlántico y Pacífico",
+      "habitat": "Ave marina",
+      "size_cm": "L: 27 - 32 E: 90 - 100",
+      "presence_in_spain": "Invernante escasa en la península.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Rissa tridactyla",
+      "common_name": "Gaviota tridáctila",
+      "world_distribution": "Ártico, Atlántico norte y Pacífico norte",
+      "habitat": "Ave marina",
+      "size_cm": "L: 38 - 40 E: 95 - 120",
+      "presence_in_spain": "Invernante y de paso con algunas colonias de cría en la península. Invernante escasa en Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Chlidonias hybridus",
+      "common_name": "Fumarel cariblanco",
+      "world_distribution": "Costas de Eurasia, África y Oceanía",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 23 - 25 E: 74 - 78",
+      "presence_in_spain": "Estival y en migración en la península y Baleares. En migración en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Chlidonias niger",
+      "common_name": "Fumarel común",
+      "world_distribution": "Átlantico norte",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 22 - 24 E: 64 - 68",
+      "presence_in_spain": "En migración y estival escaso en la península. En migración y estival en la Baleares. Estival irregular en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Chlidonias leucopterus",
+      "common_name": "Fumarel aliblanco",
+      "world_distribution": "Costas de Eurasia, África y Oceanía",
+      "habitat": "Ave marina",
+      "size_cm": "L: 20 - 23 E: 63 - 67",
+      "presence_in_spain": "En migración en la península. En migración escasa en Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Gelochelidon nilotica",
+      "common_name": "Pagaza piconegra",
+      "world_distribution": "Costas de Eurasia, África, América y Oceanía",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 35 - 38 E: 100 - 115",
+      "presence_in_spain": "Estival escasa en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Hydroprogne caspia",
+      "common_name": "Pagaza piquirroja",
+      "world_distribution": "Costas de Eurasia, África, América y Oceanía",
+      "habitat": "Ave marina",
+      "size_cm": "L: 47 - 54 E: 130 - 145",
+      "presence_in_spain": "Invernante y en migración en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Sternula albifrons",
+      "common_name": "Charrancito común",
+      "world_distribution": "Costas de Eurasia, África y Oceanía",
+      "habitat": "Medios acuáticos",
+      "size_cm": "L: 22 - 24 E: 51 - 56",
+      "presence_in_spain": "Estival y en migración en la península y Baleares. Estival escaso en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Sterna dougallii",
+      "common_name": "Charrán rosado",
+      "world_distribution": "Costas del Atlántico, Pacífico e Índico",
+      "habitat": "Ave marina",
+      "size_cm": "L: 33 - 38 E: 72 - 80",
+      "presence_in_spain": "En migración en la península y Baleares. Invernante raro en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Sterna hirundo",
+      "common_name": "Charrán común",
+      "world_distribution": "Costas del Atlántico, Pacífico e Índico",
+      "habitat": "Ave marina",
+      "size_cm": "L: 31 - 35 E: 75 - 85",
+      "presence_in_spain": "Estival y en migración enl apenínsula y Baleares. Invernante raro en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Sterna paradisaea",
+      "common_name": "Charrán ártico",
+      "world_distribution": "Costas del Ártico y Antártico y de paso en Atlántico y Pacífico",
+      "habitat": "Ave marina",
+      "size_cm": "L: 33 - 38 E: 75 - 85",
+      "presence_in_spain": "En migración en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Thalasseus bengalensis",
+      "common_name": "Charrán bengalí",
+      "world_distribution": "Costas del Índico, Pacífico y mar Mediterráneo",
+      "habitat": "Ave marina",
+      "size_cm": "L: 36 - 41 E: 95 - 110",
+      "presence_in_spain": "En migración en la península, Baleares y sobre todo por Ceuta",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Thalasseus sandvicensis",
+      "common_name": "Charrán patinegro",
+      "world_distribution": "Costas del Atlántico, Índico y Pacífico americano",
+      "habitat": "Ave marina",
+      "size_cm": "L: 36 - 41 E: 95 - 105",
+      "presence_in_spain": "Residente en la península, Baleares y Ceuta. Invernante en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Alle alle",
+      "common_name": "Mérgulo atlántico",
+      "world_distribution": "Atlántico norte",
+      "habitat": "Ave marina",
+      "size_cm": "L: 17 19 E: 34 - 38",
+      "presence_in_spain": "Invernante escaso en la península.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Alca torda",
+      "common_name": "Alca común",
+      "world_distribution": "Atlántico norte y Mediterráneo occidental",
+      "habitat": "Ave marina",
+      "size_cm": "L: 37 - 39 E: 63 - 68",
+      "presence_in_spain": "Invernante y de paso en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Fratercula arctica",
+      "common_name": "Frailecillo común",
+      "world_distribution": "Atlántico norte y Mediterráneo occidental",
+      "habitat": "Ave marina",
+      "size_cm": "L: 26 - 30 E: 47 - 63",
+      "presence_in_spain": "Invernante y de paso en la peínsula y Baleares. Invernante raro en Canarias.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Uria aalge",
+      "common_name": "Arao común",
+      "world_distribution": "Atlántico norte",
+      "habitat": "Ave marina",
+      "size_cm": "L: 38 - 43 E: 64 - 73",
+      "presence_in_spain": "Invernante y de paso en la península.",
+      "conservation_status": "LC",
+      "order": "Charadriiformes (limícolas)"
+    },
+    {
+      "species": "Phaethon aethereus",
+      "common_name": "Rabijunco etéreo",
+      "world_distribution": "Pacífico oriental, Atlántico e Índico occidental",
+      "habitat": "Costas",
+      "size_cm": "Hierro, La Gomera, Fuerteventura y Lanzarote",
+      "presence_in_spain": "L: 90 - 105 E: 100 - 110",
+      "conservation_status": "Residente",
+      "order": "Phaethontiformes (rabijuncos)"
+    },
+    {
+      "species": "Tyto alba",
+      "common_name": "Lechuza común",
+      "world_distribution": "África, América, Eurasia y Oceanía",
+      "habitat": "Terrenos abiertos con árboles, medios urbanos rurales",
+      "size_cm": "L: 33 - 35 E: 85 - 93",
+      "presence_in_spain": "Residente en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Strigiformes (rapaces nocturnas)"
+    },
+    {
+      "species": "Otus scops",
+      "common_name": "Autillo",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Áreas con árboles planifolios",
+      "size_cm": "L: 19 - 20 E: 53 - 63",
+      "presence_in_spain": "Estival en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Strigiformes (rapaces nocturnas)"
+    },
+    {
+      "species": "Bubo bubo",
+      "common_name": "Búho real",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Terrenos con riscos entre bosques, matorrales o páramos",
+      "size_cm": "L: 60 - 75 E: 160 - 168",
+      "presence_in_spain": "Residente en la península, Baleares y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Strigiformes (rapaces nocturnas)"
+    },
+    {
+      "species": "Athene noctua",
+      "common_name": "Mochuelo europeo",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Terrenos abiertos",
+      "size_cm": "L: 21 - 23 E: 54 - 58",
+      "presence_in_spain": "Residente en la península, Baleares y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Strigiformes (rapaces nocturnas)"
+    },
+    {
+      "species": "Strix aluco",
+      "common_name": "Cárabo común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques y terrenos arbolados",
+      "size_cm": "L: 37 - 39 E: 94 - 104",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Strigiformes (rapaces nocturnas)"
+    },
+    {
+      "species": "Asio otus",
+      "common_name": "Búho chico",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Bosques y terrenos arbolados",
+      "size_cm": "L: 35 - 37 E: 90 - 100",
+      "presence_in_spain": "Residente en la península, Baleares y Canarias",
+      "conservation_status": "LC",
+      "order": "Strigiformes (rapaces nocturnas)"
+    },
+    {
+      "species": "Asio flammeus",
+      "common_name": "Lechuza campestre",
+      "world_distribution": "África, América y Eurasia",
+      "habitat": "Páramos y herbazales",
+      "size_cm": "L: 37 - 39 E: 95 - 110",
+      "presence_in_spain": "Invernante en la península y Ceuta. Invernante raro en Baleares.",
+      "conservation_status": "LC",
+      "order": "Strigiformes (rapaces nocturnas)"
+    },
+    {
+      "species": "Aegolius funereus",
+      "common_name": "Mochuelo boreal",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Bosques de coníferas",
+      "size_cm": "L: 24 - 26 E: 54 - 62",
+      "presence_in_spain": "Residente en los Pirineos.",
+      "conservation_status": "LC",
+      "order": "Strigiformes (rapaces nocturnas)"
+    },
+    {
+      "species": "Pandion haliaetus",
+      "common_name": "Águila pescadora",
+      "world_distribution": "América, África y Eurasia",
+      "habitat": "Médios acuáticos",
+      "size_cm": "L: 52 - 60 E: 152 - 167",
+      "presence_in_spain": "Residente escasa en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Accipiter gentilis",
+      "common_name": "Azor",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Bosques",
+      "size_cm": "L: 49 - 64 E: 93 - 127",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Accipiter nisus",
+      "common_name": "Gavilán",
+      "world_distribution": "Eurasia",
+      "habitat": "Bosques",
+      "size_cm": "L: 29 - 41 E: 58 - 80",
+      "presence_in_spain": "Residente en la península y Canarias. Invernante en Baleares.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Aegypius monachus",
+      "common_name": "Buitre negro",
+      "world_distribution": "Eurasia",
+      "habitat": "Dehesa medierránea",
+      "size_cm": "L: 100 - 115 E: 250 - 285",
+      "presence_in_spain": "Residente en la península. Residente escaso en Baleares.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Aquila adalberti",
+      "common_name": "Águila imperial ibérica",
+      "world_distribution": "Península ibérica",
+      "habitat": "Desde pinares de montaña a medios costeros. Prefiere dehesas con relieves suaves y buenas poblaciones de conejo.",
+      "size_cm": "L: 72 - 85 E: 180 - 210",
+      "presence_in_spain": "Residente endémica de la península ibérica (España y Portugal).",
+      "conservation_status": "VU",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Aquila chrysaetos",
+      "common_name": "Águila real",
+      "world_distribution": "Eurasia, Norteamérica y norte de África",
+      "habitat": "Amplia variedad de hábitats, principalmente zonas montañosas",
+      "size_cm": "L: 80 - 93 E: 190 - 225",
+      "presence_in_spain": "Residente en la península. Raro en Baleares.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Buteo buteo",
+      "common_name": "Busardo ratonero",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Campos de cultivo, monte y dehesa mediterráneos",
+      "size_cm": "L: 46 - 58 E: 110 - 132",
+      "presence_in_spain": "Residente en la península y Canarias.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Buteo rufinus",
+      "common_name": "Ratonero moro",
+      "world_distribution": "Norte de África y Eurasia",
+      "habitat": "Estepas y llanuras semidesérticas",
+      "size_cm": "L: 50 - 55 E: 115 - 125",
+      "presence_in_spain": "Residente en Ceuta. Residente escaso y nidificante en Cádiz (comienzo de colonización).",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Circaetus gallicus",
+      "common_name": "Águila culebrera",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Zonas abiertas de clima mediterráneo, donde haya matorral bajo, cercanos a las masas forestales",
+      "size_cm": "L: 62 - 69 E: 162 - 178",
+      "presence_in_spain": "Estival en la península. En paso en Ceuta.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Circus aeruginosus",
+      "common_name": "Aguilucho lagunero",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Humedales",
+      "size_cm": "L: 43 - 44 E: 115 - 140",
+      "presence_in_spain": "Residente en la península. Residente raro en Baleares.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Circus cyaneus",
+      "common_name": "Aguilucho pálido",
+      "world_distribution": "Eurasia, Norteamérica y norte de África",
+      "habitat": "Estepa cerealista",
+      "size_cm": "L: 45 - 55 E: 97 - 118",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Circus pygargus",
+      "common_name": "Aguilucho cenizo",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Estepa cerealista",
+      "size_cm": "L: 39 - 50 E: 96 - 116",
+      "presence_in_spain": "Estival en la península. En migración en Baleares.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Elanus caeruleus",
+      "common_name": "Elanio azul",
+      "world_distribution": "Asia, sur de Europa y norte de África",
+      "habitat": "Estepa cerealista",
+      "size_cm": "L: 31 - 36 E: 71 - 85",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Gypaetus barbatus",
+      "common_name": "Quebrantahuesos",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Alta montaña",
+      "size_cm": "L: 105 - 125 E: 235 - 275",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Gyps fulvus",
+      "common_name": "Buitre leonado",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Cría en roquedos, se alimenta en zonas abiertas de montaña y llano.",
+      "size_cm": "L: 95 - 110 E: 230 - 265",
+      "presence_in_spain": "Residente en la península, Baleares y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Gyps rueppelli",
+      "common_name": "Buitre moteado",
+      "world_distribution": "África y sur de la península ibérica",
+      "habitat": "Cría en roquedos, se alimenta en zonas abiertas de montaña y llano.",
+      "size_cm": "L: 85 - 95 E: 220 - 250",
+      "presence_in_spain": "Residente escaso",
+      "conservation_status": "CR",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Haliaeetus albicilla",
+      "common_name": "Pigargo europeo",
+      "world_distribution": "Eurasia y Groenlandia",
+      "habitat": "Costas y humedales.",
+      "size_cm": "L: 80 - 90 E: 200 - 240",
+      "presence_in_spain": "Extinta, proyectos de reintroducción en curso.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Hieraaetus fasciatus",
+      "common_name": "Águila-azor perdicera",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Zonas forestales mezcladas con zonas de matorral y terrenos abiertos",
+      "size_cm": "L: 55 - 65 E: 145 - 165",
+      "presence_in_spain": "Residente en la península. Residente raro en Baleares.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Hieraaetus pennatus",
+      "common_name": "Aguililla calzada",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Zonas forestales mezcladas con zonas de matorral y terrenos abiertos",
+      "size_cm": "L: 42 - 51 E: 110 - 135",
+      "presence_in_spain": "Estival y en migración en la península, Baleares y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Milvus migrans",
+      "common_name": "Milano negro",
+      "world_distribution": "África, Eurasia y Oceanía",
+      "habitat": "Dehesas, campos de cultivo y áreas abiertas, a menudo cercanos a masas de agua",
+      "size_cm": "L: 48 - 58 E: 130 - 155",
+      "presence_in_spain": "Estival en la península.Estival escaso en Canarias.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Milvus milvus",
+      "common_name": "Milano real",
+      "world_distribution": "África y Europa",
+      "habitat": "Dehesas, campos de cultivo y áreas abiertas",
+      "size_cm": "L: 61 - 72 E: 140 - 165",
+      "presence_in_spain": "Residente en la península. Residente escaso en Baleares.",
+      "conservation_status": "NT",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Neophron percnopterus",
+      "common_name": "Alimoche",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Cría en roquedos, se alimenta en zonas abiertas de montaña y llano",
+      "size_cm": "L: 55 - 65 E: 155 - 170",
+      "presence_in_spain": "Estival en la península. Residente en Baleares (Mallorca y Menorca) y Canarias (Fuerteventura y Lanzarote).",
+      "conservation_status": "EN",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Pernis apivorus",
+      "common_name": "Abejero europeo",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Zonas forestales mezcladas con zonas de matorral y terrenos abiertos",
+      "size_cm": "L: 52 - 59 E: 113 - 135",
+      "presence_in_spain": "Estival en la península. Estival escaso en Baleares. En paso en Ceuta.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Falco columbarius",
+      "common_name": "Esmerejón",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Tundras, estepas y páramos abiertos",
+      "size_cm": "L: 26 - 33 E: 55 - 69",
+      "presence_in_spain": "Invernante en la península. Invernante raro en Baleares.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Falco eleonorae",
+      "common_name": "Halcón de Eleonor",
+      "world_distribution": "Área mediterránea",
+      "habitat": "Costas e islas",
+      "size_cm": "L: 36 - 42 E: 87 - 104",
+      "presence_in_spain": "Estival escaso en la península y Canarias. Estival nidificante en Baleares.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Falco naumanni",
+      "common_name": "Cernícalo primilla",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Llanuras abiertas y secas",
+      "size_cm": "L: 27 - 33 E: 63 - 72",
+      "presence_in_spain": "Estival en la península.",
+      "conservation_status": "VU",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Falco peregrinus",
+      "common_name": "Halcón peregrino",
+      "world_distribution": "África, América, Eurasia y Oceanía",
+      "habitat": "Montañas, páramos y costas con riscos para anidar",
+      "size_cm": "L: 52 - 59 E: 113 - 135",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Falco subbuteo",
+      "common_name": "Alcotán",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Terrenos abiertos con arboledas",
+      "size_cm": "L: 29 - 35 E: 70 - 84",
+      "presence_in_spain": "Estival en la península. Raro en migración en Baleares.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Falco tinnunculus",
+      "common_name": "Cernícalo común",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Espacios abiertos y semiboscosos",
+      "size_cm": "L: 31 - 37 E: 68 - 78",
+      "presence_in_spain": "Residente en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Falco vespertinus",
+      "common_name": "Cernícalo patirrojo",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Herbazales y tierras pantanosas",
+      "size_cm": "L: 28 - 34 E: 65 - 76",
+      "presence_in_spain": "En migración enl apenínsula. En migración escasa en Baleares.",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Falco pelegrinoides",
+      "common_name": "Halcón tagarote",
+      "world_distribution": "Norte de África",
+      "habitat": "Acantilados marinos",
+      "size_cm": "L: 35 - 40 E: 80 - 100",
+      "presence_in_spain": "Residente en Canarias (solo Tenerife, Fuerteventura y Lanzarote).",
+      "conservation_status": "LC",
+      "order": "Falconiformes"
+    },
+    {
+      "species": "Myiopsitta monachus",
+      "common_name": "Cotorra monje",
+      "world_distribution": "Sudamérica",
+      "habitat": "Terrenos arbolados abiertos",
+      "size_cm": "L: 28 - 30 E: 31 - 34",
+      "presence_in_spain": "Residente procedente de escapes en la península, Baleares y Canarias (La Palma, Tenerife, Gran Canaria y Fuerteventura).",
+      "conservation_status": "LC",
+      "order": "Psittaciformes"
+    },
+    {
+      "species": "Psittacula krameri",
+      "common_name": "Cotorra de Kramer",
+      "world_distribution": "África y Asia",
+      "habitat": "Bosques y sabanas arboladas",
+      "size_cm": "L: 38 - 42 E: 42 - 48",
+      "presence_in_spain": "Residente procedente de escapes en la península, Baleares y Canarias (Tenerife y Gran Canaria).",
+      "conservation_status": "LC",
+      "order": "Psittaciformes"
+    },
+    {
+      "species": "Alcedo atthis",
+      "common_name": "Martín pescador",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Ríos y lagos",
+      "size_cm": "L: 16 - 17 E: 24 - 26",
+      "presence_in_spain": "Residente en la península y Ceuta. Invernante escaso en Baleares.",
+      "conservation_status": "LC",
+      "order": "Coraciiformes"
+    },
+    {
+      "species": "Merops apiaster",
+      "common_name": "Abejaruco europeo",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Terrenos abiertos y valles fluviales",
+      "size_cm": "L: 27 - 29 E: 44 - 49",
+      "presence_in_spain": "Estival en la península, Baleares y Ceuta. Escaso en migración en Canarias.",
+      "conservation_status": "LC",
+      "order": "Coraciiformes"
+    },
+    {
+      "species": "Coracias garrulus",
+      "common_name": "Carraca europea",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Terrenos secos con arboledas abiertas",
+      "size_cm": "L: 30 - 32 E: 66 - 73",
+      "presence_in_spain": "Estival escasa en la península y Ceuta. Estival rara en Baleares. Rara en migración en Canarias.",
+      "conservation_status": "NT",
+      "order": "Coraciiformes"
+    },
+    {
+      "species": "Upupa epops",
+      "common_name": "Abubilla",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Terrenos llanos y valles con árboles o arbustos",
+      "size_cm": "L: 26 - 28 E: 42 - 46",
+      "presence_in_spain": "Residente en la península, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Coraciiformes"
+    },
+    {
+      "species": "Dendrocopos major",
+      "common_name": "Pico picapinos",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques",
+      "size_cm": "L: 22 - 23 E: 34 - 39",
+      "presence_in_spain": "Residente en la península y Canarias.",
+      "conservation_status": "LC",
+      "order": "Piciformes"
+    },
+    {
+      "species": "Dendrocoptes medius",
+      "common_name": "Pico mediano",
+      "world_distribution": "Europa y oriente próximo",
+      "habitat": "Bosques",
+      "size_cm": "L: 20 - 22 E: 33 - 34",
+      "presence_in_spain": "Residente escaso en la península.",
+      "conservation_status": "LC",
+      "order": "Piciformes"
+    },
+    {
+      "species": "Dendrocopos leucotos",
+      "common_name": "Pico dorsiblanco",
+      "world_distribution": "Eurasia",
+      "habitat": "Bosques",
+      "size_cm": "L: 24 - 26 E: 38 - 40",
+      "presence_in_spain": "Residente en el Pirineo.",
+      "conservation_status": "LC",
+      "order": "Piciformes"
+    },
+    {
+      "species": "Dryobates minor",
+      "common_name": "Pico menor",
+      "world_distribution": "Eurasia norte de África",
+      "habitat": "Bosques",
+      "size_cm": "L: 14 - 15 E: 25 - 27",
+      "presence_in_spain": "Residente escaso en la península.",
+      "conservation_status": "LC",
+      "order": "Piciformes"
+    },
+    {
+      "species": "Dryocopus martius",
+      "common_name": "Pito negro",
+      "world_distribution": "Eurasia",
+      "habitat": "Bosques",
+      "size_cm": "L: 45 - 47 E: 64 - 68",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Piciformes"
+    },
+    {
+      "species": "Jynx torquilla",
+      "common_name": "Torcecuello",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Bosques",
+      "size_cm": "L: 16 - 17 E: 25 - 27",
+      "presence_in_spain": "Estival en la península y Baleares. Residente escaso en la península.",
+      "conservation_status": "LC",
+      "order": "Piciformes"
+    },
+    {
+      "species": "Picus sharpei",
+      "common_name": "Pito ibérico",
+      "world_distribution": "Península ibérica",
+      "habitat": "Bosques",
+      "size_cm": "L: 31 - 33 E: 40 - 42",
+      "presence_in_spain": "Residente endémico de la península ibérica (España y Portugal).",
+      "conservation_status": "LC",
+      "order": "Piciformes"
+    },
+    {
+      "species": "Oriolus oriolus",
+      "common_name": "Oropéndola",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Arboledas de latifoliadas",
+      "size_cm": "L: 22 - 25",
+      "presence_in_spain": "Estival en la península y Ceuta. En migración en Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Tchagra senegalus",
+      "common_name": "Chagra de Senegal",
+      "world_distribution": "Norte de África y península arábiga",
+      "habitat": "áreas de matorral, bosques dispersos y cultivos.",
+      "size_cm": "L: 19 - 22",
+      "presence_in_spain": "Residente solo en Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Lanius collurio",
+      "common_name": "Alcaudón dorsirrojo",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Zonas abiertas con árboles diseminados y arbustos espinosos",
+      "size_cm": "L: 17",
+      "presence_in_spain": "Estival en la península, Baleares y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Lanius excubitor",
+      "common_name": "Alcaudón real norteño",
+      "world_distribution": "Eurasia",
+      "habitat": "Zonas abiertas con árboles diseminados y arbustos espinosos",
+      "size_cm": "L: 24",
+      "presence_in_spain": "Invernante escaso en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Lanius meridionalis",
+      "common_name": "Alcaudón real meridional",
+      "world_distribution": "África y sur de Europa",
+      "habitat": "Zonas abiertas con árboles diseminados y arbustos espinosos",
+      "size_cm": "L: 24",
+      "presence_in_spain": "Residente en la península y Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Lanius minor",
+      "common_name": "Alcaudón chico",
+      "world_distribution": "Eurasia",
+      "habitat": "Llanos abiertos",
+      "size_cm": "L: 20",
+      "presence_in_spain": "Estival muy escaso en el NE de la península",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Lanius senator",
+      "common_name": "Alcaudón común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Arboledas y zonas de monte bajo",
+      "size_cm": "L: 18",
+      "presence_in_spain": "Estival en la península y Baleares. En migración en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Corvus albus",
+      "common_name": "Cuervo pío",
+      "world_distribution": "África",
+      "habitat": "Terrenos abiertos y forestales",
+      "size_cm": "L: 50",
+      "presence_in_spain": "Ceuta, Tenerife y Gran Canaria",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Corvus corone",
+      "common_name": "Corneja negra",
+      "world_distribution": "Europa",
+      "habitat": "Bosques y arboledas abiertas",
+      "size_cm": "L: 44 - 51 E: 84 - 100",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Corvus cornix",
+      "common_name": "Corneja cenicienta",
+      "world_distribution": "Eurasia",
+      "habitat": "Zonas urbanas",
+      "size_cm": "L: 44 - 51 E: 84 - 100",
+      "presence_in_spain": "Residente escaso en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Corvus corax",
+      "common_name": "Cuervo",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Terrenos abiertos y forestales",
+      "size_cm": "L: 54 - 67 E: 115 - 130",
+      "presence_in_spain": "Residente en la península, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Corvus monedula",
+      "common_name": "Grajilla",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Hábitats abiertos variados con riscos o edificios para anidar",
+      "size_cm": "L: 30 - 34 E: 64 - 7326",
+      "presence_in_spain": "Residente en la península y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Corvus frugilegus",
+      "common_name": "Graja",
+      "world_distribution": "Eurasia",
+      "habitat": "Terrenos abiertos con árboles",
+      "size_cm": "L: 41 - 49 E: 81 - 94",
+      "presence_in_spain": "Residente escaso y invernante en la península",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Cyanopica cooki",
+      "common_name": "Rabilargo ibérico",
+      "world_distribution": "Península ibérica",
+      "habitat": "Bosques mediterráneos aclarados",
+      "size_cm": "L: 34",
+      "presence_in_spain": "Residente endémico de la península ibérica (España y Portugal).",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Garrulus glandarius",
+      "common_name": "Arrendajo",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques",
+      "size_cm": "L: 32 - 35 E: 54 - 58",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Pica pica",
+      "common_name": "Urraca",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Terrenos abiertos y arboledas despejadas",
+      "size_cm": "L: 35",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Pyrrhocorax graculus",
+      "common_name": "Chova piquigualda",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Montañas",
+      "size_cm": "L: 36 - 39 E: 65 - 74",
+      "presence_in_spain": "Residente en la península y Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Pyrrhocorax pyrrhocorax",
+      "common_name": "Chova piquirroja",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Laderas de montaña, altiplanos y zonas rocosas",
+      "size_cm": "L: 37 - 41 E: 68 - 80",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Acrocephalus arundinaceus",
+      "common_name": "Carricero tordal",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Áreas palustres y ribereñas",
+      "size_cm": "L: 16 - 20",
+      "presence_in_spain": "Estival en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Acrocephalus melanopogon",
+      "common_name": "Carricerín real",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Áreas palustres y ribereñas",
+      "size_cm": "L: 12 - 13,5",
+      "presence_in_spain": "Residente escaso en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Acrocephalus paludicola",
+      "common_name": "Carricerín cejudo",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Áreas palustres y ribereñas",
+      "size_cm": "L: 11,5 - 13",
+      "presence_in_spain": "En migración en la península.",
+      "conservation_status": "VU",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Acrocephalus schoenobaenus",
+      "common_name": "Carricerín común",
+      "world_distribution": "África Eurasia",
+      "habitat": "Áreas palustres y ribereñas",
+      "size_cm": "L: 115,5 - 13",
+      "presence_in_spain": "En migración y estival escaso en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Acrocephalus scirpaceus",
+      "common_name": "Carricero común",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Áreas palustres y ribereñas",
+      "size_cm": "L: 12,5 - 14",
+      "presence_in_spain": "Estival en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Hippolais icterina",
+      "common_name": "Zarcero icterino",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Áreas arboladas abiertas",
+      "size_cm": "L: 12 - 13,5",
+      "presence_in_spain": "En migración en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Hippolais pallida",
+      "common_name": "Zarcero pálido",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Vegetación de ribera",
+      "size_cm": "L: 12 - 14",
+      "presence_in_spain": "Estival escaso en el sur de la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Hippolais polyglotta",
+      "common_name": "Zarcero común",
+      "world_distribution": "África y Europa",
+      "habitat": "Arbustos y zarzales",
+      "size_cm": "L: 12 - 13",
+      "presence_in_spain": "Estival en la península y Ceuta. En migración en Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Cettia cetti",
+      "common_name": "Cetia ruiseñor",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Áreas arbustivas de ríos",
+      "size_cm": "L: 13 - 14",
+      "presence_in_spain": "Residente en la península, Baleares y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Locustella luscinioides",
+      "common_name": "Buscarla unicolor",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Áreas palustres y arbustivas",
+      "size_cm": "L: 13,5 - 15",
+      "presence_in_spain": "Estival escaso y en migración en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Locustella naevia",
+      "common_name": "Buscarla pintoja",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Herbazales húmedos con arbustos",
+      "size_cm": "L: 12,5 - 13,5",
+      "presence_in_spain": "Estival escaso y en migración en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Phylloscopus canariensis",
+      "common_name": "Mosquitero canario",
+      "world_distribution": "Islas Canarias (solo La Palma, Hierro, La Gomera, Tenerife y Gran Canaria)",
+      "habitat": "Bosques y matorrales",
+      "size_cm": "L: 10 - 11",
+      "presence_in_spain": "Residente endémico en La Palma, El Hierro, La Gomera, Tenerife y Gran Canaria.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Phylloscopus collybita",
+      "common_name": "Mosquitero común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques y matorrales húmedos",
+      "size_cm": "L: 10 - 12",
+      "presence_in_spain": "Invernante y residente en el norte de la península, invernante en Baleares y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Phylloscopus bonelli",
+      "common_name": "Mosquitero papialbo",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques no muy húmedos",
+      "size_cm": "L: 10,5 - 12",
+      "presence_in_spain": "Estival en la península. En migración en Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Phylloscopus ibericus",
+      "common_name": "Mosquitero ibérico",
+      "world_distribution": "Península ibérica y África noroccidental",
+      "habitat": "Bosques y matorrales frescos",
+      "size_cm": "L: 10 - 12",
+      "presence_in_spain": "Estival en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Phylloscopus sibilatrix",
+      "common_name": "Mosquitero silbador",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Bosques con poco sotobosque",
+      "size_cm": "L: 11 - 12,5",
+      "presence_in_spain": "Estival muy escaso en la península y Baleares. Migrador muy escaso en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Phylloscopus trochilus",
+      "common_name": "Mosquitero musical",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Bosques caducifolios abiertos",
+      "size_cm": "L: 11 - 12,5",
+      "presence_in_spain": "En migración en la península, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Sylvia atricapilla",
+      "common_name": "Curruca capirotada",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques y arboledas",
+      "size_cm": "L: 13,5 - 15",
+      "presence_in_spain": "Residente en la península, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Sylvia balearica",
+      "common_name": "Curruca balear",
+      "world_distribution": "Islas Baleares excepto Menorca",
+      "habitat": "Matorral mediterráneo",
+      "size_cm": "L: 15 - 16",
+      "presence_in_spain": "Residente endémica de las Islas Baleares (excepto Menorca).",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Sylvia borin",
+      "common_name": "Curruca mosquitera",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Arbustos de bosques húmedos",
+      "size_cm": "L: 13 - 14,5",
+      "presence_in_spain": "Estival en la península y Ceuta. En migración en Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Sylvia cantillans",
+      "common_name": "Curruca carrasqueña",
+      "world_distribution": "Área mediterránea",
+      "habitat": "Bosque mediterráneo y monte bajo",
+      "size_cm": "L: 12 - 13",
+      "presence_in_spain": "Estival en la península, Baleares y Ceuta. Escasa en migración en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Sylvia communis",
+      "common_name": "Curruca zarcera",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Bordes arbustivos de bosques",
+      "size_cm": "L: 13 - 15",
+      "presence_in_spain": "Estival en la península y Ceuta. En migración en Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Sylvia conspicillata",
+      "common_name": "Curruca tomillera",
+      "world_distribution": "África y sur de Europa",
+      "habitat": "Áreas de matorral bajo",
+      "size_cm": "L: 12 - 13",
+      "presence_in_spain": "Estival en la península. Estival escasa en Baleares. Residente en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Sylvia curruca",
+      "common_name": "Curruca zarcerilla",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Bordes arbustivos de bosques",
+      "size_cm": "L: 11,5 - 13,5",
+      "presence_in_spain": "En migración en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Sylvia hortensis",
+      "common_name": "Curruca mirlona",
+      "world_distribution": "África y Eurasia mediterránea",
+      "habitat": "Bosque mediterráneo y dehesas",
+      "size_cm": "L: 15 - 16",
+      "presence_in_spain": "Estival en la península y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Sylvia melanocephala",
+      "common_name": "Curruca cabecinegra",
+      "world_distribution": "Área mediterránea",
+      "habitat": "Áreas de matorral",
+      "size_cm": "L: 13 - 14",
+      "presence_in_spain": "Residente en la península, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Sylvia subalpina",
+      "common_name": "Curruca subalpina",
+      "world_distribution": "Área mediterránea central",
+      "habitat": "Matorral mediterráneo",
+      "size_cm": "L: 11,5 – 13",
+      "presence_in_spain": "Estival en Mallorca.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Sylvia undata",
+      "common_name": "Curruca rabilarga",
+      "world_distribution": "Área mediterránea",
+      "habitat": "Áreas de matorral",
+      "size_cm": "L: 13 - 14",
+      "presence_in_spain": "Residente en península y Baleares.",
+      "conservation_status": "NT",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Panurus biarmicus",
+      "common_name": "Bigotudo",
+      "world_distribution": "Eurasia",
+      "habitat": "Áreas palustres y ribereñas",
+      "size_cm": "L: 14 - 15,5",
+      "presence_in_spain": "Residente escaso en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Remiz pendulinus",
+      "common_name": "Pájaro moscón",
+      "world_distribution": "Eurasia",
+      "habitat": "Carrizales y arboledas junto a ríos, aunque también lejos del agua",
+      "size_cm": "L: 10 - 11,5",
+      "presence_in_spain": "Residente escaso en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Periparus ater",
+      "common_name": "Carbonero garrapinos",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques de coníferas y mixtos",
+      "size_cm": "L: 13,5 - 15",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Cyanistes caeruleus",
+      "common_name": "Herrerillo común",
+      "world_distribution": "Eurasia",
+      "habitat": "Arboledas de latifoliadas y mixtas",
+      "size_cm": "L: 10,5 - 12",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Cyanistes teneriffae",
+      "common_name": "Herrerillo africano",
+      "world_distribution": "Islas Canarias y norte de África",
+      "habitat": "Arboledas de latifoliadas y mixtas",
+      "size_cm": "L: 10,5 - 12",
+      "presence_in_spain": "Residente en Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Lophophanes cristatus",
+      "common_name": "Herrerillo capuchino",
+      "world_distribution": "Eurasia",
+      "habitat": "Bosques de coníferas, también alcornocales y hayedos",
+      "size_cm": "L: 10,5 - 12",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Parus major",
+      "common_name": "Carbonero común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Arboledas de latifoliadas y mixtas",
+      "size_cm": "L: 13,5 - 15",
+      "presence_in_spain": "Residente en la península, Baleares y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Poecile palustris",
+      "common_name": "Carbonero palustre",
+      "world_distribution": "Eurasia",
+      "habitat": "Arboledas de latifoliadas y mixtas",
+      "size_cm": "L: 11,5 - 13",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Alauda arvensis",
+      "common_name": "Alondra común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Medios abiertos",
+      "size_cm": "L: 17 - 18",
+      "presence_in_spain": "Residente en la península y Baleares. Invernante escaso en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Calandrella brachydactyla",
+      "common_name": "Terrera común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Terrenos abiertos semiáridos",
+      "size_cm": "L: 13 - 14",
+      "presence_in_spain": "Estival en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Calandrella rufescens",
+      "common_name": "Terrera marismeña",
+      "world_distribution": "Asia, península ibérica y norte de África",
+      "habitat": "Estepas secas, desiertos y semidesiertos",
+      "size_cm": "L: 13 - 14",
+      "presence_in_spain": "Residente enl apenínsula. Rara en Baleares. Residente en Canarias (solo Tenerife, Gran Canaria, Fuerteventura y Lanzarote).",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Chersophilus duponti",
+      "common_name": "Alondra de Dupont",
+      "world_distribution": "Área mediterránea",
+      "habitat": "Estepa arbustiva y semidesierto",
+      "size_cm": "L: 17 - 18",
+      "presence_in_spain": "Residente escasa en la península.",
+      "conservation_status": "NT",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Galerida cristata",
+      "common_name": "Cogujada común",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Terrenos abiertos semidesérticos",
+      "size_cm": "L: 17 - 19",
+      "presence_in_spain": "Residente en la península y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Galerida theklae",
+      "common_name": "Cogujada montesina",
+      "world_distribution": "África y península ibérica",
+      "habitat": "Laderas rocosas de montaña",
+      "size_cm": "L: 15 - 17",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Lullula arborea",
+      "common_name": "Totovía",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Brezales y terrenos abiertos",
+      "size_cm": "L: 13,5 - 15",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Melanocorypha calandra",
+      "common_name": "Calandria común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Llanuras herbáceas",
+      "size_cm": "L: 18 - 19",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Pycnonotus barbatus",
+      "common_name": "Bulbul naranjero",
+      "world_distribution": "África",
+      "habitat": "Huertos, jardines, oasis, etc",
+      "size_cm": "L: 19 - 21",
+      "presence_in_spain": "Residente en Ceuta. Presencia escasa en Cádiz (posible comienzo de colonización).",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Pycnonotus cafer",
+      "common_name": "Bulbul cafre",
+      "world_distribution": "Sur de Asia",
+      "habitat": "Áreas de matorral",
+      "size_cm": "L: 20",
+      "presence_in_spain": "Fuerteventura",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Pycnonotus jocosus",
+      "common_name": "Bulbul orfeo",
+      "world_distribution": "Sur de Asia",
+      "habitat": "Áreas urbanas",
+      "size_cm": "L: 17 - 23 E: 22 - 27",
+      "presence_in_spain": "Valencia y alrededores",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Delichon urbicum",
+      "common_name": "Avión común",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Sobrevuela gran número de hábitats excepto los bosques densos",
+      "size_cm": "L: 12,5",
+      "presence_in_spain": "Estival en la península, Baleares y Ceuta. En migración en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Hirundo rustica",
+      "common_name": "Golondrina común",
+      "world_distribution": "África, América, Eurasia y norte de Oceanía",
+      "habitat": "Campiñas y medios suburbanos",
+      "size_cm": "L: 13 - 19 E: 6 - 12",
+      "presence_in_spain": "Estival en la península, Baleares y Ceuta. Invernante ocasional en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Cecropis rufula",
+      "common_name": "Golondrina dáurica occidental",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Terrenos forestales abiertos",
+      "size_cm": "L: 14 - 18 E: 7 - 11",
+      "presence_in_spain": "Estival",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Cecropis daurica",
+      "common_name": "Golondrina dáurica oriental",
+      "world_distribution": "Asia del Este y norte de Oceanía",
+      "habitat": "Terrenos forestales abiertos",
+      "size_cm": "L: 14 - 18 E: 7 - 11",
+      "presence_in_spain": "Divagante.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Ptyonoprogne rupestris",
+      "common_name": "Avión roquero",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Terrenos montañosos",
+      "size_cm": "L: 14 - 15",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Riparia riparia",
+      "common_name": "Avión zapador",
+      "world_distribution": "África, América y Eurasia",
+      "habitat": "Medios abiertos",
+      "size_cm": "L: 12 - 13",
+      "presence_in_spain": "Estival en la península. En migración en Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Aegithalos caudatus",
+      "common_name": "Mito",
+      "world_distribution": "Eurasia",
+      "habitat": "Arboledas abiertas y zonas de arbustos",
+      "size_cm": "L: 13 - 15",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Cisticola juncidis",
+      "common_name": "Buitrón",
+      "world_distribution": "Área mediterránea",
+      "habitat": "Vegetación palustre y herbazales densos",
+      "size_cm": "L: 10 - 11",
+      "presence_in_spain": "Residente en la península, Baleares y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Regulus ignicapillus",
+      "common_name": "Reyezuelo listado",
+      "world_distribution": "Europa y norte de África",
+      "habitat": "Bosques",
+      "size_cm": "L: 9 - 10",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Regulus regulus",
+      "common_name": "Reyezuelo sencillo",
+      "world_distribution": "Eurasia",
+      "habitat": "Bosques",
+      "size_cm": "L: 8,5 - 9,5",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Regulus teneriffae",
+      "common_name": "Reyezuelo de Tenerife",
+      "world_distribution": "Islas Canarias (solo La Palma, Hierro, La Gomera y Tenerife)",
+      "habitat": "Bosques",
+      "size_cm": "L: 9 - 10",
+      "presence_in_spain": "Residente endémico de las islas de La Palma, El Hierro, La Gomera y Tenerife.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Sitta europaea",
+      "common_name": "Trepador azul",
+      "world_distribution": "Eurasia",
+      "habitat": "Bosques caducifolios y mixtos, localmente en bosques de coníferas",
+      "size_cm": "L: 12 - 14,5",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Tichodroma muraria",
+      "common_name": "Treparriscos",
+      "world_distribution": "Eurasia",
+      "habitat": "Montañas",
+      "size_cm": "L: 15,5 - 17",
+      "presence_in_spain": "Residente escaso en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Certhia familiaris",
+      "common_name": "Agateador norteño",
+      "world_distribution": "Eurasia",
+      "habitat": "Bosques, de montaña en la península",
+      "size_cm": "L: 12,5 - 14",
+      "presence_in_spain": "Residente escaso en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Certhia brachydactyla",
+      "common_name": "Agateador común",
+      "world_distribution": "Europa y resto del área mediterránea",
+      "habitat": "Bosques",
+      "size_cm": "L: 12 - 13,5",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Troglodytes troglodytes",
+      "common_name": "Chochín",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Bosques, sotos y monte bajo",
+      "size_cm": "L: 9 - 10,5",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Cinclus cinclus",
+      "common_name": "Mirlo acuático europeo",
+      "world_distribution": "Eurasia",
+      "habitat": "Ríos y arroyos de curso rápido",
+      "size_cm": "L: 17 - 20",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Cercotrichas galactotes",
+      "common_name": "Alzacola",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Arboledas abiertas",
+      "size_cm": "L: 15 - 17",
+      "presence_in_spain": "Estival en la mitad sur de la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Erithacus rubecula",
+      "common_name": "Petirrojo",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques y arboledas",
+      "size_cm": "L: 12,5 - 14",
+      "presence_in_spain": "Residente en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Ficedula hypoleuca",
+      "common_name": "Papamoscas cerrojillo",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Bosques de montaña",
+      "size_cm": "L: 12 - 13,5",
+      "presence_in_spain": "Estival en la península y Baleares. En migración en Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Luscinia megarhynchos",
+      "common_name": "Ruiseñor común",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Monte bajo y matorral denso",
+      "size_cm": "L: 15 - 16,5",
+      "presence_in_spain": "Estival en la península y Baleares. Escaso en migración en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Luscinia svecica",
+      "common_name": "Pechiazul",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Matorral montano y áreas palustres",
+      "size_cm": "L: 13 - 14",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Muscicapa striata",
+      "common_name": "Papamoscas gris",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Arboledas abiertas",
+      "size_cm": "L: 13,5 - 15",
+      "presence_in_spain": "Estival y en migración en la península y Baleares. En migración en Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Oenanthe hispanica",
+      "common_name": "Collalba rubia",
+      "world_distribution": "África y área mediterránea de Eurasia",
+      "habitat": "Matorral mediterráneo y áreas abiertas",
+      "size_cm": "L: 13,5 - 15,5",
+      "presence_in_spain": "Estival en la península. Estival escasa en Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Oenanthe leucura",
+      "common_name": "Collalba negra",
+      "world_distribution": "Norte de África y península ibérica",
+      "habitat": "Terrenos rocosos",
+      "size_cm": "L: 16 - 18",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Oenanthe oenanthe",
+      "common_name": "Collalba gris",
+      "world_distribution": "África, Eurasia y Norteamérica",
+      "habitat": "Terrenos desarbolados abruptos",
+      "size_cm": "L: 14 - 16,5",
+      "presence_in_spain": "Estival en la península y Baleares. En migración en Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Phoenicurus ochruros",
+      "common_name": "Colirrojo tizón",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Áreas rocosas y urbanas rurales",
+      "size_cm": "L: 13 - 14,5",
+      "presence_in_spain": "Residente en la península, Baleares y Ceuta. Invernante en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Phoenicurus phoenicurus",
+      "common_name": "Colirrojo real",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Bosques y arboledas",
+      "size_cm": "L: 13 - 14,5",
+      "presence_in_spain": "Estival en la península. En migración en Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Saxicola rubetra",
+      "common_name": "Tarabilla norteña",
+      "world_distribution": "Eurasia y África",
+      "habitat": "Monte bajo y pastizales",
+      "size_cm": "L: 12 - 14",
+      "presence_in_spain": "Estival en la península. En migración en Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Saxicola rubicola",
+      "common_name": "Tarabilla común europea",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Matorrales abiertos y herbazales",
+      "size_cm": "L: 11,5 - 13",
+      "presence_in_spain": "Residente en la península, Baleares y Ceuta. Invernante irregular en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Saxicola dacotiae",
+      "common_name": "Tarabilla canaria",
+      "world_distribution": "Isla de Fuerteventura",
+      "habitat": "Monte bajo y pastizales",
+      "size_cm": "L: 12,5",
+      "presence_in_spain": "Residente endémica de la isla de Fuerteventura",
+      "conservation_status": "EN",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Monticola saxatilis",
+      "common_name": "Roquero rojo",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Áreas rocosas",
+      "size_cm": "L: 17 - 20",
+      "presence_in_spain": "Estival en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Monticola solitarius",
+      "common_name": "Roquero solitario",
+      "world_distribution": "Eurasia y nórte de África",
+      "habitat": "Áreas rocosas",
+      "size_cm": "L: 21 - 23",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Turdus iliacus",
+      "common_name": "Zorzal alirrojo",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Terrenos arbolados y tundra rocosa",
+      "size_cm": "L: 19 - 23",
+      "presence_in_spain": "Invernante en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Turdus merula",
+      "common_name": "Mirlo común",
+      "world_distribution": "Eurasia y norte de África, introducido en Oceanía",
+      "habitat": "Bosques y arboledas",
+      "size_cm": "L: 23,5 - 29",
+      "presence_in_spain": "Residente en la península, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Turdus philomelos",
+      "common_name": "Zorzal común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques con sotobosque",
+      "size_cm": "L: 20 - 22",
+      "presence_in_spain": "Residente en la península, Baleares y Ceuta. Invernante escaso en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Turdus pilaris",
+      "common_name": "Zorzal real",
+      "world_distribution": "Eurasia",
+      "habitat": "Áreas forestales abiertas",
+      "size_cm": "L: 22 - 27",
+      "presence_in_spain": "Invernante en la península. Invernante escaso en Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Turdus torquatus",
+      "common_name": "Mirlo capiblanco",
+      "world_distribution": "Europa y norte de África",
+      "habitat": "Laderas de montaña, dehesas y páramos arbustivos",
+      "size_cm": "L: 24 - 27",
+      "presence_in_spain": "Invernante escaso y en migración en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Turdus viscivorus",
+      "common_name": "Zorzal charlo",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques y arboledas",
+      "size_cm": "L: 26 - 29",
+      "presence_in_spain": "Residente en la península. Invernante en Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Sturnus unicolor",
+      "common_name": "Estornino negro",
+      "world_distribution": "Península ibérica, norte de África e islas del Mediterráneo occidental",
+      "habitat": "Arboledas abiertas, pastizales y cultivos",
+      "size_cm": "L: 21",
+      "presence_in_spain": "Residente en la península y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Sturnus vulgaris",
+      "common_name": "Estornino pinto",
+      "world_distribution": "Eurasia, introducido en Norteamérica, Sudáfrica y Oceanía",
+      "habitat": "Arboledas abiertas, pastizales y cultivos",
+      "size_cm": "L: 21",
+      "presence_in_spain": "En la península, residente en Cataluña y el Cantábrico, invernante en el resto. Invernante en Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Anthus berthelotii",
+      "common_name": "Bisbita caminero",
+      "world_distribution": "Macaronesia",
+      "habitat": "Arboledas abiertas",
+      "size_cm": "L: 14",
+      "presence_in_spain": "Residente en las Islas Canarias (todo el archipiélago).",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Anthus campestris",
+      "common_name": "Bisbita campestre",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Medios abiertos y secos",
+      "size_cm": "L: 15,5 - 18",
+      "presence_in_spain": "Estival en la península y Baleares. Invernate escaso en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Anthus cervinus",
+      "common_name": "Bisbita gorgirrojo",
+      "world_distribution": "Eurasia, Norteamérica y norte de África",
+      "habitat": "Medios palustres",
+      "size_cm": "L: 14 - 15",
+      "presence_in_spain": "En migración en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Anthus petrosus",
+      "common_name": "Bisbita ribereño costero",
+      "world_distribution": "Costa atlántica europea y norteafricana",
+      "habitat": "Costas y estuarios",
+      "size_cm": "L: 15,5 - 17",
+      "presence_in_spain": "Invernante escaso en el norte de la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Anthus pratensis",
+      "common_name": "Bisbita común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Herbazales abiertos",
+      "size_cm": "L: 14 - 15,5",
+      "presence_in_spain": "Invernante en la península, Baleares y Ceuta. Invernante escaso en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Anthus richardi",
+      "common_name": "Bisbita de Richard",
+      "world_distribution": "Eurasia y mitad norte de África",
+      "habitat": "Herbazales húmedos",
+      "size_cm": "L: 17 - 20",
+      "presence_in_spain": "Invernante raro y en migración en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Anthus spinoletta",
+      "common_name": "Bisbita ribereño alpino",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Laderas de montañas, costas y medios acuáticos",
+      "size_cm": "L: 15,5 - 17",
+      "presence_in_spain": "Residente en la península. Invernante escaso en Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Anthus trivialis",
+      "common_name": "Bisbita arbóreo",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques y medios arbolados",
+      "size_cm": "L: 14 - 16",
+      "presence_in_spain": "Estival en la península. En migración en Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Motacilla alba",
+      "common_name": "Lavandera blanca",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Medios abiertos y húmedos",
+      "size_cm": "L: 16,5 - 19",
+      "presence_in_spain": "Residente en la península, Baleares y Ceuta. Invernante en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Motacilla cinerea",
+      "common_name": "Lavandera cascadeña",
+      "world_distribution": "África, Eurasia y Nueva Guinea",
+      "habitat": "Terrenos montañosos y abiertos, costas y ríos",
+      "size_cm": "L: 17 - 20",
+      "presence_in_spain": "Residente en la península, Ceuta y Canarias. Invernante en Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Motacilla flava",
+      "common_name": "Lavandera boyera",
+      "world_distribution": "Eurasia, África y Norteamérica",
+      "habitat": "Herbazales abiertos húmedos",
+      "size_cm": "L: 15 - 16",
+      "presence_in_spain": "Estival en la península y Baleares. En migración en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Passer domesticus",
+      "common_name": "Gorrión común",
+      "world_distribution": "Eurasia y norte de África, introducido en el sur y todos los demás continentes",
+      "habitat": "Áreas urbanas",
+      "size_cm": "L: 15",
+      "presence_in_spain": "Residente en la península, Baleares y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Passer hispaniolensis",
+      "common_name": "Gorrión moruno",
+      "world_distribution": "África y área mediterránea",
+      "habitat": "Terrenos despejados con arbustos y árboles",
+      "size_cm": "L: 15",
+      "presence_in_spain": "Residente en la península. Residente introducido en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Passer montanus",
+      "common_name": "Gorrión molinero",
+      "world_distribution": "Eurasia",
+      "habitat": "Terrenos arbolados abiertos",
+      "size_cm": "L: 13",
+      "presence_in_spain": "Residente en la península y Baleares. Residente introducido en Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Montifringilla nivalis",
+      "common_name": "Gorrión alpino",
+      "world_distribution": "Eurasia",
+      "habitat": "Montañas",
+      "size_cm": "L: 18",
+      "presence_in_spain": "Residente escaso en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Petronia petronia",
+      "common_name": "Gorrión chillón",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Laderas de colinas y terrenos rocosos con arbustos",
+      "size_cm": "L: 16",
+      "presence_in_spain": "Residente en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Amandava amandava",
+      "common_name": "Bengalí rojo",
+      "world_distribution": "Asia",
+      "habitat": "Herbazales",
+      "size_cm": "L: 10",
+      "presence_in_spain": "Residente prodecente de escapes en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Estrilda astrild",
+      "common_name": "Pico de coral común",
+      "world_distribution": "Asia",
+      "habitat": "Áreas palustres y ribereñas",
+      "size_cm": "L: 11",
+      "presence_in_spain": "Residente prodecente de escapes en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Prunella modularis",
+      "common_name": "Acentor común",
+      "world_distribution": "Eurasia",
+      "habitat": "Áreas de matorral especialmente de media y alta montaña",
+      "size_cm": "L: 13 - 14,5",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Prunella collaris",
+      "common_name": "Acentor alpino",
+      "world_distribution": "Eurasia",
+      "habitat": "Montañas",
+      "size_cm": "L: 15 - 17,5",
+      "presence_in_spain": "Residente escaso en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Emberiza cia",
+      "common_name": "Escribano montesino",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Montes y colinas despejadas con matorral",
+      "size_cm": "L: 16",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Emberiza cirlus",
+      "common_name": "Escribano soteño",
+      "world_distribution": "Área mediterránea",
+      "habitat": "Arboledas abiertas",
+      "size_cm": "L: 16",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Emberiza citrinella",
+      "common_name": "Escribano cerillo",
+      "world_distribution": "Eurasia",
+      "habitat": "Arboledas abiertas",
+      "size_cm": "L: 16",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Emberiza hortulana",
+      "common_name": "Escribano hortelano",
+      "world_distribution": "África y Eurasia",
+      "habitat": "Terrenos arbustivos",
+      "size_cm": "L: 16",
+      "presence_in_spain": "Estival en la península. En migración en Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Emberiza schoeniclus",
+      "common_name": "Escribano paluste",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Áreas palustres y ribereñas",
+      "size_cm": "L: 15",
+      "presence_in_spain": "Invernante en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Miliaria calandra",
+      "common_name": "Triguero",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Terrenos abiertos",
+      "size_cm": "L: 18",
+      "presence_in_spain": "Residente en la península, Baleares y Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Plectrophenax nivalis",
+      "common_name": "Escribano nival",
+      "world_distribution": "Eurasia y Norteamérica",
+      "habitat": "Tundra, terrenos abiertos, montaña y acantilados marinos",
+      "size_cm": "L: 17",
+      "presence_in_spain": "Invernante en costa norte de la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Carduelis cannabina",
+      "common_name": "Pardillo común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Áreas de matorral",
+      "size_cm": "L: 13",
+      "presence_in_spain": "Residente en la península, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Carduelis carduelis",
+      "common_name": "Jilguero",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Arboledas abiertas",
+      "size_cm": "L: 12",
+      "presence_in_spain": "Residente en la península, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Carduelis chloris",
+      "common_name": "Verderón común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Arboledas abiertas",
+      "size_cm": "L: 15",
+      "presence_in_spain": "Residente en la península, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Carduelis spinus",
+      "common_name": "Lúgano",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques",
+      "size_cm": "L: 12",
+      "presence_in_spain": "Invernante en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Coccothraustes coccothraustes",
+      "common_name": "Picogordo",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques",
+      "size_cm": "L: 18",
+      "presence_in_spain": "Residente en la península. Invernante escaso en Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Fringilla coelebs",
+      "common_name": "Pinzón vulgar",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques y arboledas",
+      "size_cm": "L: 15",
+      "presence_in_spain": "Residente en la península, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Fringilla polatzeki",
+      "common_name": "Pinzón azul de Gran Canaria",
+      "world_distribution": "Islas Canarias (solo Gran Canaria)",
+      "habitat": "Bosques y arboledas",
+      "size_cm": "L: 17",
+      "presence_in_spain": "Residente endémico de la isla de Gran Canaria.",
+      "conservation_status": "CR",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Fringilla teydea",
+      "common_name": "Pinzón azul de Tenerife",
+      "world_distribution": "Islas Canarias (solo Tenerife)",
+      "habitat": "Bosques y arboledas",
+      "size_cm": "L: 17",
+      "presence_in_spain": "Residente endémico de la isla de Tenerife.",
+      "conservation_status": "NT",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Fringilla montifringilla",
+      "common_name": "Pinzón real",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Taiga y otros bosques",
+      "size_cm": "L: 15",
+      "presence_in_spain": "Invernante en la península. Invernante escaso en Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Loxia curvirostra",
+      "common_name": "Piquituerto común",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Bosques de coníferas",
+      "size_cm": "L: 16",
+      "presence_in_spain": "Residente en la península y Baleares.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Pyrrhula pyrrhula",
+      "common_name": "Camachuelo común",
+      "world_distribution": "Eurasia",
+      "habitat": "Bosques húmedos y campiña arbolada",
+      "size_cm": "L: 16",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Rhodopechys githaginea",
+      "common_name": "Camachuelo trompetero",
+      "world_distribution": "África y área mediterránea",
+      "habitat": "Terrenos abruptos semiáridos",
+      "size_cm": "L: 12",
+      "presence_in_spain": "Residente escaso en la península. Residente común en las Islas Canarias.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Carduelis citrinella",
+      "common_name": "Verderón serrano",
+      "world_distribution": "Europa",
+      "habitat": "Bosques de coníferas elevados",
+      "size_cm": "L: 12",
+      "presence_in_spain": "Residente en la península.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Serinus canaria",
+      "common_name": "Canario",
+      "world_distribution": "Macaronesia",
+      "habitat": "Arboledas y zonas de arbustos",
+      "size_cm": "L: 13",
+      "presence_in_spain": "Residente en Canarias (solo en las islas de La Palma, El Hierro, La Gomera, Tenerife y Gran Canaria).",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    },
+    {
+      "species": "Serinus serinus",
+      "common_name": "Verdecillo",
+      "world_distribution": "Eurasia y norte de África",
+      "habitat": "Claros de bosque y cultivos con zonas arboladas",
+      "size_cm": "L: 11",
+      "presence_in_spain": "Residente en la península, Baleares, Canarias y Ceuta.",
+      "conservation_status": "LC",
+      "order": "Passeriformes"
+    }
+  ],
+  "meta": {
+    "title": "Aves de España - Free Download",
+    "description": "Especies de aves presentes en España con nombre científico y común, distribución, hábitat, medidas, presencia y estado de conservación. Contains 387 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Aves de España | ListBase",
+    "seo_description": "Download Aves de España — 387 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 387 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Aves_de_España"
+    ]
+  }
+}
