@@ -1,0 +1,640 @@
+{
+  "id": "es-gitanismos",
+  "name": "Gitanismos en el idioma español",
+  "title": "Gitanismos en el idioma español",
+  "description": "Palabras del español de origen gitano (caló) con su significado, forma en caló y etimología romaní.",
+  "category": "language",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Gitanismos_en_el_idioma_español",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Gitanismos_en_el_idioma_español",
+  "updated": "2026-10",
+  "record_count": 99,
+  "columns": [
+    {
+      "key": "word",
+      "label": "Word",
+      "type": "string"
+    },
+    {
+      "key": "meaning",
+      "label": "Meaning",
+      "type": "string"
+    },
+    {
+      "key": "calo_word",
+      "label": "Calo Word",
+      "type": "string"
+    },
+    {
+      "key": "etymology",
+      "label": "Etymology",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "word": "acharar (se)",
+      "meaning": "avergonzarse.",
+      "calo_word": "jarachar (‘calentar’ )",
+      "etymology": "del rom. hačáre (‘quemazón, tormento’)"
+    },
+    {
+      "word": "camelar",
+      "meaning": "engañar (en el sentido de ‘encantar, encandilar’); originalmente, cortejar, enamorar",
+      "calo_word": "camelar (‘querer, enamorar’)",
+      "etymology": "del rom. camel, asv. del sánscr. कमल kāmala (‘deseo, amor’), asv. de kámala (‘flor de loto’)"
+    },
+    {
+      "word": "chamuyar",
+      "meaning": "charlar, conversar",
+      "calo_word": "chamullar (‘hablar’)",
+      "etymology": "del. rom. cham (‘mejillas’)"
+    },
+    {
+      "word": "chanelar",
+      "meaning": "entender",
+      "calo_word": "chanar (‘saber’), chanelar",
+      "etymology": "del. rom. janel (‘saber’)"
+    },
+    {
+      "word": "chingar (der. chingada, chingadera...), singar (R. Dom., Cub., Ven.)",
+      "meaning": "tener sexo; der. molestar (der.)",
+      "calo_word": "chingar (‘pelear’)",
+      "etymology": "del rom. čingarár (‘pelear’), asv. del italiano, zingaro, asv. del gr. τσιγγάνος tsinganos (‘gitano’)"
+    },
+    {
+      "word": "chorar, chorear (Arg., Ur., Chi., Per.), chorrar (Esp.), de donde proviene «chorizo» (en el sentido de ‘ladrón’)",
+      "meaning": "robar",
+      "calo_word": "chorar",
+      "etymology": "del rom. chor, asv. del sánscr. चोर chor (‘ladrón’)"
+    },
+    {
+      "word": "currar, currelar",
+      "meaning": "trabajar; esforzarse [en algo]",
+      "calo_word": "currelar",
+      "etymology": "del rom. kerel, asv. del sánscr. कृणोति kṛṇoti (‘hacer’)"
+    },
+    {
+      "word": "dar dique (lun.)",
+      "meaning": "llamar la atención, ostentar",
+      "calo_word": "dicar, diquelar (‘ver’)",
+      "etymology": "del rom. dikel, asv. del hindi dikta (‘ver’)"
+    },
+    {
+      "word": "diñar (la)",
+      "meaning": "morir(se)",
+      "calo_word": "diñar (‘dar’)",
+      "etymology": "del perfecto rom. diniás, asv. del verbo del (‘dar’)"
+    },
+    {
+      "word": "endiñar",
+      "meaning": "dar un golpe",
+      "calo_word": "diñar (‘dar’)",
+      "etymology": "del perfecto rom. diniás, asv. del verbo del (‘dar’)"
+    },
+    {
+      "word": "encalomar",
+      "meaning": "subir; der. encalomarse (‘autoinvitarse a una fiesta’); esconderse, colocarse en un sitio.",
+      "calo_word": "encalomár (‘subir’)",
+      "etymology": "del rom. inl(j)ov (‘salir’, ‘subir’)"
+    },
+    {
+      "word": "espichar (lun.)",
+      "meaning": "morir, fallecer",
+      "calo_word": "espichar",
+      "etymology": "del rom. pindjarel (‘conocer’) + prefijo español es (lit. ‘desconocer’)"
+    },
+    {
+      "word": "jamar",
+      "meaning": "comer",
+      "calo_word": "jamar",
+      "etymology": "del sánscr. खाना khānā (‘comida’)"
+    },
+    {
+      "word": "jiñar (se)",
+      "meaning": "defecar; der. asustarse",
+      "calo_word": "jiñar",
+      "etymology": "del rom. xinel (‘cagar’)"
+    },
+    {
+      "word": "junar (lun.)",
+      "meaning": "ver o prestar atención a algo",
+      "calo_word": "junar (‘escuchar’)",
+      "etymology": "del rom. šun (‘oír’)"
+    },
+    {
+      "word": "mancar",
+      "meaning": "errar, fallar",
+      "calo_word": "mancar, mancâ",
+      "etymology": "desconocida"
+    },
+    {
+      "word": "mangar",
+      "meaning": "robar",
+      "calo_word": "mangar (‘pedir, mendigar’), (Cat.) manguelar",
+      "etymology": "del sánscr. माँग māng (‘pedir, implorar’)"
+    },
+    {
+      "word": "molar",
+      "meaning": "gustar, ser agradable o excitante. También se utiliza «¡mola!» como equivalente a «¡vale!»",
+      "calo_word": "molar (‘valer’)",
+      "etymology": "del rom. mol (‘valer’), asv. del sánscr. मूल्य mūlya (‘precio, coste’)"
+    },
+    {
+      "word": "najar (se) salir de naja",
+      "meaning": "irse, huir, escapar",
+      "calo_word": "najarse",
+      "etymology": "del. rom. naxel (‘correr’, ‘huir’)"
+    },
+    {
+      "word": "pajear (se), hacerse una paja",
+      "meaning": "masturbar(se)",
+      "calo_word": "pajabar (‘tocar’), pajabañí (‘tocamiento’), pajabelar (mismo sign.)",
+      "etymology": "del rom. pashabel (‘tocar’)"
+    },
+    {
+      "word": "pirarse",
+      "meaning": "irse, marcharse; der. «pirárselas» (mismo significado)",
+      "calo_word": "pirar",
+      "etymology": "del rom. pirel (‘andar’)"
+    },
+    {
+      "word": "sobar",
+      "meaning": "dormir",
+      "calo_word": "sobar, sobelar",
+      "etymology": "del rom. sov(-el) (‘dormir’)"
+    },
+    {
+      "word": "acáis (m. pl.)",
+      "meaning": "ojos",
+      "calo_word": "acáis",
+      "etymology": "del rom. yak, yaká (‘ojos’)"
+    },
+    {
+      "word": "dar achares (And.)",
+      "meaning": "dar celos; der. «[tener] achare» (‘[tener] vergüenza’)",
+      "calo_word": "jachares",
+      "etymology": "del rom. hačáre (‘quemazón, tormento’)"
+    },
+    {
+      "word": "andoba, andóbal, andova, andóval (m.)",
+      "meaning": "persona cualquiera que no se nombra, persona poco fiable",
+      "calo_word": "andoba (‘tal’, ‘este’, ‘aquel’)",
+      "etymology": "del rom. adava (este)"
+    },
+    {
+      "word": "arate (m.)",
+      "meaning": "sangre, sangre de la menstruación",
+      "calo_word": "arate (‘sangre’)",
+      "etymology": "del rom. rat, asv. del sánscr. रक्त rakta (‘sangre’)"
+    },
+    {
+      "word": "baliché (m.)",
+      "meaning": "cerdo, puerco",
+      "calo_word": "balinchó",
+      "etymology": "del rom. baličho (‘cerdo’)"
+    },
+    {
+      "word": "baranda (m.)",
+      "meaning": "persona con autoridad, jefe",
+      "calo_word": "barader (‘alcalde’), barander (‘juez’), o bien barandar, barandelar (‘castigar’)",
+      "etymology": "etimología incierta. Quizá relacionado con hindi, बंदा o persa, بنده banda (‘sirviente, esclavo’)"
+    },
+    {
+      "word": "baro, varo (Méx. CentrAm.) baró, baré",
+      "meaning": "dinero, peso, duro, cinco pesetas",
+      "calo_word": "baro (‘grande, importante’)",
+      "etymology": "del prác. 𑀯𑀟𑁆𑀟 (vaḍḍa), asv. del sánscr. वड्र (vaḍra)"
+    },
+    {
+      "word": "biruji, biruje (m.)",
+      "meaning": "viento muy frío",
+      "calo_word": "biruji (‘frío’)",
+      "etymology": "del rom. baró (‘gran’) + shil (‘frío’)"
+    },
+    {
+      "word": "bujarra, bujarrón (m.)",
+      "meaning": "homosexual (pey)",
+      "calo_word": "bujendí",
+      "etymology": "del italiano buggero"
+    },
+    {
+      "word": "bulo (m.)",
+      "meaning": "noticia falsa propalada con algún fin",
+      "calo_word": "bul (‘porquería’)",
+      "etymology": "del romaní bul (‘nalgas’)"
+    },
+    {
+      "word": "caló (m.)",
+      "meaning": "variedad del romaní que hablan los gitanos de España, Francia y Portugal",
+      "calo_word": "kaló (‘moreno, de piel oscura’)",
+      "etymology": "del sánscr. काल kāla (‘negro’)"
+    },
+    {
+      "word": "camelo (m.)",
+      "meaning": "engaño, bulo; galanteo",
+      "calo_word": "de camelar",
+      "etymology": "del rom. kamel (‘querer, amar’), asv. del hindi kama (‘deseo’)"
+    },
+    {
+      "word": "canguelo (m.)",
+      "meaning": "miedo",
+      "calo_word": "canguela",
+      "etymology": "del rom. kangel (‘recelo, desconfianza’)"
+    },
+    {
+      "word": "cate (m.)",
+      "meaning": "bofetada; suspenso en un examen",
+      "calo_word": "caté (‘bastón’)",
+      "etymology": "del sánscr. kāšṭha (‘madera’)"
+    },
+    {
+      "word": "chabón (Arg., Uru.), chaval (Esp.), chavo, -a (Méx.)",
+      "meaning": "niño, chico, joven",
+      "calo_word": "chavó o chabalé (vocativo plural del primero)",
+      "etymology": "del rom. ćhavo (‘hijo’), asv. del prác. 𑀙𑀸𑀯 chāva, asv. del pali छाप chāpa (‘cría [de un animal]’)"
+    },
+    {
+      "word": "chachipén (m.)",
+      "meaning": "la verdad",
+      "calo_word": "chachipén (‘verdad, realidad’)",
+      "etymology": "del rom. ćaći (‘real’), asv. del prác. 𑀲𑀘𑁆𑀘 (sacca), asv. del sánscr. सत्य satya (‘real’); y el sufijo - ipen, del prác. -𑀇𑀧𑁆𑀧𑀡 - ippaṇa (‘-idad’)"
+    },
+    {
+      "word": "chichi (m.)",
+      "meaning": "vulva",
+      "calo_word": "chichi (‘rostro’)",
+      "etymology": "desconocida"
+    },
+    {
+      "word": "chola (f.)",
+      "meaning": "cabeza",
+      "calo_word": "",
+      "etymology": ""
+    },
+    {
+      "word": "choro (Ven., Chi., Per.), chorro (Arg., Uru., Ecu.), chorizo (Esp. der. por homofonía con el embutido)",
+      "meaning": "ladrón",
+      "calo_word": "choraró",
+      "etymology": "del rom. ćor, asv. del sáns चोर cora (‘ladrón’)"
+    },
+    {
+      "word": "chupa (m.)",
+      "meaning": "chaqueta o cazadora",
+      "calo_word": "chupa",
+      "etymology": "del rom. čupa (‘chaqueta’) o quizá del árabe جبّة ǧubba (cónfer it. giubba, fr. jupe)"
+    },
+    {
+      "word": "curro, curre, currelo, currele (m.)",
+      "meaning": "trabajo",
+      "calo_word": "currelo",
+      "etymology": "del rom. kerel, asv. del sánscr. कृणोति kṛṇoti (‘hacer’)"
+    },
+    {
+      "word": "currante, currito (m.)",
+      "meaning": "trabajador",
+      "calo_word": "currelar (v)",
+      "etymology": ""
+    },
+    {
+      "word": "duquelas (f.)",
+      "meaning": "preocupaciones",
+      "calo_word": "duquelas",
+      "etymology": "del rom. dukh, asv. del hindi dukh (‘pena, dolor’)"
+    },
+    {
+      "word": "estaribel (m.)",
+      "meaning": "lío, follón",
+      "calo_word": "estaribel, estaripel",
+      "etymology": "del rom. astarel (‘atrapar’)"
+    },
+    {
+      "word": "estaro (m.) (lun.)",
+      "meaning": "cárcel",
+      "calo_word": "estaribel, estaripel",
+      "etymology": "del rom. astarel (‘atrapar’)"
+    },
+    {
+      "word": "gachón, gachó, gacho (m.), gachona, gachí, gachi (f.)",
+      "meaning": "hombre, mujer",
+      "calo_word": "gachó, gachí",
+      "etymology": "del proto-rom. * gavja, asv. del prác. 𑀕𑀚𑁆𑀛 gajjha (‘doméstico’)"
+    },
+    {
+      "word": "guripa (m.)",
+      "meaning": "coloq. soldado.; coloq. golfo",
+      "calo_word": "kuripen",
+      "etymology": "del rom. kurel (‘pegar, apalizar’)"
+    },
+    {
+      "word": "jalipén (m.)",
+      "meaning": "comida",
+      "calo_word": "jallipén",
+      "etymology": "del rom. jaben, asv. del hindi hanna (‘comida’)"
+    },
+    {
+      "word": "jama (f.)",
+      "meaning": "comida",
+      "calo_word": "jama, hama",
+      "etymology": "del sánscr. खाना khānā (‘comida’)"
+    },
+    {
+      "word": "julay (m.)",
+      "meaning": "novel, novato",
+      "calo_word": "julay",
+      "etymology": "del rom. xulaj"
+    },
+    {
+      "word": "julay, julái (m.) julandrón (m.) juliparda (m.) (La Rioja)",
+      "meaning": "novel, novato. Persona boba o incauta. hombre homosexual. sinvergüenza (Cád.) novel, novato.",
+      "calo_word": "julay (‘amo, dueño’)",
+      "etymology": "del rom. xulaj"
+    },
+    {
+      "word": "jundo (m.)",
+      "meaning": "soldado, guardia civil; der. judunar (‘la Guardia Civil ’)",
+      "calo_word": "jundo, jundó, jundunar, jundunal, jundanar, jundonar,",
+      "etymology": "del rom. xindo, xîndo (‘asqueroso’, ‘bastardo’) o xindano (‘sucio’)"
+    },
+    {
+      "word": "jurdó (m.)",
+      "meaning": "dinero",
+      "calo_word": "jurdó",
+      "etymology": "del rom. xurdo (‘moneda’, ‘enano’)"
+    },
+    {
+      "word": "lache (m.), lacha (f.)",
+      "meaning": "vergüenza, pudor",
+      "calo_word": "lacha",
+      "etymology": "del sánscr. लज्जा lajjā (‘vergüenza’)"
+    },
+    {
+      "word": "luca (lunfardo)",
+      "meaning": "mil pesos; billete de $ 1000",
+      "calo_word": "luca (‘dinero’)",
+      "etymology": "del rom. love (dinero)"
+    },
+    {
+      "word": "lumi (f.)",
+      "meaning": "prostituta",
+      "calo_word": "lubni (‘amante, concubina’)",
+      "etymology": "del indoeuropeo leubh (‘amar’) y el sánscr. लुभति (lubhati, ‘desear’). Misma raíz que el lat. libet y el ing. love."
+    },
+    {
+      "word": "mangante (m.)",
+      "meaning": "ladrón",
+      "calo_word": "de mangar (‘robar’)",
+      "etymology": "del rom. angel (‘pedir’)"
+    },
+    {
+      "word": "manró, marroco",
+      "meaning": "pan",
+      "calo_word": "de manróch (‘pan’)",
+      "etymology": "del rom. manro (‘pan’)"
+    },
+    {
+      "word": "menda (pron. pers.)",
+      "meaning": "Yo (Ej: Este menda no se va / Mi menda no se va)",
+      "calo_word": "menda (‘a mi, para mí’)",
+      "etymology": "del pronombre oblicuo de primera persona del singular en rom. mande"
+    },
+    {
+      "word": "mengue (m.)",
+      "meaning": "demonio (en la expresión «¡me cachis en los mengues!»)",
+      "calo_word": "mengue (‘demonio, duende’)",
+      "etymology": "del rom. beng (‘demonio’, ‘rana’)"
+    },
+    {
+      "word": "mollate (m.)",
+      "meaning": "vino corriente; der. «darle al mollate» (‘beber en exceso’)",
+      "calo_word": "moliate (cl. de mol, ‘vino’)",
+      "etymology": "del rom. mol (‘vino’)"
+    },
+    {
+      "word": "nasti",
+      "meaning": "nada",
+      "calo_word": "",
+      "etymology": "del rom. nasti (‘no puede ser’)"
+    },
+    {
+      "word": "nanay",
+      "meaning": "no, negación",
+      "calo_word": "",
+      "etymology": "del rom. nanay (‘no hay’)"
+    },
+    {
+      "word": "napia",
+      "meaning": "nariz",
+      "calo_word": "napia",
+      "etymology": "posiblemente del rom. nak (‘nariz’)"
+    },
+    {
+      "word": "oripandó",
+      "meaning": "‘’sol‘’, ‘’amanecer‘’",
+      "calo_word": "oripandó, can",
+      "etymology": "del domarí pandoro (‘cielo’)"
+    },
+    {
+      "word": "paja (f.)",
+      "meaning": "masturbación",
+      "calo_word": "pajabar (‘tocar’), pajabañí (‘tocamiento’), pajabelar (mismo sign.)",
+      "etymology": "del rom. pashabel (‘tocar’)"
+    },
+    {
+      "word": "parné (m.)",
+      "meaning": "dinero",
+      "calo_word": "parné",
+      "etymology": "del rom. parnó (‘blanco, dorado’)"
+    },
+    {
+      "word": "parguela (And.)",
+      "meaning": "perdedor, pringado",
+      "calo_word": "pargo (marica), parguela (‘mariquita, gay’)",
+      "etymology": "del rom. parrató (‘roto’)"
+    },
+    {
+      "word": "paripé (m.)",
+      "meaning": "fingimiento, simulación, acto hipócrita",
+      "calo_word": "paruipén (‘cambio, trueque’)",
+      "etymology": "del rom. paripé (‘dificultad’, que más tardíamente se convirtió en asma; de ahí la expresión vender la burra con paripé por lo que se acabó generalizando como engaño)"
+    },
+    {
+      "word": "pelés (m.)",
+      "meaning": "testículos",
+      "calo_word": "pelé (‘huevo’)",
+      "etymology": "del rom. pele (‘testículos’)"
+    },
+    {
+      "word": "pestañí (f.)",
+      "meaning": "Guardia Civil, Policía",
+      "calo_word": "plastañí (‘policía’)",
+      "etymology": "del rom. plastarel (‘perseguir’)"
+    },
+    {
+      "word": "piltra (f.)",
+      "meaning": "cama (si bien según la RAE piltra procede del francés antiguo peautre)",
+      "calo_word": "",
+      "etymology": "del rom. pistiri (‘toalla, sabana’)"
+    },
+    {
+      "word": "pinrel (es) (m.)",
+      "meaning": "pie(s)",
+      "calo_word": "caló pinré (‘pantorrilla’ )",
+      "etymology": "del rom. punro, asv. del sánscr. पिण्ड piṇḍa"
+    },
+    {
+      "word": "piño (s)",
+      "meaning": "diente(s)",
+      "calo_word": "calo piñar (‘masticar’, ‘moler’)",
+      "etymology": ""
+    },
+    {
+      "word": "pirria",
+      "meaning": "puchero, cocido",
+      "calo_word": "pirria",
+      "etymology": "del rom. piri (‘olla’)"
+    },
+    {
+      "word": "plasta",
+      "meaning": "pesado, aburrido",
+      "calo_word": "plastañí",
+      "etymology": "plastañí (‘policía’) o bien, prastavni (‘corredor’)"
+    },
+    {
+      "word": "postín (m.)",
+      "meaning": "lujoso, comportamiento arrogante",
+      "calo_word": "postín (‘piel’)",
+      "etymology": "del rom. posti (‘piel’)"
+    },
+    {
+      "word": "potra (f.)",
+      "meaning": "suerte",
+      "calo_word": "potri (‘suerte’)",
+      "etymology": "quizá del rom. putrel (‘abrir’, ‘desatar’)"
+    },
+    {
+      "word": "pucaveta (m.)",
+      "meaning": "informador, soplón",
+      "calo_word": "",
+      "etymology": "del rom. pukabel (‘denunciar’, ‘confesar’)"
+    },
+    {
+      "word": "queli (f.)",
+      "meaning": "casa",
+      "calo_word": "quel (‘casa’)",
+      "etymology": "del rom. kher (‘casa’)"
+    },
+    {
+      "word": "sandunga (f.), sandungueo (m.)",
+      "meaning": "gracia, salero",
+      "calo_word": "sandunga",
+      "etymology": "del rom. asanel (‘reír’) + sufijo adjetival caló - unga"
+    },
+    {
+      "word": "sobaja (f.)",
+      "meaning": "dueña de un burdel o casa de putas",
+      "calo_word": "sobaja, sobajañí",
+      "etymology": "del rom. čovaxani (‘bruja’)"
+    },
+    {
+      "word": "caló, calé (m.), calí (f.)",
+      "meaning": "gitano, -a; referido a la etnia gitana (p. ej., idioma caló)",
+      "calo_word": "caló (cn. sing.), calé (cn. pl.), callí (‘de piel oscura’)",
+      "etymology": "del rom. kalo (‘negro’), asv. del sánscr. काल kāla; o bien de zinkaló (‘hombre del llano’)"
+    },
+    {
+      "word": "cañí",
+      "meaning": "gitano, -a",
+      "calo_word": "cañí",
+      "etymology": "etimología incierta. Quizá por homofonía entre calí (‘gitana’) y cañí (‘gallina’)"
+    },
+    {
+      "word": "chachi, chanchi",
+      "meaning": "extraordinario; der. «de acuerdo», «vale»",
+      "calo_word": "chachipén (‘realidad, verdad’)",
+      "etymology": "del rom. ćaći (‘real’), asv. del prác. 𑀲𑀘𑁆𑀘 sacca, asv. del sánscr. सत्य satya (‘real’); y el sufijo - ipen, del prác. -𑀇𑀧𑁆𑀧𑀡 - ippaṇa (‘-idad’)"
+    },
+    {
+      "word": "(estar) chalado, - a",
+      "meaning": "loco, -a",
+      "calo_word": "chalarse (‘enloquecer’), de chalar (‘caminar’)",
+      "etymology": "del prác. 𑀘𑀮𑀤𑀺 caladi, del sánscr. चलति calati o चरति carati (‘ir a caminar’)"
+    },
+    {
+      "word": "chipén",
+      "meaning": "extraordinario",
+      "calo_word": "chipé (‘vida’, der. ‘verdad, positivo, cierto’)",
+      "etymology": "de una acortación del rom. chachipen (‘verdad’), véase chachi"
+    },
+    {
+      "word": "chungo, - a",
+      "meaning": "difícil, complicado, peliagudo, desagradable, malo, digno de lástima o desprecio",
+      "calo_word": "chungo (‘feo’)",
+      "etymology": "del rom. džung (‘asqueroso’), asv. del sánscr. जुङ्गति juṅgati o जुङ्ग् juṅg (‘excluir’)"
+    },
+    {
+      "word": "dabuten, debuten, dabuti, debuti",
+      "meaning": "buenísimo, de primera, excelente",
+      "calo_word": "de buten",
+      "etymology": "del rom. buter (muchísimo)+ la preposición española de"
+    },
+    {
+      "word": "fetén (también adv.)",
+      "meaning": "excelente (adj); muy bien (adv)",
+      "calo_word": "fetén, feter (‘óptimo’)",
+      "etymology": "origen incierto. Quizá del árabe, فطن (‘inteligente’) - n puede ser por influencia del andaluz (como en mejor, mehón)"
+    },
+    {
+      "word": "ful",
+      "meaning": "falso, timo der. fulastre (‘chapucero, mal hecho’) der. fullero, fulero (‘tramposo, mentiroso’)",
+      "calo_word": "quizá de ful (‘estiércol, porquería’)",
+      "etymology": "del rom. ful (‘falso’)"
+    },
+    {
+      "word": "gil",
+      "meaning": "(Arg. Chi. Ur. Per.) inocente, ingenuo",
+      "calo_word": "jilí (‘inocente, fresco’)",
+      "etymology": "del rom., šil (‘frío’), asv. del sánscr. शी śī"
+    },
+    {
+      "word": "gilí, gili",
+      "meaning": "tonto, estúpido. De aquí deriva el insulto «gilipollas»",
+      "calo_word": "jilí (‘inocente, fresco’)",
+      "etymology": "del rom., šil (‘frío’), asv. del sánscr. शी śī"
+    },
+    {
+      "word": "(ser un) plasta",
+      "meaning": "ser pesado, -a",
+      "calo_word": "plasta",
+      "etymology": "quizá del rom. plastañí (‘policía’), o de prastavni (‘corredora’)"
+    },
+    {
+      "word": "pirado, - a",
+      "meaning": "ido de la cabeza, chiflado, -a",
+      "calo_word": "pirar",
+      "etymology": "del. rom. pirel (‘andar’) que se generalizo como ir, de ahí por analogía estar ido > estar pirado"
+    },
+    {
+      "word": "sandunguero, - a",
+      "meaning": "que tiene gracia, salero",
+      "calo_word": "sandunga",
+      "etymology": "del rom. asanel (‘reír’) + sufijo adjetival caló - ungo, - unga + sufijo agentivo español - ero, - era"
+    },
+    {
+      "word": "cíngaro, - a, zingaro, - a",
+      "meaning": "gitano",
+      "calo_word": "zinkaló",
+      "etymology": "vía el italiano, zingaro; asv. del rom. tchinganes (‘hombre de varias razas’)"
+    }
+  ],
+  "meta": {
+    "title": "Gitanismos en el idioma español - Free Download",
+    "description": "Palabras del español de origen gitano (caló) con su significado, forma en caló y etimología romaní. Contains 99 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gitanismos en el idioma español | ListBase",
+    "seo_description": "Download Gitanismos en el idioma español — 99 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 99 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Gitanismos_en_el_idioma_español"
+    ]
+  }
+}

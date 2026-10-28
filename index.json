@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-28T02:22:49.061Z",
-  "total_datasets": 496,
-  "total_records": 422608,
+  "generated": "2026-10-28T02:22:51.597Z",
+  "total_datasets": 497,
+  "total_records": 422707,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "law",
@@ -2291,6 +2291,31 @@
         "xlsx": {
           "name": "es-virreyes-de-nueva-espana_ES.xlsx",
           "size": 11870
+        }
+      }
+    },
+    {
+      "id": "es-gitanismos",
+      "name": "Gitanismos en el idioma español",
+      "category": "language",
+      "record_count": 99,
+      "columns": [
+        "word",
+        "meaning",
+        "calo_word",
+        "etymology"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Gitanismos_en_el_idioma_español",
+      "updated": "2026-10",
+      "size": 23169,
+      "files": {
+        "csv": {
+          "name": "es-gitanismos_ES.csv",
+          "size": 13241
+        },
+        "xlsx": {
+          "name": "es-gitanismos_ES.xlsx",
+          "size": 14008
         }
       }
     },
