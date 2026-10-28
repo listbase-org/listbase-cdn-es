@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-28T02:22:46.405Z",
-  "total_datasets": 495,
-  "total_records": 422512,
+  "generated": "2026-10-28T02:22:49.061Z",
+  "total_datasets": 496,
+  "total_records": 422608,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "tech",
@@ -15045,6 +15045,32 @@
         "xlsx": {
           "name": "es-municipios-mas-poblados_ES.xlsx",
           "size": 52436
+        }
+      }
+    },
+    {
+      "id": "es-campeones-liga-espana-entrenadores",
+      "name": "Campeones de la Primera División de España y sus entrenadores",
+      "category": "sports",
+      "record_count": 96,
+      "columns": [
+        "season",
+        "teams",
+        "matchdays",
+        "champion",
+        "coach"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Entrenadores_campeones_de_la_Primera_División_de_España",
+      "updated": "2026-10",
+      "size": 16725,
+      "files": {
+        "csv": {
+          "name": "es-campeones-liga-espana-entrenadores_ES.csv",
+          "size": 5589
+        },
+        "xlsx": {
+          "name": "es-campeones-liga-espana-entrenadores_ES.xlsx",
+          "size": 10136
         }
       }
     },

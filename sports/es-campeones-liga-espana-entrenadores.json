@@ -1,0 +1,723 @@
+{
+  "id": "es-campeones-liga-espana-entrenadores",
+  "name": "Campeones de la Primera División de España y sus entrenadores",
+  "title": "Campeones de la Primera División de España y sus entrenadores",
+  "description": "Campeón de cada temporada de LaLiga (Primera División de España) desde 1928–29 con el entrenador campeón, número de equipos y jornadas.",
+  "category": "sports",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Entrenadores_campeones_de_la_Primera_División_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Entrenadores_campeones_de_la_Primera_División_de_España",
+  "updated": "2026-10",
+  "record_count": 96,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "string"
+    },
+    {
+      "key": "teams",
+      "label": "Teams",
+      "type": "number"
+    },
+    {
+      "key": "matchdays",
+      "label": "Matchdays",
+      "type": "number"
+    },
+    {
+      "key": "champion",
+      "label": "Champion",
+      "type": "string"
+    },
+    {
+      "key": "coach",
+      "label": "Coach",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": "1928–29",
+      "teams": 10,
+      "matchdays": 18,
+      "champion": "FC Barcelona",
+      "coach": "James Bellamy"
+    },
+    {
+      "season": "1929–30",
+      "teams": 10,
+      "matchdays": 18,
+      "champion": "Athletic Club",
+      "coach": "Fred Pentland"
+    },
+    {
+      "season": "1930–31",
+      "teams": 10,
+      "matchdays": 18,
+      "champion": "Athletic Club",
+      "coach": "Fred Pentland"
+    },
+    {
+      "season": "1931–32",
+      "teams": 10,
+      "matchdays": 18,
+      "champion": "Real Madrid CF",
+      "coach": "Lippo Hertzka"
+    },
+    {
+      "season": "1932–33",
+      "teams": 10,
+      "matchdays": 18,
+      "champion": "Real Madrid CF",
+      "coach": "Robert Firth"
+    },
+    {
+      "season": "1933–34",
+      "teams": 10,
+      "matchdays": 18,
+      "champion": "Athletic Club",
+      "coach": "Patricio Caicedo"
+    },
+    {
+      "season": "1934–35",
+      "teams": 12,
+      "matchdays": 22,
+      "champion": "Real Betis Balompié",
+      "coach": "Patrick O'Connell"
+    },
+    {
+      "season": "1935–36",
+      "teams": 12,
+      "matchdays": 22,
+      "champion": "Athletic Club",
+      "coach": "William Garbutt"
+    },
+    {
+      "season": "1936–1939",
+      "teams": "Liga no disputada por la Guerra civil española",
+      "matchdays": "Liga no disputada por la Guerra civil española",
+      "champion": "Liga no disputada por la Guerra civil española",
+      "coach": "Liga no disputada por la Guerra civil española"
+    },
+    {
+      "season": "1939–40",
+      "teams": 12,
+      "matchdays": 22,
+      "champion": "Atlético de Madrid",
+      "coach": "Ricardo Zamora"
+    },
+    {
+      "season": "1940–41",
+      "teams": 12,
+      "matchdays": 22,
+      "champion": "Atlético de Madrid",
+      "coach": "Ricardo Zamora"
+    },
+    {
+      "season": "1941–42",
+      "teams": 14,
+      "matchdays": 26,
+      "champion": "Valencia CF",
+      "coach": "Ramón Encinas"
+    },
+    {
+      "season": "1942–43",
+      "teams": 14,
+      "matchdays": 26,
+      "champion": "Athletic Club",
+      "coach": "Juan Urquizu"
+    },
+    {
+      "season": "1943–44",
+      "teams": 14,
+      "matchdays": 26,
+      "champion": "Valencia CF",
+      "coach": "Eduardo Cubells"
+    },
+    {
+      "season": "1944–45",
+      "teams": 14,
+      "matchdays": 26,
+      "champion": "FC Barcelona",
+      "coach": "Josep Samitier"
+    },
+    {
+      "season": "1945–46",
+      "teams": 14,
+      "matchdays": 26,
+      "champion": "Sevilla FC",
+      "coach": "Ramón Encinas"
+    },
+    {
+      "season": "1946–47",
+      "teams": 14,
+      "matchdays": 26,
+      "champion": "Valencia CF",
+      "coach": "Luis Pasarín"
+    },
+    {
+      "season": "1947–48",
+      "teams": 14,
+      "matchdays": 26,
+      "champion": "FC Barcelona",
+      "coach": "Enrique Fernández"
+    },
+    {
+      "season": "1948–49",
+      "teams": 14,
+      "matchdays": 26,
+      "champion": "FC Barcelona",
+      "coach": "Enrique Fernández"
+    },
+    {
+      "season": "1949–50",
+      "teams": 14,
+      "matchdays": 26,
+      "champion": "Atlético de Madrid",
+      "coach": "Helenio Herrera"
+    },
+    {
+      "season": "1950–51",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Atlético de Madrid",
+      "coach": "Helenio Herrera"
+    },
+    {
+      "season": "1951–52",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "FC Barcelona",
+      "coach": "Ferdinand Daučík"
+    },
+    {
+      "season": "1952–53",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "FC Barcelona",
+      "coach": "Ferdinand Daučík"
+    },
+    {
+      "season": "1953–54",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Real Madrid CF",
+      "coach": "Enrique Fernández"
+    },
+    {
+      "season": "1954–55",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Real Madrid CF",
+      "coach": "José Villalonga"
+    },
+    {
+      "season": "1955–56",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Athletic Club",
+      "coach": "Ferdinand Daučík"
+    },
+    {
+      "season": "1956–57",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Real Madrid CF",
+      "coach": "José Villalonga"
+    },
+    {
+      "season": "1957–58",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Real Madrid CF",
+      "coach": "Luis Carniglia"
+    },
+    {
+      "season": "1958–59",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "FC Barcelona",
+      "coach": "Helenio Herrera"
+    },
+    {
+      "season": "1959–60",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "FC Barcelona",
+      "coach": "Helenio Herrera"
+    },
+    {
+      "season": "1960–61",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Real Madrid CF",
+      "coach": "Miguel Muñoz"
+    },
+    {
+      "season": "1961–62",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Real Madrid CF",
+      "coach": "Miguel Muñoz"
+    },
+    {
+      "season": "1962–63",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Real Madrid CF",
+      "coach": "Miguel Muñoz"
+    },
+    {
+      "season": "1963–64",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Real Madrid CF",
+      "coach": "Miguel Muñoz"
+    },
+    {
+      "season": "1964–65",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Real Madrid CF",
+      "coach": "Miguel Muñoz"
+    },
+    {
+      "season": "1965–66",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Atlético de Madrid",
+      "coach": "Domènec Balmanya"
+    },
+    {
+      "season": "1966–67",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Real Madrid CF",
+      "coach": "Miguel Muñoz"
+    },
+    {
+      "season": "1967–68",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Real Madrid CF",
+      "coach": "Miguel Muñoz"
+    },
+    {
+      "season": "1968–69",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Real Madrid CF",
+      "coach": "Miguel Muñoz"
+    },
+    {
+      "season": "1969–70",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Atlético de Madrid",
+      "coach": "Marcel Domingo"
+    },
+    {
+      "season": "1970–71",
+      "teams": 16,
+      "matchdays": 30,
+      "champion": "Valencia CF",
+      "coach": "Alfredo Di Stéfano"
+    },
+    {
+      "season": "1971–72",
+      "teams": 18,
+      "matchdays": 34,
+      "champion": "Real Madrid CF",
+      "coach": "Miguel Muñoz"
+    },
+    {
+      "season": "1972–73",
+      "teams": 18,
+      "matchdays": 34,
+      "champion": "Atlético de Madrid",
+      "coach": "Max Merkel"
+    },
+    {
+      "season": "1973–74",
+      "teams": 18,
+      "matchdays": 34,
+      "champion": "FC Barcelona",
+      "coach": "Rinus Michels"
+    },
+    {
+      "season": "1974–75",
+      "teams": 18,
+      "matchdays": 34,
+      "champion": "Real Madrid CF",
+      "coach": "Miljan Miljanić"
+    },
+    {
+      "season": "1975–76",
+      "teams": 18,
+      "matchdays": 34,
+      "champion": "Real Madrid CF",
+      "coach": "Miljan Miljanić"
+    },
+    {
+      "season": "1976–77",
+      "teams": 18,
+      "matchdays": 34,
+      "champion": "Atlético de Madrid",
+      "coach": "Luis Aragonés"
+    },
+    {
+      "season": "1977–78",
+      "teams": 18,
+      "matchdays": 34,
+      "champion": "Real Madrid CF",
+      "coach": "Luis Molowny"
+    },
+    {
+      "season": "1978–79",
+      "teams": 18,
+      "matchdays": 34,
+      "champion": "Real Madrid CF",
+      "coach": "Luis Molowny"
+    },
+    {
+      "season": "1979–80",
+      "teams": 18,
+      "matchdays": 34,
+      "champion": "Real Madrid CF",
+      "coach": "Vujadin Boškov"
+    },
+    {
+      "season": "1980–81",
+      "teams": 18,
+      "matchdays": 34,
+      "champion": "Real Sociedad",
+      "coach": "Alberto Ormaetxea"
+    },
+    {
+      "season": "1981–82",
+      "teams": 18,
+      "matchdays": 34,
+      "champion": "Real Sociedad",
+      "coach": "Alberto Ormaetxea"
+    },
+    {
+      "season": "1982–83",
+      "teams": 18,
+      "matchdays": 34,
+      "champion": "Athletic Club",
+      "coach": "Javier Clemente"
+    },
+    {
+      "season": "1983–84",
+      "teams": 18,
+      "matchdays": 34,
+      "champion": "Athletic Club",
+      "coach": "Javier Clemente"
+    },
+    {
+      "season": "1984–85",
+      "teams": 18,
+      "matchdays": 34,
+      "champion": "FC Barcelona",
+      "coach": "Terry Venables"
+    },
+    {
+      "season": "1985–86",
+      "teams": 18,
+      "matchdays": 34,
+      "champion": "Real Madrid CF",
+      "coach": "Luis Molowny"
+    },
+    {
+      "season": "1986–87",
+      "teams": 18,
+      "matchdays": "44",
+      "champion": "Real Madrid CF",
+      "coach": "Leo Beenhakker"
+    },
+    {
+      "season": "1987–88",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Real Madrid CF",
+      "coach": "Leo Beenhakker"
+    },
+    {
+      "season": "1988–89",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Real Madrid CF",
+      "coach": "Leo Beenhakker"
+    },
+    {
+      "season": "1989–90",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Real Madrid CF",
+      "coach": "John B. Toshack"
+    },
+    {
+      "season": "1990–91",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Johan Cruyff"
+    },
+    {
+      "season": "1991–92",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Johan Cruyff"
+    },
+    {
+      "season": "1992–93",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Johan Cruyff"
+    },
+    {
+      "season": "1993–94",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Johan Cruyff"
+    },
+    {
+      "season": "1994–95",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Real Madrid CF",
+      "coach": "Jorge Valdano"
+    },
+    {
+      "season": "1995–96",
+      "teams": 22,
+      "matchdays": 42,
+      "champion": "Atlético de Madrid",
+      "coach": "Radomir Antić"
+    },
+    {
+      "season": "1996–97",
+      "teams": 22,
+      "matchdays": 42,
+      "champion": "Real Madrid CF",
+      "coach": "Fabio Capello"
+    },
+    {
+      "season": "1997–98",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Louis van Gaal"
+    },
+    {
+      "season": "1998–99",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Louis van Gaal"
+    },
+    {
+      "season": "1999–00",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "RC Deportivo",
+      "coach": "Javier Irureta"
+    },
+    {
+      "season": "2000–01",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Real Madrid CF",
+      "coach": "Vicente del Bosque"
+    },
+    {
+      "season": "2001–02",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Valencia CF",
+      "coach": "Rafael Benítez"
+    },
+    {
+      "season": "2002–03",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Real Madrid CF",
+      "coach": "Vicente del Bosque"
+    },
+    {
+      "season": "2003–04",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Valencia CF",
+      "coach": "Rafael Benítez"
+    },
+    {
+      "season": "2004–05",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Frank Rijkaard"
+    },
+    {
+      "season": "2005–06",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Frank Rijkaard"
+    },
+    {
+      "season": "2006–07",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Real Madrid CF",
+      "coach": "Fabio Capello"
+    },
+    {
+      "season": "2007–08",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Real Madrid CF",
+      "coach": "Bernd Schuster"
+    },
+    {
+      "season": "2008–09",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Pep Guardiola"
+    },
+    {
+      "season": "2009–10",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Pep Guardiola"
+    },
+    {
+      "season": "2010–11",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Pep Guardiola"
+    },
+    {
+      "season": "2011–12",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Real Madrid CF",
+      "coach": "José Mourinho"
+    },
+    {
+      "season": "2012–13",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Tito Vilanova"
+    },
+    {
+      "season": "2013–14",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Atlético de Madrid",
+      "coach": "Diego Pablo Simeone"
+    },
+    {
+      "season": "2014–15",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Luis Enrique"
+    },
+    {
+      "season": "2015–16",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Luis Enrique"
+    },
+    {
+      "season": "2016–17",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Real Madrid CF",
+      "coach": "Zinedine Zidane"
+    },
+    {
+      "season": "2017–18",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Ernesto Valverde"
+    },
+    {
+      "season": "2018–19",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Ernesto Valverde"
+    },
+    {
+      "season": "2019–20",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Real Madrid CF",
+      "coach": "Zinedine Zidane"
+    },
+    {
+      "season": "2020–21",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Atlético de Madrid",
+      "coach": "Diego Pablo Simeone"
+    },
+    {
+      "season": "2021–22",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Real Madrid CF",
+      "coach": "Carlo Ancelotti"
+    },
+    {
+      "season": "2022–23",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Xavi Hernández"
+    },
+    {
+      "season": "2023–24",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "Real Madrid CF",
+      "coach": "Carlo Ancelotti"
+    },
+    {
+      "season": "2024–25",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Hansi Flick"
+    },
+    {
+      "season": "2025–26",
+      "teams": 20,
+      "matchdays": 38,
+      "champion": "FC Barcelona",
+      "coach": "Hansi Flick"
+    }
+  ],
+  "meta": {
+    "title": "Campeones de la Primera División de España y sus entrenadores - Free Download",
+    "description": "Campeón de cada temporada de LaLiga (Primera División de España) desde 1928–29 con el entrenador campeón, número de equipos y jornadas. Contains 96 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Campeones de la Primera División de España y sus entrenadores | ListBase",
+    "seo_description": "Download Campeones de la Primera División de España y sus entrenadores — 96 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 96 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Entrenadores_campeones_de_la_Primera_División_de_España"
+    ]
+  }
+}
