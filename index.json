@@ -1,12 +1,12 @@
 {
   "lang": "es",
-  "generated": "2026-10-29T02:18:31.466Z",
-  "total_datasets": 505,
-  "total_records": 424484,
+  "generated": "2026-10-29T02:18:34.243Z",
+  "total_datasets": 506,
+  "total_records": 424632,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -151,6 +151,30 @@
         "xlsx": {
           "name": "es-alimentos-protegidos-galicia_ES.xlsx",
           "size": 7973
+        }
+      }
+    },
+    {
+      "id": "es-vinos-indicacion-geografica",
+      "name": "Vinos de España con indicación geográfica (DOP e IGP)",
+      "category": "agriculture",
+      "record_count": 148,
+      "columns": [
+        "wine",
+        "category",
+        "community"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Vinos_de_España",
+      "updated": "2026-10",
+      "size": 19234,
+      "files": {
+        "csv": {
+          "name": "es-vinos-indicacion-geografica_ES.csv",
+          "size": 7786
+        },
+        "xlsx": {
+          "name": "es-vinos-indicacion-geografica_ES.xlsx",
+          "size": 10163
         }
       }
     },

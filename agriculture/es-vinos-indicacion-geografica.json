@@ -1,0 +1,781 @@
+{
+  "id": "es-vinos-indicacion-geografica",
+  "name": "Vinos de España con indicación geográfica (DOP e IGP)",
+  "title": "Vinos de España con indicación geográfica (DOP e IGP)",
+  "description": "Vinos españoles con Denominación de Origen Protegida (Vino de Pago, DOCa, DO, Vino de Calidad) e Indicación Geográfica Protegida (Vino de la Tierra), por comunidad autónoma.",
+  "category": "agriculture",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Vinos_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Vinos_de_España",
+  "updated": "2026-10",
+  "record_count": 148,
+  "columns": [
+    {
+      "key": "wine",
+      "label": "Wine",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "community",
+      "label": "Community",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "wine": "Condado de Huelva",
+      "category": "Denominación de Origen",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Granada",
+      "category": "Denominación de Origen",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Jerez-Xérès-Sherry",
+      "category": "Denominación de Origen",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Málaga",
+      "category": "Denominación de Origen",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Manzanilla-Sanlúcar de Barrameda",
+      "category": "Denominación de Origen",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Montilla-Moriles",
+      "category": "Denominación de Origen",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Sierras de Málaga",
+      "category": "Denominación de Origen",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Lebrija",
+      "category": "Vino de Calidad",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Altiplano de Sierra Nevada",
+      "category": "Vino de la Tierra",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Bailén",
+      "category": "Vino de la Tierra",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Cádiz",
+      "category": "Vino de la Tierra",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Córdoba",
+      "category": "Vino de la Tierra",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Cumbres del Guadalfeo",
+      "category": "Vino de la Tierra",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Desierto de Almería",
+      "category": "Vino de la Tierra",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Laderas del Genil",
+      "category": "Vino de la Tierra",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Laujar-Alpujarra",
+      "category": "Vino de la Tierra",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Los Palacios",
+      "category": "Vino de la Tierra",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Norte de Almería",
+      "category": "Vino de la Tierra",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Ribera del Andarax",
+      "category": "Vino de la Tierra",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Sierra Norte de Sevilla",
+      "category": "Vino de la Tierra",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Sierra Sur de Jaén",
+      "category": "Vino de la Tierra",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Sierras de Las Estancias y Los Filabres",
+      "category": "Vino de la Tierra",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Torreperogil",
+      "category": "Vino de la Tierra",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Villaviciosa de Córdoba",
+      "category": "Vino de la Tierra",
+      "community": "Andalucía"
+    },
+    {
+      "wine": "Aylés",
+      "category": "Vino de Pago",
+      "community": "Aragón"
+    },
+    {
+      "wine": "Calatayud",
+      "category": "Denominación de Origen",
+      "community": "Aragón"
+    },
+    {
+      "wine": "Campo de Borja",
+      "category": "Denominación de Origen",
+      "community": "Aragón"
+    },
+    {
+      "wine": "Cariñena",
+      "category": "Denominación de Origen",
+      "community": "Aragón"
+    },
+    {
+      "wine": "Somontano",
+      "category": "Denominación de Origen",
+      "community": "Aragón"
+    },
+    {
+      "wine": "Urbezo",
+      "category": "Denominación de Origen",
+      "community": "Aragón"
+    },
+    {
+      "wine": "Cava",
+      "category": "Denominación de Origen",
+      "community": "Aragón"
+    },
+    {
+      "wine": "Bajo Aragón",
+      "category": "Vino de la Tierra",
+      "community": "Aragón"
+    },
+    {
+      "wine": "Ribera del Gállego-Cinco Villas",
+      "category": "Vino de la Tierra",
+      "community": "Aragón"
+    },
+    {
+      "wine": "Ribera del Jiloca",
+      "category": "Vino de la Tierra",
+      "community": "Aragón"
+    },
+    {
+      "wine": "Ribera del Queiles",
+      "category": "Vino de la Tierra",
+      "community": "Aragón"
+    },
+    {
+      "wine": "Valdejalón",
+      "category": "Vino de la Tierra",
+      "community": "Aragón"
+    },
+    {
+      "wine": "Valle del Cinca",
+      "category": "Vino de la Tierra",
+      "community": "Aragón"
+    },
+    {
+      "wine": "Cangas",
+      "category": "Vino de Calidad",
+      "community": "Principado de Asturias"
+    },
+    {
+      "wine": "Binissalem",
+      "category": "Denominación de Origen",
+      "community": "Baleares"
+    },
+    {
+      "wine": "Pla i Llevant",
+      "category": "Denominación de Origen",
+      "community": "Baleares"
+    },
+    {
+      "wine": "Formentera",
+      "category": "Vino de la Tierra",
+      "community": "Baleares"
+    },
+    {
+      "wine": "Ibiza",
+      "category": "Vino de la Tierra",
+      "community": "Baleares"
+    },
+    {
+      "wine": "Illes Balears",
+      "category": "Vino de la Tierra",
+      "community": "Baleares"
+    },
+    {
+      "wine": "Isla de Menorca",
+      "category": "Vino de la Tierra",
+      "community": "Baleares"
+    },
+    {
+      "wine": "Mallorca",
+      "category": "Vino de la Tierra",
+      "community": "Baleares"
+    },
+    {
+      "wine": "Serra de Tramuntana-Costa Nord",
+      "category": "Vino de la Tierra",
+      "community": "Baleares"
+    },
+    {
+      "wine": "Abona",
+      "category": "Denominación de Origen",
+      "community": "Canarias"
+    },
+    {
+      "wine": "El Hierro",
+      "category": "Denominación de Origen",
+      "community": "Canarias"
+    },
+    {
+      "wine": "Gran Canaria",
+      "category": "Denominación de Origen",
+      "community": "Canarias"
+    },
+    {
+      "wine": "La Gomera",
+      "category": "Denominación de Origen",
+      "community": "Canarias"
+    },
+    {
+      "wine": "La Palma",
+      "category": "Denominación de Origen",
+      "community": "Canarias"
+    },
+    {
+      "wine": "Lanzarote",
+      "category": "Denominación de Origen",
+      "community": "Canarias"
+    },
+    {
+      "wine": "Tacoronte-Acentejo",
+      "category": "Denominación de Origen",
+      "community": "Canarias"
+    },
+    {
+      "wine": "Valle de Güímar",
+      "category": "Denominación de Origen",
+      "community": "Canarias"
+    },
+    {
+      "wine": "Valle de La Orotava",
+      "category": "Denominación de Origen",
+      "community": "Canarias"
+    },
+    {
+      "wine": "Ycoden-Daute-Isora",
+      "category": "Denominación de Origen",
+      "community": "Canarias"
+    },
+    {
+      "wine": "Islas Canarias",
+      "category": "Vino de Calidad",
+      "community": "Canarias"
+    },
+    {
+      "wine": "Costa de Cantabria",
+      "category": "Vino de la Tierra",
+      "community": "Cantabria"
+    },
+    {
+      "wine": "Liébana",
+      "category": "Vino de la Tierra",
+      "community": "Cantabria"
+    },
+    {
+      "wine": "Calzadilla",
+      "category": "Vino de Pago",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Campo de la Guardia",
+      "category": "Vino de Pago",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Casa del Blanco",
+      "category": "Vino de Pago",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Dehesa del Carrizal",
+      "category": "Vino de Pago",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Dominio de Valdepusa",
+      "category": "Vino de Pago",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "El Vicario",
+      "category": "Vino de Pago",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Finca Élez",
+      "category": "Vino de Pago",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Guijoso",
+      "category": "Vino de Pago",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "La Jaraba",
+      "category": "Vino de Pago",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Los Cerrillos",
+      "category": "Vino de Pago",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Pago Florentino",
+      "category": "Vino de Pago",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Rosalejo",
+      "category": "Vino de Pago",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Vallegarcía",
+      "category": "Vino de Pago",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Almansa",
+      "category": "Denominación de Origen",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Campo de Calatrava",
+      "category": "Denominación de Origen",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Jumilla",
+      "category": "Denominación de Origen",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "La Mancha",
+      "category": "Denominación de Origen",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Manchuela",
+      "category": "Denominación de Origen",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Méntrida",
+      "category": "Denominación de Origen",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Mondéjar",
+      "category": "Denominación de Origen",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Ribera del Júcar",
+      "category": "Denominación de Origen",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Río Negro",
+      "category": "Denominación de Origen",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Uclés",
+      "category": "Denominación de Origen",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Valdepeñas",
+      "category": "Denominación de Origen",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Castilla",
+      "category": "Vino de la Tierra",
+      "community": "Castilla-La Mancha"
+    },
+    {
+      "wine": "Abadía Retuerta",
+      "category": "Vino de Pago",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "Dehesa Peñalba",
+      "category": "Vino de Pago",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "Urueña",
+      "category": "Vino de Pago",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "Arlanza",
+      "category": "Denominación de Origen",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "Arribes",
+      "category": "Denominación de Origen",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "Bierzo",
+      "category": "Denominación de Origen",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "Cigales",
+      "category": "Denominación de Origen",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "León",
+      "category": "Denominación de Origen",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "Ribera del Duero",
+      "category": "Denominación de Origen",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "Rueda",
+      "category": "Denominación de Origen",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "Tierra del Vino de Zamora",
+      "category": "Denominación de Origen",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "Toro",
+      "category": "Denominación de Origen",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "Cebreros",
+      "category": "Vino de Calidad",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "Sierra de Salamanca",
+      "category": "Vino de Calidad",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "Valles de Benavente",
+      "category": "Vino de Calidad",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "Valtiendas",
+      "category": "Vino de Calidad",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "Castilla y León",
+      "category": "Vino de la Tierra",
+      "community": "Castilla y León"
+    },
+    {
+      "wine": "Priorato",
+      "category": "Denominación de Origen Calificada",
+      "community": "Cataluña"
+    },
+    {
+      "wine": "Alella",
+      "category": "Denominación de Origen",
+      "community": "Cataluña"
+    },
+    {
+      "wine": "Cataluña",
+      "category": "Denominación de Origen",
+      "community": "Cataluña"
+    },
+    {
+      "wine": "Conca de Barberá",
+      "category": "Denominación de Origen",
+      "community": "Cataluña"
+    },
+    {
+      "wine": "Costers del Segre",
+      "category": "Denominación de Origen",
+      "community": "Cataluña"
+    },
+    {
+      "wine": "Empordà",
+      "category": "Denominación de Origen",
+      "community": "Cataluña"
+    },
+    {
+      "wine": "Montsant",
+      "category": "Denominación de Origen",
+      "community": "Cataluña"
+    },
+    {
+      "wine": "Penedés",
+      "category": "Denominación de Origen",
+      "community": "Cataluña"
+    },
+    {
+      "wine": "Pla de Bages",
+      "category": "Denominación de Origen",
+      "community": "Cataluña"
+    },
+    {
+      "wine": "Tarragona",
+      "category": "Denominación de Origen",
+      "community": "Cataluña"
+    },
+    {
+      "wine": "Terra Alta",
+      "category": "Denominación de Origen",
+      "community": "Cataluña"
+    },
+    {
+      "wine": "Cava",
+      "category": "Denominación de Origen",
+      "community": "Cataluña"
+    },
+    {
+      "wine": "Ribera del Guadiana",
+      "category": "Denominación de Origen",
+      "community": "Extremadura"
+    },
+    {
+      "wine": "Cava",
+      "category": "Denominación de Origen",
+      "community": "Extremadura"
+    },
+    {
+      "wine": "Extremadura",
+      "category": "Vino de la Tierra",
+      "community": "Extremadura"
+    },
+    {
+      "wine": "Monterrei",
+      "category": "Denominación de Origen",
+      "community": "Galicia"
+    },
+    {
+      "wine": "Rías Baixas",
+      "category": "Denominación de Origen",
+      "community": "Galicia"
+    },
+    {
+      "wine": "Ribeira Sacra",
+      "category": "Denominación de Origen",
+      "community": "Galicia"
+    },
+    {
+      "wine": "Ribeiro",
+      "category": "Denominación de Origen",
+      "community": "Galicia"
+    },
+    {
+      "wine": "Valdeorras",
+      "category": "Denominación de Origen",
+      "community": "Galicia"
+    },
+    {
+      "wine": "Barbanza e Iria",
+      "category": "Vino de la Tierra",
+      "community": "Galicia"
+    },
+    {
+      "wine": "Betanzos",
+      "category": "Vino de la Tierra",
+      "community": "Galicia"
+    },
+    {
+      "wine": "Ribeiras do Morrazo",
+      "category": "Vino de la Tierra",
+      "community": "Galicia"
+    },
+    {
+      "wine": "Terras do Navia",
+      "category": "Vino de la Tierra",
+      "community": "Galicia"
+    },
+    {
+      "wine": "Valle del Miño-Ourense",
+      "category": "Vino de la Tierra",
+      "community": "Galicia"
+    },
+    {
+      "wine": "Rioja",
+      "category": "Denominación de Origen Calificada",
+      "community": "La Rioja"
+    },
+    {
+      "wine": "Cava",
+      "category": "Denominación de Origen",
+      "community": "La Rioja"
+    },
+    {
+      "wine": "Valles de Sadacia",
+      "category": "Vino de la Tierra",
+      "community": "La Rioja"
+    },
+    {
+      "wine": "Bullas",
+      "category": "Denominación de Origen",
+      "community": "Región de Murcia"
+    },
+    {
+      "wine": "Jumilla",
+      "category": "Denominación de Origen",
+      "community": "Región de Murcia"
+    },
+    {
+      "wine": "Yecla",
+      "category": "Denominación de Origen",
+      "community": "Región de Murcia"
+    },
+    {
+      "wine": "Campo de Cartagena",
+      "category": "Vino de la Tierra",
+      "community": "Región de Murcia"
+    },
+    {
+      "wine": "Murcia",
+      "category": "Vino de la Tierra",
+      "community": "Región de Murcia"
+    },
+    {
+      "wine": "Bolandin",
+      "category": "Vino de Pago",
+      "community": "Navarra"
+    },
+    {
+      "wine": "Pago de Arínzano",
+      "category": "Vino de Pago",
+      "community": "Navarra"
+    },
+    {
+      "wine": "Pago de Otazu",
+      "category": "Vino de Pago",
+      "community": "Navarra"
+    },
+    {
+      "wine": "Prado de Irache",
+      "category": "Vino de Pago",
+      "community": "Navarra"
+    },
+    {
+      "wine": "Rioja",
+      "category": "Denominación de Origen Calificada",
+      "community": "Navarra"
+    },
+    {
+      "wine": "Navarra",
+      "category": "Denominación de Origen",
+      "community": "Navarra"
+    },
+    {
+      "wine": "Cava",
+      "category": "Denominación de Origen",
+      "community": "Navarra"
+    },
+    {
+      "wine": "Ribera del Queiles",
+      "category": "Vino de la Tierra",
+      "community": "Navarra"
+    },
+    {
+      "wine": "3 Riberas",
+      "category": "Vino de la Tierra",
+      "community": "Navarra"
+    },
+    {
+      "wine": "Rioja",
+      "category": "Denominación de Origen Calificada",
+      "community": "País Vasco"
+    },
+    {
+      "wine": "Chacolí de Álava",
+      "category": "Denominación de Origen",
+      "community": "País Vasco"
+    },
+    {
+      "wine": "Chacolí de Bizkaia",
+      "category": "Denominación de Origen",
+      "community": "País Vasco"
+    },
+    {
+      "wine": "Chacolí de Getaria",
+      "category": "Denominación de Origen",
+      "community": "País Vasco"
+    },
+    {
+      "wine": "Cava",
+      "category": "Denominación de Origen",
+      "community": "País Vasco"
+    }
+  ],
+  "meta": {
+    "title": "Vinos de España con indicación geográfica (DOP e IGP) - Free Download",
+    "description": "Vinos españoles con Denominación de Origen Protegida (Vino de Pago, DOCa, DO, Vino de Calidad) e Indicación Geográfica Protegida (Vino de la Tierra), por comunidad autónoma. Contains 148 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vinos de España con indicación geográfica (DOP e IGP) | ListBase",
+    "seo_description": "Download Vinos de España con indicación geográfica (DOP e IGP) — 148 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 148 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Vinos_de_España"
+    ]
+  }
+}
