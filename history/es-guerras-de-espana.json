@@ -1,0 +1,1080 @@
+{
+  "id": "es-guerras-de-espana",
+  "name": "Guerras de España",
+  "title": "Guerras de España",
+  "description": "Guerras y conflictos armados en los que ha participado España desde Carlos I, con bandos y resultado, agrupados por reinado o régimen.",
+  "category": "history",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Guerras_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Guerras_de_España",
+  "updated": "2026-10",
+  "record_count": 147,
+  "columns": [
+    {
+      "key": "war",
+      "label": "War",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "spain_and_allies",
+      "label": "Spain And Allies",
+      "type": "string"
+    },
+    {
+      "key": "enemies",
+      "label": "Enemies",
+      "type": "string"
+    },
+    {
+      "key": "result",
+      "label": "Result",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "war": "Lucha contra los turcos (1517 - 1541)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español República de Venecia Estados Pontificios",
+      "enemies": "Imperio otomano",
+      "result": "- Se frena temporalmente la expansión otomana - Contención de los ataques navales otomanos"
+    },
+    {
+      "war": "Caída de Tremecén (1518)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Regencia de Argel",
+      "result": "- Victoria - Muerte de Aruj"
+    },
+    {
+      "war": "Conquista de México (1519 - 1521)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español tlaxcaltecas y aliados",
+      "enemies": "Imperio mexica o azteca",
+      "result": "- Fin del imperio azteca - Conquista de parte de Mesoamérica"
+    },
+    {
+      "war": "Rebelión de las Germanías (1519 - 1523)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "• Partidarios leales al rey Carlos I • agermanados del Reino de Valencia y del Reino de Mallorca",
+      "enemies": "• Partidarios leales al rey Carlos I • agermanados del Reino de Valencia y del Reino de Mallorca",
+      "result": "- Victoria de los realistas - Se reafirma la autoridad de Carlos I - Indulto a los \"perayres\" (1524) - Carlos I concede el perdón general de 1528"
+    },
+    {
+      "war": "Guerra de las Comunidades de Castilla (1520 - 1522)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "• Partidarios leales al rey Carlos I • Comuneros de la Corona de Castilla",
+      "enemies": "• Partidarios leales al rey Carlos I • Comuneros de la Corona de Castilla",
+      "result": "- Victoria de los realistas - Se reafirma la autoridad de Carlos I - Ajusticiamiento de los líderes rebeldes - Carlos I concede el Perdón General de 1522"
+    },
+    {
+      "war": "Consolidación de la conquista de Navarra (1521 - 1524)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Reino de Navarra Reino de Francia",
+      "result": "- Recuperación de la plaza de Fuenterrabía - Fin de los intentos de reconquista franco-navarros - La Baja Navarra queda incluida en la Monarquía Hispánica hasta 1530 - Perdón General de 1524"
+    },
+    {
+      "war": "Guerra italiana de 1521-1526",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español Reino de Inglaterra Estados Pontificios Sacro Imperio Romano Germánico",
+      "enemies": "Reino de Francia República de Venecia Reino de Navarra",
+      "result": "- Victoria - Tratado de Madrid (1526)"
+    },
+    {
+      "war": "Conquista española de Chiapas (1523-1695)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Tribus Chiapas",
+      "result": "- Incorporación de estos territorios al dominio español"
+    },
+    {
+      "war": "Conquista española de Yucatán (1523-1547)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Tribus mayas",
+      "result": "- Incorporación de estos territorios al dominio español"
+    },
+    {
+      "war": "Conquista española de El Salvador (1524-1539)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Pueblos indígenas de El Salvador",
+      "result": "- Incorporación de estos territorios al dominio español"
+    },
+    {
+      "war": "Conquista española de Guatemala (1524-1667)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Pueblos indígenas de Guatemala",
+      "result": "- Incorporación de estos territorios al dominio español"
+    },
+    {
+      "war": "Guerra de la Liga de Cognac (1526 - 1530)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español Sacro Imperio Romano Germánico",
+      "enemies": "Reino de Francia Reino de Inglaterra Estados Pontificios Ducado de Milán República de Florencia",
+      "result": "- Paz de Cambrai (1529)"
+    },
+    {
+      "war": "Conquista del Imperio incaico (1532 - 1535)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Imperio incaico",
+      "result": "- Fin del Imperio incaico - Incorporación del territorio incaico al dominio español"
+    },
+    {
+      "war": "Colonización española de América (1533 - 1821)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Tribus nativas",
+      "result": "- Incorporación de estos territorios al dominio español"
+    },
+    {
+      "war": "Guerra de Arauco (1536 - 1772)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Mapuches",
+      "result": "- Reconocimiento de la soberanía mapuche - Límites fijados en el río Biobío - Establecimiento de parlamentos mapuches - Restablecimiento gradual del dominio español al sur de la Araucanía desde 1645 hasta 1796"
+    },
+    {
+      "war": "Guerra italiana de 1536-1538",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Reino de Francia",
+      "result": "- Tregua de Niza (1538)"
+    },
+    {
+      "war": "Levantamiento inca contra los españoles (1536 - 1572)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Estado neoincaico",
+      "result": "- Ejecución del líder Manco Inca (1545) - Se establece la resistencia en Vilcabamba (1545-72) - Fin de la resistencia inca en 1572"
+    },
+    {
+      "war": "Guerras civiles entre los conquistadores del Perú (1537 - 1548)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "• Realistas • Rebeldes",
+      "enemies": "• Realistas • Rebeldes",
+      "result": "- Victoria de los realistas - Consolidación del Virreinato del Perú"
+    },
+    {
+      "war": "Conquista española de los muisca (1537-1540)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Guerreros guecha",
+      "result": "- Incorporación de estos territorios al dominio español"
+    },
+    {
+      "war": "Guerra de Tiguex (1540-1541)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Indios Tihua",
+      "result": "- Victoria"
+    },
+    {
+      "war": "Guerra de Mixtón (1540-1542)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "caxcanes",
+      "result": "- Victoria"
+    },
+    {
+      "war": "Guerra italiana de 1542-1546",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español Reino de Inglaterra",
+      "enemies": "Reino de Francia Imperio otomano",
+      "result": "- Paz de Crépy-en-Laonnois (1544) - Continua la guerra entre Francia e Inglaterra - Tratado de Ardres (1546)"
+    },
+    {
+      "war": "Rebelión maya (1546 - 1547)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Indígenas mayas",
+      "result": "- Acuerdo para liberar los prisioneros de ambos bandos - Compromiso español para castigar a aquellos que hiciesen daño a los nativos"
+    },
+    {
+      "war": "Guerra de Esmalcalda (1546 - 1547)",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español Sacro Imperio Romano Germánico (bando católico)",
+      "enemies": "Liga de Esmalcalda (bando protestante)",
+      "result": "- Victoria católica en la Batalla de Mühlberg (1547) - Capitulación de Wittenberg - El electorado de Sajonia pasa a Mauricio de Sajonia - Francia toma los obispados de Metz , Toul y Verdún"
+    },
+    {
+      "war": "Guerra italiana de 1551-1559",
+      "period": "Carlos I (1516-1556)",
+      "spain_and_allies": "Imperio español Sacro Imperio Romano Germánico Reino de Inglaterra",
+      "enemies": "Reino de Francia",
+      "result": "- Continúa durante el reinado de Felipe II"
+    },
+    {
+      "war": "Guerra italiana de 1551-1559",
+      "period": "Felipe II (1556-1598)",
+      "spain_and_allies": "Imperio español Sacro Imperio Romano Germánico Reino de Inglaterra",
+      "enemies": "Reino de Francia",
+      "result": "- Victoria - Paz de Cateau-Cambrésis (1559)"
+    },
+    {
+      "war": "Guerras de religión de Francia (1562 - 1598)",
+      "period": "Felipe II (1556-1598)",
+      "spain_and_allies": "bando católico ( Guisa ) (con apoyo de Felipe II )",
+      "enemies": "bando protestante ( Borbón ) Reino de Inglaterra Provincias Unidas",
+      "result": "- Apoyo militar y financiero de Felipe II al bando católico - Paz de Vervins - Conversión católica del protestante Enrique III de Navarra el 25 de julio de 1593 - Felipe II reconoce a Enrique como rey de Francia"
+    },
+    {
+      "war": "Rebelión de las Alpujarras (1567 - 1571)",
+      "period": "Felipe II (1556-1598)",
+      "spain_and_allies": "• Población morisca sublevada (esperan apoyo de los turcos) • Cristianos viejos y el ejército de la Monarquía",
+      "enemies": "• Población morisca sublevada (esperan apoyo de los turcos) • Cristianos viejos y el ejército de la Monarquía",
+      "result": "- Victoria de la Monarquía - Guerra civil en el Reino de Granada - Dispersión de los moriscos - Expulsión definitivamente en 1609"
+    },
+    {
+      "war": "Revueltas filipinas contra España (1567-1872) Revuelta de los sangleyes (1603) Expedición de Balanguingui",
+      "period": "Felipe II (1556-1598)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Grupo rebelde Dagohoy Población China Piratas",
+      "result": "- Victoria"
+    },
+    {
+      "war": "Guerra de los Ochenta Años (1568 - 1648)",
+      "period": "Felipe II (1556-1598)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Provincias Unidas Reino de Inglaterra Reino de Francia",
+      "result": "- Continúa en el reinado de Felipe III"
+    },
+    {
+      "war": "Guerra turco-veneciana (1570 - 1573)",
+      "period": "Felipe II (1556-1598)",
+      "spain_and_allies": "República de Venecia Imperio español (incluido en la Liga Santa )",
+      "enemies": "Imperio otomano",
+      "result": "- Victoria otomana sobre Venecia - España y el imperio otomano continúan la guerra hasta 1578 - Se contiene el avance turco temporalmente - Los otomanos conquistan la isla de Chipre"
+    },
+    {
+      "war": "Guerra de Castilla (Borneo) (1578)",
+      "period": "Felipe II (1556-1598)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Imperio de Brunéi Moros",
+      "result": "- Statu quo ante bellum"
+    },
+    {
+      "war": "Guerra de sucesión portuguesa (1580 - 1583)",
+      "period": "Felipe II (1556-1598)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Portugal Reino de Inglaterra Reino de Francia",
+      "result": "- Victoria - Coronación de Felipe II como rey de Portugal - Conquista de las Azores (1583) - Exilio del pretendiente Antonio"
+    },
+    {
+      "war": "Guerra de Colonia (1583-1588)",
+      "period": "Felipe II (1556-1598)",
+      "spain_and_allies": "Imperio español Baviera",
+      "enemies": "Arzobispado de Colonia Provincias Unidas Electorado del Palatinado",
+      "result": "- Victoria católica"
+    },
+    {
+      "war": "Guerra anglo-española (1585 - 1604)",
+      "period": "Felipe II (1556-1598)",
+      "spain_and_allies": "Imperio español Portugal (Monarquía Hispánica) resistencia irlandesa",
+      "enemies": "Reino de Inglaterra Provincias Unidas",
+      "result": "- Continúa en el reinado de Felipe III"
+    },
+    {
+      "war": "Guerra de los Nueve Años (Irlanda) (1593-1603)",
+      "period": "Felipe II (1556-1598)",
+      "spain_and_allies": "Imperio Español Señores irlandeses rebeldes",
+      "enemies": "Reino de Inglaterra Señores irlandeses leales",
+      "result": "- Continúa en el reinado de Felipe III"
+    },
+    {
+      "war": "Guerra luso-neerlandesa (1601 - 1661)",
+      "period": "Felipe II (1556-1598)",
+      "spain_and_allies": "Portugal ( Monarquía Hispánica )",
+      "enemies": "Provincias Unidas Reino de Inglaterra",
+      "result": "- Continúa en el reinado de Felipe III"
+    },
+    {
+      "war": "Guerra de los Ochenta Años (1568 - 1648)",
+      "period": "Felipe III (1598-1621)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Provincias Unidas Reino de Inglaterra Reino de Francia",
+      "result": "- Tregua de los doce años (1609-1621) - Continúa en el reinado de Felipe IV"
+    },
+    {
+      "war": "Guerra anglo-española (1585 - 1604)",
+      "period": "Felipe III (1598-1621)",
+      "spain_and_allies": "Imperio español Portugal resistencia irlandesa",
+      "enemies": "Reino de Inglaterra Provincias Unidas",
+      "result": "- Tratado de Londres (1604)"
+    },
+    {
+      "war": "Guerra de los Nueve Años (Irlanda) (1593-1603)",
+      "period": "Felipe III (1598-1621)",
+      "spain_and_allies": "Imperio español Señores irlandeses rebeldes",
+      "enemies": "Reino de Inglaterra Señores irlandeses leales",
+      "result": "- Fuga de los Condes"
+    },
+    {
+      "war": "Guerra de Acoma (1598-1599)",
+      "period": "Felipe III (1598-1621)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Acoma",
+      "result": "- Victoria"
+    },
+    {
+      "war": "Guerras de los Navajos (1600-1697)",
+      "period": "Felipe III (1598-1621)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Navajo",
+      "result": "- Continúa en el reinado de Felipe IV"
+    },
+    {
+      "war": "Guerra luso-neerlandesa (1601 - 1661)",
+      "period": "Felipe III (1598-1621)",
+      "spain_and_allies": "Portugal ( Monarquía Hispánica )",
+      "enemies": "Provincias Unidas Reino de Inglaterra",
+      "result": "- Continúa en el reinado de Felipe IV"
+    },
+    {
+      "war": "Guerra de Sucesión de Jülich (1609-1614)",
+      "period": "Felipe III (1598-1621)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Unión Protestante",
+      "result": "- Victoria - Tratado de Xanten"
+    },
+    {
+      "war": "Guerra de sucesión de Montferrato (1613 - 1617)",
+      "period": "Felipe III (1598-1621)",
+      "spain_and_allies": "Imperio español Ducado de Mantua",
+      "enemies": "Reino de Francia Ducado de Saboya",
+      "result": "- Victoria hispano-mantuana - El ducado de Monferrato pasa a Fernando I Gonzaga de Mantua"
+    },
+    {
+      "war": "Revuelta de Tepehuán (1616 - 1620)",
+      "period": "Felipe III (1598-1621)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Tepehuanes",
+      "result": "- Victoria"
+    },
+    {
+      "war": "Conquista española de Petén (1618 - 1697)",
+      "period": "Felipe III (1598-1621)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Tribus mayas",
+      "result": "- Continúa en el reinado de Felipe IV"
+    },
+    {
+      "war": "Guerra de los Treinta Años (1618 - 1648)",
+      "period": "Felipe III (1598-1621)",
+      "spain_and_allies": "Imperio español Sacro Imperio Romano Germánico Baviera Liga Católica Alemana",
+      "enemies": "Bohemia Provincias Unidas Palatinado Transilvania",
+      "result": "- Fase de la Revuelta bohemia - Continúa en el reinado de Felipe IV"
+    },
+    {
+      "war": "Guerra de la Valtelina (1620 - 1626)",
+      "period": "Felipe III (1598-1621)",
+      "spain_and_allies": "Imperio español Sacro Imperio Romano Germánico República de Génova",
+      "enemies": "Ligas grisonas Reino de Francia Ducado de Saboya República de Venecia",
+      "result": "- Continúa en el reinado de Felipe IV"
+    },
+    {
+      "war": "Guerra de los Ochenta Años (1568 - 1648)",
+      "period": "Felipe IV (1621-1665)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Provincias Unidas Reino de Inglaterra Reino de Francia",
+      "result": "- Tratado de Münster (1648) - Reconocimiento de la independencia de las Provincias Unidas - España retiene los Países Bajos meridionales"
+    },
+    {
+      "war": "Guerras de los Navajos (1600 - 1697)",
+      "period": "Felipe IV (1621-1665)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Navajo",
+      "result": "- Continúa en el reinado de Carlos II"
+    },
+    {
+      "war": "Guerra luso-neerlandesa (1601 - 1661)",
+      "period": "Felipe IV (1621-1665)",
+      "spain_and_allies": "Portugal ( Monarquía Hispánica )",
+      "enemies": "Provincias Unidas Reino de Inglaterra",
+      "result": "- Sublevación de Portugal contra Felipe IV - Retirada de la Monarquía Hispánica - Tratado de La Haya (1661)"
+    },
+    {
+      "war": "Conquista española de Petén (1618 - 1697)",
+      "period": "Felipe IV (1621-1665)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Tribus mayas",
+      "result": "- Continúa en el reinado de Carlos II"
+    },
+    {
+      "war": "Guerra de los Treinta Años (1618 - 1648)",
+      "period": "Felipe IV (1621-1665)",
+      "spain_and_allies": "Imperio español Sacro Imperio Romano Germánico Baviera Liga Católica Alemana",
+      "enemies": "Provincias Unidas Imperio sueco Reino de Francia Palatinado Transilvania Reino de Inglaterra Reino de Dinamarca y Noruega Reino de Escocia Brandeburgo-Prusia",
+      "result": "- Conquista española del Palatinado - Derrota danesa - Derrota sueca - Derrota final de Fernando III - Paz de Westfalia (1648) - Guerra franco-española hasta 1659"
+    },
+    {
+      "war": "Guerra de la Valtelina (1620 - 1626)",
+      "period": "Felipe IV (1621-1665)",
+      "spain_and_allies": "Imperio español Sacro Imperio Romano Germánico República de Génova",
+      "enemies": "Ligas grisonas Reino de Francia Ducado de Saboya República de Venecia",
+      "result": "- Victoria - Tratado de Monzón"
+    },
+    {
+      "war": "Guerra anglo-española (1625 - 1630)",
+      "period": "Felipe IV (1621-1665)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Reino de Inglaterra Provincias Unidas",
+      "result": "- Victoria - Derrota militar inglesa - Tratado de Madrid (1630)"
+    },
+    {
+      "war": "Primera guerra genovesa-saboyana (1625)",
+      "period": "Felipe IV (1621-1665)",
+      "spain_and_allies": "Imperio español República de Genova",
+      "enemies": "Reino de Francia Ducado de Saboya",
+      "result": "- Victoria ( Socorro de Génova ) - Tratado de Monzón"
+    },
+    {
+      "war": "Expedición española a Formosa (1626)",
+      "period": "Felipe IV (1621-1665)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Reino de Middag",
+      "result": "- Victoria, presencia española en la isla hasta 1642"
+    },
+    {
+      "war": "Guerra de Sucesión de Mantua (1628-1631)",
+      "period": "Felipe IV (1621-1665)",
+      "spain_and_allies": "Imperio español Sacro Imperio Romano Germánico Ducado de Saboya",
+      "enemies": "Reino de Francia República de Venecia",
+      "result": "- El duque de Nevers reconocido como gobernante de Mantua - Tratado de Cherasco"
+    },
+    {
+      "war": "Guerra franco-española (1635 - 1659)",
+      "period": "Felipe IV (1621-1665)",
+      "spain_and_allies": "Imperio español Tropas realistas inglesas",
+      "enemies": "Reino de Francia Mancomunidad de Inglaterra Provincias Unidas Ducado de Saboya",
+      "result": "- Estancamiento militar - Tratado de los Pirineos (1659) - Francia anexiona el Rosellón y la mayoría de Artois"
+    },
+    {
+      "war": "Sublevación de Cataluña (1640 - 1659)",
+      "period": "Felipe IV (1621-1665)",
+      "spain_and_allies": "• Generalidad de Cataluña (aliado de Reino de Francia ) • Monarquía Católica de Felipe IV",
+      "enemies": "• Generalidad de Cataluña (aliado de Reino de Francia ) • Monarquía Católica de Felipe IV",
+      "result": "- Victoria de la Monarquía - Cataluña permanece dentro de la Monarquía Hispánica - Tratado de los Pirineos (1659)"
+    },
+    {
+      "war": "Guerra de Restauración portuguesa (1640 - 1668)",
+      "period": "Felipe IV (1621-1665)",
+      "spain_and_allies": "• Partidarios de Juan IV de Portugal y la independencia de Portugal • Monarquía Católica de Felipe IV",
+      "enemies": "• Partidarios de Juan IV de Portugal y la independencia de Portugal • Monarquía Católica de Felipe IV",
+      "result": "- Continúa en el reinado de Carlos II"
+    },
+    {
+      "war": "Sublevación de Nápoles y Sicilia (1647 - 1648)",
+      "period": "Felipe IV (1621-1665)",
+      "spain_and_allies": "• La República Napolitana y los rebeldes de Sicilia (apoyados por el Reino de Francia y el ducado de Saboya ) • Monarquía Católica de Felipe IV",
+      "enemies": "• La República Napolitana y los rebeldes de Sicilia (apoyados por el Reino de Francia y el ducado de Saboya ) • Monarquía Católica de Felipe IV",
+      "result": "- Derrota de los rebeldes - Derrota de la flota saboyano-francesa"
+    },
+    {
+      "war": "Guerra anglo-española (1655 - 1660)",
+      "period": "Felipe IV (1621-1665)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Mancomunidad de Inglaterra",
+      "result": "- Tratado de Madrid (1667) (tregua) - Tratado de Madrid (1670)"
+    },
+    {
+      "war": "Guerras de los Navajos (1600-1697)",
+      "period": "Carlos II (1665-1700)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Navajo",
+      "result": "- Fin de la rebelión - Sometimiento del pueblo Navajo"
+    },
+    {
+      "war": "Conquista española de Petén (1618 - 1697)",
+      "period": "Carlos II (1665-1700)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Tribus mayas",
+      "result": "- Victoria"
+    },
+    {
+      "war": "Guerra de Restauración portuguesa (1640 - 1668)",
+      "period": "Carlos II (1665-1700)",
+      "spain_and_allies": "• Partidarios de Juan IV de Portugal y la independencia de Portugal • Monarquía Católica de Felipe IV",
+      "enemies": "• Partidarios de Juan IV de Portugal y la independencia de Portugal • Monarquía Católica de Felipe IV",
+      "result": "- Reconocimiento de la independencia de Portugal - Tratado de Lisboa (1668) - Ceuta y Hermisende permanecen en manos españolas"
+    },
+    {
+      "war": "Guerra de Devolución (1667 - 1668)",
+      "period": "Carlos II (1665-1700)",
+      "spain_and_allies": "Imperio español (apoyo de la Triple Alianza )",
+      "enemies": "Reino de Francia",
+      "result": "- Tratado de Aquisgrán (1668)"
+    },
+    {
+      "war": "Guerra franco-neerlandesa (1672 - 1678)",
+      "period": "Carlos II (1665-1700)",
+      "spain_and_allies": "Imperio español Provincias Unidas Sacro Imperio Romano Brandeburgo",
+      "enemies": "Reino de Francia Reino de Inglaterra Reino de Suecia Obispado de Münster Arzobispado de Colonia",
+      "result": "- Tratados de Nimega (1678)"
+    },
+    {
+      "war": "Segunda guerra genovesa-saboyana (1672-1673)",
+      "period": "Carlos II (1665-1700)",
+      "spain_and_allies": "Imperio español República de Génova",
+      "enemies": "Ducado de Saboya",
+      "result": "- Victoria hispano-genovesa"
+    },
+    {
+      "war": "Guerra hispano-brandeburguesa (1680 - 1682)",
+      "period": "Carlos II (1665-1700)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Brandeburgo-Prusia",
+      "result": "- España y Brandeburgo sellan la paz con su inclusión en la Gran Alianza en 1686"
+    },
+    {
+      "war": "Guerra de las Reuniones (1683 - 1684)",
+      "period": "Carlos II (1665-1700)",
+      "spain_and_allies": "Imperio español Sacro Imperio Romano Génova",
+      "enemies": "Reino de Francia",
+      "result": "- Tregua de Ratisbona (1684)"
+    },
+    {
+      "war": "Guerra de los Nueve Años (1688 - 1697)",
+      "period": "Carlos II (1665-1700)",
+      "spain_and_allies": "Imperio español (incluido en la Gran Alianza )",
+      "enemies": "Reino de Francia",
+      "result": "- Tratado de Rijswijk (1697)"
+    },
+    {
+      "war": "Asedios de Ceuta (1694-1727)",
+      "period": "Carlos II (1665-1700)",
+      "spain_and_allies": "Imperio español",
+      "enemies": "Marruecos Apoyado por: Inglaterra",
+      "result": "- Victoria - La ciudad permanece en manos españolas"
+    },
+    {
+      "war": "Guerra de sucesión española (1701 - 1714)",
+      "period": "Felipe V (1700-1746)",
+      "spain_and_allies": "• Austracistas de Carlos de Habsburgo (mayoritarios en la Corona de Aragón ) • Borbónicos de Felipe de Anjou (mayoritarios en la Corona de Castilla )",
+      "enemies": "• Austracistas de Carlos de Habsburgo (mayoritarios en la Corona de Aragón ) • Borbónicos de Felipe de Anjou (mayoritarios en la Corona de Castilla )",
+      "result": "- Victoria borbónica - Decretos de Nueva Planta (1707-1716) - Exilio de los austracistas españoles"
+    },
+    {
+      "war": "Guerra de sucesión española (1701 - 1714)",
+      "period": "Felipe V (1700-1746)",
+      "spain_and_allies": "• Borbónicos: Reino de Francia y Reino de Baviera • Austracistas: Sacro Imperio Romano Germánico , Reino de Gran Bretaña , Reino de Portugal , Provincias Unidas y Ducado de Saboya",
+      "enemies": "• Borbónicos: Reino de Francia y Reino de Baviera • Austracistas: Sacro Imperio Romano Germánico , Reino de Gran Bretaña , Reino de Portugal , Provincias Unidas y Ducado de Saboya",
+      "result": "- Conflicto internacional - Tratado de Utrecht (1712-1713) - Tratado de Rastatt (1714)"
+    },
+    {
+      "war": "Guerra de la Cuádruple Alianza (1717 - 1720)",
+      "period": "Felipe V (1700-1746)",
+      "spain_and_allies": "Reino de España",
+      "enemies": "Sacro Imperio Francia Gran Bretaña Provincias Unidas Ducado de Saboya",
+      "result": "- Indeciso - Tratado de La Haya (1720)"
+    },
+    {
+      "war": "Guerra anglo-española (1727 - 1729)",
+      "period": "Felipe V (1700-1746)",
+      "spain_and_allies": "Reino de España",
+      "enemies": "Reino de Gran Bretaña",
+      "result": "- Statu quo ante bellum . - Tratado de Sevilla (1729)"
+    },
+    {
+      "war": "Expedición española a Orán (1732)",
+      "period": "Felipe V (1700-1746)",
+      "spain_and_allies": "Reino de España",
+      "enemies": "Regencia de Argel",
+      "result": "- Conquista española de Orán y Mazalquivir"
+    },
+    {
+      "war": "Guerra de sucesión polaca (1733 - 1738)",
+      "period": "Felipe V (1700-1746)",
+      "spain_and_allies": "Reino de España polacos fieles a Estanislao I Leszczynski Reino de Francia Reino de Cerdeña",
+      "enemies": "Polacos fieles a Augusto III de Polonia Imperio Ruso Austria Sajonia",
+      "result": "- Tratado de Viena (1738) - Infante Carlos de España , recibe los reinos de Nápoles , Sicilia y los Presidios de Toscana"
+    },
+    {
+      "war": "Guerra del Asiento (1739 - 1748)",
+      "period": "Felipe V (1700-1746)",
+      "spain_and_allies": "Reino de España",
+      "enemies": "Reino de Gran Bretaña",
+      "result": "- Continúa en el reinado de Fernando VI"
+    },
+    {
+      "war": "Guerra de sucesión austriaca (1740 - 1748)",
+      "period": "Felipe V (1700-1746)",
+      "spain_and_allies": "Reino de España Prusia Reino de Francia Nápoles - Sicilia Baviera Ducado de Módena República de Génova",
+      "enemies": "Reino de Gran Bretaña Austria Hanover Provincias Unidas Electorado de Sajonia Reino de Cerdeña",
+      "result": "- Continúa en el reinado de Fernando VI"
+    },
+    {
+      "war": "Guerra del Asiento (1739 - 1748)",
+      "period": "Fernando VI (1746-1759)",
+      "spain_and_allies": "Reino de España",
+      "enemies": "Reino de Gran Bretaña",
+      "result": "- Tratado de Aquisgrán (1748) - España mantiene su dominio en América del Sur"
+    },
+    {
+      "war": "Guerra de sucesión austriaca (1740 - 1748)",
+      "period": "Fernando VI (1746-1759)",
+      "spain_and_allies": "Reino de España Prusia Reino de Francia Nápoles - Sicilia Baviera Ducado de Módena República de Génova",
+      "enemies": "Reino de Gran Bretaña Austria Hanover Provincias Unidas Electorado de Sajonia Reino de Cerdeña",
+      "result": "- Tratado de Aquisgrán (1748) - María Teresa I retiene el trono austríaco - Infante Felipe de España , recibe los Ducados de Parma, Plasencia y Guastalla ."
+    },
+    {
+      "war": "Guerra Guaranítica (1754-1756)",
+      "period": "Fernando VI (1746-1759)",
+      "spain_and_allies": "Reino de España Reino de Portugal",
+      "enemies": "Guaraníes",
+      "result": "- Victoria hispano-portuguesa"
+    },
+    {
+      "war": "Guerra de los Siete Años (1756 - 1763)",
+      "period": "Fernando VI (1746-1759)",
+      "spain_and_allies": "Reino de España Austria Reino de Francia Imperio Ruso Suecia Electorado de Sajonia Nápoles - Sicilia Piamonte-Cerdeña",
+      "enemies": "Prusia Reino de Gran Bretaña Hannover Reino de Portugal Brunswick-Lüneburg Hesse-Kassel Confederación Iroquesa",
+      "result": "- Continúa en el reinado de Carlos III"
+    },
+    {
+      "war": "Guerra de los Siete Años (1756 - 1763)",
+      "period": "Carlos III (1759-1788)",
+      "spain_and_allies": "Reino de España Austria Reino de Francia Imperio Ruso Suecia Electorado de Sajonia Nápoles - Sicilia Piamonte-Cerdeña",
+      "enemies": "Prusia Reino de Gran Bretaña Hannover Reino de Portugal Brunswick-Lüneburg Hesse-Kassel Confederación Iroquesa",
+      "result": "- Tratado de París (1763) - Paz de Hubertusburgo (1763)"
+    },
+    {
+      "war": "Guerra hispano-portuguesa (1762 - 1763) ( Guerra de los Siete Años )",
+      "period": "Carlos III (1759-1788)",
+      "spain_and_allies": "Reino de España Reino de Francia",
+      "enemies": "Reino de Portugal Gran Bretaña",
+      "result": "- Fracaso de la invasión franco-española de Portugal - Fracaso de la Invasión anglo-portuguesa al Río de la Plata (1763) - Conquista española de la Banda Oriental - Tratado de París (1763)"
+    },
+    {
+      "war": "Guerra hispano-argelina (1775-1785)",
+      "period": "Carlos III (1759-1788)",
+      "spain_and_allies": "Reino de España Reino de Portugal Nápoles - Sicilia Gran Ducado de Toscana",
+      "enemies": "Regencia de Argel",
+      "result": "- Victoria cristiana"
+    },
+    {
+      "war": "Guerra hispano-portuguesa (1776 - 1777)",
+      "period": "Carlos III (1759-1788)",
+      "spain_and_allies": "Reino de España",
+      "enemies": "Reino de Portugal",
+      "result": "- Tratado de San Ildefonso (1777)"
+    },
+    {
+      "war": "Guerra anglo-española (1779-1783) ( Guerra de Independencia de los Estados Unidos )",
+      "period": "Carlos III (1759-1788)",
+      "spain_and_allies": "Reino de España Estados Unidos Reino de Francia",
+      "enemies": "Gran Bretaña Lealistas Electorado de Hanover",
+      "result": "- Victoria - Tratado de París (1783)"
+    },
+    {
+      "war": "Guerra del Rosellón (1793 - 1795) ( Guerras revolucionarias francesas )",
+      "period": "Carlos IV (1788-1808)",
+      "spain_and_allies": "Reino de España (dentro de la Primera Coalición )",
+      "enemies": "República Francesa",
+      "result": "- Paz de Basilea (1795) - Alianza con la Francia revolucionaria"
+    },
+    {
+      "war": "Guerra anglo-española (1796-1802) ( Guerras revolucionarias francesas )",
+      "period": "Carlos IV (1788-1808)",
+      "spain_and_allies": "Reino de España Primera República Francesa",
+      "enemies": "Reino Unido de Gran Bretaña e Irlanda (dentro de la Segunda Coalición )",
+      "result": "- Tratado de Amiens (1802)"
+    },
+    {
+      "war": "Guerra de las Naranjas (1801) ( Guerras revolucionarias francesas )",
+      "period": "Carlos IV (1788-1808)",
+      "spain_and_allies": "Reino de España Primera República Francesa",
+      "enemies": "Reino de Portugal",
+      "result": "- Tratado de Badajoz (1801) - España anexiona Olivenza y Táliga - Conquista portuguesa de las Misiones Orientales - Invasión de Portugal (1807)"
+    },
+    {
+      "war": "Guerra anglo-española (1804-1809) ( Guerras napoleónicas )",
+      "period": "Carlos IV (1788-1808)",
+      "spain_and_allies": "Reino de España Primer Imperio francés",
+      "enemies": "Reino Unido de Gran Bretaña e Irlanda (dentro de la Tercera Coalición y Cuarta Coalición )",
+      "result": "- Victoria británica en la batalla de Trafalgar (1805) - Victoria francesa en la batalla de Austerlitz (1805) - Abdicaciones de Bayona (1808) - Ocupación francesa de España - Alianza anglo-española (1809)"
+    },
+    {
+      "war": "Guerra de la Independencia española (1808 - 1814)",
+      "period": "Fernando VII (1808-1833)",
+      "spain_and_allies": "Regencia de España e Indias Reino Unido de Gran Bretaña e Irlanda Reino de Portugal",
+      "enemies": "Primer Imperio francés España napoleónica",
+      "result": "- Restauración en el trono español de Fernando VII - Tratado de Valençay (1814)"
+    },
+    {
+      "war": "Guerras de independencia hispanoamericanas (1810 - 1833)",
+      "period": "Fernando VII (1808-1833)",
+      "spain_and_allies": "Ejército realista en América",
+      "enemies": "Fuerzas patriotas americanas",
+      "result": "- Victoria de los patriotas - Expulsión de los españoles de América - Independencia de los territorios hispanoamericanos - Formación de nuevos estados americanos - España mantiene su control sobre Cuba y Puerto Rico - Fin de intentos militares españoles de reconquista ​"
+    },
+    {
+      "war": "Guerra anglo-estadounidense (1812-1815)",
+      "period": "Fernando VII (1808-1833)",
+      "spain_and_allies": "Imperio español ( Florida Occidental ) Reino Unido de Gran Bretaña e Irlanda tribus Creek",
+      "enemies": "Estados Unidos",
+      "result": "- El gobernador de la Florida Occidental se une a los británicos - Invasión estadounidense del territorio - Derrota española en la Batalla de Pensacola - España pierde en abril de 1813 sus posesiones en la Bahía de Mobile ( Mobile y Spanish Fort )"
+    },
+    {
+      "war": "Guerra Realista y Cien Mil Hijos de San Luis (1822 - 1823)",
+      "period": "Fernando VII (1808-1833)",
+      "spain_and_allies": "• Gobierno liberal • Absolutistas españoles (intervención del Reino de Francia )",
+      "enemies": "• Gobierno liberal • Absolutistas españoles (intervención del Reino de Francia )",
+      "result": "- Victoria de los absolutistas . - Restablecimiento de Fernando VII como rey absoluto"
+    },
+    {
+      "war": "Primera guerra carlista (1833-1840)",
+      "period": "Isabel II (1833-1868)",
+      "spain_and_allies": "• Liberales (partidarios de la sucesión de Isabel II ) • Carlistas (partidarios de Carlos María Isidro de Borbón )",
+      "enemies": "• Liberales (partidarios de la sucesión de Isabel II ) • Carlistas (partidarios de Carlos María Isidro de Borbón )",
+      "result": "- Victoria de los liberales - Abrazo de Vergara - Isabel II mantiene el trono - El pretendiente carlista parte al exilio"
+    },
+    {
+      "war": "Segunda guerra carlista (1846 - 1849)",
+      "period": "Isabel II (1833-1868)",
+      "spain_and_allies": "• Liberales (partidarios de la sucesión de Isabel II ) • Carlistas (partidarios de Carlos Luis de Borbón y Braganza )",
+      "enemies": "• Liberales (partidarios de la sucesión de Isabel II ) • Carlistas (partidarios de Carlos Luis de Borbón y Braganza )",
+      "result": "- Victoria de los liberales - Detención del pretendiente"
+    },
+    {
+      "war": "Expedición franco-española a Cochinchina (1857 - 1862)",
+      "period": "Isabel II (1833-1868)",
+      "spain_and_allies": "Reino de España Segundo Imperio Francés",
+      "enemies": "Reino de Annam",
+      "result": "- Tratados de Saigón (1862) - España obtiene escaso beneficio - Francia impone su dominio sobre el reino"
+    },
+    {
+      "war": "Guerra de África (1859 - 1860)",
+      "period": "Isabel II (1833-1868)",
+      "spain_and_allies": "Reino de España",
+      "enemies": "Sultanato de Marruecos",
+      "result": "- Tratado de Wad-Ras (1860)"
+    },
+    {
+      "war": "Guerra de la Restauración (1863 - 1865)",
+      "period": "Isabel II (1833-1868)",
+      "spain_and_allies": "Reino de España conservadores dominicanos",
+      "enemies": "Liberales dominicanos",
+      "result": "- Derrota española - Restauración de la soberanía dominicana"
+    },
+    {
+      "war": "Guerra hispano-sudamericana (1865-1866)",
+      "period": "Isabel II (1833-1868)",
+      "spain_and_allies": "Reino de España",
+      "enemies": "Chile Perú (desde 1866) Ecuador (desde 1866) Bolivia (desde 1866)",
+      "result": "- Indeciso - Tratado de Washington (1871), armisticio - Tratado de París (1879), España y Perú - Tratado de París (1879), España y Bolivia - Tratado Chile-España de 1883 - Tratado de Madrid (1885) , España y Ecuador"
+    },
+    {
+      "war": "Guerra del 68 o Guerra Grande (1868 - 1878)",
+      "period": "Gobierno Provisional (1868-1871)",
+      "spain_and_allies": "• Autoridades españolas • Ejército Libertador Cubano",
+      "enemies": "• Autoridades españolas • Ejército Libertador Cubano",
+      "result": "- Continúa en el reinado de Amadeo I."
+    },
+    {
+      "war": "Guerra del 68 o Guerra Grande (1868 - 1878)",
+      "period": "Amadeo I (1871-1873)",
+      "spain_and_allies": "• Autoridades españolas • Ejército Libertador Cubano",
+      "enemies": "• Autoridades españolas • Ejército Libertador Cubano",
+      "result": "- Continúa con la Primera República Española."
+    },
+    {
+      "war": "Tercera guerra carlista (1872 - 1876)",
+      "period": "Amadeo I (1871-1873)",
+      "spain_and_allies": "• Gobierno central (partidarios de Amadeo I) • Carlistas (partidarios de Carlos María de Borbón y Austria-Este )",
+      "enemies": "• Gobierno central (partidarios de Amadeo I) • Carlistas (partidarios de Carlos María de Borbón y Austria-Este )",
+      "result": "- Continuación con la Primera República Española"
+    },
+    {
+      "war": "Guerra del 68 o Guerra Grande (1868-1878)",
+      "period": "Primera República Española (1873-1874)",
+      "spain_and_allies": "• Autoridades españolas • Ejército Libertador Cubano",
+      "enemies": "• Autoridades españolas • Ejército Libertador Cubano",
+      "result": "- Continúa en el reinado de Alfonso XII."
+    },
+    {
+      "war": "Tercera guerra carlista (1872-1876)",
+      "period": "Primera República Española (1873-1874)",
+      "spain_and_allies": "• Gobierno central (partidarios de la República) • Carlistas (partidarios de Carlos María de Borbón y Austria-Este )",
+      "enemies": "• Gobierno central (partidarios de la República) • Carlistas (partidarios de Carlos María de Borbón y Austria-Este )",
+      "result": "- Continúa en el reinado de Alfonso XII."
+    },
+    {
+      "war": "Revolución cantonal (1873-1874)",
+      "period": "Primera República Española (1873-1874)",
+      "spain_and_allies": "• Gobierno central • \"Cantones\" sublevados",
+      "enemies": "• Gobierno central • \"Cantones\" sublevados",
+      "result": "- Victoria del gobierno central - Fin del movimiento cantonal - Sometimiento de las ciudades rebeldes."
+    },
+    {
+      "war": "Guerra de los Diez Años (1868-1878)",
+      "period": "Alfonso XII (1874-1885)",
+      "spain_and_allies": "Autoridades españolas",
+      "enemies": "Ejército Libertador Cubano",
+      "result": "Victoria española Paz de Zanjón (1878)."
+    },
+    {
+      "war": "Tercera guerra carlista (1872-1876)",
+      "period": "Alfonso XII (1874-1885)",
+      "spain_and_allies": "Gobierno central (partidarios de Alfonso XII)",
+      "enemies": "Carlistas (partidarios de Carlos María de Borbón y Austria-Este )",
+      "result": "Victoria española Exilio del pretendiente."
+    },
+    {
+      "war": "Rebelión cantonal (1873-1874)",
+      "period": "Alfonso XII (1874-1885)",
+      "spain_and_allies": "Gobierno de España",
+      "enemies": "Cantones rebeldes",
+      "result": "Victoria del gobierno"
+    },
+    {
+      "war": "Guerra Chiquita (1879 - 1880)",
+      "period": "Alfonso XII (1874-1885)",
+      "spain_and_allies": "Autoridades españolas",
+      "enemies": "Ejército Libertador Cubano",
+      "result": "Victoria española Derrota de los independentistas cubanos."
+    },
+    {
+      "war": "Guerra de Margallo (1893-1894)",
+      "period": "Regencia de María Cristina de Habsburgo (1885-1902) y Alfonso XIII (1902-1931)",
+      "spain_and_allies": "Reino de España",
+      "enemies": "Tribus bereberes",
+      "result": "Victoria española Tratado de Fez (1894) Cesión del hinterland de Melilla a España."
+    },
+    {
+      "war": "Guerra de Independencia cubana (1895-1898)",
+      "period": "Regencia de María Cristina de Habsburgo (1885-1902) y Alfonso XIII (1902-1931)",
+      "spain_and_allies": "España Capitanía General de Cuba",
+      "enemies": "Ejército Libertador Cubano Estados Unidos",
+      "result": "Derrota española Victoria inicial española Intervención estadounidense Independencia de Cuba bajo supervisión estadounidense."
+    },
+    {
+      "war": "Revolución filipina (1896-1898)",
+      "period": "Regencia de María Cristina de Habsburgo (1885-1902) y Alfonso XIII (1902-1931)",
+      "spain_and_allies": "Reino de España Capitanía General de Filipinas",
+      "enemies": "Rebeldes filipinos República de Biac-na-Bató Estados Unidos (1898)",
+      "result": "Derrota española Victoria inicial española Intervención estadounindense España cede el archipiélago por 20 millones de dólares."
+    },
+    {
+      "war": "Guerra hispano-estadounidense (1898)",
+      "period": "Regencia de María Cristina de Habsburgo (1885-1902) y Alfonso XIII (1902-1931)",
+      "spain_and_allies": "Reino de España",
+      "enemies": "Estados Unidos",
+      "result": "Derrota española Tratado de París (1898) Tratado de Washington (1900) Fin del Imperio español en América y Asia. Colapso de España como superpotencia y surgimiento de los Estados Unidos."
+    },
+    {
+      "war": "Sublevación carlista de octubre de 1900 (1900)",
+      "period": "Regencia de María Cristina de Habsburgo (1885-1902) y Alfonso XIII (1902-1931)",
+      "spain_and_allies": "Gobierno de España",
+      "enemies": "Carlistas",
+      "result": "Victoria del gobierno"
+    },
+    {
+      "war": "Bloqueo naval a Venezuela de 1902-1903 (1902-1903)",
+      "period": "Regencia de María Cristina de Habsburgo (1885-1902) y Alfonso XIII (1902-1931)",
+      "spain_and_allies": "Imperio británico Imperio alemán Reino de Italia Con apoyo de España Bélgica Países Bajos México",
+      "enemies": "Venezuela Con apoyo de Argentina Estados Unidos",
+      "result": "Compromiso La flota europea se retira tras los Protocolos de Washington."
+    },
+    {
+      "war": "Conquista francesa de Marruecos (1907-1934)",
+      "period": "Regencia de María Cristina de Habsburgo (1885-1902) y Alfonso XIII (1902-1931)",
+      "spain_and_allies": "Francia España",
+      "enemies": "Marruecos",
+      "result": "Victoria española Partición de Marruecos en zonas francesas y españolas"
+    },
+    {
+      "war": "Guerra de Melilla (1909)",
+      "period": "Regencia de María Cristina de Habsburgo (1885-1902) y Alfonso XIII (1902-1931)",
+      "spain_and_allies": "Reino de España",
+      "enemies": "Tribus bereberes",
+      "result": "Victoria española Ocupación española de la Guelaya ."
+    },
+    {
+      "war": "Campaña del Kert (1912)",
+      "period": "Regencia de María Cristina de Habsburgo (1885-1902) y Alfonso XIII (1902-1931)",
+      "spain_and_allies": "Reino de España",
+      "enemies": "Rifeños",
+      "result": "Victoria española Consolidación del territorio controlado por los españoles en Kelaïa, al este del río Kert"
+    },
+    {
+      "war": "Expedición de castigo de Río Muni de 1918 (1918)",
+      "period": "Regencia de María Cristina de Habsburgo (1885-1902) y Alfonso XIII (1902-1931)",
+      "spain_and_allies": "Reino de España Guinea española",
+      "enemies": "Mawomo",
+      "result": "Victoria española"
+    },
+    {
+      "war": "Guerra del Rif (1911 - 1926)",
+      "period": "Regencia de María Cristina de Habsburgo (1885-1902) y Alfonso XIII (1902-1931)",
+      "spain_and_allies": "Reino de España Francia",
+      "enemies": "República del Rif",
+      "result": "Victoria franco-española Establecimiento del Protectorado español (1912) Desastre de Anual (1921), se detiene la ocupación Desembarco de Alhucemas (1925) Fin de la República del Rif . Se afianza el dominio español."
+    },
+    {
+      "war": "Revolución de 1934 Revolución de Asturias de 1934 Proclamación del Estado Catalán de 1934",
+      "period": "Segunda República Española (1931-1939)",
+      "spain_and_allies": "República Española",
+      "enemies": "Generalidad de Cataluña Alianza Obrera FSA-PSOE UGT CNT PCE",
+      "result": "Victoria El Gobierno republicano reprime exitosamente las rebeliones ocurridas en Asturias y Cataluña ."
+    },
+    {
+      "war": "Guerra civil española (1936 - 1939)",
+      "period": "Segunda República Española (1931-1939)",
+      "spain_and_allies": "Bando republicano Fuerzas Armadas de la República Española Frente Popular Unión General de Trabajadores Confederación Nacional del Trabajo Generalidad de Cataluña Euzko Gudarostea Apoyado por: Unión Soviética México Brigadas Internacionales",
+      "enemies": "Bando sublevado FE y de las JONS Falange Española de las JONS Requeté CEDA Renovación Española Ejército de África Apoyado por: Alemania Italia Portugal",
+      "result": "Victoria de los sublevados Fin de la Segunda República . Se instaura la dictadura de Franco ."
+    },
+    {
+      "war": "Sublevación militar de 1936 en la Guinea Española (1936)",
+      "period": "Segunda República Española (1931-1939)",
+      "spain_and_allies": "República Española",
+      "enemies": "Fuerzas sublevadas",
+      "result": "Victoria de los sublevados Hispanización de la zona y unificación legal de Fernando Poo y Río Muni con el resto de España. Emancipación gradual de los nativos."
+    },
+    {
+      "war": "Maquis (guerrilla antifranquista) (1939-1965)",
+      "period": "Dictadura de Franco (1939-1975)",
+      "spain_and_allies": "España franquista Apoyado por: Alemania nazi (1939-1945) Italia fascista (1939-1943) Estados Unidos (desde 1953)",
+      "enemies": "Segunda República española en el exilio Apoyado por: Resistencia francesa (1940-1944) Resistencia italiana (1943-1945) Unión Soviética (hasta 1956)",
+      "result": "Victoria franquista Disminución y eventual extinción de la actividad de las guerrillas maquis"
+    },
+    {
+      "war": "Ocupación española de Tánger (1940-1945)",
+      "period": "Dictadura de Franco (1939-1975)",
+      "spain_and_allies": "España Protectorado español de Marruecos",
+      "enemies": "Zona Internacional de Tánger",
+      "result": "Poco concluyente Retirada española tras el final de la Segunda Guerra Mundial"
+    },
+    {
+      "war": "Guerra de Sidi Ifni (1957-1958)",
+      "period": "Dictadura de Franco (1939-1975)",
+      "spain_and_allies": "España Protectorado español de Marruecos Francia Colonia de Mauritania",
+      "enemies": "Marruecos",
+      "result": "Victoria Acuerdo de Cintra (1958)"
+    },
+    {
+      "war": "Levantamiento de Zemla (1970)",
+      "period": "Dictadura de Franco (1939-1975)",
+      "spain_and_allies": "España Sahara español",
+      "enemies": "Independentistas saharauis",
+      "result": "Victoria española Comienzo del Conflicto del Sahara Occidental"
+    },
+    {
+      "war": "Insurgencia en el Sáhara Occidental (1973-1975)",
+      "period": "Dictadura de Franco (1939-1975)",
+      "spain_and_allies": "España Sahara español",
+      "enemies": "Frente Polisario",
+      "result": "Poco concluyente Retirada unilateral española del Sáhara, en conformidad con el Acuerdo Tripartito de Madrid de 1975. El Frente Polisario continuó la lucha por la autodeterminación contra Mauritania y Marruecos ."
+    },
+    {
+      "war": "Marcha verde (1975)",
+      "period": "Dictadura de Franco (1939-1975)",
+      "spain_and_allies": "España Sahara español",
+      "enemies": "Marruecos",
+      "result": "Poco concluyente Anexión del Sáhara Occidental por parte de Marruecos e inicio de Guerra del Sahara Occidental ."
+    },
+    {
+      "war": "Guerra del Golfo (1990-1991)",
+      "period": "Juan Carlos I (1975-2014)",
+      "spain_and_allies": "Kuwait Estados Unidos Reino Unido España Francia Arabia Saudita Egipto Siria ( Entre otros )",
+      "enemies": "Irak baazista",
+      "result": "Victoria de la coalición Imposición de sanciones económicas a Irak. Retirada iraquí de Kuwait ."
+    },
+    {
+      "war": "Intervención de la OTAN en Bosnia durante las guerras yugoslavas (1992-1996) Operación Deliberate Force",
+      "period": "Juan Carlos I (1975-2014)",
+      "spain_and_allies": "Fuerza de Protección de las Naciones Unidas Organización del Tratado del Atlántico Norte",
+      "enemies": "República Federal de Yugoslavia",
+      "result": "Victoria Acuerdos de Dayton ."
+    },
+    {
+      "war": "Guerra civil somalí (1993-1995) Segunda Operación de las Naciones Unidas en Somalia",
+      "period": "Juan Carlos I (1975-2014)",
+      "spain_and_allies": "Fuerzas de paz de las Naciones Unidas Organización del Tratado del Atlántico Norte Estados Unidos Reino Unido Alemania España Francia Bélgica Suecia Grecia Canadá Australia Arabia Saudita Malasia Pakistán India Botsuana",
+      "enemies": "Alianza Nacional Somalí Al-Itihaad al-Islamiya Frente Nacional Somalí",
+      "result": "Resultados mixtos Mandato humanitario de la ONU cumplido exitosa. La intervención salvó unas 100.000 vidas. La guerra civil continúa en Somalia. Retirada de la misión de la ONU tras la Batalla de Mogadiscio ."
+    },
+    {
+      "war": "Guerra de Kosovo durante las guerras yugoslavas (1998-1999) Bombardeo de la OTAN sobre Yugoslavia",
+      "period": "Juan Carlos I (1975-2014)",
+      "spain_and_allies": "Organización del Tratado del Atlántico Norte Ejército de Liberación de Kosovo",
+      "enemies": "República Federal de Yugoslavia",
+      "result": "Victoria Tratado de Kumanovo . Retirada militar yugoslava. Kosovo declara la independencia (2008) ."
+    },
+    {
+      "war": "Guerra de Afganistán (2001-2021) Operaciones militares españolas en Afganistán Combate de Sabzak",
+      "period": "Juan Carlos I (1975-2014)",
+      "spain_and_allies": "ISAF Estado Islámico de Afganistán",
+      "enemies": "Emirato Islámico de Afganistán Talibán (posteriormente)",
+      "result": "Derrota Caída del régimen talibán en 2001. Osama bin Laden es asesinado en 2011. Nueva ofensiva talibán en 2021. Las fuerzas talibanes capturan Kabul el 15 de agosto de 2021"
+    },
+    {
+      "war": "Incidente de la isla de Perejil (2002)",
+      "period": "Juan Carlos I (1975-2014)",
+      "spain_and_allies": "España",
+      "enemies": "Marruecos",
+      "result": "Victoria Soldados marroquíes retirados por militares españoles"
+    },
+    {
+      "war": "Guerra de Irak (2003 - 2004) Operación Falconer Brigada Multinacional Plus Ultra Emboscada de Latifiya Batalla de Nayaf del 4 de abril de 2004",
+      "period": "Juan Carlos I (1975-2014)",
+      "spain_and_allies": "Estados Unidos Reino Unido Polonia España Australia Dinamarca Italia El Salvador Honduras Nicaragua Peshmergas kurdos (incluida en la Coalición multinacional en Irak )",
+      "enemies": "Irak baazista Grupos insurgentes",
+      "result": "Victoria de la coalición Derrocamiento de Sadam Huseín . Ocupación de Irak. insurgencia iraquí . Retirada de las fuerzas españolas (2008)."
+    },
+    {
+      "war": "Operación Atalanta (2008-presente)",
+      "period": "Juan Carlos I (1975-2014)",
+      "spain_and_allies": "Unión Europea Colombia Montenegro Noruega Suecia Ucrania",
+      "enemies": "Piratas somalíes",
+      "result": "En curso"
+    },
+    {
+      "war": "Intervención militar en Libia (2011)",
+      "period": "Juan Carlos I (1975-2014)",
+      "spain_and_allies": "Coalición de las Naciones Unidas: Bélgica Bulgaria Catar Dinamarca Emiratos Árabes Unidos España Estados Unidos Francia Grecia Italia Noruega Países Bajos Reino Unido Rumania Suecia Turquía Organización del Tratado del Atlántico Norte Organización de las Naciones Unidas Consejo Nacional de Transición",
+      "enemies": "Gran Yamahiriya Árabe Libia Popular Socialista",
+      "result": "Victoria Establecimiento de una zona de exclusión aérea . Bloqueo naval . Contribución al derrocamiento de Gadafi frente a los rebeldes libios. Muerte de Muamar el Gadafi ."
+    },
+    {
+      "war": "Incidente del peñón de Vélez de la Gomera (2012)",
+      "period": "Juan Carlos I (1975-2014)",
+      "spain_and_allies": "España",
+      "enemies": "Marruecos",
+      "result": "Victoria Activistas marroquíes detenidos"
+    },
+    {
+      "war": "Intervención militar francesa en Malí de 2013 (2013 - 2014) Operación Barkhane",
+      "period": "Juan Carlos I (1975-2014)",
+      "spain_and_allies": "Coalición Francia Mali Nigeria Senegal Costa de Marfil Burkina Faso Níger Togo Benín Chad España Reino Unido",
+      "enemies": "Al-Qaeda Movimiento por la Unidad y la Yihad en África Occidental Ansar Dine Al Qaeda del Magreb Islámico",
+      "result": "Victoria Derrota terrorista islámica Retirada de las tropas españolas en 2014"
+    },
+    {
+      "war": "Guerra contra Estado Islámico (2014-presente)",
+      "period": "Juan Carlos I (1975-2014)",
+      "spain_and_allies": "Estados Unidos Reino Unido Bélgica Francia Alemania Italia Turquía España Países Bajos Jordania Marruecos",
+      "enemies": "Estado Islámico",
+      "result": "En curso"
+    }
+  ],
+  "meta": {
+    "title": "Guerras de España - Free Download",
+    "description": "Guerras y conflictos armados en los que ha participado España desde Carlos I, con bandos y resultado, agrupados por reinado o régimen. Contains 147 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Guerras de España | ListBase",
+    "seo_description": "Download Guerras de España — 147 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 147 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Guerras_de_España"
+    ]
+  }
+}
