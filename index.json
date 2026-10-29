@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-28T02:23:01.023Z",
-  "total_datasets": 501,
-  "total_records": 423278,
+  "generated": "2026-10-29T02:18:23.932Z",
+  "total_datasets": 502,
+  "total_records": 423343,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -2503,6 +2503,34 @@
         "xlsx": {
           "name": "es-textos-constitucionales_ES.xlsx",
           "size": 8251
+        }
+      }
+    },
+    {
+      "id": "es-festival-vina-del-mar-ganadores",
+      "name": "Ganadores de la competencia internacional del Festival de Viña del Mar",
+      "category": "music",
+      "record_count": 65,
+      "columns": [
+        "year",
+        "edition",
+        "country",
+        "song",
+        "performer",
+        "language",
+        "authors"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Ganadores_del_Festival_Internacional_de_la_Canción_de_Viña_del_Mar",
+      "updated": "2026-10",
+      "size": 16926,
+      "files": {
+        "csv": {
+          "name": "es-festival-vina-del-mar-ganadores_ES.csv",
+          "size": 6085
+        },
+        "xlsx": {
+          "name": "es-festival-vina-del-mar-ganadores_ES.xlsx",
+          "size": 11528
         }
       }
     },

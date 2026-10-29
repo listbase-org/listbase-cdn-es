@@ -1,0 +1,646 @@
+{
+  "id": "es-festival-vina-del-mar-ganadores",
+  "name": "Ganadores de la competencia internacional del Festival de Viña del Mar",
+  "title": "Ganadores de la competencia internacional del Festival de Viña del Mar",
+  "description": "Canciones ganadoras de la competencia internacional del Festival Internacional de la Canción de Viña del Mar (Chile): año, país, canción, intérprete, idioma y autores.",
+  "category": "music",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Ganadores_del_Festival_Internacional_de_la_Canción_de_Viña_del_Mar",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Ganadores_del_Festival_Internacional_de_la_Canción_de_Viña_del_Mar",
+  "updated": "2026-10",
+  "record_count": 65,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    },
+    {
+      "key": "performer",
+      "label": "Performer",
+      "type": "string"
+    },
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "authors",
+      "label": "Authors",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1960,
+      "edition": "I",
+      "country": "Chile",
+      "song": "Viña del Mar",
+      "performer": "Mario del Monte",
+      "language": "es",
+      "authors": "Manuel Lira y José Goles"
+    },
+    {
+      "year": 1961,
+      "edition": "II",
+      "country": "Chile",
+      "song": "Sin tu amor",
+      "performer": "Los Cuatro Duendes",
+      "language": "es",
+      "authors": "Gilberto Ávila y Óscar Olivares"
+    },
+    {
+      "year": 1962,
+      "edition": "III",
+      "country": "Chile",
+      "song": "Dime por qué",
+      "performer": "Los Cuatro Duendes",
+      "language": "es",
+      "authors": "María Pilar Larraín"
+    },
+    {
+      "year": 1963,
+      "edition": "IV",
+      "country": "Chile",
+      "song": "Solo una mirada",
+      "performer": "Marco Aurelio",
+      "language": "es",
+      "authors": "Juan Vásquez"
+    },
+    {
+      "year": 1964,
+      "edition": "V",
+      "country": "Chile",
+      "song": "Está demás",
+      "performer": "Ginette Acevedo",
+      "language": "es",
+      "authors": "Ricardo Jara"
+    },
+    {
+      "year": 1965,
+      "edition": "VI",
+      "country": "Chile",
+      "song": "Como una ola",
+      "performer": "Cecilia",
+      "language": "es",
+      "authors": "María Angélica Ramírez"
+    },
+    {
+      "year": 1966,
+      "edition": "VII",
+      "country": "Chile",
+      "song": "Por creer en ti",
+      "performer": "Isabel Adams",
+      "language": "es",
+      "authors": "Marco Aurelio y Jaime Atria"
+    },
+    {
+      "year": 1967,
+      "edition": "VIII",
+      "country": "Chile",
+      "song": "Cuando rompa el alba",
+      "performer": "Fresia Soto",
+      "language": "es",
+      "authors": "Willy Bascuñán"
+    },
+    {
+      "year": 1968,
+      "edition": "IX",
+      "country": "España",
+      "song": "Palabras",
+      "performer": "Luz Eliana",
+      "language": "es",
+      "authors": "Jorge Domingo, Enrique Carnicer y Carmen Fons"
+    },
+    {
+      "year": 1969,
+      "edition": "X",
+      "country": "Chile",
+      "song": "Mira, mira",
+      "performer": "Gloria Simonetti",
+      "language": "es",
+      "authors": "Scottie Scott"
+    },
+    {
+      "year": 1970,
+      "edition": "XI",
+      "country": "Chile",
+      "song": "Canción a Magdalena",
+      "performer": "Julio Zegers",
+      "language": "es",
+      "authors": "Julio Zegers"
+    },
+    {
+      "year": 1971,
+      "edition": "XII",
+      "country": "Yugoslavia",
+      "song": "Todo el mundo tiene a alguien (Svatko mora imat nekog)",
+      "performer": "Tim Twinkleberry",
+      "language": "hr",
+      "authors": "Nikica Kalogjera e Ivica Krajač"
+    },
+    {
+      "year": 1972,
+      "edition": "XIII",
+      "country": "Holanda",
+      "song": "Julie",
+      "performer": "Julio Bernardo Euson",
+      "language": "en",
+      "authors": "Julio Bernardo Euson"
+    },
+    {
+      "year": 1973,
+      "edition": "XIV",
+      "country": "Chile",
+      "song": "Los pasajeros",
+      "performer": "Julio Zegers",
+      "language": "es",
+      "authors": "Julio Zegers"
+    },
+    {
+      "year": 1974,
+      "edition": "XV",
+      "country": "Italia",
+      "song": "Immagina",
+      "performer": "Annarita Spinaci",
+      "language": "it",
+      "authors": "Giancarlo De Bellis"
+    },
+    {
+      "year": 1975,
+      "edition": "XVI",
+      "country": "Grecia",
+      "song": "Love song (Πως, πες μου πως)",
+      "performer": "Elpida",
+      "language": "el",
+      "authors": "Hilias Asbastopoulos, Nikos Ellineos y Kostas Karagiannopoulos"
+    },
+    {
+      "year": 1976,
+      "edition": "XVII",
+      "country": "Chile",
+      "song": "Una noche de amor",
+      "performer": "Roberto Viking Valdés",
+      "language": "es",
+      "authors": "Carlos Baeza"
+    },
+    {
+      "year": 1977,
+      "edition": "XVIII",
+      "country": "Israel",
+      "song": "Song of love",
+      "performer": "Navah Baruchin",
+      "language": "en",
+      "authors": "Boaz Sharabi"
+    },
+    {
+      "year": 1978,
+      "edition": "XIX",
+      "country": "Chile",
+      "song": " El tiempo en las bastillas ",
+      "performer": "Fernando Ubiergo",
+      "language": "es",
+      "authors": "Fernando Ubiergo"
+    },
+    {
+      "year": 1979,
+      "edition": "XX",
+      "country": "España",
+      "song": "A tu regreso a casa",
+      "performer": "Braulio",
+      "language": "es",
+      "authors": "Braulio"
+    },
+    {
+      "year": 1980,
+      "edition": "XXI",
+      "country": "España",
+      "song": "Dudando, dudando",
+      "performer": "Juan Sebastián",
+      "language": "es",
+      "authors": "Julio Seijas y Augusto Algueró"
+    },
+    {
+      "year": 1981,
+      "edition": "XXII",
+      "country": "Alemania",
+      "song": "Waiting",
+      "performer": "Cherry Laine",
+      "language": "en",
+      "authors": "Karl-Heinz Merkel y Cherry Laine"
+    },
+    {
+      "year": 1982,
+      "edition": "XXIII",
+      "country": "Chile",
+      "song": "Ausencias",
+      "performer": "Juan Carlos Duque",
+      "language": "es",
+      "authors": "Juan Carlos Duque"
+    },
+    {
+      "year": 1983,
+      "edition": "XXIV",
+      "country": "Uruguay",
+      "song": "Alma, corazón y pan",
+      "performer": "Gervasio",
+      "language": "es",
+      "authors": "Gervasio"
+    },
+    {
+      "year": 1984,
+      "edition": "XXV",
+      "country": "Chile",
+      "song": "Se te olvida",
+      "performer": "Cristóbal",
+      "language": "es",
+      "authors": "Héctor Penrós Bañas"
+    },
+    {
+      "year": 1985,
+      "edition": "XXVI",
+      "country": "Australia",
+      "song": "Ya no puedo más",
+      "performer": "Lorenzo Toppano",
+      "language": "es",
+      "authors": "K. C. Porter , Chris Turner y Lorenzo Toppano"
+    },
+    {
+      "year": 1986,
+      "edition": "XXVII",
+      "country": "República Dominicana",
+      "song": " Para quererte ",
+      "performer": "Maridalia Hernández",
+      "language": "es",
+      "authors": "José Antonio Rodríguez y Manuel Tejeda"
+    },
+    {
+      "year": 1987,
+      "edition": "XXVIII",
+      "country": "Italia",
+      "song": "Kiss me",
+      "performer": "Desà",
+      "language": "en",
+      "authors": "Antonio y Annamaria de Salvatore"
+    },
+    {
+      "year": 1988,
+      "edition": "XXIX",
+      "country": "Italia",
+      "song": "Senza te",
+      "performer": "Marco Del Freo",
+      "language": "it",
+      "authors": "Maurizio Piccoli y Gino Mescoli"
+    },
+    {
+      "year": 1989,
+      "edition": "XXX",
+      "country": "Colombia",
+      "song": "Solo te propongo",
+      "performer": "Edna Rocío",
+      "language": "es",
+      "authors": "Fernando Garavito"
+    },
+    {
+      "year": 1990,
+      "edition": "XXXI",
+      "country": "Italia",
+      "song": "Non devi abbandonarmi mai",
+      "performer": "Piero Cotto",
+      "language": "it",
+      "authors": "Angela Tarenzzi"
+    },
+    {
+      "year": 1991,
+      "edition": "XXXII",
+      "country": "Chile",
+      "song": "Tira la primera piedra",
+      "performer": "Javiera Parra  y Pedro Foncea",
+      "language": "es",
+      "authors": "Edgardo Riquelme y Sergio Bravo"
+    },
+    {
+      "year": 1992,
+      "edition": "XXXIII",
+      "country": "Chile",
+      "song": "Parece tan sencillo",
+      "performer": "Fernando Casas",
+      "language": "es",
+      "authors": "Juan Carlos Duque"
+    },
+    {
+      "year": 1993,
+      "edition": "XXXIV",
+      "country": "Italia",
+      "song": "In questo mondo",
+      "performer": "Claudio Cirimele",
+      "language": "it",
+      "authors": "Giuseppe Garibo"
+    },
+    {
+      "year": 1994,
+      "edition": "XXXV",
+      "country": "Argentina",
+      "song": "Como ayer",
+      "performer": "Claudia Brant",
+      "language": "es",
+      "authors": "Daniel Tarrab y Claudia Brant"
+    },
+    {
+      "year": 1995,
+      "edition": "XXXVI",
+      "country": "Chile",
+      "song": "Si tú te vas",
+      "performer": "Josse",
+      "language": "es",
+      "authors": "Cristián Fissore y René Calderón"
+    },
+    {
+      "year": 1996,
+      "edition": "XXXVII",
+      "country": "Italia",
+      "song": "Aria, ariò",
+      "performer": "Paolo Meneguzzi",
+      "language": "it",
+      "authors": "M. Botoni, D. Melotti, C. Isgro y P. Meneguzzi"
+    },
+    {
+      "year": 1997,
+      "edition": "XXXVIII",
+      "country": "Argentina",
+      "song": "Para vivir un dulce amor",
+      "performer": "Carlos Alfredo Elías",
+      "language": "es",
+      "authors": "Víctor Heredia y Carlos Nilson"
+    },
+    {
+      "year": 1998,
+      "edition": "XXXIX",
+      "country": "Chile",
+      "song": "Soy tal cual soy",
+      "performer": "Álvaro Scaramelli",
+      "language": "es",
+      "authors": "Álvaro Scaramelli"
+    },
+    {
+      "year": 1999,
+      "edition": "XL",
+      "country": "Colombia",
+      "song": "El aguacero",
+      "performer": "Carolina Sabino",
+      "language": "es",
+      "authors": "Alejandro Gómez Cáceres"
+    },
+    {
+      "year": 2000,
+      "edition": "XLI",
+      "country": "Francia",
+      "song": " Laisse-moi le temps / Let me try again ",
+      "performer": "Peabo Bryson",
+      "language": "en",
+      "authors": "Michel Jourdan y Caravelli / Paul Anka y Sammy Cahn"
+    },
+    {
+      "year": 2001,
+      "edition": "XLII",
+      "country": "Argentina",
+      "song": "Ayer te vi",
+      "performer": "Raly Barrionuevo",
+      "language": "es",
+      "authors": "Víctor Heredia"
+    },
+    {
+      "year": 2002,
+      "edition": "XLIII",
+      "country": "Argentina",
+      "song": "Soy tu ángel",
+      "performer": "Óscar Patiño",
+      "language": "es",
+      "authors": "Ricardo Pald y Valeria Lynch"
+    },
+    {
+      "year": 2003,
+      "edition": "XLIV",
+      "country": "España",
+      "song": "Este amor es tuyo",
+      "performer": "Gisela",
+      "language": "es",
+      "authors": "Chema Purón"
+    },
+    {
+      "year": 2004,
+      "edition": "XLV",
+      "country": "Chile",
+      "song": "Tus ojos",
+      "performer": "Alexis Venegas",
+      "language": "es",
+      "authors": "Alexis Venegas"
+    },
+    {
+      "year": 2005,
+      "edition": "XLVI",
+      "country": "Perú",
+      "song": "Mi alma entre tus manos",
+      "performer": "Jorge Pardo",
+      "language": "es",
+      "authors": "Jessica Sarango, Jorge Pardo y Andrés Landavere"
+    },
+    {
+      "year": 2006,
+      "edition": "XLVII",
+      "country": "Costa Rica",
+      "song": "Dilo de una vez",
+      "performer": "Humberto Vargas Valerio",
+      "language": "es",
+      "authors": "Humberto Vargas Valerio"
+    },
+    {
+      "year": 2007,
+      "edition": "XLVIII",
+      "country": "España",
+      "song": "Cuando quieras volver",
+      "performer": "Materia Prima",
+      "language": "es",
+      "authors": "Pedro Fernández y Valderrama Díaz"
+    },
+    {
+      "year": 2008,
+      "edition": "XLIX",
+      "country": "Italia",
+      "song": "La guerra dei trent'anni",
+      "performer": "Domenico Protino",
+      "language": "it",
+      "authors": "Domenico Protino"
+    },
+    {
+      "year": 2009,
+      "edition": "L",
+      "country": "Argentina",
+      "song": "Ayer te vi",
+      "performer": "Emiliano del Río",
+      "language": "es",
+      "authors": "Víctor Heredia"
+    },
+    {
+      "year": 2010,
+      "edition": "LI",
+      "country": "Italia",
+      "song": " Nel blu dipinto di blu (Volare) ",
+      "performer": "Simona Galeandro",
+      "language": "it",
+      "authors": "Domenico Modugno y Franco Migliacci"
+    },
+    {
+      "year": 2011,
+      "edition": "LII",
+      "country": "Canadá",
+      "song": "Try anything",
+      "performer": "Sierra Noble",
+      "language": "en",
+      "authors": "Chris Burke-Gaffney, Christopher Ward y Sierra Noble"
+    },
+    {
+      "year": 2012,
+      "edition": "LIII",
+      "country": "Italia",
+      "song": "Grazie a te",
+      "performer": "Denise Faro",
+      "language": "it",
+      "authors": "Bruno Robino, Giuseppe di Tella y Denise Faro"
+    },
+    {
+      "year": 2013,
+      "edition": "LIV",
+      "country": "Islandia",
+      "song": "Because you can",
+      "performer": "Hera Björk",
+      "language": "en",
+      "authors": "C. Schilling, C. Gottschalck, J. Gladnikoff, Hera Björk y Ö. Smári"
+    },
+    {
+      "year": 2014,
+      "edition": "LV",
+      "country": "Canadá",
+      "song": "Hypnotized",
+      "performer": "Jeffery Straker",
+      "language": "en",
+      "authors": "Jeffery Straker"
+    },
+    {
+      "year": 2015,
+      "edition": "LVI",
+      "country": "Italia",
+      "song": "Per fortuna",
+      "performer": "Michele Cortese",
+      "language": "it",
+      "authors": "Franco Simone"
+    },
+    {
+      "year": 2016,
+      "edition": "LVII",
+      "country": "Chile",
+      "song": "Te quiero",
+      "performer": "Cristián y Lucía",
+      "language": "es",
+      "authors": "Lucía Covarrubias"
+    },
+    {
+      "year": 2017,
+      "edition": "LVIII",
+      "country": "España",
+      "song": "Dónde estabas tú",
+      "performer": "Salvador Beltrán",
+      "language": "es",
+      "authors": "Salvador Beltrán"
+    },
+    {
+      "year": 2018,
+      "edition": "LIX",
+      "country": "Chile",
+      "song": "Cobarde",
+      "performer": "Gabigar",
+      "language": "es",
+      "authors": "Gabriela Pulgar y Nicolás Quiroga"
+    },
+    {
+      "year": 2019,
+      "edition": "LX",
+      "country": "Perú",
+      "song": " Ya no más ",
+      "performer": "Susan Ochoa",
+      "language": "es",
+      "authors": "Jesús Rodríguez, Eva Ayllón y Pelo d'Ambrosio"
+    },
+    {
+      "year": 2020,
+      "edition": "LXI",
+      "country": "Chile",
+      "song": "Chillán",
+      "performer": "Vicente Cifuentes",
+      "language": "es",
+      "authors": "Vicente Cifuentes"
+    },
+    {
+      "year": 2023,
+      "edition": "LXII",
+      "country": "Chile",
+      "song": "Viento",
+      "performer": "Yorka",
+      "language": "es",
+      "authors": "Yorka Pastenes y Daniela Pastenes"
+    },
+    {
+      "year": 2024,
+      "edition": "LXIII",
+      "country": "México",
+      "song": "El maestro",
+      "performer": "Eddy Valenzuela",
+      "language": "es",
+      "authors": "Adrián Navarro y Eddy Valenzuela"
+    },
+    {
+      "year": 2025,
+      "edition": "LXIV",
+      "country": "México",
+      "song": "Tierra trágame",
+      "performer": "Kakalo",
+      "language": "es",
+      "authors": "Juan Carlos Corral"
+    },
+    {
+      "year": 2026,
+      "edition": "LXV",
+      "country": "España",
+      "song": "Me prometo",
+      "performer": "Antoñito Molina",
+      "language": "es",
+      "authors": "Antonio José Caballero Molina"
+    }
+  ],
+  "meta": {
+    "title": "Ganadores de la competencia internacional del Festival de Viña del Mar - Free Download",
+    "description": "Canciones ganadoras de la competencia internacional del Festival Internacional de la Canción de Viña del Mar (Chile): año, país, canción, intérprete, idioma y autores. Contains 65 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ganadores de la competencia internacional del Festival de Viña del Mar | ListBase",
+    "seo_description": "Download Ganadores de la competencia internacional del Festival de Viña del Mar — 65 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 65 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Ganadores_del_Festival_Internacional_de_la_Canción_de_Viña_del_Mar"
+    ]
+  }
+}
