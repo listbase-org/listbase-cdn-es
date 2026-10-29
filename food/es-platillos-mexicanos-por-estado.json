@@ -1,0 +1,4331 @@
+{
+  "id": "es-platillos-mexicanos-por-estado",
+  "name": "Platillos típicos de México por estado",
+  "title": "Platillos típicos de México por estado",
+  "description": "Platillos y bebidas tradicionales de la gastronomía mexicana, organizados por estado, con breve descripción cuando la fuente la incluye.",
+  "category": "food",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Platillos_mexicanos",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Platillos_mexicanos",
+  "updated": "2026-10",
+  "record_count": 858,
+  "columns": [
+    {
+      "key": "dish",
+      "label": "Dish",
+      "type": "string"
+    },
+    {
+      "key": "state_or_section",
+      "label": "State Or Section",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dish": "Puerco ranchero",
+      "state_or_section": "Aguascalientes",
+      "description": ""
+    },
+    {
+      "dish": "Chaskas (o chascas)",
+      "state_or_section": "Aguascalientes",
+      "description": "granos de elote cocidos y/o asados, se les puede agregar mantequilla derretida, mayonesa y/o crema, queso rayado, queso amarillo derretido, limón, chile piquín, chile habanero en polvo, entre otros. Hay una versión empapelada con tocino, queso, champiñones y/o carne asada."
+    },
+    {
+      "dish": "Chiquiadas",
+      "state_or_section": "Aguascalientes",
+      "description": "gorditas de maíz rellenas de queso, alguna salsa y cebolla."
+    },
+    {
+      "dish": "Enchiladas hidrocálidas",
+      "state_or_section": "Aguascalientes",
+      "description": "tortillas remojadas en salsa de chile ancho y fritas, rellenas de queso y cebolla. Son servidas con zanahoria en escabeche, papa, nopales y un chile güero en vinagre."
+    },
+    {
+      "dish": "Birria",
+      "state_or_section": "Aguascalientes",
+      "description": ""
+    },
+    {
+      "dish": "Dulce de guayaba",
+      "state_or_section": "Aguascalientes",
+      "description": "copitas de leche con guayaba, guayabates, rollos de guayaba con cajeta y nuez, jaleas, mermeladas."
+    },
+    {
+      "dish": "Carne tatemada",
+      "state_or_section": "Aguascalientes",
+      "description": "Tatemar es una palabra en náhuatl y significa “poner al fuego” o “Calentar en el Fuego” y de esto es lo que trata este platillo típico de Aguascalientes ."
+    },
+    {
+      "dish": "Sopa campesina",
+      "state_or_section": "Aguascalientes",
+      "description": "sopa caliente se prepara a base de elotitos tiernos, cebolla, ajo, caldo de pollo, cilantro, calabacitas, chile poblano, jitomate y flores de calabaza."
+    },
+    {
+      "dish": "Cabrito al horno",
+      "state_or_section": "Aguascalientes",
+      "description": "Una ternura de placer preparada al horno e ideal para los amantes del buen comer."
+    },
+    {
+      "dish": "Calamares a la naranja",
+      "state_or_section": "Baja California",
+      "description": ""
+    },
+    {
+      "dish": "Enchiladas bajacalifornianas, se preparan con chiles anchos y serranos",
+      "state_or_section": "Baja California",
+      "description": ""
+    },
+    {
+      "dish": "Tacos de camarón empanizado, similares a los de pescado",
+      "state_or_section": "Baja California",
+      "description": ""
+    },
+    {
+      "dish": "Enchiladas regias con lomo de puerco",
+      "state_or_section": "Baja California",
+      "description": ""
+    },
+    {
+      "dish": "Quesadillas de leche en obleas de harina",
+      "state_or_section": "Baja California",
+      "description": ""
+    },
+    {
+      "dish": "Chiles rellenos, se consumen en una rica pasta especial",
+      "state_or_section": "Baja California",
+      "description": ""
+    },
+    {
+      "dish": "Sopa de aleta de tiburón, llevada a Mexicali por la comunidad china",
+      "state_or_section": "Baja California",
+      "description": ""
+    },
+    {
+      "dish": "Langosta tipo \"Puerto Nuevo\"",
+      "state_or_section": "Baja California",
+      "description": "La langosta se fríe en aceite y se acompaña con arroz a la mexicana, frijoles guisados y tortillas de harina de trigo. Es un platillo típico de Rosarito ."
+    },
+    {
+      "dish": "Ensalada César, originaria de Tijuana",
+      "state_or_section": "Baja California",
+      "description": ""
+    },
+    {
+      "dish": "Clamato, jugo de tomate con almeja originario de Mexicali",
+      "state_or_section": "Baja California",
+      "description": ""
+    },
+    {
+      "dish": "Chavela o Chabela",
+      "state_or_section": "Baja California",
+      "description": "Cerveza con clamato preparado con salsa de amor (originaria de la región), chile tajín y, opcionalmente, hielo, salsa tipo inglesa, sal y limón. Se sirve en un tarro o copa cocktelera grande, congelada y escarchada con sal humedecida con limón en el borde de la copa."
+    },
+    {
+      "dish": "Tacos de Adobada",
+      "state_or_section": "Baja California",
+      "description": "Preparados con salsa roja y aguacate, muy populares en Tijuana."
+    },
+    {
+      "dish": "Comida Baja Mediterránea",
+      "state_or_section": "Baja California",
+      "description": "Combinación de productos de comida china y mediterránea, original de la península de Baja California, la \"Baja mediterránea\". La comida Baja Mediterránea se sirve acompañada de vino, bebida que juega un papel fundamental. El menú presenta una amplia variedad de opciones, como comida artesanal confeccionada con vegetales, frutas, hierbas finas y mariscos (que incluyen productos del mar como langosta, almeja, camarones y diferentes tipos de pescasdo) acompañado de una variedad de salsas mexicanas."
+    },
+    {
+      "dish": "Tacos Perrones",
+      "state_or_section": "Baja California",
+      "description": "Taco en tortilla de maíz con queso y camarones enchilados y chicharrón de pargo."
+    },
+    {
+      "dish": "Langosta cocida",
+      "state_or_section": "Baja California Sur",
+      "description": ""
+    },
+    {
+      "dish": "Aleta rellena",
+      "state_or_section": "Baja California Sur",
+      "description": ""
+    },
+    {
+      "dish": "Burritos mangliteños",
+      "state_or_section": "Baja California Sur",
+      "description": ""
+    },
+    {
+      "dish": "Burritos de borrego",
+      "state_or_section": "Baja California Sur",
+      "description": ""
+    },
+    {
+      "dish": "Ceviche de camarón hervido",
+      "state_or_section": "Baja California Sur",
+      "description": ""
+    },
+    {
+      "dish": "Tacos de Pescado y Camarón Capeados (Estilo paceño)",
+      "state_or_section": "Baja California Sur",
+      "description": ""
+    },
+    {
+      "dish": "Almejas loretanas (en escabeche)",
+      "state_or_section": "Baja California Sur",
+      "description": ""
+    },
+    {
+      "dish": "Almejas rellenas",
+      "state_or_section": "Baja California Sur",
+      "description": ""
+    },
+    {
+      "dish": "Tamales fajados (de guisado de carne deshebrada)",
+      "state_or_section": "Baja California Sur",
+      "description": ""
+    },
+    {
+      "dish": "Empanaditas de Marlin Ahumado y Mantarraya seca",
+      "state_or_section": "Baja California Sur",
+      "description": ""
+    },
+    {
+      "dish": "Empanadas de carne deshebrada",
+      "state_or_section": "Baja California Sur",
+      "description": ""
+    },
+    {
+      "dish": "Camarón Imperial (a la plancha con tocino)",
+      "state_or_section": "Baja California Sur",
+      "description": ""
+    },
+    {
+      "dish": "Camarones rebosados",
+      "state_or_section": "Baja California Sur",
+      "description": ""
+    },
+    {
+      "dish": "Licor de Damiana",
+      "state_or_section": "Baja California Sur",
+      "description": ""
+    },
+    {
+      "dish": "Nieve de Pitahaya y Naranjita",
+      "state_or_section": "Baja California Sur",
+      "description": ""
+    },
+    {
+      "dish": "Pescado tatemado",
+      "state_or_section": "Baja California Sur",
+      "description": ""
+    },
+    {
+      "dish": "Cazón entomatado, en el litoral del estado",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Guisos de cazón y esmedregal, en el litoral del estado",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Mucbilpollo o pibilpollo, en el centro del estado",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Coctél de camarón y ostión",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Frijoles con puerco",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Raíz de yuca cocida acompañada con miel de abeja, en el centro del estado",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Cangrejos y monos",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Sopa de arroz con plátano, en el sur del estado",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Enfrijoladas de chicharrón, en el sur del estado",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Pan de cazón, en el centro y sur del estado",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Torta de elote, en el sur del estado",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Arroz con leche",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Tobil",
+      "state_or_section": "Campeche",
+      "description": "Tamal hecho solo de maíz y cubierto de su propia hoja, de sabor dulce o salado."
+    },
+    {
+      "dish": "Chocolomo",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Chilmole o Relleno Negro",
+      "state_or_section": "Campeche",
+      "description": "Carne de puerco, pollo y/o pavo con caldo a base de especias."
+    },
+    {
+      "dish": "Pipián",
+      "state_or_section": "Campeche",
+      "description": "Guiso prehispánico, se prepara con una salsa hecha a base de pepitas de calabaza tostadas y molidas, chile y ciertas hierbas olorosas."
+    },
+    {
+      "dish": "Empanadas de cazón",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Mondongo",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Tzanchac",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Camarones al coco con salsa de mango",
+      "state_or_section": "Campeche",
+      "description": ""
+    },
+    {
+      "dish": "Bótil",
+      "state_or_section": "Chiapas",
+      "description": "Leguminosa parecida al frijol, pero de mayor tamaño."
+    },
+    {
+      "dish": "Chalupas",
+      "state_or_section": "Chiapas",
+      "description": "Tostadas con lomo de cerdo guisado, verduras y queso."
+    },
+    {
+      "dish": "Chanfaina",
+      "state_or_section": "Chiapas",
+      "description": "Menudencias de carnero guisadas."
+    },
+    {
+      "dish": "Chirmol",
+      "state_or_section": "Chiapas",
+      "description": "Es una salsa preparada con tomate cocido, molido y mezclado con cebolla, chile y cilantro."
+    },
+    {
+      "dish": "Chipilín ( Crotalaria longirostrata )",
+      "state_or_section": "Chiapas",
+      "description": "Leguminosa herbácea de hojas medianas de color verde claro y agradable sabor, que se utiliza en diversos platillos. Frijoles con chipilín Carne de res o puerco con chipilín. Tamales de chipilín Chipilín con bolita: Sopa de chipilín con bolitas de masa rellenas de queso, se sirve con crema."
+    },
+    {
+      "dish": "Chispola",
+      "state_or_section": "Chiapas",
+      "description": "Carne de res guisada con garbanzo."
+    },
+    {
+      "dish": "Cochito",
+      "state_or_section": "Chiapas",
+      "description": "Nombre con que también se conoce al cerdo en Chiapas. El guisado se prepara moliendo tomate, cebolla, ajo, pimienta, tomillo, chile y achiote, se agrega la carne de cerdo, se añade vinagre y se deja reposar. Después se hornea, tradicionalmente en un horno de piedra. Se sirve con lechuga y cebolla."
+    },
+    {
+      "dish": "Comida Grande de Chiapa",
+      "state_or_section": "Chiapas",
+      "description": "Se llama así debido a que es el guiso principal en fiestas tradicionales y en la Feria de Enero de Chiapa de Corzo . Está hecha con tasajo (carne de res salada en tiras) en una salsa de pepitas (semillas) de calabaza molidas con especias."
+    },
+    {
+      "dish": "Embutidos",
+      "state_or_section": "Chiapas",
+      "description": "Como resultado de la influencia española en la ciudad colonial de San Cristóbal de las Casas se elaboran de manera tradicional embutidos como el jamón serrano — a partir del cual se cocinan diversas recetas, como los panes compuestos (pan francés, jamón serrano y salsa de tomate) —, la butifarra y la longaniza."
+    },
+    {
+      "dish": "Estofado de carnero",
+      "state_or_section": "Chiapas",
+      "description": "Preparado con especias, vino dulce y chile en vinagre, acompañado de pan francés."
+    },
+    {
+      "dish": "Filete a la chamula",
+      "state_or_section": "Chiapas",
+      "description": ""
+    },
+    {
+      "dish": "Nucú o Chicatana ( Atta cephalotes )",
+      "state_or_section": "Chiapas",
+      "description": "Hormiga grande y con alas que se encuentra durante la temporada de lluvias, se cocina asada y solo se come el abdomen con limón y chile."
+    },
+    {
+      "dish": "Pepita con tasajo",
+      "state_or_section": "Chiapas",
+      "description": ""
+    },
+    {
+      "dish": "Plátanos fritos rellenos de queso",
+      "state_or_section": "Chiapas",
+      "description": ""
+    },
+    {
+      "dish": "Sihuamonte o sihuamut",
+      "state_or_section": "Chiapas",
+      "description": "Caldo preparado con carne de res, pollo, conejo, armadillo o la de preferencia, que se asa y posteriormente se pone a cocer con papas y epazote."
+    },
+    {
+      "dish": "Sopa de pan",
+      "state_or_section": "Chiapas",
+      "description": ""
+    },
+    {
+      "dish": "Tamales",
+      "state_or_section": "Chiapas",
+      "description": "En el estado se preparan cerca de 40 tipos diferentes de tamales, dependiendo de la región. Entre ellos están: picte (tamal de elote de Tuxtla Gutiérrez ), tamal de chipilín, tamal de jacuané (pollo, frijoles y yerba santa), nacapitú, chuchunuc, putzazé, yumimujú, toropinto, chamula, untado (pollo, mole, ciruelas, almendras, plátano), bola (carne de cerdo guisada), cambray, azafrán, tamales dulces de manjar, etc."
+    },
+    {
+      "dish": "Dulces",
+      "state_or_section": "Chiapas",
+      "description": "Existe en el estado una gran variedad de dulces, tales como los suspiros, africanos, chimbos, caballito, turulete, hojaldra, nuégados, coyol con dulce, pucsinú, empanizado de cacahuate, bolona, pepita con dulce, calabaza, cazueleja de elote, dulces de yema y cupapé, entre otros."
+    },
+    {
+      "dish": "Bebidas Refrescantes",
+      "state_or_section": "Bebidas tradicionales",
+      "description": "Pozol : Consiste en nixtamal cocido, molido y mezclado con cacao y azúcar, que se disuelve en agua. El pozol blanco no contiene cacao, puede ser dulce o sin azúcar y acompañado de sal con chile. Esta bebida se caracteriza porque al estarla tomando debe moverse constantemente. Se toma en jícara de morro. Tascalate : Consiste en maíz tostado y molido mezclado con achiote, canela y azúcar. Se sirve frío con agua o leche."
+    },
+    {
+      "dish": "Curtidos",
+      "state_or_section": "Bebidas tradicionales",
+      "description": "Consiste en llenar un cántaro de boca angosta con frutas como jocote, nance, membrillo, durazno, mango, pera, etc., agregarle aguardiente de caña y miel de piloncillo, y dejarlo reposar. La impregnación de la fruta en el aguardiente le cambia el sabor, y esta última se convierte en mistela."
+    },
+    {
+      "dish": "Carne asada",
+      "state_or_section": "Coahuila",
+      "description": "Platillo a base de variados cortes de carne de res estilo americano , los cuales se asan a la parrilla, preferentemente con leña de árbol de mezquite, que brinda a la carne un sabor especial. La carne asada va acompañada de una variedad muy grande de elementos, como chilacas (variedad de chile verde largo y generalmente sin sabor picante) rellenas de queso, salchichas, frijoles \"rancheros\", y las infaltables tortillas de harina de trigo. La carne asada va mucho más allá del inigualable sabor de sus elementos, siendo plato principal en la celebración de todo tipo de momentos especiales: reuniones familiares, cumpleaños, Navidad y Año Nuevo , entre otros."
+    },
+    {
+      "dish": "Discada",
+      "state_or_section": "Coahuila",
+      "description": ""
+    },
+    {
+      "dish": "Mezquital",
+      "state_or_section": "Coahuila",
+      "description": ""
+    },
+    {
+      "dish": "Nachos",
+      "state_or_section": "Coahuila",
+      "description": ""
+    },
+    {
+      "dish": "Queso asadero, elaborado a base de leche de vaca o cabra",
+      "state_or_section": "Coahuila",
+      "description": ""
+    },
+    {
+      "dish": "Semita, pan dulce elaborado a base de pulque",
+      "state_or_section": "Coahuila",
+      "description": ""
+    },
+    {
+      "dish": "Tapado de lengua de vaca",
+      "state_or_section": "Coahuila",
+      "description": ""
+    },
+    {
+      "dish": "Tasajo de venado",
+      "state_or_section": "Coahuila",
+      "description": ""
+    },
+    {
+      "dish": "Tortillones de carne asada u otros guisados",
+      "state_or_section": "Coahuila",
+      "description": ""
+    },
+    {
+      "dish": "Gorditas",
+      "state_or_section": "Coahuila",
+      "description": ""
+    },
+    {
+      "dish": "Alfajor de coco",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Arroz con longaniza",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Cocadas",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Chan",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Charales con chile",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Cuachala",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Chilayo",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Fox puding de chocolate",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Frijoles con pañales",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Huevos asados",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Ponche de Comala",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Pozole seco",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Sopitos",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Tacos tuxpeños",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Tatemado de puerco",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Tejuino",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Tuba",
+      "state_or_section": "Colima",
+      "description": ""
+    },
+    {
+      "dish": "Burritos",
+      "state_or_section": "Chihuahua",
+      "description": "Tortilla de harina de trigo rellena con algún guisado o frijolitos con queso. Hay diversas formas de prepararse, presentarse y envolverse. ​"
+    },
+    {
+      "dish": "Caldo de oso",
+      "state_or_section": "Chihuahua",
+      "description": "Caldo de pescado con chile de la tierra."
+    },
+    {
+      "dish": "Carne asada",
+      "state_or_section": "Chihuahua",
+      "description": "En Chihuahua se acompaña con cebollitas de rabo también asadas, guacamole y tortillas (de maíz o de harina de trigo). También es común acompañarla con elotes asados."
+    },
+    {
+      "dish": "Carne seca o cecina",
+      "state_or_section": "Chihuahua",
+      "description": "Carne cortada en rebanadas muy delgaditas, se sala y se seca al sol."
+    },
+    {
+      "dish": "Chacales",
+      "state_or_section": "Chihuahua",
+      "description": "Sopa de maíz seco con chiles rojos, también son conocidos como chuales."
+    },
+    {
+      "dish": "Chile con queso",
+      "state_or_section": "Chihuahua",
+      "description": "Chile jalapeño con cebolla y tomate, leche o suero de sal, y queso asadero."
+    },
+    {
+      "dish": "Chile pasado o chile verde con queso y/o papa",
+      "state_or_section": "Chihuahua",
+      "description": "El chile pasado es chile chilaca que se deja secando al sol, mientras el chile verde es chile fresco que se tuesta y se pela para prepararlo con el queso y las papas. El plato se puede servir con o sin caldo."
+    },
+    {
+      "dish": "Discada",
+      "state_or_section": "Chihuahua",
+      "description": ""
+    },
+    {
+      "dish": "Chiles chilaca rellenos",
+      "state_or_section": "Chihuahua",
+      "description": "Chile chilaca capeado y relleno de queso. Tradicionalmente se come envuelto en tortilla de maíz o de harina de trigo."
+    },
+    {
+      "dish": "Empanadas de Santa Rita",
+      "state_or_section": "Chihuahua",
+      "description": "Empanadas rellenas con un aromático guiso de lomo de cerdo molido frito con cebolla, almendras, pasas y especias molidas. Al servir se bañan con salsa de tomate y se espolvorean con azúcar."
+    },
+    {
+      "dish": "Guisado Abigeo",
+      "state_or_section": "Chihuahua",
+      "description": "Guisado de carne seca, en salsa de cuatro chiles, platillo originado en la Revolución Mexicana , actualmente es representativa de la comunidad de Lázaro Cárdenas, asentamiento de veteranos de la revolución."
+    },
+    {
+      "dish": "Guisado de chile colorado",
+      "state_or_section": "Chihuahua",
+      "description": "Chile de la tierra y un poco de chile de árbol, se les cuece con especias, se licúa y cuela para formar una salsa caldosa, a la que se agregan trocitos de carne asada o guisada y papas en cubitos."
+    },
+    {
+      "dish": "Jamoncillo de leche",
+      "state_or_section": "Chihuahua",
+      "description": "Dulce de leche sólido con azúcar y canela."
+    },
+    {
+      "dish": "Machaca con huevo",
+      "state_or_section": "Chihuahua",
+      "description": "Carne seca machacada con huevos revueltos, se acompaña con tortillas."
+    },
+    {
+      "dish": "Menudo",
+      "state_or_section": "Chihuahua",
+      "description": "Caldo de panza y pata de res con maíz pozolero y chile guajillo. Se acompaña con pan. Una vez servido se le puede agregar orégano y cebolla cruda"
+    },
+    {
+      "dish": "Montados",
+      "state_or_section": "Chihuahua",
+      "description": "Tortilla de harina de trigo doblada a modo de quesadilla, rellena de algún guisado. Se le puede poner además asadero y una untada de frijoles machacados."
+    },
+    {
+      "dish": "Picadillo",
+      "state_or_section": "Chihuahua",
+      "description": "Guisado de carne molida con papas y zanahorias cortadas en cubitos, cebolla y tomate. También se le pueden agregar granos de elote y chícharos."
+    },
+    {
+      "dish": "Pinole",
+      "state_or_section": "Chihuahua",
+      "description": "Maíz (elote) tostado molido con azúcar. Muy nutritivo, se usa para preparar atoles, licuados con fruta o se come solo."
+    },
+    {
+      "dish": "Queso asadero",
+      "state_or_section": "Chihuahua",
+      "description": "Es un queso suave que hace mucha hebra, se puede desmenuzar en tiras muy fácilmente. Parecido al queso Oaxaca , se puede encontrar en forma de tortilla o bola (una larga tira de queso enredada en sí misma)."
+    },
+    {
+      "dish": "Queso Chihuahua",
+      "state_or_section": "Chihuahua",
+      "description": ""
+    },
+    {
+      "dish": "Queso menonita",
+      "state_or_section": "Chihuahua",
+      "description": ""
+    },
+    {
+      "dish": "Sotol",
+      "state_or_section": "Chihuahua",
+      "description": "Licor de maguey mezcalero."
+    },
+    {
+      "dish": "Tacos morelianos",
+      "state_or_section": "Chihuahua",
+      "description": "Elaborados con carne de res en una salsa de dos tipos de chile rojo y mole . Platillo característico del municipio de Meoqui ."
+    },
+    {
+      "dish": "Taquitos de papa",
+      "state_or_section": "Chihuahua",
+      "description": "Taquitos fritos de tortilla de maíz rellenos de puré de papa, a los que se agrega lechuga picada, tomate y salsa."
+    },
+    {
+      "dish": "Tesgüino",
+      "state_or_section": "Chihuahua",
+      "description": "Es un fermentado de maíz, de contenido alcohólico (similar a la cerveza), espeso y nutritivo. Su elaboración consiste en dejar germinar una cierta cantidad de maíz, humedeciéndola y poniéndola cerca de una chimenea. Una vez que ha brotado raíz, se muele, se hierve y se le añade basiáwari, para ayudar a la fermentación."
+    },
+    {
+      "dish": "Caldillo de carne seca",
+      "state_or_section": "Chihuahua",
+      "description": ""
+    },
+    {
+      "dish": "Alegría de amaranto",
+      "state_or_section": "Ciudad de México",
+      "description": ""
+    },
+    {
+      "dish": "Barriga de res",
+      "state_or_section": "Ciudad de México",
+      "description": ""
+    },
+    {
+      "dish": "Caldo tlalpeño",
+      "state_or_section": "Ciudad de México",
+      "description": ""
+    },
+    {
+      "dish": "Chicharrón preparado",
+      "state_or_section": "Ciudad de México",
+      "description": ""
+    },
+    {
+      "dish": "Elote preparado",
+      "state_or_section": "Ciudad de México",
+      "description": ""
+    },
+    {
+      "dish": "Gringa",
+      "state_or_section": "Ciudad de México",
+      "description": ""
+    },
+    {
+      "dish": "Migas, sopa de pan blanco hecha con chile guajillo y cabeza de puerco",
+      "state_or_section": "Ciudad de México",
+      "description": ""
+    },
+    {
+      "dish": "Pambazo",
+      "state_or_section": "Ciudad de México",
+      "description": ""
+    },
+    {
+      "dish": "Quesadilla",
+      "state_or_section": "Ciudad de México",
+      "description": ""
+    },
+    {
+      "dish": "Sincronizada",
+      "state_or_section": "Ciudad de México",
+      "description": ""
+    },
+    {
+      "dish": "Tacos de guisado, con arroz",
+      "state_or_section": "Ciudad de México",
+      "description": ""
+    },
+    {
+      "dish": "Tacos al pastor",
+      "state_or_section": "Ciudad de México",
+      "description": ""
+    },
+    {
+      "dish": "Tacos de suadero",
+      "state_or_section": "Ciudad de México",
+      "description": ""
+    },
+    {
+      "dish": "Tlacoyo",
+      "state_or_section": "Ciudad de México",
+      "description": ""
+    },
+    {
+      "dish": "Tostada",
+      "state_or_section": "Ciudad de México",
+      "description": ""
+    },
+    {
+      "dish": "Tortas de tamal",
+      "state_or_section": "Ciudad de México",
+      "description": "Conocidas como guajolotas, son muy típicas en los desayunos ligeros que se consumen día a día, pueden ser de toda la variedad de tamales que se venden en el mismo puesto."
+    },
+    {
+      "dish": "Arrachera, con salsa de guajes",
+      "state_or_section": "Durango",
+      "description": ""
+    },
+    {
+      "dish": "Asado de venado, acompañado con trozos de jamón y embadurnado con mantequilla",
+      "state_or_section": "Durango",
+      "description": ""
+    },
+    {
+      "dish": "Tacos de gallina",
+      "state_or_section": "Durango",
+      "description": ""
+    },
+    {
+      "dish": "Cebadina (de León, Guanajuato )",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Caldo de Oso (de León, Guanajuato)",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Enchiladas mineras (de la capital )",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Guacamayas simples",
+      "state_or_section": "Guanajuato",
+      "description": "bolillo campesino, chicharrón de puerco, salsa a base de jitomate y cebolla; bautizadas: estas contienen chile de árbol molido y se obsequian al que por primera vez las prueba a manera de broma"
+    },
+    {
+      "dish": "Nopales con garbanzos",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Rellena",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Guacamayas",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Molletes",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Pambazos",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Tacos de pastor",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Menudo",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Carnitas",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Huevos divorciados",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Camarones del Bajío, originarios de León",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Caldo de res",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Caldo de camarón",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Nieve de pasta",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Nieve de sabores exóticos",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Pollo rostizado",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Tacos de cabeza de cerdo",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Manitas de cerdo en escabeche",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Atole blanco de maíz",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Cacahuates en escabeche",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Rollo de guayaba",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Pollo en carnitas",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Gorditas de queso y migajas",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Tamales agrios de cacahuate",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Gorditas de frijol quebrado",
+      "state_or_section": "Guanajuato",
+      "description": ""
+    },
+    {
+      "dish": "Enchiladas en salsa verde con rodajas de cebolla",
+      "state_or_section": "Guerrero",
+      "description": ""
+    },
+    {
+      "dish": "Mojarra con dientes de ajo asados y papas fritas",
+      "state_or_section": "Guerrero",
+      "description": ""
+    },
+    {
+      "dish": "Pozole Blanco",
+      "state_or_section": "Guerrero",
+      "description": "Platillo hecho con granos reventados de maíz cacahuazintle. El verde es sazonado con mole verde o pipian (mezcla de semilla de calabaza molida y verduras verdes), lo que lo hace menos caldoso. Se puede servir en ambas versiones, con carne de puerco o de pollo."
+    },
+    {
+      "dish": "Chalupas",
+      "state_or_section": "Guerrero",
+      "description": "Tostadas en forma de cazuela, con diversos rellenos (pollo, puerco, chorizo, picadillo, rajas con queso)."
+    },
+    {
+      "dish": "Chilatequile",
+      "state_or_section": "Guerrero",
+      "description": "Mole de cuchara"
+    },
+    {
+      "dish": "Tiritas de pescado",
+      "state_or_section": "Guerrero",
+      "description": "Cocidas con limón y aderezadas con cebolla morada y chile verde."
+    },
+    {
+      "dish": "Relleno de puerco o Lechón Relleno",
+      "state_or_section": "Guerrero",
+      "description": "Cerdo cocido con verduras y generalmente servido dentro de un bolillo."
+    },
+    {
+      "dish": "Barbacoa de chivo",
+      "state_or_section": "Guerrero",
+      "description": "Carne sazonada con mezcla de especias y chiles rojos, cocida generalmente en un agujero hecho en la tierra."
+    },
+    {
+      "dish": "Pescado a la talla",
+      "state_or_section": "Guerrero",
+      "description": "Huachinango de preferencia, cocido a la leña (o al horno en la Costa Grande del estado), aderezado con chiles rojos."
+    },
+    {
+      "dish": "Pulpo Enamorado",
+      "state_or_section": "Guerrero",
+      "description": "Se prepara hervido y se le agrega mayonesa, cebolla, jitomate y chile verde picados."
+    },
+    {
+      "dish": "Manitas dekowi",
+      "state_or_section": "Guerrero",
+      "description": ""
+    },
+    {
+      "dish": "Caldo de Cachora",
+      "state_or_section": "Guerrero",
+      "description": ""
+    },
+    {
+      "dish": "Aporreadillo",
+      "state_or_section": "Guerrero",
+      "description": "Versión sureña de la machacado regiomontano, en la Costa Chica de Guerrero se prepara con cecina de res, huevo y salsa roja."
+    },
+    {
+      "dish": "Torrejas",
+      "state_or_section": "Guerrero",
+      "description": "Pan capeado y frito, bañado con melcocha (piloncillo mezclado con agua)."
+    },
+    {
+      "dish": "Atole blanco",
+      "state_or_section": "Guerrero",
+      "description": "Masa mezclada con agua y cocida sin azúcar. Se usa para acompañar las torrejas ."
+    },
+    {
+      "dish": "Dulce de calabaza",
+      "state_or_section": "Guerrero",
+      "description": "Calabaza cocida con piloncillo."
+    },
+    {
+      "dish": "Chilate",
+      "state_or_section": "Guerrero",
+      "description": "Bebida elaborada con cacao, espumosa, se sirve muy fría."
+    },
+    {
+      "dish": "Elopozole",
+      "state_or_section": "Guerrero",
+      "description": "Pozole de elote con chile rojo y epazote (parecido a los esquites) o puerco. Se le agrega cebolla, chile verde y limón."
+    },
+    {
+      "dish": "Enchiladas en salsa roja y rodajas de cebolla",
+      "state_or_section": "Guerrero",
+      "description": ""
+    },
+    {
+      "dish": "Pescado a la talla",
+      "state_or_section": "Guerrero",
+      "description": ""
+    },
+    {
+      "dish": "Manjar",
+      "state_or_section": "Guerrero",
+      "description": "Postre de leche"
+    },
+    {
+      "dish": "Frijoles con coco",
+      "state_or_section": "Guerrero",
+      "description": ""
+    },
+    {
+      "dish": "Guinatán",
+      "state_or_section": "Guerrero",
+      "description": "pescado con coco"
+    },
+    {
+      "dish": "Fiambre de tixtla",
+      "state_or_section": "Guerrero",
+      "description": ""
+    },
+    {
+      "dish": "Escamoles",
+      "state_or_section": "Hidalgo",
+      "description": ""
+    },
+    {
+      "dish": "Mixiotes de pollo",
+      "state_or_section": "Hidalgo",
+      "description": ""
+    },
+    {
+      "dish": "Tinga",
+      "state_or_section": "Hidalgo",
+      "description": ""
+    },
+    {
+      "dish": "Zacahuíl",
+      "state_or_section": "Hidalgo",
+      "description": ""
+    },
+    {
+      "dish": "Guajolote",
+      "state_or_section": "Hidalgo",
+      "description": "Alimento originario del Valle de Tulancingo el cual está compuesto por una telera rellena de frijol, tortilla, salsa, carne, queso y lechuga; frita en manteca."
+    },
+    {
+      "dish": "Gualumbos",
+      "state_or_section": "Hidalgo",
+      "description": ""
+    },
+    {
+      "dish": "Salsa de xoconostle",
+      "state_or_section": "Hidalgo",
+      "description": ""
+    },
+    {
+      "dish": "Camarones a la diabla",
+      "state_or_section": "Jalisco",
+      "description": ""
+    },
+    {
+      "dish": "Volcán",
+      "state_or_section": "Jalisco",
+      "description": "Tortilla tostada y crujiente con queso derretido."
+    },
+    {
+      "dish": "Torta ahogada",
+      "state_or_section": "Jalisco",
+      "description": "birote (bolillo) salado con carnitas de puerco ahogado en salsa de jitomate y según el gusto con salsa de chile de árbol acompañada de cebolla, rábano y limón."
+    },
+    {
+      "dish": "Lonches",
+      "state_or_section": "Jalisco",
+      "description": "birote bañado o no bañado en salsa con relleno de frijoles y un guisado."
+    },
+    {
+      "dish": "Carne en su jugo",
+      "state_or_section": "Jalisco",
+      "description": "sopa de carne, especialidad de Jalisco. Diferente a la versión de Sinaloa ."
+    },
+    {
+      "dish": "Caldo michi",
+      "state_or_section": "Jalisco",
+      "description": "caldo de pescado"
+    },
+    {
+      "dish": "Coachala",
+      "state_or_section": "Jalisco",
+      "description": "guisado de carne de res desmenuzada con jitomate, chiles y especias."
+    },
+    {
+      "dish": "Tejuino con nieve",
+      "state_or_section": "Jalisco",
+      "description": "fermento de maíz con nieve de limón."
+    },
+    {
+      "dish": "Helados tradicionales",
+      "state_or_section": "Jalisco",
+      "description": "barras de helado de nuez, vainilla o fresa enrollados con ate y moldeados en conos de acero inoxidable."
+    },
+    {
+      "dish": "Jericallas",
+      "state_or_section": "Jalisco",
+      "description": "dulce de queso y leche quemada."
+    },
+    {
+      "dish": "Gringa",
+      "state_or_section": "Jalisco",
+      "description": "tortilla de harina de trigo o maíz con relleno de carne de lo más diversa, queso, cilantro, cebolla y salsa."
+    },
+    {
+      "dish": "Birria",
+      "state_or_section": "Jalisco",
+      "description": "carne de cabra / chivo y/o carne de res."
+    },
+    {
+      "dish": "Frijoles charros",
+      "state_or_section": "Jalisco",
+      "description": "Pueden hacerse en caldo o secos, tiene carne de puerco; en pocas cantidades salchicha, tocino, jamón y chorizo. Se le agrega una salsa ranchera que contiene tomate, cebolla y chile verde."
+    },
+    {
+      "dish": "Charal",
+      "state_or_section": "Jalisco",
+      "description": "pequeño pescado que se sirve refrito a las orillas de la Laguna de Chapala . Se acostumbra comerse de botana con limón, sal y/o chile al gusto."
+    },
+    {
+      "dish": "Pacholas jaliscienses",
+      "state_or_section": "Jalisco",
+      "description": "Carne molida y moldeada en metate."
+    },
+    {
+      "dish": "Pollo a la Valentina",
+      "state_or_section": "Jalisco",
+      "description": "Pollo cocido y frito, acompañado de enchiladas, ruedas gruesas de papa fritas, ensalada fresca, salsa, verduras en vinagre y chile jalapeño."
+    },
+    {
+      "dish": "Quesada Alteña",
+      "state_or_section": "Jalisco",
+      "description": "Carne y verduras azadas con queso fundido, frijoles y salsa."
+    },
+    {
+      "dish": "Pozole jalisciense",
+      "state_or_section": "Jalisco",
+      "description": ""
+    },
+    {
+      "dish": "Menudo",
+      "state_or_section": "Jalisco",
+      "description": ""
+    },
+    {
+      "dish": "Tepache",
+      "state_or_section": "Jalisco",
+      "description": "Bebida preparada con piña fermentada."
+    },
+    {
+      "dish": "Mole de olla",
+      "state_or_section": "Jalisco",
+      "description": "Variedad de mole preparado con harina de trigo frita en manteca, adobada con chile guajillo, ancho, ajonjolí. Típico de Los Altos."
+    },
+    {
+      "dish": "Tamal de ceniza o anís",
+      "state_or_section": "Jalisco",
+      "description": "Tipo de tamal parecido a las corundas pero dulce, con pasas o ate de membrillo."
+    },
+    {
+      "dish": "Capirotada",
+      "state_or_section": "Jalisco",
+      "description": "Difiere del resto del país por el tipo de pan, utilizan birote, pasas, queso fresco o adobera, nueces, coco, clavos de olor."
+    },
+    {
+      "dish": "Cecina",
+      "state_or_section": "Estado de México",
+      "description": ""
+    },
+    {
+      "dish": "Chalupas",
+      "state_or_section": "Estado de México",
+      "description": ""
+    },
+    {
+      "dish": "Chicharrón con huevo",
+      "state_or_section": "Estado de México",
+      "description": ""
+    },
+    {
+      "dish": "Chilaxtle",
+      "state_or_section": "Estado de México",
+      "description": ""
+    },
+    {
+      "dish": "Chorizo de Toluca",
+      "state_or_section": "Estado de México",
+      "description": ""
+    },
+    {
+      "dish": "Chorizo verde",
+      "state_or_section": "Estado de México",
+      "description": ""
+    },
+    {
+      "dish": "Fritada de rana",
+      "state_or_section": "Estado de México",
+      "description": ""
+    },
+    {
+      "dish": "Huevos en Cazuela",
+      "state_or_section": "Estado de México",
+      "description": ""
+    },
+    {
+      "dish": "Huitlacoche con crema",
+      "state_or_section": "Estado de México",
+      "description": ""
+    },
+    {
+      "dish": "Merengues",
+      "state_or_section": "Estado de México",
+      "description": ""
+    },
+    {
+      "dish": "Nopalitos en chilpotle",
+      "state_or_section": "Estado de México",
+      "description": ""
+    },
+    {
+      "dish": "Pambazos",
+      "state_or_section": "Estado de México",
+      "description": ""
+    },
+    {
+      "dish": "Pan de Pulque",
+      "state_or_section": "Estado de México",
+      "description": ""
+    },
+    {
+      "dish": "Salsa al Papaloquelite",
+      "state_or_section": "Estado de México",
+      "description": ""
+    },
+    {
+      "dish": "Tamales mexiquenses",
+      "state_or_section": "Estado de México",
+      "description": ""
+    },
+    {
+      "dish": "Enchiladas",
+      "state_or_section": "Estado de México",
+      "description": ""
+    },
+    {
+      "dish": "Acúmara",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Arroz con pollo y mole tarasco originario de Michoacán (y parte del país)",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Aguacates rellenos",
+      "state_or_section": "Michoacán",
+      "description": "Con atún y especias."
+    },
+    {
+      "dish": "Aporreadillo",
+      "state_or_section": "Michoacán",
+      "description": "Huevos revueltos con carne y bañados en salsa. Se sirven acompañados de tortillas."
+    },
+    {
+      "dish": "Ancas de rana de Cuitzeo",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Arroz blanco",
+      "state_or_section": "Michoacán",
+      "description": "con granos de elote y chile morrón verde, rojo, naranja y/o amarillo."
+    },
+    {
+      "dish": "Atápakua de flor de calabaza",
+      "state_or_section": "Michoacán",
+      "description": "Variedad de pozole."
+    },
+    {
+      "dish": "Ate",
+      "state_or_section": "Michoacán",
+      "description": "Típico dulce moreliano, es una jalea seca hecha de distintas frutas, como membrillo, guayaba o pera."
+    },
+    {
+      "dish": "Carnitas",
+      "state_or_section": "Michoacán",
+      "description": "Plato estatal de Michoacán. Son trozos de cerdo fritos en manteca que se sirven con cebolla, cilantro, guacamole y tortillas."
+    },
+    {
+      "dish": "Carne de Hilacho",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Carne de cerdo con piña y tocino al horno",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Carne de puerco en tomatillo",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Carne de puerco con chile colorado",
+      "state_or_section": "Michoacán",
+      "description": "En salsa de chile huajillo."
+    },
+    {
+      "dish": "Carne de res en tomatillo",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Carne de res entomillada",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Carne de puerco adobada",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Calabacitas con elote",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Charales secos guisados (boquerones)",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Chongos zamoranos",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Ejotes con huevo",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Pollo Adobado navideño",
+      "state_or_section": "Michoacán",
+      "description": "Adobado con salsa de chile ancho y relleno de picadillo adobado con la misma salsa, pasas y almendras."
+    },
+    {
+      "dish": "Frutas en vinagre",
+      "state_or_section": "Michoacán",
+      "description": "Con verduras diversas entre ellas el betabel que le confiere su particular color."
+    },
+    {
+      "dish": "Churipo",
+      "state_or_section": "Michoacán",
+      "description": "Caldo picoso de res que está acompañado por verduras y por corundas así como xoconostle."
+    },
+    {
+      "dish": "Corundas (tamal de ceniza)",
+      "state_or_section": "Michoacán",
+      "description": "Panes de maíz sasonados con ceniza en lugar de sal, que se pueden comer con crema, queso, frijoles refritos y salsa picante o acompañando un guiso llamado churipo."
+    },
+    {
+      "dish": "Granos de elote al aniz",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Enchiladas michoacanas",
+      "state_or_section": "Michoacán",
+      "description": "Similares a las enchiladas placeras, aunque sin el relleno de queso. Además, se sirven con mucho chile y queso rayado encima. Se diferencian de las enchiladas comunes de mole en que estas se enchilan con una especie de salsa que depende de la región o el gusto en el picor."
+    },
+    {
+      "dish": "Enchiladas placeras típicas de Morelia",
+      "state_or_section": "Michoacán",
+      "description": "Rellenas de queso, se sirven con pollo frito, papas y zanahorias."
+    },
+    {
+      "dish": "Ensalada de nopales con eneldo y aceite de oliva",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Helado del señor de Tocumbo (vainilla)",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Olla podrida",
+      "state_or_section": "Michoacán",
+      "description": "Plato típico de Ario Rosales, es un caldo con verduras que se elabora sin agua, utilizando primodialmente pulque (bebida fermentada obtenida de maguey), y que incorpora una variedad de carnes (cerdo, pollo, res, etc.), especias, chile guajillo y serrano, y en menor cantidad, cerveza. Se acompaña con tortillas recién salidas del comal."
+    },
+    {
+      "dish": "Morisqueta",
+      "state_or_section": "Michoacán",
+      "description": "Platillo hecho a base de arroz cocido con salsa con queso o carne de res y frijoles. Originario de la \" Tierra Caliente \" ( Apatzingán , Tepalcatepec y Páracuaro )."
+    },
+    {
+      "dish": "Nieve de pasta",
+      "state_or_section": "Michoacán",
+      "description": "Típica de Pátzcuaro ."
+    },
+    {
+      "dish": "Papas tatemadas",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Papitas con huevo",
+      "state_or_section": "Michoacán",
+      "description": "Cubitos de papitas cocidas y refritas con huevo en salsa de jitomate y chiles jalapeños en vinagre."
+    },
+    {
+      "dish": "Pastel de carne y tocino",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Pescado blanco",
+      "state_or_section": "Michoacán",
+      "description": "Pescado que vive en los lagos de Pátzcuaro y Cuitzeo y se sirve de muchas formas como: frito, empanizado, en caldo, etc."
+    },
+    {
+      "dish": "Pescado a la talla",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Pescado blanco empanizado en salsa de naranja",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Pescado Sierra enharinado frito",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Pico de Gallo",
+      "state_or_section": "Michoacán",
+      "description": "Ensalada de jícama, naranja"
+    },
+    {
+      "dish": "Pollo a la parrilla",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Pollo rostizado",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Queso Cotija",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Salpicón de deshebrada de res",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Tacos de hueva de pescado",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Tacos al Pastor estilo Sahuayo",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Tortitas de maíz tierno de Paracho",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Sopa tarasca",
+      "state_or_section": "Michoacán",
+      "description": "Caldo de frijol servido con trozos de tortilla frita, crema y queso."
+    },
+    {
+      "dish": "Toqueras",
+      "state_or_section": "Michoacán",
+      "description": "(diferente del toquere) Pan horneado en horno de leña. Está hecho con elote, manteca, harina, leche y lechera. Se acompaña con un vaso de leche."
+    },
+    {
+      "dish": "Sopa de fideos casera",
+      "state_or_section": "Michoacán",
+      "description": "Tradicional sopa diaria en caldillo de jitomate que se hace con cualquier modalidad de pasta (codito, moñito, etc) donde ésta se fríe antes de cocerse."
+    },
+    {
+      "dish": "Tostadas de cueritos",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Uchepos",
+      "state_or_section": "Michoacán",
+      "description": "Tamales dulces de elote."
+    },
+    {
+      "dish": "Carne en salsa negra",
+      "state_or_section": "Michoacán",
+      "description": "Carne de res en salsa (tomatillo asado con chile pasilla, ajo y especias)."
+    },
+    {
+      "dish": "Pastel de Pobre",
+      "state_or_section": "Michoacán",
+      "description": "Torta horneada de capas de tortilla de maíz con crema y salsa de jitomate, queso asadero, y picadillo o pollo deshebrado, pollo en mole o en general de cualquier sobra."
+    },
+    {
+      "dish": "Chilaquiles zamoranos",
+      "state_or_section": "Michoacán",
+      "description": "Machacado de tortilla con huevos guisados con chiles diversos. Muy diferentes de los tradicionales chilaquiles."
+    },
+    {
+      "dish": "Pollo Entomatado",
+      "state_or_section": "Michoacán",
+      "description": "Pollo en salsa de tomatillo con Jerez y longaniza."
+    },
+    {
+      "dish": "Carne en salsa roja",
+      "state_or_section": "Michoacán",
+      "description": "Carne de res en trozos guisada con salsa (jitomate, chile ancho suavizado con vinagre y ajo) y papa en cubitos."
+    },
+    {
+      "dish": "Arroz Guisado",
+      "state_or_section": "Michoacán",
+      "description": "Sopa de arroz aguada servida con queso Cotija y chile ancho tostado molido encima."
+    },
+    {
+      "dish": "Torreznos de chinchayote con queso",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Torreznos de carne deshebrada",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Torreznos de nopal y camarón",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Torreznos de charales",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Tortilla de huevo en salsa verde o roja. (tomatillo o jitomate)",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Chile ancho relleno",
+      "state_or_section": "Michoacán",
+      "description": "Chiles anchos rellenos de frijoles refritos y queso Cotija horneados en salsa de tomatillo y crema con chile serrano."
+    },
+    {
+      "dish": "Pollo a las finas Hierbas",
+      "state_or_section": "Michoacán",
+      "description": "Pollo guisado con rodajas de cebolla, jitomate, pasas y almendras con varias hierbas."
+    },
+    {
+      "dish": "Toquere",
+      "state_or_section": "Michoacán",
+      "description": "(Tierra Caliente) Tortita de maíz martajado dulce-salado que se sirve con queso, crema y salsa picante de diversos tipos."
+    },
+    {
+      "dish": "Torta de elote",
+      "state_or_section": "Michoacán",
+      "description": "Torta dulce-salada de elote tierno con harina de arroz, se sirve acompañado de crema y salsa al gusto (existen variantes con zanahoria, calabacita o calabaza en lugar de los granos de maíz tierno)."
+    },
+    {
+      "dish": "Torta de Corundas",
+      "state_or_section": "Michoacán",
+      "description": "Horneadas con crema y queso."
+    },
+    {
+      "dish": "Torta de Uchepos",
+      "state_or_section": "Michoacán",
+      "description": "Horneados con crema y salsa de tomatillo"
+    },
+    {
+      "dish": "Carne de Hilacho",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Tamal de lienzo",
+      "state_or_section": "Michoacán",
+      "description": "se elabora usando lienzo de algodón en lugar de hojas de maíz, se cocina en vaporera y se puede rellenar de queso, frijoles, rajas de chile poblano, etc."
+    },
+    {
+      "dish": "Crema de rajas y elote",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Rajas de chile poblano",
+      "state_or_section": "Michoacán",
+      "description": "guisadas con cebolla, opcionalmente crema."
+    },
+    {
+      "dish": "Chiles capones",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Chicharrón de cerdo en salsa verde",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Chicharrón de cerdo en escabeche",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Espinazo",
+      "state_or_section": "Michoacán",
+      "description": "Caldo de Espinazo de cerdo con chile ancho, xoconostle, se sirve con morisqueta (arroz blanco hervido con sal)."
+    },
+    {
+      "dish": "Cecina en caldo",
+      "state_or_section": "Michoacán",
+      "description": "Similar al espinazo pero se utiliza cecina de res en vez de espinazo de cerdo."
+    },
+    {
+      "dish": "Lengua en salsa de jitomate",
+      "state_or_section": "Michoacán",
+      "description": "Similar a la salsa veracruzana, con aceitunas y alcaparras."
+    },
+    {
+      "dish": "Atole blanco (con buñuelos)",
+      "state_or_section": "Michoacán",
+      "description": "Típico de Pátzcuaro, es un atole sin azúcar para compensar lo dulce de los buñuelos con miel de piloncillo que lo acompañan."
+    },
+    {
+      "dish": "Tamales de frijol",
+      "state_or_section": "Michoacán",
+      "description": "De forma circular aplanada. Hechos con laminillas de masa de maíz alternadas con capas de frijol refrito envueltos en las hojas del maíz, se sirven de manera similar a las corundas."
+    },
+    {
+      "dish": "Tamales adobados de Tingüindín",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Tamal blanco o corunda de trigo",
+      "state_or_section": "Michoacán",
+      "description": "De forma esférica, con base en el trigo en lugar del maíz, envuelto en hojas de elote que le confieren al pan un sabor insospechado. Se come como pan."
+    },
+    {
+      "dish": "Picadillo",
+      "state_or_section": "Michoacán",
+      "description": "Carne molida de res y cerdo combinada con salsa de chile ancho, chile jalapeño y cubitos de zanahoria y papa."
+    },
+    {
+      "dish": "Albondigón en salsa de chilpotle y chile ancho",
+      "state_or_section": "Michoacán",
+      "description": "Rellenos de clara de huevo cocido."
+    },
+    {
+      "dish": "Chayotes rellenos",
+      "state_or_section": "Michoacán",
+      "description": "Chayote espinozo con crema y queso Cotija, empanizado y queso gratinado horneado."
+    },
+    {
+      "dish": "Sopa de Nopales",
+      "state_or_section": "Michoacán",
+      "description": "A base de nopales tiernos con cebolla frita enharinada y caldillo de jitomate con chile chilpotle."
+    },
+    {
+      "dish": "Sopa de Chayote",
+      "state_or_section": "Michoacán",
+      "description": "En caldillo de jitomate con hilos de huevo."
+    },
+    {
+      "dish": "Sopa de tortilla",
+      "state_or_section": "Michoacán",
+      "description": "Sopa seca de tiras de tortilla de maíz fritas en caldillo de jitomate, aderezado con queso Cotija."
+    },
+    {
+      "dish": "Sopa de Frijol",
+      "state_or_section": "Michoacán",
+      "description": "Elaborada con frijol bayo molido y licuado con caldillo de jitomate hasta conseguir una consistencia cremosa; se sirve con pequeños totopos (cuadritos de tortilla dorada o frita) y queso Cotija espolvoreado."
+    },
+    {
+      "dish": "Sopa de lentejas y jamón al chilpotle",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Sopa de habas cuaresmeña con chiles largos",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Sopa de crepas con queso Cotija",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Sopa de bolitas de papa",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Sopa de corundas",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Sopa de albóndigas",
+      "state_or_section": "Michoacán",
+      "description": "En caldillo de jitomate con calabacitas y zanahorias, chile guajillo y cascabel, rellenas de arroz y comino."
+    },
+    {
+      "dish": "Soricua",
+      "state_or_section": "Michoacán",
+      "description": "Morcilla michoacana."
+    },
+    {
+      "dish": "Fabada de garbanzo",
+      "state_or_section": "Michoacán",
+      "description": "Al chilpotle, con longaniza, carne de cerdo y soricua."
+    },
+    {
+      "dish": "Pozolillo",
+      "state_or_section": "Michoacán",
+      "description": "Sopa de pollo desmenuzado con caldo de tomatillo, chile poblano, serrano y granos de elote tierno (a diferencia del pozole que es de cerdo, con caldo de chile ancho y granos de maíz maduro y nixtamalizado)"
+    },
+    {
+      "dish": "Milanesas de carne molida empanizadas",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Quesadillas de flor de calabaza",
+      "state_or_section": "Michoacán",
+      "description": "hechas con masa de maíz y rellenas de flor de calabaza guisada y queso."
+    },
+    {
+      "dish": "Tranca (pan de huevo propio de Sahuayo )",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Pan relleno de Xilacayote",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Sema (pan) de agua",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Rosquillas de manteca de cerdo",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Sema de granillo",
+      "state_or_section": "Michoacán",
+      "description": ""
+    },
+    {
+      "dish": "Sema fina",
+      "state_or_section": "Michoacán",
+      "description": "Pan dulce con trozos de piloncillo"
+    },
+    {
+      "dish": "Xandukata",
+      "state_or_section": "Michoacán",
+      "description": "salsa verde"
+    },
+    {
+      "dish": "Tacos acorazados (tacos de arroz con guisado)",
+      "state_or_section": "Morelos",
+      "description": ""
+    },
+    {
+      "dish": "Los tamales",
+      "state_or_section": "Morelos",
+      "description": ""
+    },
+    {
+      "dish": "Los hongos de cazaguate en salsa con carne de puerco",
+      "state_or_section": "Morelos",
+      "description": ""
+    },
+    {
+      "dish": "Las palomas llamadas huilotas en escabeche",
+      "state_or_section": "Morelos",
+      "description": ""
+    },
+    {
+      "dish": "Quesadillas, tostadas de tuétano",
+      "state_or_section": "Morelos",
+      "description": ""
+    },
+    {
+      "dish": "Tlacoyos de frijol",
+      "state_or_section": "Morelos",
+      "description": ""
+    },
+    {
+      "dish": "Salsa de jumiles",
+      "state_or_section": "Morelos",
+      "description": ""
+    },
+    {
+      "dish": "Los itacates",
+      "state_or_section": "Morelos",
+      "description": ""
+    },
+    {
+      "dish": "Totopos",
+      "state_or_section": "Morelos",
+      "description": ""
+    },
+    {
+      "dish": "Tlaxcales",
+      "state_or_section": "Morelos",
+      "description": ""
+    },
+    {
+      "dish": "Pescado zarandeado",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Pipián de pepitas de calabaza",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Ceviche de pescado",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Tlaxtihuilli",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Camarones cucaracha",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Ceviche de camarones",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Frijoles puercos",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Jericallas",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Aguachile",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Chicharrón de pescado",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Gorditas de maíz de Jala",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Bolitas de arrayán",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Agua fresca de cocuixtle con coco",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Tamales de camarón",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Tostadas nayaritas",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Tejuino",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Licor de nanche",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Lisa tatemada en leña de mangle",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Pan de plátano",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Ponche de frutas",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Sopa de ostiones",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Cocadas",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Cañas asadas",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Torta de elote",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Sopes de ostiones",
+      "state_or_section": "Nayarit",
+      "description": ""
+    },
+    {
+      "dish": "Cabrito al pastor",
+      "state_or_section": "Nuevo León",
+      "description": "Una forma típica de prepararlo es asándolo en estacas en forma vertical."
+    },
+    {
+      "dish": "Fritada",
+      "state_or_section": "Nuevo León",
+      "description": "Guiso de cabrito elaborado con la sangre del animal."
+    },
+    {
+      "dish": "Machitos",
+      "state_or_section": "Nuevo León",
+      "description": "Envuelto asado de la casqueria del cabrito."
+    },
+    {
+      "dish": "Carne asada",
+      "state_or_section": "Nuevo León",
+      "description": "Tradición típica de los fines de semana en de Nuevo León. Uno de los cortes es la arrachera , particular del estado. Típicamente son los hombres los que la preparan."
+    },
+    {
+      "dish": "Machacado",
+      "state_or_section": "Nuevo León",
+      "description": "El platillo consiste tradicionalmente de carne seca de res salada con huevo . Opcionalmente se añade chile verde , cebolla o tomate ."
+    },
+    {
+      "dish": "Alámbre de res",
+      "state_or_section": "Nuevo León",
+      "description": "Cortes de carne que junto con otros ingredientes se inserta en un palo de madera, normalmente los otros que se añaden son cebolla, chile morrón , tocino y tomate."
+    },
+    {
+      "dish": "Carne Zaraza",
+      "state_or_section": "Nuevo León",
+      "description": "Son tiras de carne de lomo de res servidas con guacamole. Es tradicional del municipio de Montemorelos ."
+    },
+    {
+      "dish": "Tamales norteños",
+      "state_or_section": "Nuevo León",
+      "description": ""
+    },
+    {
+      "dish": "Asado de Puerco con chile colorado",
+      "state_or_section": "Nuevo León",
+      "description": ""
+    },
+    {
+      "dish": "Migas con huevo",
+      "state_or_section": "Nuevo León",
+      "description": "Trocitos de tortillas de maíz, dorados, con cebolla, tomate, chile y orégano, con huevo."
+    },
+    {
+      "dish": "Torta compuesta",
+      "state_or_section": "Nuevo León",
+      "description": "Parte de la gastronomía de Linares . Las tortas se comen frías. Son un platillo fresco y muy lucidor por su colorido."
+    },
+    {
+      "dish": "Tortilla de harina",
+      "state_or_section": "Nuevo León",
+      "description": "Tradicionalmente, en Nuevo León, al igual que la mayor parte del norte de México , se consumían tortillas de harina de trigo en lugar de maíz, debido a la abundancia del primero y la escasez del segundo."
+    },
+    {
+      "dish": "Empalmes",
+      "state_or_section": "Nuevo León",
+      "description": "Un empalme son dos tortillas con frijoles y salsa. Se le llama así ya que al prepararlo, se pone primero una tortilla encima de ella, después frijoles refritos y salsa, y después otra tortilla arriba de los frijoles"
+    },
+    {
+      "dish": "Tostadas estilo siberia",
+      "state_or_section": "Nuevo León",
+      "description": ""
+    },
+    {
+      "dish": "Pollo estilo Rio Ramos",
+      "state_or_section": "Nuevo León",
+      "description": ""
+    },
+    {
+      "dish": "Dulce de leche",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Dulce típico de Nuevo León , existen diferentes formas de prepararlo, normalmente se añade nuéz."
+    },
+    {
+      "dish": "Glorias",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Son un dulce de leche quemada y nuéz. Surgieron en Linares en 1932, aunque la preparación de dulces de leche o leche quemada en Nuevo León es más antigua, actualmente 15 empresas de Linares se dedican a hacerlas."
+    },
+    {
+      "dish": "Perlitas",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Dulce de leche."
+    },
+    {
+      "dish": "Rollos",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Dulce de leche."
+    },
+    {
+      "dish": "Encanelados",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Dulce de leche."
+    },
+    {
+      "dish": "Revolcadas",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Dulce de leche."
+    },
+    {
+      "dish": "Natilla",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Otra variación de dulces de leche típicos de Nuevo León."
+    },
+    {
+      "dish": "Marquetas",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Otro dulce típico del estado, consiste en diferentes diseños, es otra de las golosinas tradicionales."
+    },
+    {
+      "dish": "Pan de Bustamante",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "se elabora según una tradición familiar y se hornea al estilo casero con harina de trigo, piloncillo , anís, canela, nuez y cocoa."
+    },
+    {
+      "dish": "Empanadas de Nuevo León",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Normalmente son rellenas con leche quemada, piloncillo, mermelada de piña, calabaza, tomate o manzana."
+    },
+    {
+      "dish": "Turco",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Pan tradicional de Nuevo León, similar otro pan típico de Nuevo León conocido como semita consiste en harina, sal, azúcar, manteca de puerco y vegetal, carne de puerco cocida y picada, pasas, nueces, clavo, canela y anís."
+    },
+    {
+      "dish": "Hojarascas",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Galletas tradicionales de Nuevo León, hecho a base de harina, polvo para hornear, manteca vegetal, huevos, esencia de vainilla, azúcar y canela al gusto."
+    },
+    {
+      "dish": "Bolitas de leche",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Dulce hecho a base de leche de cabra o vaca."
+    },
+    {
+      "dish": "Dulce de calabaza",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Calabaza en tacha cocida en piloncillo."
+    },
+    {
+      "dish": "Conservas de naranja",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Dulce típicio de Montemorelos, también existen otros dulces similares de conservas de otras frutas."
+    },
+    {
+      "dish": "Semita",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Pan tradicional elaborado príncipalmente en los municipios del norte de Nuevo León"
+    },
+    {
+      "dish": "Discada",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "trocitos de carne generalmente bien guisada, debe su nombre a que la preparación se hace en los discos de los arados."
+    },
+    {
+      "dish": "Pollo violado",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Pollo sentado en una lata de cerveza y cocido al calor de las brazas últimamente ha tomado mucho crecimiento."
+    },
+    {
+      "dish": "Dulce de Frijol",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Dulce preparado con frijol, originario del centro del estado."
+    },
+    {
+      "dish": "Machacado con huevo",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Carne seca guisada con huevo, en algunas versiones va acompañado de salsas."
+    },
+    {
+      "dish": "Enseco",
+      "state_or_section": "Pan y Dulces Regionales",
+      "description": "Galletas de maíz."
+    },
+    {
+      "dish": "Moles",
+      "state_or_section": "Oaxaca",
+      "description": "negro, rojo, coloradito, almendrado chichilo, amarillo"
+    },
+    {
+      "dish": "Chapulines",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Tamales",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Mezcales",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Quesillo",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Queso Oaxaca",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Atole",
+      "state_or_section": "Oaxaca",
+      "description": "Champurrado, blanco, leche, panela y trigo"
+    },
+    {
+      "dish": "Tejate",
+      "state_or_section": "Oaxaca",
+      "description": "bebida prehispánica elaborada a base de maíz, cacao, flor de cacao, hueso de mamey y coquito de sarozo"
+    },
+    {
+      "dish": "Tlayuda",
+      "state_or_section": "Oaxaca",
+      "description": "Tortilla de gran tamaño . Por lo general se le unta aciento y frijoles , se le agregan diferentes verduras como el repollo o lechuga , aguacate y jitomate , se le agrega quesillo o queso fresco y se acompaña con tasajo , cecina , cecina enchilada , salchicha oaxaqueña , chorizo o chapulines ."
+    },
+    {
+      "dish": "Tortillas con aciento",
+      "state_or_section": "Oaxaca",
+      "description": "Al igual que las tlayudas , las tortillas son untadas con aciento y frijoles , y se les agrega lechuga , aguacate , jitomate quesillo o queso fresco y se acompañan con alguna carne."
+    },
+    {
+      "dish": "Chileajo de vegetales",
+      "state_or_section": "Oaxaca",
+      "description": "Guiso del Valle. Es hecho a base de chile guajillo, ajo, papa, ejotes y chícharos."
+    },
+    {
+      "dish": "Chileajo mole",
+      "state_or_section": "Oaxaca",
+      "description": "Guiso de Istmo. Mole dulce a base de chile ancho."
+    },
+    {
+      "dish": "Chileajo de cerdo",
+      "state_or_section": "Oaxaca",
+      "description": "Salsa espesa con tomates para carnes."
+    },
+    {
+      "dish": "Minilla de cazón",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Molotes",
+      "state_or_section": "Oaxaca",
+      "description": "Hechos de papa con chorizo y envueltos en masa, para después ser fritos. Encima se les puede agregar frijoles o guacamole , repollo , queso fresco y salsa ."
+    },
+    {
+      "dish": "Tasajo",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Higaditos de mayordomía",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Cecina enchilada",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Salchicha Oaxaqueña",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Chicharrón",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Biuses",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Chichilo",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Caldo de gato",
+      "state_or_section": "Oaxaca",
+      "description": "Caldo hecho con carne de res , pollo y puerco ."
+    },
+    {
+      "dish": "Empanada de Amarillo",
+      "state_or_section": "Oaxaca",
+      "description": "Empanada rellena de mole amarillo."
+    },
+    {
+      "dish": "Empanada de San Antonino",
+      "state_or_section": "Oaxaca",
+      "description": "Empanada rellena de masa, pollo, amarillo y cilantro."
+    },
+    {
+      "dish": "Empanada de flor de calabaza",
+      "state_or_section": "Oaxaca",
+      "description": "Empanada rellena de quesillo y [flor de calabaza]]."
+    },
+    {
+      "dish": "Sopa de Guías",
+      "state_or_section": "Oaxaca",
+      "description": "Caldo preparado con elote , flor de calabaza , guías , calabacitas y chochoyotes"
+    },
+    {
+      "dish": "Frijoles con hierba de conejo",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Memelas",
+      "state_or_section": "Oaxaca",
+      "description": "Tortillas de menor tamaño hechas a mano, rellenas de aciento , frijoles , queso o quesillo y se les puede agregar algún tipo de guiso."
+    },
+    {
+      "dish": "Chiles rellenos",
+      "state_or_section": "Oaxaca",
+      "description": "Hechos con chile de agua o chile guajillo cubiertos de harina y huevo. Se pueden rellenar de picadillo de pollo, picadillo de res o queso."
+    },
+    {
+      "dish": "Aciento",
+      "state_or_section": "Oaxaca",
+      "description": "Se obtiene de la manteca del puerco , suele untarse en las tlayudas y en las tortillas ."
+    },
+    {
+      "dish": "Chochoyotes",
+      "state_or_section": "Oaxaca",
+      "description": "Bolitas de masa y manteca, suelen servirse en la sopa de guías y en los frijoles con \"hierba de conejo\"."
+    },
+    {
+      "dish": "Garnachas",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Tamales de venado",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Caldo de piedra",
+      "state_or_section": "Oaxaca",
+      "description": ""
+    },
+    {
+      "dish": "Nenguanitos",
+      "state_or_section": "Dulces Regionales",
+      "description": "Especie de galletas , se presentan apiladas una sobre la otra."
+    },
+    {
+      "dish": "Mamones",
+      "state_or_section": "Dulces Regionales",
+      "description": "Especie de pan hecho a base de huevo y miel."
+    },
+    {
+      "dish": "Borrachitos",
+      "state_or_section": "Dulces Regionales",
+      "description": "Parecido al Mamón y con un ligero sabor a Mezcal ."
+    },
+    {
+      "dish": "Barquillos",
+      "state_or_section": "Dulces Regionales",
+      "description": "Dulce regional relleno de lechecilla ."
+    },
+    {
+      "dish": "Empanadas dulces",
+      "state_or_section": "Dulces Regionales",
+      "description": "Pueden estar rellenas de piña , coco o lechecilla ."
+    },
+    {
+      "dish": "Turrón",
+      "state_or_section": "Dulces Regionales",
+      "description": "Cilindro hecho a base de una fritura de trigo, con relleno a base de huevo."
+    },
+    {
+      "dish": "Cocadas",
+      "state_or_section": "Dulces Regionales",
+      "description": "Tiene una base de fritura de trigo, con coco espolvoreado por encima."
+    },
+    {
+      "dish": "Tarugo",
+      "state_or_section": "Dulces Regionales",
+      "description": "Bolitas de dulce de tamarindo con azúcar."
+    },
+    {
+      "dish": "Gollorías",
+      "state_or_section": "Dulces Regionales",
+      "description": "Dulce hecho a base de azúcar, canela y nueces."
+    },
+    {
+      "dish": "Lechecilla",
+      "state_or_section": "Dulces Regionales",
+      "description": "Especie de natilla ."
+    },
+    {
+      "dish": "Nicuatole",
+      "state_or_section": "Dulces Regionales",
+      "description": "Especie de gelatina hecha a base de maíz."
+    },
+    {
+      "dish": "Nieve de sorbete",
+      "state_or_section": "Dulces Regionales",
+      "description": "Nieve hecha con vainilla y huevo"
+    },
+    {
+      "dish": "Nieve de leche quemada",
+      "state_or_section": "Dulces Regionales",
+      "description": ""
+    },
+    {
+      "dish": "Nieve de pétalo de rosa",
+      "state_or_section": "Dulces Regionales",
+      "description": "Hecha a base de los pétalos de las rosas."
+    },
+    {
+      "dish": "Buñuelos",
+      "state_or_section": "Dulces Regionales",
+      "description": ""
+    },
+    {
+      "dish": "Costillas en pulque",
+      "state_or_section": "Puebla",
+      "description": ""
+    },
+    {
+      "dish": "Chalupas",
+      "state_or_section": "Puebla",
+      "description": "pequeñas tortillas de maíz fritas en manteca, sazonadas con sal y acompañadas de hebras de carne de res, cebolla y salsa roja o verde."
+    },
+    {
+      "dish": "Enchipotlado (Cholula)",
+      "state_or_section": "Puebla",
+      "description": "Guisado de tortillas rellenas cubiertas de salsa de chipotle ."
+    },
+    {
+      "dish": "Mojarra ( Cholula )",
+      "state_or_section": "Puebla",
+      "description": "Guisado con pescado."
+    },
+    {
+      "dish": "Cemitas",
+      "state_or_section": "Puebla",
+      "description": "Pan especial (Cemita) a base de manteca y como decoración lleva semillas de sésamo, relleno de milaneza , quesillo, papalo y chipotle ."
+    },
+    {
+      "dish": "Pelonas",
+      "state_or_section": "Puebla",
+      "description": "pan derivado de la masa de la torta se fríe en aceite, rellena de carne de res deshebrada acompañada con lechuga, queso, crema y frijoles."
+    },
+    {
+      "dish": "Pozolillo poblano",
+      "state_or_section": "Puebla",
+      "description": ""
+    },
+    {
+      "dish": "Chiles en nogada",
+      "state_or_section": "Puebla",
+      "description": ""
+    },
+    {
+      "dish": "Tinga poblana",
+      "state_or_section": "Puebla",
+      "description": ""
+    },
+    {
+      "dish": "Pipián poblano",
+      "state_or_section": "Puebla",
+      "description": ""
+    },
+    {
+      "dish": "Tacos árabes",
+      "state_or_section": "Puebla",
+      "description": ""
+    },
+    {
+      "dish": "Chanclas",
+      "state_or_section": "Puebla",
+      "description": ""
+    },
+    {
+      "dish": "Mole de caderas",
+      "state_or_section": "Puebla",
+      "description": ""
+    },
+    {
+      "dish": "Enmoladas",
+      "state_or_section": "Puebla",
+      "description": ""
+    },
+    {
+      "dish": "Enfrijoladas",
+      "state_or_section": "Puebla",
+      "description": ""
+    },
+    {
+      "dish": "Chapandongos",
+      "state_or_section": "Puebla",
+      "description": "Tortilla de maíz rellena de queso y capeada bañada en mole poblano"
+    },
+    {
+      "dish": "Licor de pasita",
+      "state_or_section": "Puebla",
+      "description": "Licor artesanal de uva pasa, servido en un vaso tequilero, o caballito, con un palillo en su interior con un trozo de queso y una uva pasa para contrarrestar el dulzor del licor."
+    },
+    {
+      "dish": "Borrachitos",
+      "state_or_section": "Puebla",
+      "description": "Son dulces hechos de harina, espolvoreados con mucha azúcar y con un relleno cremoso de sabores; los principales son limón (color verde), piña (color amarillo) y fresa (color rojo). El ingrediente que destaca es el licor, gracias a éste se le otorga el nombre de \"borrachitos\". También los hay de rompope , estos a diferencia de los otros llevan chispas de chocolate."
+    },
+    {
+      "dish": "Camotes",
+      "state_or_section": "Puebla",
+      "description": "Dulce elaborado a base del tubérculo, éste es cocido hasta formar una pasta, a la que se agrega sacarosa, colorante y saborizante artificial, entre los sabores se encuentran el de piña, fresa y limón."
+    },
+    {
+      "dish": "Tortitas de Santa Clara",
+      "state_or_section": "Puebla",
+      "description": "Es una galleta, la masa es elaborada de harina, agua, manteca a lo que se agrega un líquido a base de azúcar glas y bicarbonato, una vez obtenida la masa, se forman círculos de 6 cm de diámetro aproximadamente, se lleva a cocción. El relleno es una mezcla de puré de pepita con azúcar y leche."
+    },
+    {
+      "dish": "Jamoncillo",
+      "state_or_section": "Puebla",
+      "description": "Dulce de pepita con leche en forma de barra bicolor."
+    },
+    {
+      "dish": "Dulce cristalizado",
+      "state_or_section": "Puebla",
+      "description": "Básicamente son frutas sumergidas en agua y cal, por un día. Se añaden en almíbar de azúcar o piloncillo, esto para endulzarse y puedan conservarse en buen estado. Una vez cristalizada la superficie de las frutas se seca y endurece. La variedad va de higo, piña, chilacayote y calabaza."
+    },
+    {
+      "dish": "Limón relleno de coco",
+      "state_or_section": "Puebla",
+      "description": "El nombre es demasiado específico, trata de un dulce hecho con la cáscara del limón que es rellena con coco rallado."
+    },
+    {
+      "dish": "Palanqueta",
+      "state_or_section": "Puebla",
+      "description": "Este dulce en forma de barra es hecho con cacahuate y caramelo (mezcla de azúcar y agua), aunque las hay de membrillo que son de un color naranja pálido, otras se caramelizan con de pepita, semilla de sésamo, amaranto, semilla de girasol y también las hay combinadas."
+    },
+    {
+      "dish": "Alegría",
+      "state_or_section": "Puebla",
+      "description": "Este dulce, igual que la palanqueta, es en forma de barra o circular, hecha con amaranto y pasas."
+    },
+    {
+      "dish": "Molletes (dulce)",
+      "state_or_section": "Puebla",
+      "description": "A diferencia de los demás dulces, éste es menos conocido y se encuentra una vez al año, es el postre del \"Chile en Nogada\", cuya elaboración es en los meses de julio y agosto. Su forma es parecida a la del pan conocido como \"concha\", a diferencia, es un pan relleno de crema pastelera, bañado con una capa delgada de dulce de pepita de calabaza y mide unos 13 cm de diámetro y 5 en su parte más alta."
+    },
+    {
+      "dish": "Tamarindo",
+      "state_or_section": "Puebla",
+      "description": "Esta pulpa sirve para la elaboración de varios dulces, algunos comparten el mismo proceso, por ejemplo; la torta de tamarindo y el taco de tamarindo, la pulpa es hervida con otros ingredientes en cazo de cobre, se obtiene una masa brillosa y pegajosa, esta mezcla es puesta en hojas de papel celofán transparente, en caso de la torta su forma final será un círculo de 10 cm de diámetro aproximadamente, en el taco la mezcla es puesta a lo largo y se enrolla. Otro dulce que se hace del tamarindo es el tarugo; con tamarindo \"crudo\" se hacen bolas de distintos tamaños y son pasados por azúcar o chile, hasta quedar totalmente cubiertos."
+    },
+    {
+      "dish": "Dulces de leche",
+      "state_or_section": "Puebla",
+      "description": ""
+    },
+    {
+      "dish": "Dulces de coco",
+      "state_or_section": "Puebla",
+      "description": ""
+    },
+    {
+      "dish": "Enchiladas verdes",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Chilaquiles",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Cabrito adobado",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Pollo almendrado",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Mazmorra de elote",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Sopa de col",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Sopa queretana",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Enchiladas Queretanas",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Gorditas de Migajas",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Guajolotes",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Carnita de puerco",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Pacholas",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Pollo hortelano",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Montalayo",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Asadura",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Charamuscas",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Xoconostles",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Nopales rellenos",
+      "state_or_section": "Querétaro",
+      "description": "plato típico de la región de Peña de Bernal ; en realidad se sirve una variante grande del nopal rellena de un guisado hecho a base de nopales, carne molida y jitomate . Se asa en parrilla o en una plancha y se evita comer la bolsa por las espinas."
+    },
+    {
+      "dish": "Entomatadas",
+      "state_or_section": "Querétaro",
+      "description": ""
+    },
+    {
+      "dish": "Cherma estilo Quintana Roo",
+      "state_or_section": "Quintana Roo",
+      "description": ""
+    },
+    {
+      "dish": "Ceviche de caracol estilo Chetumal",
+      "state_or_section": "Quintana Roo",
+      "description": ""
+    },
+    {
+      "dish": "Tikinxic",
+      "state_or_section": "Quintana Roo",
+      "description": ""
+    },
+    {
+      "dish": "Pipián o oni sikil",
+      "state_or_section": "Quintana Roo",
+      "description": ""
+    },
+    {
+      "dish": "Chocolomo",
+      "state_or_section": "Quintana Roo",
+      "description": ""
+    },
+    {
+      "dish": "Tamales",
+      "state_or_section": "Quintana Roo",
+      "description": ""
+    },
+    {
+      "dish": "Empanadas",
+      "state_or_section": "Quintana Roo",
+      "description": ""
+    },
+    {
+      "dish": "Garnachas",
+      "state_or_section": "Quintana Roo",
+      "description": ""
+    },
+    {
+      "dish": "Mariscos",
+      "state_or_section": "Quintana Roo",
+      "description": ""
+    },
+    {
+      "dish": "Bocoles",
+      "state_or_section": "San Luis Potosí",
+      "description": "Gorditas de maíz con manteca de res o cerdo cocidas a la plancha para acompañar o rellenar de revoltillo verde, chorizo huasteco, frijoles negros."
+    },
+    {
+      "dish": "Tapataistle",
+      "state_or_section": "San Luis Potosí",
+      "description": "Tamal hervido y de grandes dimensiones, semejante al zacahuil."
+    },
+    {
+      "dish": "Tamales huastecos",
+      "state_or_section": "San Luis Potosí",
+      "description": "Tamales de masa de maíz, caldo de carne que servirá de relleno y manteca que son el doble de los normales, con relleno típico de salsas verde o roja con carnes de pollo o cerdo y se envuelven en hoja de plátano."
+    },
+    {
+      "dish": "Enchiladas potosinas/soledenses",
+      "state_or_section": "San Luis Potosí",
+      "description": "tortillas de masa de maíz pintada con chile cascabel rojas, rellenas de queso con salsa de jitomate y chile verde, dobladas y cocidas en comal o plancha, cocidas se sirven fritas en manteca de cerdo y se acompañan con guacamole, frijoles refritos, cueritos y cebolla picada."
+    },
+    {
+      "dish": "Pastel indio",
+      "state_or_section": "San Luis Potosí",
+      "description": "a base de tortillas, pollo y rajas."
+    },
+    {
+      "dish": "Tostadas borrachas",
+      "state_or_section": "San Luis Potosí",
+      "description": "tostada de maíz quebrado, con salsa roja de chile rojo de árbol cocido, frijoles enteros cocidos, nopales picados cocidos, cilantro y cebolla picados."
+    },
+    {
+      "dish": "Guiso borracho",
+      "state_or_section": "San Luis Potosí",
+      "description": "Variadas carnes, verduras y especias a base de pulque."
+    },
+    {
+      "dish": "Cabuches",
+      "state_or_section": "San Luis Potosí",
+      "description": "Es el botón de la flor de biznaga cocida o guisada."
+    },
+    {
+      "dish": "Zacahuil",
+      "state_or_section": "San Luis Potosí",
+      "description": "tamal de maíz (de aproximadamente 50 cm) la masa es quebrada que quiere decir que durante su proceso el maíz nixtamalizado queda parcialmente triturada con evidentes trozos pequeños de granos de maíz, se mezcla con manteca y caldo de carne de puerco y pollo."
+    },
+    {
+      "dish": "Gorditas",
+      "state_or_section": "San Luis Potosí",
+      "description": "Hechas a base de masa de maíz nixtamalizado y rellenas de diferentes guisos:rajas con queso, frijoles, moronga, chicharrón, mole, picadillo etc."
+    },
+    {
+      "dish": "Tacos potosinos",
+      "state_or_section": "San Luis Potosí",
+      "description": "Tortillas rebozadas una salsa líquida roja de chile cascabel, mirasol y ajo, fritas y rellenas con queso rallado fresco y cebolla, servidos con lechuga picada y una guarnición sancochada de papas y zanahorias cocidas y picadas."
+    },
+    {
+      "dish": "Flauta",
+      "state_or_section": "San Luis Potosí",
+      "description": "Tortillas doradas rellenas de frijoles, puré de papa o carne, servidas con cueritos, jitomate, crema, queso y cebolla."
+    },
+    {
+      "dish": "Xojol",
+      "state_or_section": "San Luis Potosí",
+      "description": "Maíz quebrado, manteca de cerdo canela, uva pasa y piloncillo envuelto en hoja de plátano y cocido a vapor."
+    },
+    {
+      "dish": "Enchiladas de Charola, De Severa V",
+      "state_or_section": "San Luis Potosí",
+      "description": "Tortillas de maíz pequeñas fritas con base de salsas de chile ancho y ajo o verde de tomatito y chile serrano guisadas carne de res cocida y deshebrada, queso fresco rallado y aros de cebolla cruda."
+    },
+    {
+      "dish": "Pollo asado al carbón - a las brasas- estilo Sinaloa .(Sinaloa)",
+      "state_or_section": "Sinaloa",
+      "description": ""
+    },
+    {
+      "dish": "Chilorio",
+      "state_or_section": "Sinaloa",
+      "description": ""
+    },
+    {
+      "dish": "Pescado zarandeado estilo Sinaloa",
+      "state_or_section": "Sinaloa",
+      "description": ""
+    },
+    {
+      "dish": "Ceviche de sierra estilo Sinaloa",
+      "state_or_section": "Sinaloa",
+      "description": ""
+    },
+    {
+      "dish": "Tamales sinaloenses",
+      "state_or_section": "Sinaloa",
+      "description": "puerco, res, piña, frijol y tortilla."
+    },
+    {
+      "dish": "Tamales tontos",
+      "state_or_section": "Sinaloa",
+      "description": "tamales únicamente de masa, sin carne u otro relleno."
+    },
+    {
+      "dish": "Tamales barbones",
+      "state_or_section": "Sinaloa",
+      "description": "tamales de camarón, típicos de Escuinapa , en donde la cabeza y las 'barbas' del camarón salen del tamal."
+    },
+    {
+      "dish": "Frijoles puercos",
+      "state_or_section": "Sinaloa",
+      "description": "frijoles refritos revueltos con chorizo , manteca de cerdo, chile y queso chihuahua o monterrey."
+    },
+    {
+      "dish": "Mochomos",
+      "state_or_section": "Sinaloa",
+      "description": "machaca frita o carne deshebrada frita con frijoles refritos."
+    },
+    {
+      "dish": "Tacos de Camarón",
+      "state_or_section": "Sinaloa",
+      "description": "taco (tortilla de harina o maíz) de camarones empanizados."
+    },
+    {
+      "dish": "Tacos de dorados de camarón",
+      "state_or_section": "Sinaloa",
+      "description": "Tortilla de maíz dorada con camarón seco por dentro, cubiertos por una salsa condimentada de tomate."
+    },
+    {
+      "dish": "Burritos",
+      "state_or_section": "Sinaloa",
+      "description": "taco de tortilla de harina."
+    },
+    {
+      "dish": "Tacos sin cuchara",
+      "state_or_section": "Sinaloa",
+      "description": "tacos fritos de machaca, servidos en un caldillo de chile y caldo de carne."
+    },
+    {
+      "dish": "Cahuamanta",
+      "state_or_section": "Sinaloa",
+      "description": ""
+    },
+    {
+      "dish": "Jamoncillo",
+      "state_or_section": "Sinaloa",
+      "description": "Dulce de leche y azúcar con nuez."
+    },
+    {
+      "dish": "Caldo de queso",
+      "state_or_section": "Sinaloa",
+      "description": "Caldo de pollo con papas cocidas con queso."
+    },
+    {
+      "dish": "Chimichanga",
+      "state_or_section": "Sinaloa",
+      "description": ""
+    },
+    {
+      "dish": "Enchiladas del suelo",
+      "state_or_section": "Sinaloa",
+      "description": "son enchiladas de chorizo, con queso ranchero encima. Al igual que los tacos sin cuchara, apenas tienen unos 50 años que se consumen en Sinaloa."
+    },
+    {
+      "dish": "Capirotada",
+      "state_or_section": "Sinaloa",
+      "description": "dulce estilo Sinaloa . Consiste en pan frito o tostado, remojado en miel de piloncillo , revuelto con queso ranchero, plátano machacado, ciruelas, pasas, nueces, guayaba y cacahuate. Tiene un color gris oscuro, un poco verdáceo."
+    },
+    {
+      "dish": "Estofado de caguama",
+      "state_or_section": "Sinaloa",
+      "description": "antes de la prohibición de la caza de la tortuga , este platillo se preparaba en los pueblos y ciudades de la costa sinaloense"
+    },
+    {
+      "dish": "Tacuarines, Corico o Biscochos",
+      "state_or_section": "Sinaloa",
+      "description": "Son rosquillas de harina de maíz. Tradicionales de Sinaloa."
+    },
+    {
+      "dish": "Pinturitas",
+      "state_or_section": "Sinaloa",
+      "description": "Son coricos en miniaturas que pueden ser de diferentes formas geométricas, se les dice así porque por lo general se le agrega vainilla o piloncillo a la masa y se pintan un poco más obscuro o simplemente por ser pequeñas; también puede agregársele canela."
+    },
+    {
+      "dish": "Caldillo Sinaloense",
+      "state_or_section": "Sinaloa",
+      "description": "Es la carne machaca en caldo con papas, tomate, chile y cebolla.Se le puede agregar un huevo mientras hierve el caldo; pero, es al gusto de cada persona."
+    },
+    {
+      "dish": "Coyotas",
+      "state_or_section": "Sinaloa",
+      "description": "Gorditas de harina de trigo en forma de empanada rellenas de piloncillo, cajeta o calabaza; originarias de Pericos , pueblo cercano a Culiacán ."
+    },
+    {
+      "dish": "Empanadas de maíz y trigo",
+      "state_or_section": "Sinaloa",
+      "description": "Con relleno de guayaba, calabaza, piloncillo o cajeta."
+    },
+    {
+      "dish": "Churpias",
+      "state_or_section": "Sinaloa",
+      "description": "galletas de cacahuate con vainilla."
+    },
+    {
+      "dish": "Tamales Nixcocos",
+      "state_or_section": "Sinaloa",
+      "description": "También llamados tamales de ceniza."
+    },
+    {
+      "dish": "Huevos con machaca",
+      "state_or_section": "Sinaloa",
+      "description": "También llamado Machacado con huevo. Aguachile : en realidad es una salsa muy picante hecha a base de serrano y piquín para servir camarones encurtidos. El récord se llevó hasta los 250 chiles."
+    },
+    {
+      "dish": "Pollo a la plaza",
+      "state_or_section": "Sinaloa",
+      "description": "Pollo servido con papa fritas, calabacitas,zanahoria, tomate y lechuga bañado con salsa picante."
+    },
+    {
+      "dish": "Asado",
+      "state_or_section": "Sinaloa",
+      "description": "carne y papa cortada en cubos sazonada con sal y pimienta y servidas con caldo de tomate y verdura picada. También llamado asado a la plaza en el sur de Sinaloa."
+    },
+    {
+      "dish": "Flauta",
+      "state_or_section": "Sinaloa",
+      "description": "Tortillas enrolladas fritas en aceite rellenas con papa, res o pollo"
+    },
+    {
+      "dish": "Tacos dorados",
+      "state_or_section": "Sinaloa",
+      "description": "Tortillas dobladas a la mitad fritas en aceite, similares a las flautas."
+    },
+    {
+      "dish": "Carne de puerco con chile colorado",
+      "state_or_section": "Sinaloa",
+      "description": ""
+    },
+    {
+      "dish": "Biscotelas",
+      "state_or_section": "Sinaloa",
+      "description": "Galletas miniaturas de harina de trigo típicas de los municipios de Salvador Alvarado y Mocorito ."
+    },
+    {
+      "dish": "Jamoncillo",
+      "state_or_section": "Sonora",
+      "description": "Dulce de leche y azúcar con nuez."
+    },
+    {
+      "dish": "Tortilla sobaquera",
+      "state_or_section": "Sonora",
+      "description": "Se hacen sin manteca, se hacen con sal, agua y harina de trigo."
+    },
+    {
+      "dish": "Burro percherón",
+      "state_or_section": "Sonora",
+      "description": "es un burrito gigante relleno de carne asada, pollo o cualquier tipo de carnes o guisados. (Sonora)"
+    },
+    {
+      "dish": "Hot dog de Sonora",
+      "state_or_section": "Sonora",
+      "description": ""
+    },
+    {
+      "dish": "Tamales de pitahaya",
+      "state_or_section": "Sonora",
+      "description": ""
+    },
+    {
+      "dish": "Yumare",
+      "state_or_section": "Sonora",
+      "description": ""
+    },
+    {
+      "dish": "Guacapoponi o macha",
+      "state_or_section": "Sonora",
+      "description": ""
+    },
+    {
+      "dish": "Burritos",
+      "state_or_section": "Sonora",
+      "description": "taco de tortilla de harina."
+    },
+    {
+      "dish": "Coyotas",
+      "state_or_section": "Sonora",
+      "description": "Es un pan a base de harina en forma circular con dos capas rellenas de piloncillo (panocha) y horneadas. Tradicional de Sonora."
+    },
+    {
+      "dish": "Cahuamanta",
+      "state_or_section": "Sonora",
+      "description": ""
+    },
+    {
+      "dish": "Chimichangas",
+      "state_or_section": "Sonora",
+      "description": "burritos con tortilla de harina sobaquera, rellena de pollo o carne de res cocida y deshebrada , luego fritas y servidas con lechuga, tomate, rabanito y salsa."
+    },
+    {
+      "dish": "Gallina Pinta",
+      "state_or_section": "Sonora",
+      "description": "Es un platillo de la gastronomía mayo, consiste en un caldo de frijol y maíz (nixtamal)añadiéndole carne, costillas de puerco o cola de res, además sazonado con chile verde. Generalmente se adiciona con chile de árbol o piquín."
+    },
+    {
+      "dish": "Jamonciollo",
+      "state_or_section": "Sonora",
+      "description": "Dulce de leche"
+    },
+    {
+      "dish": "Guacabaqui",
+      "state_or_section": "Sonora",
+      "description": "Es un platillo tradicional de la etnia Yaqui, consiste en un platillo cocido con garbanzo y carne ya sea de res, puerco o venado, elotes en trozos, calabacitas, zanahorias, papas, repollo, acelgas, además se sazona con chiles de la región como el de árbol."
+    },
+    {
+      "dish": "Frijoles meneados",
+      "state_or_section": "Sonora",
+      "description": "Es una de las comidas que los sonorenses más consumen, ya sea de plato principal o de acompañante, comienza con freír chorizo en la manteca, se ralla queso por separado, se fríe el chile colorado en la mantequilla; se muelen perfectamente los frijoles; al frijol se le incorporan todos los ingredientes y se le deja freír hasta que los quesos se fundan."
+    },
+    {
+      "dish": "Caldillo",
+      "state_or_section": "Sonora",
+      "description": "Caldo de machaca y huevo"
+    },
+    {
+      "dish": "Huevos con chorizo",
+      "state_or_section": "Sonora",
+      "description": ""
+    },
+    {
+      "dish": "Tacos de carne asada",
+      "state_or_section": "Sonora",
+      "description": ""
+    },
+    {
+      "dish": "Tacos de hongo",
+      "state_or_section": "Sonora",
+      "description": ""
+    },
+    {
+      "dish": "Menudo sonorense",
+      "state_or_section": "Sonora",
+      "description": ""
+    },
+    {
+      "dish": "Calabacitas con camarón",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Platanitos rellenos de carne o queso",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Arroz con mariscos",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Calabacitas con puerco",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Calabacitas con flor de calabaza y elote",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Sopa de chaya",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Uliche",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Carne salada con chaya y elote",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Frijol con puerco",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Pollo en chirmol",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Pijije en pipian",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Longaniza enjamonada",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Butifarra",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Estofado de pavo",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Robalo a la tabasqueña",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Pigua (langostino) al mojo de ajo",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Camarones entomatados",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Caldo de camarón con calabaza",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Tortitas de camarón en verde",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Pejelagarto asado",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Pejelagarto en chirmol",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Ensalada de Pejelagarto",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Barbacoa de pescado",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Pescado \"sudado\" en hoja momo",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Ostiones ahumados al \"tapesco\"",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Cangrejo en chirmol",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Tortilla rellena de mariscos",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Mariscos al chiltepín",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Chanchamito",
+      "state_or_section": "Tabasco",
+      "description": "Tamal redondo y de pequeño tamaño, parecido al mixiote emvuelto y amarrado en hoja de plátano."
+    },
+    {
+      "dish": "Manea",
+      "state_or_section": "Tabasco",
+      "description": "Tamal grande elaborado de masa, con cilantro, perejíl, tomate, cebolla, y con carne de cerdo, o pollo deshebrada."
+    },
+    {
+      "dish": "De \"caminito\"",
+      "state_or_section": "Tabasco",
+      "description": "Elaborado de masa colada, llamado así porque a lo largo del tamal lleva carne guisada formando un \"caminito\"."
+    },
+    {
+      "dish": "Potze",
+      "state_or_section": "Tabasco",
+      "description": "Es un tamal de carne de cerdo o res con hoja de momo o \"hierba santa\", envuelto en hoja de to, parecida a la del plátano, pero más resistente."
+    },
+    {
+      "dish": "Frijol con puerco",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Frijol con chaya",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "De frijol con momo",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "De chipilín",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "De masa colada con carne de pavo o cerdo",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "De pejelagarto",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "De pescado",
+      "state_or_section": "Tabasco",
+      "description": ""
+    },
+    {
+      "dish": "Asado de puerco",
+      "state_or_section": "Tamaulipas",
+      "description": "Plato típico de la zona centro del estado."
+    },
+    {
+      "dish": "Bocoles",
+      "state_or_section": "Tamaulipas",
+      "description": "Tortas de masa de maíz, batidas con manteca de res y sal, cocidas en comal. Ideales para servir como botana."
+    },
+    {
+      "dish": "Carne a la tampiqueña",
+      "state_or_section": "Tamaulipas",
+      "description": "Pedazos de filete de res, acompañadas con entomatadas verdes, frijoles refritos, queso panela y guacamole"
+    },
+    {
+      "dish": "Chorizo con masa",
+      "state_or_section": "Tamaulipas",
+      "description": "Chorizo de puerco preparado con masa de maíz."
+    },
+    {
+      "dish": "Chorizo de cerdo",
+      "state_or_section": "Tamaulipas",
+      "description": "Platillo elaborado con carne de cerdo curtida en vinagre, y chile de color. Se embute en tripas."
+    },
+    {
+      "dish": "Enchiladas tultecas",
+      "state_or_section": "Tamaulipas",
+      "description": "Propias de la región de Tula. La tortilla es roja, elaborada con masa de maíz, chile cascabel, chile de color o pasilla y especias. Se rellenan con un guiso a base de chorizo, papa, zanahoria, lechuga, tomate, cebolla, queso y chiles piquín previamente envinagrados."
+    },
+    {
+      "dish": "Zacahuil",
+      "state_or_section": "Tamaulipas",
+      "description": "Propias de la Huasteca. Tamal gigante hecho con masa quabrada, pepita, puerco, pollo y res."
+    },
+    {
+      "dish": "Gorditas de horno o padilla de Hidalgo",
+      "state_or_section": "Tamaulipas",
+      "description": "Hechas con masa de maíz batida y queso. Se endulzan con piloncillo."
+    },
+    {
+      "dish": "Jaibas rellenas",
+      "state_or_section": "Tamaulipas",
+      "description": "Plato típico de Tampico ."
+    },
+    {
+      "dish": "Guayin de Huevo",
+      "state_or_section": "Tamaulipas",
+      "description": "Plato típico de Matamoros"
+    },
+    {
+      "dish": "Lonches",
+      "state_or_section": "Tamaulipas",
+      "description": "Plato típico de Rio Bravo"
+    },
+    {
+      "dish": "Mezcal de maguey",
+      "state_or_section": "Tamaulipas",
+      "description": "Propio de la región de San Carlos. Se obtiene de la cocción de la cabeza del maguey, y posteriormente se destila."
+    },
+    {
+      "dish": "Pansaje o padilla",
+      "state_or_section": "Tamaulipas",
+      "description": "Guisado a base de carne de res en trozos con papa, chile morrón y chile verde, preparado como si fuera barbacoa."
+    },
+    {
+      "dish": "Pemoles",
+      "state_or_section": "Tamaulipas",
+      "description": "Típicas de la zona centro del estado, son rosquillas de harina de maíz elaboradas con manteca vegetal, café, azúcar y huevo."
+    },
+    {
+      "dish": "Tortas de la barda",
+      "state_or_section": "Tamaulipas",
+      "description": "Platillo típico de Tampico, hecho a base de bolillo relleno de frijoles, queso de puerco, queso amarillo, jamón, salsa de chicharrón, tomate, cebolla, aguacate, chorizo, queso fresco y carne deshebrada de res."
+    },
+    {
+      "dish": "Pan con helado",
+      "state_or_section": "Tlaxcala",
+      "description": ""
+    },
+    {
+      "dish": "Tacos de canasta",
+      "state_or_section": "Tlaxcala",
+      "description": ""
+    },
+    {
+      "dish": "Mole prieto",
+      "state_or_section": "Tlaxcala",
+      "description": ""
+    },
+    {
+      "dish": "Gusanos de maguey",
+      "state_or_section": "Tlaxcala",
+      "description": ""
+    },
+    {
+      "dish": "Pollo a la Tocatlán",
+      "state_or_section": "Tlaxcala",
+      "description": ""
+    },
+    {
+      "dish": "Mixiotes",
+      "state_or_section": "Tlaxcala",
+      "description": ""
+    },
+    {
+      "dish": "Pulque",
+      "state_or_section": "Tlaxcala",
+      "description": ""
+    },
+    {
+      "dish": "Muéganos",
+      "state_or_section": "Tlaxcala",
+      "description": ""
+    },
+    {
+      "dish": "Bebida de cacao",
+      "state_or_section": "Tlaxcala",
+      "description": ""
+    },
+    {
+      "dish": "Pipián de venas verdes",
+      "state_or_section": "Tlaxcala",
+      "description": ""
+    },
+    {
+      "dish": "Caldillo de pecado seco",
+      "state_or_section": "Tlaxcala",
+      "description": ""
+    },
+    {
+      "dish": "Picadillo de Calabaza",
+      "state_or_section": "Tlaxcala",
+      "description": ""
+    },
+    {
+      "dish": "Mole de Matuma",
+      "state_or_section": "Tlaxcala",
+      "description": ""
+    },
+    {
+      "dish": "Tortillas de maíz rosa",
+      "state_or_section": "Tlaxcala",
+      "description": ""
+    },
+    {
+      "dish": "Huaxmole de chito",
+      "state_or_section": "Tlaxcala",
+      "description": ""
+    },
+    {
+      "dish": "Sopa de charales",
+      "state_or_section": "Tlaxcala",
+      "description": ""
+    },
+    {
+      "dish": "Memelas",
+      "state_or_section": "Veracruz",
+      "description": ""
+    },
+    {
+      "dish": "Picaditas",
+      "state_or_section": "Veracruz",
+      "description": ""
+    },
+    {
+      "dish": "garnachas",
+      "state_or_section": "Veracruz",
+      "description": ""
+    },
+    {
+      "dish": "Jaiba en Chilpachole",
+      "state_or_section": "Veracruz",
+      "description": ""
+    },
+    {
+      "dish": "Huachinango a la veracruzana",
+      "state_or_section": "Veracruz",
+      "description": ""
+    },
+    {
+      "dish": "Arroz blanco con plátanos machos",
+      "state_or_section": "Veracruz",
+      "description": ""
+    },
+    {
+      "dish": "Gorditas de frijol y panela",
+      "state_or_section": "Veracruz",
+      "description": "tradicional en las Llanuras de Sotavento."
+    },
+    {
+      "dish": "Zacahuil",
+      "state_or_section": "Veracruz",
+      "description": "tradicional en La Huasteca."
+    },
+    {
+      "dish": "Carne Chinameca o Mono",
+      "state_or_section": "Veracruz",
+      "description": "tradicional en Los Tuxtlas; carne de cerdo ahumada"
+    },
+    {
+      "dish": "Tapixte de Pollo",
+      "state_or_section": "Veracruz",
+      "description": "Tradicional de la Cuenca del Papaloapan"
+    },
+    {
+      "dish": "Pilte de Robalo",
+      "state_or_section": "Veracruz",
+      "description": "Tradicional de la Cuenca del Papaloapan"
+    },
+    {
+      "dish": "Tamales de Elote",
+      "state_or_section": "Veracruz",
+      "description": "Tradicional de la Cuenca del Papaloapan"
+    },
+    {
+      "dish": "Arroz a la tumbada",
+      "state_or_section": "Veracruz",
+      "description": "Tradicional de Alvarado ."
+    },
+    {
+      "dish": "Tamal Cabecita de Perro",
+      "state_or_section": "Veracruz",
+      "description": "Tamales de anís con coco, tradicionales de Tlacotalpan ."
+    },
+    {
+      "dish": "Casamiento",
+      "state_or_section": "Veracruz",
+      "description": "Arroz con frijoles refritos. Tradicional en el centro de Veracruz."
+    },
+    {
+      "dish": "Longaniza Ahumada",
+      "state_or_section": "Veracruz",
+      "description": ""
+    },
+    {
+      "dish": "Pescado a la Tachogobi",
+      "state_or_section": "Veracruz",
+      "description": ""
+    },
+    {
+      "dish": "Tegogolos",
+      "state_or_section": "Veracruz",
+      "description": "Tradicionales de Catemaco ."
+    },
+    {
+      "dish": "Chileatole",
+      "state_or_section": "Veracruz",
+      "description": "Tradicional de Orizaba ."
+    },
+    {
+      "dish": "Torito en salsa verde",
+      "state_or_section": "Veracruz",
+      "description": ""
+    },
+    {
+      "dish": "Empanadas de queso",
+      "state_or_section": "Veracruz",
+      "description": ""
+    },
+    {
+      "dish": "Coctel de camarón",
+      "state_or_section": "Veracruz",
+      "description": ""
+    },
+    {
+      "dish": "Cochinita pibil",
+      "state_or_section": "Yucatán",
+      "description": "carne de cerdo deshebrada , marinada achiote (en una salsa de varias especias)."
+    },
+    {
+      "dish": "Codzitos",
+      "state_or_section": "Yucatán",
+      "description": "tacos fritos bañados en caldo de jitomate."
+    },
+    {
+      "dish": "Empanadas",
+      "state_or_section": "Yucatán",
+      "description": "Está compuesto de masa frita puede ser de cerdo, pollo, queso etc."
+    },
+    {
+      "dish": "Escabeche oriental de pavo",
+      "state_or_section": "Yucatán",
+      "description": ""
+    },
+    {
+      "dish": "Huevos motuleños",
+      "state_or_section": "Yucatán",
+      "description": "huevos fritos en una tortilla con salsa de jitomate, chorizo, chícharos y chile."
+    },
+    {
+      "dish": "Joloches",
+      "state_or_section": "Yucatán",
+      "description": ""
+    },
+    {
+      "dish": "Kibi",
+      "state_or_section": "Yucatán",
+      "description": "variante yucateca del guiso árabe traído por inmigrantes libaneses."
+    },
+    {
+      "dish": "Lomitos entomatados de Valladolid",
+      "state_or_section": "Yucatán",
+      "description": ""
+    },
+    {
+      "dish": "Mondongo kabic",
+      "state_or_section": "Yucatán",
+      "description": "panza de res con salsa de jitomate y axiote .."
+    },
+    {
+      "dish": "Morcilla",
+      "state_or_section": "Yucatán",
+      "description": "Embutido de carne relleno con sangre y especias (es un variante al estilo yucateco)."
+    },
+    {
+      "dish": "Mukbil Pollo",
+      "state_or_section": "Yucatán",
+      "description": "Comida del día de muertos ."
+    },
+    {
+      "dish": "Panuchos",
+      "state_or_section": "Yucatán",
+      "description": "pequeñas tortillas fritas, rellenas de frijoles y cubiertas de carne y verdura"
+    },
+    {
+      "dish": "Papadzules",
+      "state_or_section": "Yucatán",
+      "description": "tacos de huevo cocido bañados en salsa de pepita."
+    },
+    {
+      "dish": "Poc-chuc",
+      "state_or_section": "Yucatán",
+      "description": "Cecina de puerco con cebolla morada sobre caldo de frijol."
+    },
+    {
+      "dish": "Queso relleno",
+      "state_or_section": "Yucatán",
+      "description": "queso de bola relleno de carne molida normalmente acompañado de salsa de tomate y sopa de col"
+    },
+    {
+      "dish": "Relleno blanco de pavo",
+      "state_or_section": "Yucatán",
+      "description": ""
+    },
+    {
+      "dish": "Relleno negro",
+      "state_or_section": "Yucatán",
+      "description": "pavo en salsa o caldo de una mezcla de cenizas de diferentes chiles (plato muy antiguo que se utilizaba en los funerales y que ahora es muy representativo de Yucatán)"
+    },
+    {
+      "dish": "Salbutes",
+      "state_or_section": "Yucatán",
+      "description": "pequeñas tortillas fritas, cubiertas de carne y verdura."
+    },
+    {
+      "dish": "Sopa de lima",
+      "state_or_section": "Yucatán",
+      "description": "consomé ligero de pollo con jugo de lima y pedazos de tortilla frita."
+    },
+    {
+      "dish": "Tsi'ik de venado",
+      "state_or_section": "Yucatán",
+      "description": "carne de venado o res con jugo de naranja agria."
+    },
+    {
+      "dish": "Frijol con puerco",
+      "state_or_section": "Yucatán",
+      "description": "Se trata de un plato sencillo de carne de cerdo troceada, la cual se guisa en un caldo de frijol negro, epazote, especias(finas hierbas)."
+    },
+    {
+      "dish": "Brazo de reina",
+      "state_or_section": "Yucatán",
+      "description": "Dzotobichay o Brazo de Reina, es una variedad de tamal yucateco hecho con masa de maíz, hojas de chaya, rellenos de huevos cocidos y pepitas de calabazas molidas."
+    },
+    {
+      "dish": "Aguas frescas de manzanilla",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Atoles del estado de Zacatecas",
+      "state_or_section": "Zacatecas",
+      "description": "además de los sabores nacionales (se hace mucho el atole \"natural\" y el de guayaba), se hacen otros propios de la región, sobresale el atole de aguamiel, el atole de biznaga, el atole de chile ancho (típico de San Pedro Piedra Gorda y pueblos aledaños, se suele acompañar de panela o queso ranchero) y el atole de pinole."
+    },
+    {
+      "dish": "Bacalao a la jerezana",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Barbacoa zacatecana",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Bola sultana de carne (especie de albóndiga que puede servirse con pacholes)",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Brujitas",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Buñuelos espolvoreados",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Cajeta almendrada",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Calabacitas con leche",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Capirotada, (muy típica en Cuaresma)",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Capullos de flor de biznaga guisados",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Cecina seca",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Chilayo de puerco",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Chiles ahogados",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Chocolate de metate",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Cocadas jerezanas",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Colonche o nochol ( bebida de fermentado de tuna roja)",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Conejo con mole de pinole",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Conejo en mostaza",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Dulce de biznaga",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Dulce de calabaza cristalizada",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Dulce de chilacayote",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Dulce de elote",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Enchiladas mineras",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Enchiladas rojas (en esta región se hacen mayormente con chile colorado molido)",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Filete de ternera",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Figadete jerezano",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Frijoles charros",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Frijoles de la olla",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Gambuches o cabuches",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Gorditas de arriero",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Huachales",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Hígado de res con papas fritas",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Huevos con machaca",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Jamoncillo de leche",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Lengua en naranja o lengua a la zacatecana",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Lengua de res en salsa de jitomate y vino de jerez",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Lentejas estofadas",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Mole de frijoles",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Mole de rancho",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Moronga, o morcilla",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Natilla zacatecana, o natilla estilo Zacatecas",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Nopalitos con carne de puerco y chile colorado",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Pan de dátil",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Pipián zacatecano",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Pollo alcaparrado",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Polvorones de cacahuate",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Puerco a la parrilla o parrilla de puerco",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Queso menonita de Miguel Auza",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Queso panela",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Rollo de guayaba",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Salsa \"brava\"",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Salsa de cacahuate",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Sopa de lechuga",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Tamal de almendras",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Tamal de cazuela zacatecano (es distinto del que se hace en Tabasco y Veracruz)",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Tamales de la Bufa (carne de cerdo, cominos y salsa de chile ancho)",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Tapado de pollo",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Taquitos de papel (especialmente típicos en Sombrerete )",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Tejuino nochistlense",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Torrejas con miel de maguey",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Tortas de pierna y/o lomo",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Tortas Malpaso",
+      "state_or_section": "Zacatecas",
+      "description": ""
+    },
+    {
+      "dish": "Cemita ( Puebla )",
+      "state_or_section": "De todo México",
+      "description": "como una torta con ingredientes cocidos y pápalo."
+    },
+    {
+      "dish": "Chalupa",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Chamoy",
+      "state_or_section": "De todo México",
+      "description": "Tipo de salsa agridulce y picante. También se encuentra en forma seca como polvo."
+    },
+    {
+      "dish": "Chanclas ( Puebla )",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Chicharrón en salsa",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Chilaquiles",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Chilpanchole ( Costa Pacífica, Chiapas )",
+      "state_or_section": "De todo México",
+      "description": "Caldo hecho de jaibas, cangrejos o camarones."
+    },
+    {
+      "dish": "Choriqueso",
+      "state_or_section": "De todo México",
+      "description": "Combinación de chorizo y queso, popular como relleno de tortas y quesadillas. Cuando se le añade tocino se denomina choriqueto ."
+    },
+    {
+      "dish": "Doblada",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Dobladitas ( Salina Cruz )",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Enchiladas potosinas y zacatecanas, sinaloenses, baja californianas, etc",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Esquite ( Ciudad de México, Puebla )",
+      "state_or_section": "De todo México",
+      "description": "Granos de maíz cocidos con epazote , pueden llevar mayonesa y queso rayado, limón y chile en polvo."
+    },
+    {
+      "dish": "Filiqueso",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Garnacha ( Veracruz )",
+      "state_or_section": "De todo México",
+      "description": "Tortilla frita (sin llegar a endurecerse completamente) con carne de res deshebrada , papas martajadas y salsa picante de chile de árbol."
+    },
+    {
+      "dish": "Guajolota ( Ciudad de México, Puebla )",
+      "state_or_section": "De todo México",
+      "description": "Torta o bolillo relleno de tamal acompañado de atole, champurrado o arroz con leche. Es típico para el desayuno en las calles de la Ciudad de México y Puebla, sobre todo en estaciones del metro y paraderos de autobuses."
+    },
+    {
+      "dish": "Huauzontle",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Huevos a la oaxaqueña ( Oaxaca )",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Huevos al albañil",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Huevos motuleños",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Huevos rancheros",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Huevos veracruzanos",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Huitlacoche",
+      "state_or_section": "De todo México",
+      "description": "Hongo del maíz, considerado alta cocina y apreciado en los Estados Unidos y Europa . En tiempos prehispánicos solo los emperadores o los sumos sacerdotes tenían el derecho de comerlo."
+    },
+    {
+      "dish": "Jaiba ( Cholula, Costa pacífica )",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Machitos",
+      "state_or_section": "De todo México",
+      "description": "Tripas de carnero fritas y sazonadas. En algunos casos puede estar rellena de las vísceras del animal."
+    },
+    {
+      "dish": "Mixiote ( Hidalgo )",
+      "state_or_section": "De todo México",
+      "description": "Carne de carnero sazonada con salsa y envuelta en bulbos de cáscara de hoja de maguey."
+    },
+    {
+      "dish": "Mole azul",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Mole negro ( Oaxaca )",
+      "state_or_section": "De todo México",
+      "description": "Mezcla de condimentos y chiles."
+    },
+    {
+      "dish": "Moronga o cuello de carbonero",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Nopalitos",
+      "state_or_section": "De todo México",
+      "description": "Penca de nopal frita, guisada, empanizada o asada."
+    },
+    {
+      "dish": "Nopales con huevo",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Nopalitos navegantes",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Panuchos ( Salina Cruz )",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Pescadito frito",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Quesadilla",
+      "state_or_section": "De todo México",
+      "description": "Tortilla de maíz o de harina de trigo, doblada por la mitad y rellena de queso o algún guisado."
+    },
+    {
+      "dish": "Quesadilla de hongos",
+      "state_or_section": "De todo México",
+      "description": "Tortilla de Maíz doblada por mitad y rellena con hongos cocidos."
+    },
+    {
+      "dish": "Semita ( Ciudad de México )",
+      "state_or_section": "De todo México",
+      "description": "Tipo de pan dulce."
+    },
+    {
+      "dish": "Sopa Xóchitl ( Oaxaca )",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Taco árabe ( Puebla )",
+      "state_or_section": "De todo México",
+      "description": "Similar a un taco oriental, pero con tortilla de trigo."
+    },
+    {
+      "dish": "Taco dorado o flauta",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Torta",
+      "state_or_section": "De todo México",
+      "description": "bolillo cortado por mitad relleno de jamón, queso, chorizo, huevo, etc."
+    },
+    {
+      "dish": "Sope",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Zacahuil ( Huasteca hidalguense y potosina )",
+      "state_or_section": "De todo México",
+      "description": ""
+    },
+    {
+      "dish": "Chongos zamoranos",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": "Dulce de cuajada de Leche en almíbar."
+    },
+    {
+      "dish": "Chocolate de metate",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Cajeta de elote",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Calabaza en tacha",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Camote en tacha",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Capirotada de leche",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Dulce de jícama",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": "Especie de cocada pero con jícama"
+    },
+    {
+      "dish": "Dulce de frijol",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": "dulce elaborado con frijol sin sal, pasas, almendras y vino tinto de Jerez"
+    },
+    {
+      "dish": "Huevos reales",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Fresas cristalizadas",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Fresas congeladas con azúcar y crema",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Cocadas de comal",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Cocada de horno",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Jamoncillo",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Morelianas",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": "Dulce típico moreliano. Son como obleas pero de cajeta."
+    },
+    {
+      "dish": "Capulines en conserva",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Guayabate",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Rollo de guayaba y piñón",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Rollo de guayaba y nuez",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Tamales de zarzamora",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": "Dulces, propios de la zona Purépecha ( Carapan )."
+    },
+    {
+      "dish": "Vaciados (higo, limón, naranja, nuez, leche quemada, café, fresa)",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Rueda de nuez",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Camote de limón",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Chuchitos de leche, camote, coco",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Camote de chile",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Camote de naranja",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Limones rellenos",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Higos en almíbar",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Nieve de pasta de Pátzcuaro",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Nieve de frutas y paletas de Tocumbo",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Atole de tamarindo",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Atole de elote seco de Tingambato",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Atole de nanche de Taretan",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Atole de pinole de Tzintzuntzan",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Licores de fruta de Ucareo",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    },
+    {
+      "dish": "Charanda de Uruapan (aguardiente de caña)",
+      "state_or_section": "Dulces regionales, postres y bebidas",
+      "description": ""
+    }
+  ],
+  "meta": {
+    "title": "Platillos típicos de México por estado - Free Download",
+    "description": "Platillos y bebidas tradicionales de la gastronomía mexicana, organizados por estado, con breve descripción cuando la fuente la incluye. Contains 858 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Platillos típicos de México por estado | ListBase",
+    "seo_description": "Download Platillos típicos de México por estado — 858 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 858 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Platillos_mexicanos"
+    ]
+  }
+}

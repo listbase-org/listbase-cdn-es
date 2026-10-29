@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-29T02:18:29.126Z",
-  "total_datasets": 504,
-  "total_records": 423626,
+  "generated": "2026-10-29T02:18:31.466Z",
+  "total_datasets": 505,
+  "total_records": 424484,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "geography",
@@ -1226,6 +1226,30 @@
         "xlsx": {
           "name": "es-zaragoza-bancos_ES.xlsx",
           "size": 7085
+        }
+      }
+    },
+    {
+      "id": "es-platillos-mexicanos-por-estado",
+      "name": "Platillos típicos de México por estado",
+      "category": "food",
+      "record_count": 858,
+      "columns": [
+        "dish",
+        "state_or_section",
+        "description"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Platillos_mexicanos",
+      "updated": "2026-10",
+      "size": 139935,
+      "files": {
+        "csv": {
+          "name": "es-platillos-mexicanos-por-estado_ES.csv",
+          "size": 73192
+        },
+        "xlsx": {
+          "name": "es-platillos-mexicanos-por-estado_ES.xlsx",
+          "size": 41899
         }
       }
     },
