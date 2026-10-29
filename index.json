@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-29T02:18:26.642Z",
-  "total_datasets": 503,
-  "total_records": 423490,
+  "generated": "2026-10-29T02:18:29.126Z",
+  "total_datasets": 504,
+  "total_records": 423626,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tech",
@@ -15284,6 +15284,31 @@
         "xlsx": {
           "name": "es-estadios-de-futbol_ES.xlsx",
           "size": 18882
+        }
+      }
+    },
+    {
+      "id": "es-mexico-entrenadores-campeones",
+      "name": "Entrenadores campeones de la Primera División de México",
+      "category": "sports",
+      "record_count": 136,
+      "columns": [
+        "season",
+        "coach_nationality",
+        "coach",
+        "champion_club"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Entrenadores_campeones_de_la_Primera_División_de_México",
+      "updated": "2026-10",
+      "size": 22526,
+      "files": {
+        "csv": {
+          "name": "es-mexico-entrenadores-campeones_ES.csv",
+          "size": 7526
+        },
+        "xlsx": {
+          "name": "es-mexico-entrenadores-campeones_ES.xlsx",
+          "size": 11291
         }
       }
     },

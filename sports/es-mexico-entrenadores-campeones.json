@@ -1,0 +1,862 @@
+{
+  "id": "es-mexico-entrenadores-campeones",
+  "name": "Entrenadores campeones de la Primera División de México",
+  "title": "Entrenadores campeones de la Primera División de México",
+  "description": "Técnicos que han ganado el campeonato de la Primera División de México (Liga MX) por temporada, con su nacionalidad y club campeón.",
+  "category": "sports",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Entrenadores_campeones_de_la_Primera_División_de_México",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Entrenadores_campeones_de_la_Primera_División_de_México",
+  "updated": "2026-10",
+  "record_count": 136,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "string"
+    },
+    {
+      "key": "coach_nationality",
+      "label": "Coach Nationality",
+      "type": "string"
+    },
+    {
+      "key": "coach",
+      "label": "Coach",
+      "type": "string"
+    },
+    {
+      "key": "champion_club",
+      "label": "Champion Club",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": "1922–23",
+      "coach_nationality": "Escocia",
+      "coach": "Gerald Brown",
+      "champion_club": "Asturias"
+    },
+    {
+      "season": "1923–24",
+      "coach_nationality": "España",
+      "coach": "Francisco Arias",
+      "champion_club": "España"
+    },
+    {
+      "season": "1924–25",
+      "coach_nationality": "México",
+      "coach": "Rafael Garza Gutiérrez",
+      "champion_club": "América"
+    },
+    {
+      "season": "1925–26",
+      "coach_nationality": "México",
+      "coach": "Rafael Garza Gutiérrez",
+      "champion_club": "América"
+    },
+    {
+      "season": "1926–27",
+      "coach_nationality": "Inglaterra",
+      "coach": "Percy Clifford",
+      "champion_club": "América"
+    },
+    {
+      "season": "1927–28",
+      "coach_nationality": "Inglaterra",
+      "coach": "Percy Clifford",
+      "champion_club": "América"
+    },
+    {
+      "season": "1928–29",
+      "coach_nationality": "España",
+      "coach": "Servando Vargas",
+      "champion_club": "Marte"
+    },
+    {
+      "season": "1929–30",
+      "coach_nationality": "Hungría",
+      "coach": "Jesza Poszony",
+      "champion_club": "España"
+    },
+    {
+      "season": "1930–31",
+      "coach_nationality": "Suspendido",
+      "coach": "Suspendido",
+      "champion_club": "Suspendido"
+    },
+    {
+      "season": "1931–32",
+      "coach_nationality": "España",
+      "coach": "Miguel Tovar Mariscal",
+      "champion_club": "Atlante"
+    },
+    {
+      "season": "1932–33",
+      "coach_nationality": "Inglaterra",
+      "coach": "Alfred C. Crowle",
+      "champion_club": "Necaxa"
+    },
+    {
+      "season": "1933–34",
+      "coach_nationality": "Hungría",
+      "coach": "Jesza Poszony",
+      "champion_club": "España"
+    },
+    {
+      "season": "1934–35",
+      "coach_nationality": "Inglaterra",
+      "coach": "Alfred C. Crowle",
+      "champion_club": "Necaxa"
+    },
+    {
+      "season": "1935–36",
+      "coach_nationality": "Hungría",
+      "coach": "Jesza Poszony",
+      "champion_club": "España"
+    },
+    {
+      "season": "1936–37",
+      "coach_nationality": "Austria",
+      "coach": "Ernesto Pauler",
+      "champion_club": "Necaxa"
+    },
+    {
+      "season": "1937–38",
+      "coach_nationality": "Austria",
+      "coach": "Ernesto Pauler",
+      "champion_club": "Necaxa"
+    },
+    {
+      "season": "1938–39",
+      "coach_nationality": "España",
+      "coach": "José Ramón Ballina",
+      "champion_club": "Asturias"
+    },
+    {
+      "season": "1939–40",
+      "coach_nationality": "España",
+      "coach": "Ramón Torralba",
+      "champion_club": "España"
+    },
+    {
+      "season": "1940–41",
+      "coach_nationality": "Hungría",
+      "coach": "Luis Grocz",
+      "champion_club": "Atlante"
+    },
+    {
+      "season": "1941–42",
+      "coach_nationality": "España",
+      "coach": "Nemesio Tamayo",
+      "champion_club": "España"
+    },
+    {
+      "season": "1942–43",
+      "coach_nationality": "Argentina",
+      "coach": "José Gómez",
+      "champion_club": "Marte"
+    },
+    {
+      "season": "1943–44",
+      "coach_nationality": "Austria",
+      "coach": "Ernesto Pauler",
+      "champion_club": "Asturias"
+    },
+    {
+      "season": "1944–45",
+      "coach_nationality": "Costa Rica",
+      "coach": "Rodolfo Butch Muñoz",
+      "champion_club": "España"
+    },
+    {
+      "season": "1945–46",
+      "coach_nationality": "Argentina",
+      "coach": "Enrique Palomini",
+      "champion_club": "Veracruz"
+    },
+    {
+      "season": "1946–47",
+      "coach_nationality": "Hungría",
+      "coach": "Luis Grocz",
+      "champion_club": "Atlante"
+    },
+    {
+      "season": "1947–48",
+      "coach_nationality": "Argentina",
+      "coach": "José María Casullo",
+      "champion_club": "León"
+    },
+    {
+      "season": "1948–49",
+      "coach_nationality": "Argentina",
+      "coach": "José María Casullo",
+      "champion_club": "León"
+    },
+    {
+      "season": "1949–50",
+      "coach_nationality": "España",
+      "coach": "Juan Luque de Serrallonga",
+      "champion_club": "Veracruz"
+    },
+    {
+      "season": "1950–51",
+      "coach_nationality": "Argentina",
+      "coach": "Eduardo Valdatti",
+      "champion_club": "Atlas"
+    },
+    {
+      "season": "1951–52",
+      "coach_nationality": "España",
+      "coach": "Antonio López Herranz",
+      "champion_club": "León"
+    },
+    {
+      "season": "1952–53",
+      "coach_nationality": "España",
+      "coach": "Joaquín Urquiaga",
+      "champion_club": "Tampico"
+    },
+    {
+      "season": "1953–54",
+      "coach_nationality": "México",
+      "coach": "Ignacio Trelles",
+      "champion_club": "Marte"
+    },
+    {
+      "season": "1954–55",
+      "coach_nationality": "México",
+      "coach": "Ignacio Trelles",
+      "champion_club": "Zacatepec"
+    },
+    {
+      "season": "1955–56",
+      "coach_nationality": "España",
+      "coach": "Antonio López Herranz",
+      "champion_club": "León"
+    },
+    {
+      "season": "1956–57",
+      "coach_nationality": "Uruguay",
+      "coach": "Donaldo Ross",
+      "champion_club": "Guadalajara"
+    },
+    {
+      "season": "1957–58",
+      "coach_nationality": "México",
+      "coach": "Ignacio Trelles",
+      "champion_club": "Zacatepec"
+    },
+    {
+      "season": "1958–59",
+      "coach_nationality": "Hungría",
+      "coach": "Árpád Fekete",
+      "champion_club": "Guadalajara"
+    },
+    {
+      "season": "1959–60",
+      "coach_nationality": "Hungría",
+      "coach": "Árpád Fekete",
+      "champion_club": "Guadalajara"
+    },
+    {
+      "season": "1960–61",
+      "coach_nationality": "México",
+      "coach": "Javier De la Torre",
+      "champion_club": "Guadalajara"
+    },
+    {
+      "season": "1961–62",
+      "coach_nationality": "México",
+      "coach": "Javier De la Torre",
+      "champion_club": "Guadalajara"
+    },
+    {
+      "season": "1962–63",
+      "coach_nationality": "Hungría",
+      "coach": "Árpád Fekete",
+      "champion_club": "Oro"
+    },
+    {
+      "season": "1963–64",
+      "coach_nationality": "México",
+      "coach": "Javier De la Torre",
+      "champion_club": "Guadalajara"
+    },
+    {
+      "season": "1964–65",
+      "coach_nationality": "México",
+      "coach": "Javier De la Torre",
+      "champion_club": "Guadalajara"
+    },
+    {
+      "season": "1965–66",
+      "coach_nationality": "Uruguay",
+      "coach": "Roberto Scarone ​",
+      "champion_club": "América"
+    },
+    {
+      "season": "1966–67",
+      "coach_nationality": "México",
+      "coach": "Ignacio Trelles ​",
+      "champion_club": "Toluca"
+    },
+    {
+      "season": "1967–68",
+      "coach_nationality": "México",
+      "coach": "Ignacio Trelles",
+      "champion_club": "Toluca"
+    },
+    {
+      "season": "1968–69",
+      "coach_nationality": "México",
+      "coach": "Raúl Cárdenas",
+      "champion_club": "Cruz Azul"
+    },
+    {
+      "season": "1969–70",
+      "coach_nationality": "México",
+      "coach": "Javier De la Torre",
+      "champion_club": "Guadalajara"
+    },
+    {
+      "season": "México 1970",
+      "coach_nationality": "México",
+      "coach": "Raúl Cárdenas ​",
+      "champion_club": "Cruz Azul"
+    },
+    {
+      "season": "1970–71",
+      "coach_nationality": "México",
+      "coach": "José Antonio Roca ​",
+      "champion_club": "América"
+    },
+    {
+      "season": "1971–72",
+      "coach_nationality": "México",
+      "coach": "Raúl Cárdenas",
+      "champion_club": "Cruz Azul"
+    },
+    {
+      "season": "1972–73",
+      "coach_nationality": "México",
+      "coach": "Raúl Cárdenas ​",
+      "champion_club": "Cruz Azul"
+    },
+    {
+      "season": "1973–74",
+      "coach_nationality": "México",
+      "coach": "Raúl Cárdenas",
+      "champion_club": "Cruz Azul"
+    },
+    {
+      "season": "1974–75",
+      "coach_nationality": "Uruguay",
+      "coach": "Ricardo de León Aroztegui",
+      "champion_club": "Toluca"
+    },
+    {
+      "season": "1975–76",
+      "coach_nationality": "México",
+      "coach": "Raúl Cárdenas",
+      "champion_club": "América"
+    },
+    {
+      "season": "1976–77",
+      "coach_nationality": "Hungría",
+      "coach": "Jorge Marik",
+      "champion_club": "UNAM"
+    },
+    {
+      "season": "1977–78",
+      "coach_nationality": "Uruguay",
+      "coach": "Carlos Miloc",
+      "champion_club": "Tigres UANL"
+    },
+    {
+      "season": "1978–79",
+      "coach_nationality": "México",
+      "coach": "Ignacio Trelles",
+      "champion_club": "Cruz Azul"
+    },
+    {
+      "season": "1979–80",
+      "coach_nationality": "México",
+      "coach": "Ignacio Trelles",
+      "champion_club": "Cruz Azul"
+    },
+    {
+      "season": "1980–81",
+      "coach_nationality": "Yugoslavia",
+      "coach": "Bora Milutinovic",
+      "champion_club": "UNAM"
+    },
+    {
+      "season": "1981–82",
+      "coach_nationality": "Uruguay",
+      "coach": "Carlos Miloc",
+      "champion_club": "Tigres UANL"
+    },
+    {
+      "season": "1982–83",
+      "coach_nationality": "México",
+      "coach": "Manuel Lapuente",
+      "champion_club": "Puebla"
+    },
+    {
+      "season": "1983–84",
+      "coach_nationality": "Chile",
+      "coach": "Carlos Reinoso",
+      "champion_club": "América"
+    },
+    {
+      "season": "1984–85",
+      "coach_nationality": "Argentina",
+      "coach": "Miguel Ángel López ​",
+      "champion_club": "América"
+    },
+    {
+      "season": "PRODE 1985",
+      "coach_nationality": "Argentina",
+      "coach": "Miguel Ángel López",
+      "champion_club": "América"
+    },
+    {
+      "season": "México 1986",
+      "coach_nationality": "México",
+      "coach": "Francisco Avilán",
+      "champion_club": "Monterrey"
+    },
+    {
+      "season": "1986–87",
+      "coach_nationality": "México",
+      "coach": "Alberto Guerra",
+      "champion_club": "Guadalajara"
+    },
+    {
+      "season": "1987–88",
+      "coach_nationality": "Brasil",
+      "coach": "Jorge Vieira ​",
+      "champion_club": "América"
+    },
+    {
+      "season": "1988–89",
+      "coach_nationality": "Brasil",
+      "coach": "Jorge Vieira",
+      "champion_club": "América"
+    },
+    {
+      "season": "1989–90",
+      "coach_nationality": "México",
+      "coach": "Manuel Lapuente",
+      "champion_club": "Puebla"
+    },
+    {
+      "season": "1990–91",
+      "coach_nationality": "México",
+      "coach": "Miguel Mejía Barón",
+      "champion_club": "UNAM"
+    },
+    {
+      "season": "1991–92",
+      "coach_nationality": "México",
+      "coach": "Víctor Manuel Vucetich",
+      "champion_club": "León"
+    },
+    {
+      "season": "1992–93",
+      "coach_nationality": "Argentina",
+      "coach": "Ricardo La Volpe",
+      "champion_club": "Atlante"
+    },
+    {
+      "season": "1993–94",
+      "coach_nationality": "México",
+      "coach": "Víctor Manuel Vucetich",
+      "champion_club": "Tecos UAG"
+    },
+    {
+      "season": "1994–95",
+      "coach_nationality": "México",
+      "coach": "Manuel Lapuente",
+      "champion_club": "Necaxa"
+    },
+    {
+      "season": "1995–96",
+      "coach_nationality": "México",
+      "coach": "Manuel Lapuente",
+      "champion_club": "Necaxa"
+    },
+    {
+      "season": "Invierno 1996",
+      "coach_nationality": "México",
+      "coach": "Alfredo Tena",
+      "champion_club": "Santos Laguna"
+    },
+    {
+      "season": "Verano 1997",
+      "coach_nationality": "Brasil",
+      "coach": "Ricardo Ferretti",
+      "champion_club": "Guadalajara"
+    },
+    {
+      "season": "Invierno 1997",
+      "coach_nationality": "México",
+      "coach": "Luis Fernando Tena",
+      "champion_club": "Cruz Azul"
+    },
+    {
+      "season": "Verano 1998",
+      "coach_nationality": "México",
+      "coach": "Enrique Meza",
+      "champion_club": "Toluca"
+    },
+    {
+      "season": "Invierno 1998",
+      "coach_nationality": "México",
+      "coach": "Raúl Arias",
+      "champion_club": "Necaxa"
+    },
+    {
+      "season": "Verano 1999",
+      "coach_nationality": "México",
+      "coach": "Enrique Meza",
+      "champion_club": "Toluca"
+    },
+    {
+      "season": "Invierno 1999",
+      "coach_nationality": "México",
+      "coach": "Javier Aguirre",
+      "champion_club": "Pachuca"
+    },
+    {
+      "season": "Verano 2000",
+      "coach_nationality": "México",
+      "coach": "Enrique Meza",
+      "champion_club": "Toluca"
+    },
+    {
+      "season": "Invierno 2000",
+      "coach_nationality": "México",
+      "coach": "Luis Fernando Tena",
+      "champion_club": "Morelia"
+    },
+    {
+      "season": "Verano 2001",
+      "coach_nationality": "México",
+      "coach": "Fernando Quirarte",
+      "champion_club": "Santos Laguna"
+    },
+    {
+      "season": "Invierno 2001",
+      "coach_nationality": "México",
+      "coach": "Alfredo Tena",
+      "champion_club": "Pachuca"
+    },
+    {
+      "season": "Verano 2002",
+      "coach_nationality": "México",
+      "coach": "Manuel Lapuente",
+      "champion_club": "América"
+    },
+    {
+      "season": "Apertura 2002",
+      "coach_nationality": "Argentina",
+      "coach": "Alberto Jorge ​",
+      "champion_club": "Toluca"
+    },
+    {
+      "season": "Clausura 2003",
+      "coach_nationality": "Argentina",
+      "coach": "Daniel Passarella",
+      "champion_club": "Monterrey"
+    },
+    {
+      "season": "Apertura 2003",
+      "coach_nationality": "México",
+      "coach": "Víctor Manuel Vucetich",
+      "champion_club": "Pachuca"
+    },
+    {
+      "season": "Clausura 2004",
+      "coach_nationality": "México",
+      "coach": "Hugo Sánchez",
+      "champion_club": "UNAM"
+    },
+    {
+      "season": "Apertura 2004",
+      "coach_nationality": "México",
+      "coach": "Hugo Sánchez",
+      "champion_club": "UNAM"
+    },
+    {
+      "season": "Clausura 2005",
+      "coach_nationality": "México",
+      "coach": "Mario Carrillo",
+      "champion_club": "América"
+    },
+    {
+      "season": "Apertura 2005",
+      "coach_nationality": "Argentina",
+      "coach": "Américo Gallego",
+      "champion_club": "Toluca"
+    },
+    {
+      "season": "Clausura 2006",
+      "coach_nationality": "México",
+      "coach": "José Luis Trejo",
+      "champion_club": "Pachuca"
+    },
+    {
+      "season": "Apertura 2006",
+      "coach_nationality": "México",
+      "coach": "José Manuel de la Torre",
+      "champion_club": "Guadalajara"
+    },
+    {
+      "season": "Clausura 2007",
+      "coach_nationality": "México",
+      "coach": "Enrique Meza",
+      "champion_club": "Pachuca"
+    },
+    {
+      "season": "Apertura 2007",
+      "coach_nationality": "México",
+      "coach": "José Guadalupe Cruz",
+      "champion_club": "Atlante"
+    },
+    {
+      "season": "Clausura 2008",
+      "coach_nationality": "México",
+      "coach": "Daniel Guzmán",
+      "champion_club": "Santos Laguna"
+    },
+    {
+      "season": "Apertura 2008",
+      "coach_nationality": "México",
+      "coach": "José Manuel de la Torre",
+      "champion_club": "Toluca"
+    },
+    {
+      "season": "Clausura 2009",
+      "coach_nationality": "Brasil",
+      "coach": "Ricardo Ferretti",
+      "champion_club": "UNAM"
+    },
+    {
+      "season": "Apertura 2009",
+      "coach_nationality": "México",
+      "coach": "Víctor Manuel Vucetich",
+      "champion_club": "Monterrey"
+    },
+    {
+      "season": "Bicentenario 2010",
+      "coach_nationality": "México",
+      "coach": "José Manuel de la Torre",
+      "champion_club": "Toluca"
+    },
+    {
+      "season": "Apertura 2010",
+      "coach_nationality": "México",
+      "coach": "Víctor Manuel Vucetich",
+      "champion_club": "Monterrey"
+    },
+    {
+      "season": "Clausura 2011",
+      "coach_nationality": "México",
+      "coach": "Guillermo Vázquez",
+      "champion_club": "UNAM"
+    },
+    {
+      "season": "Apertura 2011",
+      "coach_nationality": "Brasil",
+      "coach": "Ricardo Ferretti",
+      "champion_club": "Tigres UANL"
+    },
+    {
+      "season": "Clausura 2012",
+      "coach_nationality": "México",
+      "coach": "Benjamín Galindo",
+      "champion_club": "Santos Laguna"
+    },
+    {
+      "season": "Apertura 2012",
+      "coach_nationality": "Argentina",
+      "coach": "Antonio Mohamed",
+      "champion_club": "Tijuana"
+    },
+    {
+      "season": "Clausura 2013",
+      "coach_nationality": "México",
+      "coach": "Miguel Herrera",
+      "champion_club": "América"
+    },
+    {
+      "season": "Apertura 2013",
+      "coach_nationality": "Uruguay",
+      "coach": "Gustavo Matosas",
+      "champion_club": "León"
+    },
+    {
+      "season": "Clausura 2014",
+      "coach_nationality": "Uruguay",
+      "coach": "Gustavo Matosas",
+      "champion_club": "León"
+    },
+    {
+      "season": "Apertura 2014",
+      "coach_nationality": "Argentina",
+      "coach": "Antonio Mohamed",
+      "champion_club": "América"
+    },
+    {
+      "season": "Clausura 2015",
+      "coach_nationality": "Portugal",
+      "coach": "Pedro Caixinha",
+      "champion_club": "Santos Laguna"
+    },
+    {
+      "season": "Apertura 2015",
+      "coach_nationality": "Brasil",
+      "coach": "Ricardo Ferretti",
+      "champion_club": "Tigres UANL"
+    },
+    {
+      "season": "Clausura 2016",
+      "coach_nationality": "Uruguay",
+      "coach": "Diego Alonso",
+      "champion_club": "Pachuca"
+    },
+    {
+      "season": "Apertura 2016",
+      "coach_nationality": "Brasil",
+      "coach": "Ricardo Ferretti",
+      "champion_club": "Tigres UANL"
+    },
+    {
+      "season": "Clausura 2017",
+      "coach_nationality": "Argentina",
+      "coach": "Matías Almeyda",
+      "champion_club": "Guadalajara"
+    },
+    {
+      "season": "Apertura 2017",
+      "coach_nationality": "Brasil",
+      "coach": "Ricardo Ferretti",
+      "champion_club": "Tigres UANL"
+    },
+    {
+      "season": "Clausura 2018",
+      "coach_nationality": "Uruguay",
+      "coach": "Robert Dante Siboldi",
+      "champion_club": "Santos Laguna"
+    },
+    {
+      "season": "Apertura 2018",
+      "coach_nationality": "México",
+      "coach": "Miguel Herrera",
+      "champion_club": "América"
+    },
+    {
+      "season": "Clausura 2019",
+      "coach_nationality": "Brasil",
+      "coach": "Ricardo Ferretti",
+      "champion_club": "Tigres UANL"
+    },
+    {
+      "season": "Apertura 2019",
+      "coach_nationality": "Argentina",
+      "coach": "Antonio Mohamed ​",
+      "champion_club": "Monterrey"
+    },
+    {
+      "season": "Clausura 2020",
+      "coach_nationality": "Torneo no finalizado por la Pandemia de COVID-19",
+      "coach": "Torneo no finalizado por la Pandemia de COVID-19",
+      "champion_club": "Torneo no finalizado por la Pandemia de COVID-19"
+    },
+    {
+      "season": "Apertura 2020",
+      "coach_nationality": "México",
+      "coach": "Ignacio Ambriz",
+      "champion_club": "León"
+    },
+    {
+      "season": "Clausura 2021",
+      "coach_nationality": "Perú",
+      "coach": "Juan Reynoso",
+      "champion_club": "Cruz Azul"
+    },
+    {
+      "season": "Apertura 2021",
+      "coach_nationality": "Argentina",
+      "coach": "Diego Cocca",
+      "champion_club": "Atlas"
+    },
+    {
+      "season": "Clausura 2022",
+      "coach_nationality": "Argentina",
+      "coach": "Diego Cocca",
+      "champion_club": "Atlas"
+    },
+    {
+      "season": "Apertura 2022",
+      "coach_nationality": "Uruguay",
+      "coach": "Guillermo Almada",
+      "champion_club": "Pachuca"
+    },
+    {
+      "season": "Clausura 2023",
+      "coach_nationality": "Uruguay",
+      "coach": "Robert Dante Siboldi ​",
+      "champion_club": "Tigres UANL"
+    },
+    {
+      "season": "Apertura 2023",
+      "coach_nationality": "Brasil",
+      "coach": "André Jardine",
+      "champion_club": "América"
+    },
+    {
+      "season": "Clausura 2024",
+      "coach_nationality": "Brasil",
+      "coach": "André Jardine",
+      "champion_club": "América"
+    },
+    {
+      "season": "Apertura 2024",
+      "coach_nationality": "Brasil",
+      "coach": "André Jardine",
+      "champion_club": "América"
+    },
+    {
+      "season": "Clausura 2025",
+      "coach_nationality": "Argentina",
+      "coach": "Antonio Mohamed",
+      "champion_club": "Toluca"
+    },
+    {
+      "season": "Apertura 2025",
+      "coach_nationality": "Argentina",
+      "coach": "Antonio Mohamed",
+      "champion_club": "Toluca"
+    },
+    {
+      "season": "Clausura 2026",
+      "coach_nationality": "México",
+      "coach": "Joel Huiqui ​",
+      "champion_club": "Cruz Azul"
+    }
+  ],
+  "meta": {
+    "title": "Entrenadores campeones de la Primera División de México - Free Download",
+    "description": "Técnicos que han ganado el campeonato de la Primera División de México (Liga MX) por temporada, con su nacionalidad y club campeón. Contains 136 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Entrenadores campeones de la Primera División de México | ListBase",
+    "seo_description": "Download Entrenadores campeones de la Primera División de México — 136 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 136 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Entrenadores_campeones_de_la_Primera_División_de_México"
+    ]
+  }
+}
