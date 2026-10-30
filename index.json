@@ -1,12 +1,12 @@
 {
   "lang": "es",
-  "generated": "2026-10-30T02:31:28.128Z",
-  "total_datasets": 509,
-  "total_records": 424810,
+  "generated": "2026-10-30T02:31:35.452Z",
+  "total_datasets": 510,
+  "total_records": 424897,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -151,6 +151,34 @@
         "xlsx": {
           "name": "es-alimentos-protegidos-galicia_ES.xlsx",
           "size": 7973
+        }
+      }
+    },
+    {
+      "id": "es-ganaderias-bravas-peru",
+      "name": "Ganaderías de toros bravos en Perú",
+      "category": "agriculture",
+      "record_count": 87,
+      "columns": [
+        "ganaderia",
+        "fecha_creacion",
+        "fundador",
+        "lugar_origen",
+        "situacion_actual",
+        "encaste_origen",
+        "seccion"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Ganaderías_bravas_en_Perú",
+      "updated": "2026-10",
+      "size": 22093,
+      "files": {
+        "csv": {
+          "name": "es-ganaderias-bravas-peru_ES.csv",
+          "size": 5567
+        },
+        "xlsx": {
+          "name": "es-ganaderias-bravas-peru_ES.xlsx",
+          "size": 9956
         }
       }
     },

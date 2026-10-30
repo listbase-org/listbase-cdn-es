@@ -1,0 +1,844 @@
+{
+  "id": "es-ganaderias-bravas-peru",
+  "name": "Ganaderías de toros bravos en Perú",
+  "title": "Ganaderías de toros bravos en Perú",
+  "description": "Ganaderías de lidia del Perú con fecha de creación, fundador, lugar de origen, situación actual y encaste de origen.",
+  "category": "agriculture",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Ganaderías_bravas_en_Perú",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Ganaderías_bravas_en_Perú",
+  "updated": "2026-10",
+  "record_count": 87,
+  "columns": [
+    {
+      "key": "ganaderia",
+      "label": "Ganaderia",
+      "type": "string"
+    },
+    {
+      "key": "fecha_creacion",
+      "label": "Fecha Creacion",
+      "type": "string"
+    },
+    {
+      "key": "fundador",
+      "label": "Fundador",
+      "type": "string"
+    },
+    {
+      "key": "lugar_origen",
+      "label": "Lugar Origen",
+      "type": "string"
+    },
+    {
+      "key": "situacion_actual",
+      "label": "Situacion Actual",
+      "type": "string"
+    },
+    {
+      "key": "encaste_origen",
+      "label": "Encaste Origen",
+      "type": "string"
+    },
+    {
+      "key": "seccion",
+      "label": "Seccion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ganaderia": "Cieneguilla",
+      "fecha_creacion": "Siglo XIX",
+      "fundador": "",
+      "lugar_origen": "Lima",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "Navarra",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "El Olivar",
+      "fecha_creacion": "Siglo XIX",
+      "fundador": "Manuel Celso Vásquez",
+      "lugar_origen": "Carabayllo, Lima",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "Miura, Duque de Veragua",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "Rinconada de Mala",
+      "fecha_creacion": "Siglo XIX",
+      "fundador": "José de Asín y Castañeda",
+      "lugar_origen": "Mala, Lima",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "Miura",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "Caballero",
+      "fecha_creacion": "Siglo XX",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "Cosac",
+      "fecha_creacion": "Siglo XX",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "Hornillo",
+      "fecha_creacion": "Siglo XX",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "Laran",
+      "fecha_creacion": "Siglo XX",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "San José de la Molina",
+      "fecha_creacion": "Siglo XX",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "Carlos Gallese",
+      "fecha_creacion": "16 de noviembre de 1952",
+      "fundador": "Carlos Gallese Cantuarias",
+      "lugar_origen": "Mala, Lima",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "Chuquizongo",
+      "fecha_creacion": "Siglo XX",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "El Pedregal",
+      "fecha_creacion": "Siglo XX",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "El Pinar",
+      "fecha_creacion": "Siglo XX",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "Huando",
+      "fecha_creacion": "Siglo XX",
+      "fundador": "",
+      "lugar_origen": "Huaral, Lima",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "Jaral del Monte",
+      "fecha_creacion": "Siglo XX",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "Jesús",
+      "fecha_creacion": "Siglo XX",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "Las Salinas",
+      "fecha_creacion": "Siglo XX",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "San Fernando",
+      "fecha_creacion": "Siglo XX",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "Yencala",
+      "fecha_creacion": "Siglo XX",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "Extinta",
+      "encaste_origen": "",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "La Pauca",
+      "fecha_creacion": "1949",
+      "fundador": "Rafael Puga Estrada",
+      "lugar_origen": "Cajamarca",
+      "situacion_actual": "Extinta en 1972",
+      "encaste_origen": "",
+      "seccion": "Ganaderías extintas"
+    },
+    {
+      "ganaderia": "Apóstol Santiago",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Aucallama",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Camponuevo",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Chancay Baños",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Checayani",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "Huaral, Lima",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Corazón de Oro",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "El Olivar",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "El Rocío",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Huacraruco",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Juan Manuel Roca Rey ​",
+      "fecha_creacion": "1987",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "La Centinela",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "La Laguna",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "La Huaca",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "La Viña",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "Lambayeque",
+      "situacion_actual": "Lambayeque",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "La Viña (Paiján)",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "Lambayeque",
+      "situacion_actual": "Lambayeque",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Montecarmelo",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Montegrande",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Paiján",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "Lambayeque",
+      "situacion_actual": "Lambayeque",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Roberto Puga",
+      "fecha_creacion": "1981",
+      "fundador": "Roberto Puga Castro",
+      "lugar_origen": "Camponuevo, Lima",
+      "situacion_actual": "Camponuevo, Lima",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Salagual",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Salamanca",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "San Pedro",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "San Simón",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "San Pedro",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Santa Rosa de Lima",
+      "fecha_creacion": "2004",
+      "fundador": "Juan Manuel Roca Rey",
+      "lugar_origen": "Huaura, Lima",
+      "situacion_actual": "Huaura, Lima",
+      "encaste_origen": "Domecq",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Vista Alegre",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Alfonso Ramos",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Asurza",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Benito Álvarez",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Campobravo",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Carahuay",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Colorado",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "El Sauco",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Gilberto Canales",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Iván Rodríguez",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Jaral del Colorado",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "La Achira",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "La Huerta",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Los Bustamante",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Los Tres Cascabeles",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Luis Barrenechea",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "María Estela",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Moyococha",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Pampa Encantada",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Pampa Huanico",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Parra",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Piedra Azul",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Pinar del Río",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "Cajamarca",
+      "situacion_actual": "Cajamarca",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Pinar del Río",
+      "fecha_creacion": "",
+      "fundador": "Arequipa",
+      "lugar_origen": "Arequipa",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Punta Hermosa",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Rancho Verde",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Real Sevilla",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Rosario Álvarez",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Salvador Sánchez",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "San Alejandro",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "San Carlos",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "San Isidro",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "Cajamarca",
+      "situacion_actual": "Cajamarca",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "San Isidro",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "Ayacucho",
+      "situacion_actual": "Ayacucho",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "San Isidro",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "Arequipa",
+      "situacion_actual": "Arequipa",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "San Sebastián",
+      "fecha_creacion": "1992",
+      "fundador": "Róbinson Ayala Gride",
+      "lugar_origen": "Chacas, Áncash",
+      "situacion_actual": "Carhuaz, Áncash",
+      "encaste_origen": "Domecq",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Zaragoza",
+      "fecha_creacion": "2018",
+      "fundador": "Omar Zaragoza Guzmán",
+      "lugar_origen": "Chacas, Áncash",
+      "situacion_actual": "Chacas, Áncash",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Santa María Magdalena",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Santa Mónica",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Santa Úrsula",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Señor de Mayo",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Valle Bravo",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Villa Hermosa",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    },
+    {
+      "ganaderia": "Viña del Sur",
+      "fecha_creacion": "",
+      "fundador": "",
+      "lugar_origen": "",
+      "situacion_actual": "",
+      "encaste_origen": "",
+      "seccion": "Ganaderías vigentes"
+    }
+  ],
+  "meta": {
+    "title": "Ganaderías de toros bravos en Perú - Free Download",
+    "description": "Ganaderías de lidia del Perú con fecha de creación, fundador, lugar de origen, situación actual y encaste de origen. Contains 87 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ganaderías de toros bravos en Perú | ListBase",
+    "seo_description": "Download Ganaderías de toros bravos en Perú — 87 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 87 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Ganaderías_bravas_en_Perú"
+    ]
+  }
+}
