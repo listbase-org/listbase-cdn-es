@@ -1,0 +1,296 @@
+{
+  "id": "es-fotogramas-de-plata-mejor-pelicula",
+  "name": "Fotogramas de Plata a la mejor película española",
+  "title": "Fotogramas de Plata a la mejor película española",
+  "description": "Películas ganadoras del Fotogramas de Plata a la mejor película española por año, con su director.",
+  "category": "entertainment",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Fotogramas_de_Plata_a_la_mejor_película_española",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Fotogramas_de_Plata_a_la_mejor_película_española",
+  "updated": "2026-10",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "anio",
+      "label": "Anio",
+      "type": "number"
+    },
+    {
+      "key": "pelicula",
+      "label": "Pelicula",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "anio": 2025,
+      "pelicula": "Los domingos",
+      "director": "Alauda Ruiz de Azúa"
+    },
+    {
+      "anio": 2024,
+      "pelicula": "Segundo premio",
+      "director": "Isaki Lacuesta y Pol Rodríguez"
+    },
+    {
+      "anio": 2023,
+      "pelicula": "Cerrar los ojos",
+      "director": "Víctor Erice"
+    },
+    {
+      "anio": 2022,
+      "pelicula": "As bestas",
+      "director": "Rodrigo Sorogoyen"
+    },
+    {
+      "anio": 2021,
+      "pelicula": "Espíritu sagrado",
+      "director": "Chema García Ibarra"
+    },
+    {
+      "anio": 2020,
+      "pelicula": "Las niñas",
+      "director": "Pilar Palomero"
+    },
+    {
+      "anio": 2019,
+      "pelicula": "Dolor y gloria",
+      "director": "Pedro Almodóvar"
+    },
+    {
+      "anio": 2018,
+      "pelicula": "Entre dos aguas",
+      "director": "Isaki Lacuesta"
+    },
+    {
+      "anio": 2017,
+      "pelicula": "Estiu 1993",
+      "director": "Carla Simón"
+    },
+    {
+      "anio": 2016,
+      "pelicula": "Tarde para la ira",
+      "director": "Raúl Arévalo"
+    },
+    {
+      "anio": 2015,
+      "pelicula": "Truman",
+      "director": "Cesc Gay"
+    },
+    {
+      "anio": 2014,
+      "pelicula": "La isla mínima",
+      "director": "Alberto Rodríguez Librero"
+    },
+    {
+      "anio": 2013,
+      "pelicula": "La herida",
+      "director": "Fernando Franco García"
+    },
+    {
+      "anio": 2012,
+      "pelicula": "Blancanieves",
+      "director": "Pablo Berger"
+    },
+    {
+      "anio": 2011,
+      "pelicula": "No habrá paz para los malvados",
+      "director": "Enrique Urbizu"
+    },
+    {
+      "anio": 2010,
+      "pelicula": "Pan negro (Pa negre)",
+      "director": "Agustí Villaronga"
+    },
+    {
+      "anio": 2009,
+      "pelicula": "Celda 211",
+      "director": "Daniel Monzón"
+    },
+    {
+      "anio": 2008,
+      "pelicula": "Tiro en la cabeza",
+      "director": "Jaime Rosales"
+    },
+    {
+      "anio": 2007,
+      "pelicula": "La soledad",
+      "director": "Jaime Rosales"
+    },
+    {
+      "anio": 2006,
+      "pelicula": "Volver",
+      "director": "Pedro Almodóvar"
+    },
+    {
+      "anio": 2006,
+      "pelicula": "El laberinto del fauno",
+      "director": "Guillermo del Toro"
+    },
+    {
+      "anio": 2005,
+      "pelicula": "La vida secreta de las palabras",
+      "director": "Isabel Coixet"
+    },
+    {
+      "anio": 2004,
+      "pelicula": "Mar adentro",
+      "director": "Alejandro Amenábar"
+    },
+    {
+      "anio": 2003,
+      "pelicula": "Te doy mis ojos",
+      "director": "Icíar Bollaín"
+    },
+    {
+      "anio": 2002,
+      "pelicula": "Los lunes al sol",
+      "director": "Fernando León de Aranoa"
+    },
+    {
+      "anio": 2001,
+      "pelicula": "En construcción",
+      "director": "José Luis Guerín"
+    },
+    {
+      "anio": 2000,
+      "pelicula": "Leo",
+      "director": "José Luis Borau"
+    },
+    {
+      "anio": 2000,
+      "pelicula": "La comunidad",
+      "director": "Álex de la Iglesia"
+    },
+    {
+      "anio": 1999,
+      "pelicula": "Solas",
+      "director": "Benito Zambrano"
+    },
+    {
+      "anio": 1998,
+      "pelicula": "Barrio",
+      "director": "Fernando León de Aranoa"
+    },
+    {
+      "anio": 1997,
+      "pelicula": "La buena estrella",
+      "director": "Ricardo Franco"
+    },
+    {
+      "anio": 1996,
+      "pelicula": "Cosas que nunca te dije",
+      "director": "Isabel Coixet"
+    },
+    {
+      "anio": 1995,
+      "pelicula": "Nadie hablará de nosotras cuando hayamos muerto",
+      "director": "Agustín Díaz Yanes"
+    },
+    {
+      "anio": 1994,
+      "pelicula": "Días contados",
+      "director": "Imanol Uribe"
+    },
+    {
+      "anio": 1993,
+      "pelicula": "Madregilda",
+      "director": "Francisco Regueiro"
+    },
+    {
+      "anio": 1992,
+      "pelicula": "Belle époque",
+      "director": "Fernando Trueba"
+    },
+    {
+      "anio": 1991,
+      "pelicula": "Amantes",
+      "director": "Vicente Aranda"
+    },
+    {
+      "anio": 1990,
+      "pelicula": "¡Átame!",
+      "director": "Pedro Almodóvar"
+    },
+    {
+      "anio": 1990,
+      "pelicula": "Innisfree",
+      "director": "José Luis Guerín"
+    },
+    {
+      "anio": 1990,
+      "pelicula": "Boom Boom",
+      "director": "Rosa Vergés"
+    },
+    {
+      "anio": 1989,
+      "pelicula": "El niño de la luna",
+      "director": "Agustí Villaronga"
+    },
+    {
+      "anio": 1988,
+      "pelicula": "Remando al viento",
+      "director": "Gonzalo Suárez"
+    },
+    {
+      "anio": 1987,
+      "pelicula": "La ley del deseo",
+      "director": "Pedro Almodóvar"
+    },
+    {
+      "anio": 1987,
+      "pelicula": "El Lute: camina o revienta",
+      "director": "Vicente Aranda"
+    },
+    {
+      "anio": 1986,
+      "pelicula": "La mitad del cielo",
+      "director": "Manuel Gutiérrez Aragón"
+    },
+    {
+      "anio": 1985,
+      "pelicula": "Padre nuestro",
+      "director": "Francisco Regueiro"
+    },
+    {
+      "anio": 1984,
+      "pelicula": "Tasio",
+      "director": "Montxo Armendáriz"
+    },
+    {
+      "anio": 1983,
+      "pelicula": "El sur",
+      "director": "Víctor Erice"
+    },
+    {
+      "anio": 1982,
+      "pelicula": "Demonios en el jardín",
+      "director": "Manuel Gutiérrez Aragón"
+    },
+    {
+      "anio": 1981,
+      "pelicula": "Maravillas",
+      "director": "Manuel Gutiérrez Aragón"
+    },
+    {
+      "anio": 1980,
+      "pelicula": "Gary Cooper, que estás en los cielos",
+      "director": "Pilar Miró"
+    }
+  ],
+  "meta": {
+    "title": "Fotogramas de Plata a la mejor película española - Free Download",
+    "description": "Películas ganadoras del Fotogramas de Plata a la mejor película española por año, con su director. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fotogramas de Plata a la mejor película española | ListBase",
+    "seo_description": "Download Fotogramas de Plata a la mejor película española — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Fotogramas_de_Plata_a_la_mejor_película_española"
+    ]
+  }
+}
