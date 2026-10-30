@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-29T02:18:34.243Z",
-  "total_datasets": 506,
-  "total_records": 424632,
+  "generated": "2026-10-30T02:31:13.818Z",
+  "total_datasets": 507,
+  "total_records": 424675,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tourism",
@@ -15679,6 +15679,31 @@
         "xlsx": {
           "name": "es-nombres-de-emoji_ES.xlsx",
           "size": 92630
+        }
+      }
+    },
+    {
+      "id": "es-dias-festivos-mexico",
+      "name": "Días festivos y conmemoraciones en México",
+      "category": "time",
+      "record_count": 43,
+      "columns": [
+        "fecha",
+        "nombre",
+        "tipo",
+        "comentario"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Días_festivos_en_México",
+      "updated": "2026-10",
+      "size": 16067,
+      "files": {
+        "csv": {
+          "name": "es-dias-festivos-mexico_ES.csv",
+          "size": 11045
+        },
+        "xlsx": {
+          "name": "es-dias-festivos-mexico_ES.xlsx",
+          "size": 11732
         }
       }
     },
