@@ -1,0 +1,817 @@
+{
+  "id": "es-fiestas-interes-turistico-internacional",
+  "name": "Fiestas de Interés Turístico Internacional de España",
+  "title": "Fiestas de Interés Turístico Internacional de España",
+  "description": "Fiestas españolas declaradas de Interés Turístico Internacional con lugar, coordenadas, fecha de celebración y año de declaración.",
+  "category": "culture",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Fiestas_de_Interés_Turístico_Internacional_(España)",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Fiestas_de_Interés_Turístico_Internacional_(España)",
+  "updated": "2026-10",
+  "record_count": 84,
+  "columns": [
+    {
+      "key": "fiesta",
+      "label": "Fiesta",
+      "type": "string"
+    },
+    {
+      "key": "lugar",
+      "label": "Lugar",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "fecha_celebracion",
+      "label": "Fecha Celebracion",
+      "type": "string"
+    },
+    {
+      "key": "fecha_declaracion",
+      "label": "Fecha Declaracion",
+      "type": "string"
+    },
+    {
+      "key": "wikidata",
+      "label": "Wikidata",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "fiesta": "Festival de Exaltación del Botillo",
+      "lugar": "Bembibre ( León )",
+      "lat": 42.6153972,
+      "lon": -6.416972,
+      "fecha_celebracion": "Sábado anterior a Carnaval",
+      "fecha_declaracion": "2025  (2008, de Interés Turístico Nacional)",
+      "wikidata": "Q17632257"
+    },
+    {
+      "fiesta": "Carnaval de Cádiz",
+      "lugar": "Cádiz",
+      "lat": 36.51667,
+      "lon": -6.28333,
+      "fecha_celebracion": "Carnaval",
+      "fecha_declaracion": "1980",
+      "wikidata": "Q2939698"
+    },
+    {
+      "fiesta": "Carnaval de Santa Cruz de Tenerife",
+      "lugar": "Santa Cruz de Tenerife",
+      "lat": 28.46667,
+      "lon": -16.25,
+      "fecha_celebracion": "Carnaval",
+      "fecha_declaracion": "1980",
+      "wikidata": "Q815872"
+    },
+    {
+      "fiesta": "Carnaval de Águilas",
+      "lugar": "Águilas ( Murcia )",
+      "lat": 37.40417,
+      "lon": -1.58194,
+      "fecha_celebracion": "Carnaval",
+      "fecha_declaracion": "2015",
+      "wikidata": "Q5752929"
+    },
+    {
+      "fiesta": "Carnaval de Badajoz",
+      "lugar": "Badajoz",
+      "lat": 38.88333,
+      "lon": -6.96667,
+      "fecha_celebracion": "Carnaval",
+      "fecha_declaracion": "2022",
+      "wikidata": "Q5752821"
+    },
+    {
+      "fiesta": "Carnaval de Las Palmas de Gran Canaria",
+      "lugar": "Las Palmas de Gran Canaria ( Las Palmas )",
+      "lat": 28.12722,
+      "lon": -15.43139,
+      "fecha_celebracion": "Carnaval",
+      "fecha_declaracion": "2023  (2017, de Interés Turístico Nacional)",
+      "wikidata": "Q5044119"
+    },
+    {
+      "fiesta": "Entroido de Ginzo de Limia",
+      "lugar": "Ginzo de Limia ( Orense )",
+      "lat": 42.06361,
+      "lon": -7.72389,
+      "fecha_celebracion": "Carnaval",
+      "fecha_declaracion": "2019  (1997, de Interés Turístico Nacional)",
+      "wikidata": "Q20541714"
+    },
+    {
+      "fiesta": "Fallas",
+      "lugar": "Valencia",
+      "lat": 39.46667,
+      "lon": -0.375,
+      "fecha_celebracion": "Del 15 al 19 de marzo",
+      "fecha_declaracion": "1980",
+      "wikidata": "Q1143768"
+    },
+    {
+      "fiesta": "Fiesta del Cocido",
+      "lugar": "Lalín ( Pontevedra )",
+      "lat": 42.66139,
+      "lon": -8.11111,
+      "fecha_celebracion": "Domingo anterior a Carnaval",
+      "fecha_declaracion": "2020  (2010, de Interés Turístico Nacional)",
+      "wikidata": "Q20544324"
+    },
+    {
+      "fiesta": "Fiestas de la Magdalena (Castellón de la Plana)",
+      "lugar": "Castellón de la Plana",
+      "lat": 39.96667,
+      "lon": -0.05,
+      "fecha_celebracion": "A partir del tercer sábado de Cuaresma",
+      "fecha_declaracion": "2010",
+      "wikidata": "Q8961628"
+    },
+    {
+      "fiesta": "La Arribada",
+      "lugar": "Bayona ( Pontevedra )",
+      "lat": 42.12,
+      "lon": -8.85,
+      "fecha_celebracion": "1 de marzo",
+      "fecha_declaracion": "2015",
+      "wikidata": "Q5962041"
+    },
+    {
+      "fiesta": "Ruta del Tambor y el Bombo",
+      "lugar": "· Albalate del Arzobispo · Alcañiz · Alcorisa · Andorra · Calanda · Híjar · La Puebla de Híjar · Samper de Calanda · Urrea de Gaén",
+      "lat": 41.16,
+      "lon": -0.47028,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2014  ( 19 de diciembre de 2001, de Interés Turístico de Aragón 7 de noviembre de 2005, de Interés Turístico Nacional, excepto Híjar, 1 de febrero de 1966 )",
+      "wikidata": "Q3444111"
+    },
+    {
+      "fiesta": "Semana Santa en Cuenca",
+      "lugar": "Cuenca",
+      "lat": 40.07167,
+      "lon": -2.135,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "1980",
+      "wikidata": "Q6124513"
+    },
+    {
+      "fiesta": "Semana Santa de Málaga",
+      "lugar": "Málaga",
+      "lat": 36.71667,
+      "lon": -4.41667,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "1980",
+      "wikidata": "Q9075883"
+    },
+    {
+      "fiesta": "Semana Santa en Sevilla",
+      "lugar": "Sevilla",
+      "lat": 37.38333,
+      "lon": -5.98333,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "1980",
+      "wikidata": "Q1469338"
+    },
+    {
+      "fiesta": "Semana Santa en Valladolid",
+      "lugar": "Valladolid",
+      "lat": 41.65194,
+      "lon": -4.72861,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "1980",
+      "wikidata": "Q9075887"
+    },
+    {
+      "fiesta": "Semana Santa en Zamora",
+      "lugar": "Zamora",
+      "lat": 41.49889,
+      "lon": -5.75556,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "1985",
+      "wikidata": "Q5886937"
+    },
+    {
+      "fiesta": "Semana Santa en León",
+      "lugar": "León",
+      "lat": 42.59889,
+      "lon": -5.56694,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2002  (1998, de Interés Turístico Nacional)",
+      "wikidata": "Q9075874"
+    },
+    {
+      "fiesta": "Semana Santa en Salamanca",
+      "lugar": "Salamanca",
+      "lat": 40.965,
+      "lon": -5.66389,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2003",
+      "wikidata": "Q9075880"
+    },
+    {
+      "fiesta": "Semana Santa en Cartagena",
+      "lugar": "Cartagena ( Murcia )",
+      "lat": 37.6,
+      "lon": -0.98194,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2005",
+      "wikidata": "Q7884112"
+    },
+    {
+      "fiesta": "Semana Santa en Hellín",
+      "lugar": "Hellín ( Albacete )",
+      "lat": 38.51222,
+      "lon": -1.70333,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2007",
+      "wikidata": "Q6124527"
+    },
+    {
+      "fiesta": "Semana Santa en Lorca",
+      "lugar": "Lorca ( Murcia )",
+      "lat": 37.68333,
+      "lon": -1.7,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2007",
+      "wikidata": "Q9075878"
+    },
+    {
+      "fiesta": "Semana Santa en Granada",
+      "lugar": "Granada",
+      "lat": 37.17806,
+      "lon": -3.60083,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2009",
+      "wikidata": "Q9075873"
+    },
+    {
+      "fiesta": "Semana Santa en Medina de Rioseco",
+      "lugar": "Medina de Rioseco ( Valladolid )",
+      "lat": 41.88306,
+      "lon": -5.04278,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2009",
+      "wikidata": "Q6124557"
+    },
+    {
+      "fiesta": "Semana Santa en Orihuela",
+      "lugar": "Orihuela ( Alicante )",
+      "lat": 38.08556,
+      "lon": -0.94694,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2010",
+      "wikidata": "Q6124571"
+    },
+    {
+      "fiesta": "Semana Santa en Cáceres",
+      "lugar": "Cáceres",
+      "lat": 39.47306,
+      "lon": -6.37111,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2011",
+      "wikidata": "Q6124517"
+    },
+    {
+      "fiesta": "Semana Santa en Crevillente",
+      "lugar": "Crevillente ( Alicante )",
+      "lat": 38.24861,
+      "lon": -0.80889,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2011",
+      "wikidata": "Q23046683"
+    },
+    {
+      "fiesta": "Semana Santa en Medina del Campo",
+      "lugar": "Medina del Campo ( Valladolid )",
+      "lat": 41.30861,
+      "lon": -4.915,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2011",
+      "wikidata": "Q6124559"
+    },
+    {
+      "fiesta": "Semana Santa en Murcia",
+      "lugar": "Murcia",
+      "lat": 37.98611,
+      "lon": -1.13028,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2011",
+      "wikidata": "Q5685566"
+    },
+    {
+      "fiesta": "Semana Santa en Palencia",
+      "lugar": "Palencia",
+      "lat": 42.01667,
+      "lon": -4.53333,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2012",
+      "wikidata": "Q3478355"
+    },
+    {
+      "fiesta": "Semana Santa en Vivero",
+      "lugar": "Vivero ( Lugo )",
+      "lat": 43.64806,
+      "lon": -7.59,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2013",
+      "wikidata": "Q3065313"
+    },
+    {
+      "fiesta": "Semana Santa en Ávila",
+      "lugar": "Ávila",
+      "lat": 40.65444,
+      "lon": -4.69611,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2014",
+      "wikidata": "Q6124609"
+    },
+    {
+      "fiesta": "Semana Santa en Ferrol",
+      "lugar": "Ferrol ( La Coruña )",
+      "lat": 43.46667,
+      "lon": -8.25,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2014",
+      "wikidata": "Q9075872"
+    },
+    {
+      "fiesta": "Semana Santa en Toledo",
+      "lugar": "Toledo",
+      "lat": 39.86667,
+      "lon": -4.03333,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2014",
+      "wikidata": "Q23199311"
+    },
+    {
+      "fiesta": "Semana Santa en Zaragoza",
+      "lugar": "Zaragoza",
+      "lat": 41.65,
+      "lon": -0.88333,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2014",
+      "wikidata": "Q9075892"
+    },
+    {
+      "fiesta": "Semana Santa en Mérida",
+      "lugar": "Mérida ( Badajoz )",
+      "lat": 38.88333,
+      "lon": -6.96667,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2018",
+      "wikidata": "Q6124564"
+    },
+    {
+      "fiesta": "Semana Santa en Jumilla",
+      "lugar": "Jumilla ( Murcia )",
+      "lat": 38.47917,
+      "lon": -1.325,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2019  (2003, de Interés Turístico Nacional)",
+      "wikidata": "Q5552003"
+    },
+    {
+      "fiesta": "Semana Santa en Cieza",
+      "lugar": "Cieza ( Murcia )",
+      "lat": 38.23917,
+      "lon": -1.41889,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2023  (2011, de Interés Turístico Nacional)",
+      "wikidata": "Q6124511"
+    },
+    {
+      "fiesta": "Semana Santa en Badajoz",
+      "lugar": "Badajoz",
+      "lat": 38.883,
+      "lon": -6.967,
+      "fecha_celebracion": "Semana Santa",
+      "fecha_declaracion": "2025  (2011, de Interés Turístico Nacional)",
+      "wikidata": "Q23650033"
+    },
+    {
+      "fiesta": "Procesión del Domingo de Ramos de Elche",
+      "lugar": "Elche ( Alicante )",
+      "lat": 38.26694,
+      "lon": -0.69833,
+      "fecha_celebracion": "Domingo de Ramos",
+      "fecha_declaracion": "1997",
+      "wikidata": "Q3327994"
+    },
+    {
+      "fiesta": "La Noche de los Tambores",
+      "lugar": "Mula ( Murcia )",
+      "lat": 38.04194,
+      "lon": -1.49056,
+      "fecha_celebracion": "Miércoles Santo",
+      "fecha_declaracion": "2022  (2009, de Interés Turístico Nacional)",
+      "wikidata": "Q116619925"
+    },
+    {
+      "fiesta": "Bando de la Huerta",
+      "lugar": "Murcia",
+      "lat": 37.98611,
+      "lon": -1.13028,
+      "fecha_celebracion": "Martes siguiente a la Semana Santa",
+      "fecha_declaracion": "2012",
+      "wikidata": "Q5719012"
+    },
+    {
+      "fiesta": "Entierro de la Sardina en Murcia",
+      "lugar": "Murcia",
+      "lat": 37.98611,
+      "lon": -1.13028,
+      "fecha_celebracion": "Sábado siguiente a Semana Santa",
+      "fecha_declaracion": "2006",
+      "wikidata": "Q2886090"
+    },
+    {
+      "fiesta": "Feria de Abril",
+      "lugar": "Sevilla",
+      "lat": 37.38333,
+      "lon": -5.98333,
+      "fecha_celebracion": "Dos semanas después de Semana Santa",
+      "fecha_declaracion": "1980",
+      "wikidata": "Q2918983"
+    },
+    {
+      "fiesta": "Feria del Caballo",
+      "lugar": "Jerez de la Frontera ( Cádiz )",
+      "lat": 36.7,
+      "lon": -6.11667,
+      "fecha_celebracion": "Tres semanas después de Semana Santa",
+      "fecha_declaracion": "1980",
+      "wikidata": "Q129226"
+    },
+    {
+      "fiesta": "Moros y Cristianos de Alcoy",
+      "lugar": "Alcoy ( Alicante )",
+      "lat": 38.69833,
+      "lon": -0.47361,
+      "fecha_celebracion": "Del 22 al 24 de abril",
+      "fecha_declaracion": "1980",
+      "wikidata": "Q5650710"
+    },
+    {
+      "fiesta": "Fiesta de la Lamprea",
+      "lugar": "Arbo ( Pontevedra )",
+      "lat": 42.11222,
+      "lon": -8.3125,
+      "fecha_celebracion": "Último fin de semana de abril",
+      "fecha_declaracion": "2023  (2016,  de Interés Turístico Nacional)",
+      "wikidata": "Q23661377"
+    },
+    {
+      "fiesta": "Fiestas Mayores de Almansa",
+      "lugar": "Almansa ( Albacete )",
+      "lat": 38.86833,
+      "lon": -1.09778,
+      "fecha_celebracion": "Primera semana de mayo",
+      "fecha_declaracion": "2019",
+      "wikidata": "Q23640572"
+    },
+    {
+      "fiesta": "Fiestas de la Santísima y Vera Cruz",
+      "lugar": "Caravaca de la Cruz ( Murcia )",
+      "lat": 38.1075,
+      "lon": -1.86,
+      "fecha_celebracion": "Del 1 al 5 de mayo",
+      "fecha_declaracion": "2004",
+      "wikidata": "Q5861795"
+    },
+    {
+      "fiesta": "Romería de El Rocío",
+      "lugar": "Almonte ( Huelva )",
+      "lat": 37.26111,
+      "lon": -6.5175,
+      "fecha_celebracion": "Fin de semana del Domingo de Pentecostés",
+      "fecha_declaracion": "1980",
+      "wikidata": "Q1324590"
+    },
+    {
+      "fiesta": "Corpus Christi en Béjar",
+      "lugar": "Béjar ( Salamanca )",
+      "lat": 40.38472,
+      "lon": -5.76194,
+      "fecha_celebracion": "Corpus Christi",
+      "fecha_declaracion": "2019",
+      "wikidata": "Q23309748"
+    },
+    {
+      "fiesta": "Corpus Christi en Puenteareas",
+      "lugar": "Puenteareas ( Pontevedra )",
+      "lat": 42.17528,
+      "lon": -8.505,
+      "fecha_celebracion": "Corpus Christi",
+      "fecha_declaracion": "2009",
+      "wikidata": "Q23199321"
+    },
+    {
+      "fiesta": "Procesión del Corpus Christi de Toledo",
+      "lugar": "Toledo",
+      "lat": 39.86667,
+      "lon": -4.03333,
+      "fecha_celebracion": "Corpus Christi",
+      "fecha_declaracion": "1980",
+      "wikidata": "Q6087155"
+    },
+    {
+      "fiesta": "Arde Lucus",
+      "lugar": "Lugo",
+      "lat": 43.01667,
+      "lon": -7.55,
+      "fecha_celebracion": "Mediados de junio",
+      "fecha_declaracion": "2023  (2017, de Interés Turístico Nacional)",
+      "wikidata": "Q3392407"
+    },
+    {
+      "fiesta": "Hogueras de Alicante",
+      "lugar": "Alicante",
+      "lat": 38.34528,
+      "lon": -0.48306,
+      "fecha_celebracion": "Del 20 al 24 de junio",
+      "fecha_declaracion": "1983",
+      "wikidata": "Q1236370"
+    },
+    {
+      "fiesta": "Hogueras de San Juan de La Coruña",
+      "lugar": "La Coruña",
+      "lat": 43.36667,
+      "lon": -8.38333,
+      "fecha_celebracion": "23 de junio",
+      "fecha_declaracion": "2015",
+      "wikidata": "Q23199332"
+    },
+    {
+      "fiesta": "Rapa das Bestas de Sabucedo",
+      "lugar": "Sabucedo ( Pontevedra )",
+      "lat": 42.5875,
+      "lon": -8.41444,
+      "fecha_celebracion": "Principios de julio",
+      "fecha_declaracion": "2007",
+      "wikidata": "Q2356144"
+    },
+    {
+      "fiesta": "Sanfermines",
+      "lugar": "Pamplona ( Navarra )",
+      "lat": 42.81667,
+      "lon": -1.65,
+      "fecha_celebracion": "Del 6 al 14 de julio",
+      "fecha_declaracion": "1980",
+      "wikidata": "Q829919"
+    },
+    {
+      "fiesta": "Festival de Ortigueira",
+      "lugar": "Ortigueira ( La Coruña )",
+      "lat": 43.68306,
+      "lon": -7.85,
+      "fecha_celebracion": "Segundo fin de semana de julio",
+      "fecha_declaracion": "2005",
+      "wikidata": "Q3328419"
+    },
+    {
+      "fiesta": "Certamen Internacional de Habaneras y Polifonía de Torrevieja",
+      "lugar": "Torrevieja ( Alicante )",
+      "lat": 37.97778,
+      "lon": -0.68333,
+      "fecha_celebracion": "Del 22 al 30 de julio",
+      "fecha_declaracion": "1994",
+      "wikidata": "Q5763483"
+    },
+    {
+      "fiesta": "Moros y Cristianos de Villajoyosa",
+      "lugar": "Villajoyosa ( Alicante )",
+      "lat": 38.50528,
+      "lon": -0.23278,
+      "fecha_celebracion": "Del 24 al 31 de julio",
+      "fecha_declaracion": "2003",
+      "wikidata": "Q16609048"
+    },
+    {
+      "fiesta": "Fiesta de Santiago Apóstol",
+      "lugar": "Santiago de Compostela ( La Coruña )",
+      "lat": 42.88333,
+      "lon": -8.53333,
+      "fecha_celebracion": "25 de julio",
+      "fecha_declaracion": "2001",
+      "wikidata": "Q12388488"
+    },
+    {
+      "fiesta": "Carreras de caballos de Sanlúcar",
+      "lugar": "Sanlúcar de Barrameda ( Cádiz )",
+      "lat": 36.77889,
+      "lon": -6.35389,
+      "fecha_celebracion": "Agosto",
+      "fecha_declaracion": "1997",
+      "wikidata": "Q3001481"
+    },
+    {
+      "fiesta": "Fiesta del Vino Albariño",
+      "lugar": "Cambados ( Pontevedra )",
+      "lat": 42.51444,
+      "lon": -8.81389,
+      "fecha_celebracion": "En torno al primer domingo de agosto",
+      "fecha_declaracion": "2018",
+      "wikidata": "Q3395702"
+    },
+    {
+      "fiesta": "Festival Internacional del Cante de las Minas",
+      "lugar": "La Unión ( Murcia )",
+      "lat": 37.61917,
+      "lon": -0.87556,
+      "fecha_celebracion": "Primer miércoles de agosto",
+      "fecha_declaracion": "2006",
+      "wikidata": "Q5861338"
+    },
+    {
+      "fiesta": "Descenso Internacional del Sella",
+      "lugar": "Arriondas y Ribadesella ( Asturias )",
+      "lat": 43.44583,
+      "lon": -5.08333,
+      "fecha_celebracion": "Primer sábado de agosto, posterior al día 2",
+      "fecha_declaracion": "1980",
+      "wikidata": "Q8355038"
+    },
+    {
+      "fiesta": "Romería vikinga de Catoira",
+      "lugar": "Catoira ( Pontevedra )",
+      "lat": 42.66111,
+      "lon": -8.715,
+      "fecha_celebracion": "Primer domingo de agosto",
+      "fecha_declaracion": "2002",
+      "wikidata": "Q23047569"
+    },
+    {
+      "fiesta": "Fiesta del Pulpo",
+      "lugar": "Carballino ( Orense )",
+      "lat": 42.42972,
+      "lon": -8.0775,
+      "fecha_celebracion": "Segundo domingo de agosto",
+      "fecha_declaracion": "2022  (2012,  de Interés Turístico Nacional)",
+      "wikidata": "Q12388482"
+    },
+    {
+      "fiesta": "Misterio de Elche",
+      "lugar": "Elche ( Alicante )",
+      "lat": 38.26694,
+      "lon": -0.69833,
+      "fecha_celebracion": "14 y 15 de agosto",
+      "fecha_declaracion": "1980",
+      "wikidata": "Q2115110"
+    },
+    {
+      "fiesta": "Moros y Cristianos",
+      "lugar": "Onteniente ( Valencia )",
+      "lat": 38.82222,
+      "lon": -0.60722,
+      "fecha_celebracion": "Desde el jueves posterior al tercer domingo de agosto hasta el lunes siguiente",
+      "fecha_declaracion": "2024  (2010,  de Interés Turístico Nacional)",
+      "wikidata": "Q23650273"
+    },
+    {
+      "fiesta": "Tomatina",
+      "lugar": "Buñol ( Valencia )",
+      "lat": 39.41944,
+      "lon": -0.79056,
+      "fecha_celebracion": "Último miércoles de agosto",
+      "fecha_declaracion": "2002",
+      "wikidata": "Q827695"
+    },
+    {
+      "fiesta": "Encierros de Cuéllar",
+      "lugar": "Cuéllar ( Segovia )",
+      "lat": 41.40083,
+      "lon": -4.31361,
+      "fecha_celebracion": "Último fin de semana de agosto",
+      "fecha_declaracion": "2018  (2008,  de Interés Turístico Nacional)",
+      "wikidata": "Q5832389"
+    },
+    {
+      "fiesta": "Guerras Cántabras",
+      "lugar": "Los Corrales de Buelna ( Cantabria )",
+      "lat": 43.26167,
+      "lon": -4.06528,
+      "fecha_celebracion": "Último fin de semana de agosto y primer fin de semana de septiembre",
+      "fecha_declaracion": "2019  (2008,  de Interés Turístico Nacional)",
+      "wikidata": "Q5887906"
+    },
+    {
+      "fiesta": "Motín de Aranjuez",
+      "lugar": "Aranjuez ( Madrid )",
+      "lat": 40.03333,
+      "lon": -3.61667,
+      "fecha_celebracion": "Primera semana de septiembre",
+      "fecha_declaracion": "2014",
+      "wikidata": "Q23199370"
+    },
+    {
+      "fiesta": "Cascamorras",
+      "lugar": "Baza y Guadix ( Granada )",
+      "lat": 37.29944,
+      "lon": -3.13722,
+      "fecha_celebracion": "Del 5 al 9 de septiembre",
+      "fecha_declaracion": "2013",
+      "wikidata": "Q5048232"
+    },
+    {
+      "fiesta": "Feria de Albacete",
+      "lugar": "Albacete",
+      "lat": 38.99722,
+      "lon": -1.87028,
+      "fecha_celebracion": "Del 7 al 17 de septiembre",
+      "fecha_declaracion": "2008",
+      "wikidata": "Q5429969"
+    },
+    {
+      "fiesta": "Carthagineses y Romanos",
+      "lugar": "Cartagena ( Murcia )",
+      "lat": 37.6,
+      "lon": -0.98194,
+      "fecha_celebracion": "Segunda quincena de septiembre",
+      "fecha_declaracion": "2017",
+      "wikidata": "Q3092923"
+    },
+    {
+      "fiesta": "Entrada de toros y caballos",
+      "lugar": "Segorbe ( Castellón )",
+      "lat": 39.85194,
+      "lon": -0.48944,
+      "fecha_celebracion": "Segunda semana de septiembre",
+      "fecha_declaracion": "2005",
+      "wikidata": "Q3397662"
+    },
+    {
+      "fiesta": "Fiesta de la Vendimia (Jerez de la Frontera)",
+      "lugar": "Jerez de la Frontera ( Cádiz )",
+      "lat": 36.7,
+      "lon": -6.11667,
+      "fecha_celebracion": "Segunda quincena de septiembre",
+      "fecha_declaracion": "1980",
+      "wikidata": "Q5861717"
+    },
+    {
+      "fiesta": "Moros y Cristianos de Crevillente",
+      "lugar": "Crevillente ( Alicante )",
+      "lat": 38.24861,
+      "lon": -0.80889,
+      "fecha_celebracion": "Primer fin de semana de octubre",
+      "fecha_declaracion": "2017  (2005,  de Interés Turístico Nacional)",
+      "wikidata": "Q23650280"
+    },
+    {
+      "fiesta": "Semana Cervantina de Alcalá de Henares",
+      "lugar": "Alcalá de Henares ( Madrid )",
+      "lat": 40.48212,
+      "lon": -3.3670139,
+      "fecha_celebracion": "Semana en torno al 9 de octubre",
+      "fecha_declaracion": "2026  (2002, de Interés Turístico Regional; 2018, de Interés Turístico Nacional )",
+      "wikidata": "Q23459413"
+    },
+    {
+      "fiesta": "Fiestas del Pilar",
+      "lugar": "Zaragoza",
+      "lat": 41.65,
+      "lon": -0.88333,
+      "fecha_celebracion": "En torno al 12 de octubre",
+      "fecha_declaracion": "2019  (1980,  de Interés Turístico Nacional)",
+      "wikidata": "Q3092925"
+    },
+    {
+      "fiesta": "Feria de Todos los Santos de Cocentaina",
+      "lugar": "Cocentaina ( Alicante )",
+      "lat": 38.745,
+      "lon": -0.44056,
+      "fecha_celebracion": "1 de noviembre",
+      "fecha_declaracion": "2019  (2012,  de Interés Turístico Nacional)",
+      "wikidata": "Q8961227"
+    },
+    {
+      "fiesta": "Otoño Mágico",
+      "lugar": "Valle del Ambroz ( Cáceres )",
+      "lat": 40.27389,
+      "lon": -5.86583,
+      "fecha_celebracion": "31 de octubre al 30 de noviembre",
+      "fecha_declaracion": "2024  (2017,  de Interés Turístico Nacional)",
+      "wikidata": "Q23662084"
+    }
+  ],
+  "meta": {
+    "title": "Fiestas de Interés Turístico Internacional de España - Free Download",
+    "description": "Fiestas españolas declaradas de Interés Turístico Internacional con lugar, coordenadas, fecha de celebración y año de declaración. Contains 84 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fiestas de Interés Turístico Internacional de España | ListBase",
+    "seo_description": "Download Fiestas de Interés Turístico Internacional de España — 84 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 84 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Fiestas_de_Interés_Turístico_Internacional_(España)"
+    ]
+  }
+}
