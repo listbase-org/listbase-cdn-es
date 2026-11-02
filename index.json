@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-02T02:24:36.030Z",
-  "total_datasets": 516,
-  "total_records": 428134,
+  "generated": "2026-11-02T02:24:42.545Z",
+  "total_datasets": 517,
+  "total_records": 428194,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "entertainment",
@@ -577,6 +577,34 @@
         "xlsx": {
           "name": "es-universidades-de-mexico_ES.xlsx",
           "size": 10411
+        }
+      }
+    },
+    {
+      "id": "es-universidades-nacionales-argentina",
+      "name": "Universidades nacionales de Argentina",
+      "category": "education",
+      "record_count": 60,
+      "columns": [
+        "nombre",
+        "acronimo",
+        "ciudad",
+        "provincia",
+        "otras_sedes",
+        "estudiantes_grado_2022",
+        "creacion"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Universidades_nacionales_de_Argentina",
+      "updated": "2026-11",
+      "size": 18430,
+      "files": {
+        "csv": {
+          "name": "es-universidades-nacionales-argentina_ES.csv",
+          "size": 7166
+        },
+        "xlsx": {
+          "name": "es-universidades-nacionales-argentina_ES.xlsx",
+          "size": 10804
         }
       }
     },

@@ -1,0 +1,601 @@
+{
+  "id": "es-universidades-nacionales-argentina",
+  "name": "Universidades nacionales de Argentina",
+  "title": "Universidades nacionales de Argentina",
+  "description": "Lista de las universidades nacionales (públicas) de Argentina con acrónimo, ciudad, provincia, otras sedes, número de estudiantes de grado (2022) y año de creación.",
+  "category": "education",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Universidades_nacionales_de_Argentina",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Universidades_nacionales_de_Argentina",
+  "updated": "2026-11",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "acronimo",
+      "label": "Acronimo",
+      "type": "string"
+    },
+    {
+      "key": "ciudad",
+      "label": "Ciudad",
+      "type": "string"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "otras_sedes",
+      "label": "Otras Sedes",
+      "type": "string"
+    },
+    {
+      "key": "estudiantes_grado_2022",
+      "label": "Estudiantes Grado 2022",
+      "type": "number"
+    },
+    {
+      "key": "creacion",
+      "label": "Creacion",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nombre": "Universidad Nacional de Córdoba",
+      "acronimo": "UNC",
+      "ciudad": "Córdoba",
+      "provincia": "Córdoba",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 169395,
+      "creacion": 1613
+    },
+    {
+      "nombre": "Universidad de Buenos Aires",
+      "acronimo": "UBA",
+      "ciudad": "Buenos Aires",
+      "provincia": "Ciudad de Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 347280,
+      "creacion": 1821
+    },
+    {
+      "nombre": "Universidad Nacional del Litoral",
+      "acronimo": "UNL",
+      "ciudad": "Santa Fe",
+      "provincia": "Santa Fe",
+      "otras_sedes": "Rafaela, Esperanza, Reconquista, Gálvez",
+      "estudiantes_grado_2022": 52801,
+      "creacion": 1889
+    },
+    {
+      "nombre": "Universidad Nacional de La Plata",
+      "acronimo": "UNLP",
+      "ciudad": "La Plata",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 113017,
+      "creacion": 1897
+    },
+    {
+      "nombre": "Universidad Nacional de Tucumán",
+      "acronimo": "UNT",
+      "ciudad": "San Miguel de Tucumán",
+      "provincia": "Tucumán",
+      "otras_sedes": "Yerba Buena",
+      "estudiantes_grado_2022": 82401,
+      "creacion": 1914
+    },
+    {
+      "nombre": "Universidad Nacional de Cuyo",
+      "acronimo": "UNCu UNCuyo",
+      "ciudad": "Mendoza",
+      "provincia": "Mendoza",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 46014,
+      "creacion": 1939
+    },
+    {
+      "nombre": "Universidad Tecnológica Nacional",
+      "acronimo": "UTN",
+      "ciudad": "Buenos Aires",
+      "provincia": "Ciudad de Buenos Aires",
+      "otras_sedes": "Avellaneda, Bahía Blanca, Campana, Concepción del Uruguay, Concordia, Córdoba, General Pacheco, Haedo, La Plata, La Rioja, Mendoza, Neuquén, Paraná, Plaza Huincul, Puerto Madryn, Rafaela, Reconquista, Resistencia, Río Gallegos, Río Grande, Rosario, San Francisco, San Miguel de Tucumán, Concepción (Tucumán), San Nicolás, San Rafael, Santa Fe, Trenque Lauquen, Venado Tuerto, Villa María",
+      "estudiantes_grado_2022": 98177,
+      "creacion": 1948
+    },
+    {
+      "nombre": "Universidad Nacional del Nordeste",
+      "acronimo": "UNNE",
+      "ciudad": "Corrientes",
+      "provincia": "Corrientes",
+      "otras_sedes": "Resistencia, Presidencia Roque Sáenz Peña, Curuzú Cuatiá, Paso de los Libres",
+      "estudiantes_grado_2022": 66606,
+      "creacion": 1956
+    },
+    {
+      "nombre": "Universidad Nacional del Sur",
+      "acronimo": "UNS",
+      "ciudad": "Bahía Blanca",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 25955,
+      "creacion": 1956
+    },
+    {
+      "nombre": "Universidad Nacional de Rosario",
+      "acronimo": "UNR",
+      "ciudad": "Rosario",
+      "provincia": "Santa Fe",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 92335,
+      "creacion": 1968
+    },
+    {
+      "nombre": "Universidad Nacional del Comahue",
+      "acronimo": "UNCOMA UNCo",
+      "ciudad": "Neuquén",
+      "provincia": "Neuquén",
+      "otras_sedes": "Allen, Bariloche, Choele Choel, Cinco Saltos, Cipolletti, Chos Malal, General Roca, San Antonio Oeste, San Martín de los Andes, Viedma, Villa Regina, Zapala",
+      "estudiantes_grado_2022": 34997,
+      "creacion": 1971
+    },
+    {
+      "nombre": "Universidad Nacional de Río Cuarto",
+      "acronimo": "",
+      "ciudad": "Río Cuarto",
+      "provincia": "Córdoba",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 17320,
+      "creacion": 1971
+    },
+    {
+      "nombre": "Universidad Nacional de Catamarca",
+      "acronimo": "UNCa",
+      "ciudad": "Catamarca",
+      "provincia": "Catamarca",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 15919,
+      "creacion": 1972
+    },
+    {
+      "nombre": "Universidad Nacional de Lomas de Zamora",
+      "acronimo": "UNLZ",
+      "ciudad": "Lomas de Zamora",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 40871,
+      "creacion": 1972
+    },
+    {
+      "nombre": "Universidad Nacional de Salta",
+      "acronimo": "UNSa",
+      "ciudad": "Salta",
+      "provincia": "Salta",
+      "otras_sedes": "Metán, Orán, Rosario de la Frontera, Tartagal",
+      "estudiantes_grado_2022": 42717,
+      "creacion": 1972
+    },
+    {
+      "nombre": "Universidad Nacional de Entre Ríos",
+      "acronimo": "UNER",
+      "ciudad": "Concepción del Uruguay",
+      "provincia": "Entre Ríos",
+      "otras_sedes": "Concordia, Gualeguaychú, Oro Verde, Paraná, Villaguay",
+      "estudiantes_grado_2022": 22646,
+      "creacion": 1973
+    },
+    {
+      "nombre": "Universidad Nacional de Jujuy",
+      "acronimo": "UNJu",
+      "ciudad": "San Salvador de Jujuy",
+      "provincia": "Jujuy",
+      "otras_sedes": "San Pedro",
+      "estudiantes_grado_2022": 31432,
+      "creacion": 1973
+    },
+    {
+      "nombre": "Universidad Nacional de La Pampa",
+      "acronimo": "UNLPam",
+      "ciudad": "Santa Rosa",
+      "provincia": "La Pampa",
+      "otras_sedes": "General Pico",
+      "estudiantes_grado_2022": 12239,
+      "creacion": 1973
+    },
+    {
+      "nombre": "Universidad Nacional de Luján",
+      "acronimo": "UNLu",
+      "ciudad": "Luján",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "San Miguel, Chivilcoy, Campana",
+      "estudiantes_grado_2022": 24495,
+      "creacion": 1973
+    },
+    {
+      "nombre": "Universidad Nacional de Misiones",
+      "acronimo": "UNM UNaM",
+      "ciudad": "Posadas",
+      "provincia": "Misiones",
+      "otras_sedes": "Eldorado, Oberá",
+      "estudiantes_grado_2022": 28554,
+      "creacion": 1973
+    },
+    {
+      "nombre": "Universidad Nacional de San Juan",
+      "acronimo": "UNSJ",
+      "ciudad": "San Juan",
+      "provincia": "San Juan",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 28075,
+      "creacion": 1973
+    },
+    {
+      "nombre": "Universidad Nacional de San Luis",
+      "acronimo": "UNSL",
+      "ciudad": "San Luis",
+      "provincia": "San Luis",
+      "otras_sedes": "Merlo, Villa Mercedes",
+      "estudiantes_grado_2022": 20259,
+      "creacion": 1973
+    },
+    {
+      "nombre": "Universidad Nacional de Santiago del Estero",
+      "acronimo": "UNSE",
+      "ciudad": "Santiago del Estero",
+      "provincia": "Santiago del Estero",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 18066,
+      "creacion": 1973
+    },
+    {
+      "nombre": "Universidad Nacional del Centro de la Provincia de Buenos Aires",
+      "acronimo": "UNICEN",
+      "ciudad": "Tandil",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "Azul, Olavarría, Quequén",
+      "estudiantes_grado_2022": 18957,
+      "creacion": 1974
+    },
+    {
+      "nombre": "Universidad Nacional de Mar del Plata",
+      "acronimo": "UNMDP",
+      "ciudad": "Mar del Plata",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 40800,
+      "creacion": 1975
+    },
+    {
+      "nombre": "Universidad Nacional de la Patagonia San Juan Bosco",
+      "acronimo": "UNP UNPSJB",
+      "ciudad": "Comodoro Rivadavia",
+      "provincia": "Chubut",
+      "otras_sedes": "Esquel, Puerto Madryn, Trelew",
+      "estudiantes_grado_2022": 20140,
+      "creacion": 1980
+    },
+    {
+      "nombre": "Universidad Nacional de Formosa",
+      "acronimo": "UNF",
+      "ciudad": "Formosa",
+      "provincia": "Formosa",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 11180,
+      "creacion": 1988
+    },
+    {
+      "nombre": "Universidad Nacional de La Matanza",
+      "acronimo": "UNLM UNLaM",
+      "ciudad": "San Justo",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "San Justo, Buenos Aires",
+      "estudiantes_grado_2022": 46505,
+      "creacion": 1989
+    },
+    {
+      "nombre": "Universidad Nacional de Quilmes",
+      "acronimo": "UNQ",
+      "ciudad": "Quilmes",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 32241,
+      "creacion": 1989
+    },
+    {
+      "nombre": "Universidad Nacional de Gral. San Martín",
+      "acronimo": "UNSM UNSaM",
+      "ciudad": "San Martín",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 23317,
+      "creacion": 1992
+    },
+    {
+      "nombre": "Universidad Nacional de Gral. Sarmiento",
+      "acronimo": "UNGS",
+      "ciudad": "Los Polvorines",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "Moreno, San Fernando",
+      "estudiantes_grado_2022": 19913,
+      "creacion": 1993
+    },
+    {
+      "nombre": "Universidad Nacional de La Rioja",
+      "acronimo": "UNLaR",
+      "ciudad": "La Rioja",
+      "provincia": "La Rioja",
+      "otras_sedes": "Aimogasta, Chamical, Chepes, Villa Unión",
+      "estudiantes_grado_2022": 26721,
+      "creacion": 1993
+    },
+    {
+      "nombre": "Universidad Nacional de la Patagonia Austral",
+      "acronimo": "UNPA",
+      "ciudad": "Río Gallegos",
+      "provincia": "Santa Cruz",
+      "otras_sedes": "Caleta Olivia, Puerto San Julián, Río Turbio",
+      "estudiantes_grado_2022": 11406,
+      "creacion": 1994
+    },
+    {
+      "nombre": "Universidad Nacional de Lanús",
+      "acronimo": "UNLa",
+      "ciudad": "Remedios de Escalada",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 15599,
+      "creacion": 1995
+    },
+    {
+      "nombre": "Universidad Nacional de Tres de Febrero",
+      "acronimo": "UNTREF",
+      "ciudad": "Saenz Peña",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "Caseros, El Palomar, Buenos Aires, Villa Lynch",
+      "estudiantes_grado_2022": 19927,
+      "creacion": 1995
+    },
+    {
+      "nombre": "Universidad Nacional de Villa María",
+      "acronimo": "UNVM",
+      "ciudad": "Villa María",
+      "provincia": "Córdoba",
+      "otras_sedes": "Córdoba, Villa del Rosario, San Francisco, Villa Dolores, Deán Funes",
+      "estudiantes_grado_2022": 8839,
+      "creacion": 1995
+    },
+    {
+      "nombre": "Universidad Nacional de Chilecito",
+      "acronimo": "UNdeC",
+      "ciudad": "Chilecito",
+      "provincia": "La Rioja",
+      "otras_sedes": "Campus Los Sarmientos",
+      "estudiantes_grado_2022": 3385,
+      "creacion": 2002
+    },
+    {
+      "nombre": "Universidad Nacional del Noroeste de la Provincia de Buenos Aires",
+      "acronimo": "UNNOBA",
+      "ciudad": "Junín",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "Pergamino",
+      "estudiantes_grado_2022": 8837,
+      "creacion": 2002
+    },
+    {
+      "nombre": "Universidad Nacional del Chaco Austral",
+      "acronimo": "UNCAus",
+      "ciudad": "Roque Sáenz Peña",
+      "provincia": "Chaco",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 19598,
+      "creacion": 2007
+    },
+    {
+      "nombre": "Universidad Nacional de Río Negro",
+      "acronimo": "UNRN",
+      "ciudad": "Viedma",
+      "provincia": "Río Negro",
+      "otras_sedes": "Allen, Bariloche, Choele Choel, Cinco Saltos, Cipolletti, El Bolsón, General Roca, Río Colorado, San Antonio Oeste, Villa Regina",
+      "estudiantes_grado_2022": 13274,
+      "creacion": 2008
+    },
+    {
+      "nombre": "Universidad Nacional Arturo Jauretche",
+      "acronimo": "UNAJ",
+      "ciudad": "Florencio Varela",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "Castelli, Lobos, Brandsen",
+      "estudiantes_grado_2022": 30599,
+      "creacion": 2009
+    },
+    {
+      "nombre": "Universidad Nacional de Avellaneda",
+      "acronimo": "UNDAV",
+      "ciudad": "Avellaneda",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "Piñeyro",
+      "estudiantes_grado_2022": 20150,
+      "creacion": 2009
+    },
+    {
+      "nombre": "Universidad Nacional de José C. Paz",
+      "acronimo": "UNJP UNPAZ",
+      "ciudad": "José C. Paz",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 25426,
+      "creacion": 2009
+    },
+    {
+      "nombre": "Universidad Nacional de Moreno",
+      "acronimo": "UNM UNMo",
+      "ciudad": "Moreno",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 10613,
+      "creacion": 2009
+    },
+    {
+      "nombre": "Universidad Nacional del Oeste",
+      "acronimo": "UNO",
+      "ciudad": "San Antonio de Padua",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "Merlo",
+      "estudiantes_grado_2022": 11663,
+      "creacion": 2009
+    },
+    {
+      "nombre": "Universidad Nacional de Villa Mercedes",
+      "acronimo": "UNViMe",
+      "ciudad": "Villa Mercedes",
+      "provincia": "San Luis",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 3793,
+      "creacion": 2009
+    },
+    {
+      "nombre": "Universidad Nacional de Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+      "acronimo": "UNTDF",
+      "ciudad": "Ushuaia",
+      "provincia": "Tierra del Fuego",
+      "otras_sedes": "Río Grande",
+      "estudiantes_grado_2022": 3935,
+      "creacion": 2010
+    },
+    {
+      "nombre": "Universidad de la Defensa Nacional",
+      "acronimo": "UNDEF",
+      "ciudad": "Buenos Aires",
+      "provincia": "Ciudad de Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 7524,
+      "creacion": 2014
+    },
+    {
+      "nombre": "Universidad Nacional de Hurlingham",
+      "acronimo": "UNAHUR",
+      "ciudad": "Villa Tesei",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 37433,
+      "creacion": 2014
+    },
+    {
+      "nombre": "Universidad Nacional de las Artes",
+      "acronimo": "UNA",
+      "ciudad": "Buenos Aires",
+      "provincia": "Ciudad de Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 21283,
+      "creacion": 2014
+    },
+    {
+      "nombre": "Universidad Nacional de los Comechingones",
+      "acronimo": "UNLC",
+      "ciudad": "Villa de Merlo",
+      "provincia": "San Luis",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": "",
+      "creacion": 2014
+    },
+    {
+      "nombre": "Universidad Nacional Madres de Plaza de Mayo",
+      "acronimo": "UNMA",
+      "ciudad": "Ciudad Autónoma de Buenos Aires",
+      "provincia": "Ciudad de Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": "",
+      "creacion": 2014
+    },
+    {
+      "nombre": "Universidad Nacional de Rafaela",
+      "acronimo": "UNRaf",
+      "ciudad": "Rafaela",
+      "provincia": "Santa Fe",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 2704,
+      "creacion": 2014
+    },
+    {
+      "nombre": "Universidad Nacional Almirante Guillermo Brown",
+      "acronimo": "UNAB",
+      "ciudad": "Burzaco",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 4251,
+      "creacion": 2015
+    },
+    {
+      "nombre": "Universidad Nacional de San Antonio de Areco",
+      "acronimo": "UNSAdA",
+      "ciudad": "San Antonio de Areco",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "Baradero",
+      "estudiantes_grado_2022": 2320,
+      "creacion": 2015
+    },
+    {
+      "nombre": "Universidad Nacional del Alto Uruguay",
+      "acronimo": "UNAU",
+      "ciudad": "San Vicente",
+      "provincia": "Misiones",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 2212,
+      "creacion": 2015
+    },
+    {
+      "nombre": "Universidad Nacional Raúl Scalabrini Ortiz",
+      "acronimo": "UNSO",
+      "ciudad": "San Isidro",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": 4035,
+      "creacion": 2015
+    },
+    {
+      "nombre": "Universidad Pedagógica Nacional",
+      "acronimo": "UNIPE",
+      "ciudad": "Ciudad Autónoma de Buenos Aires",
+      "provincia": "Ciudad de Buenos Aires",
+      "otras_sedes": "Pilar",
+      "estudiantes_grado_2022": 4857,
+      "creacion": 2015
+    },
+    {
+      "nombre": "Universidad Nacional del Delta",
+      "acronimo": "UNDelta",
+      "ciudad": "Tigre, San Fernando y Escobar",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": "",
+      "creacion": 2023
+    },
+    {
+      "nombre": "Universidad Nacional de Pilar",
+      "acronimo": "UNPilar",
+      "ciudad": "Villa Rosa, Pilar",
+      "provincia": "Buenos Aires",
+      "otras_sedes": "",
+      "estudiantes_grado_2022": "",
+      "creacion": 2025
+    }
+  ],
+  "meta": {
+    "title": "Universidades nacionales de Argentina - Free Download",
+    "description": "Lista de las universidades nacionales (públicas) de Argentina con acrónimo, ciudad, provincia, otras sedes, número de estudiantes de grado (2022) y año de creación. Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Universidades nacionales de Argentina | ListBase",
+    "seo_description": "Download Universidades nacionales de Argentina — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Universidades_nacionales_de_Argentina"
+    ]
+  }
+}
