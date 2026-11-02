@@ -1,0 +1,736 @@
+{
+  "id": "es-presidentes-de-chile",
+  "name": "Presidentes de Chile",
+  "title": "Presidentes de Chile",
+  "description": "Lista de los presidentes y jefes de Estado de Chile desde 1826, con el tipo de mandato, fechas de inicio y fin, partido y coalición.",
+  "category": "politics",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Presidentes_de_Chile",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Presidentes_de_Chile",
+  "updated": "2026-11",
+  "record_count": 85,
+  "columns": [
+    {
+      "key": "presidente",
+      "label": "Presidente",
+      "type": "string"
+    },
+    {
+      "key": "cargo",
+      "label": "Cargo",
+      "type": "string"
+    },
+    {
+      "key": "inicio_mandato",
+      "label": "Inicio Mandato",
+      "type": "string"
+    },
+    {
+      "key": "fin_mandato",
+      "label": "Fin Mandato",
+      "type": "string"
+    },
+    {
+      "key": "partido",
+      "label": "Partido",
+      "type": "string"
+    },
+    {
+      "key": "coalicion",
+      "label": "Coalicion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "presidente": "Manuel Blanco Encalada",
+      "cargo": "Presidente Interino de la República (Elegido)",
+      "inicio_mandato": "9 de julio de 1826",
+      "fin_mandato": "9 de septiembre de 1826",
+      "partido": "Independiente pro- pipiolo",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Agustín Eyzaguirre Arechavala",
+      "cargo": "Vicepresidente Interino de la República (Elegido)",
+      "inicio_mandato": "9 de septiembre de 1826",
+      "fin_mandato": "25 de enero de 1827",
+      "partido": "Independiente pro- pipiolo",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Ramón Freire Serrano",
+      "cargo": "Presidente Provisional de la República",
+      "inicio_mandato": "25 de enero de 1827",
+      "fin_mandato": "15 de febrero de 1827",
+      "partido": "Pipiolo",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Ramón Freire Serrano",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "15 de febrero de 1827",
+      "fin_mandato": "8 de mayo de 1827",
+      "partido": "Pipiolo",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Francisco Antonio Pinto Díaz",
+      "cargo": "Vicepresidente de la República (Elegido)",
+      "inicio_mandato": "8 de mayo de 1827",
+      "fin_mandato": "16 de julio de 1829",
+      "partido": "Pipiolo",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Francisco Ramón Vicuña",
+      "cargo": "Presidente Delegado",
+      "inicio_mandato": "16 de julio de 1829",
+      "fin_mandato": "19 de octubre de 1829",
+      "partido": "Pipiolo",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Francisco Antonio Pinto Díaz",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "19 de octubre de 1829",
+      "fin_mandato": "2 de noviembre de 1829",
+      "partido": "Pipiolo",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Francisco Ramón Vicuña",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "2 de noviembre de 1829",
+      "fin_mandato": "7 de noviembre de 1829",
+      "partido": "Pipiolo",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Ramón Freire Serrano",
+      "cargo": "Presidente de la Junta de Gobierno",
+      "inicio_mandato": "7 de noviembre de 1829",
+      "fin_mandato": "8 de noviembre de 1829",
+      "partido": "Pipiolo",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Francisco Ramón Vicuña",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "8 de noviembre de 1829",
+      "fin_mandato": "7 de diciembre de 1829",
+      "partido": "Pipiolo",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Acefalía del Ejecutivo",
+      "cargo": "Guerra civil",
+      "inicio_mandato": "7 de diciembre de 1829",
+      "fin_mandato": "24 de diciembre de 1829",
+      "partido": "",
+      "coalicion": ""
+    },
+    {
+      "presidente": "José Tomás Ovalle Bezanilla",
+      "cargo": "Presidente de la Junta de Gobierno",
+      "inicio_mandato": "24 de diciembre de 1829",
+      "fin_mandato": "18 de febrero de 1830",
+      "partido": "Pelucón",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Francisco Ruiz-Tagle Portales",
+      "cargo": "Presidente Provisional de la República (Elegido)",
+      "inicio_mandato": "18 de febrero de 1830",
+      "fin_mandato": "1 de abril de 1830",
+      "partido": "Pelucón",
+      "coalicion": ""
+    },
+    {
+      "presidente": "José Tomás Ovalle Bezanilla",
+      "cargo": "Vicepresidente Provisional de la República (Elegido)",
+      "inicio_mandato": "1 de abril de 1830",
+      "fin_mandato": "†21 de marzo de 1831",
+      "partido": "Pelucón",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Fernando Errázuriz Aldunate",
+      "cargo": "Vicepresidente Provisorio",
+      "inicio_mandato": "21 de marzo de 1831",
+      "fin_mandato": "18 de septiembre de 1831",
+      "partido": "Pelucón",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Joaquín Prieto",
+      "cargo": "Presidente de la República (Elegido) (Reelegido)",
+      "inicio_mandato": "18 de septiembre de 1831",
+      "fin_mandato": "18 de septiembre de 1836",
+      "partido": "Pelucón Conservador",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Joaquín Prieto",
+      "cargo": "Presidente de la República (Elegido) (Reelegido)",
+      "inicio_mandato": "18 de septiembre de 1836",
+      "fin_mandato": "18 de septiembre de 1841",
+      "partido": "Pelucón Conservador",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Manuel Bulnes Prieto",
+      "cargo": "Presidente de la República (Elegido) (Reelegido)",
+      "inicio_mandato": "18 de septiembre de 1841",
+      "fin_mandato": "18 de septiembre de 1846",
+      "partido": "Conservador",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Manuel Bulnes Prieto",
+      "cargo": "Presidente de la República (Elegido) (Reelegido)",
+      "inicio_mandato": "18 de septiembre de 1846",
+      "fin_mandato": "18 de septiembre de 1851",
+      "partido": "Conservador",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Manuel Montt Torres",
+      "cargo": "Presidente de la República (Elegido) (Reelegido)",
+      "inicio_mandato": "18 de septiembre de 1851",
+      "fin_mandato": "18 de septiembre de 1856",
+      "partido": "Conservador",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Manuel Montt Torres",
+      "cargo": "Presidente de la República (Elegido) (Reelegido)",
+      "inicio_mandato": "18 de septiembre de 1856",
+      "fin_mandato": "18 de septiembre de 1861",
+      "partido": "Nacional",
+      "coalicion": ""
+    },
+    {
+      "presidente": "José Joaquín Pérez Mascayano",
+      "cargo": "Presidente de la República (Elegido) (Reelegido)",
+      "inicio_mandato": "18 de septiembre de 1861",
+      "fin_mandato": "18 de septiembre de 1866",
+      "partido": "Nacional",
+      "coalicion": ""
+    },
+    {
+      "presidente": "José Joaquín Pérez Mascayano",
+      "cargo": "Presidente de la República (Elegido) (Reelegido)",
+      "inicio_mandato": "18 de septiembre de 1866",
+      "fin_mandato": "18 de septiembre de 1871",
+      "partido": "Nacional",
+      "coalicion": "Fusión Liberal-Conservadora"
+    },
+    {
+      "presidente": "Federico Errázuriz Zañartu",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "18 de septiembre de 1871",
+      "fin_mandato": "18 de septiembre de 1876",
+      "partido": "Liberal",
+      "coalicion": "Fusión Liberal-Conservadora"
+    },
+    {
+      "presidente": "Aníbal Pinto Garmendia",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "18 de septiembre de 1876",
+      "fin_mandato": "18 de septiembre de 1881",
+      "partido": "Liberal",
+      "coalicion": "Alianza Liberal"
+    },
+    {
+      "presidente": "Domingo Santa María González",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "18 de septiembre de 1881",
+      "fin_mandato": "18 de septiembre de 1886",
+      "partido": "Liberal",
+      "coalicion": "Alianza Liberal"
+    },
+    {
+      "presidente": "José Manuel Balmaceda Fernández",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "18 de septiembre de 1886",
+      "fin_mandato": "29 de agosto de 1891",
+      "partido": "Liberal",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Manuel Baquedano González",
+      "cargo": "Jefe Accidental de la República",
+      "inicio_mandato": "29 de agosto de 1891",
+      "fin_mandato": "31 de agosto de 1891",
+      "partido": "",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Jorge Montt Álvarez",
+      "cargo": "Presidente de la Junta de Gobierno",
+      "inicio_mandato": "31 de agosto de 1891",
+      "fin_mandato": "10 de noviembre de 1891",
+      "partido": "Independiente",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Jorge Montt Álvarez",
+      "cargo": "Jefe del Poder Ejecutivo",
+      "inicio_mandato": "10 de noviembre de 1891",
+      "fin_mandato": "26 de diciembre de 1891",
+      "partido": "Independiente",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Jorge Montt Álvarez",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "26 de diciembre de 1891",
+      "fin_mandato": "18 de septiembre de 1896",
+      "partido": "Independiente",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Federico Errázuriz Echaurren",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "18 de septiembre de 1896",
+      "fin_mandato": "† 12 de julio de 1901",
+      "partido": "Liberal",
+      "coalicion": "Coalición"
+    },
+    {
+      "presidente": "Aníbal Zañartu Zañartu",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "12 de julio de 1901",
+      "fin_mandato": "18 de septiembre de 1901",
+      "partido": "Liberal",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Germán Riesco Errázuriz",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "18 de septiembre de 1901",
+      "fin_mandato": "18 de septiembre de 1906",
+      "partido": "Liberal",
+      "coalicion": "Alianza Liberal"
+    },
+    {
+      "presidente": "Pedro Montt Montt",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "18 de septiembre de 1906",
+      "fin_mandato": "† 16 de agosto de 1910",
+      "partido": "Nacional",
+      "coalicion": "Alianza Liberal"
+    },
+    {
+      "presidente": "Elías Fernández Albano",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "16 de agosto de 1910",
+      "fin_mandato": "† 6 de septiembre de 1910",
+      "partido": "Nacional",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Emiliano Figueroa Larraín",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "6 de septiembre de 1910",
+      "fin_mandato": "23 de diciembre de 1910",
+      "partido": "Liberal Democrático",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Ramón Barros Luco",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "23 de diciembre de 1910",
+      "fin_mandato": "23 de diciembre de 1915",
+      "partido": "Liberal",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Juan Luis Sanfuentes Andonaegui",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "23 de diciembre de 1915",
+      "fin_mandato": "23 de diciembre de 1920",
+      "partido": "Liberal Democrático",
+      "coalicion": "Coalición"
+    },
+    {
+      "presidente": "Arturo Alessandri Palma",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "23 de diciembre de 1920",
+      "fin_mandato": "11 de septiembre de 1924",
+      "partido": "Liberal",
+      "coalicion": "Unión Liberal"
+    },
+    {
+      "presidente": "Luis Altamirano Talavera",
+      "cargo": "Presidente de la Junta de Gobierno",
+      "inicio_mandato": "11 de septiembre de 1924",
+      "fin_mandato": "23 de enero de 1925",
+      "partido": "Independiente",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Pedro Pablo Dartnell",
+      "cargo": "Presidente de la Junta de Gobierno",
+      "inicio_mandato": "23 de enero de 1925",
+      "fin_mandato": "27 de enero de 1925",
+      "partido": "Independiente",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Emilio Bello Codesido",
+      "cargo": "Presidente de la Junta de Gobierno",
+      "inicio_mandato": "27 de enero de 1925",
+      "fin_mandato": "12 de marzo de 1925",
+      "partido": "Liberal Democrático",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Arturo Alessandri Palma",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "12 de marzo de 1925",
+      "fin_mandato": "1 de octubre de 1925",
+      "partido": "Liberal",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Luis Barros Borgoño",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "1 de octubre de 1925",
+      "fin_mandato": "23 de diciembre de 1925",
+      "partido": "Liberal",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Emiliano Figueroa Larraín",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "23 de diciembre de 1925",
+      "fin_mandato": "10 de mayo de 1927",
+      "partido": "Liberal Democrático",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Carlos Ibáñez del Campo",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "10 de mayo de 1927",
+      "fin_mandato": "21 de julio de 1927",
+      "partido": "Independiente",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Carlos Ibáñez del Campo",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "21 de julio de 1927",
+      "fin_mandato": "26 de julio de 1931",
+      "partido": "Independiente",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Pedro Opaso Letelier",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "26 de julio de 1931",
+      "fin_mandato": "27 de julio de 1931",
+      "partido": "Liberal Democrático",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Juan Esteban Montero Rodríguez",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "27 de julio de 1931",
+      "fin_mandato": "3 de septiembre de 1931",
+      "partido": "Radical",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Manuel Trucco Franzani",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "3 de septiembre de 1931",
+      "fin_mandato": "15 de noviembre de 1931",
+      "partido": "Radical",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Juan Esteban Montero Rodríguez",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "15 de noviembre de 1931",
+      "fin_mandato": "4 de diciembre de 1931",
+      "partido": "Radical",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Juan Esteban Montero Rodríguez",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "4 de diciembre de 1931",
+      "fin_mandato": "4 de junio de 1932",
+      "partido": "Radical",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Arturo Puga Osorio",
+      "cargo": "Presidente de la Junta de Gobierno de la República Socialista",
+      "inicio_mandato": "4 de junio de 1932",
+      "fin_mandato": "13 de junio de 1932",
+      "partido": "Independiente",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Carlos Dávila Espinoza",
+      "cargo": "Presidente Provisional de la República Socialista",
+      "inicio_mandato": "13 de junio de 1932",
+      "fin_mandato": "8 de julio de 1932",
+      "partido": "Socialista",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Carlos Dávila Espinoza",
+      "cargo": "Presidente Provisional de la República Socialista",
+      "inicio_mandato": "8 de julio de 1932",
+      "fin_mandato": "13 de septiembre de 1932",
+      "partido": "Socialista",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Bartolomé Blanche Espejo",
+      "cargo": "Presidente Provisional",
+      "inicio_mandato": "13 de septiembre de 1932",
+      "fin_mandato": "2 de octubre de 1932",
+      "partido": "Independiente",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Abraham Oyanedel Urrutia",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "2 de octubre de 1932",
+      "fin_mandato": "24 de diciembre de 1932",
+      "partido": "Independiente",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Arturo Alessandri Palma",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "24 de diciembre de 1932",
+      "fin_mandato": "24 de diciembre de 1938",
+      "partido": "Liberal",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Pedro Aguirre Cerda",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "24 de diciembre de 1938",
+      "fin_mandato": "† 25 de noviembre de 1941",
+      "partido": "Radical",
+      "coalicion": "Frente Popular"
+    },
+    {
+      "presidente": "Jerónimo Méndez Arancibia",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "25 de noviembre de 1941",
+      "fin_mandato": "2 de abril de 1942",
+      "partido": "Radical",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Juan Antonio Ríos Morales",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "2 de abril de 1942",
+      "fin_mandato": "† 27 de junio de 1946",
+      "partido": "Radical",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Alfredo Duhalde Vásquez",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "27 de junio de 1946",
+      "fin_mandato": "3 de agosto de 1946",
+      "partido": "Radical",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Vicente Merino Bielich",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "3 de agosto de 1946",
+      "fin_mandato": "13 de agosto de 1946",
+      "partido": "Independiente",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Alfredo Duhalde Vásquez",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "13 de agosto de 1946",
+      "fin_mandato": "17 de octubre de 1946",
+      "partido": "Radical",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Juan Antonio Iribarren Cabezas",
+      "cargo": "Vicepresidente de la República",
+      "inicio_mandato": "17 de octubre de 1946",
+      "fin_mandato": "3 de noviembre de 1946",
+      "partido": "Radical",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Gabriel González Videla",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "3 de noviembre de 1946",
+      "fin_mandato": "3 de noviembre de 1952",
+      "partido": "Radical",
+      "coalicion": "Alianza Democrática"
+    },
+    {
+      "presidente": "Carlos Ibáñez del Campo",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "3 de noviembre de 1952",
+      "fin_mandato": "3 de noviembre de 1958",
+      "partido": "Independiente",
+      "coalicion": "Partido Agrario Laborista Partido Socialista Popular Partido Femenino"
+    },
+    {
+      "presidente": "Jorge Alessandri Rodríguez",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "3 de noviembre de 1958",
+      "fin_mandato": "3 de noviembre de 1964",
+      "partido": "Independiente",
+      "coalicion": "Partido Liberal Partido Conservador Unido"
+    },
+    {
+      "presidente": "Eduardo Frei Montalva",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "3 de noviembre de 1964",
+      "fin_mandato": "3 de noviembre de 1970",
+      "partido": "Demócrata Cristiano",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Salvador Allende Gossens",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "3 de noviembre de 1970",
+      "fin_mandato": "† 11 de septiembre de 1973",
+      "partido": "Socialista",
+      "coalicion": "Unidad Popular"
+    },
+    {
+      "presidente": "Augusto Pinochet Ugarte",
+      "cargo": "Presidente de la Junta de Gobierno",
+      "inicio_mandato": "11 de septiembre de 1973",
+      "fin_mandato": "11 de marzo de 1981",
+      "partido": "Militar",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Augusto Pinochet Ugarte",
+      "cargo": "Jefe supremo de la Nación",
+      "inicio_mandato": "17 de junio de 1974",
+      "fin_mandato": "17 de diciembre de 1974",
+      "partido": "Militar",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Augusto Pinochet Ugarte",
+      "cargo": "Presidente de la República",
+      "inicio_mandato": "17 de diciembre de 1974",
+      "fin_mandato": "11 de marzo de 1981",
+      "partido": "Militar",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Augusto Pinochet Ugarte",
+      "cargo": "Presidente de la República (Plebiscitos de 1980 y 1988).",
+      "inicio_mandato": "11 de marzo de 1981",
+      "fin_mandato": "11 de marzo de 1990",
+      "partido": "Militar",
+      "coalicion": ""
+    },
+    {
+      "presidente": "Patricio Aylwin Azócar",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "11 de marzo de 1990",
+      "fin_mandato": "11 de marzo de 1994",
+      "partido": "Demócrata Cristiano",
+      "coalicion": "Concertación"
+    },
+    {
+      "presidente": "Eduardo Frei Ruiz-Tagle",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "11 de marzo de 1994",
+      "fin_mandato": "11 de marzo de 2000",
+      "partido": "Demócrata Cristiano",
+      "coalicion": "Concertación"
+    },
+    {
+      "presidente": "Ricardo Lagos Escobar",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "11 de marzo de 2000",
+      "fin_mandato": "11 de marzo de 2006",
+      "partido": "Partido por la Democracia",
+      "coalicion": "Concertación"
+    },
+    {
+      "presidente": "Michelle Bachelet Jeria",
+      "cargo": "Presidenta de la República (Elegida)",
+      "inicio_mandato": "11 de marzo de 2006",
+      "fin_mandato": "11 de marzo de 2010",
+      "partido": "Socialista",
+      "coalicion": "Concertación"
+    },
+    {
+      "presidente": "Sebastián Piñera Echenique",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "11 de marzo de 2010",
+      "fin_mandato": "11 de marzo de 2014",
+      "partido": "Independiente",
+      "coalicion": "Coalición por el Cambio"
+    },
+    {
+      "presidente": "Michelle Bachelet Jeria",
+      "cargo": "Presidenta de la República (Elegida)",
+      "inicio_mandato": "11 de marzo de 2014",
+      "fin_mandato": "11 de marzo de 2018",
+      "partido": "Socialista",
+      "coalicion": "Nueva Mayoría"
+    },
+    {
+      "presidente": "Sebastián Piñera Echenique",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "11 de marzo de 2018",
+      "fin_mandato": "11 de marzo de 2022",
+      "partido": "Independiente",
+      "coalicion": "Chile Vamos"
+    },
+    {
+      "presidente": "Gabriel Boric Font",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "11 de marzo de 2022",
+      "fin_mandato": "11 de marzo de 2026",
+      "partido": "Convergencia Social",
+      "coalicion": "Apruebo Dignidad"
+    },
+    {
+      "presidente": "Gabriel Boric Font",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "11 de marzo de 2022",
+      "fin_mandato": "11 de marzo de 2026",
+      "partido": "Frente Amplio",
+      "coalicion": "Unidad por Chile"
+    },
+    {
+      "presidente": "José Antonio Kast Rist",
+      "cargo": "Presidente de la República (Elegido)",
+      "inicio_mandato": "11 de marzo de 2026",
+      "fin_mandato": "En el cargo",
+      "partido": "Independiente",
+      "coalicion": "Sin coalición"
+    }
+  ],
+  "meta": {
+    "title": "Presidentes de Chile - Free Download",
+    "description": "Lista de los presidentes y jefes de Estado de Chile desde 1826, con el tipo de mandato, fechas de inicio y fin, partido y coalición. Contains 85 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidentes de Chile | ListBase",
+    "seo_description": "Download Presidentes de Chile — 85 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 85 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Presidentes_de_Chile"
+    ]
+  }
+}

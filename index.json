@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-02T02:24:20.908Z",
-  "total_datasets": 514,
-  "total_records": 427921,
+  "generated": "2026-11-02T02:24:28.607Z",
+  "total_datasets": 515,
+  "total_records": 428006,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -2848,6 +2848,33 @@
         "xlsx": {
           "name": "es-presidentes-de-argentina_ES.xlsx",
           "size": 11290
+        }
+      }
+    },
+    {
+      "id": "es-presidentes-de-chile",
+      "name": "Presidentes de Chile",
+      "category": "politics",
+      "record_count": 85,
+      "columns": [
+        "presidente",
+        "cargo",
+        "inicio_mandato",
+        "fin_mandato",
+        "partido",
+        "coalicion"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Presidentes_de_Chile",
+      "updated": "2026-11",
+      "size": 24815,
+      "files": {
+        "csv": {
+          "name": "es-presidentes-de-chile_ES.csv",
+          "size": 11775
+        },
+        "xlsx": {
+          "name": "es-presidentes-de-chile_ES.xlsx",
+          "size": 10910
         }
       }
     },
