@@ -1,0 +1,919 @@
+{
+  "id": "es-copa-del-rey-finales",
+  "name": "Finales de la Copa del Rey de fútbol",
+  "title": "Finales de la Copa del Rey de fútbol",
+  "description": "Palmarés histórico de la Copa del Rey de fútbol desde 1903: edición, campeón, resultado de la final, subcampeón y sede.",
+  "category": "sports",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Palmarés_de_la_Copa_del_Rey_de_fútbol",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Palmarés_de_la_Copa_del_Rey_de_fútbol",
+  "updated": "2026-11",
+  "record_count": 124,
+  "columns": [
+    {
+      "key": "edicion",
+      "label": "Edicion",
+      "type": "number"
+    },
+    {
+      "key": "campeon",
+      "label": "Campeon",
+      "type": "string"
+    },
+    {
+      "key": "resultado",
+      "label": "Resultado",
+      "type": "string"
+    },
+    {
+      "key": "subcampeon",
+      "label": "Subcampeon",
+      "type": "string"
+    },
+    {
+      "key": "sede_final",
+      "label": "Sede Final",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edicion": "1903",
+      "campeon": "Athletic Club",
+      "resultado": "3 - 2",
+      "subcampeon": "Madrid F. C.",
+      "sede_final": "Hipódromo de la Castellana, Madrid"
+    },
+    {
+      "edicion": "1904",
+      "campeon": "Athletic Club",
+      "resultado": "No hubo final",
+      "subcampeon": "Desierto",
+      "sede_final": ""
+    },
+    {
+      "edicion": "1905",
+      "campeon": "Madrid F. C.",
+      "resultado": "1 - 0",
+      "subcampeon": "Athletic Club",
+      "sede_final": "Campo del Retiro, Madrid"
+    },
+    {
+      "edicion": "1906",
+      "campeon": "Madrid F. C.",
+      "resultado": "4 - 1",
+      "subcampeon": "Athletic Club",
+      "sede_final": "Hipódromo de la Castellana, Madrid"
+    },
+    {
+      "edicion": "1907",
+      "campeon": "Madrid F. C.",
+      "resultado": "1 - 0",
+      "subcampeon": "Bizcaya",
+      "sede_final": "Hipódromo de la Castellana, Madrid"
+    },
+    {
+      "edicion": "1908",
+      "campeon": "Madrid F. C.",
+      "resultado": "2 - 1",
+      "subcampeon": "Vigo F. C.",
+      "sede_final": "Campo del Madrid, Madrid"
+    },
+    {
+      "edicion": "1909",
+      "campeon": "Club Ciclista de San Sebastián",
+      "resultado": "3 - 1",
+      "subcampeon": "Español Madrid",
+      "sede_final": "Campo del Madrid, Madrid"
+    },
+    {
+      "edicion": "1910-I",
+      "campeon": "F. C. Barcelona",
+      "resultado": "3 - 2",
+      "subcampeon": "Español Madrid",
+      "sede_final": "Campo del Retiro, Madrid"
+    },
+    {
+      "edicion": "1910-II",
+      "campeon": "Athletic Club",
+      "resultado": "1 - 0",
+      "subcampeon": "Vasconia Sporting Club",
+      "sede_final": "Ondarreta, San Sebastián"
+    },
+    {
+      "edicion": "1911",
+      "campeon": "Athletic Club",
+      "resultado": "3 - 1",
+      "subcampeon": "C. D. Español",
+      "sede_final": "Jolaseta, Guecho"
+    },
+    {
+      "edicion": "1912",
+      "campeon": "F. C. Barcelona",
+      "resultado": "2 - 0",
+      "subcampeon": "R. S. Gimnástica Española",
+      "sede_final": "La Escopidora, Barcelona"
+    },
+    {
+      "edicion": "1913-I",
+      "campeon": "Rácing de Irún",
+      "resultado": "2 - 2 (pro.) / (1 - 0)",
+      "subcampeon": "Athletic Club",
+      "sede_final": "Estadio de O'Donnell, Madrid"
+    },
+    {
+      "edicion": "1913-II",
+      "campeon": "F. C. Barcelona",
+      "resultado": "2 - 2, 0 - 0 / (2 - 1)",
+      "subcampeon": "Real Sociedad de Fútbol",
+      "sede_final": "La Escopidora, Barcelona"
+    },
+    {
+      "edicion": "1914",
+      "campeon": "Athletic Club",
+      "resultado": "2 - 1",
+      "subcampeon": "F. C. España",
+      "sede_final": "Amute, Irún"
+    },
+    {
+      "edicion": "1915",
+      "campeon": "Athletic Club",
+      "resultado": "5 - 0",
+      "subcampeon": "R. C. D. Español",
+      "sede_final": "Amute, Irún"
+    },
+    {
+      "edicion": "1916",
+      "campeon": "Athletic Club",
+      "resultado": "4 - 0",
+      "subcampeon": "Madrid F. C.",
+      "sede_final": "La Escopidora, Barcelona"
+    },
+    {
+      "edicion": "1917",
+      "campeon": "Madrid F. C.",
+      "resultado": "0 - 0 (pro.) / (2 - 1)",
+      "subcampeon": "Arenas de Guecho",
+      "sede_final": "La Escopidora, Barcelona"
+    },
+    {
+      "edicion": "1918",
+      "campeon": "Real Unión Club",
+      "resultado": "2 - 0",
+      "subcampeon": "Madrid F. C.",
+      "sede_final": "Campo de O'Donnell, Madrid"
+    },
+    {
+      "edicion": "1919",
+      "campeon": "Arenas de Guecho",
+      "resultado": "5 - 2 (pro.)",
+      "subcampeon": "F. C. Barcelona",
+      "sede_final": "Martínez Campos, Madrid"
+    },
+    {
+      "edicion": "1920",
+      "campeon": "F. C. Barcelona",
+      "resultado": "2 - 0",
+      "subcampeon": "Athletic Club",
+      "sede_final": "El Molinón, Gijón"
+    },
+    {
+      "edicion": "1921",
+      "campeon": "Athletic Club",
+      "resultado": "4 - 1",
+      "subcampeon": "Athletic Club de Madrid",
+      "sede_final": "San Mamés, Bilbao"
+    },
+    {
+      "edicion": "1922",
+      "campeon": "F. C. Barcelona",
+      "resultado": "5 - 1",
+      "subcampeon": "Real Unión Club",
+      "sede_final": "Coia, Vigo"
+    },
+    {
+      "edicion": "1923",
+      "campeon": "Athletic Club",
+      "resultado": "1 - 0",
+      "subcampeon": "C. D. Europa",
+      "sede_final": "Las Corts, Barcelona"
+    },
+    {
+      "edicion": "1924",
+      "campeon": "Real Unión Club",
+      "resultado": "1 - 0",
+      "subcampeon": "Real Madrid F. C.",
+      "sede_final": "Atocha, San Sebastián"
+    },
+    {
+      "edicion": "1925",
+      "campeon": "F. C. Barcelona",
+      "resultado": "2 - 0",
+      "subcampeon": "Arenas de Guecho",
+      "sede_final": "Reina Victoria, Sevilla"
+    },
+    {
+      "edicion": "1926",
+      "campeon": "F. C. Barcelona",
+      "resultado": "3 - 2 (pro.)",
+      "subcampeon": "Athletic Club de Madrid",
+      "sede_final": "Mestalla, Valencia"
+    },
+    {
+      "edicion": "1927",
+      "campeon": "Real Unión Club",
+      "resultado": "1 - 0 (pro.)",
+      "subcampeon": "Arenas de Guecho",
+      "sede_final": "Torrero, Zaragoza"
+    },
+    {
+      "edicion": "1928",
+      "campeon": "F. C. Barcelona",
+      "resultado": "1 - 1 (pro.) / (1 - 1, 3 - 1)",
+      "subcampeon": "Real Sociedad de Fútbol",
+      "sede_final": "El Sardinero, Santander"
+    },
+    {
+      "edicion": "1928-29",
+      "campeon": "R. C. D. Español",
+      "resultado": "2 - 1",
+      "subcampeon": "Real Madrid F. C.",
+      "sede_final": "Mestalla, Valencia"
+    },
+    {
+      "edicion": "1930",
+      "campeon": "Athletic Club",
+      "resultado": "3 - 2 (pro.)",
+      "subcampeon": "Real Madrid F. C.",
+      "sede_final": "Olímpico de Montjuic, Barcelona"
+    },
+    {
+      "edicion": "1931",
+      "campeon": "Athletic Club",
+      "resultado": "3 - 1",
+      "subcampeon": "Betis Balompié",
+      "sede_final": "Chamartín, Madrid"
+    },
+    {
+      "edicion": "1932",
+      "campeon": "Athletic Club",
+      "resultado": "1 - 0",
+      "subcampeon": "F. C. Barcelona",
+      "sede_final": "Chamartín, Madrid"
+    },
+    {
+      "edicion": "1933",
+      "campeon": "Athletic Club",
+      "resultado": "2 - 1",
+      "subcampeon": "Madrid F. C.",
+      "sede_final": "Olímpico de Montjuic, Barcelona"
+    },
+    {
+      "edicion": "1934",
+      "campeon": "Madrid F. C.",
+      "resultado": "2 - 1",
+      "subcampeon": "Valencia F. C.",
+      "sede_final": "Olímpico de Montjuic, Barcelona"
+    },
+    {
+      "edicion": "1935",
+      "campeon": "Sevilla F. C.",
+      "resultado": "3 - 0",
+      "subcampeon": "C. S. Sabadell F. C.",
+      "sede_final": "Chamartín, Madrid"
+    },
+    {
+      "edicion": "1936",
+      "campeon": "Madrid F. C.",
+      "resultado": "2 - 1",
+      "subcampeon": "F. C. Barcelona",
+      "sede_final": "Mestalla, Valencia"
+    },
+    {
+      "edicion": "1939",
+      "campeon": "Sevilla F. C.",
+      "resultado": "6 - 2",
+      "subcampeon": "Racing Club de Ferrol",
+      "sede_final": "Olímpico de Montjuic, Barcelona"
+    },
+    {
+      "edicion": "1940",
+      "campeon": "R. C. D. Español",
+      "resultado": "3 - 2 (pro.)",
+      "subcampeon": "Madrid F. C.",
+      "sede_final": "Vallecas, Madrid"
+    },
+    {
+      "edicion": "1941",
+      "campeon": "Valencia C. F.",
+      "resultado": "3 - 1",
+      "subcampeon": "R. C. D. Español",
+      "sede_final": "Chamartín, Madrid"
+    },
+    {
+      "edicion": "1942",
+      "campeon": "C. F. Barcelona",
+      "resultado": "4 - 3 (pro.)",
+      "subcampeon": "Atlético de Bilbao",
+      "sede_final": "Chamartín, Madrid"
+    },
+    {
+      "edicion": "1943",
+      "campeon": "Atlético de Bilbao",
+      "resultado": "1 - 0 (pro.)",
+      "subcampeon": "Real Madrid C. F.",
+      "sede_final": "Stadium Metropolitano, Madrid"
+    },
+    {
+      "edicion": "1944",
+      "campeon": "Atlético de Bilbao",
+      "resultado": "2 - 0",
+      "subcampeon": "Valencia C. F.",
+      "sede_final": "Olímpico de Montjuic, Barcelona"
+    },
+    {
+      "edicion": "1944-45",
+      "campeon": "Atlético de Bilbao",
+      "resultado": "3 - 2",
+      "subcampeon": "Valencia C. F.",
+      "sede_final": "Olímpico de Montjuic, Barcelona"
+    },
+    {
+      "edicion": "1946",
+      "campeon": "Real Madrid C. F.",
+      "resultado": "3 - 1",
+      "subcampeon": "Valencia C. F.",
+      "sede_final": "Olímpico de Montjuic, Barcelona"
+    },
+    {
+      "edicion": "1947",
+      "campeon": "Real Madrid C. F.",
+      "resultado": "2 - 0 (pro.)",
+      "subcampeon": "R. C. D. Español",
+      "sede_final": "Riazor, La Coruña"
+    },
+    {
+      "edicion": "1947-48",
+      "campeon": "Sevilla C. F.",
+      "resultado": "4 - 1",
+      "subcampeon": "R. C. Celta de Vigo",
+      "sede_final": "Nuevo Chamartín, Madrid"
+    },
+    {
+      "edicion": "1948-49",
+      "campeon": "Valencia C. F.",
+      "resultado": "1 - 0",
+      "subcampeon": "Atlético de Bilbao",
+      "sede_final": "Nuevo Chamartín, Madrid"
+    },
+    {
+      "edicion": "1949-50",
+      "campeon": "Atlético de Bilbao",
+      "resultado": "4 - 1 (pro.)",
+      "subcampeon": "Real Valladolid",
+      "sede_final": "Nuevo Chamartín, Madrid"
+    },
+    {
+      "edicion": "1951",
+      "campeon": "C. F. Barcelona",
+      "resultado": "3 - 0",
+      "subcampeon": "Real Sociedad de Fútbol",
+      "sede_final": "Nuevo Chamartín, Madrid"
+    },
+    {
+      "edicion": "1952",
+      "campeon": "C. F. Barcelona",
+      "resultado": "4 - 2 (pro.)",
+      "subcampeon": "Valencia C. F.",
+      "sede_final": "Nuevo Chamartín, Madrid"
+    },
+    {
+      "edicion": "1952-53",
+      "campeon": "C. F. Barcelona",
+      "resultado": "2 - 1",
+      "subcampeon": "Atlético de Bilbao",
+      "sede_final": "Nuevo Chamartín, Madrid"
+    },
+    {
+      "edicion": "1954",
+      "campeon": "Valencia C. F.",
+      "resultado": "3 - 0",
+      "subcampeon": "C. F. Barcelona",
+      "sede_final": "Nuevo Chamartín, Madrid"
+    },
+    {
+      "edicion": "1955",
+      "campeon": "Atlético de Bilbao",
+      "resultado": "1 - 0",
+      "subcampeon": "Sevilla C. F.",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1956",
+      "campeon": "Atlético de Bilbao",
+      "resultado": "2 - 1",
+      "subcampeon": "Atlético de Madrid",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1957",
+      "campeon": "C. F. Barcelona",
+      "resultado": "1 - 0",
+      "subcampeon": "R. C. D. Español",
+      "sede_final": "Olímpico de Montjuic, Barcelona"
+    },
+    {
+      "edicion": "1958",
+      "campeon": "Atlético de Bilbao",
+      "resultado": "2 - 0",
+      "subcampeon": "Real Madrid C. F.",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1958-59",
+      "campeon": "C. F. Barcelona",
+      "resultado": "4 - 1",
+      "subcampeon": "Granada C. F.",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1959-60",
+      "campeon": "Atlético de Madrid",
+      "resultado": "3 - 1",
+      "subcampeon": "Real Madrid C. F.",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1960-61",
+      "campeon": "Atlético de Madrid",
+      "resultado": "3 - 2",
+      "subcampeon": "Real Madrid C. F.",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1961-62",
+      "campeon": "Real Madrid C. F.",
+      "resultado": "2 - 1",
+      "subcampeon": "Sevilla C. F.",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1962-63",
+      "campeon": "C. F. Barcelona",
+      "resultado": "3 - 1",
+      "subcampeon": "Real Zaragoza",
+      "sede_final": "Estadio del Barcelona, Barcelona"
+    },
+    {
+      "edicion": "1963-64",
+      "campeon": "Real Zaragoza C. D.",
+      "resultado": "2 - 1",
+      "subcampeon": "Atlético de Madrid",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1964-65",
+      "campeon": "Atlético de Madrid",
+      "resultado": "1 - 0",
+      "subcampeon": "Real Zaragoza",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1965-66",
+      "campeon": "Real Zaragoza",
+      "resultado": "2 - 0",
+      "subcampeon": "Atlético de Bilbao",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1966-67",
+      "campeon": "Valencia C. F.",
+      "resultado": "2 - 1",
+      "subcampeon": "Atlético de Bilbao",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1967-68",
+      "campeon": "C. F. Barcelona",
+      "resultado": "1 - 0",
+      "subcampeon": "Real Madrid C. F.",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1969",
+      "campeon": "Atlético de Bilbao",
+      "resultado": "1 - 0",
+      "subcampeon": "Elche C. F.",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1969-70",
+      "campeon": "Real Madrid C. F.",
+      "resultado": "3 - 1",
+      "subcampeon": "Valencia C. F.",
+      "sede_final": "Estadio del Barcelona, Barcelona"
+    },
+    {
+      "edicion": "1970-71",
+      "campeon": "C. F. Barcelona",
+      "resultado": "4 - 3 (pro.)",
+      "subcampeon": "Valencia C. F.",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1971-72",
+      "campeon": "Atlético de Madrid",
+      "resultado": "2 - 1",
+      "subcampeon": "Valencia C. F.",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1972-73",
+      "campeon": "Athletic Club de Bilbao",
+      "resultado": "2 - 0",
+      "subcampeon": "C. D. Castellón",
+      "sede_final": "Vicente Calderón, Madrid"
+    },
+    {
+      "edicion": "1973-74",
+      "campeon": "Real Madrid C. F.",
+      "resultado": "4 - 0",
+      "subcampeon": "F. C. Barcelona",
+      "sede_final": "Vicente Calderón, Madrid"
+    },
+    {
+      "edicion": "1974-75",
+      "campeon": "Real Madrid C. F.",
+      "resultado": "0 - 0 (pro.) (4 - 3 pen.)",
+      "subcampeon": "Atlético de Madrid",
+      "sede_final": "Vicente Calderón, Madrid"
+    },
+    {
+      "edicion": "1975-76",
+      "campeon": "Atlético de Madrid",
+      "resultado": "1 - 0",
+      "subcampeon": "Real Zaragoza",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1976-77",
+      "campeon": "Real Betis Balompié",
+      "resultado": "2 - 2 (pró.) (8 - 7 pen.)",
+      "subcampeon": "Athletic Club",
+      "sede_final": "Vicente Calderón, Madrid"
+    },
+    {
+      "edicion": "1977-78",
+      "campeon": "F. C. Barcelona",
+      "resultado": "3 - 1",
+      "subcampeon": "U. D. Las Palmas",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1978-79",
+      "campeon": "Valencia C. F.",
+      "resultado": "2 - 0",
+      "subcampeon": "Real Madrid C. F.",
+      "sede_final": "Vicente Calderón, Madrid"
+    },
+    {
+      "edicion": "1979-80",
+      "campeon": "Real Madrid C. F.",
+      "resultado": "6 - 1",
+      "subcampeon": "Castilla C. F.",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1980-81",
+      "campeon": "F. C. Barcelona",
+      "resultado": "3 - 1",
+      "subcampeon": "Real Sporting de Gijón",
+      "sede_final": "Vicente Calderón, Madrid"
+    },
+    {
+      "edicion": "1981-82",
+      "campeon": "Real Madrid C. F.",
+      "resultado": "2 - 1",
+      "subcampeon": "Real Sporting de Gijón",
+      "sede_final": "José Zorrilla, Valladolid"
+    },
+    {
+      "edicion": "1982-83",
+      "campeon": "F. C. Barcelona",
+      "resultado": "2 - 1",
+      "subcampeon": "Real Madrid C. F.",
+      "sede_final": "La Romareda, Zaragoza"
+    },
+    {
+      "edicion": "1983-84",
+      "campeon": "Athletic Club",
+      "resultado": "1 - 0",
+      "subcampeon": "F. C. Barcelona",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1984-85",
+      "campeon": "Atlético de Madrid",
+      "resultado": "2 - 1",
+      "subcampeon": "Athletic Club",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1985-86",
+      "campeon": "Real Zaragoza",
+      "resultado": "1 - 0",
+      "subcampeon": "F. C. Barcelona",
+      "sede_final": "Vicente Calderón, Madrid"
+    },
+    {
+      "edicion": "1986-87",
+      "campeon": "Real Sociedad",
+      "resultado": "2 - 2 (pró.) (4 - 2 pen.)",
+      "subcampeon": "Atlético de Madrid",
+      "sede_final": "La Romareda, Zaragoza"
+    },
+    {
+      "edicion": "1987-88",
+      "campeon": "F. C. Barcelona",
+      "resultado": "1 - 0",
+      "subcampeon": "Real Sociedad de Fútbol",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1988-89",
+      "campeon": "Real Madrid C. F.",
+      "resultado": "1 - 0",
+      "subcampeon": "Real Valladolid",
+      "sede_final": "Vicente Calderón, Madrid"
+    },
+    {
+      "edicion": "1989-90",
+      "campeon": "F. C. Barcelona",
+      "resultado": "2 - 0",
+      "subcampeon": "Real Madrid C. F.",
+      "sede_final": "Luis Casanova, Valencia"
+    },
+    {
+      "edicion": "1990-91",
+      "campeon": "Atlético de Madrid",
+      "resultado": "1 - 0 (pró.)",
+      "subcampeon": "R. C. D. Mallorca",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1991-92",
+      "campeon": "Atlético de Madrid",
+      "resultado": "2 - 0",
+      "subcampeon": "Real Madrid C. F.",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1992-93",
+      "campeon": "Real Madrid C. F.",
+      "resultado": "2 - 0",
+      "subcampeon": "Real Zaragoza",
+      "sede_final": "Luis Casanova, Valencia"
+    },
+    {
+      "edicion": "1993-94",
+      "campeon": "Real Zaragoza",
+      "resultado": "0 - 0 (pró.) (5 - 4 pen.)",
+      "subcampeon": "R. C. Celta de Vigo",
+      "sede_final": "Vicente Calderón, Madrid"
+    },
+    {
+      "edicion": "1994-95",
+      "campeon": "R. C. Deportivo de La Coruña",
+      "resultado": "2 - 1",
+      "subcampeon": "Valencia C. F.",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1995-96",
+      "campeon": "Atlético de Madrid",
+      "resultado": "1 - 0 (pró.)",
+      "subcampeon": "F. C. Barcelona",
+      "sede_final": "La Romareda, Zaragoza"
+    },
+    {
+      "edicion": "1996-97",
+      "campeon": "F. C. Barcelona",
+      "resultado": "3 - 2 (pró.)",
+      "subcampeon": "Real Betis Balompié",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "1997-98",
+      "campeon": "F. C. Barcelona",
+      "resultado": "1 - 1 (pró.) (5 - 4 pen.)",
+      "subcampeon": "R. C. D. Mallorca",
+      "sede_final": "Mestalla, Valencia"
+    },
+    {
+      "edicion": "1998-99",
+      "campeon": "Valencia C. F.",
+      "resultado": "3 - 0",
+      "subcampeon": "Atlético de Madrid",
+      "sede_final": "La Cartuja, Sevilla"
+    },
+    {
+      "edicion": "1999-00",
+      "campeon": "R. C. D. Espanyol",
+      "resultado": "2 - 1",
+      "subcampeon": "Atlético de Madrid",
+      "sede_final": "Mestalla, Valencia"
+    },
+    {
+      "edicion": "2000-01",
+      "campeon": "Real Zaragoza",
+      "resultado": "3 - 1",
+      "subcampeon": "R. C. Celta de Vigo",
+      "sede_final": "La Cartuja, Sevilla"
+    },
+    {
+      "edicion": "2001-02",
+      "campeon": "R. C. Deportivo de La Coruña",
+      "resultado": "2 - 1",
+      "subcampeon": "Real Madrid C. F.",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "2002-03",
+      "campeon": "R. C. D. Mallorca",
+      "resultado": "3 - 0",
+      "subcampeon": "R. C. Recreativo de Huelva",
+      "sede_final": "Martínez Valero, Elche"
+    },
+    {
+      "edicion": "2003-04",
+      "campeon": "Real Zaragoza",
+      "resultado": "3 - 2 (pró.)",
+      "subcampeon": "Real Madrid C. F.",
+      "sede_final": "Olímpico de Montjuic, Barcelona"
+    },
+    {
+      "edicion": "2004-05",
+      "campeon": "Real Betis Balompié",
+      "resultado": "2 - 1 (pró.)",
+      "subcampeon": "C. A. Osasuna",
+      "sede_final": "Vicente Calderón, Madrid"
+    },
+    {
+      "edicion": "2005-06",
+      "campeon": "R. C. D. Espanyol",
+      "resultado": "4 - 1",
+      "subcampeon": "Real Zaragoza",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "2006-07",
+      "campeon": "Sevilla F. C.",
+      "resultado": "1 - 0",
+      "subcampeon": "Getafe C. F.",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "2007-08",
+      "campeon": "Valencia C. F.",
+      "resultado": "3 - 1",
+      "subcampeon": "Getafe C. F.",
+      "sede_final": "Vicente Calderón, Madrid"
+    },
+    {
+      "edicion": "2008-09",
+      "campeon": "F. C. Barcelona",
+      "resultado": "4 - 1",
+      "subcampeon": "Athletic Club",
+      "sede_final": "Mestalla, Valencia"
+    },
+    {
+      "edicion": "2009-10",
+      "campeon": "Sevilla F. C.",
+      "resultado": "2 - 0",
+      "subcampeon": "Atlético de Madrid",
+      "sede_final": "Camp Nou, Barcelona"
+    },
+    {
+      "edicion": "2010-11",
+      "campeon": "Real Madrid C. F.",
+      "resultado": "1 - 0 (pró.)",
+      "subcampeon": "F. C. Barcelona",
+      "sede_final": "Mestalla, Valencia"
+    },
+    {
+      "edicion": "2011-12",
+      "campeon": "F. C. Barcelona",
+      "resultado": "3 - 0",
+      "subcampeon": "Athletic Club",
+      "sede_final": "Vicente Calderón, Madrid"
+    },
+    {
+      "edicion": "2012-13",
+      "campeon": "Atlético de Madrid",
+      "resultado": "2 - 1 (pró.)",
+      "subcampeon": "Real Madrid C. F.",
+      "sede_final": "Santiago Bernabéu, Madrid"
+    },
+    {
+      "edicion": "2013-14",
+      "campeon": "Real Madrid C. F.",
+      "resultado": "2 - 1",
+      "subcampeon": "F. C. Barcelona",
+      "sede_final": "Mestalla, Valencia"
+    },
+    {
+      "edicion": "2014-15",
+      "campeon": "F. C. Barcelona",
+      "resultado": "3 - 1",
+      "subcampeon": "Athletic Club",
+      "sede_final": "Camp Nou, Barcelona"
+    },
+    {
+      "edicion": "2015-16",
+      "campeon": "F. C. Barcelona",
+      "resultado": "2 - 0 (pró.)",
+      "subcampeon": "Sevilla F. C.",
+      "sede_final": "Vicente Calderón, Madrid"
+    },
+    {
+      "edicion": "2016-17",
+      "campeon": "F. C. Barcelona",
+      "resultado": "3 - 1",
+      "subcampeon": "Deportivo Alavés",
+      "sede_final": "Vicente Calderón, Madrid"
+    },
+    {
+      "edicion": "2017-18",
+      "campeon": "F. C. Barcelona",
+      "resultado": "5 - 0",
+      "subcampeon": "Sevilla F. C.",
+      "sede_final": "Estadio Metropolitano, Madrid"
+    },
+    {
+      "edicion": "2018-19",
+      "campeon": "Valencia C. F.",
+      "resultado": "2 - 1",
+      "subcampeon": "F. C. Barcelona",
+      "sede_final": "Estadio Benito Villamarín, Sevilla"
+    },
+    {
+      "edicion": "2019-20 (final en 2021)",
+      "campeon": "Real Sociedad",
+      "resultado": "1 - 0",
+      "subcampeon": "Athletic Club",
+      "sede_final": "La Cartuja, Sevilla"
+    },
+    {
+      "edicion": "2020-21",
+      "campeon": "F. C. Barcelona",
+      "resultado": "4 - 0",
+      "subcampeon": "Athletic Club",
+      "sede_final": "La Cartuja, Sevilla"
+    },
+    {
+      "edicion": "2021-22",
+      "campeon": "Real Betis Balompié",
+      "resultado": "1 - 1 (pró.) (5 - 4 pen.)",
+      "subcampeon": "Valencia C. F.",
+      "sede_final": "La Cartuja, Sevilla"
+    },
+    {
+      "edicion": "2022-23",
+      "campeon": "Real Madrid C. F.",
+      "resultado": "2 - 1",
+      "subcampeon": "C. A. Osasuna",
+      "sede_final": "La Cartuja, Sevilla"
+    },
+    {
+      "edicion": "2023-24",
+      "campeon": "Athletic Club",
+      "resultado": "1 - 1 (pró.) (4- 2 pen.)",
+      "subcampeon": "R. C. D. Mallorca",
+      "sede_final": "La Cartuja, Sevilla"
+    },
+    {
+      "edicion": "2024-25",
+      "campeon": "F. C. Barcelona",
+      "resultado": "3 - 2 (pró.)",
+      "subcampeon": "Real Madrid C. F.",
+      "sede_final": "La Cartuja, Sevilla"
+    },
+    {
+      "edicion": "2025-26",
+      "campeon": "Real Sociedad",
+      "resultado": "2 - 2 (pró.) (4 - 3 pen.)",
+      "subcampeon": "Atlético de Madrid",
+      "sede_final": "La Cartuja, Sevilla"
+    }
+  ],
+  "meta": {
+    "title": "Finales de la Copa del Rey de fútbol - Free Download",
+    "description": "Palmarés histórico de la Copa del Rey de fútbol desde 1903: edición, campeón, resultado de la final, subcampeón y sede. Contains 124 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Finales de la Copa del Rey de fútbol | ListBase",
+    "seo_description": "Download Finales de la Copa del Rey de fútbol — 124 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 124 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Palmarés_de_la_Copa_del_Rey_de_fútbol"
+    ]
+  }
+}
