@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-02T02:24:28.607Z",
-  "total_datasets": 515,
-  "total_records": 428006,
+  "generated": "2026-11-02T02:24:36.030Z",
+  "total_datasets": 516,
+  "total_records": 428134,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -15350,6 +15350,36 @@
         "xlsx": {
           "name": "es-premio-princesa-asturias-investigacion_ES.xlsx",
           "size": 9537
+        }
+      }
+    },
+    {
+      "id": "es-terremotos-en-chile",
+      "name": "Terremotos en Chile",
+      "category": "science",
+      "record_count": 128,
+      "columns": [
+        "fecha",
+        "nombre",
+        "epicentro",
+        "zonas_afectadas",
+        "magnitud_ms",
+        "magnitud_mw",
+        "intensidad_mercalli",
+        "tsunami",
+        "muertos"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Terremotos_en_Chile",
+      "updated": "2026-11",
+      "size": 48976,
+      "files": {
+        "csv": {
+          "name": "es-terremotos-en-chile_ES.csv",
+          "size": 21305
+        },
+        "xlsx": {
+          "name": "es-terremotos-en-chile_ES.xlsx",
+          "size": 16710
         }
       }
     },
