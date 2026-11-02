@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-10-30T02:31:41.849Z",
-  "total_datasets": 511,
-  "total_records": 427073,
+  "generated": "2026-11-02T02:23:58.869Z",
+  "total_datasets": 512,
+  "total_records": 427740,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -2498,6 +2498,31 @@
         "xlsx": {
           "name": "es-virreyes-de-nueva-espana_ES.xlsx",
           "size": 11870
+        }
+      }
+    },
+    {
+      "id": "es-arabismos",
+      "name": "Arabismos en el idioma español",
+      "category": "language",
+      "record_count": 667,
+      "columns": [
+        "palabra",
+        "significado",
+        "palabra_arabe",
+        "etimologia"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Arabismos_en_el_idioma_español",
+      "updated": "2026-11",
+      "size": 174460,
+      "files": {
+        "csv": {
+          "name": "es-arabismos_ES.csv",
+          "size": 108223
+        },
+        "xlsx": {
+          "name": "es-arabismos_ES.xlsx",
+          "size": 62575
         }
       }
     },

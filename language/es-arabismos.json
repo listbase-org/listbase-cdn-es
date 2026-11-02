@@ -1,0 +1,4048 @@
+{
+  "id": "es-arabismos",
+  "name": "Arabismos en el idioma español",
+  "title": "Arabismos en el idioma español",
+  "description": "Palabras del español de origen árabe con su significado, la palabra árabe de la que proceden y su etimología.",
+  "category": "language",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Arabismos_en_el_idioma_español",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Arabismos_en_el_idioma_español",
+  "updated": "2026-11",
+  "record_count": 667,
+  "columns": [
+    {
+      "key": "palabra",
+      "label": "Palabra",
+      "type": "string"
+    },
+    {
+      "key": "significado",
+      "label": "Significado",
+      "type": "string"
+    },
+    {
+      "key": "palabra_arabe",
+      "label": "Palabra Arabe",
+      "type": "string"
+    },
+    {
+      "key": "etimologia",
+      "label": "Etimologia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "palabra": "abadí",
+      "significado": "relacionado con la casa Abadí, reyes de Sevilla.",
+      "palabra_arabe": "عَبَّادِيّ ʿabbādiyy",
+      "etimologia": "de Abú ul-Cásim Muhámmad ibn Abbad"
+    },
+    {
+      "palabra": "abacero, -a abacería (f.)",
+      "significado": "tienda o persona que vende conservas y alimentos variados.",
+      "palabra_arabe": "صاحب الزاد ṣāḥb al-zād (‘el de los víveres’)",
+      "etimologia": "صاحب الزاد ṣāḥb al-zād (‘el de los víveres’)"
+    },
+    {
+      "palabra": "alacena (f.)",
+      "significado": "armario alto donde se guarda el menaje y otros utensilios. En México, la despensa o bodega.",
+      "palabra_arabe": "الْخَزِينَة al-jazīna (‘la tesorería’, donde se guarda lo preciado)",
+      "etimologia": "de la raíz trilítera J-Z-N (خ ز ن), relacionada con el almacenaje"
+    },
+    {
+      "palabra": "alacet (m.)",
+      "significado": "cimiento de un edificio",
+      "palabra_arabe": "si bien su origen último es el árabe العَزَّاق al-ʿazzaq (‘sustento’), la incorporación no es directa vía el andalusí.",
+      "etimologia": "si bien su origen último es el árabe العَزَّاق al-ʿazzaq (‘sustento’), la incorporación no es directa vía el andalusí."
+    },
+    {
+      "palabra": "alacrán (m.)",
+      "significado": "escorpión.",
+      "palabra_arabe": "العَقْرَب al-ʿaqrab",
+      "etimologia": "voz patrimonial semítica"
+    },
+    {
+      "palabra": "aladar (m.)",
+      "significado": "mechón de pelo que cae sobre la sien o frente. Originalmente en castellano medieval, parte del casco o yelmo que cubre el rostro.",
+      "palabra_arabe": "الذَّار aḏ-ḏār",
+      "etimologia": "de la raíz trilítera Ḏ-R-U (ذ ر و), relacionada con ‘proteger, refugiar’"
+    },
+    {
+      "palabra": "aladroque (m.)",
+      "significado": "boquerón (Engraulis encrasicolus)",
+      "palabra_arabe": "* الحَطروك al-ḥaṭrūk (‘el bocazas’)",
+      "etimologia": "de * جطر ḥaṭr (‘chocarrería’)"
+    },
+    {
+      "palabra": "alajor, alaxor, alesor (m.)",
+      "significado": "tributo que pagan los inquilinos al dueño de un solar.",
+      "palabra_arabe": "عُشُوْر al-ʿušūr (‘diezmo, tributo de la décima parte’)",
+      "etimologia": "de عَشَرَة ʿašara o عَشْر ʿašr (‘10’)"
+    },
+    {
+      "palabra": "alajú (m.)",
+      "significado": "pasta de miel con pan, almendras y nueces. También dicho de los dulces hechos con esta pasta.",
+      "palabra_arabe": "الحَشُو al-ḥašū",
+      "etimologia": "حَشْو ḥašū (‘relleno’)"
+    },
+    {
+      "palabra": "alamar (m.)",
+      "significado": "cordón para decorar y abrochar las prendas exquisitas, como el traje de luces.",
+      "palabra_arabe": "عَلَم ʿalam (‘decorado, bandera’)",
+      "etimologia": "de la raíz trilítera ʕ-L-M (ع ل م)"
+    },
+    {
+      "palabra": "alambique (m.)",
+      "significado": "destilador o fábrica de aguardiente",
+      "palabra_arabe": "الإِنْبِيق al- ʿ inbīq",
+      "etimologia": "del griego antiguo ἄμβιξ ámbix"
+    },
+    {
+      "palabra": "alambor 1 (m.)",
+      "significado": "esquinal, piedras dispuestas en planos alternos para formar la unión de dos fachadas (esquina). Como un guardacantón. O bien, el desnivel de tierra o talud de piedras ubicado en la base de ciertas murallas para dificultar el asalto del atacante.",
+      "palabra_arabe": "[ ár. andalusí ] * حَرَبُولْ *ḥarabūl (‘orilla, borde, revuelta’)",
+      "etimologia": "del ár. clásico الحوّالة hawwāla (‘desvío’)"
+    },
+    {
+      "palabra": "alambor 2 (m.)",
+      "significado": "variedad del naranjo.",
+      "palabra_arabe": "si bien su origen último es el árabe الزَنْبُوع az-zanbūʿ (‘toronja, pomelo’), la incorporación no es directa vía el andalusí. Doblete de azamboa.",
+      "etimologia": "si bien su origen último es el árabe الزَنْبُوع az-zanbūʿ (‘toronja, pomelo’), la incorporación no es directa vía el andalusí. Doblete de azamboa."
+    },
+    {
+      "palabra": "alamín (m.)",
+      "significado": "oficio, hombre encargado de dar por buenos los pesos y medidas.",
+      "palabra_arabe": "الأمين al-ʾamīn (‘el confiable’)",
+      "etimologia": "de la raíz trilítera ʔ-M-N (ء م ن), relacionada con la ‘seguridad, confianza’"
+    },
+    {
+      "palabra": "alamud (m.)",
+      "significado": "barra metálica dispuesta por detrás de las puertas para asegurar su cierre.",
+      "palabra_arabe": "العَمُود al-ʿamud (‘el pilar’)",
+      "etimologia": "de la raíz trilítera ʕ-M-D (ع م د), relacionada con estar de pie, apoyarse"
+    },
+    {
+      "palabra": "alárabe (m.)",
+      "significado": "árabe.",
+      "palabra_arabe": "العَرَبِيّ al- ʿ arabiyy (‘el árabe’)",
+      "etimologia": "etimología incierta."
+    },
+    {
+      "palabra": "alarbe (m.)",
+      "significado": "Murcia: persona poco culta.",
+      "palabra_arabe": "العَرَبِيّ al- ʿ arabiyy (‘el árabe’)",
+      "etimologia": "etimología incierta."
+    },
+    {
+      "palabra": "alarde (m.), alardear",
+      "significado": "desfile militar. En sentido derivado, alardear, ‘presumir’.",
+      "palabra_arabe": "اَلْعَرْض al- ʿ arḍ",
+      "etimologia": "de la raíz trilítera ʕ-R-D (ع ل م)"
+    },
+    {
+      "palabra": "alarguez (m.)",
+      "significado": "arbusto espinoso.",
+      "palabra_arabe": "أَرْغِيس al- ʿ arḡīs (‘el agracejo’)",
+      "etimologia": "del amazig, arḡīs"
+    },
+    {
+      "palabra": "alarife, alarifazgo (m.)",
+      "significado": "arquitecto, capataz.",
+      "palabra_arabe": "العَرِيف al-ʿarīf (‘el experto’)",
+      "etimologia": "de la raíz trilítera ʕ-R-F (ع ر ف), relacionada con el conocimiento"
+    },
+    {
+      "palabra": "alarije (m.)",
+      "significado": "variedad de uva.",
+      "palabra_arabe": "العَرِيش (‘el emparrado ’)",
+      "etimologia": "primera forma del verbo عرش (‘construir’)"
+    },
+    {
+      "palabra": "alaroz (m.)",
+      "significado": "viga de madera vertical que divide dos el espacio de un elemento arquitectónico.",
+      "palabra_arabe": "العَروس al-ʿarūs (‘el novio’)",
+      "etimologia": "de la raíz trilítera ʕ-R-S (ع ر س), relacionada con el casamiento"
+    },
+    {
+      "palabra": "alatrón (m.)",
+      "significado": "afronitro, espuma de nitro.",
+      "palabra_arabe": "النَطْرُون (‘el natrón ’)",
+      "etimologia": "del griego antiguo νίτρον nítron"
+    },
+    {
+      "palabra": "alazán (m.)",
+      "significado": "variedad de caballo.",
+      "palabra_arabe": "الأصهاب al-ʿaṣháb (‘el colorado’)",
+      "etimologia": "de la raíz trilítera Ṣ-H-B (ص ه ب)"
+    },
+    {
+      "palabra": "alazor (m.)",
+      "significado": "planta también llamada cártamo (Carthamus tinctorius).",
+      "palabra_arabe": "اَلْعَصْفُر al- ʿ aṣfúr",
+      "etimologia": "del ár. clásico اَلْعُصْفُر al-ʿuṣfur, asv. de أَصْفَر ʿaṣfar (‘amarillo’)"
+    },
+    {
+      "palabra": "ámbar (m.)",
+      "significado": "resina vegetal fosilizada.",
+      "palabra_arabe": "عَنْبَر ʿanbar",
+      "etimologia": "del persa medio ʾmbl"
+    },
+    {
+      "palabra": "andrajo (m.)",
+      "significado": "tela o prenda de vestir vieja, rota o sucia.",
+      "palabra_arabe": "* حَطْرَاج *ḥaṭrāŷ (‘necio’)",
+      "etimologia": "quizá de la raíz trilítera Ṭ-R-Ḥ (ط ر ح), relacionada con desechar, tirar, descartar."
+    },
+    {
+      "palabra": "argel (m.)",
+      "significado": "caballo con uno de sus pies blancos, lo que se creía que traía mala suerte. Arg. Par.: persona grosera, sin gracia ni simpatía.",
+      "palabra_arabe": "أَرْجَل ʿarŷal (‘patas’)",
+      "etimologia": "plural de رِجْل ruŷl (‘pata’)."
+    },
+    {
+      "palabra": "asesino, -a",
+      "significado": "persona que comete homicidio contra otra persona.",
+      "palabra_arabe": "حَشَّاشِين ḥaššāšīn (‘marihuano, adicto al hachís’)",
+      "etimologia": "de حَشِيش ḥašīš (‘ hachís ’)"
+    },
+    {
+      "palabra": "arambel (m.)",
+      "significado": "harapos, jirones. Córd.: jarambel",
+      "palabra_arabe": "الحَنْبَل al-ḥanbal",
+      "etimologia": "del ár. clásico حِنْبَال ḥinbāl (‘pelliza’)"
+    },
+    {
+      "palabra": "arsenal (m.)",
+      "significado": "almacén de milicia, o bien donde se reparan los barcos.",
+      "palabra_arabe": "دَار الصِّنَاعَة dār aṣ-ṣinā ʿ a",
+      "etimologia": "literalmente, ‘casa de la industria’"
+    },
+    {
+      "palabra": "aulaga (f.)",
+      "significado": "arbusto espinoso de flores amarillas (Ulex europaeus). También conocida como abulaga, ahulaga, hulaga, julaga, aliaga, argilaga o arbulaga.",
+      "palabra_arabe": "جَوْلَق ŷawlaq",
+      "etimologia": "de la raíz trilítera Ŷ-W-L (ج و ل) relacionada con corte o fosa"
+    },
+    {
+      "palabra": "avería (f.)",
+      "significado": "daño que padecen las mercaderías o géneros, o los aparatos, impidiendo su correcto funcionamiento.",
+      "palabra_arabe": "si bien su origen último es el árabe عَوَارِيَّة ʿawāriyya, la incorporación no es directa vía el andalusí.",
+      "etimologia": "si bien su origen último es el árabe عَوَارِيَّة ʿawāriyya, la incorporación no es directa vía el andalusí."
+    },
+    {
+      "palabra": "ayatolá, ayatola (m.)",
+      "significado": "autoridad religiosa chií.",
+      "palabra_arabe": "originalmente del árabe آيَةُ ٱللَّٰهِ ʿāyatu llāhi, aunque vía el idioma persa آیَتُ‌اللّٰه âyato-llâh",
+      "etimologia": "originalmente del árabe آيَةُ ٱللَّٰهِ ʿāyatu llāhi, aunque vía el idioma persa آیَتُ‌اللّٰه âyato-llâh"
+    },
+    {
+      "palabra": "babucha (f.)",
+      "significado": "calzado típico africano.",
+      "palabra_arabe": "بَابُوش bābūš",
+      "etimologia": "del persa پاپوش pâpuš"
+    },
+    {
+      "palabra": "albacea (m.)",
+      "significado": "persona designada para hacer cumplir la última voluntad de la persona fallecida, o el administrador legal de sus bienes tras la muerte.",
+      "palabra_arabe": "صَحْب الوَصِيَّة ṣaḥb al-waṣīya (lit. 'compañero del testamento'), de las palabras árabes صَحْب ṣaḥb ('compañero') y وَصِيَّة waṣiyya ('testamento').",
+      "etimologia": "صَحْب الوَصِيَّة ṣaḥb al-waṣīya (lit. 'compañero del testamento'), de las palabras árabes صَحْب ṣaḥb ('compañero') y وَصِيَّة waṣiyya ('testamento')."
+    },
+    {
+      "palabra": "albacora, abacora (f.)",
+      "significado": "breva, higo. Chile: pez espada. Atún.",
+      "palabra_arabe": "اَلْبَكُورَة al-bakūra ('temprano')",
+      "etimologia": "de la raíz trilítera B-K-R (ب ك ر), relacionada con lo prematuro"
+    },
+    {
+      "palabra": "badana (f.)",
+      "significado": "piel curtida de carnero u oveja",
+      "palabra_arabe": "بِطَانَة biṭāna",
+      "etimologia": "de la raíz trilítera B-Ṭ-N (ب ط ن), relativo a lo interior, especialmente del cuerpo"
+    },
+    {
+      "palabra": "badén (m.)",
+      "significado": "obstáculo o paso a través de un río o arroyo para permitir el paso de vehículos o personas.",
+      "palabra_arabe": "بَدْن badn",
+      "etimologia": ""
+    },
+    {
+      "palabra": "albahaca (f.)",
+      "significado": "planta aromática (Ocimum basilicum). Mur.: alhábega, alábega.",
+      "palabra_arabe": "الحَبَق al-ḥabaq",
+      "etimologia": "del ár. clásico حَبْق ḥabq ('oloroso'), raíz trilítera H-B-Q (ح ب ق)"
+    },
+    {
+      "palabra": "albahío, -a (m.)",
+      "significado": "dicho de un animal, de color blanco amarillento.",
+      "palabra_arabe": "الْبَهِيّ al-bahī (‘de buen aspecto’)",
+      "etimologia": ""
+    },
+    {
+      "palabra": "albaida, albeida, albaidera (f.)",
+      "significado": "arbusto mediterráneo (Anthyllis cytisoides)",
+      "palabra_arabe": "الْبَيْضاء al-bayḍāʾ (‘la blanca’)",
+      "etimologia": "de la raíz trilítera B-Y-Ḍ (ب ي ض), relativo al color blanco"
+    },
+    {
+      "palabra": "bajá (m.)",
+      "significado": "título otomano para un gobernador provincial o militar.",
+      "palabra_arabe": "بَاشَا bāšā",
+      "etimologia": "del turco otomano paşa, asv. del persa pādshāh (‘rey’)"
+    },
+    {
+      "palabra": "albalá (m.)",
+      "significado": "carta o cédula real.",
+      "palabra_arabe": "البَرَاءَة al-barāʾa",
+      "etimologia": "del ár. clásico بَرَاءَة barā ʾ a ('licencia, diploma')"
+    },
+    {
+      "palabra": "baladí (m.)",
+      "significado": "perteneciente o relativo a una ciudad o pueblo.",
+      "palabra_arabe": "بَلَدِيّ baladī",
+      "etimologia": ""
+    },
+    {
+      "palabra": "balda (f.)",
+      "significado": "cosa de poquísimo precio y de ningún provecho.",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "balde (m.)",
+      "significado": "recipiente de forma cilíndrica con asa para transportar líquidos o materiales sueltos.",
+      "palabra_arabe": "بَالْد bald",
+      "etimologia": ""
+    },
+    {
+      "palabra": "albanega, alvanega (f.)",
+      "significado": "red o cofia para cubrir el pelo.",
+      "palabra_arabe": "البَنِيقَة al-banīqah",
+      "etimologia": "del latín vulgar paganĭca (fem. de paganĭcus, ‘pagano, aldeano’)"
+    },
+    {
+      "palabra": "albañal (m.)",
+      "significado": "canal de aguas residuales o pluviales.",
+      "palabra_arabe": "البَلَّاعَة al-ballā ʿ a ('desagüe, alcantarilla')",
+      "etimologia": "de la raíz trilítera B-K-R (ب ل ع), relacionada con tragar"
+    },
+    {
+      "palabra": "albañil (m. y f.)",
+      "significado": "constructor o construcción. derivado: albañilería",
+      "palabra_arabe": "البَنَّاء al-bannā ʾ ('edificio')",
+      "etimologia": "de la raíz trilítera B-N-Y (ب ن ي)"
+    },
+    {
+      "palabra": "albarán (m.)",
+      "significado": "factura.",
+      "palabra_arabe": "البَرَاءَة al-barāʾa",
+      "etimologia": "del ár. clásico بَرَاءَة barāʾa (‘licencia, diploma’)"
+    },
+    {
+      "palabra": "albarazo (m.)",
+      "significado": "cierto tipo de lepra.",
+      "palabra_arabe": "البَرَص al-baraṣ",
+      "etimologia": "de la raíz trilítera B-R-Ṣ (ب ر ص), relacionada con la despigmentación"
+    },
+    {
+      "palabra": "barbacana (f.)",
+      "significado": "fortificación defensiva avanzada, generalmente en forma de torre o muro sobresaliente.",
+      "palabra_arabe": "بَرْبَخَانَة barbajāna",
+      "etimologia": ""
+    },
+    {
+      "palabra": "albarca (f.)",
+      "significado": "calzado tradicional.",
+      "palabra_arabe": "البَرْغَة al-barḡa",
+      "etimologia": "del euskera abarka (‘zapato’), de abar (‘ramita’) y - ka. Doblete de alpargata."
+    },
+    {
+      "palabra": "albarda (f.), albardón (m.)",
+      "significado": "silla de montar, aparejo que se coloca sobre el lomo del caballo. derivado: albardela, albardilla",
+      "palabra_arabe": "البَرْدَعَة al-bardaʾa",
+      "etimologia": "del persa bwlytn (‘corte, recorte’)"
+    },
+    {
+      "palabra": "albardán (m.)",
+      "significado": "bufón, payaso.",
+      "palabra_arabe": "البَرْدَان al-bardān (‘muy frío’)",
+      "etimologia": "de بَرْد bard (‘frío’)"
+    },
+    {
+      "palabra": "albardín (m.)",
+      "significado": "Lygeum spartum, hierba similar al esparto",
+      "palabra_arabe": "البَرْدِيّ al-bardī",
+      "etimologia": "varias teorías."
+    },
+    {
+      "palabra": "albaricoque (m.)",
+      "significado": "fruto de Prunus armeniaca.",
+      "palabra_arabe": "اَلْبَرْقُوق al-barqūq",
+      "etimologia": "del arameo ܒܰܪܩܽܘܩܳܐ barqūqā, asv. del griego antiguo πραικόκῐον praikókion, finalmente del latín praecox (‘maduración temprana’)"
+    },
+    {
+      "palabra": "albarrada 1 (f.), albarradón (m.)",
+      "significado": "pared o muro de piedra para cortar el paso.",
+      "palabra_arabe": "البَرَّادَةُ * al-barrāda",
+      "etimologia": "del mozárabe parata (‘parada’)"
+    },
+    {
+      "palabra": "albarrana (f.)",
+      "significado": "torre o baluarte que defiende una muralla.",
+      "palabra_arabe": "quizá de البري al-barrī ('de fuera').",
+      "etimologia": "quizá de البري al-barrī ('de fuera')."
+    },
+    {
+      "palabra": "barrio (m.)",
+      "significado": "sección habitada de una ciudad.",
+      "palabra_arabe": "بَرِّيّ barrīī",
+      "etimologia": ""
+    },
+    {
+      "palabra": "batán (m.)",
+      "significado": "lugar donde se lava la ropa, generalmente utilizando piedras para golpearla.",
+      "palabra_arabe": "بَطَان baṭān",
+      "etimologia": ""
+    },
+    {
+      "palabra": "batea (f.)",
+      "significado": "recipiente grande y poco profundo usado para lavar ropa, minerales, etc.",
+      "palabra_arabe": "بَطِيَة baṭía",
+      "etimologia": ""
+    },
+    {
+      "palabra": "albatoza (f.)",
+      "significado": "barceo (Lygeum spartum), gramínea española con usos artesanales similares al esparto.",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "albayalde (m.)",
+      "significado": "carbonato de plomo de color blanco.",
+      "palabra_arabe": "البياض al-bayāḍ",
+      "etimologia": "del ár. clásico بَيَاض bayāḍ (‘blanco’)"
+    },
+    {
+      "palabra": "albéitar (m.)",
+      "significado": "herrador o veterinario. derivado: albeitería (‘medicina veterinaria’)",
+      "palabra_arabe": "الْبَيْطَار al-bayṭār",
+      "etimologia": "del griego antiguo ἱππιατρός hippiatrós (‘médico de caballos’)"
+    },
+    {
+      "palabra": "bellota, abellota (f.)",
+      "significado": "fruto del alcornoque y del encino.",
+      "palabra_arabe": "بَلُوطَة balūṭa",
+      "etimologia": "del ár. clásico بَلُوط balūṭ (‘encina, roble’)"
+    },
+    {
+      "palabra": "albenda (f.)",
+      "significado": "tapiz blanco con encajes de motivos florales o animales colgado para decorar las paredes.",
+      "palabra_arabe": "ٱلْبَنْد al-band",
+      "etimologia": "del persa بند band (‘cuerda, banda’)"
+    },
+    {
+      "palabra": "alberca (f.)",
+      "significado": "poza, piscina o depósito de agua.",
+      "palabra_arabe": "البِرْكَة al-birka (‘el estanque’)",
+      "etimologia": "de la raíz trilítera B-R-K (ب ر ك)"
+    },
+    {
+      "palabra": "albérchigo (m.)",
+      "significado": "melocotón o durazno.",
+      "palabra_arabe": "الْفِرْسِك al-firsik",
+      "etimologia": "del arameo פּרְסְקָא pirsīqā, asv. del griego antiguo περσικόν persikón (‘el [fruto] de Persia’)"
+    },
+    {
+      "palabra": "albercón, albercorón, alboquerón (m.)",
+      "significado": "especie de hierba (Malcolmia africana)",
+      "palabra_arabe": "quizá de ابو القرون ābū l-qurūn (‘cornudo’)",
+      "etimologia": "quizá de ابو القرون ābū l-qurūn (‘cornudo’)"
+    },
+    {
+      "palabra": "berenjena (f.)",
+      "significado": "fruto de Solanum melongena.",
+      "palabra_arabe": "بَادِنْجَان bādinŷān",
+      "etimologia": "del persa antiguo بادنگان bādengān"
+    },
+    {
+      "palabra": "bezoar (f.)",
+      "significado": "cálculo que se forma en el estómago de algunos animales y que, según la creencia popular, posee propiedades medicinales.",
+      "palabra_arabe": "بَزَهْرَة bazahra",
+      "etimologia": "del persa antiguo وَزَهْرَه wazahra"
+    },
+    {
+      "palabra": "albihar (m.)",
+      "significado": "Anacyclus clavatus, hierba floral usada en el Magreb y el sur de España como infusión antiinflamatoria. También llamada camomila o manzanilla loca.",
+      "palabra_arabe": "الْبَهَار al-bahār",
+      "etimologia": "del persa clásico بهار bahar (‘follaje, hierba’)"
+    },
+    {
+      "palabra": "albitana (f.)",
+      "significado": "",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "biznaga (f.)",
+      "significado": "planta cactácea de flores blancas y fragantes.",
+      "palabra_arabe": "بَزَنْقَة bazanqa",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alboaire (m.)",
+      "significado": "",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "albogue (m.)",
+      "significado": "instrumento de viento similar a una flauta, típica del Medievo y el Renacimiento.",
+      "palabra_arabe": "الْبُوق al-būq",
+      "etimologia": ""
+    },
+    {
+      "palabra": "albohol (m.)",
+      "significado": "hierba también llamada correhuela (Convolvulus arvensis)",
+      "palabra_arabe": "الْحُبُول al-ḥubūl",
+      "etimologia": "pl. de حَبْل ḥabl (‘cuerda, soga’)"
+    },
+    {
+      "palabra": "albóndiga, almóndiga (f.)",
+      "significado": "bola de carne picada o molida.",
+      "palabra_arabe": "الْبُنْدُقَة al-bunduqa (‘la nuez’)",
+      "etimologia": "del griego antiguo Ποντικόν Pontikón"
+    },
+    {
+      "palabra": "bórax (m.)",
+      "significado": "compuesto mineral que se utiliza en la fabricación de productos cosméticos y como conservante.",
+      "palabra_arabe": "بُورَقْس būraqs",
+      "etimologia": "del persa بورق burraq"
+    },
+    {
+      "palabra": "albórbola (f.)",
+      "significado": "algazara, griterío con el que se demuestra alegría.",
+      "palabra_arabe": "الْوَلْوَلَة al-walwala",
+      "etimologia": "origen onomatopéyico."
+    },
+    {
+      "palabra": "albornía (f.)",
+      "significado": "tipo de vasija o recipiente grande con asa y de cerámica.",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "albornoz (m.)",
+      "significado": "bata, batín o chilaba",
+      "palabra_arabe": "البُرْنُس al-burnus",
+      "etimologia": "del griego bizantino βίρρος bírrhos (‘capa’)"
+    },
+    {
+      "palabra": "alboronía, boronía (f.)",
+      "significado": "plato tradicional vegetariano.",
+      "palabra_arabe": "البورانية al-būrāniya",
+      "etimologia": "de Burán, la mujer del califa Al-Mamún"
+    },
+    {
+      "palabra": "alborozo (m.)",
+      "significado": "euforia; alegría muy intensa que se expresa con gestos, gritos y otros actos.",
+      "palabra_arabe": "البُرُوز al-burūz",
+      "etimologia": "de la raíz trilítera B-R-Z (ب ر ز), relacionada con ‘sobresalir, destacar, exhibir’"
+    },
+    {
+      "palabra": "albotín (m.)",
+      "significado": "arbusto mediterráneo (Pistacia terebinthus) también llamado cornicabra o terebinto.",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "albricias (f.)",
+      "significado": "regalo dado con motivo de un gran suceso.",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "albudeca (f.)",
+      "significado": "sandía de mala calidad.",
+      "palabra_arabe": "اَلْبَطِّيخَة al-baṭṭīja",
+      "etimologia": "de بَطِيخ baṭīj (‘sandía’)"
+    },
+    {
+      "palabra": "albufera (f.)",
+      "significado": "laguna de agua salada que está contigua al mar.",
+      "palabra_arabe": "البُحَيْرَة al-buḥayra (‘la laguna’)",
+      "etimologia": "diminutivo de بَحْر baḥr (‘mar’)"
+    },
+    {
+      "palabra": "bulbul (m.)",
+      "significado": "nombre de varias especies de pájaros canoros.",
+      "palabra_arabe": "بُلْبُل bulbul",
+      "etimologia": "del persa بلبل bulbul"
+    },
+    {
+      "palabra": "albur (m.)",
+      "significado": "varios significados.",
+      "palabra_arabe": "البوري al-būrī",
+      "etimologia": "del ár. clásico بُورِيّ būriyy, asv. del copto ⲫⲟⲣⲓ phori (‘mújol’)"
+    },
+    {
+      "palabra": "burka (m.)",
+      "significado": "prenda de vestir femenina que cubre todo el cuerpo.",
+      "palabra_arabe": "بُرْقَع burqaʿ",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alcabala (f.)",
+      "significado": "antiguo impuesto de Hacienda.",
+      "palabra_arabe": "القبالة al-qabāla (‘la cobranza’)",
+      "etimologia": "del ár. clásico قبال qabāl (‘recibir’)"
+    },
+    {
+      "palabra": "cabila (f.)",
+      "significado": "tribu bereber, más específicamente de la Cabilia.",
+      "palabra_arabe": "[ ár. magrebí ] قبيلة qbila",
+      "etimologia": "del ár. clásico قَبِيلَة qabīla (‘tribu’)"
+    },
+    {
+      "palabra": "alcabor (m.)",
+      "significado": "hueco de la campana o de la chimenea.",
+      "palabra_arabe": "القَبُو al-qabū (‘bóveda, cámara’)",
+      "etimologia": "sustantivo verbal de قَبَا qabā (‘arquear, abovedar’)"
+    },
+    {
+      "palabra": "alcabota (f.)",
+      "significado": "And.: cabezuela (Mantisalca salmantica).",
+      "palabra_arabe": "quizá de القبوطة al-qabbūṭa, y éste del latín caput (‘cabeza’)",
+      "etimologia": "quizá de القبوطة al-qabbūṭa, y éste del latín caput (‘cabeza’)"
+    },
+    {
+      "palabra": "alcacer, alcacel, alcaíl (m.)",
+      "significado": "cebada inmadura considerada forraje, o el plantío de cebada (el cebadal).",
+      "palabra_arabe": "الْقَصِيل al-qaṣīl",
+      "etimologia": "participio pasivo del verbo قَصَلَ qaṣala (‘segar, cortar’)"
+    },
+    {
+      "palabra": "alcachofa (f.)",
+      "significado": "flor comestible también llamada alcaucil (Cynara scolymus).",
+      "palabra_arabe": "الخرشوفة al-jaršúfa",
+      "etimologia": "الخُرْشُوف al-juršūf"
+    },
+    {
+      "palabra": "café (m.)",
+      "significado": "bebida hecha con las semillas tostadas de la planta del mismo nombre, de origen etíope.",
+      "palabra_arabe": "si bien su origen último es el árabe قَهْوَة qahwa, la incorporación no es directa vía el andalusí.",
+      "etimologia": "si bien su origen último es el árabe قَهْوَة qahwa, la incorporación no es directa vía el andalusí."
+    },
+    {
+      "palabra": "cáfila (f.)",
+      "significado": "muchedumbre, banda, pandilla, caravana.",
+      "palabra_arabe": "قَافِلَة qāfila",
+      "etimologia": "–"
+    },
+    {
+      "palabra": "alcahaz (m.)",
+      "significado": "jaula grande para encerrar aves.",
+      "palabra_arabe": "القَفَص al-qafaṣ",
+      "etimologia": "del arameo קוּפְסָא qūp̄sā, asv. del latín capsa (‘caja’)"
+    },
+    {
+      "palabra": "cahíz (m.)",
+      "significado": "unidad de medida",
+      "palabra_arabe": "قَفِيز qafīz",
+      "etimologia": "del arameo קְפִיזָא / ܩܦܝܙܐ qəp̄īzā"
+    },
+    {
+      "palabra": "alcahuete, -a",
+      "significado": "persona que encubre una relación amorosa o sexual.",
+      "palabra_arabe": "القَوَّاد al-qawwād (‘el proxenera’)",
+      "etimologia": "sustantivo ocupacional del verbo قَادَ qāda (‘guiar, complacer’)"
+    },
+    {
+      "palabra": "alcaicería (m.)",
+      "significado": "And.: zona de mercado textil.",
+      "palabra_arabe": "القَيْصَرِيَّة al-qayṣaría",
+      "etimologia": "de قَيْصَرِ qaysar (‘César’), pues eran dotadas de privilegio imperial."
+    },
+    {
+      "palabra": "alcaide (m.)",
+      "significado": "carcelero, guardia de prisión. O bien, encargado del custodio de algún sitio real o alhóndiga. derivado: alcaidía",
+      "palabra_arabe": "القَائِد al-qāʾid (‘el jefe’)",
+      "etimologia": "de la raíz Q-W-D (ق و د), relacionada con ‘guiar, conducir’."
+    },
+    {
+      "palabra": "caire (m.)",
+      "significado": "dinero, especialmente el ganado por una prostituta.",
+      "palabra_arabe": "خَيْر jaīr (‘bien, beneficio’)",
+      "etimologia": "de la raíz J-Y-R (خ ي ر), relacionada con ‘lo bueno’."
+    },
+    {
+      "palabra": "alcalde, -sa",
+      "significado": "jefe de ayuntamiento.",
+      "palabra_arabe": "اَلْقَاضِي al-qāḍī (‘el juez’)",
+      "etimologia": "de la raíz trilítera Q-Ḍ-Y (ق ض ي), relacionada con sentenciar o exonerar."
+    },
+    {
+      "palabra": "álcali (m.)",
+      "significado": "compuesto químico. derivado: alcalino, - ina",
+      "palabra_arabe": "الْقِلْي al-qily",
+      "etimologia": "de la raíz trilítera Q-L-Y (ق ل ي), relacionada con el acto de freír."
+    },
+    {
+      "palabra": "calamón (m.)",
+      "significado": "ave acuática de plumaje oscuro y pico largo.",
+      "palabra_arabe": "كُرْكَمَان kurkamān",
+      "etimologia": ""
+    },
+    {
+      "palabra": "calibre (m.)",
+      "significado": "clase o diámetro interior de objetos cilíndricos, como el cañón de una pistola.",
+      "palabra_arabe": "si bien su origen último es el árabe قَالِب qālib, la incorporación no es directa vía el andalusí. Doblete de gálibo.",
+      "etimologia": "si bien su origen último es el árabe قَالِب qālib, la incorporación no es directa vía el andalusí. Doblete de gálibo."
+    },
+    {
+      "palabra": "califa (m.)",
+      "significado": "antiguo título del soberano musulmán.",
+      "palabra_arabe": "خَلِيفَة jalīfa (‘sucesor’)",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alcaller (m.)",
+      "significado": "alfarero, persona que trabaja la cerámica.",
+      "palabra_arabe": "[ ár. andalusí ] * القَلّال *al-qallāl",
+      "etimologia": "quizá del ár. clásico قُلَّة qulla (‘cántaro o tinaja de barro’), véase alcolla"
+    },
+    {
+      "palabra": "alcamonía (f.)",
+      "significado": "mezcla de semillas aromáticas.",
+      "palabra_arabe": "الكَمّونية al-kammūniyya",
+      "etimologia": "del griego antiguo κύμινον kýminon (‘comino’)"
+    },
+    {
+      "palabra": "alcana (f.)",
+      "significado": "planta de tinte natural (véase alheña).",
+      "palabra_arabe": "الحِنَّاء al-ḥinnāʾ",
+      "etimologia": "desconocido."
+    },
+    {
+      "palabra": "alcancía (f.)",
+      "significado": "hucha.",
+      "palabra_arabe": "الكنزية al-kanzīyya",
+      "etimologia": "del ár. clásico كَنْز kanz (‘tesoro’)"
+    },
+    {
+      "palabra": "alcándara, alcandra (f.)",
+      "significado": "vara sobre la que se posan aves de cetrería.",
+      "palabra_arabe": "الكُنْدَرة al-kundara",
+      "etimologia": "desconocido, quizá del persa kande rāh (‘camino en la jaula del halcón’)"
+    },
+    {
+      "palabra": "cande (m.)",
+      "significado": "azúcar glas.",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alcandía (f.)",
+      "significado": "sorgo.",
+      "palabra_arabe": "القطنية al-qaṭniyya",
+      "etimologia": "quizá de قُطْن quṭn (‘algodón’)"
+    },
+    {
+      "palabra": "candil (m.)",
+      "significado": "lámpara de aceite o grasa con mecha.",
+      "palabra_arabe": "قَنْدِيل qandīl",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alcanfor (m.)",
+      "significado": "terpeno que se obtiene del árbol alcanforero (Cinnamomum camphora).",
+      "palabra_arabe": "الكافور al-kafūr",
+      "etimologia": "del ár. clásico كَافُور kāfūr (‘tesoro’), asv. del persa kāpūr"
+    },
+    {
+      "palabra": "alcántara, alcantarilla (f.)",
+      "significado": "acueducto subterráneo.",
+      "palabra_arabe": "القَنْطَرَة al-qanṭara (‘el puente’)",
+      "etimologia": "varias teorías."
+    },
+    {
+      "palabra": "alcaparra (f.)",
+      "significado": "planta mediterránea o sus frutos comestibles.",
+      "palabra_arabe": "الْكَبَّار al-kabbār",
+      "etimologia": "del latín cappăris o del griego κάππαρις kápparis"
+    },
+    {
+      "palabra": "alcapurria (f.)",
+      "significado": "fritura puertorriqueña de yautía o plátano.",
+      "palabra_arabe": "quizá de alcaparra.",
+      "etimologia": "quizá de alcaparra."
+    },
+    {
+      "palabra": "caraba (f.)",
+      "significado": "en el occidente de España, una reunión festiva o jolgorio.",
+      "palabra_arabe": "قَرابَة (‘parientes cercanos’)",
+      "etimologia": "de la raíz Q-R-B (ق ر ب), relacionada con la cercanía."
+    },
+    {
+      "palabra": "carabe (m.)",
+      "significado": "escarabajo negro de la familia de los carábidos.",
+      "palabra_arabe": "خَرَابِيش jarābīš",
+      "etimologia": "del árabe dialectal مَعَرَابِيش maʿarābīš (‘escarabajo’)"
+    },
+    {
+      "palabra": "alcaraván (m.)",
+      "significado": "",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alcaravea (f.)",
+      "significado": "hierba cuyas semillas se usan como condimento (Carum carvi).",
+      "palabra_arabe": "الكَرَاوِيَا al-karāwiyā",
+      "etimologia": "del arameo ܟܲܪܘܵܝܵܐ karwāyā, asv. del griego καρώ karṓ"
+    },
+    {
+      "palabra": "cariye (m.)",
+      "significado": "esclava en el harén otomano.",
+      "palabra_arabe": "جَارِيَة ŷāría",
+      "etimologia": ""
+    },
+    {
+      "palabra": "carmesí (m.)",
+      "significado": "color rojo intenso.",
+      "palabra_arabe": "قِرْمِزِيّ qirmizī",
+      "etimologia": "de قِرْمِزِ qirmiz (‘cochinilla’)"
+    },
+    {
+      "palabra": "alcarraza (f.)",
+      "significado": "alfarería de agua.",
+      "palabra_arabe": "الكُرَّاز al-kurrāz (‘el cántaro’)",
+      "etimologia": "del persa کراز korâz (‘buche’)"
+    },
+    {
+      "palabra": "alcartaz (f.)",
+      "significado": "",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "casba (f.)",
+      "significado": "en el Magreb, ciudadela o casco antiguo amurallado.",
+      "palabra_arabe": "si bien su origen último es el árabe غَرَّاف garrāf, la incorporación no es directa vía el andalusí.",
+      "etimologia": "si bien su origen último es el árabe غَرَّاف garrāf, la incorporación no es directa vía el andalusí."
+    },
+    {
+      "palabra": "alcatifa (f.)",
+      "significado": "tapete o alfombra.",
+      "palabra_arabe": "القَطِيفَة al-qaṭīfa",
+      "etimologia": "desconocido."
+    },
+    {
+      "palabra": "alcatufa, arcatufa, catufa (f.)",
+      "significado": "And.: chufa (Cyperus esculentus).",
+      "palabra_arabe": "القَطُوفَة al-qaṭūfa",
+      "etimologia": "quizá del verbo قَطَفَ qaṭafa (‘arrancar’), pues crece en las raíces de la hierba."
+    },
+    {
+      "palabra": "alcaucil, alcaucí, alcacil, arcacil (m.)",
+      "significado": "alcachofa (Cynara scolymus).",
+      "palabra_arabe": "الْقَبْسِيل al-qabsīl",
+      "etimologia": "del mozár. * kapićéḻa, dim. del latín capitia (‘cabeza’)"
+    },
+    {
+      "palabra": "alcaudón (m.)",
+      "significado": "familia de pajarillos (Laniidae).",
+      "palabra_arabe": "القَبْطُون *al-qabṭūn",
+      "etimologia": "del ár. clásico قُبْطان qubṭān"
+    },
+    {
+      "palabra": "alcazaba (f.)",
+      "significado": "recinto fortificado dentro de una población.",
+      "palabra_arabe": "القَصَبَة al-qaṣaba",
+      "etimologia": "desconocido"
+    },
+    {
+      "palabra": "alcázar, alcácer (m.)",
+      "significado": "fortaleza.",
+      "palabra_arabe": "اَلْقَصْر al-qaṣr (‘el castillo’)",
+      "etimologia": "del arameo קַצְרָא qaṣrā, asv. del latín castrum"
+    },
+    {
+      "palabra": "alcazuz, orozuz (m.)",
+      "significado": "regaliz (Glycyrrhiza glabra).",
+      "palabra_arabe": "عِرْق السُوس ʿirq as-sūs",
+      "etimologia": "del arameo שׁוּשָׁא / ܫܽܘܫܳܐ šūšā"
+    },
+    {
+      "palabra": "acebuche (m.)",
+      "significado": "olivo salvaje, no domesticado (Olea europaea). derivado: acebuchal (lugar de acebuches)",
+      "palabra_arabe": "الزَّنْبُوج az-zanbūj",
+      "etimologia": "posible origen berber"
+    },
+    {
+      "palabra": "ceca (f.)",
+      "significado": "establecimiento oficial donde se fabrica y acuña la moneda.",
+      "palabra_arabe": "سِكَّة sikka",
+      "etimologia": "del arameo סִכְּתָא,ܣܶܟܬܳܐ sekkǝṯā ('clavo, clavija, sello de la moneda'), asv. del acadio 𒄑𒆕"
+    },
+    {
+      "palabra": "aceite (m.)",
+      "significado": "óleo, líquido graso de origen vegetal.",
+      "palabra_arabe": "الزَّيْت az-zayt",
+      "etimologia": "del arameo זיתא,ܙܝܬܐ zaytā"
+    },
+    {
+      "palabra": "aceituna (f.)",
+      "significado": "fruto del olivo.",
+      "palabra_arabe": "اَلزَّيْتُونَة az-zaytūna",
+      "etimologia": "del arameo זיתא,ܙܝܬܐ zaytā"
+    },
+    {
+      "palabra": "acelga, celga (f.)",
+      "significado": "tipo de verdura de hoja.",
+      "palabra_arabe": "السِّلْقَة as-silqa",
+      "etimologia": "del arameo ܣܠܩܐ,סילקא silqā, asv. del griego antiguo σικελικόν sikelikón, lit. 'la siciliana'"
+    },
+    {
+      "palabra": "acemite (m.)",
+      "significado": "harina barata y no cernida hecha con el salvado o afrecho del trigo. derivado: cemita o semita",
+      "palabra_arabe": "السَمِيد as-samīd",
+      "etimologia": "del arameo סְמִידָא / ܣܡܻܝܕܳܐ səmīḏā"
+    },
+    {
+      "palabra": "cenefa (f.)",
+      "significado": "adorno o franja que se coloca en la parte superior de cortinas, ropa, etc.",
+      "palabra_arabe": "سَنِيفَة sanīfa",
+      "etimologia": ""
+    },
+    {
+      "palabra": "cenit, cénit (m.)",
+      "significado": "punto más alto en el cielo sobre el observador.",
+      "palabra_arabe": "سَمْت samṭ",
+      "etimologia": ""
+    },
+    {
+      "palabra": "aceña, acenia (f.)",
+      "significado": "noria o molino movido por el agua del río.",
+      "palabra_arabe": "السَّانِيَة al-sāniya",
+      "etimologia": "raíz trilítera S-N-W (س ن و)"
+    },
+    {
+      "palabra": "cequí (m.)",
+      "significado": "moneda de oro acuñada en la República de Venecia y otros países europeos entre los siglos xiv-xvii",
+      "palabra_arabe": "véase ceca.",
+      "etimologia": "véase ceca."
+    },
+    {
+      "palabra": "acequia (f.)",
+      "significado": "canal de agua creado para regar los campos.",
+      "palabra_arabe": "السَّاقِيَة al-sāqiya ('la irrigación')",
+      "etimologia": "del v. سَقَى saqā ('irrigar'), de la raíz trilítera S-Q-Y (س ق ي)"
+    },
+    {
+      "palabra": "cerbatana (m.)",
+      "significado": "tubo largo y delgado por donde se sopla para lanzar dardos o proyectiles pequeños.",
+      "palabra_arabe": "سُرْبُوخ surbūj",
+      "etimologia": ""
+    },
+    {
+      "palabra": "acerolo (m.), acerola (f.)",
+      "significado": "Crataegus azarolus (m.) y su fruto comestible (f.). Por similitud, la planta americana Malpighia emarginata también recibe este nombre.",
+      "palabra_arabe": "الزَعْرُورَة al-za ʿ rūra",
+      "etimologia": "del ár. clásico زُعْرُور zuʿrūr, asv. del arameo ܥܙܪܪܬܐ,עוזררא zuʿrūr"
+    },
+    {
+      "palabra": "acial (m.)",
+      "significado": "pinzas para oprimir el hocico del ganado, o bien, el látigo para hacerlas trotar.",
+      "palabra_arabe": "الزِيَار al-ziyār",
+      "etimologia": "del ár. clásico زِيَار ziyār, asv. del arameo זַיָּירָא zayyārā"
+    },
+    {
+      "palabra": "cianí (m.)",
+      "significado": "moneda de oro que valía cien aspros.",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "acíbar (m.)",
+      "significado": "Aloe vera",
+      "palabra_arabe": "اَلصِبَر aṣ-ṣibar (‘amargo’)",
+      "etimologia": "del arameo צברה / ܨܒܪܐ ṣabrā, ṣabbārā"
+    },
+    {
+      "palabra": "acicate (m.)",
+      "significado": "espuela para picar al caballo. derivado: un incentivo o motivación",
+      "palabra_arabe": "السِّقَاط as-siqāṭ",
+      "etimologia": "de [ muzīl / rafī ] as-siqāṭ (‘quita flaquezas’)"
+    },
+    {
+      "palabra": "Cid, Çid (m.)",
+      "significado": "Sr., Don, hombre fuerte y valeroso.",
+      "palabra_arabe": "سِيد sīd (‘Señor’) o سيدي sīdi (‘mi Señor’)",
+      "etimologia": "de سَيِّد sayyid (‘Señor’, entendido como tratamiento de cortesía)"
+    },
+    {
+      "palabra": "acimut, acimud (m.)",
+      "significado": "arco imaginario en el horizonte que se forma entre la orientación de algo y un punto cardinal.",
+      "palabra_arabe": "السُّمُوت al-sumūt",
+      "etimologia": "plural de سَمْت samt (‘dirección de una brújula’)"
+    },
+    {
+      "palabra": "citara, acitara (m.)",
+      "significado": "pared medianera o parapeto (no confundir con cítara)",
+      "palabra_arabe": "سِتَارَة sitāra",
+      "etimologia": "de la raíz S-T-R (س ت ر) relacionada con ‘cubrir, tapar’"
+    },
+    {
+      "palabra": "alcohol (m.)",
+      "significado": "compuesto químico orgánico que contiene el grupo hidroxilo unido a un radical alifático. También: alcohol etílico, bebida alcohólica.",
+      "palabra_arabe": "اَلْكُحْل al-kuḥl (‘el kohl ’)",
+      "etimologia": "del arameo כוחלא / ܟܘܚܠܐ kuḥlā, asv. del acadio 𒎎𒋆𒁉𒍣𒁕 guḫlum (‘galena, antimonio, estibina’)"
+    },
+    {
+      "palabra": "alcolla (f.)",
+      "significado": "botella grande de vidrio.",
+      "palabra_arabe": "القُلَّة al-qulla",
+      "etimologia": "del arameo קוּלְתָא qulləṯā, asv. del acadio 𒄣𒇷𒌋 qulliu (cónfer latín culullus)"
+    },
+    {
+      "palabra": "Corán, Alcorán (m.)",
+      "significado": "libro sagrado musulmán.",
+      "palabra_arabe": "الْقُرْآن al-qurʾān",
+      "etimologia": "nombre verbal de قَرَأَ qaraʾa, ‘recitar’"
+    },
+    {
+      "palabra": "alcorque (m.)",
+      "significado": "tierra no-pavimentada alrededor de un árbol.",
+      "palabra_arabe": "الْخَرْق al-ḵarq (‘la grieta, abertura’)",
+      "etimologia": "del arameo qarqā"
+    },
+    {
+      "palabra": "alcorza (f.)",
+      "significado": "un glaseado de azúcar y almidón.",
+      "palabra_arabe": "القُرْصَة al-qurṣa",
+      "etimologia": "de la raíz trilítera Q-R-Ṣ (ق ر ص)"
+    },
+    {
+      "palabra": "alcotán (m.)",
+      "significado": "ave rapaz similar al halcón.",
+      "palabra_arabe": "القُطَان al-quṭan",
+      "etimologia": "del ár. clásico قَطَام qaṭām (‘ halcón peregrino ’)"
+    },
+    {
+      "palabra": "alcurnia (f.)",
+      "significado": "estirpe, ascendencia o linaje, especialmente noble.",
+      "palabra_arabe": "الكُنْيَة al-kunya",
+      "etimologia": "de la kunya, raíz trilítera K-N-Y (ك ن ي) relacionada con «hacer referencia a», o el sobrenombre, o la metáfora."
+    },
+    {
+      "palabra": "cuscús (m.)",
+      "significado": "tipo de pasta minúscula básica de la cocina magrebí. Variante: alcuzcuz.",
+      "palabra_arabe": "si bien su origen último es el árabe كُسْكُس kuskus, la incorporación no es directa vía el andalusí.",
+      "etimologia": "si bien su origen último es el árabe كُسْكُس kuskus, la incorporación no es directa vía el andalusí."
+    },
+    {
+      "palabra": "alcuza (f.)",
+      "significado": "recipiente cónico para guardar aceite.",
+      "palabra_arabe": "الكُوزَة al-kūza",
+      "etimologia": "del persa medio کوزه kuza (‘taza, jarra’)"
+    },
+    {
+      "palabra": "aldaba (f.)",
+      "significado": "llamador de una puerta. derivado: aldabón, tragaldabas, o tener buenas aldabas.",
+      "palabra_arabe": "الضبَّة aḍ-ḍabba (‘la lagarta’)",
+      "etimologia": "de ضَبّ ḍabb ‘lagarto’, pues tenían tal forma."
+    },
+    {
+      "palabra": "dado (m.)",
+      "significado": "poliedro con seis caras numeradas del uno al seis, usado en juegos de mesa.",
+      "palabra_arabe": "ضَعْف ḍaʿf (‘doble’)",
+      "etimologia": ""
+    },
+    {
+      "palabra": "daga (f.)",
+      "significado": "",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "adalid, adalil (m.)",
+      "significado": "caudillo, líder. derivado: persona más visible de un movimiento político o escuela.",
+      "palabra_arabe": "الدَّلِيل al-dalīl ('el comandante')",
+      "etimologia": "raíz trilítera D-L-L (د ل ل), connota 'dirección'"
+    },
+    {
+      "palabra": "dársena (f.)",
+      "significado": "parte de un puerto protegida por muelles para el amarre de embarcaciones.",
+      "palabra_arabe": "دَرْسِينَة darsīna",
+      "etimologia": ""
+    },
+    {
+      "palabra": "adarve, adarbe (m.)",
+      "significado": "camino en la parte superior de una muralla.",
+      "palabra_arabe": "الدَّرْب al-darb",
+      "etimologia": "del ár. clásico دَرْب darb ('paso, camino'), asv. del griego antiguo Δέρβη Dérbē"
+    },
+    {
+      "palabra": "aldea (f.)",
+      "significado": "población pequeña.",
+      "palabra_arabe": "اَلضَّيْعَة aḍ-ḍay ʿ a",
+      "etimologia": "según Nöldeke, del ge'ez ፂኦት ṣ́iʾot (‘terrenos bajos, pastos’)"
+    },
+    {
+      "palabra": "aldebarán (m.)",
+      "significado": "estrella de la constelación Tauro.",
+      "palabra_arabe": "اَلدَّبَرَان ad-dabarān (‘la que sigue’)",
+      "etimologia": "del verbo دَبَر dabar (‘seguir’)"
+    },
+    {
+      "palabra": "adelfa (f.)",
+      "significado": "arbusto mediterráneo floral y tóxico.",
+      "palabra_arabe": "الدِّفْلَى ad-diflā",
+      "etimologia": "del griego antiguo δάφνη dáphnē (‘laurel’)"
+    },
+    {
+      "palabra": "ademe (m.)",
+      "significado": "en minería, madero que sirve para entibar.",
+      "palabra_arabe": "الدِّعْمَة ad-diʿma",
+      "etimologia": "raíz trilítera D-ʕ-M (د ع م), relacionado con ‘dar apoyo’"
+    },
+    {
+      "palabra": "dinar (m.)",
+      "significado": "moneda de varios países árabes",
+      "palabra_arabe": "",
+      "etimologia": "del latín denarius"
+    },
+    {
+      "palabra": "diván (m.)",
+      "significado": "tipo de sofá para tumbar el cuerpo completo.",
+      "palabra_arabe": "دِيوَان‎ dīwān",
+      "etimologia": "del pelvi دیوان dēwān (‘archivo’)"
+    },
+    {
+      "palabra": "adive (m.)",
+      "significado": "chacal.",
+      "palabra_arabe": "الذِّئْب aḏ-ḏi ʿ b.",
+      "etimologia": "del protosemítico * ḏiʔb- (‘lobo’)"
+    },
+    {
+      "palabra": "adoquín (m.)",
+      "significado": "piedra para construir pavimentos.",
+      "palabra_arabe": "الدُّكَّان al-dukkān",
+      "etimologia": "del arameo דּוּכָּנָא dukkānā (‘tarima’)"
+    },
+    {
+      "palabra": "aduana (f.)",
+      "significado": "oficina estatal fronteriza para el registro comercial.",
+      "palabra_arabe": "الديوان ad-dīwān ('la oficina administrativa')",
+      "etimologia": "del persa دیوان dêvân, asv. del sumerio 𒁾 (dub)"
+    },
+    {
+      "palabra": "aduar, duar (m.)",
+      "significado": "campamento informal y móvil.",
+      "palabra_arabe": "الدَّوَّار ad-dawwār ('itinerante')",
+      "etimologia": "de la raíz trilítera D-W-R (د و ر)"
+    },
+    {
+      "palabra": "elche (m. y f.)",
+      "significado": "morisco o renegado de la religión cristiana (no confundir con la ciudad de Elche).",
+      "palabra_arabe": "عِلْج ʿilŷ (‘ateo, kafir ’, insulto religioso)",
+      "etimologia": "desconocido, posiblemente de un dialecto antiguo"
+    },
+    {
+      "palabra": "elixir, elíxir (m.)",
+      "significado": "medicamento o remedio maravilloso.",
+      "palabra_arabe": "del latín medieval elixir, asv. del ár. cásico اَلْإِكْسِير al-ʾiksīr.",
+      "etimologia": "del latín medieval elixir, asv. del ár. cásico اَلْإِكْسِير al-ʾiksīr."
+    },
+    {
+      "palabra": "emir (m.)",
+      "significado": "príncipe o caudillo.",
+      "palabra_arabe": "أَمِير ʾamīr",
+      "etimologia": "de la raíz ʔ-M-R (ء م ر ‎), relacionada con ‘comandar’"
+    },
+    {
+      "palabra": "enchufar",
+      "significado": "ajustar la boca de un caño en la de otro. derivado: enchufe",
+      "palabra_arabe": "جوف ŷūf",
+      "etimologia": "de la raíz Ŷ-W-F (ج و ف ‎‎), relacionada con ‘el interior’"
+    },
+    {
+      "palabra": "engarzar",
+      "significado": "",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alerce (m.)",
+      "significado": "especie de árbol apreciado por su madera (Larix).",
+      "palabra_arabe": "اَلْأَرْز al-ʾarz",
+      "etimologia": "del arameo אַרְזָא / ܐܪܙܐ ʾarzā (‘cedro’)"
+    },
+    {
+      "palabra": "escabeche (m.)",
+      "significado": "alimento preparado en vinagre, aceite y especias.",
+      "palabra_arabe": "اَلسُّكَّبَاج as-sukkabáŷ",
+      "etimologia": "del ár. clásico اَلسِّكْبَاجَة as-sikbāŷa, femenino de سِكْبَاج sikbāŷ, asv. del pelvi *sḵbʾk' (‘sopa de vinagre’)"
+    },
+    {
+      "palabra": "escaque (m.)",
+      "significado": "cada una de las casillas del tablero de ajedrez.",
+      "palabra_arabe": "شَاك šāk",
+      "etimologia": "del persa شَاه šāh (‘rey’)"
+    },
+    {
+      "palabra": "escarlata (f.)",
+      "significado": "color rojo intenso.",
+      "palabra_arabe": "سَكَرْلَاتَة sakarlatā",
+      "etimologia": ""
+    },
+    {
+      "palabra": "escarpia (f.)",
+      "significado": "gancho o clavo grande para colgar.",
+      "palabra_arabe": "سَكَرْبِيّة sakarbiyya",
+      "etimologia": ""
+    },
+    {
+      "palabra": "espinaca (f.)",
+      "significado": "planta hortícola comestible de hojas verdes.",
+      "palabra_arabe": "إِسْفَانَاخ isfānāj",
+      "etimologia": "del persa اسپاناخ ispanāj"
+    },
+    {
+      "palabra": "estante (m.)",
+      "significado": "mueble con varios compartimentos para guardar objetos.",
+      "palabra_arabe": "اِسْتَانَة istāna",
+      "etimologia": ""
+    },
+    {
+      "palabra": "estragón (m.)",
+      "significado": "hierba aromática.",
+      "palabra_arabe": "إِسْطَرَغَان istaraġān",
+      "etimologia": ""
+    },
+    {
+      "palabra": "aletría (f.)",
+      "significado": "fideos finos utilizados en la gastronomía, especialmente en la región de Murcia.",
+      "palabra_arabe": "الإِطْرِيَّة al-ʾitriyya",
+      "etimologia": "del arameo אִטְרִיתָא ʾiṭrīṯā, asv. del griego antiguo ἴτριον ítrion"
+    },
+    {
+      "palabra": "exarico (m.)",
+      "significado": "durante el feudalismo de la Edad Media, un campesino musulmán, especialmente en el valle bajo del Ebro.",
+      "palabra_arabe": "شَرِيك šarīk (‘socio’)",
+      "etimologia": "de la raíz Š-R-K (ش ر ك ‎), relacionada con compartir y participar"
+    },
+    {
+      "palabra": "aleya (f.)",
+      "significado": "verso del Corán.",
+      "palabra_arabe": "الآيَة al-ʾāya",
+      "etimologia": "del protosemítico *awayat-"
+    },
+    {
+      "palabra": "alfaguara (f.)",
+      "significado": "manantial abundante.",
+      "palabra_arabe": "اَلْفَوَّارَة al-fawwāra (‘la fuente’)",
+      "etimologia": "de la raíz F-W-R (ف و ر)"
+    },
+    {
+      "palabra": "alfajeme (m.)",
+      "significado": "barbero.",
+      "palabra_arabe": "الحَجَّام al-ḥaŷŷām (‘el sangrador’)",
+      "etimologia": "de la raíz Ḥ-Ŷ-M (ح ج م)"
+    },
+    {
+      "palabra": "alfajor (m.)",
+      "significado": "dulce tradicional en España y América.",
+      "palabra_arabe": "الفشر al-fašur",
+      "etimologia": "del persa افشر afšur (‘jugo’)"
+    },
+    {
+      "palabra": "faláfel (m.)",
+      "significado": "albóndiga frita vegana a base de garbanzo.",
+      "palabra_arabe": "فَلَافِل falāfil",
+      "etimologia": "plural roto de فِلْفِل filfil, a su vez del persa medio پِلْپِل pilpil (‘pimienta’)"
+    },
+    {
+      "palabra": "alfalfa (f.), Arg.: alfalfez (m.)",
+      "significado": "hierba usada como forraje o heno. derivado: alforfón",
+      "palabra_arabe": "الْفَصْفَصَة al-faṣfaṣa",
+      "etimologia": "del persa medio aspast, asv. del persa antiguo aspa (‘caballo’) asti (‘comida’)."
+    },
+    {
+      "palabra": "falleba (f.)",
+      "significado": "varilla metálica que sirve como cerradura de puertas y ventanas",
+      "palabra_arabe": "خَلّابَة jallāba",
+      "etimologia": "de مِخْلَب mijlab (‘arra, uña, hoz’)"
+    },
+    {
+      "palabra": "fanega (f.)",
+      "significado": "antigua medida de capacidad para cereales, equivalente a unos 55 litros.",
+      "palabra_arabe": "فَنِيقَة fanīqa",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alfandoque (m.)",
+      "significado": "pasta hecha de melaza de caña.",
+      "palabra_arabe": "الفَنْدُق al-fanduq",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alfanje (m.)",
+      "significado": "tipo de sable corto y corvo. Por extensión, el pez espada.",
+      "palabra_arabe": "الخَنْجَر al-janŷar (‘la daga’)",
+      "etimologia": "del persa خونگر xungar"
+    },
+    {
+      "palabra": "alfaqueque (m.)",
+      "significado": "libertador de esclavos o redentor de prisioneros. O bien, mensajero de correo.",
+      "palabra_arabe": "الفكّاكْ al-fakkāk",
+      "etimologia": "de la raíz F-K-K (ف ك ك), relacionada con el acto de liberar"
+    },
+    {
+      "palabra": "alfaquí (f.)",
+      "significado": "erudito de la ley islámica.",
+      "palabra_arabe": "الفَقِيه al-faqīh",
+      "etimologia": "de la raíz F-Q-H (ف ق ه)"
+    },
+    {
+      "palabra": "faquir (m.)",
+      "significado": "",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "farda, alfarda 1 (f.)",
+      "significado": "impuesto que pagaban los moros y judíos en los reinos cristianos.",
+      "palabra_arabe": "الْفَرْض al-farḍ (‘la imposición’)",
+      "etimologia": "de la raíz F-R-Ḍ (ف ر ض), relacionada con la obligación o deuda"
+    },
+    {
+      "palabra": "farda, alfarda 2 (f.)",
+      "significado": "par de una armadura.",
+      "palabra_arabe": "الفَرْدَ al-farda (‘una de las dos partes’)",
+      "etimologia": "de la raíz F-R-D (ف ر د), relacionada con la singularidad, la unicidad"
+    },
+    {
+      "palabra": "alfareme (f.)",
+      "significado": "velo que cubre la cabeza.",
+      "palabra_arabe": "الْحَرَام al-ḥarām",
+      "etimologia": "de la raíz Ḥ-R-M (ح ر م)"
+    },
+    {
+      "palabra": "alfarero, -a, alfarería (f.) alfaharero, -a",
+      "significado": "arte de trabajar el barro cocido o persona dedicada a ello.",
+      "palabra_arabe": "الْفَخَّار al-fajjār",
+      "etimologia": "del arameo פחרא / ܦܚܪܐ pajjārā, asv. del acadio 𒁃 paḫāru⁠"
+    },
+    {
+      "palabra": "alfarje (m.)",
+      "significado": "techo de madera típico de la arquitectura mudéjar.",
+      "palabra_arabe": "الفارش al-fārš",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alfarjía (f.)",
+      "significado": "cada una de las vigas que forma el alfarje, o bien una pieza decorativa de puertas y ventanas.",
+      "palabra_arabe": "الفارش al-fārš",
+      "etimologia": ""
+    },
+    {
+      "palabra": "farra (f.)",
+      "significado": "fiesta, diversión.",
+      "palabra_arabe": "فَرْحَة farḥa (‘jolgorio’)",
+      "etimologia": "sustantivo de instancia del verbo فَرِحَ fariḥa (‘ser feliz, disfrutar’)"
+    },
+    {
+      "palabra": "alféizar (m.)",
+      "significado": "soporte de una ventana.",
+      "palabra_arabe": "الحيزا al-ḥeyza",
+      "etimologia": "del ár. clásico حِيَازَة ḥiyāza"
+    },
+    {
+      "palabra": "alfeñique (m.)",
+      "significado": "pasta hecha de azúcar.",
+      "palabra_arabe": "الْفَانِيد al-fānīd (‘el caramelo’)",
+      "etimologia": "del persa پانید pānīd (‘azúcar’)"
+    },
+    {
+      "palabra": "alférez (m.), alferza (f.), alfierez, alferce, ferz (m.)",
+      "significado": "oficial de grado inferior.",
+      "palabra_arabe": "الفَارِس al-fāris (‘el caballero’)",
+      "etimologia": "de la raíz F-R-S (ف ر س)"
+    },
+    {
+      "palabra": "fetua (f.)",
+      "significado": "dictamen o decreto legal emitido por un experto religioso musulmán.",
+      "palabra_arabe": "فَتْوَى fatwā",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alficoz (m.)",
+      "significado": "tipo de pepino (C. melo subs. flexuosus)",
+      "palabra_arabe": "الفَقُّوس al-faqqūs",
+      "etimologia": "varias teorías"
+    },
+    {
+      "palabra": "alfil (f.)",
+      "significado": "pieza del ajedrez.",
+      "palabra_arabe": "الْفِيل al-fīl (‘el elefante’)",
+      "etimologia": "del persa pyl"
+    },
+    {
+      "palabra": "alfiler (m.)",
+      "significado": "clavo muy fino.",
+      "palabra_arabe": "اَلْخِلَال al-jilāl",
+      "etimologia": "de la raíz trilítera J-L-L (خ ل ل), relacionada con la perforación"
+    },
+    {
+      "palabra": "alfolí (m.)",
+      "significado": "almacén de cereales.",
+      "palabra_arabe": "الهُرْي al-hurī",
+      "etimologia": "del antiguo egipcio mẖr (‘el almacén, el granero’), confer copto ⲁϩⲟⲣ ahor (mismo significado)"
+    },
+    {
+      "palabra": "alfombra (f.)",
+      "significado": "tapete o alcatifa. Sal.: alhamar, alfamar.",
+      "palabra_arabe": "الْحَمْرَاء al-ḥamrāʾ (‘la rojiza’)",
+      "etimologia": "de la raíz trilítera Ḥ-M-R (ح م ر), relacionada con el color rojo"
+    },
+    {
+      "palabra": "fonda (f.)",
+      "significado": "establecimiento de comida modesto y económico.",
+      "palabra_arabe": "فُنْدُق funduq (‘posada, albergue’)",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alfónsigo (m.)",
+      "significado": "pistacho (Pistacia vera).",
+      "palabra_arabe": "الفُسْتَق al-fustaq",
+      "etimologia": "del griego antiguo πιστάκη pistákē"
+    },
+    {
+      "palabra": "alforja (f.)",
+      "significado": "dos maletas unidas por una tira que se echa al hombro o a lomos del caballo o mula.",
+      "palabra_arabe": "الخُرْج al-jurŷ",
+      "etimologia": "de la raíz trilítera J-R-Ŷ (خ ر ج), relacionada con el color rojo"
+    },
+    {
+      "palabra": "alfoz (m.)",
+      "significado": "distrito rural.",
+      "palabra_arabe": "الحَوْز al-ḥawz",
+      "etimologia": "sustantivación del verbo حَازَ ḥāza, ‘poseer’ (ergo, ‘posesión’)"
+    },
+    {
+      "palabra": "fulano, -a",
+      "significado": "persona de la que no se quiere o no se puede decir el nombre.",
+      "palabra_arabe": "فُلَان fulān",
+      "etimologia": ""
+    },
+    {
+      "palabra": "gacela (f.)",
+      "significado": "animal ágil y elegante, perteneciente a la familia de los antílopes.",
+      "palabra_arabe": "غزال ġazāl",
+      "etimologia": ""
+    },
+    {
+      "palabra": "algaida 1 (f.)",
+      "significado": "And: arroyos pequeños y médanos arenosos cerca del mar, que el viento suele mudar continuamente.",
+      "palabra_arabe": "القعيدة al-qaʿida (‘la colina de arena’)",
+      "etimologia": "de la raíz Q-ʕ-D (ق ع د), relacionada con sentarse, asentado, permanecer."
+    },
+    {
+      "palabra": "algaida 2 (f.)",
+      "significado": "And: hábitat de las zonas costeras andaluzas, de pinos piñoneros y terreno arenoso.",
+      "palabra_arabe": "الغيضة al-ġayḍa (‘matorral, bosque’)",
+      "etimologia": "de la raíz Ġ-Y-Ḍ (غ ي ض), relacionada con el flujo de agua."
+    },
+    {
+      "palabra": "algalia, algalía (f.)",
+      "significado": "perfume de civeta.",
+      "palabra_arabe": "الغَالِيَة al-ġāliya",
+      "etimologia": "femino de غَالِي ḡālī (‘caro’)"
+    },
+    {
+      "palabra": "gálibo (m.)",
+      "significado": "línea que limita un espacio vertical en la arquitectura.",
+      "palabra_arabe": "قَالِب qālib (‘forma, molde’)",
+      "etimologia": "del siríaco ܩܠܒܝܕ qālobīḏ⁠, a su vez del griego antiguo κᾱλοπόδιον kālopódion (‘ horma ’)"
+    },
+    {
+      "palabra": "gandul (m.)",
+      "significado": "planta leguminosa de la familia de los frijoles.",
+      "palabra_arabe": "الْجَنْدُول al-jandūl",
+      "etimologia": ""
+    },
+    {
+      "palabra": "algara 1, algarada (f.)",
+      "significado": "tropas a caballo dedicadas al saqueo del enemigo.",
+      "palabra_arabe": "الْغَارَة al-ġāra (‘incursión’)",
+      "etimologia": "de la raíz Ġ-W-R (غ و ر), relacionada con «caer en»"
+    },
+    {
+      "palabra": "algarabía (m.)",
+      "significado": "griterío confuso, ininteligible.",
+      "palabra_arabe": "الْعَرَبِيَّة al-ʿarabía (‘la [lengua] árabe’)",
+      "etimologia": "de la raíz ʕ-R-B (ع ر ب), relacionada con los árabes."
+    },
+    {
+      "palabra": "garrafa (f.)",
+      "significado": "botella de gran tamaño.",
+      "palabra_arabe": "si bien su origen último es el árabe غَرَّاف garrāf, la incorporación no es directa vía el andalusí.",
+      "etimologia": "si bien su origen último es el árabe غَرَّاف garrāf, la incorporación no es directa vía el andalusí."
+    },
+    {
+      "palabra": "algarrobo, -a",
+      "significado": "planta y fruto de Ceratonia siliqua. derivado: algarrobina",
+      "palabra_arabe": "الْخَرُّوبَة al-jarrūba",
+      "etimologia": "del arameo חַרּוּבָא / ܚܲܪܘܼܒ݂ܵܐ ḥarrūḇā, asv. del acadio 𒄩𒊒𒉿 ḫarūbu⁠"
+    },
+    {
+      "palabra": "gasa (f.)",
+      "significado": "tejido fino y ligero usado en medicina para vendajes.",
+      "palabra_arabe": "غَزَّة ġazzah",
+      "etimologia": ""
+    },
+    {
+      "palabra": "algazara (f.)",
+      "significado": "ruido, griterío, generalmente alegre.",
+      "palabra_arabe": "الغَزَارَة al-ġazāra (‘la abundancia’)",
+      "etimologia": ""
+    },
+    {
+      "palabra": "algodón (m.)",
+      "significado": "planta (Gossypium) y el material textil que se obtiene de ella.",
+      "palabra_arabe": "القُطْن al-quṭn",
+      "etimologia": "relacionado con el arameo כִיתָאנָא kittānā o ܟܶܬܳܢܳܐ kettānā (‘lino’), asv. con el ugarítico 𐎖𐎉 qṭ (‘lino’)"
+    },
+    {
+      "palabra": "algorín, alforín, alguarín, alholí (m.)",
+      "significado": "troj, cada una de las secciones del molino de aceite de oliva donde se depositan las aceitunas.",
+      "palabra_arabe": "الهُرْي al-hurī (‘el almacén, el granero’)",
+      "etimologia": "del antiguo egipcio mẖr (‘almacén’), confer copto ⲁϩⲟⲣ ahor (mismo significado)"
+    },
+    {
+      "palabra": "algoritmo (m.)",
+      "significado": "método matemático de operación o cálculo",
+      "palabra_arabe": "del cast. antiguo ‘(al)guarismo’, asv. del árabe الخَوَارِزْمِيّ al-Juarismi (780-850), matemático persa. Posible influencia del griego ἀριθμός arithmós ‘número’, como en «logaritmo». Según la rae, podría provenir de حِسابو الجُبار ḥisābu-l-ḡubār.",
+      "etimologia": "del cast. antiguo ‘(al)guarismo’, asv. del árabe الخَوَارِزْمِيّ al-Juarismi (780-850), matemático persa. Posible influencia del griego ἀριθμός arithmós ‘número’, como en «logaritmo». Según la rae, podría provenir de حِسابو الجُبار ḥisābu-l-ḡubār."
+    },
+    {
+      "palabra": "alguacil, -a aguacil, -a",
+      "significado": "oficial o agente ejecutivo R. Pl.: libélula",
+      "palabra_arabe": "الوَزِير al-wazīr (‘el ministro’)",
+      "etimologia": "quizá del verbo وَزَرَ wazara (‘cargar’) o bien del persa wcyl (‘decisión, juicio’)"
+    },
+    {
+      "palabra": "alguarín (m.)",
+      "significado": "Ar: almacén.",
+      "palabra_arabe": "véase algorín.",
+      "etimologia": "véase algorín."
+    },
+    {
+      "palabra": "guitarra (f.)",
+      "significado": "Instrumento musical de cuerda.",
+      "palabra_arabe": "قِيتَارَة qītāra",
+      "etimologia": "del arameo קיתרא qīṯārā, asv. del griego antiguo κῐθᾰ́ρᾱ kĭthắrā"
+    },
+    {
+      "palabra": "hachís (m.)",
+      "significado": "resina de la planta de cannabis, utilizada como droga.",
+      "palabra_arabe": "حشيش ḥašīš",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alhadiz, hadiz (m.)",
+      "significado": "palabra o frase de Mahoma",
+      "palabra_arabe": "الحَدِيث ḥadīz",
+      "etimologia": "de la raíz trilítera H-D-Z (ح د ث), relacionada con el acontecimiento, la novedad, o el acto de informar"
+    },
+    {
+      "palabra": "alhaja (f.)",
+      "significado": "joya. derivado: alhajero (‘joyero’)",
+      "palabra_arabe": "الحَاجَة al-ḥāja",
+      "etimologia": "de la raíz Ḥ-W-Ŷ (ح و ج), relacionada con aquello preciado o valioso"
+    },
+    {
+      "palabra": "halago (m.), halagar",
+      "significado": "adular, decir palabras de afecto para agradar a otra persona.",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "halal",
+      "significado": "alimento permitido por las normas dietéticas musulmanas",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "hanafí (m.)",
+      "significado": "uno de los cuatro principales ramales del derecho islámico suní.",
+      "palabra_arabe": "الحَنَفِي al-ḥanafī",
+      "etimologia": ""
+    },
+    {
+      "palabra": "hanbalí (m.), hanbalismo (m.)",
+      "significado": "escuela teológica islámica fundada por Ahmad ibn Hanbal.",
+      "palabra_arabe": "الحَنبَلِي al-ḥanbalī",
+      "etimologia": ""
+    },
+    {
+      "palabra": "haram (m.)",
+      "significado": "prohibido por la ley islámica.",
+      "palabra_arabe": "حَرَام ḥarām",
+      "etimologia": ""
+    },
+    {
+      "palabra": "harén (m.)",
+      "significado": "conjunto de mujeres recluidas en el ámbito de un palacio islámico.",
+      "palabra_arabe": "حَرِيم ḥarīm",
+      "etimologia": ""
+    },
+    {
+      "palabra": "hasta",
+      "significado": "preposición que indica término, límite o extremo.",
+      "palabra_arabe": "حَتَّى ḥattā",
+      "etimologia": "etimología discutida."
+    },
+    {
+      "palabra": "hazaña (f.)",
+      "significado": "proeza, acción ilustre y heroica.",
+      "palabra_arabe": "حَسَنَة ḥasana (‘buena acción’)",
+      "etimologia": "de la raíz Ḥ-S-N (ح س ن), relacionada con lo bueno"
+    },
+    {
+      "palabra": "alhelí (m.)",
+      "significado": "flor olorosa y decorativa, de distintos colores.",
+      "palabra_arabe": "الْخَيْرِيّ al-jairī (‘la bondadosa [flor]’)",
+      "etimologia": "adjetivación del sustantivo خَيْر jair (‘bien, bondad’)"
+    },
+    {
+      "palabra": "alheña (f.)",
+      "significado": "Lawsonia inermis (planta) y el tinte que se obtiene de ella",
+      "palabra_arabe": "الحِنَّاء al-ḥinnāʾ",
+      "etimologia": "etimología desconocida"
+    },
+    {
+      "palabra": "hiraba (m.)",
+      "significado": "delito islámico de la guerra injusta o el saqueo.",
+      "palabra_arabe": "حَرَبَة ḥarāba",
+      "etimologia": ""
+    },
+    {
+      "palabra": "hiyab (m.)",
+      "significado": "velo que cubre la cabeza y el pecho usado por algunas mujeres musulmanas.",
+      "palabra_arabe": "حِجَاب ḥiŷāb",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alholva (f.)",
+      "significado": "fenogreco (Trigonella foenum-graecum).",
+      "palabra_arabe": "الْحُلْبَة al-ḥulba",
+      "etimologia": "del arameo ܚܠܒܬܐ ḥilbā́"
+    },
+    {
+      "palabra": "alhóndiga (f.)",
+      "significado": "casa pública donde se vende y almacena el trigo.",
+      "palabra_arabe": "الفُنْدَق al-fundaq",
+      "etimologia": "del arameo panduqiūm, asv. del griego antiguo πανδοκεῖον pandokeîon (‘albergue’)"
+    },
+    {
+      "palabra": "alhucema (f.)",
+      "significado": "planta aromática de flores violetas.",
+      "palabra_arabe": "الحَشِيشَة al-ḥashīsha",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alhucema (f.)",
+      "significado": "planta aromática de flores violetas.",
+      "palabra_arabe": "الحَشِيشَة al-ḥashīsha",
+      "etimologia": ""
+    },
+    {
+      "palabra": "hummus",
+      "significado": "crema de garbanzos típica árabe.",
+      "palabra_arabe": "حُمُّص ḥummuṣ",
+      "etimologia": "del arameo חִימְצָא ḥimməṣā o חוּמְצָא ḥumməṣā (‘garbanzos’)"
+    },
+    {
+      "palabra": "hurí",
+      "significado": "en la tradición islámica, mujer celestial destinada para los creyentes piadosos en el Paraíso.",
+      "palabra_arabe": "حُورٍ ḥūrin",
+      "etimologia": ""
+    },
+    {
+      "palabra": "hutí",
+      "significado": "miembro de un movimiento rebelde en Yemen.",
+      "palabra_arabe": "حُوثِيّ ḥūthīī",
+      "etimologia": "nombre de la tribu árabe Hūth."
+    },
+    {
+      "palabra": "aliaga (f.)",
+      "significado": "arbusto espinoso de flores amarillas (Ulex europaeus)",
+      "palabra_arabe": "اليُلَاقَة al-yilāqa",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alifara (m.)",
+      "significado": "Aragón: comida u obsequio que el comprador de un bien hace al vendedor con motivo de la venta.",
+      "palabra_arabe": "الإِحَالَة al-ʿiḥála",
+      "etimologia": "del verbo أَحَالَ ʿaḥāla (‘transferir [un pago]’)"
+    },
+    {
+      "palabra": "imán (m.)",
+      "significado": "guía religioso.",
+      "palabra_arabe": "إِمَام ʿimām (‘líder’)",
+      "etimologia": "de la raíz ʔ-M-M (ء م م)"
+    },
+    {
+      "palabra": "imela (f.)",
+      "significado": "fenómeno fonético de algunos dialectos del árabe que consiste en pronunciar la a como i o e. Por ejemplo, مسجد masŷid como mesŷid (‘mezquita’)",
+      "palabra_arabe": "إِمَالَة imāla (‘inclinación’)",
+      "etimologia": "sustantivo verbal de أَمَالَ ʿamāla (‘inclinarse’)"
+    },
+    {
+      "palabra": "intifada (f.)",
+      "significado": "insurrección palestina.",
+      "palabra_arabe": "اِنْتَفَضَ intifāḍa (‘agitación, levantamiento’)",
+      "etimologia": "del verbo اِنْتَفَضَ intifāḍ (‘sacudir’)"
+    },
+    {
+      "palabra": "islam (m.)",
+      "significado": "religión monoteísta abrahámica.",
+      "palabra_arabe": "إِسْلَام ʿislām",
+      "etimologia": "sustantivo verbal de أَسْلَمَ ʿaslama (‘rendirse, entregarse’)"
+    },
+    {
+      "palabra": "aljaba (m.)",
+      "significado": "carcaj o portador de flechas.",
+      "palabra_arabe": "الجَعْبَة al-ŷaʿba",
+      "etimologia": "de la raíz trilítera Ŷ-ʕ-B (ج ع ب)"
+    },
+    {
+      "palabra": "jabalcón, jabalón (m.)",
+      "significado": "viga de madera inclinada que soporta y distribuye el peso de una estructura, especialmente el techo.",
+      "palabra_arabe": "جَمْلُوْن ŷamalūn",
+      "etimologia": "según varias teorías."
+    },
+    {
+      "palabra": "jabalí (m.)",
+      "significado": "cerdo salvaje.",
+      "palabra_arabe": "خِنْزِير الجَبَل ḫinzīr al-jabal",
+      "etimologia": "de la raíz trilítera Ħ-N-Z (خ ن ز)"
+    },
+    {
+      "palabra": "jábega (f.)",
+      "significado": "embarcación típica del litoral mediterráneo, similar a la falúa.",
+      "palabra_arabe": "جَابِيَة ŷābiya",
+      "etimologia": "del ár. clásico جَابِيَة ŷābiya (‘tipo de barca’)"
+    },
+    {
+      "palabra": "jabeque (m.)",
+      "significado": "embarcación de vela de dos o tres palos, con popa muy elevada.",
+      "palabra_arabe": "جابق ŷābiq",
+      "etimologia": "del ár. clásico جابق ŷābiq"
+    },
+    {
+      "palabra": "jácena (f.)",
+      "significado": "viga principal de una estructura de madera.",
+      "palabra_arabe": "si bien su origen último es el árabe جَسْر ŷasr (‘puente’), la incorporación no es directa vía el jaldeta jaldeandalusí.",
+      "etimologia": "si bien su origen último es el árabe جَسْر ŷasr (‘puente’), la incorporación no es directa vía el jaldeta jaldeandalusí."
+    },
+    {
+      "palabra": "jaima (f.)",
+      "significado": "tienda de campaña de los beduinos y nómadas.",
+      "palabra_arabe": "خَيْمَة jayma",
+      "etimologia": "del ár. clásico خَيْمَة ḫayma"
+    },
+    {
+      "palabra": "aljama (f.)",
+      "significado": "comunidad musulmana o judía, en el medievo.",
+      "palabra_arabe": "الجَمْع al-ŷamaʿ (‘congregación’)",
+      "etimologia": "de la raíz trilítera Ŷ-M-ʕ (ج م ع), relacionada reunir o recolectar"
+    },
+    {
+      "palabra": "jamacuco (m.)",
+      "significado": "mareo, desmayo, indisposición repentina.",
+      "palabra_arabe": "véase zamacuco.",
+      "etimologia": "véase zamacuco."
+    },
+    {
+      "palabra": "jaqueca (f.)",
+      "significado": "dolor de cabeza intenso.",
+      "palabra_arabe": "شَقِيقَة šaqīqa",
+      "etimologia": "de la raíz trilítera Š-Q-Q (ش ق ق), relacionada una mitad o lado, en referencia a que es hemicránea"
+    },
+    {
+      "palabra": "jara (f.)",
+      "significado": "planta arbustiva floral del centro y sur de España (Cistus spp.).",
+      "palabra_arabe": "شَعْرَاء šaʿrā ʾ",
+      "etimologia": "de شَعْر šaʿr (‘vello, pelo’, en referencia a las matas de vegetación)"
+    },
+    {
+      "palabra": "jarra (f.)",
+      "significado": "recipiente de cristal o porcelana para contener líquidos.",
+      "palabra_arabe": "جَرَّة ŷarra",
+      "etimologia": "quizá de la raíz Ŷ-R-R (ج ر ر) que tiene el sentido de ‘arrastrar’. Ya encontrado en otras lenguas semíticas como en siríaco clásico ܓܘܪܐ gūrā"
+    },
+    {
+      "palabra": "jarabe (m.)",
+      "significado": "bebida dulce elaborada con agua, azúcar y zumo de frutas o extractos vegetales.",
+      "palabra_arabe": "شَرَاب šarāb",
+      "etimologia": "del pelvi شَرَاب šarāb"
+    },
+    {
+      "palabra": "jarcha (f.)",
+      "significado": "canción que en época medieval terminaba la moaxaja.",
+      "palabra_arabe": "خَرْجَة jarŷa (‘final’)",
+      "etimologia": "de la raíz J-R-Ŷ (خ ر ج), relacionada con lo que acaba, salir de algo"
+    },
+    {
+      "palabra": "jazmín (m.)",
+      "significado": "planta trepadora ornamental con flores blancas o amarillas muy olorosas (Jasminum spp.).",
+      "palabra_arabe": "يَاسْمِين yāsmīn",
+      "etimologia": "del pelvi يَاسْمِين yāsmīn"
+    },
+    {
+      "palabra": "ajedrea (f.)",
+      "significado": "una planta aromática usada en gastronomía y medicina (Satureja).",
+      "palabra_arabe": "اشترية aš-šaṭríyya",
+      "etimologia": "del latín satureia."
+    },
+    {
+      "palabra": "ajedrez (m.)",
+      "significado": "juego de mesa.",
+      "palabra_arabe": "الشَّطْرَنْج aš-šaṭranŷ",
+      "etimologia": "del persa medio 𐭰𐭠𐭲 𐭫𐭠𐭭𐭢 cʾtlʾng, asv. del sánscrito चतुरङ्ग caturaṅga"
+    },
+    {
+      "palabra": "jenabe, ajenabe (m.)",
+      "significado": "mostaza (Sinapis alba).",
+      "palabra_arabe": "الشِّنَاب aš-šināb",
+      "etimologia": "del latín sinapis"
+    },
+    {
+      "palabra": "ajenuz (m.)",
+      "significado": "una planta floral (Nigella).",
+      "palabra_arabe": "الشَّنُوز aš-šanūz",
+      "etimologia": "del ár. clásico شُونِيز šūnīz"
+    },
+    {
+      "palabra": "jeque (m.)",
+      "significado": "título honorífico en el mundo árabe, principalmente para líderes tribales, religiosos o financieros.",
+      "palabra_arabe": "شَيْخ šayj (‘anciano’)",
+      "etimologia": "de la raíz trilítera Š-Y-J (ش ي خ), relacionada el concepto de envejecer"
+    },
+    {
+      "palabra": "jerife (m.)",
+      "significado": "jefe tribal o gobernante en algunas regiones árabes y del norte de África.",
+      "palabra_arabe": "شَرِيف šarīf",
+      "etimologia": "del ar. clásico شَرِيف šarīf (‘noble’, ‘honorario’)"
+    },
+    {
+      "palabra": "aljibe (m.)",
+      "significado": "depósito subterráneo de agua.",
+      "palabra_arabe": "الجُبّ al-ŷubb",
+      "etimologia": "de la raíz trilítera Ŷ-B-B (ج ب ب), relacionada con corte o fosa"
+    },
+    {
+      "palabra": "ajimez (m.)",
+      "significado": "ventana que de divide en dos aberturas iguales por la separación de una columna intercalada.",
+      "palabra_arabe": "الشَّمِيس aš-šamís",
+      "etimologia": "del ár. clásico شمس šams (‘sol’)"
+    },
+    {
+      "palabra": "jinete (m.)",
+      "significado": "persona que monta a caballo.",
+      "palabra_arabe": "زَنَاتِيّ zanāti",
+      "etimologia": "gentilicio de los زَنَاتَة Zanāta, tribu amazig conocida por dominar la equitación"
+    },
+    {
+      "palabra": "jirafa (f.)",
+      "significado": "mamífero artiodáctilo de cuello largo.",
+      "palabra_arabe": "زَرَافَة zarāfa",
+      "etimologia": "desconocido, posiblemente de alguna lengua africana"
+    },
+    {
+      "palabra": "jofaina, aljofaina (f.)",
+      "significado": "vasija grande y hondable para lavar o para otros usos.",
+      "palabra_arabe": "جَفْنَة ŷafna (‘bandeja, escudilla’)",
+      "etimologia": "femenino de جَفْن ŷafn (‘tina, cuba’)"
+    },
+    {
+      "palabra": "aljófar (m.)",
+      "significado": "perla de forma irregular.",
+      "palabra_arabe": "الجَوْهَر al-ŷawhar",
+      "etimologia": "del pelvi الجَوْهَر gowhar (‘perla’)"
+    },
+    {
+      "palabra": "ajonjolí (m.)",
+      "significado": "semillas usadas como condimento, también dicho sésamo.",
+      "palabra_arabe": "جُلْجُلَان al-ŷulŷulān",
+      "etimologia": "desconocido. En el libro Kitāb al-Mustaʿīnī se le atribuye un origen indio a la palabra (Dozy)"
+    },
+    {
+      "palabra": "ajorca (f.)",
+      "significado": "muñequera, brazalete o tobillera de metal.",
+      "palabra_arabe": "[ ár. andalusí ] الشُّرْكَة aš-šúrka",
+      "etimologia": "del ár. clásico شِرَاك širāk, que se refiere a la cuerda o correa de la sandalia, asv. de la raíz trilítera Š-R-K (ش ر ك)."
+    },
+    {
+      "palabra": "joroba (f.)",
+      "significado": "giba o prominencia ósea en la espalda de algunos animales.",
+      "palabra_arabe": "حَدَبَة ḥadaba",
+      "etimologia": "quizá de la raíz trilítera Ŷ-W-B (ج و ب)"
+    },
+    {
+      "palabra": "ajuar (m.)",
+      "significado": "conjunto de muebles, ropa, enseres y otros objetos propios de una casa o familia.",
+      "palabra_arabe": "شَوَار aš-šawār",
+      "etimologia": "de la raíz trilítera Š-W-R (ش و ر), relacionada con mostrar, exhibir, o con el ornamento"
+    },
+    {
+      "palabra": "aljuba (f.)",
+      "significado": "tipo de traje medieval.",
+      "palabra_arabe": "الجُبَّة al-ŷubba (‘ ŷubba ’)",
+      "etimologia": "de la raíz trilítera Ŷ-B-B (ج ب ب)"
+    },
+    {
+      "palabra": "jurel (m.)",
+      "significado": "pez marino de la familia de los carángidos.",
+      "palabra_arabe": "[ ár. andalusí ] شُرِيل * šurīl",
+      "etimologia": "del latín saurus (‘lagarto’)"
+    },
+    {
+      "palabra": "julepe (m.)",
+      "significado": "varios significados. Originalmente, poción o jarabe.",
+      "palabra_arabe": "جُلَاب ŷulāb (‘noble’, ‘honorario’)",
+      "etimologia": "de la raíz trilítera Ŷ-L-B (ج ل ب)"
+    },
+    {
+      "palabra": "kafir (f.)",
+      "significado": "persona que no profesa la religión islámica en un país islámico.",
+      "palabra_arabe": "كافِر kāfir (‘infiel’)",
+      "etimologia": "de la raíz trilítera K-F-R (ك ف ر), relacionado con el ocultamiento"
+    },
+    {
+      "palabra": "kif (f.)",
+      "significado": "tricomas de las plantas del género Cannabis.",
+      "palabra_arabe": "كِفّ kiff (‘bienestar, placer’)",
+      "etimologia": "del ar. clásico كَيْفَ kayf, partícula para preguntar por el estado de ánimo (equivalente a ‘¿cómo... [estás]?’"
+    },
+    {
+      "palabra": "kufiya (f.)",
+      "significado": "pañuelo palestino.",
+      "palabra_arabe": "كُوفِيَّة kūfiyya (‘kufí’), literalmente de la ciudad de Kufa (الْكُوفَة)",
+      "etimologia": "كُوفِيَّة kūfiyya (‘kufí’), literalmente de la ciudad de Kufa (الْكُوفَة)"
+    },
+    {
+      "palabra": "laca (f.)",
+      "significado": "sustancia resinosa usada como barniz para proteger, fijar o dar brillo.",
+      "palabra_arabe": "لَكٌّ lakk",
+      "etimologia": "del persa لاک lâk, asv. del sánscrito लाक्षा lākṣā"
+    },
+    {
+      "palabra": "latón (m.)",
+      "significado": "aleación de cobre y cinc.",
+      "palabra_arabe": "لَاطُون lāṭūn",
+      "etimologia": "del turco altɩn, asv. del turco antiguo 𐰞𐱃𐰆𐰣 l¹t¹un¹ (‘oro’)"
+    },
+    {
+      "palabra": "laúd (m.)",
+      "significado": "instrumento de la familia de las guitarras.",
+      "palabra_arabe": "اَلْعُود al-ʿūd",
+      "etimologia": "de la raíz ʕ-W-D (ع و د), relacionada con lo flexible, en referencia a la madera del instrumento."
+    },
+    {
+      "palabra": "leila (f.)",
+      "significado": "fiesta nocturna.",
+      "palabra_arabe": "لَيْلَى laylā (‘noche’)",
+      "etimologia": "del protosemítico *laylay (‘noche’)"
+    },
+    {
+      "palabra": "alicate (m.)",
+      "significado": "herramienta para torcer alambres.",
+      "palabra_arabe": "اللَقَّاط al-laqqāṭ",
+      "etimologia": "de la raíz L-Q-Ṭ (ل ق ط)"
+    },
+    {
+      "palabra": "lima (f.)",
+      "significado": "fruta de la familia de los cítricos.",
+      "palabra_arabe": "لِيمَة līma",
+      "etimologia": "del persa لیمو limu o لیمون limun, asv. del sánscrito निम्बू nimbū"
+    },
+    {
+      "palabra": "limón (f.)",
+      "significado": "fruta de la familia de los cítricos.",
+      "palabra_arabe": "لَيْمُون laymūn",
+      "etimologia": "del persa لیمو limu o لیمون limun, asv. del sánscrito निम्बू nimbū"
+    },
+    {
+      "palabra": "alubia (m.)",
+      "significado": "frijol, semilla o fruto de Phaseolus.",
+      "palabra_arabe": "اللُوبِيَا al-lubya",
+      "etimologia": "del persa لوبیا lubiyâ, asv. del griego antiguo λόβια lóbia (‘ Vigna unguiculata ’)"
+    },
+    {
+      "palabra": "luquete (f.)",
+      "significado": "cerilla de azufre.",
+      "palabra_arabe": "الوَقِيدَة al-waqīda (‘la cerilla’)",
+      "etimologia": "de la raíz W-Q-D (و ق د), relacionada con el fuego o lo que arde"
+    },
+    {
+      "palabra": "almacabra (m.)",
+      "significado": "cementerio de moros",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almacén (m.)",
+      "significado": "espacio donde se guardan mercancías u otros bienes.",
+      "palabra_arabe": "المَخْزَن al-majzan",
+      "etimologia": "del verbo خَزَنَ jazana (‘almacenar, contener’)"
+    },
+    {
+      "palabra": "almáciga 1 (f.)",
+      "significado": "resina de lentisco (Pistacia lentiscus).",
+      "palabra_arabe": "المُصْطَكَى al-muṣṭakā",
+      "etimologia": "del griego antiguo μαστίχη mastíkhē"
+    },
+    {
+      "palabra": "almáciga 2 (f.)",
+      "significado": "semillero.",
+      "palabra_arabe": "المَسْقًى al-masqan",
+      "etimologia": "del ár. clásico مَسْقَى masqā (‘depósito [de agua]’)"
+    },
+    {
+      "palabra": "almádana, almádena (f.)",
+      "significado": "mazo picapiedra, martillo para romper piedras.",
+      "palabra_arabe": "المَأْذَنة al-maʾḏana",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almadraba (f.)",
+      "significado": "Cád.: laberinto de redes para pescar atunes. también fábrica de tejas, ladrillos y adobes.",
+      "palabra_arabe": "المضربة al-maḍraba (‘golpeadero’)",
+      "etimologia": "de la raíz Ḍ-R-B (ض ر ب)"
+    },
+    {
+      "palabra": "madrasa, madraza (f.)",
+      "significado": "escuela musulmana de estudios superiores.",
+      "palabra_arabe": "مَدْرَسَة madrasa",
+      "etimologia": "sustantivo de lugar del v. دَرَسَ darasa (‘aprender, estudiar’)"
+    },
+    {
+      "palabra": "almagra (f.), almagre (m.)",
+      "significado": "óxido rojizo de hierro. Der: almazarrón.",
+      "palabra_arabe": "الْمَغْرَة al-maḡra",
+      "etimologia": "de la raíz M-Ḡ-R (م غ ر), relacionada con lo rojizo"
+    },
+    {
+      "palabra": "almaizal, almaizar (m.)",
+      "significado": "variedad de turbante. humeral.",
+      "palabra_arabe": "* المَيزار al-mayzār",
+      "etimologia": "de مِئْزَر miʾzar (‘mandil, delantal, overol’), asv. de إِزَار ʾizār"
+    },
+    {
+      "palabra": "mameluco (m.)",
+      "significado": "orden militar musulmana de hombres originalmente esclavos.",
+      "palabra_arabe": "مَمْلُوك mamlūk (‘esclavo’)",
+      "etimologia": "participio pasivo del verbo مَلَكَ malaka (‘poseer, dominar’)"
+    },
+    {
+      "palabra": "almanaque (m.)",
+      "significado": "calendario que registra fiestas religiosas con base en la astrología.",
+      "palabra_arabe": "الْمَنَاخ al-manāŷ (‘calendario’)",
+      "etimologia": "del ár. clásico الْمُنَاخ al-munāj (‘clima’)"
+    },
+    {
+      "palabra": "mandil (m.)",
+      "significado": "delantal. Prenda usada para cocinar sin mancharse uno.",
+      "palabra_arabe": "مَنْدِيل mandīl (‘faja, turbante, pañuelo’)",
+      "etimologia": "del griego bizantino μανδίλιον mandílion"
+    },
+    {
+      "palabra": "amapola (f.)",
+      "significado": "Papaver rhoeas, planta floral. Esp. orient.: ababol (que significa en Ar.: ‘[persona] distraída, simple, abobada’).",
+      "palabra_arabe": "حببورة ḥababawra",
+      "etimologia": "del ár. clásico حَبّ ḥabb (‘semilla’) y el latín papaver"
+    },
+    {
+      "palabra": "maravedí (m.)",
+      "significado": "antigua moneda española de oro o plata.",
+      "palabra_arabe": "مرابط marābiṭ (‘morabito, combatiente’)",
+      "etimologia": ""
+    },
+    {
+      "palabra": "marfil (m.)",
+      "significado": "material duro y compacto de color blanco brillante, constituido por una variedad de marfil.",
+      "palabra_arabe": "عَاج ʿāŷ",
+      "etimologia": ""
+    },
+    {
+      "palabra": "marjal (m.)",
+      "significado": "terreno bajo y pantanoso que se inunda con las crecidas del mar o los ríos.",
+      "palabra_arabe": "مَرْجَل marjal",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almarrá (m.)",
+      "significado": "desmotadora de algodón.",
+      "palabra_arabe": "المَحْلَج al-maḥlaŷ",
+      "etimologia": "de la raíz Ḥ-L-Ŷ (ح ل ج)"
+    },
+    {
+      "palabra": "marrano, -a",
+      "significado": "cerdo.",
+      "palabra_arabe": "مَرِينِي marīnī (‘cristiano renegado’)",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almártaga 1 (m.)",
+      "significado": "arnés puesto al caballo en la cabeza para frenarlo.",
+      "palabra_arabe": "* اَلْمَرْتَعَة *al-mártaʿa (‘traba de ganado’)",
+      "etimologia": "del ár. clásico مَرْتَع (martaʿ (‘pastizal’), asv. de رِتَاع ritāʿ (‘pastoreo’)"
+    },
+    {
+      "palabra": "almártaga 2 (m.)",
+      "significado": "litargirio, óxido de plomo",
+      "palabra_arabe": "المَرْتَك al-martak",
+      "etimologia": "del persa مرتک mortak"
+    },
+    {
+      "palabra": "matalahúga, matalahúva (f.)",
+      "significado": "anís (condimento), planta aromática de flores blancas y pequeñas.",
+      "palabra_arabe": "مَثَلَّهُوة mathallahuwa",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almazara (f.)",
+      "significado": "molino de aceite de oliva.",
+      "palabra_arabe": "المَعْصَرَة al-maʿṣára",
+      "etimologia": "de la raíz ʕ-Ṣ-R (ع ص ر), relacionada con el acto de apretar, presionar"
+    },
+    {
+      "palabra": "mazmorra (f.)",
+      "significado": "prisión subterránea.",
+      "palabra_arabe": "مَطْمُورَة maṭmūra (‘granero, bodega’)",
+      "etimologia": "de la raíz Ṭ-M-R (ط م ر), relacionado con la elevación sobre el plano superficial, o en este caso, el hundimiento bajo el mismo."
+    },
+    {
+      "palabra": "mazorca (f.)",
+      "significado": "fruto del maíz y otras gramíneas.",
+      "palabra_arabe": "مَاسُورَة māsūra (‘ junco ’)",
+      "etimologia": "del persa māsure ‘tubo usado como bobina’."
+    },
+    {
+      "palabra": "almazuela (f.)",
+      "significado": "técnica de coser varias capas de retales.",
+      "palabra_arabe": "المِسَلَّة al-misalla (‘ aguja saquera ’)",
+      "etimologia": "de la raíz S-L-L (س ل ل), relacionada con la perforación"
+    },
+    {
+      "palabra": "almea 1 (f.)",
+      "significado": "el bálsamo llamado estoraque o las plantas con las que se hace.",
+      "palabra_arabe": "المَيْعَة al-mayʿa (‘ estoraque ’)",
+      "etimologia": "de la raíz M-Y-ʕ (م ي ع)"
+    },
+    {
+      "palabra": "almea 2 (f.)",
+      "significado": "bailarina oriental.",
+      "palabra_arabe": "si bien su origen último es el árabe عَالِمَة ʿālima (‘cantante’), la incorporación no es directa vía el andalusí.",
+      "etimologia": "si bien su origen último es el árabe عَالِمَة ʿālima (‘cantante’), la incorporación no es directa vía el andalusí."
+    },
+    {
+      "palabra": "meca (f.)",
+      "significado": "lugar que atrae por ser el centro de una actividad determinada.",
+      "palabra_arabe": "de La Meca (مَكَّة Makka).",
+      "etimologia": "de La Meca (مَكَّة Makka)."
+    },
+    {
+      "palabra": "médano (m.)",
+      "significado": "duna de arena, especialmente en zonas costeras.",
+      "palabra_arabe": "مَيْدَان maydān (‘plaza, explanada [de arena]’)",
+      "etimologia": "del protoiraní *mádyanah (‘en medio’)"
+    },
+    {
+      "palabra": "medina, almedina (f.)",
+      "significado": "núcleo central, generalmente murado, de una ciudad",
+      "palabra_arabe": "مَدِينَة madīna",
+      "etimologia": "quizá del arameo מְדִינְתָּא məḏīntā o del siríaco clásico ܡܕ݂ܝܼܢ݇ܬܿܵܐ məḏīttā"
+    },
+    {
+      "palabra": "mejunje (m.)",
+      "significado": "mezcla de varios ingredientes para hacer un cosmético o medicamento.",
+      "palabra_arabe": "مَمْزُوج mamzūŷ (‘mezclado’)",
+      "etimologia": "participio pasivo del verbo مَزَجَ mazaŷa (‘mezclar’)"
+    },
+    {
+      "palabra": "almenara 1 (f.), almenar (m.)",
+      "significado": "fuego situado en altura para transmitir mensajes",
+      "palabra_arabe": "المَنَارَة al-manāra o المَنَارْ al-manār (‘faro, lámpara, minarete’)",
+      "etimologia": "de la raíz N-W-R (ن و ر), relacionada con la luz o el fuego"
+    },
+    {
+      "palabra": "almenara 2 (f.)",
+      "significado": "Arag: zanja que reconduce el agua de la acequia al río",
+      "palabra_arabe": "المَنْهَر al-manhar",
+      "etimologia": "de نَهْر nahr (‘río’)"
+    },
+    {
+      "palabra": "almez (m.), almeza (f.)",
+      "significado": "árbol caducifolio (Celtis) y su fruto.",
+      "palabra_arabe": "المَيْس al-mays",
+      "etimologia": "del arameo מַיְשָׁא / ܡܰܝܫܳܐ mayšā, asv. del acadio 𒄑𒈩 mēsum"
+    },
+    {
+      "palabra": "mezquino, -na",
+      "significado": "persona tacaña, poco generosa, miserable. Antiguamente, un pobre desgraciado. Originalmente en la Edad Media, un siervo feudal.",
+      "palabra_arabe": "مِسْكِين miskīn (‘pobre’)",
+      "etimologia": "del arameo מִסְכֵּינָא / ܡܸܣܟܹܝܢܵܐ meskēnā, asv. del acadio 𒈦𒆕𒂗 muškēnum"
+    },
+    {
+      "palabra": "mezquita (f.)",
+      "significado": "lugar de culto en la religión musulmana.",
+      "palabra_arabe": "مَسْجِد masŷid",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almíbar (m.)",
+      "significado": "azúcar disuelto en agua.",
+      "palabra_arabe": "المَيْبَة al-mayba",
+      "etimologia": "del persa می به may be (‘néctar de membrillo’)"
+    },
+    {
+      "palabra": "almicantarat (m. o f.)",
+      "significado": "línea imaginaria paralela sobre el horizonte, para medir la altura de un astro.",
+      "palabra_arabe": "المُقَنْطَرَات al-muqanṭarāt",
+      "etimologia": "de قَنْطَرَة qanṭara (‘arco’)"
+    },
+    {
+      "palabra": "alminar (m.), minarete (m.)",
+      "significado": "torre de la mezquita",
+      "palabra_arabe": "si bien su origen último es el árabe مَنَارَة manāra (‘faro’), la incorporación no es directa vía el andalusí.",
+      "etimologia": "si bien su origen último es el árabe مَنَارَة manāra (‘faro’), la incorporación no es directa vía el andalusí."
+    },
+    {
+      "palabra": "almirante (m.)",
+      "significado": "autoridad en varios contextos, especialmente en la Armada.",
+      "palabra_arabe": "s i bien su origen último es el ár. clásico أَمِير ʾamīr (‘comandante’), el término no llega vía el andalusí.",
+      "etimologia": "s i bien su origen último es el ár. clásico أَمِير ʾamīr (‘comandante’), el término no llega vía el andalusí."
+    },
+    {
+      "palabra": "almirez (m.)",
+      "significado": "mortero dorado y pequeño.",
+      "palabra_arabe": "المِهْرَاس al-mihrās",
+      "etimologia": "de la raíz H-R-S (ه ر س), relacionada con el acto de aplastar"
+    },
+    {
+      "palabra": "almirón (m.)",
+      "significado": "varias hierbas florales del género Crepis, así como de las achicorias y dientes de león",
+      "palabra_arabe": "المَيْرُون al-mayrūn",
+      "etimologia": "del latín amārus"
+    },
+    {
+      "palabra": "almizcle (m.)",
+      "significado": "sustancia que segregan varios mamíferos macho alrededor del perineo para atraer a las hembras.",
+      "palabra_arabe": "المِسْك al-misk",
+      "etimologia": "del persa مشک mošk, asv. del sánscrito मुष्क muṣka (‘testículo’)"
+    },
+    {
+      "palabra": "moaxaja (f.)",
+      "significado": "forma poética de la literatura árabe hispana que combina versos árabes y romances en lengua romance.",
+      "palabra_arabe": "مُعَاجَة muʿāŷa (‘combinación, mezcla’)",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almocadén (m.)",
+      "significado": "caudillo o capitán.",
+      "palabra_arabe": "المُقَدَّام al-muqaddām",
+      "etimologia": "del ár. clásico مُقَدَّم muqaddam (‘jefe’)"
+    },
+    {
+      "palabra": "mocárabe, almocárabe (m.)",
+      "significado": "ornamentación de una bóveda formada por el acoplamiento de prismas.",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almodrote (m.)",
+      "significado": "salsa hecha a partir de machacar sus ingredientes con mortero.",
+      "palabra_arabe": "المَطْرُوق al-maṭrūq",
+      "etimologia": "participio del verbo طَرَقَ ṭaraqa (‘golpear’), es decir, ‘golpeado’."
+    },
+    {
+      "palabra": "almofía (f.)",
+      "significado": "jofaina, lavamanos o palangana.",
+      "palabra_arabe": "ٱلْمُخْفِيَّة al-mujfía (‘la oculta’)",
+      "etimologia": "participio pasivo del verbo خَفَى jafā (‘esconder’)"
+    },
+    {
+      "palabra": "almogávar (m.)",
+      "significado": "antiguas tropas de la Corona de Aragón.",
+      "palabra_arabe": "المُغَاوِر al-muḡāwir",
+      "etimologia": "participio activo del v. غَوَّرَ ġawwara (‘incursionar, atacar’)"
+    },
+    {
+      "palabra": "almohada (f.)",
+      "significado": "bolsa de tela mullida para reposar la cabeza. Der: almohadilla",
+      "palabra_arabe": "اَلْمُخَدَّة al-mujadda",
+      "etimologia": "del verbo خَدَّ jadda (‘surcar’) y el sustantivo خَدّ jadd (‘mejilla’)"
+    },
+    {
+      "palabra": "almohade (m.)",
+      "significado": "relativo al imperio almohade.",
+      "palabra_arabe": "المُوَحَّد *al-muwaḥḥad",
+      "etimologia": "del verbo وَحَّدَ waḥḥada (‘ser único, incomparable’), de وَاحِد wāḥid (‘1’)"
+    },
+    {
+      "palabra": "moharra, almoharra (f.)",
+      "significado": "punta de lanza.",
+      "palabra_arabe": "Según RAE, de مُحَرَّف muḥarraf (‘orillado’)",
+      "etimologia": "de la raíz Ḥ-R-F (ح ر ف), relacionada con lo inclinado, lo recortado o afilado."
+    },
+    {
+      "palabra": "moharra, almoharra (f.)",
+      "significado": "punta de lanza.",
+      "palabra_arabe": "Según Espasa, de مُحَرَّب muḥarrab (‘aguzado’).",
+      "etimologia": "de la raíz Ḥ-R-B (ح ر ب), relacionada con lo agresivo. Cognado del hebreo חֶרֶב ḥɛ́rɛḇ ‘espada’."
+    },
+    {
+      "palabra": "moharracho, moharrache (m.)",
+      "significado": "persona sin oficio ni beneficio.",
+      "palabra_arabe": "مُهَرِّج muharraŷ (‘bufón, payaso’)",
+      "etimologia": "del verbo هَرَّجَ harraŷa, ‘conmocionar, marear o bromear’ (de la raíz H-R-Ŷ ه ر ج)."
+    },
+    {
+      "palabra": "mohatra (m.)",
+      "significado": "venta que por engaño sorteaba las leyes contra la usura. Práctica extremadamente extendida en los siglos xvi y xvii.",
+      "palabra_arabe": "مُخَاطَرَة mujāṭara (‘riesgo’)",
+      "etimologia": "de la raíz J-T-R (خ ط ر), relacionada con lo peligroso."
+    },
+    {
+      "palabra": "mohín, mohino (m.)",
+      "significado": "gesto de desagrado o disgusto en el rostro.",
+      "palabra_arabe": "مُهِين muḥīn",
+      "etimologia": "del verbo هَيَّنَ hayyana (‘despreciar, deshonrar’)"
+    },
+    {
+      "palabra": "almojábana (m.)",
+      "significado": "aperitivo dulce o salado de varios países.",
+      "palabra_arabe": "المُجَٰبَّنَة al-muŷabbana (‘hecho de queso’)",
+      "etimologia": "de جُبْن ŷubn (‘queso’)"
+    },
+    {
+      "palabra": "almojarife (m.)",
+      "significado": "funcionario encargado de medir y ajustar las medidas y pesos en mercados.",
+      "palabra_arabe": "المُشْرِف al-mušrif (‘supervisor’)",
+      "etimologia": ""
+    },
+    {
+      "palabra": "mojama, almojama (f.)",
+      "significado": "carne de atún o similar, curada en salazón y secada al aire.",
+      "palabra_arabe": "مُهِيمَّن muhimman",
+      "etimologia": ""
+    },
+    {
+      "palabra": "mojarra, moharra (f.)",
+      "significado": "nombre común de varios peces de agua dulce y salada.",
+      "palabra_arabe": "مُحَرَّة muḥarra",
+      "etimologia": ""
+    },
+    {
+      "palabra": "momia (f.)",
+      "significado": "cadáver humano o animal que ha sido preservado mediante técnicas especiales.",
+      "palabra_arabe": "مومياء mūmyā",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almoneda (f.)",
+      "significado": "subasta de bienes, generalmente por orden judicial",
+      "palabra_arabe": "المُنَادَة al-munādāh",
+      "etimologia": "sustantivo verbal de نَادَى nādā (‘llamar’)"
+    },
+    {
+      "palabra": "mono, maimón (m.)",
+      "significado": "animal mamífero primate, caracterizado por su capacidad para trepar.",
+      "palabra_arabe": "مَيْمُون maymūn",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almoraduj, almoradux (m.)",
+      "significado": "persona pequeña o niño.",
+      "palabra_arabe": "مَرْدُوش marduš",
+      "etimologia": ""
+    },
+    {
+      "palabra": "morapio (m.)",
+      "significado": "vino de baja calidad.",
+      "palabra_arabe": "مُرَابِيَ murābiya",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almorí (m.)",
+      "significado": "almorrana, enfermedad inflamatoria de la región anal.",
+      "palabra_arabe": "مُرِيَّة muriyya",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almorrana (m.)",
+      "significado": "tumor venoso del ano.",
+      "palabra_arabe": "مَرَارِين marārīn",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almotacén (f.)",
+      "significado": "fiscal o recaudador de impuestos.",
+      "palabra_arabe": "مُتَسَكِّع mutaskik",
+      "etimologia": ""
+    },
+    {
+      "palabra": "mozárabe (m.)",
+      "significado": "cristiano que vivía en territorio musulmán y que conservaba su religión.",
+      "palabra_arabe": "مُسْتَعْرَب mustaʿrab",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almud (m.)",
+      "significado": "medida en desuso equivalente a alrededor de 4 litros.",
+      "palabra_arabe": "المُدّ al-mudd",
+      "etimologia": "relacionado con el arameo 𐡬𐡣𐡩𐡠 mdyʾ / מוֹדְיָא moḏyā, asv. del acadio 𒉘𒈨𒌍 maddattu (‘unidad de volumen’). Cognado del latín modius."
+    },
+    {
+      "palabra": "almudena (m.)",
+      "significado": "femenino de Almudeno, nombre propio masculino.",
+      "palabra_arabe": "المُدِينَة al-mudīna",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almudí (m.)",
+      "significado": "antigua medida de capacidad para líquidos.",
+      "palabra_arabe": "مُدِي mudī",
+      "etimologia": ""
+    },
+    {
+      "palabra": "mudéjar (m.)",
+      "significado": "musulmán que vivió en territorio reconquistado por cristianos.",
+      "palabra_arabe": "مُدَجَّن mudaŷŷan (‘domesticado’)",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almuecín, muecín, almuédano (m.)",
+      "significado": "en la mezquita, quien convoca la oración",
+      "palabra_arabe": "اَلْمُؤَذِّن al-muʾaḏḏin (‘anunciador’)",
+      "etimologia": "del verbo آذَنَ ʾāḏana (‘anunciar’)"
+    },
+    {
+      "palabra": "mulá (m.)",
+      "significado": "título religioso en el islam, equivalente a maestro o predicador.",
+      "palabra_arabe": "مَوْلَى mawlā",
+      "etimologia": ""
+    },
+    {
+      "palabra": "almunia (m.)",
+      "significado": "huerto o granja.",
+      "palabra_arabe": "المُنيَّة al-muniyya",
+      "etimologia": ""
+    },
+    {
+      "palabra": "muhayidín (m.)",
+      "significado": "plural de muhayyid, soldado de infantería.",
+      "palabra_arabe": "مُحَيِّد muḥayyid",
+      "etimologia": ""
+    },
+    {
+      "palabra": "musulmán, -na",
+      "significado": "creyente del islam",
+      "palabra_arabe": "si bien su origen último es el árabe مُسْلِم muslim, la incorporación no es vía directa el andalusí.",
+      "etimologia": "si bien su origen último es el árabe مُسْلِم muslim, la incorporación no es vía directa el andalusí."
+    },
+    {
+      "palabra": "nácar (m.)",
+      "significado": "material que en sus caparazones producen ciertos moluscos.",
+      "palabra_arabe": "si bien su origen último es el árabe نَقَّارَة naqqāra, la incorporación no es vía directa el andalusí. Véase nácara.",
+      "etimologia": "si bien su origen último es el árabe نَقَّارَة naqqāra, la incorporación no es vía directa el andalusí. Véase nácara."
+    },
+    {
+      "palabra": "nácara (f.)",
+      "significado": "instrumento de percusión medieval similar a un tambor.",
+      "palabra_arabe": "نَقَّارَة naqqāra",
+      "etimologia": "de la raíz N-Q-R (ن ق ر), relacionada con ‘golpear, picar’."
+    },
+    {
+      "palabra": "nadir (f.)",
+      "significado": "punto de la esfera celeste opuesto al cénit.",
+      "palabra_arabe": "نَظِير naẓīr (‘opuesto, contraparte’)",
+      "etimologia": "abreviación de نَظِير السَّمْت naẓīr as-samt (‘opuesto al cénit’)"
+    },
+    {
+      "palabra": "anafre, anafe (m.)",
+      "significado": "horno de pequeño tamaño y portátil.",
+      "palabra_arabe": "النَافِخ an-nāfij (‘el soplador’)",
+      "etimologia": "participio activo del verbo نَفَخَ nafaja (‘soplar, inflar’)"
+    },
+    {
+      "palabra": "naranja (f.)",
+      "significado": "fruta cítrica y color de esta.",
+      "palabra_arabe": "نَارَنْج nāranŷ",
+      "etimologia": "del persa medio نارنگ nârang, asv. del sánscrito नारङ्ग nāraṅga"
+    },
+    {
+      "palabra": "nenúfar (m.)",
+      "significado": "planta floral acuática.",
+      "palabra_arabe": "نِلُوفَر nilūfar",
+      "etimologia": "del persa medio *nīlōpal, asv. del sánscrito नीलोत्पल nīlotpala"
+    },
+    {
+      "palabra": "aniaga (f.)",
+      "significado": "Albacete: salario anual del labrador.",
+      "palabra_arabe": "النَفَقَة an-nafaqa",
+      "etimologia": "de la raíz N-F-Q (ن ف ق), relacionada con el sustento económico"
+    },
+    {
+      "palabra": "noria (f.)",
+      "significado": "rueda mecánica de gran tamaño que eleva el agua con el mismo movimiento de su corriente.",
+      "palabra_arabe": "نَاعُورَة nāʿūra",
+      "etimologia": "del siríaco ܢܥܘܪܬܐ nāʿōrtāʾ"
+    },
+    {
+      "palabra": "añacal (m.)",
+      "significado": "persona que lleva el trigo al molino.",
+      "palabra_arabe": "النَقّال an-naqqāl (‘el acarreador’)",
+      "etimologia": "de la raíz N-Q-L (ن ق ل), relacionada con el transporte"
+    },
+    {
+      "palabra": "añagaza, ñagaza (f.)",
+      "significado": "señuelo para atraer y capturar aves. En sentido derivado, una trampa.",
+      "palabra_arabe": "النَّقَّازَة an-naqqāz (‘pájaro saltarín’)",
+      "etimologia": "de la raíz N-Q-Z (ن ق ز)"
+    },
+    {
+      "palabra": "añil, añir (m.)",
+      "significado": "color azul oscuro índigo.",
+      "palabra_arabe": "النِّيل an-nīl",
+      "etimologia": "del persa medio نیل / 𐭭𐭩𐭫 nīl, asv. del sánscrito नील nīla"
+    },
+    {
+      "palabra": "ojalá",
+      "significado": "interjección para desear que pase algo.",
+      "palabra_arabe": "اوشالله lušal-lá (‘si Dios quiere’), hoy más común انشالله inšal-lá",
+      "etimologia": "اوشالله lušal-lá (‘si Dios quiere’), hoy más común انشالله inšal-lá"
+    },
+    {
+      "palabra": "omeya",
+      "significado": "relativo a la dinastía de los Omeyas o al califato omeya.",
+      "palabra_arabe": "أُمَيَّة ʾumayya",
+      "etimologia": "nombre relativo (nisba) de أُمّ ʾumm (‘origen, madre’) y el sufijo ـِيَّة -iyya."
+    },
+    {
+      "palabra": "¡ ox!, ¡os!",
+      "significado": "interjección para espantar la caza y las aves domésticas",
+      "palabra_arabe": "أُشّ ušš",
+      "etimologia": "onomatopéyico"
+    },
+    {
+      "palabra": "papagayo (m.)",
+      "significado": "loro (Psittacidae).",
+      "palabra_arabe": "si bien su origen último es el árabe بَبَّغَاء babbaḡāʾ, la incorporación no es directa vía el andalusí.",
+      "etimologia": "si bien su origen último es el árabe بَبَّغَاء babbaḡāʾ, la incorporación no es directa vía el andalusí."
+    },
+    {
+      "palabra": "alpargata (m.)",
+      "significado": "calzado también llamado esparteña.",
+      "palabra_arabe": "البَرْغَات al-barḡāt",
+      "etimologia": "plural de بَرْغَة barḡa (véase albarca)"
+    },
+    {
+      "palabra": "patache (m.)",
+      "significado": "cierta embarcación de poco calado, usada antiguamente en la Armada española.",
+      "palabra_arabe": "بَطَّاش baṭṭāš (‘castigador’)",
+      "etimologia": "de la raíz B-Ṭ-Š (ب ط ش), relacionada con la fuerza, la violencia o la severidad."
+    },
+    {
+      "palabra": "pato (m.)",
+      "significado": "ave acuática de patas cortas y pico aplanado (Anas).",
+      "palabra_arabe": "بَطّ baṭṭ",
+      "etimologia": "del persa medio بت bat, asv. del sánscrito बुद्ध Buddha (por ser este un ídolo)"
+    },
+    {
+      "palabra": "patilla (f.)",
+      "significado": "Ven: sandía, albudeca.",
+      "palabra_arabe": "بَطِّيخَة baṭṭīja",
+      "etimologia": "de بَطِيخ baṭīj (‘sandía’)"
+    },
+    {
+      "palabra": "pechín, alpechín (m.)",
+      "significado": "residuo líquido de las aceitunas.",
+      "palabra_arabe": "البشين al-bichīn",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alpiste (m.)",
+      "significado": "gramínea que sirve para forraje, alimento de aves y otros usos (Phalaris canariensis)",
+      "palabra_arabe": "البِشْط al-bišṭ",
+      "etimologia": "del latín pistum (‘machacado’), participio pas. de pinsĕre (‘machacar’). Ergo, cognado de pisto."
+    },
+    {
+      "palabra": "alquequenje (m.)",
+      "significado": "Physalis alkekengi, planta euroasiática cuyos frutos tienen uso medicinal.",
+      "palabra_arabe": "الكَاكَنْج al-kākanŷ",
+      "etimologia": "del persa medio kākanag"
+    },
+    {
+      "palabra": "alquería (f.)",
+      "significado": "en el Levante español, la casa de campo de una finca agrícola.",
+      "palabra_arabe": "اَلْقَرْيَة al-qarya (‘la villa’)",
+      "etimologia": "de la raíz Q-R-R (ق ر ر), relacionada con detenerse"
+    },
+    {
+      "palabra": "quermes, alquermes (m.)",
+      "significado": "Insecto hemíptero (Kermes) del que se obtiene el carmesí. O bien, un pigmento también llamado grana. En el sentido de ‘fiesta popular’ tiene otro origen etimológico.",
+      "palabra_arabe": "قِرْمِز qirmiz",
+      "etimologia": "del persa medio * کرمست *kermest"
+    },
+    {
+      "palabra": "alquibla, quibla (m.)",
+      "significado": "punto del horizonte o dirección de la mezquita hacia la que el musulmán reza.",
+      "palabra_arabe": "القِبْلَة al-qibla (‘dirección’)",
+      "etimologia": "de la raíz Q-B-L (ق ب ل), relacionada con lo que hay enfrente"
+    },
+    {
+      "palabra": "alquifol (m.)",
+      "significado": "mezcla química usada para teñir de azul.",
+      "palabra_arabe": "اَلْكُحْل al-kuḥl (‘ kohl ’)",
+      "etimologia": "del arameo כוחלא / ܟܘܚܠܐ kuḥlā, asv. del acadio 𒎎𒋆𒁉𒍣𒁕 guḫlum (‘galena, antimonio, estibina’)"
+    },
+    {
+      "palabra": "quilate, quirate (m.)",
+      "significado": "unidad de peso para perlas preciosas.",
+      "palabra_arabe": "قِيرَاط qīrāṭ",
+      "etimologia": "del griego antiguo κεράτιον kerátion"
+    },
+    {
+      "palabra": "alquiler (m.)",
+      "significado": "arriendo, renta.",
+      "palabra_arabe": "الكِرَاء al-kirāʾ",
+      "etimologia": "de la raíz K-R-Y (ك ر ي), relacionada con excavar"
+    },
+    {
+      "palabra": "alquimia (m.)",
+      "significado": "Conjunto de especulaciones y experiencias, generalmente de carácter esotérico, relativas a las transmutaciones de la materia, que influyó en el origen de la química.",
+      "palabra_arabe": "اَلْكِيمِيَاء al-kīmiyāʾ",
+      "etimologia": "del griego antiguo χυμείᾱ khumeíā"
+    },
+    {
+      "palabra": "química (f.)",
+      "significado": "ciencia que estudia la composición de la materia.",
+      "palabra_arabe": "اَلْكِيمِيَاء al-kīmiyāʾ",
+      "etimologia": "del griego antiguo χυμείᾱ khumeíā"
+    },
+    {
+      "palabra": "quintal (m.)",
+      "significado": "unidad de peso equivalente a 100 libras.",
+      "palabra_arabe": "قِنْطَار qinṭār",
+      "etimologia": "del siríaco ܩܰܢܛܺܝܪܳܐ qanṭīrā, asv. del griego bizantino κεντηνάριον kentēnárion, asv. del latín centēnārium (‘cien libras ’)"
+    },
+    {
+      "palabra": "alquitara (f.)",
+      "significado": "alambique, utensilio para destilar",
+      "palabra_arabe": "القَطَّارَة al-qaṭṭāra",
+      "etimologia": "de la raíz Q-Ṭ-R (ق ر ر), relacionada con las gotas"
+    },
+    {
+      "palabra": "alquitrán (m.)",
+      "significado": "líquido viscoso, oscuro que se obtiene de destilar madera y otros materiales.",
+      "palabra_arabe": "اَلْقَطْرَان al-qiṭrán",
+      "etimologia": "de raíz afroasiática relacionada con el incienso o la resina"
+    },
+    {
+      "palabra": "rabadán (m.)",
+      "significado": "pastor encargado del rebaño de ovejas merinas en la cabaña",
+      "palabra_arabe": "رَبُّ الضَّان rabbu ḍ-ḍān (‘señor del rebaño’)",
+      "etimologia": "de رَبّ rab (‘señor’) y ضَأْن ḍaʾn (‘rebaño de ovejas’)."
+    },
+    {
+      "palabra": "rábida (f.)",
+      "significado": "lugar de la provincia de Huelva.",
+      "palabra_arabe": "رابِدَة rābida",
+      "etimologia": ""
+    },
+    {
+      "palabra": "rambla (f.)",
+      "significado": "arroyo.",
+      "palabra_arabe": "رامبْلَا rāmblā",
+      "etimologia": ""
+    },
+    {
+      "palabra": "arancel (m.)",
+      "significado": "tarifa aduanera.",
+      "palabra_arabe": "الإِنْزَال al-ʾinzāl",
+      "etimologia": ""
+    },
+    {
+      "palabra": "razia (f.)",
+      "significado": "incursión o expedición militar musulmana.",
+      "palabra_arabe": "si bien su origen último es el árabe غَزْوَة ḡazwa, la incorporación no es directa vía el andalusí.",
+      "etimologia": "si bien su origen último es el árabe غَزْوَة ḡazwa, la incorporación no es directa vía el andalusí."
+    },
+    {
+      "palabra": "arcaduz (m.)",
+      "significado": "conducto de agua.",
+      "palabra_arabe": "القَادُوس al-qādūs",
+      "etimologia": "del griego antiguo κάδος κάδος (‘jarro, cántaro’)"
+    },
+    {
+      "palabra": "argolla (m.)",
+      "significado": "aro metálico.",
+      "palabra_arabe": "حَلْق ḥalq",
+      "etimologia": ""
+    },
+    {
+      "palabra": "arrabal, rabal (m.)",
+      "significado": "barrio a las afueras de la ciudad.",
+      "palabra_arabe": "أَرْبَعَاء arbaʿā",
+      "etimologia": ""
+    },
+    {
+      "palabra": "arráez, arrayaz, arraz (m.)",
+      "significado": "caudillo o jefe morisco",
+      "palabra_arabe": "الرَئِيس‎ ar-raʾīs",
+      "etimologia": "de رَأْس rās (‘cabeza’)"
+    },
+    {
+      "palabra": "arrayán (m.)",
+      "significado": "mirto (Myrtus communis), planta aromática.",
+      "palabra_arabe": "إرَّيَان ʾarrayān",
+      "etimologia": ""
+    },
+    {
+      "palabra": "real, raal, rahal (m.)",
+      "significado": "campo que se le da uso militar o para una feria (no confundir con lo relacionado con la realeza o la realidad)",
+      "palabra_arabe": "رَحْل raḥl (‘lugar de acampada’)",
+      "etimologia": "de la raíz R-Ḥ-L (ر ح ل), relacionada con cargar o llevar encima"
+    },
+    {
+      "palabra": "redoma (f.)",
+      "significado": "recipiente de vidrio.",
+      "palabra_arabe": "جَرَّة ŷarra",
+      "etimologia": ""
+    },
+    {
+      "palabra": "arrecife",
+      "significado": "formación coralina.",
+      "palabra_arabe": "الرَصِيف ar-raṣīf (‘plataforma’)",
+      "etimologia": "de رَصَفَ raṣafa (‘pavimentar’), del siríaco clásico ܪܨܦܐ rəṣāp̄ā"
+    },
+    {
+      "palabra": "rehén (m.)",
+      "significado": "persona cautiva.",
+      "palabra_arabe": "رَهينَة rahina",
+      "etimologia": ""
+    },
+    {
+      "palabra": "arrejaque (m.)",
+      "significado": "cinturón o faja.",
+      "palabra_arabe": "أراك الخيل arāk al-jayl",
+      "etimologia": ""
+    },
+    {
+      "palabra": "regaifa, regueifa (f.)",
+      "significado": "pan, hogaza.",
+      "palabra_arabe": "رَغَائِف raḡāʾif",
+      "etimologia": "plural de رَغِيفَة raḡīfa, variante coloquial de رَغِيف raḡīf, asv. del arameo רְעִיפְתא, diminutivo de ܪܲܥܦܵܐ raʿpā (‘hogaza de pan’)"
+    },
+    {
+      "palabra": "arrequife (m.)",
+      "significado": "punta metálica de la vara con la que se limpia el algodón.",
+      "palabra_arabe": "الرِّكِيب ar-rikīb",
+      "etimologia": "del ár. clásico رِكَاب rikāb (‘estribo’)"
+    },
+    {
+      "palabra": "arriate (m.)",
+      "significado": "tierra delimitada con paredes para plantar plantas ornamentales.",
+      "palabra_arabe": "الرِيَاض ar-riyáḍ",
+      "etimologia": "del ár. clásico رَوْضَة rawḍa (‘jardín’)"
+    },
+    {
+      "palabra": "rincón (m.)",
+      "significado": "esquina.",
+      "palabra_arabe": "رُكْن rukn",
+      "etimologia": "del verbo رَكَنَ‎ rakana o رَكِنَ rakina (‘apoyar el peso en’)"
+    },
+    {
+      "palabra": "arroba (m.)",
+      "significado": "unidad de peso y medida.",
+      "palabra_arabe": "أربَعَة arbaʿah",
+      "etimologia": ""
+    },
+    {
+      "palabra": "arrocabe (m.)",
+      "significado": "elemento arquitectónico que sirve de transición entre la pared y el techo",
+      "palabra_arabe": "رُقَاب ruqāb (‘cuello o nuca’)",
+      "etimologia": ""
+    },
+    {
+      "palabra": "arrope (m.)",
+      "significado": "jarabe espeso de frutas.",
+      "palabra_arabe": "سِرّ sirr",
+      "etimologia": ""
+    },
+    {
+      "palabra": "roque (m.)",
+      "significado": "torre del ajedrez",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "arroz (m.)",
+      "significado": "cereal comestible.",
+      "palabra_arabe": "أرُز ʾuruz",
+      "etimologia": ""
+    },
+    {
+      "palabra": "arsenal (m.)",
+      "significado": "depósito de armas.",
+      "palabra_arabe": "مَعْمَل صَناعَة السِّلاح maʿmal ṣanāʿat as-silāḥ",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alruba (f.)",
+      "significado": "tarima elevada.",
+      "palabra_arabe": "الرُّبَى ar-rubā",
+      "etimologia": ""
+    },
+    {
+      "palabra": "rubia (f.)",
+      "significado": "moneda árabe de oro equivalente a un cuarto del cianí (no confundir con rubio, -a)",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "sábila (f.)",
+      "significado": "Aloe vera, planta suculenta.",
+      "palabra_arabe": "صَبِر ṣabir (‘amargo’)",
+      "etimologia": "del arameo צברה / ܨܒܪܐ ṣabrā, ṣabbārā"
+    },
+    {
+      "palabra": "salafismo (m.)",
+      "significado": "corriente teológica y política del islam que promueve la imitación de los primeros musulmanes como modelo a seguir.",
+      "palabra_arabe": "سَلَفِيَّة salafiyya",
+      "etimologia": ""
+    },
+    {
+      "palabra": "sandía (f.)",
+      "significado": "fruto de la sandiera, baya comestible de pulpa roja y jugosa.",
+      "palabra_arabe": "سِنْدِيَّة sindiyya",
+      "etimologia": "del sánscrito सिन्धु sindhu, ‘ Sind ’, es decir, la fruta sindí"
+    },
+    {
+      "palabra": "sarasa (m.)",
+      "significado": "hombre afeminado, gay.",
+      "palabra_arabe": "véase zaraza (originalmente de zarzahán)",
+      "etimologia": "véase zaraza (originalmente de zarzahán)"
+    },
+    {
+      "palabra": "saragüell (m.)",
+      "significado": "pantalones cortos y ajustados que usan los jinetes.",
+      "palabra_arabe": "سَرَوِيل sarawīl",
+      "etimologia": ""
+    },
+    {
+      "palabra": "serafín (m.)",
+      "significado": "moneda de oro equivalente al cequí",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "asesino (m.)",
+      "significado": "persona que mata a alguien intencionadamente.",
+      "palabra_arabe": "حَشَّاشِين ḥaššāšīn",
+      "etimologia": ""
+    },
+    {
+      "palabra": "sharía (f.)",
+      "significado": "ley islámica que rige la conducta y los actos de los creyentes musulmanes.",
+      "palabra_arabe": "شَرِيعَة šarīʿa",
+      "etimologia": ""
+    },
+    {
+      "palabra": "siroco (m.)",
+      "significado": "viento cálido y seco que sopla del norte de África hacia el sur de Europa, especialmente en primavera.",
+      "palabra_arabe": "شَهَابٌ šahāb",
+      "etimologia": ""
+    },
+    {
+      "palabra": "sorra (f.)",
+      "significado": "costados del vientre del atún",
+      "palabra_arabe": "سُرَّة surra (‘ombligo’)",
+      "etimologia": "de la raíz S-R-R (س ر ر ‎), relacionada con lo que está dentro, en el centro"
+    },
+    {
+      "palabra": "sufí, sufismo (m.)",
+      "significado": "práctica mística del Islam, que busca la conexión con Dios mediante la introspección",
+      "palabra_arabe": "صُوفِيّ ṣūfiyy",
+      "etimologia": "de صُوف ṣūf (‘lana’) y el sufijo relativo ـِيّ -iyy ‘hecho de lana’"
+    },
+    {
+      "palabra": "sufra (f.)",
+      "significado": "antigua corvea o prestación personal, es decir, un tipo de impuesto municipal en el que los vecinos deben laborar en obras o servicios públicos.",
+      "palabra_arabe": "السُّخْرَة al-sujra (‘trabajo forzoso, no remunerado’)",
+      "etimologia": "de la raíz S-J-R (س خ ر ‎), relacionada con ‘someter, obligar’."
+    },
+    {
+      "palabra": "suní, sunismo (m.)",
+      "significado": "corriente mayoritaria del islam que sigue la suna, es decir, las enseñanzas y prácticas del profeta Mahoma.",
+      "palabra_arabe": "سُنِّي sunni, سُنَّة sunna",
+      "etimologia": "de la raíz S-N-N (س ن ن), que significa ‘camino, práctica’"
+    },
+    {
+      "palabra": "tabaco (m.)",
+      "significado": "Nicotiana tabacum y sus hojas curadas, que suelen fumarse.",
+      "palabra_arabe": "طُبَّاق ṭubbāq",
+      "etimologia": "de la raíz D-B-Q (د ب ق), relacionada con la viscosidad."
+    },
+    {
+      "palabra": "altabaca, altavaca (f.)",
+      "significado": "olivarda (Dittrichia viscosa), planta medicinal.",
+      "palabra_arabe": "طُبَّاق ṭubbāq",
+      "etimologia": "de la raíz D-B-Q (د ب ق), relacionada con la viscosidad."
+    },
+    {
+      "palabra": "atabal (m.)",
+      "significado": "tamboril",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "tabaque (m.)",
+      "significado": "cesta o canastillo de mimbre",
+      "palabra_arabe": "طَبَق ṭabaq",
+      "etimologia": ""
+    },
+    {
+      "palabra": "tabique (m.)",
+      "significado": "pared delgada medianera. Méx: Ladrillo. También: septo nasal.",
+      "palabra_arabe": "تَشْبِيك tašbīk",
+      "etimologia": ""
+    },
+    {
+      "palabra": "tabulé (m.)",
+      "significado": "ensalada árabe a base de perejil y bulgur",
+      "palabra_arabe": "تبولة tabbūle",
+      "etimologia": "de la raíz trilítera T-B-L (ل ب ت), relacionado con lo especiado o condimentado"
+    },
+    {
+      "palabra": "tagarnina, tagardina, tagardino, tagarina (f.)",
+      "significado": "Scolymus hispanicus, hierba silvestre comestible",
+      "palabra_arabe": "تَقَرْنِينَة taqarnīna o قَرْنِينَة qarnīna",
+      "etimologia": "del amazig ⵜⴰⵇⴰⵔⵏⵉⵏⴰ taqarnina, a su vez del mozárabe * karlína, y este derivado del latín cardus (‘alabar’)"
+    },
+    {
+      "palabra": "tahalí (m.)",
+      "significado": "cinta de cuero colgada al hombro para cargar espadas, machetes, etc.",
+      "palabra_arabe": "تَهْلِيل tahlīl",
+      "etimologia": "segunda forma del sustantivo verbal del verbo هَلَّلَ hallala (‘alabar’)."
+    },
+    {
+      "palabra": "ataharre (m.)",
+      "significado": "banda usada en equitación para impedir que la montura se deslice hacia delante.",
+      "palabra_arabe": "الثَّفَر aṯ-ṯafar",
+      "etimologia": "de la raíz Ṯ-F-R (ث ف ر), relacionada con cosas detrás"
+    },
+    {
+      "palabra": "tahona, atahona (f.)",
+      "significado": "molino harineo impulsado por caballos, o bien panadería en sentido moderno.",
+      "palabra_arabe": "طَاحُونَة ṭāḥūna (‘molino’)",
+      "etimologia": "de la raíz Ṭ-Ḥ-N (ط ح), relacionada con la molienda"
+    },
+    {
+      "palabra": "tahúr (m.)",
+      "significado": "jugador profesional de juegos de azar",
+      "palabra_arabe": "قِمَار qimār",
+      "etimologia": "de la raíz Q-M-R (ق م ر), relacionada con el juego"
+    },
+    {
+      "palabra": "taifa (m.)",
+      "significado": "principado musulmán de al-Ándalus.",
+      "palabra_arabe": "طَائِفَة ṭāʾifa (‘sección, facción’)",
+      "etimologia": "de la forma femenina del participio activo del verbo طَافَ ṭāfa (‘circungirar’), asv. de la raíz Ṭ-W-F (ط و ف), relacionada con el circuito."
+    },
+    {
+      "palabra": "ataifor (m.)",
+      "significado": "plato grande y hondo",
+      "palabra_arabe": "طَيْفُور ṭayfūr",
+      "etimologia": "del persa medio طيفور"
+    },
+    {
+      "palabra": "takfirismo (f.)",
+      "significado": "doctrina islamista radical",
+      "palabra_arabe": "تَكْفِير takfīr",
+      "etimologia": "del verbo كَفَرَ kafara ('declarar infiel a alguien')"
+    },
+    {
+      "palabra": "atalaya (f.)",
+      "significado": "torre alta para vigilancia",
+      "palabra_arabe": "طَلِيعَة ṭalīʿa",
+      "etimologia": "del verbo طَلَعَ ṭalaʿa ('ascender, vigilar')"
+    },
+    {
+      "palabra": "talco (m.)",
+      "significado": "",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "talega (f.)",
+      "significado": "bolsa de tela",
+      "palabra_arabe": "تَلَّة talla",
+      "etimologia": "del verbo تَلَّ talla ('envolver, atar')"
+    },
+    {
+      "palabra": "talvina, atalvina (f.)",
+      "significado": "gachas de harina y miel",
+      "palabra_arabe": "del árabe hispánico طَلْبِينَا ṭalbīnā",
+      "etimologia": "del árabe hispánico طَلْبِينَا ṭalbīnā"
+    },
+    {
+      "palabra": "tamarindo (m.)",
+      "significado": "fruto del Tamarindus indica",
+      "palabra_arabe": "تَمَرْ هِنْدِي tamr hindī (‘dátil indio’)",
+      "etimologia": ""
+    },
+    {
+      "palabra": "tambor (m.)",
+      "significado": "instrumento de percusión.",
+      "palabra_arabe": "طَنْبُور ṭanbūr",
+      "etimologia": "del persa medio تنبور tanbūr"
+    },
+    {
+      "palabra": "atanor (m.)",
+      "significado": "tubo de conducción en alquimia",
+      "palabra_arabe": "التَنُّور at-tannūr",
+      "etimologia": "del griego antiguo τανος (tanos)"
+    },
+    {
+      "palabra": "taquilla (f.)",
+      "significado": "ventanilla donde se venden entradas",
+      "palabra_arabe": "تَكِّيَّة takkīya",
+      "etimologia": "del turco تَكِّيه tekkiye"
+    },
+    {
+      "palabra": "taracea (f.)",
+      "significado": "artesanía que consiste en incrustar nácar u otros materiales sobre madera",
+      "palabra_arabe": "تَرْصِيع tarṣīʿ (‘incrustación’)",
+      "etimologia": "sustantivo verbal de رَصَّعَ raṣṣaʿa (‘incrustar’)"
+    },
+    {
+      "palabra": "atarazana (f.)",
+      "significado": "arsenal donde se construyen barcos",
+      "palabra_arabe": "الدار الصَّنَاعَة ad-dār aṣ-ṣināʿa",
+      "etimologia": "literalmente ‘la casa de la fabricación’"
+    },
+    {
+      "palabra": "tarifa (f.)",
+      "significado": "precio fijado que se paga por un servicio.",
+      "palabra_arabe": "تَعْرِفَة taʿrifa",
+      "etimologia": "de la raíz ʕ-R-F (ع ر ف), relacionada con conocer, saber."
+    },
+    {
+      "palabra": "tarima (f.)",
+      "significado": "plataforma para ofrecer espectáculos y muestras.",
+      "palabra_arabe": "طَارِمَة ṭārima",
+      "etimologia": "del persa medio طارم târam (‘estructura de madera’)"
+    },
+    {
+      "palabra": "atarjea (f.)",
+      "significado": "canal o desagüe",
+      "palabra_arabe": "طَرْجَمَة ṭarŷama",
+      "etimologia": "de la raíz cuatrilítera Ṭ-R-Ŷ-M (ط ر ج ب)"
+    },
+    {
+      "palabra": "atarraya (f.)",
+      "significado": "red de pesca circular",
+      "palabra_arabe": "الطرارة aṭ-ṭarāra",
+      "etimologia": "de la raíz Ṭ-R-R (ط ر ر)"
+    },
+    {
+      "palabra": "tarea, atarea (f.)",
+      "significado": "trabajo o labor",
+      "palabra_arabe": "تَرْيَة tarya",
+      "etimologia": "del verbo تَرَى tara ('hacer, realizar')"
+    },
+    {
+      "palabra": "ataúd (m.)",
+      "significado": "caja de madera donde se guarda el muerto.",
+      "palabra_arabe": "التَابُوت at-tābūt",
+      "etimologia": "del siríaco o arameo ܬܝܒܘܬܐ tēḇūṯā, y en última instancia del egipcio ḏbꜣt (‘sarcófago’)."
+    },
+    {
+      "palabra": "taujel (m.)",
+      "significado": "elemento de la arquitectura mudéjar que decora las vigas de madera del techo.",
+      "palabra_arabe": "تَوْجِيل taūŷīl (‘adorno’)",
+      "etimologia": ""
+    },
+    {
+      "palabra": "taza (f.)",
+      "significado": "recipiente para contener bebidas calientes.",
+      "palabra_arabe": "طَاسَة ṭāsa",
+      "etimologia": "del persa medio تاسه tāsa"
+    },
+    {
+      "palabra": "atijara (f.)",
+      "significado": "mercancía",
+      "palabra_arabe": "تِجَارَة tiŷāra",
+      "etimologia": "de la raíz Ṭ-Ŷ-R (ط ج ر)"
+    },
+    {
+      "palabra": "atíncar (m.)",
+      "significado": "mineral de plomo, óxido de zinc",
+      "palabra_arabe": "التنكار at-tīnkar",
+      "etimologia": "del persa medio تنگر tangār"
+    },
+    {
+      "palabra": "tomín (m.)",
+      "significado": "medida de peso antigua",
+      "palabra_arabe": "طَمِين ṭamīn",
+      "etimologia": "de la raíz Ṭ-M-N (ط م ن)"
+    },
+    {
+      "palabra": "toronja (m.)",
+      "significado": "pomelo, tipo de fruta cítrica (Citrus × paradisi)",
+      "palabra_arabe": "طُرُنْجَة ṭurunŷa",
+      "etimologia": "del persa medio تورنگ turang, a su vez del sánscrito मातुलुङ्ग mātuluṅga"
+    },
+    {
+      "palabra": "toronjil (m.)",
+      "significado": "melisa, menta de limón (Melissa officinalis)",
+      "palabra_arabe": "تُرُنْجَان turunŷān",
+      "etimologia": "del persa medio تورنگ turang, a su vez del sánscrito मातुलुङ्ग mātuluṅga"
+    },
+    {
+      "palabra": "atorra (f.)",
+      "significado": "tipo de enagua o saya bajera de lino o cáñamo, usada en el País Vasco.",
+      "palabra_arabe": "الدُّرَّاعَة ad-durrāʿa",
+      "etimologia": "de دِرْع dirʿ (‘armadura’)"
+    },
+    {
+      "palabra": "altramuz (m.)",
+      "significado": "también dicho lupino, aperitivo popular.",
+      "palabra_arabe": "التَرْمُس at-tarmus",
+      "etimologia": "del arameo, asv. del acadio y sumerio 𒋻𒄷 tarmuš⁠ 8"
+    },
+    {
+      "palabra": "truchimán, -na",
+      "significado": "intérprete, traductor o persona sagaz y astuta.",
+      "palabra_arabe": "تُرْجُمَان turŷumān",
+      "etimologia": "del arameo ܬܰܪܓܡܳܢܳܐ targmānā (‘intérprete’)"
+    },
+    {
+      "palabra": "trujamán, -na",
+      "significado": "intérprete, traductor o persona sagaz y astuta.",
+      "palabra_arabe": "تُرْجُمَان turŷumān",
+      "etimologia": "del arameo ܬܰܪܓܡܳܢܳܐ targmānā (‘intérprete’)"
+    },
+    {
+      "palabra": "atún (m.)",
+      "significado": "Thunnus, pez comestible.",
+      "palabra_arabe": "تُون tūn",
+      "etimologia": "del griego θύννος thýnnos"
+    },
+    {
+      "palabra": "turco, -a",
+      "significado": "natural de Turquía.",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "turquí (m.)",
+      "significado": "color azul oscuro o morado.",
+      "palabra_arabe": "تركِي turkī",
+      "etimologia": "del ar. clásico تركِي turkī ('turco'), en referencia al color tradicionalmente asociado a los turcos"
+    },
+    {
+      "palabra": "atutía, tutía (f.)",
+      "significado": "óxido de zinc, así como el ungüento medicinal que lo contiene",
+      "palabra_arabe": "التُوتِيَاء at-tutiyyaʾ",
+      "etimologia": "del persa medio توتیا tutiyâ (‘óxido de zinc’), asv. del sánscrito तुत्था tuttha"
+    },
+    {
+      "palabra": "ulema (f.)",
+      "significado": "doctor de la ley islámica.",
+      "palabra_arabe": "si bien su origen último es el árabe عُلَمَاء ʿulamāʾ, la incorporación no es directa vía el andalusí.",
+      "etimologia": "si bien su origen último es el árabe عُلَمَاء ʿulamāʾ, la incorporación no es directa vía el andalusí."
+    },
+    {
+      "palabra": "Umma (f.)",
+      "significado": "la comunidad musulmana.",
+      "palabra_arabe": "أُمَّة ʾumma",
+      "etimologia": "de أُمّ ʾumm (‘madre’)"
+    },
+    {
+      "palabra": "vacarí (m.)",
+      "significado": "dicho de un escudo, adarga: cubierto de cuero de vaca.",
+      "palabra_arabe": "بَقَرِيّ baqariyy (‘bovino’)",
+      "etimologia": "de بَقَر baqar (‘ganado bovino’) o بَقَرَة báqara (‘vaca’)"
+    },
+    {
+      "palabra": "valí (m.)",
+      "significado": "gobernador provincial o valiato, el territorio bajo la competencia del valí.",
+      "palabra_arabe": "si bien su origen último es el árabe وَالِي wālī, la incorporación no es directa vía el andalusí.",
+      "etimologia": "si bien su origen último es el árabe وَالِي wālī, la incorporación no es directa vía el andalusí."
+    },
+    {
+      "palabra": "valija (f.)",
+      "significado": "maleta, equipaje de mano.",
+      "palabra_arabe": "si bien su origen último es el árabe وَلِيهَة walīḥa, la incorporación no es directa vía el andalusí.",
+      "etimologia": "si bien su origen último es el árabe وَلِيهَة walīḥa, la incorporación no es directa vía el andalusí."
+    },
+    {
+      "palabra": "velmez (m.)",
+      "significado": "vestidura debajo de la armadura.",
+      "palabra_arabe": "مَلْبَس malbas (‘prenda’)",
+      "etimologia": "de la raíz L-B-S (ل ب س), relacionada con ‘vestirse’"
+    },
+    {
+      "palabra": "visir (m.)",
+      "significado": "ministro de un soberano musulmán.",
+      "palabra_arabe": "وَزِير wazīr (‘ministro’)",
+      "etimologia": "de la raíz W-Z-R (و ز ر)"
+    },
+    {
+      "palabra": "wahabí",
+      "significado": "seguidor del wahabismo, corriente de pensamiento dentro del islam.",
+      "palabra_arabe": "وَهَّابِيّ wahhābiyy",
+      "etimologia": "del apellido de Muhámmad ibn Abd-al-Wahhab (الوَهَّابِ), fundador"
+    },
+    {
+      "palabra": "yihad (f.)",
+      "significado": "guerra santa.",
+      "palabra_arabe": "جِهَاد ŷihād",
+      "etimologia": "sustantivo verbal de جَاهَدَ ŷahada"
+    },
+    {
+      "palabra": "yizia (f.)",
+      "significado": "impuesto a los ciudadanos no-musulmanes.",
+      "palabra_arabe": "جِزْيَة ŷizya",
+      "etimologia": "del persa medio 𐭢𐭦𐭩𐭲 gzyt"
+    },
+    {
+      "palabra": "azabache (m.)",
+      "significado": "carbón fósil, piedra dura y negra usada en joyería.",
+      "palabra_arabe": "السَبَج as-sabaŷ",
+      "etimologia": "del persa medio špk' (/⁠šabag⁠/), asv. del persa antiguo 𐎧𐏁𐎱 x-š-p (/⁠xšapa/⁠ ‘noche’)"
+    },
+    {
+      "palabra": "zabazoque (m.)",
+      "significado": "persona que contrasta pesos y medidas.",
+      "palabra_arabe": "صَاحِبُ السُّوق ṣāḥibu as-sūq (‘jefe del mercado’)",
+      "etimologia": "صَاحِبُ السُّوق ṣāḥibu as-sūq (‘jefe del mercado’)"
+    },
+    {
+      "palabra": "zafa (f.)",
+      "significado": "jofaina, lavamanos o palangana",
+      "palabra_arabe": "صَحْفَة ṣaḥfa (‘plato grande’)",
+      "etimologia": "formalmente de la raíz Ṣ -Ḥ-F (ص ح ف), pero relacionado con Ṣ -Ḥ-N (ص ح ن) y Ṣ-F -Ḥ (ص ف ح)"
+    },
+    {
+      "palabra": "zafar (se) v.",
+      "significado": "aflojarse, deshacerse, salirse de, liberarse. derivado: zafado, -a",
+      "palabra_arabe": "[ ár. andalusí ] زَاح záḥ",
+      "etimologia": "del verbo أَزَاحَ ʾazāḥa (‘quitar, desplazar, poner a un lado’)"
+    },
+    {
+      "palabra": "azafate (m.)",
+      "significado": "bandeja. derivado: azafato, -a",
+      "palabra_arabe": "السَفَط as-safaṭ",
+      "etimologia": "de la raíz S-F-Ṭ (س ف ط)"
+    },
+    {
+      "palabra": "zafio, -a",
+      "significado": "tosco, vulgar, con poco tacto.",
+      "palabra_arabe": "سَفِيه safīh",
+      "etimologia": "de la raíz S-F-H (س ف ه), relacionado con la estupidez"
+    },
+    {
+      "palabra": "zafío (m.)",
+      "significado": "Conger conger, pez anguiliforme comestible",
+      "palabra_arabe": "سَفِيه safīh",
+      "etimologia": "de la raíz S-F-H (س ف ه), relacionado con la estupidez"
+    },
+    {
+      "palabra": "zafra 1 (f.)",
+      "significado": "Sev.: recipiente metálico para escurrir el aceite de oliva.",
+      "palabra_arabe": "صَفْرَاء ṣafrāʾ (‘amarilla’)",
+      "etimologia": "femenino de أَصْفَر ʾaṣfar (‘amarillo’), asv. de la raíz S-F-R (س ف ر)"
+    },
+    {
+      "palabra": "zafra 3 (f.)",
+      "significado": "periodo anual dedicado a la cosecha de la caña de azúcar.",
+      "palabra_arabe": "سَفْرة safra (‘travesía’)",
+      "etimologia": "de la raíz S-F-R (س ف ر), relacionada con el viaje"
+    },
+    {
+      "palabra": "azafrán, zafrán (m.)",
+      "significado": "especia obtenida de los estigmas de la flor del Crocus sativus.",
+      "palabra_arabe": "زَعْفَرَان zaʿfarān",
+      "etimologia": "del persa medio zarparān"
+    },
+    {
+      "palabra": "zafre (m.)",
+      "significado": "mezcla química usada para teñir de azul.",
+      "palabra_arabe": "زُهْر zahr",
+      "etimologia": "quizá del persa زهر zahr (‘veneno’)"
+    },
+    {
+      "palabra": "zagal (m.)",
+      "significado": "joven que ayuda en las labores del campo.",
+      "palabra_arabe": "زَغَال zaġāl",
+      "etimologia": "del ár. clásico زَغَال zaġāl"
+    },
+    {
+      "palabra": "zagua (f.)",
+      "significado": "arbusto floral de la costa mediterránea (Salsola oppositifolia).",
+      "palabra_arabe": "سُوَيْدَاء suwaydāʾ",
+      "etimologia": "diminutivo de سَوْدَاء sawdāʾ (‘negra’)"
+    },
+    {
+      "palabra": "zaguán (m.)",
+      "significado": "entrada o vestíbulo de una casa.",
+      "palabra_arabe": "سَجْوَان saŷwān",
+      "etimologia": "del ár. clásico سَجْوَان sajwān"
+    },
+    {
+      "palabra": "zagüía (f.)",
+      "significado": "escolanía religiosa.",
+      "palabra_arabe": "زَاوِيَة zāwiya",
+      "etimologia": "del ár. clásico زَاوِيَة zāwiya (‘esquina, rincón’)"
+    },
+    {
+      "palabra": "azahar (m.)",
+      "significado": "flor del naranjo, limonero y otros cítricos.",
+      "palabra_arabe": "أَزْهَار az-hār",
+      "etimologia": "plural de زَهْرَة zahra (‘flor’)"
+    },
+    {
+      "palabra": "zahara (f.)",
+      "significado": "nombre propio de mujer.",
+      "palabra_arabe": "ظَهَارَة ẓahāra",
+      "etimologia": "del ár. clásico ظَهَارَة ẓahāra"
+    },
+    {
+      "palabra": "zahina (f.)",
+      "significado": "Sorghum, sorgo.",
+      "palabra_arabe": "سَخِينَة sajīna",
+      "etimologia": "de la raíz S-J-N (س خ ن), relacionada con ‘estar caliente’"
+    },
+    {
+      "palabra": "zahora (f.)",
+      "significado": "desayuno antes del amanecer, durante el Ramadán.",
+      "palabra_arabe": "سَحُور saḥūr",
+      "etimologia": "de la raíz S-Ḥ-R (س ح ر)"
+    },
+    {
+      "palabra": "zahorí (m.)",
+      "significado": "persona con la capacidad de encontrar agua subterránea.",
+      "palabra_arabe": "زَهْرِيّ zahrī",
+      "etimologia": "del ár. clásico زَهْرِيّ zahrī"
+    },
+    {
+      "palabra": "zaida (f.)",
+      "significado": "especie de grulla (Grus virgo)",
+      "palabra_arabe": "سَيِّدَة sayida (‘señora, dama’)",
+      "etimologia": "de la raíz S-W-D (س و د), relacionada con la autoridad"
+    },
+    {
+      "palabra": "azalá (f.)",
+      "significado": "en el islam, la oración.",
+      "palabra_arabe": "صَلَاة ṣalāt",
+      "etimologia": "del ár. clásico صَلَاة ṣalāt"
+    },
+    {
+      "palabra": "zalama (f.)",
+      "significado": "expresión de cariño. Der: zalamero, -a.",
+      "palabra_arabe": "سَلَامَة salāma",
+      "etimologia": "de la raíz S-L-M (س ل م), relacionada con la paz"
+    },
+    {
+      "palabra": "zalea (f.)",
+      "significado": "piel ovina curtida que conserva la lana para calentarse. Arg.: cierta sábana.",
+      "palabra_arabe": "سَليخَة salīja (‘’)",
+      "etimologia": ""
+    },
+    {
+      "palabra": "zalema (f.)",
+      "significado": "reverencia humilde en señal de sumisión.",
+      "palabra_arabe": "سَلِمَة salima",
+      "etimologia": ""
+    },
+    {
+      "palabra": "zalmedina (m.)",
+      "significado": "en las ciudades medievales, magistrado con jurisdicción civil y criminal.",
+      "palabra_arabe": "صَاحِبُ اَلْمَدِينَة ṣāḥibu al-madīna (‘jefe de la ciudad’)",
+      "etimologia": "صَاحِبُ اَلْمَدِينَة ṣāḥibu al-madīna (‘jefe de la ciudad’)"
+    },
+    {
+      "palabra": "zamacuco, -a",
+      "significado": "ignorante, zopenco, ladino. O en sentido derivado, embriaguez o borrachera.",
+      "palabra_arabe": "صَمَكُوك ṣamakūk (‘rudo, terco’)",
+      "etimologia": "de la raíz Ṣ-M-K (ص م ك), relacionada con la fuerza, dureza, intensidad o espesura"
+    },
+    {
+      "palabra": "zambra (f.)",
+      "significado": "fiesta gitana con baile y cante.",
+      "palabra_arabe": "زَمْبَرَة zambrā",
+      "etimologia": "del ár. clásico زَمْبَرَة zambrā"
+    },
+    {
+      "palabra": "azamboa (f.)",
+      "significado": "fruto del azamboero (Ziziphus lotus), con un sabor ácido ligeramente cítrico. O bien, ciertas variedades de naranjo, pomelo, o limón.",
+      "palabra_arabe": "الزَنْبُوع az-zanbūʿ (‘toronja, pomelo’)",
+      "etimologia": "discutido."
+    },
+    {
+      "palabra": "zanahoria, azanahoria (f.)",
+      "significado": "tubérculo comestible.",
+      "palabra_arabe": "جَزَر ŷazar",
+      "etimologia": "del persa medio گَزَر gazar"
+    },
+    {
+      "palabra": "zanj (m.)",
+      "significado": "cortadura en la tierra para sembrar.",
+      "palabra_arabe": "زَنْج zanŷ",
+      "etimologia": "del ár. clásico زَنْج zanj"
+    },
+    {
+      "palabra": "zaquizamí (m.)",
+      "significado": "persona de corta estatura y mala figura.",
+      "palabra_arabe": "زَقَامِيّ zaqāmī",
+      "etimologia": "del ár. clásico زَقَامِيّ zaqāmī"
+    },
+    {
+      "palabra": "zaragatona (f.)",
+      "significado": "Plantago psyllium, hierba mediterránea con propiedades medicinales",
+      "palabra_arabe": "زَرْقَطُونَا zarqaṭūnā",
+      "etimologia": "del siríaco ܙܪܱܥ ܩܱܛܘܿܢܳܐ zəraʿ qaṭṭōnā (‘semilla gatera’)"
+    },
+    {
+      "palabra": "zaragüelles (pl. m.)",
+      "significado": "pantalones holgados y largos.",
+      "palabra_arabe": "سَرْوَال sarwāl",
+      "etimologia": "del ár. clásico سَرْوَال sarwāl"
+    },
+    {
+      "palabra": "zaranda (f.)",
+      "significado": "cedazo o tamiz para cribar. O bien, un juguete musical, similar a un sonajero.",
+      "palabra_arabe": "سَرَنْد sarand",
+      "etimologia": "del persa سرند‎ sarand (‘cedazo’)"
+    },
+    {
+      "palabra": "zaraza (f.)",
+      "significado": "en Hispanoamérica, tela ligera de algodón estampada con motivos florales, usada para en ropa veraniega o decoración",
+      "palabra_arabe": "véase zarzahán.",
+      "etimologia": "véase zarzahán."
+    },
+    {
+      "palabra": "azarcón (m.)",
+      "significado": "subtancia tóxica a base de arsénico.",
+      "palabra_arabe": "الزَرْكُون az-zarkūn",
+      "etimologia": "del pelvi *زيوگ *zywk'"
+    },
+    {
+      "palabra": "zarzahán (m.)",
+      "significado": "tela lujosa usada entre los siglos XVI y XVIII, de seda, con franjas multicolores brillantes",
+      "palabra_arabe": "زَرْدَخَان zardajān",
+      "etimologia": "del persa زر دخان zar doḫān (‘humo de oro’)"
+    },
+    {
+      "palabra": "zauía (f.)",
+      "significado": "escolanía religiosa.",
+      "palabra_arabe": "زَوِيَة zawīya",
+      "etimologia": "del ár. clásico زَوِيَة zawīya"
+    },
+    {
+      "palabra": "zéjel (m.)",
+      "significado": "composición poética medieval.",
+      "palabra_arabe": "زَجَل zajal",
+      "etimologia": "del ár. clásico زَجَل zajal"
+    },
+    {
+      "palabra": "zina (f.)",
+      "significado": "adulterio o fornicación.",
+      "palabra_arabe": "زِنَاء zinā",
+      "etimologia": "del ár. clásico زِنَاء zinā"
+    },
+    {
+      "palabra": "zoco (m.)",
+      "significado": "mercado de abastos.",
+      "palabra_arabe": "السُّوق as-sūq (‘el mercado’)",
+      "etimologia": "del arameo שׁוּקָא / ܫܽܘܩܳܐ šūqā, asv. del acadio 𒋻 sūqum (‘calle’)"
+    },
+    {
+      "palabra": "azófar (m.)",
+      "significado": "latón.",
+      "palabra_arabe": "الصُفْر aṣ-ṣufr",
+      "etimologia": "relacionado con أَصْفَر ʾaṣfar (‘amarillo’) en la raíz Ṣ-F-R (ص ف ر)"
+    },
+    {
+      "palabra": "zofra (f.)",
+      "significado": "tapete o alfombra morisca.",
+      "palabra_arabe": "سُفْرَة sufra (‘mantel’)",
+      "etimologia": "de la raíz S-F-R (س ف ر), relacionado con ‘mostrar, exponer’"
+    },
+    {
+      "palabra": "azogue 1 (m.)",
+      "significado": "mercurio.",
+      "palabra_arabe": "الزَاؤُوق az - zāʾūq",
+      "etimologia": "quizá del pelvi *زيوگ *zywk'"
+    },
+    {
+      "palabra": "azogue 2 (m.)",
+      "significado": "plaza pública y comercial del pueblo.",
+      "palabra_arabe": "véase zoco (m.)",
+      "etimologia": "véase zoco (m.)"
+    },
+    {
+      "palabra": "azora (f.)",
+      "significado": "capítulo del Corán.",
+      "palabra_arabe": "سورة sūrah",
+      "etimologia": ""
+    },
+    {
+      "palabra": "zorzal (m.)",
+      "significado": "ave de pequeño tamaño conocida por su canto melodioso.",
+      "palabra_arabe": "ذُرْذُر ḏurḏur",
+      "etimologia": ""
+    },
+    {
+      "palabra": "azote (m.)",
+      "significado": "cachetada.",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "azotea (m.)",
+      "significado": "parte superior de un edificio, generalmente al aire libre y descubierta.",
+      "palabra_arabe": "السطيح as-suṭeyḥa",
+      "etimologia": ""
+    },
+    {
+      "palabra": "azucena (f.)",
+      "significado": "planta bulbosa de flores blancas y perfumadas.",
+      "palabra_arabe": "السوسنة as-sūsana",
+      "etimologia": "del ár. clásico سُوسَن sūsan, asv. del pelvi swsn', en griego antiguo σοῦσον soûson, y en última instancia del egipcio zšn (‘flor de loto’)."
+    },
+    {
+      "palabra": "azud (m.), azuda (f.)",
+      "significado": "barrera o presa en un río para desviar parte del caudal a los cultivos. O bien, una aceña.",
+      "palabra_arabe": "السُّدّ as-sudd",
+      "etimologia": "de la raíz S-D-D (س د د ‎), relacionada con obstruir"
+    },
+    {
+      "palabra": "azufaifa, azofaifa, azufeifa (f.)",
+      "significado": "fruto comestible con propiedades medicinales, también dicho jínjol.",
+      "palabra_arabe": "الزُفَيْزَف az-zufayzaf",
+      "etimologia": "del siríaco ܙܽܘܙܦܴܐ zūzp̄ā, asv. del griego antiguo ζίζυφον zízuphon"
+    },
+    {
+      "palabra": "azul (m.)",
+      "significado": "color primario de gama fría, entre el verde y el morado en el arco iris.",
+      "palabra_arabe": "لَازُوَرْد lāzuward (‘ lapislázuli ’)",
+      "etimologia": "del persa لاجورد lâŷvard"
+    },
+    {
+      "palabra": "azulejo (m.)",
+      "significado": "artesanía milenaria basada en el ladrillo vidriado, de uso decorativo.",
+      "palabra_arabe": "اَلزُّلَيْجَة az-zuléiŷa",
+      "etimologia": "del ár. clásico اَلزُّلَيْج az-zulaiŷ (‘piedra pulida’), asv. diminutivo de زُلُج zuluŷ (‘roca lisa’)"
+    },
+    {
+      "palabra": "zulla (f.)",
+      "significado": "planta floral de las costas mediterráneas (Hedysarum coronarium)",
+      "palabra_arabe": "سُلَّة sulla",
+      "etimologia": "del siríaco ܣܠܬܐ‎ seltā (‘musgo, liquen, lenteja’)"
+    },
+    {
+      "palabra": "zumacal (m.)",
+      "significado": "planta que produce el zumo comestible.",
+      "palabra_arabe": "سُمَّاق summāq",
+      "etimologia": "del siríaco ܣܘܡܩܐ‎ summāqā"
+    },
+    {
+      "palabra": "zumaque (m.)",
+      "significado": "planta arbustiva y su fruto, que se muele y se usa como especia para aportar sabor ácido similar al cítrico.",
+      "palabra_arabe": "سُمَّاق summāq",
+      "etimologia": "del siríaco ܣܘܡܩܐ‎ summāqā (‘rojo’)"
+    },
+    {
+      "palabra": "azúmbar (m.)",
+      "significado": "nombre para varias especies de plantas aromáticas florales con forma de espiga.",
+      "palabra_arabe": "السُنْبُل as-sunbul (‘la espiga’)",
+      "etimologia": "de la raíz S-B-L (س ب ل)"
+    },
+    {
+      "palabra": "azumbre (m.)",
+      "significado": "unidad de medida de líquidos, equivalente a 2 litros aproximadamente. Antiguamente, açǔmri.",
+      "palabra_arabe": "الثُّمُن aṯ-ṯúmn (‘un octavo’)",
+      "etimologia": "misma raíz que ثَمَانِيَة ṯamāniya (‘ocho’)"
+    },
+    {
+      "palabra": "zumo (m.)",
+      "significado": "Esp: jugo de frutas",
+      "palabra_arabe": "زُوم zūm",
+      "etimologia": "del griego antiguo ζωμός zōmós"
+    },
+    {
+      "palabra": "azur (m.)",
+      "significado": "color azul oscuro en heráldica.",
+      "palabra_arabe": "si bien su origen último es el árabe لَازُوَرْد lāzuward (‘ lapislázuli ’), la incorporación no es directa vía el andalusí. Cognado de azul.",
+      "etimologia": "si bien su origen último es el árabe لَازُوَرْد lāzuward (‘ lapislázuli ’), la incorporación no es directa vía el andalusí. Cognado de azul."
+    },
+    {
+      "palabra": "zurra (f.)",
+      "significado": "bebida alcohólica.",
+      "palabra_arabe": "سُرَّة surra",
+      "etimologia": "del ár. clásico سُرَّة surra"
+    },
+    {
+      "palabra": "zurrona (f.)",
+      "significado": "persona que come mucho y con ansia.",
+      "palabra_arabe": "ذُرْوَنَة ḏurwana",
+      "etimologia": "del ár. clásico ذُرْوَنَة ḏurwana"
+    },
+    {
+      "palabra": "zurriago (m.)",
+      "significado": "látigo para azotar.",
+      "palabra_arabe": "صُرْيَاق ṣuryāq",
+      "etimologia": "del ár. clásico صُرْيَاق ṣuryāq"
+    },
+    {
+      "palabra": "zurubí (m.)",
+      "significado": "pez de agua dulce.",
+      "palabra_arabe": "زُرُّوب zurūb",
+      "etimologia": "del ár. clásico زُرُّوب zurūb"
+    },
+    {
+      "palabra": "zurrón (m.)",
+      "significado": "bolsa de cuero o lienzo que se lleva a la espalda.",
+      "palabra_arabe": "ذَرَان ḏarān",
+      "etimologia": "del ár. clásico ذَرَان ḏarān"
+    },
+    {
+      "palabra": "zutano (m.)",
+      "significado": "fulano, mengano, individuo cuyo nombre no se recuerda o no se menciona.",
+      "palabra_arabe": "سُتُوم sutūm",
+      "etimologia": "del ár. clásico سُتُوم sutūm"
+    },
+    {
+      "palabra": "zuzón (m.)",
+      "significado": "pájaro insectívoro.",
+      "palabra_arabe": "ذُذُون ḏuḏūn",
+      "etimologia": "del ár. clásico ذُذُون ḏuḏūn"
+    },
+    {
+      "palabra": "alafa (f.)",
+      "significado": "salario, sueldo",
+      "palabra_arabe": "العَطَّار al-ʿaṭāʾ",
+      "etimologia": "de la raíz trilítera ʕ-Ṭ-W (ع ط و), relacionada con ‘dar, otorgar, conceder’."
+    },
+    {
+      "palabra": "alahílca (f.)",
+      "significado": "colgadura o tapicería que decora la pared.",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alaroza (f.)",
+      "significado": "mujer que va a casarse, novia prometida.",
+      "palabra_arabe": "العَرُوس al-ʿarūs",
+      "etimologia": "de la raíz trilítera ʕ-R-S (ع ر س), relacionada con el ‘matrimonio’."
+    },
+    {
+      "palabra": "alatar (m.)",
+      "significado": "perfumista, vendedor de especias y fragancias.",
+      "palabra_arabe": "الْعَطَّار al-ʿattār",
+      "etimologia": "sustantivo ocupacional de عِطْر ʿ iṭr (‘perfume’)"
+    },
+    {
+      "palabra": "albadena (f.)",
+      "significado": "tipo de túnica hecha de seda.",
+      "palabra_arabe": "الْبَدَنة al-badana (‘ corpiño ’)",
+      "etimologia": "de بَدَن badan (‘cuerpo, torso’)."
+    },
+    {
+      "palabra": "baharí (m.)",
+      "significado": "halcón.",
+      "palabra_arabe": "بَحْرِيّ baḥrī",
+      "etimologia": "de بَحْر baḥr (‘mar’), es decir, ‘marino’"
+    },
+    {
+      "palabra": "albarrán (m.)",
+      "significado": "forastero o extranjero. En sentido derivado, mayoral o pastor, porque vive fuera del pueblo, en el campo (barr), o también mozo que proviene de fuera del pueblo para trabajar los campos.",
+      "palabra_arabe": "البَرَّانِي al-barrānī",
+      "etimologia": "de بَرَّا barrā (‘fuera’)"
+    },
+    {
+      "palabra": "alboheza (f.)",
+      "significado": "malva.",
+      "palabra_arabe": "الخُـبَّازَة al-jubbāza",
+      "etimologia": "de la raíz trilítera J-B-Z (خ ب ز)"
+    },
+    {
+      "palabra": "alcabtea (f.)",
+      "significado": "tela fina de lino.",
+      "palabra_arabe": "القبْطِيّة al-qubtiyya o al-qibtiyya (‘el copto ’)",
+      "etimologia": "del copto gyptios, asv. del griego Αἰγύπτιος Aigýptios ‘[tela] egipcia’"
+    },
+    {
+      "palabra": "alcadafe (m.)",
+      "significado": "vasija de cerámica.",
+      "palabra_arabe": "القُدَافُ al-qidafi",
+      "etimologia": "de la raíz trilítera Q-D-F (ق د ف), relacionada con ‘recoger, contener [el agua]’."
+    },
+    {
+      "palabra": "alcafar (m.)",
+      "significado": "cuartos traseros de un caballo u otro animal.",
+      "palabra_arabe": "الكَفَل al-kafal (‘anca’)",
+      "etimologia": "de la raíz K-F-L (ك ف ل)"
+    },
+    {
+      "palabra": "alcama, alcoma (f.)",
+      "significado": "coloquíntida (Citrullus colocynthis)",
+      "palabra_arabe": "quizá de الكمة al-kama (‘tapar, envolver’), pues la planta cubre el terreno.",
+      "etimologia": "quizá de الكمة al-kama (‘tapar, envolver’), pues la planta cubre el terreno."
+    },
+    {
+      "palabra": "alcamiz (m.)",
+      "significado": "registro de soldados",
+      "palabra_arabe": "según RAE, de التَمْيِيز al-tamīz (‘diferenciación’), aunque más probablemente de الخَمِيس al-jamīs (‘hueste militar’)",
+      "etimologia": "según RAE, de التَمْيِيز al-tamīz (‘diferenciación’), aunque más probablemente de الخَمِيس al-jamīs (‘hueste militar’)"
+    },
+    {
+      "palabra": "alcanería (f.)",
+      "significado": "tipo de alcachofa.",
+      "palabra_arabe": "القَنَّارِيَّة al-qannāriyya",
+      "etimologia": "del latín * cannaria, asv. del griego antiguo κινάρα kinára"
+    },
+    {
+      "palabra": "alcarahueya (f.)",
+      "significado": "variante de alcaravea.",
+      "palabra_arabe": "الكَرَاوِيَا al-karāwiyā",
+      "etimologia": "del arameo ܟܲܪܘܵܝܵܐ karwāyā, asv. del griego καρώ karṓ"
+    },
+    {
+      "palabra": "acebibe (m.)",
+      "significado": "uva pasa, pasas",
+      "palabra_arabe": "اَلزَّبِيبة al-zabība",
+      "etimologia": "de la raíz trilítera Z-B-B (ز ب ب)"
+    },
+    {
+      "palabra": "alcohela (f.)",
+      "significado": "escarola, endivia, achicoria (Cichorium endivia) o borraja (Borago officinalis)",
+      "palabra_arabe": "الكُحَيْلَاء al-kuḥaylāʾ",
+      "etimologia": "forma alternativa de كَحْلَاء kaḥlāʾ, de la raíz trilítera K-H-L (ك ح ل), de donde deriva el kohl"
+    },
+    {
+      "palabra": "alcrebite (m.)",
+      "significado": "azufre.",
+      "palabra_arabe": "الكبريت al-kibrīt",
+      "etimologia": "del arameo כִּבְּרִיתָא kiḇrīṯā / ܟܶܒܪܺܝܬܳܐ kĕḇrīṯā, asv. del acadio 𒆠𒀀𒀭𒀀𒇉 kibrītu"
+    },
+    {
+      "palabra": "adárgama (f.)",
+      "significado": "flor de harina.",
+      "palabra_arabe": "الدَرْمَكَة al-darmaka",
+      "etimologia": "del persa"
+    },
+    {
+      "palabra": "adaza (f.)",
+      "significado": "planta gramínea, generalmente sorgo pero según el lugar, maíz, mijo o lenteja. derivado: adacilla (variedad de sorgo)",
+      "palabra_arabe": "الدَقْسَة al-daqsa",
+      "etimologia": "del ár. clásico دقس daqṣ (‘pisoteado, machacado’), asv. de la raíz D-Q-Q (د ق ق), relacionado con ‘pulverizar, hacer delgado o fino’"
+    },
+    {
+      "palabra": "aldrán (m.)",
+      "significado": "pastor principal o mayor.",
+      "palabra_arabe": "رَبُّ الضَّان rabbu ḍ-ḍān (‘señor de las ovejas’)",
+      "etimologia": "véase rabadán"
+    },
+    {
+      "palabra": "adutaque (f.)",
+      "significado": "harina de flor.",
+      "palabra_arabe": "الدُقَاق ad-duqāq",
+      "etimologia": "de دَقِيق daqīq (‘fino, harina’), de la raíz D-Q-Q (د ق ق), asv. relacionado con ‘pulverizar, hacer delgado o fino’"
+    },
+    {
+      "palabra": "alfadía (f.)",
+      "significado": "soborno, corrupción.",
+      "palabra_arabe": "الهَدِيَّة al-hadīyya (‘el regalo o donación’)",
+      "etimologia": "de la raíz trilítera H-D-Y (ه د ي), relacionada con ‘lo bueno’."
+    },
+    {
+      "palabra": "alfaquín (m.)",
+      "significado": "médico, doctor en medicina.",
+      "palabra_arabe": "الْحَكِيم al-ḥakīm (‘el sabio’)",
+      "etimologia": "de la raíz trilítera Ḥ-K-M (ح ك م), relacionada con el juicio o la sabiduría"
+    },
+    {
+      "palabra": "alfayate (m.)",
+      "significado": "sastre.",
+      "palabra_arabe": "الحَيَّة al-ḥayyat",
+      "etimologia": "¿de la raíz H-W-Y (ح و ي)?"
+    },
+    {
+      "palabra": "algalaba, algáliba, gáliba (f.)",
+      "significado": "nombre genérico para varias plantas, especialmente la vid silvestre (labrusca).",
+      "palabra_arabe": "ٱلْغَالِبَة al-ġāliba (‘predominante’)",
+      "etimologia": "de la raíz trilítera Ġ-L-B (غ ل ب), relacionada con ‘dominancia, lo victorioso’."
+    },
+    {
+      "palabra": "galima (f.)",
+      "significado": "hurto frecuente y pequeño.",
+      "palabra_arabe": "",
+      "etimologia": ""
+    },
+    {
+      "palabra": "alguaquida (f.)",
+      "significado": "paja de centeno usada para arder la brasa.",
+      "palabra_arabe": "الوَقِيدَة al-waqīda (‘la cerilla’)",
+      "etimologia": "de la raíz W-Q-D (و ق د), relacionada con el fuego o lo que arde"
+    },
+    {
+      "palabra": "alhandal, alhondal (m.)",
+      "significado": "tipo de calabaza pequeña, hoy más conocida como coloquíntida (Citrullus colocynthis)",
+      "palabra_arabe": "الحَنظل al-ḥanẓal",
+      "etimologia": "del verbo حَظَلَ ḥaẓala (‘impedir avanzar’, ya que las guías de esta planta no permiten caminar)"
+    },
+    {
+      "palabra": "almahala, almofalla (f.)",
+      "significado": "campamento o hueste acampada",
+      "palabra_arabe": "اَلْمَحَلَّة al-maḥalla",
+      "etimologia": "del verbo حَلَّ ḥalla (‘desmontar’)"
+    },
+    {
+      "palabra": "añacea (f.)",
+      "significado": "fiesta, diversión.",
+      "palabra_arabe": "النُزْهَة an-nuzha (‘diversión, buen rato’)",
+      "etimologia": "de la raíz trilítera N-Z-H (ن ز ه), relacionada con la pureza de la distracción"
+    },
+    {
+      "palabra": "alboroque (m.)",
+      "significado": "regalo o agasajo que se dan los implicados en una compraventa, o robra.",
+      "palabra_arabe": "[ ár. andalusí ] * alborók, asv. del ár clásico عربون ʿarbūn",
+      "etimologia": "–"
+    },
+    {
+      "palabra": "ademán (m.)",
+      "significado": "gesto o actitud corporal que manifiesta una disposición o intención.",
+      "palabra_arabe": "aḍḍíman, aḍḍamán",
+      "etimologia": "–"
+    },
+    {
+      "palabra": "anea, enea, nea, inea (f.)",
+      "significado": "planta herbácea también dicha totora o espadaña.",
+      "palabra_arabe": "نأيفة naʾifa (‘la que sobresale’) del v. نَيَّفَ nayyafa (‘sobrepasar’)",
+      "etimologia": "–"
+    },
+    {
+      "palabra": "argadillo, argadijo, algaíjo, argaviella (m.)",
+      "significado": "devanadera, armazón para devanar madejas.",
+      "palabra_arabe": "del mozárabe * allaqatéḻ, asv. del árabe عَلّاقة ʿallāqa (‘gancho, perchero, colgador’)",
+      "etimologia": "del latín ergăta, asv. del griego antiguo ἐργάτης ergátēs"
+    },
+    {
+      "palabra": "argamandel (m.)",
+      "significado": "andrajo, pedazo o jirón de tela.",
+      "palabra_arabe": "del árabe خِرْقَة مَنْدِيل jirqat mandīl (‘harapo de pañuelo’)",
+      "etimologia": "–"
+    },
+    {
+      "palabra": "calabaza (f.)",
+      "significado": "fruto comestible de varias especies de plantas de la familia de las cucurbitáceas.",
+      "palabra_arabe": "قَرْعَة qarʿa",
+      "etimologia": "quizá de origen prerromano"
+    },
+    {
+      "palabra": "calafate (m.)",
+      "significado": "persona que tapona las junturas de las maderas de los barcos para evitar que entre el agua.",
+      "palabra_arabe": "قَلَفَاط qalafāṭ",
+      "etimologia": "probablemente no es de origen árabe. Quizá griego bizantino."
+    },
+    {
+      "palabra": "cebiche, ceviche, seviche, sebiche (m.)",
+      "significado": "plato americano de pescado o marisco con un adobo cítrico.",
+      "palabra_arabe": "véase escabeche.",
+      "etimologia": "del latín cibus (‘comida’) de cebo + iche del quechua siwichi (‘poco cocido’)"
+    },
+    {
+      "palabra": "faluca, falúa (f.), falucho (m.)",
+      "significado": "diferentes tipos de embarcación.",
+      "palabra_arabe": "فلوكة falūka",
+      "etimologia": "del italiano felucca"
+    },
+    {
+      "palabra": "fardo (m.)",
+      "significado": "mercancía de ropas u otro tipo, atadas y apretadas para facilitar su transporte.",
+      "palabra_arabe": "فَرْد fard (‘unidad, mitad’), o bien de فَرْض farḍ (‘pliegue’), véase alfarda",
+      "etimologia": "del latín fartus (‘relleno’), igual que la palabra fardel"
+    },
+    {
+      "palabra": "fárfara, járjara (f.)",
+      "significado": "binza, telilla que cubre internamente la cáscara de los huevos de las aves.",
+      "palabra_arabe": "* فلغلالة *falġalāla (‘a medio hacer’)",
+      "etimologia": "Del lat ín farfărus"
+    },
+    {
+      "palabra": "haragán (m.)",
+      "significado": "persona holgazana, gandul.",
+      "palabra_arabe": "كان خرا jarā kān (‘mierda ha sido’)",
+      "etimologia": "del alto alemán antiguo arag, arg (‘inútil, perezoso’) o del gótico *𐌰𐍂𐌲𐍃 (*args)"
+    },
+    {
+      "palabra": "jabelga (f.)",
+      "significado": "mezcla de cal, marmolina y agua.",
+      "palabra_arabe": "جبّاقة ŷabbāqa (¿de la raíz Ŷ-B-Y (ج ب ي)?)",
+      "etimologia": "del latín exalbicare, ‘blanquear’"
+    },
+    {
+      "palabra": "jaleo (m.)",
+      "significado": "celebración, diversión bulliciosa.",
+      "palabra_arabe": "جلاء ŷālāʾ, sustantivo verbal del verbo جلا ŷalā (‘liberación, expulsión’)",
+      "etimologia": "–"
+    },
+    {
+      "palabra": "jámila (f.)",
+      "significado": "alpechín, residuo líquido de la aceituna",
+      "palabra_arabe": "*hamilla, de ḥamí ‘fango maloliente’, y este de ḥama'.",
+      "etimologia": "–"
+    },
+    {
+      "palabra": "jaramago (m.)",
+      "significado": "Diplotaxis tenuifolia, mala hierba",
+      "palabra_arabe": "del árabe سَرْمَق sarmaq, asv. del persa",
+      "etimologia": "del latín siser amaricum"
+    },
+    {
+      "palabra": "jarbar (v.)",
+      "significado": "en apicultura, tomar una colmena llena de abejas.",
+      "palabra_arabe": "del v. خرب ḥaraba (‘destruir, saquear’), en el sentido de ‘apoderarse’ de la colmena.",
+      "etimologia": "¿quizá del caló?"
+    },
+    {
+      "palabra": "jauría (f.)",
+      "significado": "conjunto de perros de caza.",
+      "palabra_arabe": "حَُرِيَ ḥauriya (‘cierta danza’)",
+      "etimologia": "¿onomatopéyico?"
+    },
+    {
+      "palabra": "loco, -a",
+      "significado": "que ha perdido la razón.",
+      "palabra_arabe": "لَوْقَاء lawqāʾ (‘estúpida’, femenino de أَلْوَق ʾalwaq, ‘estúpido’)",
+      "etimologia": "¿quizá paleohispánico?"
+    },
+    {
+      "palabra": "ola (f.)",
+      "significado": "onda que se forma en la superficie del agua.",
+      "palabra_arabe": "هَوْل hawl (‘oleada, susto’) [ cita requerida ]",
+      "etimologia": "del latín undula (‘pequeña onda’). ¿céltico?"
+    },
+    {
+      "palabra": "olé, ole",
+      "significado": "interjección para animar y aplaudir.",
+      "palabra_arabe": "الله Allāh (‘Alá, Dios’, pero en un sentido interjectivo)",
+      "etimologia": "del caló alalá (‘alegría, fiesta’) [ cita requerida ] onomatopéyico según Joan Coromines. Federico Corriente niega el origen árabe de la expresión."
+    },
+    {
+      "palabra": "rasmia (f.)",
+      "significado": "empuje y tesón para acometer y continuar una empresa.",
+      "palabra_arabe": "رَسْمِيَّة rasmiya (‘oficial, formal’)",
+      "etimologia": "–"
+    },
+    {
+      "palabra": "res (m.)",
+      "significado": "cabeza de ganado.",
+      "palabra_arabe": "رَأْس raʾs, abreviación de رَأْسٌ مِنَ المَاشِيَةِ raʾsun mina l-māšiyati (‘cabeza de ganado’)",
+      "etimologia": "del latín res (‘cosa’)"
+    },
+    {
+      "palabra": "sufra 2, zafra 2, azofra 2, zofra 2 (f.)",
+      "significado": "en la caballería de tiro, el correón que sostiene las varas, apoyado en el sillín.",
+      "palabra_arabe": "زَافِرَة zāfira (‘puntal, soporte’)",
+      "etimologia": "–"
+    },
+    {
+      "palabra": "Alá (m.)",
+      "significado": "Dios en el islam.",
+      "palabra_arabe": "الله Allāh",
+      "etimologia": "del protosemítico *ʔil-"
+    },
+    {
+      "palabra": "arbonaida (f.)",
+      "significado": "bandera de Andalucía.",
+      "palabra_arabe": "البُلَيْدَة al-bulayda (‘tierrita’)",
+      "etimologia": "palabra acuñada en el siglo XXI, de بَلَد balad (‘país, tierra, pueblo’) y el sufijo diminutivo -يْدَة -ayda"
+    },
+    {
+      "palabra": "chuparquía (f.)",
+      "significado": "nombre ceutí y melillense para cierto dulce de la repostería magrebí.",
+      "palabra_arabe": "شّباكيّة shbākīa",
+      "etimologia": "de la raíz K-B-B (ك ب ب), relacionada con lo voltear, girar o enrollar."
+    },
+    {
+      "palabra": "dariya, darija (m.)",
+      "significado": "variedad marroquí del árabe.",
+      "palabra_arabe": "دارجة dāriŷa",
+      "etimologia": "de la raíz D-R-Ŷ (ج ر د), relacionada con circular."
+    },
+    {
+      "palabra": "hiraba (f.)",
+      "significado": "delito islámico de la guerra injusta o el saqueo.",
+      "palabra_arabe": "حَرَبَة ḥarāba",
+      "etimologia": "de la raíz Ḥ-R-B (ح ر ب), relacionada con la guerra, el despojo."
+    },
+    {
+      "palabra": "kafala (f.)",
+      "significado": "adopción o acogida de un menor, en el derecho islámico.",
+      "palabra_arabe": "كَفَالَة kafāla",
+      "etimologia": "sustantivo verbal de كَفُلَ kafula (‘asumir, encargarse de’)"
+    },
+    {
+      "palabra": "kibe, kibi, kivi (m.)",
+      "significado": "derivado del kibbe en Yucatán.",
+      "palabra_arabe": "كِبَّة kibbe",
+      "etimologia": "de la raíz K-B-B (ك ب ب), relacionada con lo voltear, girar o enrollar."
+    },
+    {
+      "palabra": "malikí, maliquí (m.)",
+      "significado": "madhab, escuela de jurisprudencia musulmana muy presente en África.",
+      "palabra_arabe": "مَالِكي malikī",
+      "etimologia": "de مَالِك mālik (‘líder, dueño’)"
+    },
+    {
+      "palabra": "almidana (f.)",
+      "significado": "hipódromo o plaza para el ejercicio de la equitación.",
+      "palabra_arabe": "véase médano",
+      "etimologia": "véase médano"
+    },
+    {
+      "palabra": "nuba (f.)",
+      "significado": "género de musica andalusí.",
+      "palabra_arabe": "نَوْبَة nawba (‘turno’)",
+      "etimologia": "del verbo نَابَ nāba (‘ocurrir’)"
+    },
+    {
+      "palabra": "rayam, rajm (m.)",
+      "significado": "lapidación.",
+      "palabra_arabe": "رَجْم raŷm",
+      "etimologia": "de la raíz R-Ŷ-M (ر ج م)."
+    }
+  ],
+  "meta": {
+    "title": "Arabismos en el idioma español - Free Download",
+    "description": "Palabras del español de origen árabe con su significado, la palabra árabe de la que proceden y su etimología. Contains 667 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Arabismos en el idioma español | ListBase",
+    "seo_description": "Download Arabismos en el idioma español — 667 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 667 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Arabismos_en_el_idioma_español"
+    ]
+  }
+}
