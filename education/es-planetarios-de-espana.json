@@ -1,0 +1,574 @@
+{
+  "id": "es-planetarios-de-espana",
+  "name": "Planetarios de España",
+  "title": "Planetarios de España",
+  "description": "Lista de planetarios de España con ciudad, comunidad autónoma, fecha de inauguración, diámetro de la cúpula, número de asientos y equipo de proyección.",
+  "category": "education",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Planetarios_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Planetarios_de_España",
+  "updated": "2026-11",
+  "record_count": 57,
+  "columns": [
+    {
+      "key": "planetario",
+      "label": "Planetario",
+      "type": "string"
+    },
+    {
+      "key": "ciudad",
+      "label": "Ciudad",
+      "type": "string"
+    },
+    {
+      "key": "comunidad_autonoma",
+      "label": "Comunidad Autonoma",
+      "type": "string"
+    },
+    {
+      "key": "inauguracion",
+      "label": "Inauguracion",
+      "type": "string"
+    },
+    {
+      "key": "diametro_m",
+      "label": "Diametro M",
+      "type": "number"
+    },
+    {
+      "key": "asientos",
+      "label": "Asientos",
+      "type": "number"
+    },
+    {
+      "key": "equipo",
+      "label": "Equipo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "planetario": "Casa das Ciencias",
+      "ciudad": "La Coruña (Parque de Santa Margarita)",
+      "comunidad_autonoma": "Galicia",
+      "inauguracion": "1 de junio de 1985",
+      "diametro_m": "10.0",
+      "asientos": 84,
+      "equipo": "Starball projector ZEISS ZKP2 Digital system Evans_and_Sutherland Digistar 5"
+    },
+    {
+      "planetario": "Escuela Naval Militar",
+      "ciudad": "Pontevedra, Plaza de España s/n, C.P.36900",
+      "comunidad_autonoma": "Galicia",
+      "inauguracion": "1976",
+      "diametro_m": "8.0",
+      "asientos": 30,
+      "equipo": "Starball projector ZEISS ZKP1"
+    },
+    {
+      "planetario": "Planetario de Madrid",
+      "ciudad": "Madrid (Parque de Enrique Tierno Galván, avenida del Planetario n.º 16)",
+      "comunidad_autonoma": "Madrid",
+      "inauguracion": "29 de septiembre de 1986",
+      "diametro_m": "17.5",
+      "asientos": 245,
+      "equipo": "Starball projector OHIRA_Tech MEGASTAR-IIA-Kaisei Digital system Sky-Skan Definiti 4K"
+    },
+    {
+      "planetario": "Planetario de Castellón",
+      "ciudad": "Grao de Castellon (Passeig Maritim 1)",
+      "comunidad_autonoma": "Comunidad Valenciana",
+      "inauguracion": "1991",
+      "diametro_m": "12.5",
+      "asientos": 105,
+      "equipo": "Starball projector ZEISS 1015-A Digital system RSA-Cosmos ISS 1C HD"
+    },
+    {
+      "planetario": "Planetario de Pamplona",
+      "ciudad": "Pamplona (Sancho Ramirez s/n)",
+      "comunidad_autonoma": "Navarra",
+      "inauguracion": "26 de noviembre de 1993",
+      "diametro_m": "20.0",
+      "asientos": 204,
+      "equipo": "Starball projector ZEISS Model-VI-A Digital system Sky-Skan Definiti"
+    },
+    {
+      "planetario": "Parque de las Ciencias",
+      "ciudad": "Granada, Avda. de la Ciencia s/n",
+      "comunidad_autonoma": "Andalucía",
+      "inauguracion": "8 de mayo de 1995",
+      "diametro_m": "10.0 5.0",
+      "asientos": "83 25",
+      "equipo": "Starball projector ZEISS ZKP3 Digital system SCISS Digital system Immersive_Adventure"
+    },
+    {
+      "planetario": "L'Hemisfèric de la Ciudad de las Artes y las Ciencias",
+      "ciudad": "Valencia (avinguda Professor Lopez Pinero, 7)",
+      "comunidad_autonoma": "Comunidad Valenciana",
+      "inauguracion": "16 de abril de 1998",
+      "diametro_m": "24.0",
+      "asientos": 306,
+      "equipo": "Starball projector ZEISS Model-VIII-TD Digital system RSA-Cosmos"
+    },
+    {
+      "planetario": "Museo de las Ciencias de Castilla-La Mancha",
+      "ciudad": "Cuenca, Pza. de la Merced 1.",
+      "comunidad_autonoma": "Castilla-La Mancha",
+      "inauguracion": "1999",
+      "diametro_m": "10.0",
+      "asientos": 74,
+      "equipo": "Starball projector ZEISS ZKP3 Digital system Immersive_Adventure LUX-1200"
+    },
+    {
+      "planetario": "Eureka! Zientzia Museoa",
+      "ciudad": "San Sebastián (paseo Mikeletegi, 43-45)",
+      "comunidad_autonoma": "País Vasco",
+      "inauguracion": "2001",
+      "diametro_m": "14.5 2.0",
+      "asientos": "142 20",
+      "equipo": "Digital system RSA-Cosmos ISS 2C Digital system Immersive_Adventure MINI-1080"
+    },
+    {
+      "planetario": "Museo de la Ciencia de Valladolid",
+      "ciudad": "Valladolid, Avenida de Salamanca 59",
+      "comunidad_autonoma": "Castilla y León",
+      "inauguracion": "29 de abril de 2003",
+      "diametro_m": "11.0",
+      "asientos": 75,
+      "equipo": "Digital system RSA-Cosmos InSpaceSystem"
+    },
+    {
+      "planetario": "CosmoCaixa Barcelona",
+      "ciudad": "Barcelona (calle Isaac Newton, 26)",
+      "comunidad_autonoma": "Cataluña",
+      "inauguracion": "25 de septiembre de 2004",
+      "diametro_m": "14.0",
+      "asientos": 136,
+      "equipo": "Digital system Sky-Skan Definiti 3D"
+    },
+    {
+      "planetario": "Centro Astronómico Aragonés",
+      "ciudad": "Cuarte, Parque Tecnológico Walqa, Parcela 13",
+      "comunidad_autonoma": "Aragón",
+      "inauguracion": "2012",
+      "diametro_m": "10.0",
+      "asientos": 64,
+      "equipo": "Digital system RSA-Cosmos ISS 5C HD 3D"
+    },
+    {
+      "planetario": "Castillo de Hornos de Segura",
+      "ciudad": "Hornos de Segura, Castillo de Hornos (Jaén)",
+      "comunidad_autonoma": "Andalucía",
+      "inauguracion": "2013",
+      "diametro_m": "8.0",
+      "asientos": 25,
+      "equipo": "Digital system Prototype Warped media"
+    },
+    {
+      "planetario": "El Parque de la Vida",
+      "ciudad": "La Mata (Valdés) s/n",
+      "comunidad_autonoma": "Principado de Asturias",
+      "inauguracion": "1996",
+      "diametro_m": "12.0",
+      "asientos": 100,
+      "equipo": "Digital system Yes"
+    },
+    {
+      "planetario": "Centre d'Observacio de l'Univers",
+      "ciudad": "Áger, Cami Del Coll d'Ares s/n",
+      "comunidad_autonoma": "",
+      "inauguracion": "2009",
+      "diametro_m": "12.0",
+      "asientos": 68,
+      "equipo": "Digital system Sky-Skan Definiti"
+    },
+    {
+      "planetario": "Observatorio Astronómico de Mallorca",
+      "ciudad": "Costich, camí de Son Bernat, 9",
+      "comunidad_autonoma": "Islas Baleares",
+      "inauguracion": "1991",
+      "diametro_m": "11.0",
+      "asientos": 110,
+      "equipo": "Starball projector ZEISS ZKP3 Digital system Evans_and_Sutherland Digistar 3 SP2 HD"
+    },
+    {
+      "planetario": "Planetario y Nanoplanetario en MUNCYT Alcobendas",
+      "ciudad": "Alcobendas, Calle del Pintor Velázquez",
+      "comunidad_autonoma": "Madrid",
+      "inauguracion": "2004",
+      "diametro_m": "10.0",
+      "asientos": 73,
+      "equipo": "Digital system RSA-Cosmos InSpaceSystem 6C"
+    },
+    {
+      "planetario": "Planetario de la Universidad de La Laguna (ULL)",
+      "ciudad": "Santa Cruz de Tenerife, Vía Auxiliar Paso Alto, 2",
+      "comunidad_autonoma": "Canarias",
+      "inauguracion": "1967",
+      "diametro_m": "9.0",
+      "asientos": 50,
+      "equipo": "Starball projector ZEISS ZKP1"
+    },
+    {
+      "planetario": "Planetario de Trujillo",
+      "ciudad": "Trujillo, Conventual de San Francisco Calle Sola, 1",
+      "comunidad_autonoma": "Extremadura",
+      "inauguracion": "2011",
+      "diametro_m": "8.9",
+      "asientos": 50,
+      "equipo": "Digital system Digitalis_Education Digitarium-Epsilon"
+    },
+    {
+      "planetario": "Planetario de la Universidad de Cantabria",
+      "ciudad": "Santander, Universidad de Cantabria Gamazo 1",
+      "comunidad_autonoma": "Cantabria",
+      "inauguracion": "1992",
+      "diametro_m": "8.0",
+      "asientos": 50,
+      "equipo": "Starball projector ZEISS ZKP2"
+    },
+    {
+      "planetario": "Planetario de la Universidad de Oviedo",
+      "ciudad": "Gijón, Campus Universitario de Gijón",
+      "comunidad_autonoma": "Principado de Asturias",
+      "inauguracion": "1991",
+      "diametro_m": "8.0",
+      "asientos": 40,
+      "equipo": "Starball projector ZEISS ZKP2"
+    },
+    {
+      "planetario": "IES Náutico Pesquero de Pasaia - Blas de Leso",
+      "ciudad": "Pasajes, Marinos Kalea, 2",
+      "comunidad_autonoma": "País Vasco",
+      "inauguracion": "1969",
+      "diametro_m": "8.0",
+      "asientos": 40,
+      "equipo": "Starball projector ZEISS ZKP1"
+    },
+    {
+      "planetario": "Instituto Maritimo Pesqueiro do Atlantico",
+      "ciudad": "Vigo, avenida de Beiramar, 55",
+      "comunidad_autonoma": "Galicia",
+      "inauguracion": "1966",
+      "diametro_m": "8.0",
+      "asientos": 30,
+      "equipo": "Starball projector ZEISS ZKP1"
+    },
+    {
+      "planetario": "Planetario de la Universidad de Cádiz",
+      "ciudad": "Puerto Real (Cádiz), Río San Pedro",
+      "comunidad_autonoma": "Andalucía",
+      "inauguracion": "1995",
+      "diametro_m": "8.0",
+      "asientos": 30,
+      "equipo": "Starball projector ZEISS ZKP3"
+    },
+    {
+      "planetario": "Centro Astronómico de Tiedra",
+      "ciudad": "Tiedra Valladolid",
+      "comunidad_autonoma": "Castilla y León",
+      "inauguracion": "2013",
+      "diametro_m": "7.0",
+      "asientos": 35,
+      "equipo": "Digital system Immersive_Adventure"
+    },
+    {
+      "planetario": "Museo de la Ciencia y el Cosmos",
+      "ciudad": "San Cristóbal de La Laguna, avda. Los Menceyes, 70",
+      "comunidad_autonoma": "Canarias",
+      "inauguracion": "1993",
+      "diametro_m": "6.5",
+      "asientos": 30,
+      "equipo": "Starball projector GOTO GE-II Digital system Evans_and_Sutherland Digistar 5"
+    },
+    {
+      "planetario": "Escuela Superior de la Marina Civil",
+      "ciudad": "Portugalete, M Díaz de Haro 68",
+      "comunidad_autonoma": "País Vasco",
+      "inauguracion": "?",
+      "diametro_m": "6.0",
+      "asientos": 36,
+      "equipo": "Starball projector ZEISS ZKP1"
+    },
+    {
+      "planetario": "Planetario de Úbeda",
+      "ciudad": "Ubeda, Av Cristo Rey, s/n",
+      "comunidad_autonoma": "Andalucía",
+      "inauguracion": "2001",
+      "diametro_m": "6.0",
+      "asientos": 35,
+      "equipo": "Starball projector Prototype Digital system Prototype"
+    },
+    {
+      "planetario": "Planetario de la Facultad de Náutica de Barcelona FNB",
+      "ciudad": "Barcelona, Pla del Palau, 18",
+      "comunidad_autonoma": "Cataluña",
+      "inauguracion": "1969",
+      "diametro_m": "6.0",
+      "asientos": 30,
+      "equipo": "Starball projector ZEISS ZKP1"
+    },
+    {
+      "planetario": "Instituto Politécnico Marítimo Pesquero del Mediterráneo",
+      "ciudad": "Alicante, Muelle Pesquero, s/n",
+      "comunidad_autonoma": "Comunidad Valenciana",
+      "inauguracion": "1971",
+      "diametro_m": "6.0",
+      "asientos": 30,
+      "equipo": "Starball projector ZEISS ZKP1"
+    },
+    {
+      "planetario": "Planetario del Museu de Ciencies Naturals de Granollers",
+      "ciudad": "Granollers, carrer Palaudaries, 102 Jardins Antoni Jonch i Cuspinera",
+      "comunidad_autonoma": "Cataluña",
+      "inauguracion": "2013",
+      "diametro_m": "6.0",
+      "asientos": 30,
+      "equipo": "Digital system Digitalis_Education Digitarium-Delta-2"
+    },
+    {
+      "planetario": "Planetario de Serón",
+      "ciudad": "Serón (Almería), calle Estación s/n",
+      "comunidad_autonoma": "Andalucía",
+      "inauguracion": "2018",
+      "diametro_m": "6.0",
+      "asientos": 30,
+      "equipo": "Digital system Digitalis_Education Digitarium-Kappa"
+    },
+    {
+      "planetario": "Museo de la Ciencia y el Agua",
+      "ciudad": "Murcia, Plaza de la Ciencia",
+      "comunidad_autonoma": "Región de Murcia",
+      "inauguracion": "1996",
+      "diametro_m": "6.0",
+      "asientos": 26,
+      "equipo": "Digital system Immersive_Adventure LUX-1200"
+    },
+    {
+      "planetario": "Centro de Ciencia Principia",
+      "ciudad": "Málaga, Avenida de Luis Bunuel N 6",
+      "comunidad_autonoma": "Andalucía",
+      "inauguracion": "1999",
+      "diametro_m": "5.0",
+      "asientos": 30,
+      "equipo": "Digital system Digitalis_Education Digitarium"
+    },
+    {
+      "planetario": "Museu Maritim de Barcelona",
+      "ciudad": "Barcelona, Av. de les Drassanes s/n",
+      "comunidad_autonoma": "Cataluña",
+      "inauguracion": "1996",
+      "diametro_m": "5.0",
+      "asientos": 25,
+      "equipo": "Digital system Immersive_Adventure PRO-4K"
+    },
+    {
+      "planetario": "Planetario Municipal",
+      "ciudad": "Barcelona, Brussel-les, s/n",
+      "comunidad_autonoma": "Cataluña",
+      "inauguracion": "1972",
+      "diametro_m": "4.1",
+      "asientos": 30,
+      "equipo": "Starball projector GOTO E-5"
+    },
+    {
+      "planetario": "Parque Aldea Nova",
+      "ciudad": "Naron, Lagoela s/n, San Estevo de Sedes",
+      "comunidad_autonoma": "Galicia",
+      "inauguracion": "2016",
+      "diametro_m": "4.0",
+      "asientos": 20,
+      "equipo": "Digital system Prototype Mirrordome"
+    },
+    {
+      "planetario": "Immersive Adventure",
+      "ciudad": "Barcelona, Carrer Sant Lluis 88",
+      "comunidad_autonoma": "Cataluña",
+      "inauguracion": "2018",
+      "diametro_m": "3.0",
+      "asientos": 15,
+      "equipo": "Digital system Immersive_Adventure PRO-1600"
+    },
+    {
+      "planetario": "Imax Port Vell",
+      "ciudad": "Barcelona, Del Port Vell, Moll d'Espanya",
+      "comunidad_autonoma": "Cataluña",
+      "inauguracion": "1995",
+      "diametro_m": "0.0",
+      "asientos": 416,
+      "equipo": "Starball projector Imax"
+    },
+    {
+      "planetario": "Palma Aquarium",
+      "ciudad": "Palma de Mallorca, c/ Manuela de los Herreros i Sora, 21",
+      "comunidad_autonoma": "Islas Baleares",
+      "inauguracion": "2019",
+      "diametro_m": "0.0",
+      "asientos": "?",
+      "equipo": "Digital system Evans_and_Sutherland Digistar 6"
+    },
+    {
+      "planetario": "Geodomo",
+      "ciudad": "Madrid, Avenida Padre Huidobro, s/n",
+      "comunidad_autonoma": "Madrid",
+      "inauguracion": "2019",
+      "diametro_m": "25.0",
+      "asientos": "? seats",
+      "equipo": "Digital system Prototype Vioso dome master"
+    },
+    {
+      "planetario": "JC-CINESFERIC",
+      "ciudad": "Madrid, C/ Ocana, 14 local bajo 2",
+      "comunidad_autonoma": "Madrid",
+      "inauguracion": "2015",
+      "diametro_m": "8.0",
+      "asientos": 60,
+      "equipo": "Digital system Immersive_Adventure LUX-1200"
+    },
+    {
+      "planetario": "Planetario Educa Ciencia",
+      "ciudad": "Madrid, Ardemans, 81",
+      "comunidad_autonoma": "Madrid",
+      "inauguracion": "2007",
+      "diametro_m": "7.0",
+      "asientos": 50,
+      "equipo": "Digital system Prototype Nova Kepler Educa Ciencia"
+    },
+    {
+      "planetario": "Aula del Cielo",
+      "ciudad": "Málaga, c/ Penelope 2-16",
+      "comunidad_autonoma": "Andalucía",
+      "inauguracion": "2004",
+      "diametro_m": "6.0",
+      "asientos": 40,
+      "equipo": "Digital system Prototype"
+    },
+    {
+      "planetario": "Astroludico",
+      "ciudad": "Valencia",
+      "comunidad_autonoma": "Comunidad Valenciana",
+      "inauguracion": "",
+      "diametro_m": "6.0",
+      "asientos": 30,
+      "equipo": "Digital system Immersive_Adventure MIP-1080"
+    },
+    {
+      "planetario": "CINESFERIC",
+      "ciudad": "Orihuela, Alicante",
+      "comunidad_autonoma": "Comunidad Valenciana",
+      "inauguracion": "2008",
+      "diametro_m": "6.0",
+      "asientos": 30,
+      "equipo": "Digital system Immersive_Adventure MIP-1080"
+    },
+    {
+      "planetario": "360 Lab",
+      "ciudad": "Lérida, Avinguda de l'Exercit, 33. 4a-9a",
+      "comunidad_autonoma": "Cataluña",
+      "inauguracion": "2017",
+      "diametro_m": "6.0",
+      "asientos": 30,
+      "equipo": "Digital system Immersive_Adventure LUX-1200"
+    },
+    {
+      "planetario": "Planetario Comarca Gudar Javalambre",
+      "ciudad": "Mora de Rubielos (Teruel), C/ La Comarca, s/n",
+      "comunidad_autonoma": "Aragón",
+      "inauguracion": "2018",
+      "diametro_m": "6.0",
+      "asientos": 30,
+      "equipo": "Digital system Immersive_Adventure MINI-1080"
+    },
+    {
+      "planetario": "Escuela de Ciencias",
+      "ciudad": "Titaguas (Valencia), calle Ronda Exterior, 48",
+      "comunidad_autonoma": "Comunidad Valenciana",
+      "inauguracion": "2019",
+      "diametro_m": "5.5",
+      "asientos": 30,
+      "equipo": "Digital system Immersive_Adventure MINI-1080"
+    },
+    {
+      "planetario": "Cinedome VR360",
+      "ciudad": "Gijón, calle Socorro, 30",
+      "comunidad_autonoma": "Principado de Asturias",
+      "inauguracion": "2019",
+      "diametro_m": "5.5",
+      "asientos": 30,
+      "equipo": "Digital system Immersive_Adventure MINI-1080"
+    },
+    {
+      "planetario": "Aossa Extremadura S.L.",
+      "ciudad": "Cáceres, calle Sgto. Serrano Leite, 2, 4 bajo",
+      "comunidad_autonoma": "Extremadura",
+      "inauguracion": "2004",
+      "diametro_m": "5.0",
+      "asientos": 25,
+      "equipo": "Digital system Immersive_Adventure MINI-1080"
+    },
+    {
+      "planetario": "Sociedad Malaguena de Astronomía",
+      "ciudad": "Málaga, c/ República Argentina, n 9, Urb. El Limonar",
+      "comunidad_autonoma": "Andalucía",
+      "inauguracion": "?",
+      "diametro_m": "5.0",
+      "asientos": 25,
+      "equipo": "Starball projector GOTO EX-3"
+    },
+    {
+      "planetario": "Planetario Ciencia Kids",
+      "ciudad": "Lugo, c/ Círculo de las Artes, 5",
+      "comunidad_autonoma": "Galicia",
+      "inauguracion": "2018",
+      "diametro_m": "5.0",
+      "asientos": 25,
+      "equipo": "Digital system Immersive_Adventure MIP-1080"
+    },
+    {
+      "planetario": "Planetario Movil Atenea",
+      "ciudad": "Burgos, calle Vitoria 109 bajo",
+      "comunidad_autonoma": "Castilla y León",
+      "inauguracion": "?",
+      "diametro_m": "4.0",
+      "asientos": 20,
+      "equipo": ""
+    },
+    {
+      "planetario": "Kosmos Lanzarote",
+      "ciudad": "Arrecife, Avd. de Naos 2 (Lanzarote)",
+      "comunidad_autonoma": "Canarias",
+      "inauguracion": "1970",
+      "diametro_m": "8.0",
+      "asientos": 40,
+      "equipo": "Starball projector ZEISS ZKP1 Digital system Digitalis_Education Digitarium-Kappa"
+    },
+    {
+      "planetario": "Museo Elder de la Ciencia y la Tecnología",
+      "ciudad": "Las Palmas de Gran Canaria, Parque de Santa Catalina - s/n",
+      "comunidad_autonoma": "Canarias",
+      "inauguracion": "2006",
+      "diametro_m": "7.3",
+      "asientos": 41,
+      "equipo": "Digital system RSA-Cosmos SkyExplorer solo"
+    },
+    {
+      "planetario": "Volcano Teide Experience Planetarium",
+      "ciudad": "Cañadas del Teide, Santa Cruz de Tenerife",
+      "comunidad_autonoma": "Canarias",
+      "inauguracion": "2018",
+      "diametro_m": "5.0",
+      "asientos": 25,
+      "equipo": "Digital system Immersive_Adventure LUX-1200"
+    }
+  ],
+  "meta": {
+    "title": "Planetarios de España - Free Download",
+    "description": "Lista de planetarios de España con ciudad, comunidad autónoma, fecha de inauguración, diámetro de la cúpula, número de asientos y equipo de proyección. Contains 57 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Planetarios de España | ListBase",
+    "seo_description": "Download Planetarios de España — 57 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 57 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Planetarios_de_España"
+    ]
+  }
+}

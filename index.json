@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-02T02:24:12.699Z",
-  "total_datasets": 513,
-  "total_records": 427864,
+  "generated": "2026-11-02T02:24:20.908Z",
+  "total_datasets": 514,
+  "total_records": 427921,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "entertainment",
@@ -467,6 +467,34 @@
         "xlsx": {
           "name": "es-provincias-renta-per-capita_ES.xlsx",
           "size": 10825
+        }
+      }
+    },
+    {
+      "id": "es-planetarios-de-espana",
+      "name": "Planetarios de España",
+      "category": "education",
+      "record_count": 57,
+      "columns": [
+        "planetario",
+        "ciudad",
+        "comunidad_autonoma",
+        "inauguracion",
+        "diametro_m",
+        "asientos",
+        "equipo"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Planetarios_de_España",
+      "updated": "2026-11",
+      "size": 19553,
+      "files": {
+        "csv": {
+          "name": "es-planetarios-de-espana_ES.csv",
+          "size": 8795
+        },
+        "xlsx": {
+          "name": "es-planetarios-de-espana_ES.xlsx",
+          "size": 11552
         }
       }
     },
