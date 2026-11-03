@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-02T02:24:42.545Z",
-  "total_datasets": 517,
-  "total_records": 428194,
+  "generated": "2026-11-03T02:13:12.715Z",
+  "total_datasets": 518,
+  "total_records": 428223,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -2474,6 +2474,33 @@
         "xlsx": {
           "name": "es-pais-vasco-hospitales-diagnosticos_ES.xlsx",
           "size": 19266
+        }
+      }
+    },
+    {
+      "id": "es-batallas-independencia-de-mexico",
+      "name": "Batallas de la Guerra de Independencia de México",
+      "category": "history",
+      "record_count": 29,
+      "columns": [
+        "batalla",
+        "etapa",
+        "inicio",
+        "fin",
+        "lugar",
+        "resultado"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Batallas_de_la_Guerra_de_Independencia_de_México",
+      "updated": "2026-11",
+      "size": 10066,
+      "files": {
+        "csv": {
+          "name": "es-batallas-independencia-de-mexico_ES.csv",
+          "size": 4947
+        },
+        "xlsx": {
+          "name": "es-batallas-independencia-de-mexico_ES.xlsx",
+          "size": 8352
         }
       }
     },

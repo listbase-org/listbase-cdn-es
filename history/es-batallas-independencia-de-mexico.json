@@ -1,0 +1,288 @@
+{
+  "id": "es-batallas-independencia-de-mexico",
+  "name": "Batallas de la Guerra de Independencia de México",
+  "title": "Batallas de la Guerra de Independencia de México",
+  "description": "Batallas de la Guerra de Independencia de México (1810-1821) por etapa, con fecha de inicio y fin, lugar y resultado.",
+  "category": "history",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Batallas_de_la_Guerra_de_Independencia_de_México",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Batallas_de_la_Guerra_de_Independencia_de_México",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "batalla",
+      "label": "Batalla",
+      "type": "string"
+    },
+    {
+      "key": "etapa",
+      "label": "Etapa",
+      "type": "string"
+    },
+    {
+      "key": "inicio",
+      "label": "Inicio",
+      "type": "string"
+    },
+    {
+      "key": "fin",
+      "label": "Fin",
+      "type": "string"
+    },
+    {
+      "key": "lugar",
+      "label": "Lugar",
+      "type": "string"
+    },
+    {
+      "key": "resultado",
+      "label": "Resultado",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "batalla": "Toma de la Alhóndiga de Granaditas",
+      "etapa": "Etapa de Iniciación (1810 - 1811)",
+      "inicio": "28/09/1810",
+      "fin": "28/09/1810",
+      "lugar": "Guanajuato, Guanajuato",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Toma de Valladolid",
+      "etapa": "Etapa de Iniciación (1810 - 1811)",
+      "inicio": "17 de octubre de 1810",
+      "fin": "17 de octubre de 1810",
+      "lugar": "Morelia, Michoacán",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Batalla del Monte de las Cruces",
+      "etapa": "Etapa de Iniciación (1810 - 1811)",
+      "inicio": "30 de octubre de 1810",
+      "fin": "30 de octubre de 1810",
+      "lugar": "Ocoyoacac, Estado de México",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Batalla de Aculco",
+      "etapa": "Etapa de Iniciación (1810 - 1811)",
+      "inicio": "7 de noviembre de 1810",
+      "fin": "7 de noviembre de 1810",
+      "lugar": "Aculco, Estado de México",
+      "resultado": "Victoria realista"
+    },
+    {
+      "batalla": "Toma de Guadalajara",
+      "etapa": "Etapa de Iniciación (1810 - 1811)",
+      "inicio": "10 de noviembre de 1810",
+      "fin": "26 de noviembre de 1810",
+      "lugar": "Guadalajara, Jalisco",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Batalla de Guanajuato",
+      "etapa": "Etapa de Iniciación (1810 - 1811)",
+      "inicio": "26 de noviembre de 1810",
+      "fin": "26 de noviembre de 1810",
+      "lugar": "Guanajuato, Guanajuato",
+      "resultado": "Victoria realista"
+    },
+    {
+      "batalla": "Batalla de Real del Rosario",
+      "etapa": "Etapa de Iniciación (1810 - 1811)",
+      "inicio": "18 de diciembre de 1810",
+      "fin": "18 de diciembre de 1810",
+      "lugar": "Real del Rosario, Sinaloa",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Batalla de Tres Palos",
+      "etapa": "Etapa de Iniciación (1810 - 1811)",
+      "inicio": "4 de enero de 1811",
+      "fin": "4 de enero de 1811",
+      "lugar": "Acapulco, Guerrero",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Batalla de Aguanueva",
+      "etapa": "Etapa de Iniciación (1810 - 1811)",
+      "inicio": "7 de enero de 1811",
+      "fin": "7 de enero de 1811",
+      "lugar": "Hacienda de Aguanueva, Coahuila",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Batalla de Urepetiro",
+      "etapa": "Etapa de Iniciación (1810 - 1811)",
+      "inicio": "14 de enero de 1811",
+      "fin": "14 de enero de 1811",
+      "lugar": "Tlazazalca, Michoacán",
+      "resultado": "Victoria realista"
+    },
+    {
+      "batalla": "Batalla de Puente de Calderón",
+      "etapa": "Etapa de Iniciación (1810 - 1811)",
+      "inicio": "17 de enero de 1811",
+      "fin": "17 de enero de 1811",
+      "lugar": "Zapotlanejo, Jalisco",
+      "resultado": "Victoria realista"
+    },
+    {
+      "batalla": "Batalla de Puerto del Carnero",
+      "etapa": "Etapa de Iniciación (1810 - 1811)",
+      "inicio": "20 de enero de 1811",
+      "fin": "20 de enero de 1811",
+      "lugar": "Puerto del Carnero, Coahuila",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Batalla de San Ignacio de Piaxtla",
+      "etapa": "Etapa de Iniciación (1810 - 1811)",
+      "inicio": "8 de febrero de 1811",
+      "fin": "8 de febrero de 1811",
+      "lugar": "San Ignacio, Sinaloa",
+      "resultado": "Victoria realista"
+    },
+    {
+      "batalla": "Batalla de Cañada de Los Naranjos",
+      "etapa": "Etapas de Resistencia y Consumación (1815 - 1821)",
+      "inicio": "7 de noviembre de 1816",
+      "fin": "7 de noviembre de 1816",
+      "lugar": "Acatlán, Puebla",
+      "resultado": "Victoria realista"
+    },
+    {
+      "batalla": "Batalla del Valle de Maíz",
+      "etapa": "Etapas de Resistencia y Consumación (1815 - 1821)",
+      "inicio": "8 de junio de 1817",
+      "fin": "8 de junio de 1817",
+      "lugar": "Ciudad del Maíz, estado de México",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Sitio de Soto la Marina",
+      "etapa": "Etapas de Resistencia y Consumación (1815 - 1821)",
+      "inicio": "12 de junio de 1817",
+      "fin": "15 de junio de 1817",
+      "lugar": "Soto la Marina, Tamaulipas",
+      "resultado": "Victoria realista"
+    },
+    {
+      "batalla": "Batalla de Peotillos",
+      "etapa": "Etapas de Resistencia y Consumación (1815 - 1821)",
+      "inicio": "15 de junio de 1817",
+      "fin": "15 de junio de 1817",
+      "lugar": "Peotillos, San Luis Potosí",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Batalla de Los Arrastraderos",
+      "etapa": "Etapas de Resistencia y Consumación (1815 - 1821)",
+      "inicio": "28 de junio de 1817",
+      "fin": "28 de junio de 1817",
+      "lugar": "San Juan de los Llanos, Guanajuato",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Batalla del Fuerte del Sombrero",
+      "etapa": "Etapas de Resistencia y Consumación (1815 - 1821)",
+      "inicio": "4 de agosto de 1817",
+      "fin": "4 de agosto de 1817",
+      "lugar": "Lagos de Moreno, Jalisco",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Batalla del Cerro de Cóporo",
+      "etapa": "Etapas de Resistencia y Consumación (1815 - 1821)",
+      "inicio": "1 de septiembre de 1817",
+      "fin": "1 de septiembre de 1817",
+      "lugar": "Zitácuaro, Michoacán",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Batalla de San Diego de la Unión",
+      "etapa": "Etapas de Resistencia y Consumación (1815 - 1821)",
+      "inicio": "3 de septiembre de 1817",
+      "fin": "3 de septiembre de 1817",
+      "lugar": "San Diego de la Unión, Guanajuato",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Batalla de El Tamo",
+      "etapa": "Etapas de Resistencia y Consumación (1815 - 1821)",
+      "inicio": "15 de septiembre de 1818",
+      "fin": "15 de septiembre de 1818",
+      "lugar": "El Tamo, Michoacán",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Batalla de Cerro de Barrabás",
+      "etapa": "Etapas de Resistencia y Consumación (1815 - 1821)",
+      "inicio": "30 de septiembre de 1818",
+      "fin": "30 de septiembre de 1818",
+      "lugar": "Zirándaro, Guerrero",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Batalla de Agua Zarca",
+      "etapa": "Etapas de Resistencia y Consumación (1815 - 1821)",
+      "inicio": "5 de noviembre de 1819",
+      "fin": "5 de noviembre de 1819",
+      "lugar": "Agua Zarca, Guerrero",
+      "resultado": "Victoria realista"
+    },
+    {
+      "batalla": "Batalla de Zapotepec",
+      "etapa": "Etapas de Resistencia y Consumación (1815 - 1821)",
+      "inicio": "2 de enero de 1821",
+      "fin": "2 de enero de 1821",
+      "lugar": "Zapotepec, Guerrero",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Batalla de Córdoba",
+      "etapa": "Etapas de Resistencia y Consumación (1815 - 1821)",
+      "inicio": "21 de mayo de 1821",
+      "fin": "21 de mayo de 1821",
+      "lugar": "Villa de Córdoba, Estado de Veracruz",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Asedio de Veracruz",
+      "etapa": "Etapas de Resistencia y Consumación (1815 - 1821)",
+      "inicio": "23 de junio de 1821",
+      "fin": "7 de julio de 1821",
+      "lugar": "Veracruz, Estado de Veracruz",
+      "resultado": "Victoria realista"
+    },
+    {
+      "batalla": "Batalla de Azcapotzalco",
+      "etapa": "Etapas de Resistencia y Consumación (1815 - 1821)",
+      "inicio": "19 de agosto de 1821",
+      "fin": "19 de agosto de 1821",
+      "lugar": "Azcapotzalco, Ciudad de México",
+      "resultado": "Victoria insurgente"
+    },
+    {
+      "batalla": "Batalla de Durango",
+      "etapa": "Etapas de Resistencia y Consumación (1815 - 1821)",
+      "inicio": "30 de agosto de 1821",
+      "fin": "30 de agosto de 1821",
+      "lugar": "Victoria de Durango, Durango",
+      "resultado": "Victoria insurgente"
+    }
+  ],
+  "meta": {
+    "title": "Batallas de la Guerra de Independencia de México - Free Download",
+    "description": "Batallas de la Guerra de Independencia de México (1810-1821) por etapa, con fecha de inicio y fin, lugar y resultado. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Batallas de la Guerra de Independencia de México | ListBase",
+    "seo_description": "Download Batallas de la Guerra de Independencia de México — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Batallas_de_la_Guerra_de_Independencia_de_México"
+    ]
+  }
+}
