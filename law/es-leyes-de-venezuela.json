@@ -1,0 +1,3040 @@
+{
+  "id": "es-leyes-de-venezuela",
+  "name": "Leyes de Venezuela",
+  "title": "Leyes de Venezuela",
+  "description": "Listado de códigos, leyes orgánicas, leyes especiales y decretos con rango de ley de Venezuela, con el número y la fecha de la Gaceta Oficial en que se publicaron.",
+  "category": "law",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Leyes_de_Venezuela",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Leyes_de_Venezuela",
+  "updated": "2026-11",
+  "record_count": 499,
+  "columns": [
+    {
+      "key": "ley",
+      "label": "Ley",
+      "type": "string"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "gaceta_oficial_numero",
+      "label": "Gaceta Oficial Numero",
+      "type": "string"
+    },
+    {
+      "key": "gaceta_oficial_fecha",
+      "label": "Gaceta Oficial Fecha",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ley": "Código Orgánico Procesal Penal",
+      "tipo": "Códigos Orgánicos",
+      "gaceta_oficial_numero": "6644 Ext.",
+      "gaceta_oficial_fecha": "17/09/2021"
+    },
+    {
+      "ley": "Ley Orgánica de Reforma Parcial del Código de Justicia Militar",
+      "tipo": "Códigos Orgánicos",
+      "gaceta_oficial_numero": "6646 Ext.",
+      "gaceta_oficial_fecha": "17/09/2021"
+    },
+    {
+      "ley": "Ley de Reforma Parcial del Código Orgánico Penitenciario",
+      "tipo": "Códigos Orgánicos",
+      "gaceta_oficial_numero": "6647 Ext.",
+      "gaceta_oficial_fecha": "17/09/2021"
+    },
+    {
+      "ley": "Ley Orgánica de la Academia Nacional de Medicina",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "20557",
+      "gaceta_oficial_fecha": "05/08/1941"
+    },
+    {
+      "ley": "Ley Orgánica de la Renta de Salinas",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "25425",
+      "gaceta_oficial_fecha": "07/08/1957"
+    },
+    {
+      "ley": "Ley Orgánica de Tribunales y Procedimientos del Trabajo",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "26116",
+      "gaceta_oficial_fecha": "19/11/1959"
+    },
+    {
+      "ley": "Ley Orgánica de la Hacienda Pública Nacional",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "1660 Ext.",
+      "gaceta_oficial_fecha": "21/06/1974"
+    },
+    {
+      "ley": "Ley Orgánica de Procedimientos Administrativos",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "2818 Ext.",
+      "gaceta_oficial_fecha": "01/07/1981"
+    },
+    {
+      "ley": "Ley Orgánica de Ordenación del Territorio",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "3238 Ext.",
+      "gaceta_oficial_fecha": "11/08/1983"
+    },
+    {
+      "ley": "Ley Orgánica de Liquidación del Fondo de Compensación Cambiaria",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "33556",
+      "gaceta_oficial_fecha": "16/09/1986"
+    },
+    {
+      "ley": "Ley Orgánica del Servicio Consular",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "3998 Ext.",
+      "gaceta_oficial_fecha": "21/08/1987"
+    },
+    {
+      "ley": "Ley Orgánica de Ordenación Urbanística",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "33868",
+      "gaceta_oficial_fecha": "16/12/1987"
+    },
+    {
+      "ley": "Ley Orgánica de Amparo sobre Derechos y Garantías Constitucionales",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "34060",
+      "gaceta_oficial_fecha": "27/09/1988"
+    },
+    {
+      "ley": "Ley Orgánica del Poder Judicial",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "5262 Ext.",
+      "gaceta_oficial_fecha": "11/09/1998"
+    },
+    {
+      "ley": "Ley Orgánica de Salud",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "36579",
+      "gaceta_oficial_fecha": "11/11/1998"
+    },
+    {
+      "ley": "Ley Orgánica de Régimen Presupuestario",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "36916",
+      "gaceta_oficial_fecha": "22/03/2000"
+    },
+    {
+      "ley": "Ley Orgánica Sobre Estados de Excepción",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "37261",
+      "gaceta_oficial_fecha": "15/08/2001"
+    },
+    {
+      "ley": "Ley Orgánica de los Consejos Legislativos de los Estados",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "37282",
+      "gaceta_oficial_fecha": "13/09/2001"
+    },
+    {
+      "ley": "Ley Orgánica Sobre Refugiados o Refugiadas y Asilados o Asiladas",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "37296",
+      "gaceta_oficial_fecha": "03/10/2001"
+    },
+    {
+      "ley": "Ley Orgánica del Poder Ciudadano",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "37310",
+      "gaceta_oficial_fecha": "25/10/2001"
+    },
+    {
+      "ley": "Ley Orgánica de Contribuciones Parafiscales para el Sector Agrícola",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "37337",
+      "gaceta_oficial_fecha": "03/12/2001"
+    },
+    {
+      "ley": "Ley Orgánica Procesal del Trabajo",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "37504",
+      "gaceta_oficial_fecha": "13/08/2002"
+    },
+    {
+      "ley": "Ley Orgánica del Poder Electoral",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "37573",
+      "gaceta_oficial_fecha": "19/11/2002"
+    },
+    {
+      "ley": "Ley Orgánica de la Defensoría del Pueblo",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "37995",
+      "gaceta_oficial_fecha": "05/08/2004"
+    },
+    {
+      "ley": "Ley Orgánica de Prevención, Condiciones y Medio Ambiente de Trabajo",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "38236",
+      "gaceta_oficial_fecha": "26/07/2005"
+    },
+    {
+      "ley": "Ley Orgánica de Pueblos y Comunidades Indígenas",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "38344",
+      "gaceta_oficial_fecha": "27/12/2005"
+    },
+    {
+      "ley": "Ley Orgánica del Ambiente",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "5833 Ext.",
+      "gaceta_oficial_fecha": "22/12/2006"
+    },
+    {
+      "ley": "Ley Orgánica del Ministerio Público",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "38647",
+      "gaceta_oficial_fecha": "19/03/2007"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley Orgánica para la Prestación de los Servicios de Agua Potable y de Saneamiento",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "38763",
+      "gaceta_oficial_fecha": "06/09/2007"
+    },
+    {
+      "ley": "Ley Orgánica del Reordenamiento del Mercado Interno de los Combustibles Líquidos",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "39019",
+      "gaceta_oficial_fecha": "18/09/2008"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley Orgánica de Descentralización, Delimitación y Transferencia de Competencias del Poder Público",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "39140",
+      "gaceta_oficial_fecha": "17/03/2009"
+    },
+    {
+      "ley": "Ley Orgánica que Reserva al Estado Bienes y Servicios Conexos a las Actividades Primarias de Hidrocarburos",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "39173",
+      "gaceta_oficial_fecha": "07/05/2009"
+    },
+    {
+      "ley": "Ley Orgánica de Procesos Electorales",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "5928 Ext.",
+      "gaceta_oficial_fecha": "12/08/2009"
+    },
+    {
+      "ley": "Ley Orgánica de Educación",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "5929 Ext.",
+      "gaceta_oficial_fecha": "15/08/2009"
+    },
+    {
+      "ley": "Ley Orgánica de Registro Civil",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "39264",
+      "gaceta_oficial_fecha": "15/09/2009"
+    },
+    {
+      "ley": "Ley Orgánica del Servicio de Policía y del Cuerpo de Policía Nacional Bolivariana",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "5940 Ext.",
+      "gaceta_oficial_fecha": "07/12/2009"
+    },
+    {
+      "ley": "Ley Orgánica del Consejo Federal de Gobierno",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "5963 Ext.",
+      "gaceta_oficial_fecha": "22/02/2010"
+    },
+    {
+      "ley": "Ley Orgánica de la Jurisdicción Contencioso Administrativa",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "39451",
+      "gaceta_oficial_fecha": "22/06/2010"
+    },
+    {
+      "ley": "Ley Orgánica de Drogas",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "39546",
+      "gaceta_oficial_fecha": "05/11/2010"
+    },
+    {
+      "ley": "Ley Orgánica del Sistema y Servicio Eléctrico",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "39573",
+      "gaceta_oficial_fecha": "14/12/2010"
+    },
+    {
+      "ley": "Ley Orgánica del Sistema Económico Comunal",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6011 Ext.",
+      "gaceta_oficial_fecha": "21/12/2010"
+    },
+    {
+      "ley": "Ley Orgánica de la Contraloría General de la República y del Sistema Nacional de Control Fiscal",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6013 Ext.",
+      "gaceta_oficial_fecha": "23/12/2010"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley Orgánica del Poder Público Municipal",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6015 Ext.",
+      "gaceta_oficial_fecha": "28/12/2010"
+    },
+    {
+      "ley": "Ley Orgánica de Telecomunicaciones",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "39610",
+      "gaceta_oficial_fecha": "07/02/2011"
+    },
+    {
+      "ley": "Ley Orgánica de Deporte, Actividad Física y Educación Física",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "39741",
+      "gaceta_oficial_fecha": "23/08/2011"
+    },
+    {
+      "ley": "Ley Orgánica Contra la Delincuencia Organizada y Financiamiento al Terrorismo",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "39912",
+      "gaceta_oficial_fecha": "30/04/2012"
+    },
+    {
+      "ley": "Ley Orgánica de Servicio Exterior",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "40217",
+      "gaceta_oficial_fecha": "30/07/2013"
+    },
+    {
+      "ley": "Ley Orgánica para la Protección de Niños, Niñas y Adolescentes",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6185 Ext.",
+      "gaceta_oficial_fecha": "08/06/2015"
+    },
+    {
+      "ley": "Ley Orgánica del Servicio de Bombero, de los Cuerpos de Bomberos y Bomberas, y Administración de Emergencia de Carácter Civil",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6207 Ext.",
+      "gaceta_oficial_fecha": "28/12/2015"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley Orgánica de Recreación",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6634 Ext.",
+      "gaceta_oficial_fecha": "07/07/2021"
+    },
+    {
+      "ley": "Ley Orgánica para la Atención y Desarrollo Integral de las Personas Adultas Mayores",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6641 Ext.",
+      "gaceta_oficial_fecha": "13/09/2021"
+    },
+    {
+      "ley": "Ley Orgánica de Amparo a la Libertad y Seguridad Personal",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6651 Ext.",
+      "gaceta_oficial_fecha": "22/09/2021"
+    },
+    {
+      "ley": "Ley Orgánica de Reforma Parcial de la Ley Orgánica Contra la Discriminación Racial",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6657 Ext.",
+      "gaceta_oficial_fecha": "28/10/2021"
+    },
+    {
+      "ley": "Ley Orgánica sobre el Derecho de las Mujeres a una Vida Libre de Violencia",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6667 Ext.",
+      "gaceta_oficial_fecha": "16/12/2021"
+    },
+    {
+      "ley": "Ley Orgánica de Ciencia, Tecnología e Innovación",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6693 Ext.",
+      "gaceta_oficial_fecha": "01/04/2022"
+    },
+    {
+      "ley": "Ley Orgánica de Reforma Parcial de la Ley Orgánica de la Defensa Pública",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6702 Ext.",
+      "gaceta_oficial_fecha": "25/05/2022"
+    },
+    {
+      "ley": "Ley Orgánica de las Zonas Económicas Especiales",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6710 Ext.",
+      "gaceta_oficial_fecha": "20/07/2022"
+    },
+    {
+      "ley": "Ley Orgánica de Extinción de Dominio",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6745 Ext.",
+      "gaceta_oficial_fecha": "28/04/2023"
+    },
+    {
+      "ley": "Ley Orgánica de Contraloría Social",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6748 Ext.",
+      "gaceta_oficial_fecha": "09/06/2023"
+    },
+    {
+      "ley": "Ley Orgánica de Coordinación y Armonización de las Potestades Tributarias de los Estados y Municipios",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6755 Ext.",
+      "gaceta_oficial_fecha": "10/08/2023"
+    },
+    {
+      "ley": "Ley Orgánica de los Consejos Comunales",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6759 Ext.",
+      "gaceta_oficial_fecha": "25/08/2023"
+    },
+    {
+      "ley": "Ley Orgánica para la Defensa de la Guayana Esequiba",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6798 Ext.",
+      "gaceta_oficial_fecha": "03/04/2024"
+    },
+    {
+      "ley": "Ley Orgánica de Reforma de la Ley Orgánica del Poder Popular",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6812 Ext.",
+      "gaceta_oficial_fecha": "06/06/2024"
+    },
+    {
+      "ley": "Ley Orgánica para la Inclusión, Igualdad y Desarrollo Integral de las Personas con Discapacidad",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6817 Ext.",
+      "gaceta_oficial_fecha": "27/06/2024"
+    },
+    {
+      "ley": "Ley Orgánica de Justicia de Paz Comunal",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6854 Ext.",
+      "gaceta_oficial_fecha": "14/11/2024"
+    },
+    {
+      "ley": "Ley Orgánica Libertador Simón Bolívar contra el Bloqueo Imperialista y en Defensa de la República Bolivariana de Venezuela",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6859 Ext.",
+      "gaceta_oficial_fecha": "29/11/2024"
+    },
+    {
+      "ley": "Ley Orgánica de las Comunas",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6872 Ext.",
+      "gaceta_oficial_fecha": "30/12/2024"
+    },
+    {
+      "ley": "Ley Orgánica de Hidrocarburos",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "6978 Ext.",
+      "gaceta_oficial_fecha": "29/01/2026"
+    },
+    {
+      "ley": "Ley Orgánica para la Celeridad y Optimización de Trámites Administrativos",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "7018 Ext.",
+      "gaceta_oficial_fecha": "08/04/2026"
+    },
+    {
+      "ley": "Ley Orgánica de Minas",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "7020 Ext.",
+      "gaceta_oficial_fecha": "16/04/2026"
+    },
+    {
+      "ley": "Ley Orgánica del Tribunal Supremo de Justicia",
+      "tipo": "Leyes Orgánicas",
+      "gaceta_oficial_numero": "7025 Ext.",
+      "gaceta_oficial_fecha": "22/05/2026"
+    },
+    {
+      "ley": "Decreto con Rango y Fuerza de Ley Orgánica de Hidrocarburos Gaseosos",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "36793",
+      "gaceta_oficial_fecha": "23/09/1999"
+    },
+    {
+      "ley": "Decreto con Rango y Fuerza de Ley Orgánica sobre Promoción de la Inversión Privada bajo el Régimen de Concesiones",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "5394 Ext.",
+      "gaceta_oficial_fecha": "25/10/1999"
+    },
+    {
+      "ley": "Decreto Nº 1531 con Rango y Fuerza de Ley de Reforma Parcial del Estatuto Orgánico del Desarrollo Guayana",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "5553 Ext.",
+      "gaceta_oficial_fecha": "12/11/2001"
+    },
+    {
+      "ley": "Decreto Nº 6058 con Rango, Valor y Fuerza de Ley Orgánica de Ordenación de las Empresas que Desarrollan Actividades en el Sector Siderúrgico, en la Región de Guayana",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "38928",
+      "gaceta_oficial_fecha": "12/05/2008"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica de Ordenación de las Empresas Productoras de Cemento",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "5886 Ext.",
+      "gaceta_oficial_fecha": "18/06/2008"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica de Seguridad y Soberanía Agroalimentaria",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "5889 Ext.",
+      "gaceta_oficial_fecha": "31/07/2008"
+    },
+    {
+      "ley": "Ley de Reforma Parcial del Decreto N° 5330 con Rango, Valor y Fuerza de Ley Orgánica de Reorganización del Sector Eléctrico",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "39493",
+      "gaceta_oficial_fecha": "23/08/2010"
+    },
+    {
+      "ley": "Decreto N° 8006 con Rango, Valor y Fuerza de Ley de Reforma Parcial de la Ley Orgánica de Creación de la Comisión Central de Planificación",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "39604",
+      "gaceta_oficial_fecha": "28/01/2011"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica de Emergencia para Terrenos y Vivienda",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "39626",
+      "gaceta_oficial_fecha": "01/03/2011"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica de las Dependencias Federales",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "39787",
+      "gaceta_oficial_fecha": "27/10/2011"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica del Consejo de Estado",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "39865",
+      "gaceta_oficial_fecha": "15/02/2012"
+    },
+    {
+      "ley": "Decreto N° 8863 con Rango, Valor y Fuerza de Ley Orgánica de Reforma Parcial del Decreto Con Rango, Valor y Fuerza de Ley Orgánica de Creación del Fondo Simón Bolívar para la Reconstrucción",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "39892",
+      "gaceta_oficial_fecha": "27/03/2012"
+    },
+    {
+      "ley": "Ley de Reforma Parcial del Decreto N° 6243 con Rango, Valor y Fuerza de Ley Orgánica del Sistema de Seguridad Social",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "39912",
+      "gaceta_oficial_fecha": "30/04/2012"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica Relativa al Fondo de Ahorro Nacional de la Clase Obrera y al Fondo de Ahorro Popular",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "39915",
+      "gaceta_oficial_fecha": "04/05/2012"
+    },
+    {
+      "ley": "Decreto N° 8938 con Rango, Valor y Fuerza de Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6076 Ext.",
+      "gaceta_oficial_fecha": "07/05/2012"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica del Servicio de la Policía de Investigación, el Cuerpo de Investigaciones Científicas, Penales y Criminalísticas y el Instituto Nacional de Medicina y Ciencias Forenses",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6079 Ext.",
+      "gaceta_oficial_fecha": "15/06/2012"
+    },
+    {
+      "ley": "Ley de Reforma Parcial del Decreto con Rango, Valor y Fuerza de Ley Orgánica para la Gestión Comunitaria de Competencias, Servicios y Otras Atribuciones",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "40540",
+      "gaceta_oficial_fecha": "13/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica de la Administración Pública",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6147 Ext.",
+      "gaceta_oficial_fecha": "17/11/2014"
+    },
+    {
+      "ley": "Decreto N° 1406 con Rango, Valor y Fuerza de Ley de Reforma Parcial de la Ley Orgánica de Planificación Pública y Popular",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6148 Ext.",
+      "gaceta_oficial_fecha": "18/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica de Turismo",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6152 Ext.",
+      "gaceta_oficial_fecha": "18/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica de los Espacios Acuáticos",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6153 Ext.",
+      "gaceta_oficial_fecha": "18/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica de Cultura",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6154 Ext.",
+      "gaceta_oficial_fecha": "19/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica de Bienes Públicos",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6155 Ext.",
+      "gaceta_oficial_fecha": "19/11/2014"
+    },
+    {
+      "ley": "Decreto N° 1412 con Rango, Valor y Fuerza de Ley de Reforma Parcial de la Ley Orgánica de Identificación",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6155 Ext.",
+      "gaceta_oficial_fecha": "19/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica de Seguridad de la Nación",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6156 Ext.",
+      "gaceta_oficial_fecha": "19/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica de Precios Justos",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "40787",
+      "gaceta_oficial_fecha": "12/11/2015"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica de Seguridad Social de la Fuerza Armada Nacional Bolivariana",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6209 Ext.",
+      "gaceta_oficial_fecha": "29/12/2015"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica de Fronteras",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6210 Ext.",
+      "gaceta_oficial_fecha": "30/12/2015"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica para el Desarrollo de las Actividades Petroquímicas",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6210 Ext.",
+      "gaceta_oficial_fecha": "30/12/2015"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Reforma Parcial del Decreto con Rango, Valor y Fuerza de Ley Orgánica de la Administración Financiera del Sector Público",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6210 Ext.",
+      "gaceta_oficial_fecha": "30/12/2015"
+    },
+    {
+      "ley": "Decreto N° 2179 con Rango, Valor y Fuerza de Ley Orgánica de Reforma Parcial de la Ley del Banco Central de Venezuela",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6211 Ext.",
+      "gaceta_oficial_fecha": "30/12/2015"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Orgánica de la Procuraduría General de la República",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6220 Ext.",
+      "gaceta_oficial_fecha": "15/03/2016"
+    },
+    {
+      "ley": "Ley Orgánica de Reforma Parcial del Decreto con Rango, Valor y Fuerza de Ley Orgánica de Misiones, Grandes Misiones y Micro Misiones",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Orgánica",
+      "gaceta_oficial_numero": "6666 Ext.",
+      "gaceta_oficial_fecha": "11/11/2021"
+    },
+    {
+      "ley": "Ley Especial que Eleva a la Categoría de Estado al Territorio Federal Delta Amacuro",
+      "tipo": "Leyes Especiales",
+      "gaceta_oficial_numero": "4295 Ext.",
+      "gaceta_oficial_fecha": "03/08/1991"
+    },
+    {
+      "ley": "Ley Especial que Eleva a la Categoría de Estado al Territorio Federal Amazonas",
+      "tipo": "Leyes Especiales",
+      "gaceta_oficial_numero": "35015",
+      "gaceta_oficial_fecha": "29/07/1992"
+    },
+    {
+      "ley": "Ley Especial que Eleva a la Categoría de Estado al Territorio Federal Vargas",
+      "tipo": "Leyes Especiales",
+      "gaceta_oficial_numero": "36488",
+      "gaceta_oficial_fecha": "03/07/1998"
+    },
+    {
+      "ley": "Ley Especial para la Ratificación o Designación de los Funcionarios o Funcionarias del Poder Ciudadano y Magistrados y Magistradas del Tribunal Supremo de Justicia para su Primer Periodo Constitucional",
+      "tipo": "Leyes Especiales",
+      "gaceta_oficial_numero": "37077",
+      "gaceta_oficial_fecha": "14/11/2000"
+    },
+    {
+      "ley": "Ley Especial contra Los Delitos Informáticos",
+      "tipo": "Leyes Especiales",
+      "gaceta_oficial_numero": "37313",
+      "gaceta_oficial_fecha": "30/10/2001"
+    },
+    {
+      "ley": "Ley Especial de Supresión y Liquidación del Consejo Nacional de la Vivienda",
+      "tipo": "Leyes Especiales",
+      "gaceta_oficial_numero": "5833 Ext.",
+      "gaceta_oficial_fecha": "22/12/2006"
+    },
+    {
+      "ley": "Ley Especial de Supresión y Liquidación del Servicio Autónomo de Fondos Integrados de Vivienda",
+      "tipo": "Leyes Especiales",
+      "gaceta_oficial_numero": "5833 Ext.",
+      "gaceta_oficial_fecha": "22/12/2006"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley Especial de Protección al Deudor Hipotecario de Vivienda",
+      "tipo": "Leyes Especiales",
+      "gaceta_oficial_numero": "38756",
+      "gaceta_oficial_fecha": "28/08/2007"
+    },
+    {
+      "ley": "Ley Especial Sobre la Organización y Régimen del Distrito Capital",
+      "tipo": "Leyes Especiales",
+      "gaceta_oficial_numero": "39156",
+      "gaceta_oficial_fecha": "13/04/2009"
+    },
+    {
+      "ley": "Ley Especial de Transferencia de los Recursos y Bienes Administrados Transitoriamente por el Distrito Metropolitano de Caracas al Distrito Capital",
+      "tipo": "Leyes Especiales",
+      "gaceta_oficial_numero": "39170",
+      "gaceta_oficial_fecha": "04/05/2009"
+    },
+    {
+      "ley": "Ley Especial de Supresión y Liquidación del Instituto Autónomo Fondo Único Social (IAFUS)",
+      "tipo": "Leyes Especiales",
+      "gaceta_oficial_numero": "39358",
+      "gaceta_oficial_fecha": "01/02/2010"
+    },
+    {
+      "ley": "Ley Especial de Supresión y Liquidación del Instituto Autónomo Corporación para la Recuperación y Desarrollo del Estado Vargas (CORPOVARGAS)",
+      "tipo": "Leyes Especiales",
+      "gaceta_oficial_numero": "39358",
+      "gaceta_oficial_fecha": "01/02/2010"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley Especial del Timbre Fiscal para el Distrito Capital",
+      "tipo": "Leyes Especiales",
+      "gaceta_oficial_numero": "39913",
+      "gaceta_oficial_fecha": "02/05/2012"
+    },
+    {
+      "ley": "Ley Especial para Prevenir y Sancionar la Tortura y Otros Tratos Crueles, Inhumanos o Degradantes",
+      "tipo": "Leyes Especiales",
+      "gaceta_oficial_numero": "40212",
+      "gaceta_oficial_fecha": "22/07/2013"
+    },
+    {
+      "ley": "Ley Especial para las Trabajadoras y Trabajadores con Discapacidad",
+      "tipo": "Leyes Especiales",
+      "gaceta_oficial_numero": "6735 Ext.",
+      "gaceta_oficial_fecha": "27/01/2023"
+    },
+    {
+      "ley": "Decreto con Fuerza de Ley Especial de Asociaciones Cooperativas",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Especial",
+      "gaceta_oficial_numero": "37285",
+      "gaceta_oficial_fecha": "18/09/2001"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Especial de Amnistía",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Especial",
+      "gaceta_oficial_numero": "5870 Ext.",
+      "gaceta_oficial_fecha": "31/12/2007"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Especial de Refugios dignos para Proteger a la Población, en Casos de Emergencias o Desastres",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Especial",
+      "gaceta_oficial_numero": "39599",
+      "gaceta_oficial_fecha": "21/01/2011"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Especial de Regularización Integral de la Tenencia de la Tierra de los Asentamientos Urbanos o Periurbanos",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Especial",
+      "gaceta_oficial_numero": "39668",
+      "gaceta_oficial_fecha": "06/05/2011"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Especial para la Dignificación de Trabajadoras y Trabajadores Residenciales",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Especial",
+      "gaceta_oficial_numero": "39677",
+      "gaceta_oficial_fecha": "20/05/2011"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Especial del Fondo Nacional de Prestaciones Sociales",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Especial",
+      "gaceta_oficial_numero": "39945",
+      "gaceta_oficial_fecha": "15/06/2012"
+    },
+    {
+      "ley": "Código Médico Forense",
+      "tipo": "Códigos Ordinarios",
+      "gaceta_oficial_numero": "-",
+      "gaceta_oficial_fecha": "07/06/1878"
+    },
+    {
+      "ley": "Código de Comercio",
+      "tipo": "Códigos Ordinarios",
+      "gaceta_oficial_numero": "475 Ext.",
+      "gaceta_oficial_fecha": "21/12/1955"
+    },
+    {
+      "ley": "Ley de Reforma Parcial del Código Civil",
+      "tipo": "Códigos Ordinarios",
+      "gaceta_oficial_numero": "2990 Ext.",
+      "gaceta_oficial_fecha": "26/07/1982"
+    },
+    {
+      "ley": "Código de Procedimiento Civil",
+      "tipo": "Códigos Ordinarios",
+      "gaceta_oficial_numero": "4209 Ext.",
+      "gaceta_oficial_fecha": "18/09/1990"
+    },
+    {
+      "ley": "Ley de Reforma Parcial del Código Penal",
+      "tipo": "Códigos Ordinarios",
+      "gaceta_oficial_numero": "5763 Ext.",
+      "gaceta_oficial_fecha": "03/03/2005"
+    },
+    {
+      "ley": "Código de Ética del Juez Venezolano y Jueza Venezolana",
+      "tipo": "Códigos Ordinarios",
+      "gaceta_oficial_numero": "6207 Ext.",
+      "gaceta_oficial_fecha": "28/12/2015"
+    },
+    {
+      "ley": "Ley de Abolición de la Esclavitud",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "-",
+      "gaceta_oficial_fecha": "24/03/1854"
+    },
+    {
+      "ley": "Ley del 16 de abril de 1903, por la Cual se Crea la Condecoración de la Legión de la Defensa Nacional",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "8822",
+      "gaceta_oficial_fecha": "18/04/1903"
+    },
+    {
+      "ley": "Ley de Resguardo de Indígenas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "9227",
+      "gaceta_oficial_fecha": "10/08/1904"
+    },
+    {
+      "ley": "Ley sobre Enseñanza Antialcohólica",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "11046",
+      "gaceta_oficial_fecha": "08/07/1910"
+    },
+    {
+      "ley": "Ley del 19 de junio de 1917, sobre la Academia de Ciencias Físicas, Matemáticas y Naturales",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "13181",
+      "gaceta_oficial_fecha": "27/06/1917"
+    },
+    {
+      "ley": "Ley del 8 de julio de 1818, que Decreta Honores Estatuarios a Algunos Ilustres Próceres de la Independencia",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "13502",
+      "gaceta_oficial_fecha": "16/07/1918"
+    },
+    {
+      "ley": "Ley sobre la Academia de Ciencias Políticas y Sociales",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "15361",
+      "gaceta_oficial_fecha": "13/08/1924"
+    },
+    {
+      "ley": "Ley de Ejercicio de la Farmacia",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "16551",
+      "gaceta_oficial_fecha": "07/07/1928"
+    },
+    {
+      "ley": "Ley Lara",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "",
+      "gaceta_oficial_fecha": "06/1936"
+    },
+    {
+      "ley": "Ley de Defensa contra el Paludismo",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "19005",
+      "gaceta_oficial_fecha": "11/07/1936"
+    },
+    {
+      "ley": "Ley de Almacenes Generales de Depósito",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "19105",
+      "gaceta_oficial_fecha": "07/11/1936"
+    },
+    {
+      "ley": "Ley de Vigilancia para Impedir la Contaminación de las Aguas por el Petróleo",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "19426",
+      "gaceta_oficial_fecha": "25/11/1937"
+    },
+    {
+      "ley": "Ley de Régimen Especial para la Aduana de Güiria",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "19617",
+      "gaceta_oficial_fecha": "12/07/1938"
+    },
+    {
+      "ley": "Ley de Régimen Especial para la Aduana de Puerto Caripito",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "19617",
+      "gaceta_oficial_fecha": "12/07/1938"
+    },
+    {
+      "ley": "Ley sobre Armas y Explosivos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "19900",
+      "gaceta_oficial_fecha": "12/06/1939"
+    },
+    {
+      "ley": "Ley sobre la Llave del Arca donde se Conserva, en el Salón Elíptico del Palacio Federal, el Libro de las Actas del Congreso de 1811",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "20230",
+      "gaceta_oficial_fecha": "10/07/1940"
+    },
+    {
+      "ley": "Ley de Castración y de Cercas en Ganadería",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "20549",
+      "gaceta_oficial_fecha": "26/07/1941"
+    },
+    {
+      "ley": "Ley de Defensa Contra las Enfermedades Venéreas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "20635",
+      "gaceta_oficial_fecha": "04/11/1941"
+    },
+    {
+      "ley": "Ley de Grados Militares Honorarios",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "21113",
+      "gaceta_oficial_fecha": "28/05/1943"
+    },
+    {
+      "ley": "Ley sobre Propaganda Comercial",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "21503",
+      "gaceta_oficial_fecha": "06/09/1944"
+    },
+    {
+      "ley": "Ley de Inmunidades y Prerrogativas de los Funcionarios Diplomáticos Extranjeros",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "21788",
+      "gaceta_oficial_fecha": "17/08/1945"
+    },
+    {
+      "ley": "Ley sobre la Condecoración de la Orden al Mérito Naval",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "22664",
+      "gaceta_oficial_fecha": "12/07/1948"
+    },
+    {
+      "ley": "Ley sobre El Mar Territorial, La Plataforma Continental, La Protección de la Pesca y El Espacio Aéreo",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "496 Ext.",
+      "gaceta_oficial_fecha": "17/08/1956"
+    },
+    {
+      "ley": "Ley de Fideicomisos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "496 Ext.",
+      "gaceta_oficial_fecha": "17/08/1956"
+    },
+    {
+      "ley": "Ley de Propiedad Industrial",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "25227",
+      "gaceta_oficial_fecha": "10/12/1956"
+    },
+    {
+      "ley": "Ley que Crea la Condecoración de la Orden 27 de Junio",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "25361",
+      "gaceta_oficial_fecha": "22/05/1957"
+    },
+    {
+      "ley": "Ley sobre Cooperación Internacional",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "25554",
+      "gaceta_oficial_fecha": "08/01/1958"
+    },
+    {
+      "ley": "Ley de Abonos y Demás Agentes Susceptibles de Operar una Acción Beneficiosa en Plantas, Animales, Suelos o Aguas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "27498",
+      "gaceta_oficial_fecha": "23/07/1964"
+    },
+    {
+      "ley": "Ley de conmutación de penas por indulto o extrañamiento del territorio nacional",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "27619",
+      "gaceta_oficial_fecha": "15/12/1964"
+    },
+    {
+      "ley": "Ley de Pensiones para los Expresidentes de la República",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "27619",
+      "gaceta_oficial_fecha": "15/12/1964"
+    },
+    {
+      "ley": "Ley Mediante la Cual se Crea la Condecoración de la Orden Andrés Bello",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "27864",
+      "gaceta_oficial_fecha": "15/10/1965"
+    },
+    {
+      "ley": "Ley Forestal de Suelos y Agua",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "1004 Ext.",
+      "gaceta_oficial_fecha": "26/01/1966"
+    },
+    {
+      "ley": "Ley de Bienes Muebles Recuperados por Autoridades Policiales",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "1032 Ext.",
+      "gaceta_oficial_fecha": "18/07/1966"
+    },
+    {
+      "ley": "Ley sobre Depósito Judicial",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "28213",
+      "gaceta_oficial_fecha": "16/12/1966"
+    },
+    {
+      "ley": "Ley de Abogados",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "1081 Ext.",
+      "gaceta_oficial_fecha": "23/01/1967"
+    },
+    {
+      "ley": "Ley del Instituto Nacional de Nutrición",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "28727",
+      "gaceta_oficial_fecha": "12/09/1968"
+    },
+    {
+      "ley": "Ley de Ejercicio de la Medicina Veterinaria",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "28737",
+      "gaceta_oficial_fecha": "24/09/1968"
+    },
+    {
+      "ley": "Ley de la Corporación de Desarrollo de la Región Zuliana",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "28979",
+      "gaceta_oficial_fecha": "26/07/1969"
+    },
+    {
+      "ley": "Ley sobre la Condecoración de la Orden Militar General José Antonio Páez",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "29134",
+      "gaceta_oficial_fecha": "30/01/1970"
+    },
+    {
+      "ley": "Ley de Ejercicio de la Odontología",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "29288",
+      "gaceta_oficial_fecha": "10/08/1970"
+    },
+    {
+      "ley": "Ley de Protección a la Fauna Silvestre",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "29289",
+      "gaceta_oficial_fecha": "11/08/1970"
+    },
+    {
+      "ley": "Ley de Universidades",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "1429 Ext.",
+      "gaceta_oficial_fecha": "08/09/1970"
+    },
+    {
+      "ley": "Ley de Fiestas Nacionales",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "29541",
+      "gaceta_oficial_fecha": "22/06/1971"
+    },
+    {
+      "ley": "Ley del Instituto Aeropuerto Internacional de Maiquetía",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "29585",
+      "gaceta_oficial_fecha": "16/08/1971"
+    },
+    {
+      "ley": "Ley de la Corporación de los Andes",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "29623",
+      "gaceta_oficial_fecha": "29/09/1971"
+    },
+    {
+      "ley": "Ley de Ejercicio de la Profesión de Economista",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "29687",
+      "gaceta_oficial_fecha": "15/12/1971"
+    },
+    {
+      "ley": "Ley de Hipoteca Mobiliaria y Prenda sin Desplazamiento de Posesión",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "1575 Ext.",
+      "gaceta_oficial_fecha": "04/04/1973"
+    },
+    {
+      "ley": "Ley de Ejercicio de Bioánalisis",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "30160",
+      "gaceta_oficial_fecha": "23/07/1973"
+    },
+    {
+      "ley": "Ley de Ejercicio de la Contaduría Pública",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "30273",
+      "gaceta_oficial_fecha": "05/12/1973"
+    },
+    {
+      "ley": "Ley sobre la Condecoración de la Orden Henry Pittier",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "30483",
+      "gaceta_oficial_fecha": "26/08/1974"
+    },
+    {
+      "ley": "Ley de la Corporación de Desarrollo de la Pequeña y Mediana Industria",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "1748 Ext.",
+      "gaceta_oficial_fecha": "26/05/1975"
+    },
+    {
+      "ley": "Ley sobre Transformaciones de Empresas Extranjeras",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "30774",
+      "gaceta_oficial_fecha": "21/08/1975"
+    },
+    {
+      "ley": "Ley de Nacionalización y Coordinación de los Servicios de Recolección y Tratamiento para Residuos, Desechos y Desperdicios en el Área Metropolitana de Caracas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "31047",
+      "gaceta_oficial_fecha": "17/08/1976"
+    },
+    {
+      "ley": "Ley sobre la Condecoración de la Orden 1.º de Mayo",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "31124",
+      "gaceta_oficial_fecha": "03/12/1976"
+    },
+    {
+      "ley": "Ley del Instituto Autónomo Biblioteca Nacional y Servicios de Bibliotecas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "31298",
+      "gaceta_oficial_fecha": "16/08/1977"
+    },
+    {
+      "ley": "Ley sobre Transfusión y Bancos de Sangre",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "31356",
+      "gaceta_oficial_fecha": "08/11/1977"
+    },
+    {
+      "ley": "Ley de Colegiación Farmacéutica",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "2146 Ext.",
+      "gaceta_oficial_fecha": "28/01/1978"
+    },
+    {
+      "ley": "Ley del Instituto Nacional de Parques",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "2290 Ext.",
+      "gaceta_oficial_fecha": "21/07/1978"
+    },
+    {
+      "ley": "Ley de Ejercicio de la Psicología",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "2306 Ext.",
+      "gaceta_oficial_fecha": "11/09/1978"
+    },
+    {
+      "ley": "Ley de la Corporación de Desarrollo de la Región de los Llanos (CORPOLLANOS)",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "2832 Ext.",
+      "gaceta_oficial_fecha": "30/07/1981"
+    },
+    {
+      "ley": "Ley de la Comisión Nacional para el Estudio y Planificación del Desarrollo de la Zona del Caribe Venezolano",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "2844 Ext.",
+      "gaceta_oficial_fecha": "27/08/1981"
+    },
+    {
+      "ley": "Ley del Instituto para el Control y la Conservación de la Cuenca del Lago de Maracaibo",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "2890 Ext.",
+      "gaceta_oficial_fecha": "28/12/1981"
+    },
+    {
+      "ley": "Ley de la Corporación de Desarrollo de la Región Central (CORPOCENTRO)",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "2895 Ext.",
+      "gaceta_oficial_fecha": "28/12/1981"
+    },
+    {
+      "ley": "Ley de Ejercicio de la Profesión de Licenciados en Administración",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "3004 Ext.",
+      "gaceta_oficial_fecha": "26/08/1982"
+    },
+    {
+      "ley": "Ley de los Sistemas Metropolitanos de Transporte",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "3155 Ext.",
+      "gaceta_oficial_fecha": "29/04/1983"
+    },
+    {
+      "ley": "Ley de Propiedad Horizontal",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "3241 Ext.",
+      "gaceta_oficial_fecha": "18/08/1983"
+    },
+    {
+      "ley": "Ley de Ventas de Parcelas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "3242 Ext.",
+      "gaceta_oficial_fecha": "18/08/1983"
+    },
+    {
+      "ley": "Ley de la Academia Nacional de Ciencias Económicas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "32796",
+      "gaceta_oficial_fecha": "24/08/1983"
+    },
+    {
+      "ley": "Ley Mediante la Cual se Crea la Condecoración de la Orden Brígido Iriarte",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "33275",
+      "gaceta_oficial_fecha": "31/07/1985"
+    },
+    {
+      "ley": "Ley para el Pago del Bono Compensatorio de Gastos de Transporte",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "34028",
+      "gaceta_oficial_fecha": "12/08/1988"
+    },
+    {
+      "ley": "Ley sobre Elección y Remoción de los Gobernadores de Estado",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "4086 Ext.",
+      "gaceta_oficial_fecha": "14/04/1989"
+    },
+    {
+      "ley": "Ley del Instituto de Oficiales de las Fuerzas Armadas Nacionales en Situación de Retiro",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "34528",
+      "gaceta_oficial_fecha": "10/08/1990"
+    },
+    {
+      "ley": "Ley de Zonas Francas de Venezuela",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "34772",
+      "gaceta_oficial_fecha": "08/08/1991"
+    },
+    {
+      "ley": "Ley sobre Protección a la Privacidad de las Comunicaciones",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "34863",
+      "gaceta_oficial_fecha": "16/12/1991"
+    },
+    {
+      "ley": "Ley sobre Prácticas Desleales del Comercio Internacional",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "4441 Ext.",
+      "gaceta_oficial_fecha": "18/06/1992"
+    },
+    {
+      "ley": "Ley de Supresión de la Corporación de Desarrollo de la Región Centro Occidental (CORPOOCCIDENTE)",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "35003",
+      "gaceta_oficial_fecha": "10/07/1992"
+    },
+    {
+      "ley": "Ley sobre la Eliminación Gradual de los Valores Fiscales de Exportación Aplicables a las Exportaciones de Hidrocarburos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "35243",
+      "gaceta_oficial_fecha": "30/06/1993"
+    },
+    {
+      "ley": "Ley sobre el Derecho de Autor",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "4638 Ext.",
+      "gaceta_oficial_fecha": "01/10/1993"
+    },
+    {
+      "ley": "Ley de Depósito Legal en el Instituto Autónomo Biblioteca Nacional",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "4623 Ext.",
+      "gaceta_oficial_fecha": "03/10/1993"
+    },
+    {
+      "ley": "Ley de Protección y Defensa del Patrimonio Cultural",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "4623 Ext.",
+      "gaceta_oficial_fecha": "03/10/1993"
+    },
+    {
+      "ley": "Ley de Faros y Boyas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "35509",
+      "gaceta_oficial_fecha": "25/07/1994"
+    },
+    {
+      "ley": "Ley de Ejercicio del Periodismo",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "4883 Ext.",
+      "gaceta_oficial_fecha": "31/03/1995"
+    },
+    {
+      "ley": "Ley de Homologación de las Pensiones del Seguro Social, y de las Jubilaciones y Pensiones de la Administración Pública, al Salario Mínimo Nacional (Pensión Mínima Vital)",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "4920 Ext.",
+      "gaceta_oficial_fecha": "16/06/1995"
+    },
+    {
+      "ley": "Ley sobre la Zona Libre Cultural, Científica y Tecnológica del Estado Mérida",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "4937 Ext.",
+      "gaceta_oficial_fecha": "14/07/1995"
+    },
+    {
+      "ley": "Ley que Regula y Fomenta a la Multipropiedad y el Sistema de Tiempo Compartido",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5022 Ext.",
+      "gaceta_oficial_fecha": "18/12/1995"
+    },
+    {
+      "ley": "Ley de Inmunizaciones",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "35916",
+      "gaceta_oficial_fecha": "08/03/1996"
+    },
+    {
+      "ley": "Ley de Cajas de Valores",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "36020",
+      "gaceta_oficial_fecha": "13/08/1996"
+    },
+    {
+      "ley": "Ley de Entidades de Inversión Colectiva",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "36027",
+      "gaceta_oficial_fecha": "22/08/1996"
+    },
+    {
+      "ley": "Ley del Libro",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "36189",
+      "gaceta_oficial_fecha": "21/04/1997"
+    },
+    {
+      "ley": "Ley para el Control de Casinos, Salas de Bingo y Máquinas Traganíqueles",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "36254",
+      "gaceta_oficial_fecha": "23/07/1997"
+    },
+    {
+      "ley": "Ley Penal de Protección a la Actividad Ganadera",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5159 Ext.",
+      "gaceta_oficial_fecha": "25/07/1997"
+    },
+    {
+      "ley": "Ley que Establece el Factor de Cálculo de Contribuciones, Garantías, Sanciones, Beneficios Procesales o de otra Naturaleza, en Leyes Vigentes",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "36362",
+      "gaceta_oficial_fecha": "26/12/1997"
+    },
+    {
+      "ley": "Ley de Privatización",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5199 Ext.",
+      "gaceta_oficial_fecha": "30/12/1997"
+    },
+    {
+      "ley": "Ley que Crea la Condecoración de la Orden Juan Pablo Pérez Alfonzo",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "36430",
+      "gaceta_oficial_fecha": "07/04/1998"
+    },
+    {
+      "ley": "Ley de Arbitraje Comercial",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "36430",
+      "gaceta_oficial_fecha": "07/04/1998"
+    },
+    {
+      "ley": "Ley de Ejercicio Profesional de la Sociología y la Antropología",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5239 Ext.",
+      "gaceta_oficial_fecha": "23/06/1998"
+    },
+    {
+      "ley": "Ley de Derecho Internacional Privado",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "36511",
+      "gaceta_oficial_fecha": "06/08/1998"
+    },
+    {
+      "ley": "Ley de Creación y de Régimen de la Zona Libre para el Fomento de la Inversión Turística en la Península de Paraguaná, Estado Falcón",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "36517",
+      "gaceta_oficial_fecha": "14/08/1998"
+    },
+    {
+      "ley": "Ley de Ejercicio de la Profesión del Licenciado en Nutrición y Dietética",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "36526",
+      "gaceta_oficial_fecha": "27/08/1998"
+    },
+    {
+      "ley": "Ley de Carrera Judicial",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5262 Ext.",
+      "gaceta_oficial_fecha": "11/09/1998"
+    },
+    {
+      "ley": "Ley de la Academia Nacional de la Ingeniería y el Hábitat",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5263 Ext.",
+      "gaceta_oficial_fecha": "17/09/1998"
+    },
+    {
+      "ley": "Ley de Amnistía Política General",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "36934",
+      "gaceta_oficial_fecha": "17/04/2000"
+    },
+    {
+      "ley": "Ley de Corporación para la Recuperación y Desarrollo del Estado Vargas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "36968",
+      "gaceta_oficial_fecha": "08/06/2000"
+    },
+    {
+      "ley": "Ley sobre El Hurto y Robo de Vehículos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37000",
+      "gaceta_oficial_fecha": "26/07/2000"
+    },
+    {
+      "ley": "Ley de Geografía, Cartografía y Catastro Nacional",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37002",
+      "gaceta_oficial_fecha": "28/07/2000"
+    },
+    {
+      "ley": "Ley de Puerto Libre del Estado Nueva Esparta",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37006",
+      "gaceta_oficial_fecha": "03/08/2000"
+    },
+    {
+      "ley": "Ley de Medicamentos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37006",
+      "gaceta_oficial_fecha": "03/08/2000"
+    },
+    {
+      "ley": "Ley del Instituto Venezolano de Investigaciones Científicas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37022",
+      "gaceta_oficial_fecha": "25/08/2000"
+    },
+    {
+      "ley": "Ley para el Desarrollo de las Zonas Réntales de la Fundación Fondo Andrés Bello",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37022",
+      "gaceta_oficial_fecha": "25/08/2000"
+    },
+    {
+      "ley": "Ley del Instituto Nacional de Investigaciones Agrícolas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37022",
+      "gaceta_oficial_fecha": "25/08/2000"
+    },
+    {
+      "ley": "Ley de Demarcación y Garantía del Hábitat y Tierras de los Pueblos Indígenas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37118",
+      "gaceta_oficial_fecha": "12/01/2001"
+    },
+    {
+      "ley": "Ley que Crea la Condecoración de la Orden al Mérito Ignacio Luis Arcaya",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37162",
+      "gaceta_oficial_fecha": "20/03/2001"
+    },
+    {
+      "ley": "Ley sobre el Régimen para la Comparecencia de Funcionarios y Funcionarias Públicos y los o las particulares ante la Asamblea Nacional o sus Comisiones",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37252",
+      "gaceta_oficial_fecha": "02/08/2001"
+    },
+    {
+      "ley": "Ley sobre Sustancias, Materiales y Desechos Peligrosos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5554 Ext.",
+      "gaceta_oficial_fecha": "13/11/2001"
+    },
+    {
+      "ley": "Ley de Mercadeo Agrícola",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37389",
+      "gaceta_oficial_fecha": "21/02/2002"
+    },
+    {
+      "ley": "Ley de Expropiación por Causa de Utilidad Pública o Social",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37475",
+      "gaceta_oficial_fecha": "01/07/2002"
+    },
+    {
+      "ley": "Ley del Estatuto de la Función Pública",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37522",
+      "gaceta_oficial_fecha": "06/09/2002"
+    },
+    {
+      "ley": "Ley del Sistema Venezolano para la Calidad",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37543",
+      "gaceta_oficial_fecha": "07/10/2002"
+    },
+    {
+      "ley": "Ley de Semillas, Material para la Reproducción Animal e Insumos Biológicos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37552",
+      "gaceta_oficial_fecha": "18/10/2002"
+    },
+    {
+      "ley": "Ley de Ejercicio de la Profesión de Licenciados en Relaciones Industriales y Recursos Humanos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37593",
+      "gaceta_oficial_fecha": "17/12/2002"
+    },
+    {
+      "ley": "Ley de Extranjería y Migración",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37944",
+      "gaceta_oficial_fecha": "24/05/2004"
+    },
+    {
+      "ley": "Ley de Nacionalidad y Ciudadanía",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "37971",
+      "gaceta_oficial_fecha": "01/07/2004"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley de Servicio Exterior",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38241",
+      "gaceta_oficial_fecha": "02/08/2005"
+    },
+    {
+      "ley": "Ley de Ejercicio Profesional de la Enfermería",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38263",
+      "gaceta_oficial_fecha": "01/09/2005"
+    },
+    {
+      "ley": "Ley de Servicios Sociales",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38270",
+      "gaceta_oficial_fecha": "12/09/2005"
+    },
+    {
+      "ley": "Ley de Servicio Comunitario del Estudiante de Educación Superior",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38272",
+      "gaceta_oficial_fecha": "14/09/2005"
+    },
+    {
+      "ley": "Ley de Régimen Prestacional de Empleo",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38281",
+      "gaceta_oficial_fecha": "27/09/2005"
+    },
+    {
+      "ley": "Ley de la Cinematografía Nacional",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38281",
+      "gaceta_oficial_fecha": "27/09/2005"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley de Estímulo al Desarrollo de las Actividades Petroquímicas, Carboquímicas y Similares",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38326",
+      "gaceta_oficial_fecha": "01/12/2005"
+    },
+    {
+      "ley": "Ley del Instituto Nacional de Aeronáutica Civil",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38333",
+      "gaceta_oficial_fecha": "12/12/2005"
+    },
+    {
+      "ley": "Ley de Regularización de la Participación Privada en las Actividades Primarias, Previstas en el Decreto Nº 1510 con Fuerza de Ley Orgánica de Hidrocarburos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38419",
+      "gaceta_oficial_fecha": "18/04/2006"
+    },
+    {
+      "ley": "Ley que Crea la Condecoración de la Orden al Mérito Ezequiel Zamora",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38475",
+      "gaceta_oficial_fecha": "10/07/2006"
+    },
+    {
+      "ley": "Ley de Supresión del Pago del Derecho de Fabricación de Fósforo",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38480",
+      "gaceta_oficial_fecha": "17/07/2006"
+    },
+    {
+      "ley": "Ley sobre la Condecoración de la Orden Francisco de Miranda",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38480",
+      "gaceta_oficial_fecha": "17/07/2006"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley Nacional de Loterías",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38480",
+      "gaceta_oficial_fecha": "17/07/2006"
+    },
+    {
+      "ley": "Ley que Crea la Orden José Leonardo Chirinos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38500",
+      "gaceta_oficial_fecha": "15/08/2006"
+    },
+    {
+      "ley": "Ley para Protección de Niños, Niñas y Adolescentes en Salas de Uso de Internet, Videojuegos y otros Multimedia",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38529",
+      "gaceta_oficial_fecha": "25/09/2006"
+    },
+    {
+      "ley": "Ley de Meteorología e Hidrología Nacional",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5833 Ext.",
+      "gaceta_oficial_fecha": "22/12/2006"
+    },
+    {
+      "ley": "Ley de Aguas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38595",
+      "gaceta_oficial_fecha": "02/01/2007"
+    },
+    {
+      "ley": "Ley sobre la Condecoración de la Orden Ali Primera",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38595",
+      "gaceta_oficial_fecha": "02/01/2007"
+    },
+    {
+      "ley": "Ley para las Personas con Discapacidad",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38598",
+      "gaceta_oficial_fecha": "05/01/2007"
+    },
+    {
+      "ley": "Ley de Impuesto a las Actividades de Juegos de Envite o Azar",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38698",
+      "gaceta_oficial_fecha": "05/06/2007"
+    },
+    {
+      "ley": "Ley de Promoción y Protección de la Lactancia Materna",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38763",
+      "gaceta_oficial_fecha": "06/09/2007"
+    },
+    {
+      "ley": "Ley sobre los Efectos del Proceso de Migración a Empresas Mixtas de los Convenios de Asociación de la Faja Petrolífera del Orinoco; así como de los Convenios de Exploración a Riesgo y Ganancias Compartidas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38785",
+      "gaceta_oficial_fecha": "08/10/2007"
+    },
+    {
+      "ley": "Ley de la Agencia Bolivariana para Actividades Espaciales",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38796",
+      "gaceta_oficial_fecha": "25/10/2007"
+    },
+    {
+      "ley": "Ley de Transporte Terrestre",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38985",
+      "gaceta_oficial_fecha": "01/08/2008"
+    },
+    {
+      "ley": "Ley del Ejercicio de la Fisioterapia",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "38985",
+      "gaceta_oficial_fecha": "01/08/2008"
+    },
+    {
+      "ley": "Ley del Ejercicio del Trabajo Social",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39020",
+      "gaceta_oficial_fecha": "19/09/2008"
+    },
+    {
+      "ley": "Ley de Tarjetas de Crédito, Débito, Prepagadas y demás Tarjetas de Financiamientos o Pago Electrónico",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39021",
+      "gaceta_oficial_fecha": "22/09/2008"
+    },
+    {
+      "ley": "Ley de Gestión de la Diversidad Biológica",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39070",
+      "gaceta_oficial_fecha": "01/12/2008"
+    },
+    {
+      "ley": "Ley de Gestión Integral de Riesgos Socionaturales y Tecnológicos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39095",
+      "gaceta_oficial_fecha": "09/01/2009"
+    },
+    {
+      "ley": "Ley de Patrimonio Cultural de los Pueblos y Comunidades Indígenas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39115",
+      "gaceta_oficial_fecha": "06/02/2009"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley General de Puertos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39140",
+      "gaceta_oficial_fecha": "17/03/2009"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley de Aeronáutica Civil",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39140",
+      "gaceta_oficial_fecha": "17/03/2009"
+    },
+    {
+      "ley": "Ley contra el Secuestro y la Extorsión",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39194",
+      "gaceta_oficial_fecha": "05/06/2009"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley sobre la Condecoración de la Orden Heroínas Venezolanas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39194",
+      "gaceta_oficial_fecha": "05/06/2009"
+    },
+    {
+      "ley": "Ley de Extinción de la Acción Penal y Resolución de las Causas para los Casos del Régimen Procesal Penal Transitorio",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39236",
+      "gaceta_oficial_fecha": "06/08/2009"
+    },
+    {
+      "ley": "Ley del Sistema de Justicia",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39276",
+      "gaceta_oficial_fecha": "01/10/2009"
+    },
+    {
+      "ley": "Ley de Simplificación de Trámites para las Exportaciones e Importaciones Realizadas por las Empresas del Estado",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5933 Ext.",
+      "gaceta_oficial_fecha": "21/10/2009"
+    },
+    {
+      "ley": "Ley de Política Social e Integral del Transporte Aéreo",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5933 Ext.",
+      "gaceta_oficial_fecha": "21/10/2009"
+    },
+    {
+      "ley": "Ley para el Poder Popular de la Juventud",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5933 Ext.",
+      "gaceta_oficial_fecha": "21/10/2009"
+    },
+    {
+      "ley": "Ley de Tierras Urbanas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5933 Ext.",
+      "gaceta_oficial_fecha": "21/10/2009"
+    },
+    {
+      "ley": "Ley para la Prohibición de Videojuegos Bélicos y Juguetes Bélicos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39320",
+      "gaceta_oficial_fecha": "03/12/2009"
+    },
+    {
+      "ley": "Ley del Artesano y Artesana Indígena",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39338",
+      "gaceta_oficial_fecha": "04/01/2010"
+    },
+    {
+      "ley": "Ley para la Protección de la Fauna Doméstica, Libre y en Cautiverio",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39338",
+      "gaceta_oficial_fecha": "04/01/2010"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley que Crea la Condecoración de la Orden José Félix Ribas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39394",
+      "gaceta_oficial_fecha": "25/03/2010"
+    },
+    {
+      "ley": "Ley de Creación de la Academia de Ciencias Agrícolas de Venezuela (ACAV)",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39404",
+      "gaceta_oficial_fecha": "15/04/2010"
+    },
+    {
+      "ley": "Ley de Supresión y Liquidación del Instituto Autónomo Corporación Venezolana Agraria (CVA)",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5990 Ext.",
+      "gaceta_oficial_fecha": "29/07/2010"
+    },
+    {
+      "ley": "Ley sobre la Condecoración de la Orden Libertadores y Libertadoras de Venezuela",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5990 Ext.",
+      "gaceta_oficial_fecha": "29/07/2010"
+    },
+    {
+      "ley": "Ley de Asignaciones Económicas Especiales Derivadas de Minas e Hidrocarburos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5991 Ext.",
+      "gaceta_oficial_fecha": "29/07/2010"
+    },
+    {
+      "ley": "Ley de Tierras y Desarrollo Agrario",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5991 Ext.",
+      "gaceta_oficial_fecha": "29/07/2010"
+    },
+    {
+      "ley": "Ley de la Bolsa Pública de Valores Bicentenaria",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "5999 Ext.",
+      "gaceta_oficial_fecha": "13/11/2010"
+    },
+    {
+      "ley": "Ley de Cajas de Ahorro, Fondos de Ahorro y Asociaciones de Ahorro Similares",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39553",
+      "gaceta_oficial_fecha": "16/11/2010"
+    },
+    {
+      "ley": "Ley sobre Procedimientos Especiales en Materia de Protección Familiar de Niños, Niñas y Adolescentes",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39570",
+      "gaceta_oficial_fecha": "09/12/2010"
+    },
+    {
+      "ley": "Ley de Partidos Políticos, Reuniones Públicas y Manifestaciones",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6013 Ext.",
+      "gaceta_oficial_fecha": "23/12/2010"
+    },
+    {
+      "ley": "Ley de Defensa de la Soberanía Política y Autodeterminación Nacional",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6013 Ext.",
+      "gaceta_oficial_fecha": "23/12/2010"
+    },
+    {
+      "ley": "Ley del Cuerpo de Bomberos y Bomberas y Administración de Emergencia de Carácter Civil del Distrito Capital",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6017 Ext.",
+      "gaceta_oficial_fecha": "30/12/2010"
+    },
+    {
+      "ley": "Ley de Gestión Integral de la Basura",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6017 Ext.",
+      "gaceta_oficial_fecha": "30/12/2010"
+    },
+    {
+      "ley": "Ley sobre el Delito de Contrabando",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6017 Ext.",
+      "gaceta_oficial_fecha": "30/12/2010"
+    },
+    {
+      "ley": "Ley de Responsabilidad Social en Radio, Televisión y Medios Electrónicos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39610",
+      "gaceta_oficial_fecha": "07/02/2011"
+    },
+    {
+      "ley": "Ley de Condecoraciones del Distrito Capital",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39785",
+      "gaceta_oficial_fecha": "25/10/2011"
+    },
+    {
+      "ley": "Ley para la Regularización y Control de los Arrendamientos de Vivienda",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6053 Ext.",
+      "gaceta_oficial_fecha": "12/11/2011"
+    },
+    {
+      "ley": "Ley para Sancionar los Crímenes, Desapariciones, Torturas y Otras Violaciones de los Derechos Humanos por Razones Políticas en el Período 1958-1998",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39808",
+      "gaceta_oficial_fecha": "25/11/2011"
+    },
+    {
+      "ley": "Ley sobre Donación y Trasplante de Órganos, Tejidos y Células en seres Humanos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39808",
+      "gaceta_oficial_fecha": "25/11/2011"
+    },
+    {
+      "ley": "Ley de Uso Racional y Eficiente de la Energía",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39823",
+      "gaceta_oficial_fecha": "19/12/2011"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley de Ejercicio de la Medicina",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39823",
+      "gaceta_oficial_fecha": "19/12/2011"
+    },
+    {
+      "ley": "Ley sobre el Régimen, Administración y Aprovechamiento de Minerales No Metálicos del Distrito Capital",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39868",
+      "gaceta_oficial_fecha": "22/02/2012"
+    },
+    {
+      "ley": "Ley de Regulación y Control del Sistema de Ventas Programadas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39912",
+      "gaceta_oficial_fecha": "30/04/2012"
+    },
+    {
+      "ley": "Ley Penal del Ambiente",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39913",
+      "gaceta_oficial_fecha": "02/05/2012"
+    },
+    {
+      "ley": "Ley de Control para la Defensa Integral del Espacio Aéreo",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "39935",
+      "gaceta_oficial_fecha": "01/06/2012"
+    },
+    {
+      "ley": "Ley para el Desarme y Control de Armas y Municiones",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "40190",
+      "gaceta_oficial_fecha": "17/06/2013"
+    },
+    {
+      "ley": "Ley de Bosque",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "40222",
+      "gaceta_oficial_fecha": "06/08/2013"
+    },
+    {
+      "ley": "Ley de Infogobierno",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "40274",
+      "gaceta_oficial_fecha": "17/10/2013"
+    },
+    {
+      "ley": "Ley para la Regulación y Control de la Prestación del Servicio Funerario y Cementerios",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "40358",
+      "gaceta_oficial_fecha": "18/02/2014"
+    },
+    {
+      "ley": "Ley de Condecoración de la Medalla Honor al Mérito de la Defensa Pública Militar",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "40405",
+      "gaceta_oficial_fecha": "06/05/2014"
+    },
+    {
+      "ley": "Ley de Registro y Alistamiento para la Defensa Integral de la Nación",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "40440",
+      "gaceta_oficial_fecha": "25/06/2014"
+    },
+    {
+      "ley": "Ley de Protección Social al Trabajador y a la Trabajadora Cultural",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "40491",
+      "gaceta_oficial_fecha": "05/09/2014"
+    },
+    {
+      "ley": "Ley para la Promoción y Protección del Derecho a la Igualdad de las Personas con VIH o Sida y sus Familiares",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "40571",
+      "gaceta_oficial_fecha": "30/12/2014"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley de los Consejos Estadales de Planificación y Coordinación de Políticas Públicas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6184 Ext.",
+      "gaceta_oficial_fecha": "03/06/2015"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley de los Consejos Locales de Planificación Pública",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6184 Ext.",
+      "gaceta_oficial_fecha": "03/06/2015"
+    },
+    {
+      "ley": "Ley para el Desarrollo y la Creación Artesanal",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6184 Ext.",
+      "gaceta_oficial_fecha": "03/06/2015"
+    },
+    {
+      "ley": "Ley de Creación de la Condecoración de la Orden Fabricio Ojeda",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6185 Ext.",
+      "gaceta_oficial_fecha": "08/06/2015"
+    },
+    {
+      "ley": "Ley de Telesalud",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6207 Ext.",
+      "gaceta_oficial_fecha": "28/12/2015"
+    },
+    {
+      "ley": "Ley de Semillas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6207 Ext.",
+      "gaceta_oficial_fecha": "28/12/2015"
+    },
+    {
+      "ley": "Ley de Comunicación del Poder Popular",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6207 Ext.",
+      "gaceta_oficial_fecha": "28/12/2015"
+    },
+    {
+      "ley": "Ley de Calidad de las Aguas y del Aire",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6207 Ext.",
+      "gaceta_oficial_fecha": "28/12/2015"
+    },
+    {
+      "ley": "Ley de Protección al Nombre y Emblema de la Cruz Roja",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6207 Ext.",
+      "gaceta_oficial_fecha": "28/12/2015"
+    },
+    {
+      "ley": "Ley de Creación de la Comisión Nacional de Derecho Internacional Humanitario",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6207 Ext.",
+      "gaceta_oficial_fecha": "28/12/2015"
+    },
+    {
+      "ley": "Ley de Disciplina Militar",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "40833",
+      "gaceta_oficial_fecha": "21/01/2016"
+    },
+    {
+      "ley": "Ley que Regula el Uso de la Telefonía Celular y la Internet en el Interior de los Establecimientos Penitenciarios",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6240 Ext.",
+      "gaceta_oficial_fecha": "15/07/2016"
+    },
+    {
+      "ley": "Ley de la Gran Misión Chamba Juvenil",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6633 Ext.",
+      "gaceta_oficial_fecha": "07/07/2021"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley de Idiomas Indígenas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6642 Ext.",
+      "gaceta_oficial_fecha": "13/09/2021"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley de Protección de Víctimas, Testigos y Demás Sujetos Procesales",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6645 Ext.",
+      "gaceta_oficial_fecha": "17/09/2021"
+    },
+    {
+      "ley": "Ley de Transparencia y Acceso a la Información de Interés Público",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6649 Ext.",
+      "gaceta_oficial_fecha": "20/09/2021"
+    },
+    {
+      "ley": "Ley del Estatuto de la Función Policial",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6650 Ext.",
+      "gaceta_oficial_fecha": "22/09/2021"
+    },
+    {
+      "ley": "Ley para la Salvaguardia del Patrimonio Cultural Inmaterial",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6652 Ext.",
+      "gaceta_oficial_fecha": "22/09/2021"
+    },
+    {
+      "ley": "Ley para la Promoción y Uso del Lenguaje con Enfoque de Género",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6654 Ext.",
+      "gaceta_oficial_fecha": "07/10/2021"
+    },
+    {
+      "ley": "Ley para la Prevención y Erradicación del Abuso Sexual Contra Niñas, Niños y Adolescentes",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6655 Ext.",
+      "gaceta_oficial_fecha": "07/10/2021"
+    },
+    {
+      "ley": "Ley para el Respeto de los Derechos Humanos en el Ejercicio de la Función Publica",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6658 Ext.",
+      "gaceta_oficial_fecha": "28/10/2021"
+    },
+    {
+      "ley": "Ley de Juramento Público",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6660 Ext.",
+      "gaceta_oficial_fecha": "04/11/2021"
+    },
+    {
+      "ley": "Ley de Teatro",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6663 Ext.",
+      "gaceta_oficial_fecha": "11/11/2021"
+    },
+    {
+      "ley": "Ley para la Promoción del Ciclismo Urbano",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6664 Ext.",
+      "gaceta_oficial_fecha": "11/11/2021"
+    },
+    {
+      "ley": "Ley de Sistemas de Cuidados para la Vida",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6665 Ext.",
+      "gaceta_oficial_fecha": "11/11/2021"
+    },
+    {
+      "ley": "Ley de Registros y Notarías",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6668 Ext.",
+      "gaceta_oficial_fecha": "16/12/2021"
+    },
+    {
+      "ley": "Ley de la Comisión para la Garantía de Justicia y Reparación de las Víctimas de Delitos Contra los Derechos Humanos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6678 Ext.",
+      "gaceta_oficial_fecha": "27/12/2021"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley para la Protección de las Familias, la Maternidad y la Paternidad",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6686 Ext.",
+      "gaceta_oficial_fecha": "15/02/2022"
+    },
+    {
+      "ley": "Ley de Impuesto a Las Grandes Transacciones Financieras",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6687 Ext.",
+      "gaceta_oficial_fecha": "25/02/2022"
+    },
+    {
+      "ley": "Ley de Publicaciones Oficiales",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6688 Ext.",
+      "gaceta_oficial_fecha": "25/02/2022"
+    },
+    {
+      "ley": "Ley contra la Corrupción",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6699 Ext.",
+      "gaceta_oficial_fecha": "02/05/2022"
+    },
+    {
+      "ley": "Ley de Intérpretes Públicos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6703 Ext.",
+      "gaceta_oficial_fecha": "25/05/2022"
+    },
+    {
+      "ley": "Ley de Sellos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6711 Ext.",
+      "gaceta_oficial_fecha": "20/07/2022"
+    },
+    {
+      "ley": "Ley de Registro de Antecedentes Penales",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6712 Ext.",
+      "gaceta_oficial_fecha": "20/07/2022"
+    },
+    {
+      "ley": "Ley de Archivos Nacionales",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6714 Ext.",
+      "gaceta_oficial_fecha": "26/07/2022"
+    },
+    {
+      "ley": "Ley que Regula el Uso del Nombre, Títulos, Firma y Efigie del Libertador y Padre de la Patria «Simón Bolívar»",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6718 Ext.",
+      "gaceta_oficial_fecha": "28/10/2022"
+    },
+    {
+      "ley": "Ley sobre la Condecoración de la Orden Gran Cacique Guaicaipuro «Guapotori Guaicaipuro»",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6719 Ext.",
+      "gaceta_oficial_fecha": "28/10/2022"
+    },
+    {
+      "ley": "Ley de Creación de la Condecoración de la Orden Darío Vivas",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6722 Ext.",
+      "gaceta_oficial_fecha": "07/12/2022"
+    },
+    {
+      "ley": "Ley de Participación Estudiantil en el Subsistema de Educación Básica",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6737 Ext.",
+      "gaceta_oficial_fecha": "23/02/2023"
+    },
+    {
+      "ley": "Ley para la Protección y Promoción de la Producción del Agave Cocui, del Cocuy y sus Derivados Artesanales",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6742 Ext.",
+      "gaceta_oficial_fecha": "03/04/2023"
+    },
+    {
+      "ley": "Ley para la Atención Integral a las Personas con Trastorno del Espectro Autista",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6744 Ext.",
+      "gaceta_oficial_fecha": "24/04/2023"
+    },
+    {
+      "ley": "Ley para la Protección de los Activos, Derechos e Intereses de la República y sus Entidades en el Extranjero",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6747 Ext.",
+      "gaceta_oficial_fecha": "22/05/2023"
+    },
+    {
+      "ley": "Ley de la Actividad Aseguradora",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6770 Ext.",
+      "gaceta_oficial_fecha": "29/11/2023"
+    },
+    {
+      "ley": "Ley del Régimen Prestacional de Vivienda y Hábitat",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6805 Ext.",
+      "gaceta_oficial_fecha": "01/05/2024"
+    },
+    {
+      "ley": "Ley de Protección de las Pensiones de Seguridad Social frente al Bloqueo Imperialista",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6806 Ext.",
+      "gaceta_oficial_fecha": "08/05/2024"
+    },
+    {
+      "ley": "Ley de Fomento de las Exportaciones No Petroleras",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6824 Ext.",
+      "gaceta_oficial_fecha": "18/07/2024"
+    },
+    {
+      "ley": "Ley para el Fomento y Desarrollo de Nuevos Emprendimientos",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6842 Ext.",
+      "gaceta_oficial_fecha": "16/09/2024"
+    },
+    {
+      "ley": "Ley de Fiscalización, Regularización, Actuación y Financiamiento de las Organizaciones No Gubernamentales y Organizaciones Sociales Sin Fines De Lucro",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6855 Ext.",
+      "gaceta_oficial_fecha": "15/11/2024"
+    },
+    {
+      "ley": "Ley de Creación de la Condecoración de la Orden Bicentenario Victoria de Ayacucho",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6862 Ext.",
+      "gaceta_oficial_fecha": "05/12/2024"
+    },
+    {
+      "ley": "Ley del Sistema Tributario del Distrito Capital",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6909 Ext.",
+      "gaceta_oficial_fecha": "02/06/2025"
+    },
+    {
+      "ley": "Ley del Comando para la Defensa Integral de la Nación",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6937 Ext.",
+      "gaceta_oficial_fecha": "11/11/2025"
+    },
+    {
+      "ley": "Ley de Reforma Parcial de la Ley del Estatuto de la Función de la Policía de Investigación",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6980 Ext.",
+      "gaceta_oficial_fecha": "05/02/2026"
+    },
+    {
+      "ley": "Ley de Amnistía para la Convivencia Democrática",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6990 Ext.",
+      "gaceta_oficial_fecha": "19/02/2026"
+    },
+    {
+      "ley": "Ley de la Cruz Roja Venezolana",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "6995 Ext.",
+      "gaceta_oficial_fecha": "10/03/2026"
+    },
+    {
+      "ley": "Ley para el Fomento y la Promoción del Café",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "7057 Ext.",
+      "gaceta_oficial_fecha": "13/07/2026"
+    },
+    {
+      "ley": "Ley para el Fomento y Promoción del Cacao Venezolano",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "7058 Ext.",
+      "gaceta_oficial_fecha": "13/07/2026"
+    },
+    {
+      "ley": "Ley del Régimen Especial de Arrendamiento de Inmuebles Destinados a Vivienda",
+      "tipo": "Leyes Ordinarias",
+      "gaceta_oficial_numero": "7065 Ext.",
+      "gaceta_oficial_fecha": "07/08/2026"
+    },
+    {
+      "ley": "Decreto del 10 de abril de 1883, sobre la Instalación de la Academia Venezolana, Correspondiente de la Real Academia Española de la Lengua, y lo Concerniente a su Organización y Régimen",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "2936",
+      "gaceta_oficial_fecha": "17/04/1883"
+    },
+    {
+      "ley": "Decreto de Ley de División Territorial Eclesiástica",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "25694",
+      "gaceta_oficial_fecha": "27/06/1958"
+    },
+    {
+      "ley": "Decreto de Ley del Ejercicio de la Ingeniería, la Arquitectura y Profesiones Afines",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "25822",
+      "gaceta_oficial_fecha": "26/11/1958"
+    },
+    {
+      "ley": "Decreto de Ley de Correos",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "25841",
+      "gaceta_oficial_fecha": "18/12/1958"
+    },
+    {
+      "ley": "Decreto de Ley sobre Ventas con Reserva de Dominio",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "25856",
+      "gaceta_oficial_fecha": "07/01/1959"
+    },
+    {
+      "ley": "Decreto de Ley del Banco de Desarrollo Agropecuario",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "1686 Ext.",
+      "gaceta_oficial_fecha": "20/09/1974"
+    },
+    {
+      "ley": "Decreto de Ley de Incentivo a la Exportación",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "1747 Ext.",
+      "gaceta_oficial_fecha": "24/05/1975"
+    },
+    {
+      "ley": "Decreto de Ley Mediante la Cual se Dispone que los Productores Agrícolas están Facultados para Asociarse a los Efectos de Concertar Condiciones de Comercialización de sus Productos",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "35350",
+      "gaceta_oficial_fecha": "30/11/1993"
+    },
+    {
+      "ley": "Decreto con Rango y Fuerza de Ley sobre Medidas de Salvaguardia",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5372 Ext.",
+      "gaceta_oficial_fecha": "11/08/1999"
+    },
+    {
+      "ley": "Decreto de Ley de Impuestos sobre Sucesiones, Donaciones y demás Ramos Conexos",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5391 Ext.",
+      "gaceta_oficial_fecha": "22/10/1999"
+    },
+    {
+      "ley": "Decreto con Rango y Fuerza de Ley de Arancel Judicial",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5391 Ext.",
+      "gaceta_oficial_fecha": "22/10/1999"
+    },
+    {
+      "ley": "Decreto con Rango y Fuerza de Ley de Supresión de la Corporación Venezolana del Suroeste (CORPOSUROESTE)",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5395 Ext.",
+      "gaceta_oficial_fecha": "25/10/1999"
+    },
+    {
+      "ley": "Decreto con Rango y Fuerza de Ley que Liquida y Suprime la Corporación de Desarrollo de la Región Nororiental",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5395 Ext.",
+      "gaceta_oficial_fecha": "25/10/1999"
+    },
+    {
+      "ley": "Decreto con Rango y Fuerza de Ley que Suprime y Liquida el Instituto Nacional de Hipódromos y Regula las Actividades Hípicas",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5397 Ext.",
+      "gaceta_oficial_fecha": "25/10/1999"
+    },
+    {
+      "ley": "Decreto con Rango y Fuerza de Ley para la Promoción y Protección de las Inversiones en el Uso y Explotación del Espectro Radioeléctrico",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5397 Ext.",
+      "gaceta_oficial_fecha": "25/10/1999"
+    },
+    {
+      "ley": "Decreto de Ley que Crea el Instituto Postal Telegráfico de Venezuela",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5398 Ext.",
+      "gaceta_oficial_fecha": "26/10/1999"
+    },
+    {
+      "ley": "Decreto de Ley de Igualdad de Oportunidades para la Mujer",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5398 Ext.",
+      "gaceta_oficial_fecha": "26/10/1999"
+    },
+    {
+      "ley": "Decreto con Rango y Fuerza de Ley que Regula el Sistema Nacional de Garantías Reciprocas para la Pequeña y Mediana Empresa",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "36824",
+      "gaceta_oficial_fecha": "08/11/1999"
+    },
+    {
+      "ley": "Decreto con Fuerza de Ley sobre Mensajes de Datos y Firmas Electrónicas",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "37148",
+      "gaceta_oficial_fecha": "28/02/2001"
+    },
+    {
+      "ley": "Decreto con Fuerza de Ley de Creación, Estímulo, Promoción y Desarrollo del Sistema Microfinanciero",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "37164",
+      "gaceta_oficial_fecha": "22/03/2001"
+    },
+    {
+      "ley": "Decreto con Fuerza de Ley de Coordinación de Seguridad Ciudadana",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "37318",
+      "gaceta_oficial_fecha": "06/11/2001"
+    },
+    {
+      "ley": "Decreto con Fuerza de Ley de Armonización y Coordinación de Competencias de los Poderes Públicos Nacional y Municipal para la Prestación de los Servicios de Distribución de Gas con fines Domésticos y de Electricidad",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "37319",
+      "gaceta_oficial_fecha": "07/11/2001"
+    },
+    {
+      "ley": "Decreto con Fuerza de Ley de la Función Pública de Estadística",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "37321",
+      "gaceta_oficial_fecha": "09/11/2001"
+    },
+    {
+      "ley": "Decreto con Fuerza de Ley de los Fondos y las Sociedades de Capital de Riesgo",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5554 Ext.",
+      "gaceta_oficial_fecha": "13/11/2001"
+    },
+    {
+      "ley": "Decreto con Fuerza de Ley de Procedimiento Marítimo",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5554 Ext.",
+      "gaceta_oficial_fecha": "13/11/2001"
+    },
+    {
+      "ley": "Decreto con Fuerza de Ley sobre Adscripción de Institutos Autónomos, Empresas del Estado, Fundaciones, Asociaciones y Sociedades Civiles del Estado, a los Órganos de la Administración Pública",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5556 Ext.",
+      "gaceta_oficial_fecha": "13/11/2001"
+    },
+    {
+      "ley": "Decreto con Fuerza de Ley de la Organización Nacional de Protección Civil y Administración de Desastres",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5557 Ext.",
+      "gaceta_oficial_fecha": "13/11/2001"
+    },
+    {
+      "ley": "Decreto con Fuerza de Ley de Zonas Costeras",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "37349",
+      "gaceta_oficial_fecha": "19/12/2001"
+    },
+    {
+      "ley": "Ley de Reforma Parcial del Decreto Nº 1506 con Rango y Fuerza de Ley de Comercio Marítimo",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "38351",
+      "gaceta_oficial_fecha": "05/01/2006"
+    },
+    {
+      "ley": "Decreto Nº 5161 con Rango, Valor y Fuerza de Ley sobre la Condecoración de la Orden 4 de Febrero",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "38618",
+      "gaceta_oficial_fecha": "02/02/2007"
+    },
+    {
+      "ley": "Decreto Nº 5200 con Rango, Valor y Fuerza de Ley de Migración a Empresas Mixtas de los Convenios de Asociación de la Faja Petrolífera del Orinoco; así como los Convenios de Exploración a Riesgo y Ganancias Compartidas",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "38632",
+      "gaceta_oficial_fecha": "26/02/2007"
+    },
+    {
+      "ley": "Decreto Nº 5314 con Rango, Valor y Fuerza de Ley que Regula la Devolución al Tesoro Nacional de las Sumas Acreditadas en las Cuentas de la República y de sus Entes Descentralizados Funcionalmente sin Fines Empresariales Provenientes de Créditos Adicionales",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "38680",
+      "gaceta_oficial_fecha": "10/05/2007"
+    },
+    {
+      "ley": "Decreto Nº 5621 con Rango, Valor y Fuerza de Ley de Supresión y Liquidación del Servicio Autónomo de Vivienda Rural",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5852 Ext.",
+      "gaceta_oficial_fecha": "05/10/2007"
+    },
+    {
+      "ley": "Decreto Nº 5644 con Rango, Valor y Fuerza de Ley que Crea la Condecoración de la Orden al Mérito del Médico Bolivariano Dr. Gilberto Rodríguez Ochoa",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "38793",
+      "gaceta_oficial_fecha": "19/10/2007"
+    },
+    {
+      "ley": "Decreto Nº 5645 con Rango, Valor y Fuerza de Ley de Reforma Parcial de la Ley de Supresión del Instituto Nacional del Menor",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "38795",
+      "gaceta_oficial_fecha": "23/10/2007"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Metrología",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "38819",
+      "gaceta_oficial_fecha": "27/11/2007"
+    },
+    {
+      "ley": "Decreto Nº 5796 con Rango, Valor y Fuerza de Ley de Reforma Parcial de la Ley que Crea el Fondo para la Estabilización Macroeconómica",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "38846",
+      "gaceta_oficial_fecha": "09/01/2008"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Creación del Fondo para el Desarrollo Agrario Socialista",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "38863",
+      "gaceta_oficial_fecha": "01/02/2008"
+    },
+    {
+      "ley": "Decreto Nº 5910 con Rango, Valor y Fuerza de Ley de Supresión y Liquidación del Fondo Nacional de Desarrollo Urbano",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "38883",
+      "gaceta_oficial_fecha": "04/03/2008"
+    },
+    {
+      "ley": "Decreto Nº 6000 con Rango, Valor y Fuerza de Ley que Crea la Orden José Rafael Nuñez Tenorio",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "38914",
+      "gaceta_oficial_fecha": "21/04/2008"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley sobre la Condecoración de la Orden al Mérito en el Trabajo",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "38920",
+      "gaceta_oficial_fecha": "29/04/2008"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley del Transporte Ferroviario Nacional",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5889 Ext.",
+      "gaceta_oficial_fecha": "31/07/2008"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Creación del Fondo Social para la Captación y Disposición de los Recursos Excedentarios de los Entes de la Administración Pública Nacional",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5890 Ext.",
+      "gaceta_oficial_fecha": "31/07/2008"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Salud Agrícola Integral",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5890 Ext.",
+      "gaceta_oficial_fecha": "31/07/2008"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Canalización y Mantenimiento de las Vías de Navegación",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "5891 Ext.",
+      "gaceta_oficial_fecha": "31/07/2008"
+    },
+    {
+      "ley": "Ley de Reforma Parcial del Decreto N° 5837 con Rango, Valor y Fuerza de Ley de Supresión y Liquidación del Fondo de Desarrollo Agropecuario, Pesquero, Forestal y Afines (FONDAFA)",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "39194",
+      "gaceta_oficial_fecha": "05/06/2009"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Régimen de Propiedad de las Viviendas de la Gran Misión Vivienda Venezuela",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6021 Ext.",
+      "gaceta_oficial_fecha": "06/04/2011"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley contra el Desalojo y la Desocupación Arbitraria de Vivienda",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "39668",
+      "gaceta_oficial_fecha": "06/05/2011"
+    },
+    {
+      "ley": "Decreto N° 8204 con Rango, Valor y Fuerza de Ley de Supresión y Liquidación del Fondo para el Desarrollo Endógeno",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "39676",
+      "gaceta_oficial_fecha": "18/05/2011"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Creación del Territorio Insular Francisco de Miranda",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "39797",
+      "gaceta_oficial_fecha": "10/11/2011"
+    },
+    {
+      "ley": "Decreto N° 8585 con Rango, Valor y Fuerza de Ley que Autoriza la Creación de Fondos en las Instituciones Bancarias del Sector Público para el Financiamiento de la Adquisición y Reparación de Viviendas en Condición de Arrendamiento",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "39799",
+      "gaceta_oficial_fecha": "14/11/2011"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley para la Gran Misión Hijos de Venezuela",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "39818",
+      "gaceta_oficial_fecha": "12/12/2011"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley para la Gran Misión En Amor Mayor Venezuela",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "39819",
+      "gaceta_oficial_fecha": "13/12/2011"
+    },
+    {
+      "ley": "Decreto N° 8809 con Rango, Valor y Fuerza de Ley del Fondo Ezequiel Zamora para el Fortalecimiento y Financiamiento de la Gran Misión Agro Venezuela",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "39869",
+      "gaceta_oficial_fecha": "23/02/2012"
+    },
+    {
+      "ley": "Decreto N° 8800 con Rango, Valor y Fuerza de Ley de Creación de la Corporación de Desarrollo Jacinto Lara (CORPOLARA)",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "39874",
+      "gaceta_oficial_fecha": "01/03/2012"
+    },
+    {
+      "ley": "Decreto Nº 8921 con Rango, Valor y Fuerza de Ley de Reforma Parcial de la Ley del Seguro Social",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "39912",
+      "gaceta_oficial_fecha": "30/04/2012"
+    },
+    {
+      "ley": "Decreto N° 9033 con Rango, Valor y Fuerza de Ley del Fondo Nacional para Edificaciones Penitenciarias",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "39945",
+      "gaceta_oficial_fecha": "15/06/2012"
+    },
+    {
+      "ley": "Decreto N° 9047 con Rango, Valor y Fuerza de Ley de la Gran Misión Saber y Trabajo",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "39945",
+      "gaceta_oficial_fecha": "15/06/2012"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley para la Determinación de Justiprecio de Bienes Inmuebles en los Casos de Expropiaciones de Emergencia con Fines de Poblamiento y Habitabilidad",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "39945",
+      "gaceta_oficial_fecha": "15/06/2012"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley sobre Acceso e Intercambio Electrónico de Datos, Información y Documentos entre los Órganos y Entes del Estado",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "39945",
+      "gaceta_oficial_fecha": "15/06/2012"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley que Promueve y Regula las Nuevas Formas Asociativas Conjuntas entre el Estado, la Iniciativa Comunitaria y Privada para el Desarrollo de la Economía Nacional",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "39945",
+      "gaceta_oficial_fecha": "15/06/2012"
+    },
+    {
+      "ley": "Ley de Reforma Parcial del Decreto N° 8807 con Rango, Valor y Fuerza de Ley que Crea Contribución Especial por Precios Extraordinarios y Precios Exorbitantes en el Mercado Internacional de Hidrocarburos",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "40114",
+      "gaceta_oficial_fecha": "20/02/2013"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley del Centro Nacional de Comercio Exterior y de la Corporación Venezolana de Comercio Exterior",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6116 Ext.",
+      "gaceta_oficial_fecha": "29/11/2013"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Regulación del Arrendamiento Inmobiliario para el Uso Comercial",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "40418",
+      "gaceta_oficial_fecha": "23/05/2014"
+    },
+    {
+      "ley": "Decreto Nº 1062 con Rango, Valor y Fuerza de Ley de Atención al Sector Agrario",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "40440",
+      "gaceta_oficial_fecha": "25/06/2014"
+    },
+    {
+      "ley": "Decreto N° 1347 con Rango, Valor y Fuerza de Ley de Supresión y Liquidación del Instituto Nacional de la Vivienda",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "40526",
+      "gaceta_oficial_fecha": "24/10/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley para Establecer los Lineamientos de Financiamiento a las Organizaciones de Base del Poder Popular",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "40540",
+      "gaceta_oficial_fecha": "13/11/2014"
+    },
+    {
+      "ley": "Decreto N° 1397 con Rango, Valor y Fuerza de Ley de Reforma Parcial del Decreto con Rango, Valor y Fuerza de Ley de Tazas Portuarias",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6150 Ext.",
+      "gaceta_oficial_fecha": "18/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Timbre Fiscal",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6150 Ext.",
+      "gaceta_oficial_fecha": "18/11/2014"
+    },
+    {
+      "ley": "Decreto N° 1404 con Rango, Valor y Fuerza de Ley de Reforma Parcial de la Ley del Banco de Desarrollo Económico y Social de Venezuela",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6152 Ext.",
+      "gaceta_oficial_fecha": "18/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley del Sistema Nacional Integral Agroalimentario",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6150 Ext.",
+      "gaceta_oficial_fecha": "18/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Pesca y Acuicultura",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6150 Ext.",
+      "gaceta_oficial_fecha": "18/11/2014"
+    },
+    {
+      "ley": "Decreto N° 1409 con Rango, Valor y Fuerza de Ley de la Gran Misión Agro Venezuela",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6151 Ext.",
+      "gaceta_oficial_fecha": "18/11/2014"
+    },
+    {
+      "ley": "Decreto N° 1413 con Rango, Valor y Fuerza de Ley de Reforma Parcial de la Ley para la Promoción y Desarrollo de la Pequeña y Mediana Industria y Unidades de Propiedad Social",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6151 Ext.",
+      "gaceta_oficial_fecha": "18/11/2014"
+    },
+    {
+      "ley": "Decreto Nº 1417 con Rango, Valor y Fuerza de Ley de Reforma Parcial de la Ley de Impuesto sobre Cigarrillo y Manufacturas del Tabaco",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6151 Ext.",
+      "gaceta_oficial_fecha": "18/11/2014"
+    },
+    {
+      "ley": "Decreto N° 1418 con Rango, Valor y Fuerza de Ley de Reforma Parcial de la Ley de Impuesto sobre Alcohol y Especies Alcohólicas",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6151 Ext.",
+      "gaceta_oficial_fecha": "18/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Regionalización Integral para el Desarrollo Socioproductivo de la Patria",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6151 Ext.",
+      "gaceta_oficial_fecha": "18/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Fomento del Turismo Sustentable como Actividad Comunitaria y Social",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6153 Ext.",
+      "gaceta_oficial_fecha": "18/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Marinas y Actividades Conexas",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6153 Ext.",
+      "gaceta_oficial_fecha": "18/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley sobre Inmunidad Soberana de los Activos de los Bancos Centrales u Otras Autoridades Monetarias Extranjeras",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6154 Ext.",
+      "gaceta_oficial_fecha": "19/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Contrataciones Públicas",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6154 Ext.",
+      "gaceta_oficial_fecha": "19/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley del Banco Agrícola de Venezuela C.A., Banco Universal",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6154 Ext.",
+      "gaceta_oficial_fecha": "19/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley del Instituto Nacional de Capacitación y Educación Socialista (INCES)",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6155 Ext.",
+      "gaceta_oficial_fecha": "19/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley sobre el Régimen de Jubilaciones y Pensiones de los Trabajadores y las Trabajadoras de la Administración Pública Nacional, Estadal y Municipal",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6156 Ext.",
+      "gaceta_oficial_fecha": "19/11/2014"
+    },
+    {
+      "ley": "Decreto N° 1444 con Rango, Valor y Fuerza de Ley del Cuerpo Nacional Contra la Corrupción",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6156 Ext.",
+      "gaceta_oficial_fecha": "19/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley Antimonopolio",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "40549",
+      "gaceta_oficial_fecha": "26/11/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Instituciones del Sector Bancario",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "40557",
+      "gaceta_oficial_fecha": "08/12/2014"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley para la Soberanía Territorial y la Paz",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "40701",
+      "gaceta_oficial_fecha": "13/07/2015"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley del Cestaticket Socialista para los Trabajadores y Trabajadoras",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "40773",
+      "gaceta_oficial_fecha": "23/10/2015"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de los Consejos Presidenciales de Gobierno del Poder Popular",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6209 Ext.",
+      "gaceta_oficial_fecha": "29/12/2015"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley para la Preservación del Cuartel de la Montaña y su Memoria Histórica",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6209 Ext.",
+      "gaceta_oficial_fecha": "29/12/2015"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Reforma Parcial del Decreto con Rango, Valor y Fuerza de Ley de Impuesto sobre la Renta",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6210 Ext.",
+      "gaceta_oficial_fecha": "30/12/2015"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley de Mercado de Valores",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6211 Ext.",
+      "gaceta_oficial_fecha": "30/12/2015"
+    },
+    {
+      "ley": "Decreto con Rango, Valor y Fuerza de Ley del Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT)",
+      "tipo": "Decretos con Rango, Valor y Fuerza de Ley Ordinaria",
+      "gaceta_oficial_numero": "6211 Ext.",
+      "gaceta_oficial_fecha": "30/12/2015"
+    },
+    {
+      "ley": "Ley Derogatoria de la Ley que Crea el Fondo Intergubernamental para la Descentralización (FIDES)",
+      "tipo": "Leyes Derogatorias",
+      "gaceta_oficial_numero": "39394",
+      "gaceta_oficial_fecha": "25/03/2010"
+    },
+    {
+      "ley": "Ley Derogatoria de la Ley de Regularización de los Períodos Constitucionales y Legales de los Poderes Públicos Estadales y Municipales",
+      "tipo": "Leyes Derogatorias",
+      "gaceta_oficial_numero": "42082",
+      "gaceta_oficial_fecha": "08/03/2021"
+    },
+    {
+      "ley": "Ley Constitucional Contra el Odio, por la Convivencia Pacífica y la Tolerancia",
+      "tipo": "Leyes",
+      "gaceta_oficial_numero": "41276",
+      "gaceta_oficial_fecha": "10/11/2017"
+    },
+    {
+      "ley": "Ley Constitucional de Precios Acordados",
+      "tipo": "Leyes",
+      "gaceta_oficial_numero": "6342 Ext.",
+      "gaceta_oficial_fecha": "22/11/2017"
+    },
+    {
+      "ley": "Ley Constitucional Sobre la Creación de la Unidad Tributaria Sancionatoria",
+      "tipo": "Leyes",
+      "gaceta_oficial_numero": "41305",
+      "gaceta_oficial_fecha": "21/12/2017"
+    },
+    {
+      "ley": "Ley Constitucional del Régimen Tributario para el Desarrollo Soberano del Arco Minero",
+      "tipo": "Leyes",
+      "gaceta_oficial_numero": "41310",
+      "gaceta_oficial_fecha": "29/12/2017"
+    },
+    {
+      "ley": "Ley Constitucional de Inversión Extranjera Productiva",
+      "tipo": "Leyes",
+      "gaceta_oficial_numero": "41310",
+      "gaceta_oficial_fecha": "29/12/2017"
+    },
+    {
+      "ley": "Ley Constitucional Contra la Guerra Económica para la Racionalidad y Uniformidad en la Adquisición de Bienes, Servicios y Obras Públicas",
+      "tipo": "Leyes",
+      "gaceta_oficial_numero": "41318",
+      "gaceta_oficial_fecha": "11/01/2018"
+    },
+    {
+      "ley": "Ley Constitucional del Comité Local de Abastecimiento y Producción",
+      "tipo": "Leyes",
+      "gaceta_oficial_numero": "41330",
+      "gaceta_oficial_fecha": "29/01/2018"
+    },
+    {
+      "ley": "Ley Constitucional de los Consejos Productivos de Trabajadoras y Trabajadores",
+      "tipo": "Leyes",
+      "gaceta_oficial_numero": "41336",
+      "gaceta_oficial_fecha": "06/02/2018"
+    },
+    {
+      "ley": "Ley Constitucional de la Fuerza Armada Nacional Bolivariana",
+      "tipo": "Leyes",
+      "gaceta_oficial_numero": "6508 Ext.",
+      "gaceta_oficial_fecha": "30/01/2020"
+    },
+    {
+      "ley": "Ley Constitucional Antibloqueo para el Desarrollo Nacional y la Garantía de los Derechos Humanos",
+      "tipo": "Leyes",
+      "gaceta_oficial_numero": "6583 Ext.",
+      "gaceta_oficial_fecha": "12/10/2020"
+    },
+    {
+      "ley": "Decreto Constituyente Mediante el Cual se Decide la Supresión y Liquidación del Nivel Metropolitano de Caracas y el Distrito del Alto Apure",
+      "tipo": "Decretos",
+      "gaceta_oficial_numero": "41308",
+      "gaceta_oficial_fecha": "27/12/2017"
+    },
+    {
+      "ley": "Decreto Constituyente para la Promoción y Protección del Parto y el Nacimiento Humanizado",
+      "tipo": "Decretos",
+      "gaceta_oficial_numero": "41376",
+      "gaceta_oficial_fecha": "12/04/2018"
+    },
+    {
+      "ley": "Decreto Constituyente que Crea la Cartera Productiva Única Nacional",
+      "tipo": "Decretos",
+      "gaceta_oficial_numero": "6507 Ext.",
+      "gaceta_oficial_fecha": "29/01/2020"
+    },
+    {
+      "ley": "Decreto Constituyente Mediante el Cual se Dicta el Código Orgánico Tributario",
+      "tipo": "Decretos",
+      "gaceta_oficial_numero": "6507 Ext.",
+      "gaceta_oficial_fecha": "29/01/2020"
+    },
+    {
+      "ley": "Decreto Constituyente de Reforma Parcial del Decreto con Rango, Valor y Fuerza de Ley Orgánica de Aduanas",
+      "tipo": "Decretos",
+      "gaceta_oficial_numero": "6507 Ext.",
+      "gaceta_oficial_fecha": "29/01/2020"
+    },
+    {
+      "ley": "Decreto Constituyente Mediante el Cual se Crea la Orden Héroes y Heroínas Batalla de los Puentes 23 de Febrero",
+      "tipo": "Decretos",
+      "gaceta_oficial_numero": "6507 Ext.",
+      "gaceta_oficial_fecha": "29/01/2020"
+    },
+    {
+      "ley": "Decreto Constituyente de Reforma Parcial del Decreto con Rango, Valor y Fuerza de Ley que Establece el Impuesto al Valor Agregado",
+      "tipo": "Decretos",
+      "gaceta_oficial_numero": "6507 Ext.",
+      "gaceta_oficial_fecha": "29/01/2020"
+    }
+  ],
+  "meta": {
+    "title": "Leyes de Venezuela - Free Download",
+    "description": "Listado de códigos, leyes orgánicas, leyes especiales y decretos con rango de ley de Venezuela, con el número y la fecha de la Gaceta Oficial en que se publicaron. Contains 499 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Leyes de Venezuela | ListBase",
+    "seo_description": "Download Leyes de Venezuela — 499 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 499 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Leyes_de_Venezuela"
+    ]
+  }
+}

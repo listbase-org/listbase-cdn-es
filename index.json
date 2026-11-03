@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-03T02:13:12.715Z",
-  "total_datasets": 518,
-  "total_records": 428223,
+  "generated": "2026-11-03T02:13:23.422Z",
+  "total_datasets": 519,
+  "total_records": 428722,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -2679,6 +2679,31 @@
         "xlsx": {
           "name": "es-sistemas-de-escritura_ES.xlsx",
           "size": 10380
+        }
+      }
+    },
+    {
+      "id": "es-leyes-de-venezuela",
+      "name": "Leyes de Venezuela",
+      "category": "law",
+      "record_count": 499,
+      "columns": [
+        "ley",
+        "tipo",
+        "gaceta_oficial_numero",
+        "gaceta_oficial_fecha"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Leyes_de_Venezuela",
+      "updated": "2026-11",
+      "size": 117852,
+      "files": {
+        "csv": {
+          "name": "es-leyes-de-venezuela_ES.csv",
+          "size": 64405
+        },
+        "xlsx": {
+          "name": "es-leyes-de-venezuela_ES.xlsx",
+          "size": 31158
         }
       }
     },
