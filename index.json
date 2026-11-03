@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-03T02:13:39.310Z",
-  "total_datasets": 521,
-  "total_records": 429017,
+  "generated": "2026-11-03T02:13:46.113Z",
+  "total_datasets": 522,
+  "total_records": 429056,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -1461,6 +1461,31 @@
         "xlsx": {
           "name": "es-platos-tipicos-del-peru_ES.xlsx",
           "size": 19439
+        }
+      }
+    },
+    {
+      "id": "es-quesos-de-latinoamerica",
+      "name": "Quesos de Latinoamérica",
+      "category": "food",
+      "record_count": 39,
+      "columns": [
+        "nombre",
+        "pais",
+        "region",
+        "descripcion"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Quesos",
+      "updated": "2026-11",
+      "size": 8813,
+      "files": {
+        "csv": {
+          "name": "es-quesos-de-latinoamerica_ES.csv",
+          "size": 4160
+        },
+        "xlsx": {
+          "name": "es-quesos-de-latinoamerica_ES.xlsx",
+          "size": 9176
         }
       }
     },

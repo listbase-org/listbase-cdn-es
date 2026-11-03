@@ -1,0 +1,280 @@
+{
+  "id": "es-quesos-de-latinoamerica",
+  "name": "Quesos de Latinoamérica",
+  "title": "Quesos de Latinoamérica",
+  "description": "Quesos tradicionales de México, Sudamérica y Brasil con su país, región de origen y una breve descripción.",
+  "category": "food",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Quesos",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Quesos",
+  "updated": "2026-11",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "pais",
+      "label": "Pais",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "descripcion",
+      "label": "Descripcion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nombre": "Adobera",
+      "pais": "México",
+      "region": "",
+      "descripcion": "Queso blando sazonado con chile."
+    },
+    {
+      "nombre": "Chihuahua",
+      "pais": "México",
+      "region": "Chihuahua",
+      "descripcion": "Elaborado originalmente por la comunidad menonita, su sabor es salado y ligeramente ácido."
+    },
+    {
+      "nombre": "Cotija o añejo",
+      "pais": "México",
+      "region": "Cotija de la Paz",
+      "descripcion": "Queso salado con aroma y sabor fuerte."
+    },
+    {
+      "nombre": "Panela",
+      "pais": "México",
+      "region": "",
+      "descripcion": "Queso fresco, suave y blanco de leche de vaca pasteurizada"
+    },
+    {
+      "nombre": "Queso bola",
+      "pais": "México",
+      "region": "Ocosingo",
+      "descripcion": "Elaborado con cuajada de leche de vaca."
+    },
+    {
+      "nombre": "Queso oaxaca",
+      "pais": "México",
+      "region": "Oaxaca",
+      "descripcion": "Queso blanco y semiduro"
+    },
+    {
+      "nombre": "Chubut",
+      "pais": "Argentina",
+      "region": "Valle inferior del río Chubut",
+      "descripcion": "Queso semiduro con pocos ojos y textura cerrada."
+    },
+    {
+      "nombre": "Goya",
+      "pais": "Argentina",
+      "region": "Goya, Corrientes",
+      "descripcion": "De corteza lisa y consistente, puede presentar algunos ojos pequeños. ​"
+    },
+    {
+      "nombre": "Pategrás",
+      "pais": "Argentina",
+      "region": "Región pampeana",
+      "descripcion": "Elaborado con leche de vaca, es el queso de pasta semidura más popular del país. ​"
+    },
+    {
+      "nombre": "Provolone Hilado",
+      "pais": "Argentina",
+      "region": "",
+      "descripcion": "Elaborado con leche de vaca, suele utilizarse para asar a la parrilla."
+    },
+    {
+      "nombre": "Quesillo",
+      "pais": "Argentina",
+      "region": "Valles Calchaquíes y Valle de Lerma",
+      "descripcion": "Queso fresco de color blanco obtenido de leche de vaca."
+    },
+    {
+      "nombre": "Queso Holanda o Mar del Plata",
+      "pais": "Argentina",
+      "region": "",
+      "descripcion": "Queso semiduro elaborado con leche de vaca parcialmente descremada. ​"
+    },
+    {
+      "nombre": "Quesos de Tafí",
+      "pais": "Argentina",
+      "region": "Tafí del Valle",
+      "descripcion": "Nombre genérico para varios tipos de quesos que se comenzaron a elaborar en la época colonial."
+    },
+    {
+      "nombre": "Reggianito",
+      "pais": "Argentina",
+      "region": "",
+      "descripcion": "Realizado por inmigrantes italianos basándose en el parmesano, es elaborado con leche de vaca y presenta una textura dura."
+    },
+    {
+      "nombre": "Sardo",
+      "pais": "Argentina",
+      "region": "",
+      "descripcion": "Similar al sardo italiano, pero realizado con leche de vaca."
+    },
+    {
+      "nombre": "Tybo",
+      "pais": "Argentina",
+      "region": "",
+      "descripcion": "De consistencia elástica, se lo suele comercializar cortado en fetas. ​"
+    },
+    {
+      "nombre": "Quesillo cochabambino",
+      "pais": "Bolivia",
+      "region": "Cochabamba",
+      "descripcion": "Elaborado con leche fresca de vaca."
+    },
+    {
+      "nombre": "Catupiry",
+      "pais": "Brasil",
+      "region": "Minas Gerais",
+      "descripcion": "Queso suave, untable, con bajo nivel de acidez."
+    },
+    {
+      "nombre": "Minas Frescal",
+      "pais": "Brasil",
+      "region": "",
+      "descripcion": "Queso de leche de vaca de consistencia suave y muy alta humedad."
+    },
+    {
+      "nombre": "Queijo coalho",
+      "pais": "Brasil",
+      "region": "Región Nordeste de Brasil",
+      "descripcion": "De sabor ligeramente salado y textura blanda."
+    },
+    {
+      "nombre": "Chanco",
+      "pais": "Chile",
+      "region": "Chanco",
+      "descripcion": "Queso de alto contenido graso, posee un suave sabor ácido."
+    },
+    {
+      "nombre": "Panquehue",
+      "pais": "Chile",
+      "region": "",
+      "descripcion": "Queso semiblando, su sabor es similar al tilsit ​."
+    },
+    {
+      "nombre": "Quesito",
+      "pais": "Colombia",
+      "region": "Antioquia",
+      "descripcion": "Queso blanco, fresco y blando."
+    },
+    {
+      "nombre": "Costeño",
+      "pais": "Colombia",
+      "region": "Región Caribe",
+      "descripcion": "Queso blanco, fresco y blando."
+    },
+    {
+      "nombre": "Paipa",
+      "pais": "Colombia",
+      "region": "Paipa, Sotaquirá, etc. (Boyacá)",
+      "descripcion": "Elaborado desde la época de la colonia, es un queso semiduro, semigraso y semicurado. ​"
+    },
+    {
+      "nombre": "Pera",
+      "pais": "Colombia",
+      "region": "Boyacá",
+      "descripcion": "Es un queso fresco ácido cocido, no madurado, con forma de pera. ​"
+    },
+    {
+      "nombre": "Quesillo yaguareño",
+      "pais": "Colombia",
+      "region": "Huila",
+      "descripcion": "Consistencia suave y delicada."
+    },
+    {
+      "nombre": "Queso chonero",
+      "pais": "Ecuador",
+      "region": "Chone",
+      "descripcion": "Queso fresco, tradicional, elaborado artesanalmente con leche fresca de vaca, sin preservantes, cuajo de origen animal y sal en grano."
+    },
+    {
+      "nombre": "Colonia",
+      "pais": "Uruguay",
+      "region": "Colonia",
+      "descripcion": "Es un queso tierno de corteza dura, color amarillo claro y con abundantes ojos"
+    },
+    {
+      "nombre": "Yamandú",
+      "pais": "Uruguay",
+      "region": "Nueva Helvecia, Colonia",
+      "descripcion": "Era un queso tipo gouda, de pasta firme, semidura, elaborado con leche de vaca y con agregado de fermentos seleccionados. ​"
+    },
+    {
+      "nombre": "Zapicán",
+      "pais": "Uruguay",
+      "region": "",
+      "descripcion": "Variedad comercial del queso yamandú de menores dimensiones, elaborado con leche vacuna, de 3 a 4 kg de peso. Es de consistencia y textura firmes, con algún ojo esférico y sabor suave pero definido. Se utiliza como queso de corte. ​"
+    },
+    {
+      "nombre": "Termal",
+      "pais": "Uruguay",
+      "region": "Colonia Juan Gutiérrez, Paysandú",
+      "descripcion": "Se elabora utilizando las aguas saladas de las Termas de Almirón. Elaborado con leche vacuna entera, tiene un tamaño de corte de 1 cm de lado y un peso aproximado de 1 kg. ​"
+    },
+    {
+      "nombre": "Sándwich",
+      "pais": "Uruguay",
+      "region": "",
+      "descripcion": "Queso de molde procesado, elaborado especialmente para la producción de sándwiches."
+    },
+    {
+      "nombre": "Guayanés",
+      "pais": "Venezuela",
+      "region": "Guayana",
+      "descripcion": "Similar a la mozzarella, suele utilizarse para rellenar arepas y cachapas."
+    },
+    {
+      "nombre": "Churuguara",
+      "pais": "Venezuela",
+      "region": "Falcón",
+      "descripcion": ""
+    },
+    {
+      "nombre": "Llanero",
+      "pais": "Venezuela",
+      "region": "",
+      "descripcion": ""
+    },
+    {
+      "nombre": "Paisa",
+      "pais": "Venezuela",
+      "region": "",
+      "descripcion": "En realidad se llama queso fresco pasteurizado, su nombre proviene de la metonimia por la marca registrada Paisa."
+    },
+    {
+      "nombre": "Telita",
+      "pais": "Venezuela",
+      "region": "",
+      "descripcion": ""
+    },
+    {
+      "nombre": "Queso de Mano",
+      "pais": "Venezuela",
+      "region": "",
+      "descripcion": ""
+    }
+  ],
+  "meta": {
+    "title": "Quesos de Latinoamérica - Free Download",
+    "description": "Quesos tradicionales de México, Sudamérica y Brasil con su país, región de origen y una breve descripción. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Quesos de Latinoamérica | ListBase",
+    "seo_description": "Download Quesos de Latinoamérica — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Quesos"
+    ]
+  }
+}
