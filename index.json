@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-03T02:13:23.422Z",
-  "total_datasets": 519,
-  "total_records": 428722,
+  "generated": "2026-11-03T02:13:31.689Z",
+  "total_datasets": 520,
+  "total_records": 428792,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "finance",
@@ -784,6 +784,32 @@
         "xlsx": {
           "name": "es-centrales-nucleares_ES.xlsx",
           "size": 7765
+        }
+      }
+    },
+    {
+      "id": "es-parques-nacionales-de-mexico",
+      "name": "Parques nacionales de México",
+      "category": "environment",
+      "record_count": 70,
+      "columns": [
+        "numero",
+        "nombre",
+        "estados",
+        "fecha_declaracion",
+        "area_ha"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Parques_nacionales_de_México",
+      "updated": "2026-11",
+      "size": 16267,
+      "files": {
+        "csv": {
+          "name": "es-parques-nacionales-de-mexico_ES.csv",
+          "size": 7048
+        },
+        "xlsx": {
+          "name": "es-parques-nacionales-de-mexico_ES.xlsx",
+          "size": 10541
         }
       }
     },

@@ -1,0 +1,541 @@
+{
+  "id": "es-parques-nacionales-de-mexico",
+  "name": "Parques nacionales de México",
+  "title": "Parques nacionales de México",
+  "description": "Lista de los parques nacionales de México con el estado o estados donde se ubican, la fecha de su decreto y la superficie en hectáreas.",
+  "category": "environment",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Parques_nacionales_de_México",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Parques_nacionales_de_México",
+  "updated": "2026-11",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "estados",
+      "label": "Estados",
+      "type": "string"
+    },
+    {
+      "key": "fecha_declaracion",
+      "label": "Fecha Declaracion",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "numero": "01",
+      "nombre": "Parque nacional Desierto de los Leones",
+      "estados": "Ciudad de México",
+      "fecha_declaracion": "27 de noviembre de 1917",
+      "area_ha": 1866
+    },
+    {
+      "numero": "02",
+      "nombre": "Parque nacional Iztaccíhuatl-Popocatépetl",
+      "estados": "México Morelos Puebla",
+      "fecha_declaracion": "8 de noviembre de 1935",
+      "area_ha": 40590
+    },
+    {
+      "numero": "03",
+      "nombre": "Parque nacional Grutas de Cacahuamilpa",
+      "estados": "Guerrero",
+      "fecha_declaracion": "20 de enero de 1936",
+      "area_ha": 1600
+    },
+    {
+      "numero": "04",
+      "nombre": "Parque nacional Volcán Nevado de Colima",
+      "estados": "Colima Jalisco",
+      "fecha_declaracion": "5 de septiembre de 1936",
+      "area_ha": 9375
+    },
+    {
+      "numero": "05",
+      "nombre": "Parque nacional Cerro de Garnica",
+      "estados": "Michoacán",
+      "fecha_declaracion": "5 de septiembre de 1936",
+      "area_ha": 968
+    },
+    {
+      "numero": "06",
+      "nombre": "Parque nacional Los Mármoles",
+      "estados": "Hidalgo",
+      "fecha_declaracion": "8 de septiembre de 1936",
+      "area_ha": 23150
+    },
+    {
+      "numero": "07",
+      "nombre": "Parque nacional Insurgente Miguel Hidalgo y Costilla",
+      "estados": "Ciudad de México México",
+      "fecha_declaracion": "9 de septiembre de 1936",
+      "area_ha": 4790
+    },
+    {
+      "numero": "",
+      "nombre": "Parque nacional El Potosí",
+      "estados": "San Luis Potosí",
+      "fecha_declaracion": "15 de septiembre de 1936",
+      "area_ha": 2000
+    },
+    {
+      "numero": "08",
+      "nombre": "Parque nacional Gogorrón",
+      "estados": "San Luis Potosí",
+      "fecha_declaracion": "22 de septiembre de 1936",
+      "area_ha": 25000
+    },
+    {
+      "numero": "09",
+      "nombre": "Parque nacional Cumbres del Ajusco",
+      "estados": "Ciudad de México",
+      "fecha_declaracion": "23 de septiembre de 1936",
+      "area_ha": 920
+    },
+    {
+      "numero": "10",
+      "nombre": "Parque nacional Fuentes Brotantes de Tlalpan",
+      "estados": "Ciudad de México",
+      "fecha_declaracion": "28 de septiembre de 1936",
+      "area_ha": 129
+    },
+    {
+      "numero": "11",
+      "nombre": "Parque nacional Lagunas de Zempoala",
+      "estados": "México Morelos",
+      "fecha_declaracion": "27 de noviembre de 1936",
+      "area_ha": 4790
+    },
+    {
+      "numero": "12",
+      "nombre": "Parque nacional Pico de Orizaba",
+      "estados": "Veracruz",
+      "fecha_declaracion": "4 de enero de 1937",
+      "area_ha": 19750
+    },
+    {
+      "numero": "13",
+      "nombre": "Parque nacional El Tepozteco",
+      "estados": "Morelos",
+      "fecha_declaracion": "22 de enero de 1937",
+      "area_ha": 23259
+    },
+    {
+      "numero": "14",
+      "nombre": "Parque nacional El Tepeyac",
+      "estados": "Ciudad de México México",
+      "fecha_declaracion": "18 de febrero de 1937",
+      "area_ha": 294.19
+    },
+    {
+      "numero": "15",
+      "nombre": "Parque nacional Cofre de Perote",
+      "estados": "Veracruz",
+      "fecha_declaracion": "4 de mayo de 1937",
+      "area_ha": 11700
+    },
+    {
+      "numero": "16",
+      "nombre": "Parque nacional Cerro de las Campanas",
+      "estados": "Querétaro",
+      "fecha_declaracion": "7 de julio de 1937",
+      "area_ha": 58
+    },
+    {
+      "numero": "17",
+      "nombre": "Parque nacional Lagunas de Chacahua",
+      "estados": "Oaxaca",
+      "fecha_declaracion": "9 de julio de 1937",
+      "area_ha": 14187
+    },
+    {
+      "numero": "18",
+      "nombre": "Parque nacional Molino de Flores Nezahualcóyotl",
+      "estados": "México",
+      "fecha_declaracion": "5 de noviembre de 1937",
+      "area_ha": 50
+    },
+    {
+      "numero": "19",
+      "nombre": "Parque nacional Benito Juárez",
+      "estados": "Oaxaca",
+      "fecha_declaracion": "30 de diciembre de 1937",
+      "area_ha": 3180
+    },
+    {
+      "numero": "20",
+      "nombre": "Parque nacional Cañón del Río Blanco",
+      "estados": "Veracruz",
+      "fecha_declaracion": "22 de marzo de 1938",
+      "area_ha": 55690
+    },
+    {
+      "numero": "21",
+      "nombre": "Parque nacional Los Remedios",
+      "estados": "México",
+      "fecha_declaracion": "15 de abril de 1938",
+      "area_ha": 400
+    },
+    {
+      "numero": "22",
+      "nombre": "Parque nacional Lomas de Padierna",
+      "estados": "Ciudad de México",
+      "fecha_declaracion": "22 de abril de 1938",
+      "area_ha": 670
+    },
+    {
+      "numero": "23",
+      "nombre": "Parque nacional Cerro de la Estrella",
+      "estados": "Ciudad de México",
+      "fecha_declaracion": "14 de agosto de 1938",
+      "area_ha": 1093
+    },
+    {
+      "numero": "24",
+      "nombre": "Parque nacional El Sabinal",
+      "estados": "Nuevo León",
+      "fecha_declaracion": "25 de agosto de 1938",
+      "area_ha": 7.237
+    },
+    {
+      "numero": "25",
+      "nombre": "Parque nacional El Histórico Coyoacán",
+      "estados": "Ciudad de México",
+      "fecha_declaracion": "26 de septiembre de 1938",
+      "area_ha": 584
+    },
+    {
+      "numero": "26",
+      "nombre": "Parque nacional La Malinche",
+      "estados": "Tlaxcala Puebla",
+      "fecha_declaracion": "6 de octubre de 1938",
+      "area_ha": 45852.45
+    },
+    {
+      "numero": "27",
+      "nombre": "Parque nacional Barranca del Cupatitzio",
+      "estados": "Michoacán",
+      "fecha_declaracion": "2 de noviembre de 1938",
+      "area_ha": 362
+    },
+    {
+      "numero": "28",
+      "nombre": "Parque nacional Insurgente José María Morelos",
+      "estados": "Michoacán",
+      "fecha_declaracion": "22 de febrero de 1939",
+      "area_ha": 4325
+    },
+    {
+      "numero": "29",
+      "nombre": "Parque nacional Sacromonte",
+      "estados": "México",
+      "fecha_declaracion": "29 de agosto de 1939",
+      "area_ha": 45
+    },
+    {
+      "numero": "30",
+      "nombre": "Parque nacional Cumbres de Majalca",
+      "estados": "Chihuahua",
+      "fecha_declaracion": "1 de septiembre de 1939",
+      "area_ha": 4772
+    },
+    {
+      "numero": "31",
+      "nombre": "Parque nacional Cumbres de Monterrey",
+      "estados": "Nuevo León",
+      "fecha_declaracion": "24 de noviembre de 1939",
+      "area_ha": 177395.95
+    },
+    {
+      "numero": "32",
+      "nombre": "Parque nacional Lago de Camécuaro",
+      "estados": "Michoacán",
+      "fecha_declaracion": "18 de junio de 1940",
+      "area_ha": 9.65
+    },
+    {
+      "numero": "33",
+      "nombre": "Parque nacional Los Novillos",
+      "estados": "Coahuila",
+      "fecha_declaracion": "18 de junio de 1940",
+      "area_ha": 42
+    },
+    {
+      "numero": "34",
+      "nombre": "Parque nacional Bosencheve",
+      "estados": "México Michoacán",
+      "fecha_declaracion": "1 de agosto de 1940",
+      "area_ha": 10432
+    },
+    {
+      "numero": "35",
+      "nombre": "Parque nacional Sierra de San Pedro Mártir",
+      "estados": "Baja California",
+      "fecha_declaracion": "26 de abril de 1947",
+      "area_ha": 72909
+    },
+    {
+      "numero": "36",
+      "nombre": "Parque nacional Desierto del Carmen o Nixcongo",
+      "estados": "México",
+      "fecha_declaracion": "10 de octubre de 1942",
+      "area_ha": 529
+    },
+    {
+      "numero": "37",
+      "nombre": "Parque nacional Rayón",
+      "estados": "Michoacán",
+      "fecha_declaracion": "29 de agosto de 1952",
+      "area_ha": 25
+    },
+    {
+      "numero": "38",
+      "nombre": "Parque nacional Lagunas de Montebello",
+      "estados": "Chiapas",
+      "fecha_declaracion": "16 de diciembre de 1959",
+      "area_ha": 6022
+    },
+    {
+      "numero": "39",
+      "nombre": "Parque nacional Constitución de 1857",
+      "estados": "Baja California",
+      "fecha_declaracion": "27 de abril de 1962",
+      "area_ha": 5009
+    },
+    {
+      "numero": "40",
+      "nombre": "Parque nacional General Juan N. Álvarez",
+      "estados": "Guerrero",
+      "fecha_declaracion": "14 de mayo de 1964",
+      "area_ha": 528
+    },
+    {
+      "numero": "41",
+      "nombre": "Parque nacional El Veladero",
+      "estados": "Guerrero",
+      "fecha_declaracion": "18 de julio de 1980",
+      "area_ha": 3159
+    },
+    {
+      "numero": "42",
+      "nombre": "Parque nacional Cañón del Sumidero",
+      "estados": "Chiapas",
+      "fecha_declaracion": "8 de diciembre de 1980",
+      "area_ha": 21789
+    },
+    {
+      "numero": "43",
+      "nombre": "Parque nacional Isla Isabel (Patrimonio de la Humanidad (incluido en el ámbito de « Islas y áreas protegidas del Golfo de California ») (2005)",
+      "estados": "Nayarit",
+      "fecha_declaracion": "8 de diciembre de 1980",
+      "area_ha": 194
+    },
+    {
+      "numero": "44",
+      "nombre": "Parque nacional Cascada de Basaseachi",
+      "estados": "Chihuahua",
+      "fecha_declaracion": "2 de febrero de 1981",
+      "area_ha": 5803
+    },
+    {
+      "numero": "45",
+      "nombre": "Parque nacional Tulum",
+      "estados": "Quintana Roo",
+      "fecha_declaracion": "23 de abril de 1981",
+      "area_ha": 600
+    },
+    {
+      "numero": "46",
+      "nombre": "Parque nacional Tula",
+      "estados": "Hidalgo",
+      "fecha_declaracion": "27 de mayo de 1981",
+      "area_ha": 100
+    },
+    {
+      "numero": "47",
+      "nombre": "Parque nacional Palenque (Patrimonio de la Humanidad (incluido en el ámbito de « Ciudad prehispánica y parque nacional de Palenque ») (1987)",
+      "estados": "Chiapas",
+      "fecha_declaracion": "20 de julio de 1981",
+      "area_ha": 1772
+    },
+    {
+      "numero": "48",
+      "nombre": "Parque nacional El Chico",
+      "estados": "Hidalgo",
+      "fecha_declaracion": "6 de junio de 1982",
+      "area_ha": 2739
+    },
+    {
+      "numero": "49",
+      "nombre": "Parque nacional Dzibilchantún",
+      "estados": "Yucatán",
+      "fecha_declaracion": "14 de abril de 1987",
+      "area_ha": 539
+    },
+    {
+      "numero": "50",
+      "nombre": "Parque nacional Pantanos de Centla",
+      "estados": "Tabasco",
+      "fecha_declaracion": "6 de agosto de 1992",
+      "area_ha": 302706
+    },
+    {
+      "numero": "51",
+      "nombre": "Parque marino nacional Sistema Arrecifal Veracruzano",
+      "estados": "Veracruz",
+      "fecha_declaracion": "24 de agosto de 1992",
+      "area_ha": 65516
+    },
+    {
+      "numero": "52",
+      "nombre": "Parque nacional El Cimatario",
+      "estados": "Querétaro",
+      "fecha_declaracion": "31 de marzo de 1993",
+      "area_ha": 2447.87
+    },
+    {
+      "numero": "53",
+      "nombre": "Parque nacional Arrecife Alacranes",
+      "estados": "Yucatán",
+      "fecha_declaracion": "6 de junio de 1994",
+      "area_ha": 333768.5
+    },
+    {
+      "numero": "54",
+      "nombre": "Parque nacional Cabo Pulmo (Patrimonio de la Humanidad (incluido en el ámbito de « Islas y áreas protegidas del Golfo de California ») (2005)",
+      "estados": "Baja California Sur",
+      "fecha_declaracion": "6 de septiembre de 1995",
+      "area_ha": 7111
+    },
+    {
+      "numero": "55",
+      "nombre": "Parque nacional Costa Occidental de Isla Mujeres, Punta Cancún y Punta Nizuc",
+      "estados": "Quintana Roo",
+      "fecha_declaracion": "15 de marzo de 1996",
+      "area_ha": 8673
+    },
+    {
+      "numero": "56",
+      "nombre": "Parque nacional Bahía de Loreto (Patrimonio de la Humanidad (incluido en el ámbito de « Islas y áreas protegidas del Golfo de California ») (2005)",
+      "estados": "Baja California Sur",
+      "fecha_declaracion": "19 de julio de 1996",
+      "area_ha": 206581
+    },
+    {
+      "numero": "57",
+      "nombre": "Parque nacional Arrecifes de Cozumel",
+      "estados": "Quintana Roo",
+      "fecha_declaracion": "19 de julio de 1996",
+      "area_ha": 11987
+    },
+    {
+      "numero": "58",
+      "nombre": "Parque nacional Arrecife de Puerto Morelos",
+      "estados": "Quintana Roo",
+      "fecha_declaracion": "2 de febrero de 1998",
+      "area_ha": 9067
+    },
+    {
+      "numero": "59",
+      "nombre": "Parque nacional Isla Contoy",
+      "estados": "Quintana Roo",
+      "fecha_declaracion": "2 de febrero de 1998",
+      "area_ha": 5126
+    },
+    {
+      "numero": "60",
+      "nombre": "Parque nacional Huatulco",
+      "estados": "Oaxaca",
+      "fecha_declaracion": "24 de julio de 1998",
+      "area_ha": 11891
+    },
+    {
+      "numero": "61",
+      "nombre": "Parque nacional Sierra de Órganos",
+      "estados": "Zacatecas",
+      "fecha_declaracion": "27 de enero de 2000",
+      "area_ha": 1125
+    },
+    {
+      "numero": "62",
+      "nombre": "Parque nacional Arrecifes de Xcalak",
+      "estados": "Quintana Roo",
+      "fecha_declaracion": "27 de octubre de 2000",
+      "area_ha": 17949
+    },
+    {
+      "numero": "63",
+      "nombre": "Parque nacional marino Archipiélago de San Lorenzo (Patrimonio de la Humanidad (incluido en el ámbito de « Islas y áreas protegidas del Golfo de California ») (2005)",
+      "estados": "Baja California",
+      "fecha_declaracion": "25 de abril de 2005",
+      "area_ha": 58443
+    },
+    {
+      "numero": "64",
+      "nombre": "Parque nacional de las Islas Marietas (Patrimonio de la Humanidad (incluido en el ámbito de « Islas y áreas protegidas del Golfo de California ») (2005)",
+      "estados": "Nayarit",
+      "fecha_declaracion": "25 de abril de 2005",
+      "area_ha": 1300
+    },
+    {
+      "numero": "65",
+      "nombre": "Reserva Ecológica Cañón del Usumacinta",
+      "estados": "Tabasco",
+      "fecha_declaracion": "15 de junio de 2005",
+      "area_ha": 45954
+    },
+    {
+      "numero": "?",
+      "nombre": "Parque nacional Zona marina del Archipiélago de Espíritu Santo",
+      "estados": "Baja California Sur",
+      "fecha_declaracion": "10 de mayo de 2007",
+      "area_ha": 48654.83
+    },
+    {
+      "numero": "—",
+      "nombre": "Área de protección de flora y fauna Pico de Tancítaro (hasta 2001, Parque nacional Pico de Tancítaro)",
+      "estados": "Michoacán",
+      "fecha_declaracion": "1940",
+      "area_ha": 23700
+    },
+    {
+      "numero": "—",
+      "nombre": "Área de protección de flora y fauna Nevado de Toluca (hasta 2013 Parque nacional Nevado de Toluca)",
+      "estados": "México",
+      "fecha_declaracion": "25 de enero de 1936",
+      "area_ha": 46784
+    },
+    {
+      "numero": "—",
+      "nombre": "Parque Nacional Revillagigedo",
+      "estados": "Colima",
+      "fecha_declaracion": "24 de noviembre de 2017",
+      "area_ha": 14800000
+    }
+  ],
+  "meta": {
+    "title": "Parques nacionales de México - Free Download",
+    "description": "Lista de los parques nacionales de México con el estado o estados donde se ubican, la fecha de su decreto y la superficie en hectáreas. Contains 70 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Parques nacionales de México | ListBase",
+    "seo_description": "Download Parques nacionales de México — 70 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 70 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Parques_nacionales_de_México"
+    ]
+  }
+}
