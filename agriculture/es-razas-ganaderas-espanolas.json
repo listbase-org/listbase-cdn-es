@@ -1,0 +1,1703 @@
+{
+  "id": "es-razas-ganaderas-espanolas",
+  "name": "Razas ganaderas autóctonas de España",
+  "title": "Razas ganaderas autóctonas de España",
+  "description": "Catálogo oficial de razas ganaderas españolas (bovinas, ovinas, caprinas, porcinas, equinas, aviares…) con su especie, procedencia y clasificación (de fomento o en peligro de extinción).",
+  "category": "agriculture",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Razas_ganaderas_españolas",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Razas_ganaderas_españolas",
+  "updated": "2026-11",
+  "record_count": 236,
+  "columns": [
+    {
+      "key": "raza",
+      "label": "Raza",
+      "type": "string"
+    },
+    {
+      "key": "especie",
+      "label": "Especie",
+      "type": "string"
+    },
+    {
+      "key": "procedencia",
+      "label": "Procedencia",
+      "type": "string"
+    },
+    {
+      "key": "clasificacion",
+      "label": "Clasificacion",
+      "type": "string"
+    },
+    {
+      "key": "notas",
+      "label": "Notas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "raza": "Asturiana de los Valles",
+      "especie": "bovina",
+      "procedencia": "Asturias",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": "También es conocida como carreña o vaca roxa."
+    },
+    {
+      "raza": "Avileña-Negra Ibérica",
+      "especie": "bovina",
+      "procedencia": "Península ibérica",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": "Solo la variedad avileña-negra ibérica está incluida en esta categoría; la bociblanca está catalogada en peligro de extinción."
+    },
+    {
+      "raza": "Lidia",
+      "especie": "bovina",
+      "procedencia": "Península ibérica",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": "Es conocida como toro de lidia."
+    },
+    {
+      "raza": "Morucha",
+      "especie": "bovina",
+      "procedencia": "Meseta Central",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": "También es conocida como raza salmantina. Solo la variedad morucha está incluida en esta categoría; la morucha negra está catalogada en peligro de extinción."
+    },
+    {
+      "raza": "Parda de Montaña",
+      "especie": "bovina",
+      "procedencia": "España",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": ""
+    },
+    {
+      "raza": "Pirenaica",
+      "especie": "bovina",
+      "procedencia": "Pirineos",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": ""
+    },
+    {
+      "raza": "Retinta",
+      "especie": "bovina",
+      "procedencia": "Andalucía Extremadura",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": "También es conocida como Retinta del Guadalquivir."
+    },
+    {
+      "raza": "Rubia Gallega",
+      "especie": "bovina",
+      "procedencia": "Galicia",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": ""
+    },
+    {
+      "raza": "Castellana",
+      "especie": "ovina",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": "Solo la variedad castellana blanca está incluida en esta categoría; la castellana negra está catalogada en peligro de extinción. Su carne está reconocida en la IGP Lechazo de Castilla y León y con su leche se elabora el Queso zamorano (DOP)."
+    },
+    {
+      "raza": "Churra",
+      "especie": "ovina",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": "Su carne está reconocida en la IGP Lechazo de Castilla y León."
+    },
+    {
+      "raza": "Latxa",
+      "especie": "ovina",
+      "procedencia": "País Vasco Navarra Cantabria",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": ""
+    },
+    {
+      "raza": "Manchega",
+      "especie": "ovina",
+      "procedencia": "Castilla-La Mancha",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": "Solo la variedad manchega blanca está incluida en esta categoría; la manchega blanca está catalogada en peligro de extinción. Su carne está reconocida en la IGP Cordero manchego y con su leche se realiza la DOP Queso manchego."
+    },
+    {
+      "raza": "Merina",
+      "especie": "ovina",
+      "procedencia": "Península ibérica",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": "Solo la variedad merina blanca está incluida en esta categoría; la merina negra está catalogada en peligro de extinción."
+    },
+    {
+      "raza": "Navarra",
+      "especie": "ovina",
+      "procedencia": "Navarra",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": "Anteriormente se la conocía como roncalesa o salacenca."
+    },
+    {
+      "raza": "Ojinegra de Teruel",
+      "especie": "ovina",
+      "procedencia": "Aragón",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": "También conocida como fardosca o fardasca. Su carne está reconocida en la IGP Ternasco de Aragón."
+    },
+    {
+      "raza": "Rasa Aragonesa",
+      "especie": "ovina",
+      "procedencia": "Aragón",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": "Su carne está reconocida en la IGP Ternasco de Aragón."
+    },
+    {
+      "raza": "Segureña",
+      "especie": "ovina",
+      "procedencia": "Andalucía Murcia Castilla-La Mancha",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": ""
+    },
+    {
+      "raza": "Florida",
+      "especie": "caprina",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": ""
+    },
+    {
+      "raza": "Malagueña",
+      "especie": "caprina",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": "También conocida como veleña o costeña."
+    },
+    {
+      "raza": "Murciana-Granadina",
+      "especie": "caprina",
+      "procedencia": "Andalucía Región de Murcia",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": ""
+    },
+    {
+      "raza": "Ibérico",
+      "especie": "porcina",
+      "procedencia": "Península ibérica",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": ""
+    },
+    {
+      "raza": "Ibérico variedad Retinto",
+      "especie": "porcina",
+      "procedencia": "Península ibérica",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": ""
+    },
+    {
+      "raza": "Ibérico variedad Entrepelado",
+      "especie": "porcina",
+      "procedencia": "Península ibérica",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": ""
+    },
+    {
+      "raza": "Española (con estirpe Cartujana) ​",
+      "especie": "equina caballar",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": ""
+    },
+    {
+      "raza": "Andaluza Azul",
+      "especie": "aviar",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": "Raza de Fomento desde el 21 de junio de 2023."
+    },
+    {
+      "raza": "Combatiente español",
+      "especie": "aviar",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": "Raza de Fomento desde el 21 de junio de 2023."
+    },
+    {
+      "raza": "Gallina Utrerana",
+      "especie": "aviar",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas de fomento",
+      "notas": "Raza de Fomento desde el 21 de junio de 2023."
+    },
+    {
+      "raza": "Albera",
+      "especie": "bovina",
+      "procedencia": "Cataluña",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Alistana-Sanabresa",
+      "especie": "bovina",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Asturiana de la Montaña",
+      "especie": "bovina",
+      "procedencia": "Asturias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como casina."
+    },
+    {
+      "raza": "Avileña-Negra Ibérica variedad Bociblanca",
+      "especie": "bovina",
+      "procedencia": "Península ibérica",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "Solo la variedad avileña-negra ibérica bociblanca está incluida en esta categoría; la avileña-ibérica negra está catalogada como raza de fomento."
+    },
+    {
+      "raza": "Berrenda en Colorado",
+      "especie": "bovina",
+      "procedencia": "España",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Berrenda en Negro",
+      "especie": "bovina",
+      "procedencia": "España",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Betizu",
+      "especie": "bovina",
+      "procedencia": "España",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Blanca Cacereña",
+      "especie": "bovina",
+      "procedencia": "Extremadura",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Bruna de los Pirineos",
+      "especie": "bovina",
+      "procedencia": "Cataluña",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Cachena",
+      "especie": "bovina",
+      "procedencia": "Galicia",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como galluda o galleira."
+    },
+    {
+      "raza": "Caldelana",
+      "especie": "bovina",
+      "procedencia": "Galicia",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Canaria",
+      "especie": "bovina",
+      "procedencia": "Canarias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como criolla, burda o basta."
+    },
+    {
+      "raza": "Cárdena Andaluza",
+      "especie": "bovina",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Frieiresa",
+      "especie": "bovina",
+      "procedencia": "Galicia",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Limiá",
+      "especie": "bovina",
+      "procedencia": "Galicia",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Mallorquina",
+      "especie": "bovina",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Mantequera Leonesa",
+      "especie": "bovina",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "Incorporada al Catálogo en 2022. ​"
+    },
+    {
+      "raza": "Marismeña",
+      "especie": "bovina",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Menorquina",
+      "especie": "bovina",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como mahonesa o vermella."
+    },
+    {
+      "raza": "Monchina",
+      "especie": "bovina",
+      "procedencia": "Cantabria",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como mahonesa o vermella."
+    },
+    {
+      "raza": "Morucha (variedad Negra)",
+      "especie": "bovina",
+      "procedencia": "Meseta Central",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También es conocida como raza salmantina. Solo la variedad morucha negra está incluida en esta categoría; la morucha está catalogada como raza autóctona de fomento."
+    },
+    {
+      "raza": "Murciana-Levantina",
+      "especie": "bovina",
+      "procedencia": "Murcia Comunidad Valenciana Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Negra Andaluza",
+      "especie": "bovina",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Pajuna",
+      "especie": "bovina",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Pallaresa",
+      "especie": "bovina",
+      "procedencia": "Cataluña",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Palmera",
+      "especie": "bovina",
+      "procedencia": "Canarias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Pasiega",
+      "especie": "bovina",
+      "procedencia": "Cantabria",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como roja pasiega."
+    },
+    {
+      "raza": "Sayaguesa",
+      "especie": "bovina",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como zamorana."
+    },
+    {
+      "raza": "Serrana Negra",
+      "especie": "bovina",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como serrana negra de Soria."
+    },
+    {
+      "raza": "Serrana de Teruel",
+      "especie": "bovina",
+      "procedencia": "Aragón",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Terreña",
+      "especie": "bovina",
+      "procedencia": "País Vasco",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Tudanca",
+      "especie": "bovina",
+      "procedencia": "Cantabria",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Vianesa",
+      "especie": "bovina",
+      "procedencia": "Galicia",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Alcarreña",
+      "especie": "ovina",
+      "procedencia": "Castilla-La Mancha",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Ansotana",
+      "especie": "ovina",
+      "procedencia": "Aragón",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Aranesa",
+      "especie": "ovina",
+      "procedencia": "Cataluña",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Canaria",
+      "especie": "ovina",
+      "procedencia": "Canarias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Canaria de Pelo",
+      "especie": "ovina",
+      "procedencia": "Canarias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Carranzana (variedades rubia y negra)",
+      "especie": "ovina",
+      "procedencia": "País Vasco",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Cartera",
+      "especie": "ovina",
+      "procedencia": "Aragón",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Castellana (variedad negra)",
+      "especie": "ovina",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "Solo la variedad castellana negra está incluida en esta categoría; la castellana blanca está catalogada como raza de fomento. Su carne está reconocida en la IGP Lechazo de Castilla y León."
+    },
+    {
+      "raza": "Chamarita",
+      "especie": "ovina",
+      "procedencia": "La Rioja",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Churra Lebrijana",
+      "especie": "ovina",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como churra marismeña."
+    },
+    {
+      "raza": "Churra Tensina",
+      "especie": "ovina",
+      "procedencia": "Aragón",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Colmenareña",
+      "especie": "ovina",
+      "procedencia": "Comunidad de Madrid",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Gallega",
+      "especie": "ovina",
+      "procedencia": "Galicia",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Guirra",
+      "especie": "ovina",
+      "procedencia": "Comunidad Valenciana",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como roja levantina."
+    },
+    {
+      "raza": "Ibicenca",
+      "especie": "ovina",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Lojeña",
+      "especie": "ovina",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como rabada o rabuda de la Sierra de Loja."
+    },
+    {
+      "raza": "Maellana",
+      "especie": "ovina",
+      "procedencia": "Aragón",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Mallorquina",
+      "especie": "ovina",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Manchega (variedad Negra)",
+      "especie": "ovina",
+      "procedencia": "Castilla-La Mancha",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "Solo la variedad manchega negra está incluida en esta categoría; la manchega blanca está catalogada como raza de fomento. Su carne está reconocida en la IGP Cordero manchego y con su leche se realiza la DOP Queso manchego."
+    },
+    {
+      "raza": "Merina (variedad Negra)",
+      "especie": "ovina",
+      "procedencia": "Península ibérica",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "La variedad merina blanca está catalogada como raza de fomento."
+    },
+    {
+      "raza": "Merina (variedad de los Montes Universales)",
+      "especie": "ovina",
+      "procedencia": "Península ibérica",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "La variedad merina blanca está catalogada como raza de fomento."
+    },
+    {
+      "raza": "Merina de Grazalema",
+      "especie": "ovina",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Menorquina",
+      "especie": "ovina",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Montesina",
+      "especie": "ovina",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Ojalada",
+      "especie": "ovina",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Palmera",
+      "especie": "ovina",
+      "procedencia": "Canarias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Ripollesa",
+      "especie": "ovina",
+      "procedencia": "Cataluña",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como queralpina, pirenaica o berguedana."
+    },
+    {
+      "raza": "Roja Mallorquina",
+      "especie": "ovina",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Roya Bilbilitana",
+      "especie": "ovina",
+      "procedencia": "Aragón Castilla-La Mancha Castilla y León La Rioja",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Rubia del Molar",
+      "especie": "ovina",
+      "procedencia": "Comunidad de Madrid",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Sasi Ardi",
+      "especie": "ovina",
+      "procedencia": "País Vasco",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Talaverana",
+      "especie": "ovina",
+      "procedencia": "Castilla-La Mancha",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Xalda",
+      "especie": "ovina",
+      "procedencia": "Asturias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Xisqueta",
+      "especie": "ovina",
+      "procedencia": "Cataluña",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como pallaresa o ullada."
+    },
+    {
+      "raza": "Azpi Gorri",
+      "especie": "caprina",
+      "procedencia": "País Vasco",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Blanca Andaluza o Serrana",
+      "especie": "caprina",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Blanca Celtibérica",
+      "especie": "caprina",
+      "procedencia": "España",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como serrana de Castilla y Levante."
+    },
+    {
+      "raza": "Blanca de Rasquera",
+      "especie": "caprina",
+      "procedencia": "Cataluña",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Bermeya",
+      "especie": "caprina",
+      "procedencia": "Asturias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como cabra roxa."
+    },
+    {
+      "raza": "Cabra de las Mesetas",
+      "especie": "caprina",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Gallega",
+      "especie": "caprina",
+      "procedencia": "Galicia",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Cabra del Guadarrama",
+      "especie": "caprina",
+      "procedencia": "Comunidad de Madrid Castilla y León",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como guadarrameña o del centro de España."
+    },
+    {
+      "raza": "Ibicenca",
+      "especie": "caprina",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como pitiüsa."
+    },
+    {
+      "raza": "Majorera",
+      "especie": "caprina",
+      "procedencia": "Canarias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "Con su leche se elabora la DO Queso majorero."
+    },
+    {
+      "raza": "Mallorquina",
+      "especie": "caprina",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como orada, muntanyola o cabra salvatge mallorquina."
+    },
+    {
+      "raza": "Moncaína",
+      "especie": "caprina",
+      "procedencia": "Aragón Castilla y León",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Negra Serrana",
+      "especie": "caprina",
+      "procedencia": "Castilla-La Mancha Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como cabra castiza."
+    },
+    {
+      "raza": "Palmera",
+      "especie": "caprina",
+      "procedencia": "Canarias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "Con su leche se elabora la DO Queso palmero."
+    },
+    {
+      "raza": "Payoya",
+      "especie": "caprina",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "Con su leche se elabora el Queso payoyo."
+    },
+    {
+      "raza": "Pirenaica",
+      "especie": "caprina",
+      "procedencia": "Pirineos",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Retinta",
+      "especie": "caprina",
+      "procedencia": "Extremadura",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como retinta extremeña o retinta cacereña."
+    },
+    {
+      "raza": "Tinerfeña",
+      "especie": "caprina",
+      "procedencia": "Canarias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Verata",
+      "especie": "caprina",
+      "procedencia": "Extremadura",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Chato Murciano",
+      "especie": "porcina",
+      "procedencia": "Región de Murcia",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Euskal Txerria",
+      "especie": "porcina",
+      "procedencia": "País Vasco",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como pío negro. ​"
+    },
+    {
+      "raza": "Gochu Asturcelta",
+      "especie": "porcina",
+      "procedencia": "Asturias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocida como gochu'l país."
+    },
+    {
+      "raza": "Ibérico (variedad Tobiscal)",
+      "especie": "porcina",
+      "procedencia": "",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Ibérico (variedad Lampiño)",
+      "especie": "porcina",
+      "procedencia": "",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Ibérico (variedad Manchado de Jabugo)",
+      "especie": "porcina",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Negra Canaria",
+      "especie": "porcina",
+      "procedencia": "Canarias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Porco Celta",
+      "especie": "porcina",
+      "procedencia": "Galicia",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Porc Negro Mallorquín",
+      "especie": "porcina",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Asturcón",
+      "especie": "equina caballar",
+      "procedencia": "Asturias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Burguete",
+      "especie": "equina caballar",
+      "procedencia": "Navarra",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Caballo de las Retuertas",
+      "especie": "equina caballar",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Caballo de Monte del País Vasco",
+      "especie": "equina caballar",
+      "procedencia": "País Vasco",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "Su nombre en euskera es euskal herriko mendiko zaldia."
+    },
+    {
+      "raza": "Caballo de Pura Raza Gallega",
+      "especie": "equina caballar",
+      "procedencia": "Galicia",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Caballo Mallorquín",
+      "especie": "equina caballar",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Caballo Menorquín",
+      "especie": "equina caballar",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Caballo Pirineico Catalán",
+      "especie": "equina caballar",
+      "procedencia": "Cataluña",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Hispano-Árabe",
+      "especie": "equina caballar",
+      "procedencia": "España",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Hispano-Bretón",
+      "especie": "equina caballar",
+      "procedencia": "España",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Jaca Navarra",
+      "especie": "equina caballar",
+      "procedencia": "Navarra",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Losina",
+      "especie": "equina caballar",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Marismeña",
+      "especie": "equina caballar",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Monchina",
+      "especie": "equina caballar",
+      "procedencia": "Cantabria",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Pottoka",
+      "especie": "equina caballar",
+      "procedencia": "País Vasco",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Andaluza",
+      "especie": "equina asnal",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Ase Balear",
+      "especie": "equina asnal",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Asno de las Encartaciones",
+      "especie": "equina asnal",
+      "procedencia": "País Vasco",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Catalana",
+      "especie": "equina asnal",
+      "procedencia": "Cataluña",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Majorera",
+      "especie": "equina asnal",
+      "procedencia": "Canarias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Zamorano-Leonés",
+      "especie": "equina asnal",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Andaluza Azul",
+      "especie": "aviar",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Euskal Antzara",
+      "especie": "aviar",
+      "procedencia": "País Vasco",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Euskal Oiloa",
+      "especie": "aviar",
+      "procedencia": "País Vasco",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Gallina de Mos",
+      "especie": "aviar",
+      "procedencia": "Galicia",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Gallina Castellana Negra",
+      "especie": "aviar",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Ibicenca",
+      "especie": "aviar",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Gallina Empordanesa",
+      "especie": "aviar",
+      "procedencia": "Cataluña",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Gallina Extremeña Azul",
+      "especie": "aviar",
+      "procedencia": "Extremadura",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Gallina del Prat",
+      "especie": "aviar",
+      "procedencia": "Cataluña",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Gallina Pedresa",
+      "especie": "aviar",
+      "procedencia": "Cantabria",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Gallina del Sobrarbe",
+      "especie": "aviar",
+      "procedencia": "Aragón",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Indio de León",
+      "especie": "aviar",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Mallorquina",
+      "especie": "aviar",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Menorquina",
+      "especie": "aviar",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Murciana",
+      "especie": "aviar",
+      "procedencia": "Región de Murcia",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Oca Empordanesa",
+      "especie": "aviar",
+      "procedencia": "Cataluña",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Pardo de León",
+      "especie": "aviar",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Pita Pinta",
+      "especie": "aviar",
+      "procedencia": "Asturias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Penedesenca",
+      "especie": "aviar",
+      "procedencia": "Cataluña",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Utrerana",
+      "especie": "aviar",
+      "procedencia": "Andalucía",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Valenciana de Chulilla",
+      "especie": "aviar",
+      "procedencia": "Comunidad Valenciana",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Camello Canario",
+      "especie": "otras especies",
+      "procedencia": "Canarias",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Conejo Antiguo Pardo Español",
+      "especie": "otras especies",
+      "procedencia": "España",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": "También conocido como conejo común o conejo del país."
+    },
+    {
+      "raza": "Conejo Gigante de España",
+      "especie": "otras especies",
+      "procedencia": "España",
+      "clasificacion": "Razas autóctonas en peligro de extinción",
+      "notas": ""
+    },
+    {
+      "raza": "Bonda de Aquitania",
+      "especie": "bovina",
+      "procedencia": "Francia",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Charolesa",
+      "especie": "bovina",
+      "procedencia": "Francia",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Fleckvieh",
+      "especie": "bovina",
+      "procedencia": "Alemania",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Frisona",
+      "especie": "bovina",
+      "procedencia": "Países Bajos Alemania Dinamarca Austria",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Limusina",
+      "especie": "bovina",
+      "procedencia": "Francia",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Parda",
+      "especie": "bovina",
+      "procedencia": "Suiza",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Berrichon du Cher",
+      "especie": "ovina",
+      "procedencia": "Francia",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Charmoise",
+      "especie": "ovina",
+      "procedencia": "Francia",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Fleischschaf",
+      "especie": "ovina",
+      "procedencia": "Alemania",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Île-de-France",
+      "especie": "ovina",
+      "procedencia": "Francia",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Landschaff",
+      "especie": "ovina",
+      "procedencia": "Alemania",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Merino Precoz",
+      "especie": "ovina",
+      "procedencia": "Francia",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Duroc",
+      "especie": "porcina",
+      "procedencia": "Estados Unidos",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Landrace",
+      "especie": "porcina",
+      "procedencia": "Dinamarca",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Large White",
+      "especie": "porcina",
+      "procedencia": "Inglaterra",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Pietrain",
+      "especie": "porcina",
+      "procedencia": "Bélgica",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Árabe",
+      "especie": "equina caballar",
+      "procedencia": "Medio Oriente",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Anglo-Árabe",
+      "especie": "equina caballar",
+      "procedencia": "Reino Unido Rusia Francia",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Pura Sangre Inglés",
+      "especie": "equina caballar",
+      "procedencia": "Inglaterra",
+      "clasificacion": "Razas integradas en España",
+      "notas": ""
+    },
+    {
+      "raza": "Trotador Español",
+      "especie": "equina caballar",
+      "procedencia": "Inglaterra Francia",
+      "clasificacion": "Razas integradas en España",
+      "notas": "Se cría prácticamente solo en las Islas Baleares, por lo que también se le conoce como trotador mallorquín."
+    },
+    {
+      "raza": "Lacaune",
+      "especie": "ovina",
+      "procedencia": "Francia",
+      "clasificacion": "Razas de la Unión Europea",
+      "notas": ""
+    },
+    {
+      "raza": "Assaf",
+      "especie": "ovina",
+      "procedencia": "Israel",
+      "clasificacion": "Razas de terceros países",
+      "notas": ""
+    },
+    {
+      "raza": "Salz",
+      "especie": "ovina",
+      "procedencia": "Ontinar de Salz",
+      "clasificacion": "Razas sintéticas españolas",
+      "notas": "Creada entre los años 1970-1980 a partir de la rasa aragonesa y sementales de romanov."
+    },
+    {
+      "raza": "Caballo de Deporte Español (CDE)",
+      "especie": "equina caballar",
+      "procedencia": "España",
+      "clasificacion": "Otros équidos registrados",
+      "notas": "Su libro fundacional se abrió en 1999."
+    },
+    {
+      "raza": "Campurriana ​ ​",
+      "especie": "bovina",
+      "procedencia": "Cantabria",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Extinta desde mediados del siglo XX. ​"
+    },
+    {
+      "raza": "Castellana Axárquica ​",
+      "especie": "bovina",
+      "procedencia": "Andalucía",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Originaria de La Axarquía (Málaga), se ha impulsado su reconocimiento como raza desde 2013. ​"
+    },
+    {
+      "raza": "Gochona entelarada asturleonesa ​",
+      "especie": "bovina",
+      "procedencia": "Castilla y León Asturias",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Lebaniega ​ ​",
+      "especie": "bovina",
+      "procedencia": "Cantabria",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Extinta desde mediados del siglo XX. ​ ​"
+    },
+    {
+      "raza": "Erronkarico ​",
+      "especie": "ovina",
+      "procedencia": "País Vasco",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Se considera extinta, y estaba emparentada con la oveja ansotana. ​"
+    },
+    {
+      "raza": "Guisandesa ​",
+      "especie": "caprina",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Se dieron algunos pasos para su recuperación en 2018 ​ y en 2020 ​"
+    },
+    {
+      "raza": "Catalana ​",
+      "especie": "caprina",
+      "procedencia": "Cataluña",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Se ha impulsado su recuperación en 2020. ​"
+    },
+    {
+      "raza": "Albera ​",
+      "especie": "caprina",
+      "procedencia": "Cataluña",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Se ha impulsado su reconocimiento como raza desde 2020. ​"
+    },
+    {
+      "raza": "Cabra de los Picos de Europa [ cita requerida ]",
+      "especie": "caprina",
+      "procedencia": "",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Cabra del Asón ​",
+      "especie": "caprina",
+      "procedencia": "Cantabria",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Caspolina [ cita requerida ]",
+      "especie": "caprina",
+      "procedencia": "",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Maellana [ cita requerida ]",
+      "especie": "caprina",
+      "procedencia": "",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Granadina ​",
+      "especie": "caprina",
+      "procedencia": "Andalucía",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Jurdana ​",
+      "especie": "caprina",
+      "procedencia": "Extremadura",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Dorado Gaditano ​",
+      "especie": "porcina",
+      "procedencia": "Andalucía",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Declarada extinguida hacia el 2000 ​ fue recuperada desde 2011. ​"
+    },
+    {
+      "raza": "Chato vitoriano ​",
+      "especie": "porcina",
+      "procedencia": "País Vasco",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Extinta entre 1960-1970 ​ o en 1980 ​ Estaba emparentada con el cerdo euskal txerria."
+    },
+    {
+      "raza": "Baztanesa ​",
+      "especie": "porcina",
+      "procedencia": "País Vasco",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Ya extinta, emparentada con el cerdo euskal txerria."
+    },
+    {
+      "raza": "Abrocam",
+      "especie": "aviar",
+      "procedencia": "España",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Alicantina ​",
+      "especie": "aviar",
+      "procedencia": "Comunidad Valenciana",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Reconocida por FESACOCUR. ​ Desde el año 2000 una asociación trabaja para su recuperación. ​"
+    },
+    {
+      "raza": "Andalusí",
+      "especie": "aviar",
+      "procedencia": "Andalucía",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Reconocida por FESACOCUR. ​"
+    },
+    {
+      "raza": "Andaluza Azul Enana",
+      "especie": "aviar",
+      "procedencia": "Andalucía",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Reconocida por FESACOCUR. ​"
+    },
+    {
+      "raza": "Sureña",
+      "especie": "aviar",
+      "procedencia": "Andalucía",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Annera Mallorquina ​",
+      "especie": "aviar",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Camerana",
+      "especie": "aviar",
+      "procedencia": "La Rioja",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "En proceso de recuperación desde 2012. ​ ​"
+    },
+    {
+      "raza": "Española carablanca",
+      "especie": "aviar",
+      "procedencia": "",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Seleccionada por los británicos a partir de ejemplares de castellana negra. ​"
+    },
+    {
+      "raza": "Enana Flor d’Ametler ​",
+      "especie": "aviar",
+      "procedencia": "Cataluña",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Menorca Enana",
+      "especie": "aviar",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Reconocida por FESACOCUR. ​"
+    },
+    {
+      "raza": "Negra Canaria ​",
+      "especie": "aviar",
+      "procedencia": "Canarias",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Pairal",
+      "especie": "aviar",
+      "procedencia": "Cataluña",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Raza tradicional de gallina enana, reconocida por FESACOCUR. ​"
+    },
+    {
+      "raza": "Paraíso",
+      "especie": "aviar",
+      "procedencia": "España",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Creada en 1915 cruzando las razas Orpington, Gallina del Prat y Rhode Island. ​"
+    },
+    {
+      "raza": "Pavo de Indias Menorquino ​",
+      "especie": "aviar",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Pavo Indio Mallorquín ​",
+      "especie": "aviar",
+      "procedencia": "Islas Baleares",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Pavo Oscense ​",
+      "especie": "aviar",
+      "procedencia": "Aragón",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Pavo de la Dehesa ​",
+      "especie": "aviar",
+      "procedencia": "Extremadura Castilla y León Andalucía",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Pintarazada ​",
+      "especie": "aviar",
+      "procedencia": "Castilla-La Mancha Extremadura Castilla y León",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Recuperada a través de ejemplares localizados en el oeste toledano, este de Cáceres y sur de Ávila, y reproducidos en Lagartera (Toledo) en 1998. Cuenta con la Asociación de Criadores de la Gallina Pintarazada desde 2019. ​"
+    },
+    {
+      "raza": "Piñeira ​",
+      "especie": "aviar",
+      "procedencia": "Galicia",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Desde 2018 la Asociación de Productores de Galiña Piñeira (Agalpi) trabaja para que sea reconocida como raza autóctona. ​"
+    },
+    {
+      "raza": "Serrana de Teruel",
+      "especie": "aviar",
+      "procedencia": "Aragón",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Sobrarbe Enana",
+      "especie": "aviar",
+      "procedencia": "Aragón",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Reconocida por FESACOCUR. ​"
+    },
+    {
+      "raza": "Sureña Enana",
+      "especie": "aviar",
+      "procedencia": "Andalucía",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Reconocida por FESACOCUR. ​"
+    },
+    {
+      "raza": "Valenciana Cinco Dedos ​",
+      "especie": "aviar",
+      "procedencia": "Comunidad Valenciana",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Prácticamente desaparecida en 1900, comenzó su recuperación en 1989. ​"
+    },
+    {
+      "raza": "Catalán",
+      "especie": "equina caballar",
+      "procedencia": "Cataluña",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Ya extinto, es el antepasado del caballo mallorquín y del caballo menorquín, y era de pelaje negro."
+    },
+    {
+      "raza": "Fariñeiro ​",
+      "especie": "equina asnal",
+      "procedencia": "Galicia",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "De color entre gris y blanco, en 2013 apenas quedaban 50 ejemplares, en su mayoría viejos o castrados, lo que hace complicada su continuidad. ​"
+    },
+    {
+      "raza": "Sayagués ​",
+      "especie": "equina asnal",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": ""
+    },
+    {
+      "raza": "Serranillo ​",
+      "especie": "equina caballar",
+      "procedencia": "Castilla y León Comunidad de Madrid",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "También conocida como caballo serranito. Originaria de la Sierra de Guadarrama, se conservan ejemplares en Valle del Lozoya. ​"
+    },
+    {
+      "raza": "Jaca Soriana ​",
+      "especie": "equina caballar",
+      "procedencia": "Castilla y León",
+      "clasificacion": "Otras razas españolas sin reconocimiento oficial",
+      "notas": "Extinta. ​"
+    }
+  ],
+  "meta": {
+    "title": "Razas ganaderas autóctonas de España - Free Download",
+    "description": "Catálogo oficial de razas ganaderas españolas (bovinas, ovinas, caprinas, porcinas, equinas, aviares…) con su especie, procedencia y clasificación (de fomento o en peligro de extinción). Contains 236 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Razas ganaderas autóctonas de España | ListBase",
+    "seo_description": "Download Razas ganaderas autóctonas de España — 236 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 236 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Razas_ganaderas_españolas"
+    ]
+  }
+}

@@ -1,12 +1,12 @@
 {
   "lang": "es",
-  "generated": "2026-11-03T02:13:46.113Z",
-  "total_datasets": 522,
-  "total_records": 429056,
+  "generated": "2026-11-03T02:13:54.779Z",
+  "total_datasets": 523,
+  "total_records": 429292,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -179,6 +179,32 @@
         "xlsx": {
           "name": "es-ganaderias-bravas-peru_ES.xlsx",
           "size": 9956
+        }
+      }
+    },
+    {
+      "id": "es-razas-ganaderas-espanolas",
+      "name": "Razas ganaderas autóctonas de España",
+      "category": "agriculture",
+      "record_count": 236,
+      "columns": [
+        "raza",
+        "especie",
+        "procedencia",
+        "clasificacion",
+        "notas"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Razas_ganaderas_españolas",
+      "updated": "2026-11",
+      "size": 53806,
+      "files": {
+        "csv": {
+          "name": "es-razas-ganaderas-espanolas_ES.csv",
+          "size": 26751
+        },
+        "xlsx": {
+          "name": "es-razas-ganaderas-espanolas_ES.xlsx",
+          "size": 16106
         }
       }
     },
