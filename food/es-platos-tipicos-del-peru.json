@@ -1,0 +1,1396 @@
+{
+  "id": "es-platos-tipicos-del-peru",
+  "name": "Platos típicos del Perú por región",
+  "title": "Platos típicos del Perú por región",
+  "description": "Platos típicos de la gastronomía peruana agrupados por región, con su tipo (entrada, sopa, plato de fondo, postre, bebida) y sus ingredientes principales.",
+  "category": "food",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Platos_típicos_del_Perú",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Platos_típicos_del_Perú",
+  "updated": "2026-11",
+  "record_count": 225,
+  "columns": [
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "ingredientes",
+      "label": "Ingredientes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nombre": "Asado de picuro",
+      "region": "Amazonas",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de picuro (majas), ajo, sal, pimienta, yuca sancochada, plátano frito."
+    },
+    {
+      "nombre": "Cazuela amazónica",
+      "region": "Amazonas",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Gallina de corral, carne de res, carnero, arroz, choclo, yuca, arvejas, zanahoria."
+    },
+    {
+      "nombre": "Humitas de choclo",
+      "region": "Amazonas",
+      "tipo": "Entrada / Piqueo",
+      "ingredientes": "Maíz tierno molido, queso o carne de cerdo, envuelto en panca de choclo."
+    },
+    {
+      "nombre": "Purtumute",
+      "region": "Amazonas",
+      "tipo": "Guiso / Plato de fondo",
+      "ingredientes": "Mote de maíz, frejoles negros, culantro, aderezo de cebolla y ajo."
+    },
+    {
+      "nombre": "Ceviche de chocho",
+      "region": "Áncash",
+      "tipo": "Entrada fría",
+      "ingredientes": "Chocho (tarwi), limón, cebolla roja, ají, culantro, tomate."
+    },
+    {
+      "nombre": "Chicharrón de cuy",
+      "region": "Áncash",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de cuy, ajo, maíz molido o harina, aceite, sal."
+    },
+    {
+      "nombre": "Locro de cuy",
+      "region": "Áncash",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Cuy, papas, ají panca, ajo, cebolla, caldo de carne."
+    },
+    {
+      "nombre": "Llunca de gallina",
+      "region": "Áncash",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Gallina de corral, trigo entero (llunca), ají panca, cebolla, ajo."
+    },
+    {
+      "nombre": "Mishikanka",
+      "region": "Áncash",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne asada (tradicionalmente de gato), aderezo andino."
+    },
+    {
+      "nombre": "Picante de cuy",
+      "region": "Áncash",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Cuy, ají panca, maní tostado y molido, ajo, papas sancochadas."
+    },
+    {
+      "nombre": "Chicharrón de cerdo apurimeño",
+      "region": "Apurímac",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de cerdo, sal, hierbabuena, papas, mote de maíz, cebolla."
+    },
+    {
+      "nombre": "Kapchi de chuño",
+      "region": "Apurímac",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Chuño remojado y picado, habas frescas, queso, leche, aderezo de ají amarillo."
+    },
+    {
+      "nombre": "Adobo arequipeño",
+      "region": "Arequipa",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de cerdo, concho de chicha de jora, ají panca, cebolla, ajo."
+    },
+    {
+      "nombre": "Ají de calabaza",
+      "region": "Arequipa",
+      "tipo": "Guiso / Guarnición",
+      "ingredientes": "Calabaza andina, queso fresco, leche, ají amarillo, papas, huacatay."
+    },
+    {
+      "nombre": "Ají de lacayote",
+      "region": "Arequipa",
+      "tipo": "Guiso / Guarnición",
+      "ingredientes": "Lacayote picado, queso, leche, aderezo de ají amarillo, papas."
+    },
+    {
+      "nombre": "Ceviche de muy muy",
+      "region": "Arequipa",
+      "tipo": "Entrada fría",
+      "ingredientes": "Muy muy (crustáceo marino), limón, cebolla roja, ají, sal."
+    },
+    {
+      "nombre": "Chairo",
+      "region": "Arequipa",
+      "tipo": "Sopa",
+      "ingredientes": "Chuño negro, carne de res o cordero, tripas, verduras, chalona."
+    },
+    {
+      "nombre": "Chaque arequipeño",
+      "region": "Arequipa",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Trigo pelado, carne de res, vísceras, papas, verduras de estación."
+    },
+    {
+      "nombre": "Chicha de guiñapo",
+      "region": "Arequipa",
+      "tipo": "Bebida fermentada",
+      "ingredientes": "Maíz negro germinado y fermentado (guiñapo), agua."
+    },
+    {
+      "nombre": "Chupe de camarones",
+      "region": "Arequipa",
+      "tipo": "Sopa / Chupe",
+      "ingredientes": "Camarones de río, leche, queso fresco, arroz, huevo, papa, huacatay."
+    },
+    {
+      "nombre": "Costillar frito",
+      "region": "Arequipa",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Costillas de cordero o res, ajo, comino, vinagre, papas doradas."
+    },
+    {
+      "nombre": "Cuy chactao",
+      "region": "Arequipa",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Cuy entero, maíz molido, ajo, comino, abundante aceite para freír."
+    },
+    {
+      "nombre": "Hiro de zapallo",
+      "region": "Arequipa",
+      "tipo": "Guiso / Guarnición",
+      "ingredientes": "Zapallo maduro, choclo desgranado, habas, queso fresco, leche."
+    },
+    {
+      "nombre": "Locro de pecho",
+      "region": "Arequipa",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Pecho de res, papas, ají panca, ajo, cebolla, hierbabuena."
+    },
+    {
+      "nombre": "Matasca",
+      "region": "Arequipa",
+      "tipo": "Guiso",
+      "ingredientes": "Carne de res picada en cubos, papas, arvejas, zanahoria, hierbabuena."
+    },
+    {
+      "nombre": "Ocopa",
+      "region": "Arequipa",
+      "tipo": "Entrada fría",
+      "ingredientes": "Salsa de huacatay, queso, galletas, maní, ají amarillo, sobre papas."
+    },
+    {
+      "nombre": "Pastel de papas",
+      "region": "Arequipa",
+      "tipo": "Guarnición caliente",
+      "ingredientes": "Papas cortadas en rodajas, queso fresco, leche, huevos, anís."
+    },
+    {
+      "nombre": "Pebre arequipeño",
+      "region": "Arequipa",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Carne de cordero o gallina, chalona, papa, yuca, chuño, verduras."
+    },
+    {
+      "nombre": "Pepián de cuy",
+      "region": "Arequipa",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Cuy frito o sancochado en guiso de maíz tostado y molido con ají."
+    },
+    {
+      "nombre": "Queso helado",
+      "region": "Arequipa",
+      "tipo": "Postre helado",
+      "ingredientes": "Leche condensada, leche evaporada, coco rallado, canela, clavo de olor."
+    },
+    {
+      "nombre": "Rachi",
+      "region": "Arequipa",
+      "tipo": "Entrada / Piqueo",
+      "ingredientes": "Librillo de res (estómago), ají panca, ajo, vinagre, comino."
+    },
+    {
+      "nombre": "Rocoto relleno",
+      "region": "Arequipa",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Rocotos desvenados rellenos de carne picada, pasas, queso, huevo."
+    },
+    {
+      "nombre": "Soltero de queso",
+      "region": "Arequipa",
+      "tipo": "Entrada / Ensalada",
+      "ingredientes": "Queso fresco, habas cocidas, choclo, cebolla, tomate, aceitunas."
+    },
+    {
+      "nombre": "Paloma común",
+      "region": "Arequipa",
+      "tipo": "Plato principal",
+      "ingredientes": "Paloma cocinada"
+    },
+    {
+      "nombre": "Sopa chairo",
+      "region": "Arequipa",
+      "tipo": "Sopa",
+      "ingredientes": "Chuño molido, carne de cordero, res, verduras, hierbas aromáticas."
+    },
+    {
+      "nombre": "Sopa de chollonco",
+      "region": "Arequipa",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Chollonco (ave pequeña de la región), aderezo andino, fideos o papa."
+    },
+    {
+      "nombre": "Timpusca con peras",
+      "region": "Arequipa",
+      "tipo": "Sopa estofada",
+      "ingredientes": "Carne de res o cordero, peras de agua, chuño, hojas de col, ají panca."
+    },
+    {
+      "nombre": "Ubre arrebozada",
+      "region": "Arequipa",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Ubre de res sancochada, pasada por huevo batido y harina, frita."
+    },
+    {
+      "nombre": "Zarza de patitas",
+      "region": "Arequipa",
+      "tipo": "Entrada fría",
+      "ingredientes": "Patitas de cerdo cocidas, cebolla en pluma, tomate, vinagre, ají."
+    },
+    {
+      "nombre": "Zarza de sencca",
+      "region": "Arequipa",
+      "tipo": "Entrada fría",
+      "ingredientes": "Hocico de res (sencca) sancochado, cebolla, tomate, vinagre, ají."
+    },
+    {
+      "nombre": "Kanka",
+      "region": "Ayacucho",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de cordero o asado, papas, choclo, aderezo andino de ajíes."
+    },
+    {
+      "nombre": "Mazamorra llipta",
+      "region": "Ayacucho",
+      "tipo": "Postre tradicional",
+      "ingredientes": "Harina de maíz, infusión de hierbas (hinojo, manzanilla), ceniza (uspa), azúcar, leche."
+    },
+    {
+      "nombre": "Puca picante",
+      "region": "Ayacucho",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Panceta de cerdo, papas, betarraga (remolacha), maní molido, ají panca."
+    },
+    {
+      "nombre": "Sopa de Morón",
+      "region": "Ayacucho",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Trigo morón, carne de res o cordero, verduras (zanahoria, apio, poro), hierbabuena."
+    },
+    {
+      "nombre": "Caldo verde",
+      "region": "Cajamarca",
+      "tipo": "Sopa",
+      "ingredientes": "Papas, quesillo local, huevos, hierbas aromáticas (paico, ruda, culantro)."
+    },
+    {
+      "nombre": "Cecina de chancho",
+      "region": "Cajamarca",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de cerdo deshidratada/salada, yuca sancochada, sazón cajamarquina."
+    },
+    {
+      "nombre": "Cuy con papas",
+      "region": "Cajamarca",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Cuy frito o guisado, papas con aderezo de ají panca y maní."
+    },
+    {
+      "nombre": "Humitas",
+      "region": "Cajamarca",
+      "tipo": "Entrada / Piqueo",
+      "ingredientes": "Masa de maíz tierno, manteca, sal o azúcar, envuelto en panca."
+    },
+    {
+      "nombre": "Manjarblanco",
+      "region": "Cajamarca",
+      "tipo": "Postre / Dulce",
+      "ingredientes": "Leche de vaca fresca, azúcar, canela, clavo de olor, bicarbonato."
+    },
+    {
+      "nombre": "Tamal cajamarquino",
+      "region": "Cajamarca",
+      "tipo": "Entrada / Desayuno",
+      "ingredientes": "Masa de maíz, carne de cerdo aderezada, envuelto en hojas de achira."
+    },
+    {
+      "nombre": "Choritos a la chalaca",
+      "region": "Callao",
+      "tipo": "Entrada fría",
+      "ingredientes": "Choros (mejillones), cebolla, tomate, choclo, ají limo, jugo de limón."
+    },
+    {
+      "nombre": "Parihuela chalaca",
+      "region": "Callao",
+      "tipo": "Sopa de mariscos",
+      "ingredientes": "Cangrejo, conchas, camarón, pescado, ají panca, chicha de jora."
+    },
+    {
+      "nombre": "Pan con pejerrey",
+      "region": "Callao",
+      "tipo": "Desayuno / Piqueo",
+      "ingredientes": "Pejerrey rebozado y frito, pan francés, salsa criolla."
+    },
+    {
+      "nombre": "Chiriuchu",
+      "region": "Cuzco",
+      "tipo": "Plato festivo / Tradicional",
+      "ingredientes": "Cuy, gallina de corral, chalona, cecina, hueva de pescado (cau cau), maíz tostado (cancha), queso fresco, morcilla y tortilla de maíz."
+    },
+    {
+      "nombre": "Frutillada",
+      "region": "Cuzco",
+      "tipo": "Bebida tradicional",
+      "ingredientes": "Chicha de jora, frutillas locales (fresas andinas), harina de quinua, azúcar."
+    },
+    {
+      "nombre": "Lawa de chuño",
+      "region": "Cuzco",
+      "tipo": "Sopa espesa",
+      "ingredientes": "Chuño molido, caldo de res o cordero, habas, papas, hierbabuena."
+    },
+    {
+      "nombre": "Olluquito con charqui",
+      "region": "Cuzco",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Ollucos picados en tiras finas, charqui de llama o alpaca deshilachado, aderezo de ají panca, ajo, cebolla y perejil picado."
+    },
+    {
+      "nombre": "Quinua con manzana",
+      "region": "Cuzco",
+      "tipo": "Bebida caliente",
+      "ingredientes": "Granos de quinua, manzanas picadas, canela, clavo de olor, azúcar."
+    },
+    {
+      "nombre": "Timpu",
+      "region": "Cuzco",
+      "tipo": "Sopa / Puchero",
+      "ingredientes": "Carnes (res, cordero, tocino), repollo, papas, camote, yuca, garbanzos."
+    },
+    {
+      "nombre": "T'ojto",
+      "region": "Cuzco",
+      "tipo": "Piqueo / Charrada",
+      "ingredientes": "Piel de cerdo deshidratada y frita hasta quedar crocante."
+    },
+    {
+      "nombre": "Mondongo huancavelicano",
+      "region": "Huancavelica",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Maíz mote, mondongo de res, carne de cordero, tocino, hierbabuena, ají panca."
+    },
+    {
+      "nombre": "Pachamanca huancavelicana",
+      "region": "Huancavelica",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de cordero o cerdo, papas, habas, choclos, aderezado con marmaquilla."
+    },
+    {
+      "nombre": "Tienda de queso con papas",
+      "region": "Huancavelica",
+      "tipo": "Plato tradicional",
+      "ingredientes": "Papas nativas sancochadas, queso fresco artesanal caprino o vacuno."
+    },
+    {
+      "nombre": "Chicha de jora",
+      "region": "Huánuco",
+      "tipo": "Bebida fermentada",
+      "ingredientes": "Maíz de jora malteado, agua, chancaca o azúcar rubia."
+    },
+    {
+      "nombre": "Locro de gallina",
+      "region": "Huánuco",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Gallina de corral, papas amarillas y blancas, aderezo de cebolla y ají pancas."
+    },
+    {
+      "nombre": "Pachamanca",
+      "region": "Huánuco",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carnes marinadas en chincho y huacatay, cocidas bajo tierra con tubérculos."
+    },
+    {
+      "nombre": "Patasca",
+      "region": "Huánuco",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Maíz mondongo, vísceras de res, carne, hierbabuena, condimentos andinos."
+    },
+    {
+      "nombre": "Picante de cuy",
+      "region": "Huánuco",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Cuy, ají panca, ajo, maní molido, papas andinas."
+    },
+    {
+      "nombre": "Picante de queso",
+      "region": "Huánuco",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Queso fresco, ají amarillo, cebolla, ajo, leche, papas."
+    },
+    {
+      "nombre": "Tocosh",
+      "region": "Huánuco",
+      "tipo": "Preparación medicinal",
+      "ingredientes": "Papas fermentadas en pozas de agua de río, consumida como mazamorra."
+    },
+    {
+      "nombre": "Carapulcra con sopa seca",
+      "region": "Ica",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Papa seca, carne de cerdo, maní, fideos tallarín, albahaca, achiote."
+    },
+    {
+      "nombre": "Chinchana pura",
+      "region": "Ica",
+      "tipo": "Bebida / Cóctel",
+      "ingredientes": "Pisco peruano, jarabe, bitters, jugos de frutas cítricas locales."
+    },
+    {
+      "nombre": "Frejol colado",
+      "region": "Ica",
+      "tipo": "Postre / Dulce",
+      "ingredientes": "Frijoles negros o canarios sancochados y licuados, cocidos a fuego lento con abundante azúcar, leche evaporada, canela, clavo de olor y decorado con ajonjolí tostado."
+    },
+    {
+      "nombre": "Tejas de Ica",
+      "region": "Ica",
+      "tipo": "Postre / Dulce",
+      "ingredientes": "Fruta confitada o nuez, manjarblanco, baño de azúcar fondant blanco."
+    },
+    {
+      "nombre": "Cuy colorado",
+      "region": "Junín",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Cuy, ají colorado o panca, papas, maní tostado, aderezo andino."
+    },
+    {
+      "nombre": "Habas tostadas",
+      "region": "Junín",
+      "tipo": "Piqueo / Snack",
+      "ingredientes": "Habas secas desenvueltas, tostadas en callana con sal."
+    },
+    {
+      "nombre": "Human caldo",
+      "region": "Junín",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Cabeza de carnero, papas, chuño, arroz, hierbabuena, orégano."
+    },
+    {
+      "nombre": "Kamchi",
+      "region": "Junín",
+      "tipo": "Piqueo / Snack",
+      "ingredientes": "Maíz tostado (cancha andina), sal."
+    },
+    {
+      "nombre": "Pachamanca",
+      "region": "Junín",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carnes diversas (res, cerdo, pollo), papas, camotes, habas, choclo, chincho."
+    },
+    {
+      "nombre": "Papa a la huancaína",
+      "region": "Junín",
+      "tipo": "Entrada fría",
+      "ingredientes": "Papas sancochadas, salsa de ají amarillo, queso fresco, leche, galletas."
+    },
+    {
+      "nombre": "Patachi",
+      "region": "Junín",
+      "tipo": "Sopa contundente",
+      "ingredientes": "Trigo pelado, carnes (cerdo, res, cordero), habas, chuño, arvejas."
+    },
+    {
+      "nombre": "Patasca",
+      "region": "Junín",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Maíz mote, mondongo, cabeza y patas de res o cordero, hierbabuena."
+    },
+    {
+      "nombre": "Trucha a la parrilla",
+      "region": "Junín",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Trucha fresca de río, ajo, limón, finas hierbas, papas doradas."
+    },
+    {
+      "nombre": "Yuyo",
+      "region": "Junín",
+      "tipo": "Guiso / Entrada",
+      "ingredientes": "Alga marina de río/lago (yuyo), aderezo de cebolla, ajo y papas."
+    },
+    {
+      "nombre": "Ají de huevos",
+      "region": "La Libertad",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Huevos duros, aderezo de ají amarillo, pan remojado o galleta, leche."
+    },
+    {
+      "nombre": "Cangrejo reventado",
+      "region": "La Libertad",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Cangrejos de mar, huevos, aderezo criollo, yucas sancochadas."
+    },
+    {
+      "nombre": "Causa en lapa",
+      "region": "La Libertad",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Masa de papa, pescado frito o sancochado, salsa de cebolla con ají, lapa (recipiente)."
+    },
+    {
+      "nombre": "Frito trujillano",
+      "region": "La Libertad",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Costillas de cerdo, ají panca, chicha de jora, vinagre, yucas, criolla."
+    },
+    {
+      "nombre": "Pepián de pavita",
+      "region": "La Libertad",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de pavita, maíz tierno molido, aderezo norteño, culantro."
+    },
+    {
+      "nombre": "Shámbar",
+      "region": "La Libertad",
+      "tipo": "Sopa contundente",
+      "ingredientes": "Trigo shámbar, menestras (frejol, habas, garbanzo), piel de cerdo, jamón serrano."
+    },
+    {
+      "nombre": "Sopa teóloga",
+      "region": "La Libertad",
+      "tipo": "Sopa festiva",
+      "ingredientes": "Caldo de gallina y pavo, pan remojado, garbanzos, papas, azafrán, rosquitas."
+    },
+    {
+      "nombre": "Cebiche trujillano",
+      "region": "La Libertad",
+      "tipo": "Entrada fría",
+      "ingredientes": "Pescado fresco (corvina, mero, etc), zumo de limón, ají mochero o ají limo picado, cebolla en pluma, ajo, zarandaja, camote, yuca, cancha serrana y yuyo (alga mococho)."
+    },
+    {
+      "nombre": "Seco de cabrito",
+      "region": "La Libertad",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de cabrito de leche, loche rallado, chicha de jora, vinagre, culantro licuado, ají amarillo, frijoles y yucas."
+    },
+    {
+      "nombre": "Tajadón trujillano",
+      "region": "La Libertad",
+      "tipo": "Postre / Dulce",
+      "ingredientes": "Yemas de huevo, huevos enteros, chuño, polvo de hornear, licor de anisado, almíbar de azúcar, pisco, pasas y almendras."
+    },
+    {
+      "nombre": "Yemesilla",
+      "region": "La Libertad",
+      "tipo": "Postre / Dulce",
+      "ingredientes": "Yemas de huevo tamizadas, almíbar de azúcar, canela, esencia de vainilla y un toque de oporto"
+    },
+    {
+      "nombre": "Jalea de cachema",
+      "region": "La Libertad",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Cachema entera o en trozos, harina, ajo, yucas fritas, cancha serrana y salsa criolla."
+    },
+    {
+      "nombre": "Clásico",
+      "region": "La Libertad",
+      "tipo": "Postre",
+      "ingredientes": "Servido en un mismo plato mezclando mazamorra morada y arroz con leche de forma tradicional"
+    },
+    {
+      "nombre": "Combinado trujillano",
+      "region": "La Libertad",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Tallarines rojos (a base de tomate, zanahoria, hongo y laurel), papa a la huancaína (papas con salsa de ají amarillo, queso y galleta) y ceviche de pescado o pota (limón, cebolla, ají y culantro)."
+    },
+    {
+      "nombre": "Ajiaco de cuy",
+      "region": "Lambayeque",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Cuy, papas sancochadas, ají amarillo, cebolla, ajo, hierbabuena."
+    },
+    {
+      "nombre": "Arroz con pato",
+      "region": "Lambayeque",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de pato, arroz, culantro licuado (verde), cerveza negra, chicha de jora."
+    },
+    {
+      "nombre": "Cabrito a la norteña",
+      "region": "Lambayeque",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de cabrito tierno, chicha de jora, culantro, ají amarillo, loche."
+    },
+    {
+      "nombre": "Causa ferreñafana",
+      "region": "Lambayeque",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Masa de papa con ají amarillo, pescado salado sancochado, cebollas con ají."
+    },
+    {
+      "nombre": "Cebiche a la norteña",
+      "region": "Lambayeque",
+      "tipo": "Entrada fría",
+      "ingredientes": "Pescado fresco, limón, cebolla, ají limo, camote, choclo, tortitas de maíz."
+    },
+    {
+      "nombre": "Chinguirito",
+      "region": "Lambayeque",
+      "tipo": "Entrada fría",
+      "ingredientes": "Guitarra seca deshilachada (pescado), limón, cebolla, ají limo, yuca."
+    },
+    {
+      "nombre": "Chirimpico",
+      "region": "Lambayeque",
+      "tipo": "Guiso / Piqueo",
+      "ingredientes": "Menudencia de cabrito, loche, cebolla de rabo, culantro, chicha de jora."
+    },
+    {
+      "nombre": "Espesado",
+      "region": "Lambayeque",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Choclo tierno molido, culantro, carne de res, loche, arroz amarillo."
+    },
+    {
+      "nombre": "King kong de manjar blanco",
+      "region": "Lambayeque",
+      "tipo": "Postre / Dulce",
+      "ingredientes": "Galletas grandes de harina, manjarblanco, dulce de piña, dulce de camote."
+    },
+    {
+      "nombre": "Loche con arroz",
+      "region": "Lambayeque",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de cabrito tierno macerada en chicha de jora, guisada con abundante culantro licuado, ajo, ají amarillo y zapallo loche rallado; servido con frijoles y arroz blanco."
+    },
+    {
+      "nombre": "Sangrecita",
+      "region": "Lambayeque",
+      "tipo": "Entrada / Piqueo",
+      "ingredientes": "Sangre de pollo o cabrito cocida, cebolla china, ají amarillo, hierbabuena."
+    },
+    {
+      "nombre": "Tortilla de raya",
+      "region": "Lambayeque",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Raya seca deshilachada, huevos batidos, cebolla china, ají panca, yuca."
+    },
+    {
+      "nombre": "Aguadito de pollo",
+      "region": "Lima",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Sopa espesa de arroz y menudencias o trozos de pollo, cocida en un caldo concentrado con abundante culantro licuado, arvejas, zanahorias y choclo."
+    },
+    {
+      "nombre": "Ají de gallina",
+      "region": "Lima",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Pechuga de gallina/pollo deshilachada, pan o galletas, leche, ají amarillo, queso, nueces."
+    },
+    {
+      "nombre": "Anticuchos",
+      "region": "Lima",
+      "tipo": "Piqueo / Entrada",
+      "ingredientes": "Corazón de res en brochetas, ají panca, ajo, vinagre, comino, papas, choclo."
+    },
+    {
+      "nombre": "Arroz con pollo",
+      "region": "Lima",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Arroz cocido en caldo de pollo con culantro licuado y cerveza negra, arvejas, zanahoria, pimiento y presas de pollo doradas."
+    },
+    {
+      "nombre": "Arroz chaufa",
+      "region": "Lima",
+      "tipo": "Plato de fondo (Cocina Chifa)",
+      "ingredientes": "Arroz cocido salteado al wok a fuego alto, sillao, cebolla china picada, tortilla de huevo en trozos, jengibre (kión) y trozos de pollo o carne."
+    },
+    {
+      "nombre": "Arroz zambito",
+      "region": "Lima",
+      "tipo": "Postre",
+      "ingredientes": "Arroz, chancaca (panela), pasas, coco rallado, leche, canela, clavo."
+    },
+    {
+      "nombre": "Bizcocho Chancay",
+      "region": "Lima",
+      "tipo": "Pan dulce / Postre",
+      "ingredientes": "Harina de trigo, azúcar, levadura, mantequilla, esencia de vainilla/anís."
+    },
+    {
+      "nombre": "Caldo de gallina",
+      "region": "Lima",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Presas de gallina de corral cocidas a fuego lento, fideos gruesos tipo tallarín, papas amarillas, huevo duro; servido con cebollita china picada, limón y cancha serrana."
+    },
+    {
+      "nombre": "Carapulcra",
+      "region": "Lima",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Papa seca sazonada y tostada, carne de cerdo o pollo, ají panca, maní molido."
+    },
+    {
+      "nombre": "Cau cau",
+      "region": "Lima",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Mondongo de res cocido en cubos, papas, ají amarillo, palillo, hierbabuena."
+    },
+    {
+      "nombre": "Causa a la limeña",
+      "region": "Lima",
+      "tipo": "Entrada fría",
+      "ingredientes": "Papa amarilla prensada con ají amarillo y limón, relleno de pollo o atún con mayonesa."
+    },
+    {
+      "nombre": "Ceviche",
+      "region": "Lima",
+      "tipo": "Entrada fría",
+      "ingredientes": "Pescado fresco crudo, limón, cebolla roja, ají limo, camote, choclo."
+    },
+    {
+      "nombre": "Champús",
+      "region": "Lima",
+      "tipo": "Bebida dulce / Postre",
+      "ingredientes": "Mote de maíz, frutas (guanábana, piña, membrillo), chancaca, canela."
+    },
+    {
+      "nombre": "Chanfainita",
+      "region": "Lima",
+      "tipo": "Plato de fondo / Piqueo",
+      "ingredientes": "Bofe de res (pulmón), papas, ají panca, ajo, cebolla y hierbabuena."
+    },
+    {
+      "nombre": "Choritos a la chalaca",
+      "region": "Lima",
+      "tipo": "Entrada fría",
+      "ingredientes": "Choros (mejillones), cebolla picada, tomate, choclo, ají limo, jugo de limón."
+    },
+    {
+      "nombre": "Escabeche de pollo",
+      "region": "Lima",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Pollo frito, salsa abundante de cebollas y ají amarillo en vinagre, camote, huevo duro."
+    },
+    {
+      "nombre": "Leche de tigre",
+      "region": "Lima",
+      "tipo": "Entrada fría / Piqueo",
+      "ingredientes": "Pescado blanco, limón, chilcano, apio, cebolla morada, kión, ajo, culantro, ají limo, choclo desgranado y cancha serrana."
+    },
+    {
+      "nombre": "Lomo a la chorrillana",
+      "region": "Lima",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Bistec de res, abundante cebolla, tomate, ají amarillo, salsa de soya, papas fritas."
+    },
+    {
+      "nombre": "Lomo saltado",
+      "region": "Lima",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Trozos de res, cebolla, tomate, ají amarillo, sillao, vinagre, papas fritas, arroz."
+    },
+    {
+      "nombre": "Mazamorra morada",
+      "region": "Lima",
+      "tipo": "Postre",
+      "ingredientes": "Maíz morado, harina de camote (chuño), frutas secas (guindones, pasas), canela."
+    },
+    {
+      "nombre": "Menestrón",
+      "region": "Lima",
+      "tipo": "Sopa contundente",
+      "ingredientes": "Punta de pecho de res, fideos canuto, salsa espesa a base de albahaca y espinaca licuadas, papas, choclo desgranado, habas, arvejas, frijoles verdes y queso fresco en cubos."
+    },
+    {
+      "nombre": "Parihuela",
+      "region": "Lima",
+      "tipo": "Sopa de mariscos",
+      "ingredientes": "Pescado, mariscos diversos (cangrejo, conchas, pulpo), chicha de jora, ají panca."
+    },
+    {
+      "nombre": "Pepián",
+      "region": "Lima",
+      "tipo": "Guiso",
+      "ingredientes": "Choclo rallado/molido, aderezo criollo (ajo, cebolla, ají amarillo), pollo o chancho."
+    },
+    {
+      "nombre": "Picarones",
+      "region": "Lima",
+      "tipo": "Postre frito",
+      "ingredientes": "Masa frita de camote y zapallo con levadura, bañada en miel de chancaca y frutas."
+    },
+    {
+      "nombre": "Pollo a la brasa",
+      "region": "Lima",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Pollo entero marinado en cerveza negra, sillao (salsa de soya), romero, comino y ajo, cocinado al carbón o leña en un sistema rotatorio; servido con papas fritas."
+    },
+    {
+      "nombre": "Ranfañote",
+      "region": "Lima",
+      "tipo": "Postre tradicional",
+      "ingredientes": "Trozos de pan duro fritos en manteca, empapados en miel de chancaca, mezclados con queso mantecoso, coquitos de la selva, nueces, pasas y aromatizado con oporto."
+    },
+    {
+      "nombre": "Salchipapas",
+      "region": "Lima",
+      "tipo": "Comida rápida",
+      "ingredientes": "Papas fritas, salchichas en rodajas fritas, variedad de salsas (mayonesa, kétchup)."
+    },
+    {
+      "nombre": "Sancochado",
+      "region": "Lima",
+      "tipo": "Plato de fondo (Sopa)",
+      "ingredientes": "Carne de res (pecho), col, papas, choclo, yuca, zanahoria, garbanzos."
+    },
+    {
+      "nombre": "Sanguito",
+      "region": "Lima",
+      "tipo": "Postre dulce",
+      "ingredientes": "Masa dulce cocida a base de harina de maíz amarillo, manteca, miel de chancaca, pasas, clavo de olor y canela; servida tradicionalmente con grageas de colores."
+    },
+    {
+      "nombre": "Sopa criolla",
+      "region": "Lima",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Carne de res picada, fideos cabello de ángel, leche evaporada, aderezo de ají panca, ajo, cebolla, decorada con huevo frito encima y tostadas de pan francés."
+    },
+    {
+      "nombre": "Suspiro de limeña",
+      "region": "Lima",
+      "tipo": "Postre dulce",
+      "ingredientes": "Manjarblanco de yemas y leche, coronado con merengue al oporto y canela."
+    },
+    {
+      "nombre": "Tacutacu",
+      "region": "Lima",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Mezcla homogénea de arroz cocido y frejoles (u otras menestras) del día anterior sabroseada con aderezo criollo y dorada en sartén en forma de tortilla alargada."
+    },
+    {
+      "nombre": "Tiradito",
+      "region": "Lima",
+      "tipo": "Entrada fría (Cocina Nikkei)",
+      "ingredientes": "Láminas finas de pescado blanco crudo (estilo sashimi), jugo de limón puro, crema de ají amarillo o rocoto, sin cebolla; acompañado de choclo y camote."
+    },
+    {
+      "nombre": "Turrón de Doña Pepa",
+      "region": "Lima",
+      "tipo": "Postre tradicional",
+      "ingredientes": "Palitos de masa horneada con manteca y anís, miel de chancaca, grageas de colores."
+    },
+    {
+      "nombre": "Caldo de carachama",
+      "region": "Loreto",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Pescado carachama, sacha culantro, ajo, ají dulce, yuca sancochada."
+    },
+    {
+      "nombre": "Ceviche de paiche",
+      "region": "Loreto",
+      "tipo": "Entrada fría",
+      "ingredientes": "Carne fresca o desalada de paiche, limón, cebolla, sacha culantro, ají charapita."
+    },
+    {
+      "nombre": "Crema de chocho",
+      "region": "Loreto",
+      "tipo": "Guiso / Crema",
+      "ingredientes": "Semillas de chocho (tarwi selvático), aderezo regional, leche, condimentos."
+    },
+    {
+      "nombre": "Juane",
+      "region": "Loreto",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Arroz sazonado con palillo, gallina, huevo cocido, aceituna, envuelto en hoja de bijao."
+    },
+    {
+      "nombre": "Cucshe",
+      "region": "Loreto",
+      "tipo": "Plato tradicional",
+      "ingredientes": "Masa o preparación a base de maíz u hojas regionales según etnia amazónica."
+    },
+    {
+      "nombre": "Dulce de frijol",
+      "region": "Loreto",
+      "tipo": "Postre",
+      "ingredientes": "Frijoles locales sancochados y licuados con azúcar, leche y canela."
+    },
+    {
+      "nombre": "Ensalada de chonta",
+      "region": "Loreto",
+      "tipo": "Entrada fría",
+      "ingredientes": "Chonta (palmito fresco en tiras), limón, aceite, sal, acompañada de tomate."
+    },
+    {
+      "nombre": "Inchicapi",
+      "region": "Loreto",
+      "tipo": "Sopa espesa",
+      "ingredientes": "Gallina de corral, maní molido, maíz molido, sacha culantro, yuca."
+    },
+    {
+      "nombre": "Inchicucho",
+      "region": "Loreto",
+      "tipo": "Salsa / Piqueo",
+      "ingredientes": "Maní tostado molido con ají charapita, ajo, sal, sacha culantro."
+    },
+    {
+      "nombre": "Patarashca",
+      "region": "Loreto",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Pescado entero de río sazonado con sacha culantro, cebolla, asado en hojas de bijao."
+    },
+    {
+      "nombre": "Shinshe",
+      "region": "Loreto",
+      "tipo": "Bebida tradicional",
+      "ingredientes": "Preparación líquida o fermentada de frutos o raíces silvestres locales."
+    },
+    {
+      "nombre": "Suri",
+      "region": "Loreto",
+      "tipo": "Piqueo / Plato de fondo",
+      "ingredientes": "Larvas del árbol de aguaje, sazonadas con sal y asadas a la parrilla."
+    },
+    {
+      "nombre": "Tacacho con cecina",
+      "region": "Loreto",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Plátano bellaco verde machacado con manteca y chicharrón, carne de cerdo ahumada (cecina)."
+    },
+    {
+      "nombre": "Timbuche",
+      "region": "Loreto",
+      "tipo": "Sopa concentrada",
+      "ingredientes": "Pescados chicos de río (mojarra, carachama), agua, sacha culantro, ajo."
+    },
+    {
+      "nombre": "Tuksiche",
+      "region": "Loreto",
+      "tipo": "Preparación tradicional",
+      "ingredientes": "Masa andino-amazónica espesada con tubérculos o maíz local."
+    },
+    {
+      "nombre": "Zarapatera",
+      "region": "Loreto",
+      "tipo": "Sopa espesa",
+      "ingredientes": "Carne de motelo (tortuga terrestre), plátano rallado, sacha culantro, aderezo."
+    },
+    {
+      "nombre": "Asado de zamaño",
+      "region": "Madre de Dios",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de zamaño (majas/roedor silvestre) marinada y asada, yucas, plátanos."
+    },
+    {
+      "nombre": "Bisté de venado",
+      "region": "Madre de Dios",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de venado frita o a la plancha, ajo, pimienta, acompañada de tacacho o yuca."
+    },
+    {
+      "nombre": "Ceviche de doncella",
+      "region": "Madre de Dios",
+      "tipo": "Entrada fría",
+      "ingredientes": "Pescado doncella de río, limón, cebolla, ají charapita, sacha culantro."
+    },
+    {
+      "nombre": "Chilcano de carachama",
+      "region": "Madre de Dios",
+      "tipo": "Sopa ligera",
+      "ingredientes": "Pescado carachama, agua, ajo, sacha culantro, cebolla selvática."
+    },
+    {
+      "nombre": "Chupadora frita",
+      "region": "Madre de Dios",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Pescado chupadora, frito en aceite, servido con patacones y ensalada de chonta."
+    },
+    {
+      "nombre": "Sudado de carachama",
+      "region": "Madre de Dios",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carachama al vapor/guisada, tomate, cebolla, sacha culantro, yucas."
+    },
+    {
+      "nombre": "Tacacho con cecina",
+      "region": "Madre de Dios",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Plátano bellaco verde frito y machacado, manteca de cerdo, carne de cerdo ahumada."
+    },
+    {
+      "nombre": "Cuy frito moqueguano",
+      "region": "Moquegua",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Cuy entero eviscerado, maíz molido, ajo, papas sancochadas, ensalada."
+    },
+    {
+      "nombre": "Coxi o Sopa de pan",
+      "region": "Moquegua",
+      "tipo": "Sopa tradicional",
+      "ingredientes": "Pan seco remojado, caldo de res o cordero, papas, huevo batido, queso fresco, aderezo criollo y aromatizado con hojas de menta o paico."
+    },
+    {
+      "nombre": "Guargüeros",
+      "region": "Moquegua",
+      "tipo": "Postre / Dulce",
+      "ingredientes": "Masa frita de harina y yemas crocante, rellena de abundante manjarblanco."
+    },
+    {
+      "nombre": "Patasca moqueguana",
+      "region": "Moquegua",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Maíz mote, cabeza de chancho, panceta, ajo, ají panca, hierbabuena."
+    },
+    {
+      "nombre": "Alverjitas con carne",
+      "region": "Pasco",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Arvejas secas partidas guisadas, carne de res o cerdo, arroz, aderezo criollo."
+    },
+    {
+      "nombre": "Caldo de cabeza de carnero",
+      "region": "Pasco",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Cabeza de carnero trozada, papas nativas, chuño negro, cebolla, ajo, muña."
+    },
+    {
+      "nombre": "Pachamanca pasqueña",
+      "region": "Pasco",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carnes andinas, papas, humitas, sazonado con chincho y piedras calientes."
+    },
+    {
+      "nombre": "Chifle",
+      "region": "Piura",
+      "tipo": "Piqueo / Snack",
+      "ingredientes": "Plátano verde cortado en rodajas muy delgadas finamente fritas, sal."
+    },
+    {
+      "nombre": "Chumbeque",
+      "region": "Piura",
+      "tipo": "Postre / Dulce",
+      "ingredientes": "Capas de masa horneada con harina y manteca, unidas por miel de frutas/limón."
+    },
+    {
+      "nombre": "Jalea",
+      "region": "Piura",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Trozos de pescado y mariscos fritos con harina, cubiertos con zarza criolla."
+    },
+    {
+      "nombre": "Malarrabia",
+      "region": "Piura",
+      "tipo": "Plato tradicional (Cuaresma)",
+      "ingredientes": "Plátanos maduros sancochados y machacados, queso fresco, aderezo de cebolla, arroz, pescado."
+    },
+    {
+      "nombre": "Natillas",
+      "region": "Piura",
+      "tipo": "Postre / Dulce",
+      "ingredientes": "Leche de cabra o vaca, chancaca (panela), harina, canela."
+    },
+    {
+      "nombre": "Pasadito de caballa",
+      "region": "Piura",
+      "tipo": "Piqueo / Entrada",
+      "ingredientes": "Caballa fresca salpresa (oreada al sol), pasada rápidamente por agua hirviendo, servida fría con yucas, camotes y abundante cebolla."
+    },
+    {
+      "nombre": "Seco de chabelo",
+      "region": "Piura",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Plátano verde asado y machacado, carne de res salada (cecina), ají panca, chicha de jora."
+    },
+    {
+      "nombre": "Sopa de novios",
+      "region": "Piura",
+      "tipo": "Sopa festiva",
+      "ingredientes": "Pan francés remojado y licuado con caldo de ave, fideos tallarín, aderezo norteño con palillo (cúrcuma), pasas, huevo duro picado y aceitunas."
+    },
+    {
+      "nombre": "Caldo de carachi",
+      "region": "Puno",
+      "tipo": "Sopa / Caldo",
+      "ingredientes": "Pescado carachi del Titicaca, papas, chuño negro, muña, ajo, cebolla."
+    },
+    {
+      "nombre": "Ceviche de trucha",
+      "region": "Puno",
+      "tipo": "Entrada fría",
+      "ingredientes": "Trucha fresca de río/lago, limón, cebolla, ají limo, chuño o camote."
+    },
+    {
+      "nombre": "Pesque de quinua",
+      "region": "Puno",
+      "tipo": "Plato tradicional",
+      "ingredientes": "Quinua batida con leche, queso fresco local y mantequilla."
+    },
+    {
+      "nombre": "Huatía",
+      "region": "Puno",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Papas, oca, camote cocidos en un horno artesanal de terrones de tierra caliente."
+    },
+    {
+      "nombre": "Trucha frita",
+      "region": "Puno",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Trucha fresca frita, ajo, papas sancochadas o fritas, ensalada criolla."
+    },
+    {
+      "nombre": "Ispi frito",
+      "region": "Puno",
+      "tipo": "Piqueo / Entrada",
+      "ingredientes": "Ispi (pescado pequeño del Titicaca) frito entero con harina, papa, chuño."
+    },
+    {
+      "nombre": "Fricasé de cerdo",
+      "region": "Puno",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de cerdo, maíz mote, chuño negro, ají amarillo, palillo."
+    },
+    {
+      "nombre": "Quispiña",
+      "region": "Puno",
+      "tipo": "Piqueo andino",
+      "ingredientes": "Masa de quinua molida cocida al vapor, moldeada a mano, se come fría o caliente."
+    },
+    {
+      "nombre": "Pasankalla",
+      "region": "Puno",
+      "tipo": "Snack dulce",
+      "ingredientes": "Granos de maíz gigante reventados (popcorn andino) azucarados."
+    },
+    {
+      "nombre": "Chicharrón de alpaca",
+      "region": "Puno",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de alpaca picada en trozos cocida en su grasa, papas, chuño."
+    },
+    {
+      "nombre": "Caldo de Trucha",
+      "region": "Puno",
+      "tipo": "Sopa",
+      "ingredientes": "Trucha fresca, papa, chuño negro, muña, verduras de la zona."
+    },
+    {
+      "nombre": "Huarjata",
+      "region": "Puno",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Cabeza de cerdo o cordero sancochada, papas, chuño negro."
+    },
+    {
+      "nombre": "Kankacho (Asado de Ayaviri)",
+      "region": "Puno",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Cordero tierno macerado en cerveza y ajíes, asado al horno, papas nativas."
+    },
+    {
+      "nombre": "Caldo de cabeza",
+      "region": "Puno",
+      "tipo": "Sopa",
+      "ingredientes": "Cabeza de cordero, papas, chuño, arroz o fideos, ajo, cebolla."
+    },
+    {
+      "nombre": "Empanada puneña",
+      "region": "Puno",
+      "tipo": "Pérdida / Desayuno",
+      "ingredientes": "Masa horneada rellena de queso local dulce o salado con azúcar impalpable."
+    },
+    {
+      "nombre": "Chuñu puti",
+      "region": "Puno",
+      "tipo": "Acompañamiento",
+      "ingredientes": "Chuño negro remojado y picado, revuelto con huevo, queso y aderezo."
+    },
+    {
+      "nombre": "Thimpu",
+      "region": "Puno",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de cordero o res, papas, chuño, hojas de col, salsa de ají amarillo."
+    },
+    {
+      "nombre": "Chaquepa",
+      "region": "Puno",
+      "tipo": "Sopa espesa",
+      "ingredientes": "Trigo o cebada tostada y molida (chaque), caldo de carne, habas, papas."
+    },
+    {
+      "nombre": "Chunchuli frito",
+      "region": "Puno",
+      "tipo": "Piqueo / Entrada",
+      "ingredientes": "Intestinos de cordero trenzados y fritos a la plancha, chuño, papa."
+    },
+    {
+      "nombre": "Pan 3 esquinas",
+      "region": "Puno",
+      "tipo": "Panadería",
+      "ingredientes": "Pan plano tradicional de forma triangular elaborado con harina de trigo."
+    },
+    {
+      "nombre": "Pan sarnita",
+      "region": "Puno",
+      "tipo": "Panadería",
+      "ingredientes": "Pan redondo suave cubierto con trozos de queso derretido en la superficie."
+    },
+    {
+      "nombre": "Pan Cachito",
+      "region": "Puno",
+      "tipo": "Panadería",
+      "ingredientes": "Pan dulce o salado en forma de cuerno o medialuna con masa crujiente."
+    },
+    {
+      "nombre": "Pan Kauquita",
+      "region": "Puno",
+      "tipo": "Panadería",
+      "ingredientes": "Pan pequeño, crocante y hueco, típico de los desayunos del altiplano."
+    },
+    {
+      "nombre": "Api morado y blanco",
+      "region": "Puno",
+      "tipo": "Bebida caliente",
+      "ingredientes": "Maíz morado o blanco molido, canela, clavo de olor, cáscara de naranja."
+    },
+    {
+      "nombre": "Alfajores",
+      "region": "Puno",
+      "tipo": "Postre",
+      "ingredientes": "Galletas suaves de harina unidas por manjarblanco, azúcar fina."
+    },
+    {
+      "nombre": "Chicha de quinua",
+      "region": "Puno",
+      "tipo": "Bebida tradicional",
+      "ingredientes": "Quinua sancochada y licuada con frutas, canela y endulzada."
+    },
+    {
+      "nombre": "Chicha de maiz",
+      "region": "Puno",
+      "tipo": "Bebida / Refresco",
+      "ingredientes": "Maíz amarillo hervido con canela, clavo de olor y azúcar."
+    },
+    {
+      "nombre": "Mana",
+      "region": "Puno",
+      "tipo": "Postre dulce",
+      "ingredientes": "Pasta fina a base de yemas de huevo, leche y azúcar, moldeada en formas."
+    },
+    {
+      "nombre": "Chicharon de chancho",
+      "region": "Puno",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Carne de cerdo frita en su propia manteca, acompañada de mote y papas."
+    },
+    {
+      "nombre": "Quispiño",
+      "region": "Puno",
+      "tipo": "Piqueo andino",
+      "ingredientes": "Masa de quinua molida cocida al vapor (variante del quispiña estándar)."
+    },
+    {
+      "nombre": "Empanada de queso",
+      "region": "Puno",
+      "tipo": "Desayuno / Piqueo",
+      "ingredientes": "Masa de harina rellena de abundante queso andino frita u horneada."
+    },
+    {
+      "nombre": "Chacco",
+      "region": "Puno",
+      "tipo": "Sustancia mineral",
+      "ingredientes": "Arcilla medicinal comestible disuelta en agua, usada para acompañar papas nativas."
+    },
+    {
+      "nombre": "Avispa juane",
+      "region": "San Martín",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Arroz, carne de cerdo picada, huevos, palillo, especias, hoja de bijao."
+    },
+    {
+      "nombre": "Tacacho con cecina",
+      "region": "San Martín",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Plátano bellaco, manteca de cerdo, chicharrón, carne de cerdo ahumada (cecina)."
+    },
+    {
+      "nombre": "Inchicapi de gallina",
+      "region": "San Martín",
+      "tipo": "Sopa espesa",
+      "ingredientes": "Gallina de chacra, maní tostado y molido, maíz precocido, sacha culantro."
+    },
+    {
+      "nombre": "Picante a la tacneña",
+      "region": "Tacna",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Mondongo de res, pata de res, charqui, ají panca, papas machacadas."
+    },
+    {
+      "nombre": "Antecoco",
+      "region": "Tumbes",
+      "tipo": "Postre / Dulce",
+      "ingredientes": "Preparación tradicional a base de coco rallado, leche y azúcar."
+    },
+    {
+      "nombre": "Caldo de bolas",
+      "region": "Tumbes",
+      "tipo": "Sopa contundente",
+      "ingredientes": "Caldo de res con grandes bolas de plátano verde rallado rellenas de carne, pasas y huevo."
+    },
+    {
+      "nombre": "Ceviche de conchas negras",
+      "region": "Tumbes",
+      "tipo": "Entrada fría",
+      "ingredientes": "Conchas negras frescas de los manglares, limón, cebolla roja, ají limo."
+    },
+    {
+      "nombre": "Chinguirito",
+      "region": "Tumbes",
+      "tipo": "Entrada fría",
+      "ingredientes": "Pescado seco deshidratado, abundante limón, cebolla picada, ají limo, yucas."
+    },
+    {
+      "nombre": "Patarashca de pescado",
+      "region": "Ucayali",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Pescado amazónico, sacha culantro, cebolla, ají dulce, ajo, envuelto en bijao."
+    },
+    {
+      "nombre": "Chilcano de carachama",
+      "region": "Ucayali",
+      "tipo": "Sopa ligera",
+      "ingredientes": "Pescado carachama, sacha culantro, ajo, agua, ají charapita."
+    },
+    {
+      "nombre": "Juane de yuca",
+      "region": "Ucayali",
+      "tipo": "Plato de fondo",
+      "ingredientes": "Yuca rallada, pescado seco o fresco, sacha culantro, envuelto en hoja de bijao."
+    }
+  ],
+  "meta": {
+    "title": "Platos típicos del Perú por región - Free Download",
+    "description": "Platos típicos de la gastronomía peruana agrupados por región, con su tipo (entrada, sopa, plato de fondo, postre, bebida) y sus ingredientes principales. Contains 225 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Platos típicos del Perú por región | ListBase",
+    "seo_description": "Download Platos típicos del Perú por región — 225 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 225 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Platos_típicos_del_Perú"
+    ]
+  }
+}

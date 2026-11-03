@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-03T02:13:31.689Z",
-  "total_datasets": 520,
-  "total_records": 428792,
+  "generated": "2026-11-03T02:13:39.310Z",
+  "total_datasets": 521,
+  "total_records": 429017,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -1436,6 +1436,31 @@
         "xlsx": {
           "name": "es-platillos-mexicanos-por-estado_ES.xlsx",
           "size": 41899
+        }
+      }
+    },
+    {
+      "id": "es-platos-tipicos-del-peru",
+      "name": "Platos típicos del Perú por región",
+      "category": "food",
+      "record_count": 225,
+      "columns": [
+        "nombre",
+        "region",
+        "tipo",
+        "ingredientes"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Platos_típicos_del_Perú",
+      "updated": "2026-11",
+      "size": 48932,
+      "files": {
+        "csv": {
+          "name": "es-platos-tipicos-del-peru_ES.csv",
+          "size": 28397
+        },
+        "xlsx": {
+          "name": "es-platos-tipicos-del-peru_ES.xlsx",
+          "size": 19439
         }
       }
     },
