@@ -1,0 +1,1357 @@
+{
+  "id": "es-sitios-ramsar-de-mexico",
+  "name": "Sitios Ramsar de México",
+  "title": "Sitios Ramsar de México",
+  "description": "Humedales de importancia internacional (sitios Ramsar) de México con su número Ramsar, municipios, estado, superficie en hectáreas y fecha de designación.",
+  "category": "environment",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Sitios_Ramsar_en_México",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Sitios_Ramsar_en_México",
+  "updated": "2026-11",
+  "record_count": 144,
+  "columns": [
+    {
+      "key": "numero_ramsar",
+      "label": "Numero Ramsar",
+      "type": "number"
+    },
+    {
+      "key": "clave",
+      "label": "Clave",
+      "type": "string"
+    },
+    {
+      "key": "sitio",
+      "label": "Sitio",
+      "type": "string"
+    },
+    {
+      "key": "municipios",
+      "label": "Municipios",
+      "type": "string"
+    },
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "fecha_designacion",
+      "label": "Fecha Designacion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero_ramsar": "0332",
+      "clave": "MEX-001",
+      "sitio": "Humedal de Importancia Especialmente para la Conservación de Aves Acuáticas Reserva Ría Lagartos",
+      "municipios": "Río Lagartos, Tizimín y San Felipe (Yucatán)",
+      "estado": "Yucatán",
+      "area_ha": 60348,
+      "fecha_designacion": "04 de julio de 1986"
+    },
+    {
+      "numero_ramsar": "0732",
+      "clave": "MEX-002",
+      "sitio": "Marismas Nacionales",
+      "municipios": "Acaponeta, Rosamorada, San Blas, Santiago Ixcuintla, Tecuala, Tuxpan, Rosario Escuinapa",
+      "estado": "Nayarit Sinaloa",
+      "area_ha": 200000,
+      "fecha_designacion": "22 de junio de 1995"
+    },
+    {
+      "numero_ramsar": "0733",
+      "clave": "MEX-003",
+      "sitio": "Reserva de la Biósfera Pantanos de Centla",
+      "municipios": "Centla, Jonuta, Macuspana",
+      "estado": "Tabasco",
+      "area_ha": 302706,
+      "fecha_designacion": "22 de junio de 1995"
+    },
+    {
+      "numero_ramsar": "0734",
+      "clave": "MEX-004",
+      "sitio": "Área de Protección de Flora y Fauna Cuatrociénegas",
+      "municipios": "Cuatrociénegas",
+      "estado": "Coahuila",
+      "area_ha": 84347,
+      "fecha_designacion": "22 de junio de 1995"
+    },
+    {
+      "numero_ramsar": "0814",
+      "clave": "MEX-005",
+      "sitio": "Humedales del Delta del Río Colorado",
+      "municipios": "Mexicali, San Luis Río Colorado",
+      "estado": "Baja California Sonora",
+      "area_ha": 250000,
+      "fecha_designacion": "02 de marzo de 1996"
+    },
+    {
+      "numero_ramsar": "0815",
+      "clave": "MEX-006",
+      "sitio": "Reserva de la Biósfera La Encrucijada",
+      "municipios": "Pijijiapan, Mapastepec, Acapetahua, Huixtla, Villa Comaltitlán y Mazatlán",
+      "estado": "Chiapas",
+      "area_ha": 144868,
+      "fecha_designacion": "20 de marzo de 1996"
+    },
+    {
+      "numero_ramsar": "1045",
+      "clave": "MEX-007",
+      "sitio": "Bocas de Dzilam (Reserva estatal)",
+      "municipios": "Dzilam de Bravo, San Felipe",
+      "estado": "Yucatán",
+      "area_ha": 61707,
+      "fecha_designacion": "07 de diciembre de 2000"
+    },
+    {
+      "numero_ramsar": "1320",
+      "clave": "MEX-008",
+      "sitio": "Parque nacional Arrecifes de Xcalak",
+      "municipios": "Othón P. Blanco",
+      "estado": "Quintana Roo",
+      "area_ha": 17949,
+      "fecha_designacion": "27 de noviembre de 2003"
+    },
+    {
+      "numero_ramsar": "1321",
+      "clave": "MEX-009",
+      "sitio": "Cuencas y corales de la zona costera de Huatulco",
+      "municipios": "Santa María Huatulco",
+      "estado": "Oaxaca",
+      "area_ha": 44400,
+      "fecha_designacion": "27 de noviembre de 2003"
+    },
+    {
+      "numero_ramsar": "1322",
+      "clave": "MEX-010",
+      "sitio": "Laguna de Tecocomulco",
+      "municipios": "Tepeapulco, Apan, Cuautepec de Hinojosa",
+      "estado": "Hidalgo",
+      "area_ha": 1769,
+      "fecha_designacion": "27 de noviembre de 2003"
+    },
+    {
+      "numero_ramsar": "1323",
+      "clave": "MEX-011",
+      "sitio": "Parque nacional Isla Contoy",
+      "municipios": "Isla Mujeres",
+      "estado": "Quintana Roo",
+      "area_ha": 5126,
+      "fecha_designacion": "27 de noviembre de 2003"
+    },
+    {
+      "numero_ramsar": "1324",
+      "clave": "MEX-012",
+      "sitio": "Parque nacional Isla Isabel",
+      "municipios": "Santiago Ixcuintla, San Blas",
+      "estado": "Nayarit",
+      "area_ha": 94,
+      "fecha_designacion": "27 de noviembre de 2003"
+    },
+    {
+      "numero_ramsar": "1325",
+      "clave": "MEX-013",
+      "sitio": "Parque nacional Lagunas de Montebello",
+      "municipios": "La Trinitaria, La Independencia",
+      "estado": "Chiapas",
+      "area_ha": 6022,
+      "fecha_designacion": "27 de noviembre de 2003"
+    },
+    {
+      "numero_ramsar": "1326",
+      "clave": "MEX-014",
+      "sitio": "Playa Tortuguera Rancho Nuevo",
+      "municipios": "Villa de Aldama",
+      "estado": "Tamaulipas",
+      "area_ha": 30,
+      "fecha_designacion": "27 de noviembre de 2003"
+    },
+    {
+      "numero_ramsar": "1327",
+      "clave": "MEX-015",
+      "sitio": "Playa Tortuguera Tierra Colorada",
+      "municipios": "Cuajinicuilapa",
+      "estado": "Guerrero",
+      "area_ha": 54,
+      "fecha_designacion": "27 de noviembre de 2003"
+    },
+    {
+      "numero_ramsar": "1328",
+      "clave": "MEX-016",
+      "sitio": "Reserva Estatal El Palmar",
+      "municipios": "Celestún, Hunucmá",
+      "estado": "Yucatán",
+      "area_ha": 50177,
+      "fecha_designacion": "27 de noviembre de 2003"
+    },
+    {
+      "numero_ramsar": "1329",
+      "clave": "MEX-017",
+      "sitio": "Sian Ka'an",
+      "municipios": "Felipe Carrillo Puerto, Solidaridad",
+      "estado": "Quintana Roo",
+      "area_ha": 652193,
+      "fecha_designacion": "27 de noviembre de 2003"
+    },
+    {
+      "numero_ramsar": "1331",
+      "clave": "MEX-018",
+      "sitio": "Área de protección de flora y fauna Nahá-Metzabok",
+      "municipios": "Ocosingo",
+      "estado": "Chiapas",
+      "area_ha": 7216,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1332",
+      "clave": "MEX-019",
+      "sitio": "Bala'an K'aax",
+      "municipios": "José María Morelos, Otón P. Blanco",
+      "estado": "Quintana Roo",
+      "area_ha": 131610,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1333",
+      "clave": "MEX-020",
+      "sitio": "Reserva de la Biósfera Ría Celestún",
+      "municipios": "Yucatán: Celestún, Maxcanú; Campeche: Calkiní",
+      "estado": "Campeche Yucatán",
+      "area_ha": 81482,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1334",
+      "clave": "MEX-021",
+      "sitio": "Reserva de la Biósfera Chamela - Cuixmala",
+      "municipios": "La Huerta",
+      "estado": "Jalisco",
+      "area_ha": 13142,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1335",
+      "clave": "MEX-022",
+      "sitio": "Ciénagas del Lerma",
+      "municipios": "Almoloya del Río, Lerma, Atarasquillo",
+      "estado": "México",
+      "area_ha": 3023,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1336",
+      "clave": "MEX-023",
+      "sitio": "La Mancha y El Llano",
+      "municipios": "Actopan",
+      "estado": "Veracruz",
+      "area_ha": 1414,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1337",
+      "clave": "MEX-024",
+      "sitio": "Laguna de Metztitlán",
+      "municipios": "Eloxochitlán, Metztitlán",
+      "estado": "Hidalgo",
+      "area_ha": 2937,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1338",
+      "clave": "MEX-025",
+      "sitio": "Laguna de Sayula",
+      "municipios": "Zacoalco de Torres, Teocuitatlan de Corona, Atoyac, Sayula, Amacueca, Techaluta",
+      "estado": "Jalisco",
+      "area_ha": 16800,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1339",
+      "clave": "MEX-026",
+      "sitio": "Laguna Ojo de Liebre",
+      "municipios": "Mulegé",
+      "estado": "Baja California Sur",
+      "area_ha": 36600,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1340",
+      "clave": "MEX-027",
+      "sitio": "Laguna Playa Colorada - Santa María la Reforma",
+      "municipios": "Angostura, Navolato",
+      "estado": "Sinaloa",
+      "area_ha": 53140,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1341",
+      "clave": "MEX-028",
+      "sitio": "Laguna San Ignacio",
+      "municipios": "Mulegé",
+      "estado": "Baja California Sur",
+      "area_ha": 17500,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1342",
+      "clave": "MEX-029",
+      "sitio": "Manglares y Humedales de la Laguna de Sontecomapan",
+      "municipios": "Catemaco",
+      "estado": "Veracruz",
+      "area_ha": 8921,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1343",
+      "clave": "MEX-030",
+      "sitio": "Parque nacional Arrecife de Puerto Morelos",
+      "municipios": "Benito Juárez",
+      "estado": "Quintana Roo",
+      "area_ha": 9066,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1344",
+      "clave": "MEX-031",
+      "sitio": "Parque nacional Cañón del Sumidero",
+      "municipios": "Tuxtla Gutiérrez, Chiapas de Corzo, San Fernando, Osumacinta, Chicoasen, Soyalo, Ixtapa",
+      "estado": "Chiapas",
+      "area_ha": 21789,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1345",
+      "clave": "MEX-032",
+      "sitio": "Islas Marietas",
+      "municipios": "Bahía de Banderas",
+      "estado": "Nayarit",
+      "area_ha": 1357,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1346",
+      "clave": "MEX-033",
+      "sitio": "Parque Marino Nacional Sistema Arrecifal Veracruzano",
+      "municipios": "Alvarado, Antón Lizardo, Boca del Río, Veracruz, Vega de Alatorre",
+      "estado": "Veracruz",
+      "area_ha": 52238,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1347",
+      "clave": "MEX-034",
+      "sitio": "Playa Tortuguera Cahuitán",
+      "municipios": "Santiago Tapextla",
+      "estado": "Oaxaca",
+      "area_ha": 65,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1348",
+      "clave": "MEX-035",
+      "sitio": "Playa Tortuguera Chenkán",
+      "municipios": "Champotón",
+      "estado": "Campeche",
+      "area_ha": 100,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1349",
+      "clave": "MEX-036",
+      "sitio": "Playa Tortuguera El Verde Camacho",
+      "municipios": "Mazatlán",
+      "estado": "Sinaloa",
+      "area_ha": 6454,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1350",
+      "clave": "MEX-037",
+      "sitio": "Playón Mexiquillo",
+      "municipios": "Aquila",
+      "estado": "Michoacán",
+      "area_ha": 67,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1351",
+      "clave": "MEX-038",
+      "sitio": "Playa Tortuguera X'cacel - X'cacelito",
+      "municipios": "Solidaridad",
+      "estado": "Quintana Roo",
+      "area_ha": 362,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1352",
+      "clave": "MEX-039",
+      "sitio": "Presa Jalpan",
+      "municipios": "Jalpan de Serra",
+      "estado": "Querétaro",
+      "area_ha": 68,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1353",
+      "clave": "MEX-040",
+      "sitio": "Reserva de la Biósfera Banco Chinchorro",
+      "municipios": "Othón P. Blanco",
+      "estado": "Quintana Roo",
+      "area_ha": 144360,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1354",
+      "clave": "MEX-041",
+      "sitio": "Reserva de la Biósfera Los Petenes",
+      "municipios": "Calkiní, Hecelchakan, Tenabo y Campeche",
+      "estado": "Campeche",
+      "area_ha": 282857,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1355",
+      "clave": "MEX-042",
+      "sitio": "Sistema Lagunar Alvarado",
+      "municipios": "Alvarado, Tlalixcoyan, Ignacio de la Llave, Acula, Tlacotalpan, Ixmatlahuacan",
+      "estado": "Veracruz",
+      "area_ha": 267010,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1356",
+      "clave": "MEX-043",
+      "sitio": "Área de Protección de Flora y Fauna de Términos",
+      "municipios": "El Carmen, Palizada, Escárcega y Champotón",
+      "estado": "Campeche",
+      "area_ha": 705016,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1357",
+      "clave": "MEX-044",
+      "sitio": "Reserva de la Biósfera Archipiélago de Revillagigedo",
+      "municipios": "Manzanillo",
+      "estado": "Colima",
+      "area_ha": 636685,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1358",
+      "clave": "MEX-045",
+      "sitio": "Parque nacional Bahía de Loreto",
+      "municipios": "Loreto",
+      "estado": "Baja California Sur",
+      "area_ha": 206581,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1359",
+      "clave": "MEX-046",
+      "sitio": "Isla San Pedro Mártir",
+      "municipios": "Bahía de Kino",
+      "estado": "Sonora",
+      "area_ha": 30165,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1360",
+      "clave": "MEX-047",
+      "sitio": "Área de protección de flora y fauna Yum Balam",
+      "municipios": "Lázaro Cárdenas",
+      "estado": "Quintana Roo",
+      "area_ha": 154052,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1361",
+      "clave": "MEX-048",
+      "sitio": "Laguna de Yuriria",
+      "municipios": "Yuriria, Salvatierra, Valle de Santiago",
+      "estado": "Guanajuato",
+      "area_ha": 15020,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1362",
+      "clave": "MEX-049",
+      "sitio": "Laguna Madre",
+      "municipios": "Matamoros, San Fernando, Soto la Marina",
+      "estado": "Tamaulipas",
+      "area_ha": 307894,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1363",
+      "clave": "MEX-050",
+      "sitio": "Sistema Lacustre Ejidos de Xochimilco y San Gregorio Atlapulco",
+      "municipios": "Xochimilco",
+      "estado": "Ciudad de México",
+      "area_ha": 2657,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1364",
+      "clave": "MEX-051",
+      "sitio": "Laguna Chichankanab",
+      "municipios": "José María Morelos",
+      "estado": "Quintana Roo",
+      "area_ha": 1999,
+      "fecha_designacion": "02 de febrero de 2004"
+    },
+    {
+      "numero_ramsar": "1447",
+      "clave": "MEX-052",
+      "sitio": "Humedales del Lago de Pátzcuaro",
+      "municipios": "Pátzcuaro, Quiroga, Tzintzuntzan, Erongarácuaro, Tingambato, Huiramba, Nahuatzen",
+      "estado": "Michoacán",
+      "area_ha": 707,
+      "fecha_designacion": "02 de febrero de 2005"
+    },
+    {
+      "numero_ramsar": "1448",
+      "clave": "MEX-053",
+      "sitio": "Laguna Costera El Caimán",
+      "municipios": "Lázaro Cárdenas",
+      "estado": "Michoacán",
+      "area_ha": 1125,
+      "fecha_designacion": "02 de febrero de 2005"
+    },
+    {
+      "numero_ramsar": "1449",
+      "clave": "MEX-054",
+      "sitio": "Parque nacional Arrecifes de Cozumel",
+      "municipios": "Cozumel",
+      "estado": "Quintana Roo",
+      "area_ha": 11987,
+      "fecha_designacion": "02 de febrero de 2005"
+    },
+    {
+      "numero_ramsar": "1450",
+      "clave": "MEX-055",
+      "sitio": "Sistema de Lagunas Interdunarias de la Ciudad de Veracruz",
+      "municipios": "Veracruz",
+      "estado": "Veracruz",
+      "area_ha": 141,
+      "fecha_designacion": "02 de febrero de 2005"
+    },
+    {
+      "numero_ramsar": "1462",
+      "clave": "MEX-056",
+      "sitio": "Humedales de la Laguna La Popotera",
+      "municipios": "Alvarado, Lerdo de Tejada",
+      "estado": "Veracruz",
+      "area_ha": 1975,
+      "fecha_designacion": "05 de junio de 2005"
+    },
+    {
+      "numero_ramsar": "1465",
+      "clave": "MEX-057",
+      "sitio": "Laguna de Zacapu",
+      "municipios": "Zacapu de Mier",
+      "estado": "Michoacán",
+      "area_ha": 40,
+      "fecha_designacion": "05 de junio de 2005"
+    },
+    {
+      "numero_ramsar": "1466",
+      "clave": "MEX-058",
+      "sitio": "Laguna de Zapotlán",
+      "municipios": "Gómez Farias, Zapotlón el Grande",
+      "estado": "Jalisco",
+      "area_ha": 1496,
+      "fecha_designacion": "05 de junio de 2005"
+    },
+    {
+      "numero_ramsar": "1595",
+      "clave": "MEX-059",
+      "sitio": "Corredor Costero La Asamblea - San Francisquito",
+      "municipios": "Ensenada",
+      "estado": "Baja California",
+      "area_ha": 44304,
+      "fecha_designacion": "27 de noviembre de 2005"
+    },
+    {
+      "numero_ramsar": "1596",
+      "clave": "MEX-060",
+      "sitio": "Laguna de Tamiahua",
+      "municipios": "Ozuluama, Tamalín, Tamiahua, Tampico Alto, Tuxpan",
+      "estado": "Veracruz",
+      "area_ha": 88000,
+      "fecha_designacion": "27 de noviembre de 2005"
+    },
+    {
+      "numero_ramsar": "1601",
+      "clave": "MEX-061",
+      "sitio": "Cascadas de Texolo y su entorno",
+      "municipios": "Xico",
+      "estado": "Veracruz",
+      "area_ha": 500,
+      "fecha_designacion": "02 de febrero de 2006"
+    },
+    {
+      "numero_ramsar": "1602",
+      "clave": "MEX-062",
+      "sitio": "Manglares y Humedales de Tuxpan",
+      "municipios": "Tuxpan",
+      "estado": "Veracruz",
+      "area_ha": 6780,
+      "fecha_designacion": "02 de febrero de 2006"
+    },
+    {
+      "numero_ramsar": "1603",
+      "clave": "MEX-063",
+      "sitio": "Isla Rasa",
+      "municipios": "-",
+      "estado": "Baja California",
+      "area_ha": 66,
+      "fecha_designacion": "02 de febrero de 2006"
+    },
+    {
+      "numero_ramsar": "1604",
+      "clave": "MEX-064",
+      "sitio": "Estero de Punta Banda",
+      "municipios": "Ensenada",
+      "estado": "Baja California",
+      "area_ha": 2393,
+      "fecha_designacion": "02 de febrero de 2006"
+    },
+    {
+      "numero_ramsar": "1607",
+      "clave": "MEX-065",
+      "sitio": "Laguna de Atotonilco",
+      "municipios": "Villa Corona, Zacoalco de Torres",
+      "estado": "Jalisco",
+      "area_ha": 2850,
+      "fecha_designacion": "18 de marzo de 2006"
+    },
+    {
+      "numero_ramsar": "1689",
+      "clave": "MEX-066",
+      "sitio": "Laguna Huizache-Caimanero",
+      "municipios": "Mazatlán, Rosario",
+      "estado": "Sinaloa",
+      "area_ha": 48283,
+      "fecha_designacion": "02 de febrero de 2007"
+    },
+    {
+      "numero_ramsar": "1690",
+      "clave": "MEX-067",
+      "sitio": "Parque Estatal Lagunas de Yalahau",
+      "municipios": "Homún, Huhó, Tekit, Sotuta",
+      "estado": "Yucatán",
+      "area_ha": 5683,
+      "fecha_designacion": "02 de febrero de 2007"
+    },
+    {
+      "numero_ramsar": "1747",
+      "clave": "MEX-068",
+      "sitio": "Parque Estatal Cañón de Fernández",
+      "municipios": "-",
+      "estado": "Durango",
+      "area_ha": 17002,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1760",
+      "clave": "MEX-069",
+      "sitio": "Ensenada de Pabellones",
+      "municipios": "-",
+      "estado": "Sinaloa",
+      "area_ha": 40639,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1761",
+      "clave": "MEX-070",
+      "sitio": "Humedal Los Comondú",
+      "municipios": "Comondú, Loreto",
+      "estado": "Baja California Sur",
+      "area_ha": 460959,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1762",
+      "clave": "MEX-071",
+      "sitio": "Laguna de Babícora",
+      "municipios": "-",
+      "estado": "Chihuahua",
+      "area_ha": 26045,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1763",
+      "clave": "MEX-072",
+      "sitio": "Otoch Ma'ax Yetel Kooh",
+      "municipios": "-",
+      "estado": "Yucatán",
+      "area_ha": 5367,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1764",
+      "clave": "MEX-073",
+      "sitio": "Santuario Playa Boca de Apiza - El Cupadero - El Tecuanillo",
+      "municipios": "-",
+      "estado": "Colima",
+      "area_ha": 40,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1765",
+      "clave": "MEX-074",
+      "sitio": "Zona Sujeta a Conservación Ecológica sistema Lagunar Catazajá",
+      "municipios": "-",
+      "estado": "Chiapas",
+      "area_ha": 41059,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1766",
+      "clave": "MEX-075",
+      "sitio": "Arroyos y Manantiales de Tanchachín",
+      "municipios": "-",
+      "estado": "San Luis Potosí",
+      "area_ha": 1174,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1767",
+      "clave": "MEX-076",
+      "sitio": "Balandra (manglares)",
+      "municipios": "La Paz",
+      "estado": "Baja California Sur",
+      "area_ha": 449,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1768",
+      "clave": "MEX-077",
+      "sitio": "Laguna Xola - Paramán",
+      "municipios": "-",
+      "estado": "Jalisco",
+      "area_ha": 775,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1769",
+      "clave": "MEX-078",
+      "sitio": "Río Sabinas",
+      "municipios": "-",
+      "estado": "Coahuila",
+      "area_ha": 603123,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1770",
+      "clave": "MEX-079",
+      "sitio": "Sistema Estuarino Boca del Cielo",
+      "municipios": "Boca del Cielo",
+      "estado": "Chiapas",
+      "area_ha": 8931,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1771",
+      "clave": "MEX-080",
+      "sitio": "Zona Sujeta a Conservación Ecológica Cabildo - Amatal",
+      "municipios": "-",
+      "estado": "Chiapas",
+      "area_ha": 2832,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1772",
+      "clave": "MEX-081",
+      "sitio": "Zona Sujeta a Conservación Ecológica El Gancho - Murillo",
+      "municipios": "-",
+      "estado": "Chiapas",
+      "area_ha": 4643,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1774",
+      "clave": "MEX-082",
+      "sitio": "Humedales La Libertad",
+      "municipios": "-",
+      "estado": "Chiapas",
+      "area_ha": 5432,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1775",
+      "clave": "MEX-083",
+      "sitio": "Bahía San Quintín",
+      "municipios": "Ensenada",
+      "estado": "Baja California",
+      "area_ha": 5438,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1776",
+      "clave": "MEX-084",
+      "sitio": "La Tovara",
+      "municipios": "-",
+      "estado": "Nayarit",
+      "area_ha": 5733,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1777",
+      "clave": "MEX-085",
+      "sitio": "Manglares de Nichupté",
+      "municipios": "-",
+      "estado": "Quintana Roo",
+      "area_ha": 4257,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1778",
+      "clave": "MEX-086",
+      "sitio": "Parque nacional Cabo Pulmo",
+      "municipios": "Los Cabos",
+      "estado": "Baja California Sur",
+      "area_ha": 7100,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1787",
+      "clave": "MEX-087",
+      "sitio": "Humedales de Montaña La Kisst",
+      "municipios": "-",
+      "estado": "Chiapas",
+      "area_ha": 36,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1788",
+      "clave": "MEX-088",
+      "sitio": "Playa de Colola",
+      "municipios": "-",
+      "estado": "Michoacán",
+      "area_ha": 287,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1789",
+      "clave": "MEX-089",
+      "sitio": "Estero La Manzanilla",
+      "municipios": "-",
+      "estado": "Jalisco",
+      "area_ha": 264,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1790",
+      "clave": "MEX-090",
+      "sitio": "Complejo Lagunar Bahía Guásimas – Estero Lobos",
+      "municipios": "-",
+      "estado": "Sonora",
+      "area_ha": 135198,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1791",
+      "clave": "MEX-091",
+      "sitio": "Estero El Chorro",
+      "municipios": "-",
+      "estado": "Jalisco",
+      "area_ha": 267,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1792",
+      "clave": "MEX-092",
+      "sitio": "Estero Majahuas",
+      "municipios": "-",
+      "estado": "Jalisco",
+      "area_ha": 786,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1793",
+      "clave": "MEX-093",
+      "sitio": "Oasis Sierra de La Giganta",
+      "municipios": "Loreto",
+      "estado": "Baja California Sur",
+      "area_ha": 41181,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1794",
+      "clave": "MEX-094",
+      "sitio": "Oasis de la Sierra El Pilar",
+      "municipios": "Comondú, La Paz",
+      "estado": "Baja California Sur",
+      "area_ha": 180803,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1795",
+      "clave": "MEX-095",
+      "sitio": "Playa de Maruata",
+      "municipios": "-",
+      "estado": "Michoacán",
+      "area_ha": 80,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1796",
+      "clave": "MEX-096",
+      "sitio": "Sistema de Represas y Corredores biológicos de la Cuenca Hidrográfica del Río Necaxa",
+      "municipios": "-",
+      "estado": "Hidalgo Puebla",
+      "area_ha": 1541,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1797",
+      "clave": "MEX-097",
+      "sitio": "Sistema Lagunar Agiabampo – Bacorehuis – Río Fuerte Antiguo",
+      "municipios": "-",
+      "estado": "Sinaloa Sonora",
+      "area_ha": 90804,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1813",
+      "clave": "MEX-098",
+      "sitio": "Agua Dulce",
+      "municipios": "-",
+      "estado": "Sonora",
+      "area_ha": 39,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1814",
+      "clave": "MEX-099",
+      "sitio": "Ciénaga de Tamasopo",
+      "municipios": "-",
+      "estado": "San Luis Potosí",
+      "area_ha": 1364,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1815",
+      "clave": "MEX-100",
+      "sitio": "Humedal La Sierra de Guadalupe",
+      "municipios": "Mulegé",
+      "estado": "Baja California Sur",
+      "area_ha": 348087,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1816",
+      "clave": "MEX-101",
+      "sitio": "Humedales El Mogote – Ensenada de La Paz",
+      "municipios": "La Paz",
+      "estado": "Baja California Sur",
+      "area_ha": 9184,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1817",
+      "clave": "MEX-102",
+      "sitio": "Laguna Barra de Navidad",
+      "municipios": "-",
+      "estado": "Jalisco",
+      "area_ha": 794,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1818",
+      "clave": "MEX-103",
+      "sitio": "Laguna Chalacatepec",
+      "municipios": "-",
+      "estado": "Jalisco",
+      "area_ha": 1093,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1819",
+      "clave": "MEX-104",
+      "sitio": "Lagunas de Chacahua",
+      "municipios": "-",
+      "estado": "Oaxaca",
+      "area_ha": 17424,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1820",
+      "clave": "MEX-105",
+      "sitio": "Parque nacional Arrecife Alacranes",
+      "municipios": "-",
+      "estado": "Yucatán",
+      "area_ha": 334113,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1821",
+      "clave": "MEX-106",
+      "sitio": "Playa Barra de la Cruz",
+      "municipios": "-",
+      "estado": "Oaxaca",
+      "area_ha": 18,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1822",
+      "clave": "MEX-107",
+      "sitio": "Sistema de Humedales Remanentes del Delta del Río Colorado",
+      "municipios": "-",
+      "estado": "Baja California Sonora",
+      "area_ha": 127614,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1823",
+      "clave": "MEX-108",
+      "sitio": "Sistema Estuarino Puerto Arista",
+      "municipios": "-",
+      "estado": "Chiapas",
+      "area_ha": 62138,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1824",
+      "clave": "MEX-109",
+      "sitio": "Sistema Lagunar Ceuta",
+      "municipios": "-",
+      "estado": "Sinaloa",
+      "area_ha": 1497,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1825",
+      "clave": "MEX-110",
+      "sitio": "Sistema Lagunar Estuarino Agua Dulce – El Ermitaño",
+      "municipios": "-",
+      "estado": "Jalisco",
+      "area_ha": 1281,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1826",
+      "clave": "MEX-111",
+      "sitio": "Sistema Lagunar San Ignacio – Navachiste – Macapule",
+      "municipios": "-",
+      "estado": "Sinaloa",
+      "area_ha": 79873,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1827",
+      "clave": "MEX-112",
+      "sitio": "Sistema Ripario de la Cuenca y Estero de San José del Cabo",
+      "municipios": "Los Cabos",
+      "estado": "Baja California Sur",
+      "area_ha": 124219,
+      "fecha_designacion": "02 de febrero de 2008"
+    },
+    {
+      "numero_ramsar": "1866",
+      "clave": "MEX-113",
+      "sitio": "Humedales de Bahía Adair",
+      "municipios": "San Luis Río Colorado, Puerto Peñasco",
+      "estado": "Sonora",
+      "area_ha": 42430,
+      "fecha_designacion": "02 de febrero de 2009"
+    },
+    {
+      "numero_ramsar": "1891",
+      "clave": "MEX-114",
+      "sitio": "Canal del Infiernillo y esteros del territorio Comcaac (Xepe Coosot)",
+      "municipios": "Hermosillo, Pitiquito",
+      "estado": "Sonora",
+      "area_ha": 27900,
+      "fecha_designacion": "27 de noviembre de 2009"
+    },
+    {
+      "numero_ramsar": "1919",
+      "clave": "MEX-115",
+      "sitio": "La Mintzita",
+      "municipios": "Morelia",
+      "estado": "Michoacán",
+      "area_ha": 57,
+      "fecha_designacion": "02 de febrero de 2009"
+    },
+    {
+      "numero_ramsar": "1920",
+      "clave": "MEX-116",
+      "sitio": "Lago de San Juan de los Ahorcados",
+      "municipios": "-",
+      "estado": "Zacatecas",
+      "area_ha": 1099,
+      "fecha_designacion": "02 de febrero de 2009"
+    },
+    {
+      "numero_ramsar": "1921",
+      "clave": "MEX-117",
+      "sitio": "Manglares y humedales del Norte de Isla Cozumel",
+      "municipios": "Cozumel",
+      "estado": "Quintana Roo",
+      "area_ha": 32786,
+      "fecha_designacion": "02 de febrero de 2009"
+    },
+    {
+      "numero_ramsar": "1922",
+      "clave": "MEX-118",
+      "sitio": "Alberca de Los Espinos",
+      "municipios": "Jiménez",
+      "estado": "Michoacán",
+      "area_ha": 33,
+      "fecha_designacion": "02 de febrero de 2009"
+    },
+    {
+      "numero_ramsar": "1923",
+      "clave": "MEX-119",
+      "sitio": "Laguna de Hanson, Parque nacional Constitución de 1857",
+      "municipios": "Ensenada",
+      "estado": "Baja California",
+      "area_ha": 510,
+      "fecha_designacion": "02 de febrero de 2010"
+    },
+    {
+      "numero_ramsar": "1933",
+      "clave": "MEX-120",
+      "sitio": "Laguna de Hueyapan (El Texcal)",
+      "municipios": "-",
+      "estado": "Morelos",
+      "area_ha": 276,
+      "fecha_designacion": "02 de febrero de 2010"
+    },
+    {
+      "numero_ramsar": "1934",
+      "clave": "MEX-121",
+      "sitio": "Ecosistema Arroyo Verde APFF Sierra de Álamos Río Cuchujaqui",
+      "municipios": "-",
+      "estado": "Sonora",
+      "area_ha": 174,
+      "fecha_designacion": "02 de febrero de 2010"
+    },
+    {
+      "numero_ramsar": "1972",
+      "clave": "MEX-122",
+      "sitio": "(El Jagüey) Buenavista de Peñuelas",
+      "municipios": "Aguascalientes",
+      "estado": "Aguascalientes",
+      "area_ha": 201.29,
+      "fecha_designacion": "02 de febrero de 2011"
+    },
+    {
+      "numero_ramsar": "1973",
+      "clave": "MEX-123",
+      "sitio": "Lago de Chapala",
+      "municipios": "La Barca, Jamay, Ocotlán, Poncitlán, Chapala, Jocotepec, Tuxcueca, Tizapán el Alto (JAL) y Cojumatlán de Régules, Venustiano Carranza y Briseñas (MIC)",
+      "estado": "Jalisco Michoacán",
+      "area_ha": 1112,
+      "fecha_designacion": "02 de febrero de 2009"
+    },
+    {
+      "numero_ramsar": "1981",
+      "clave": "MEX-124",
+      "sitio": "Baño de San Ignacio",
+      "municipios": "Linares",
+      "estado": "Nuevo León",
+      "area_ha": 4225,
+      "fecha_designacion": "02 de febrero de 2009"
+    },
+    {
+      "numero_ramsar": "1982",
+      "clave": "MEX-125",
+      "sitio": "Estero El Soldado",
+      "municipios": "Guaymas",
+      "estado": "Sonora",
+      "area_ha": 350,
+      "fecha_designacion": "02 de febrero de 2011"
+    },
+    {
+      "numero_ramsar": "1983",
+      "clave": "MEX-126",
+      "sitio": "Humedales de Bahía de San Jorge",
+      "municipios": "-",
+      "estado": "Sonora",
+      "area_ha": 12198,
+      "fecha_designacion": "02 de febrero de 2010"
+    },
+    {
+      "numero_ramsar": "1984",
+      "clave": "MEX-127",
+      "sitio": "Humedales de Yavaros -Moroncarit",
+      "municipios": "Huatabampo",
+      "estado": "Sonora",
+      "area_ha": 13627,
+      "fecha_designacion": "02 de febrero de 2010"
+    },
+    {
+      "numero_ramsar": "1985",
+      "clave": "MEX-128",
+      "sitio": "Laguna de Cuyutlán vasos III y IV",
+      "municipios": "-",
+      "estado": "Colima",
+      "area_ha": 4051,
+      "fecha_designacion": "02 de febrero de 2011"
+    },
+    {
+      "numero_ramsar": "1986",
+      "clave": "MEX-129",
+      "sitio": "Presa de Atlangatepec",
+      "municipios": "Atlangatepec",
+      "estado": "Tlaxcala",
+      "area_ha": 1200,
+      "fecha_designacion": "02 de febrero de 2009"
+    },
+    {
+      "numero_ramsar": "2024",
+      "clave": "MEX-130",
+      "sitio": "Área Natural Protegida Estatal Presa de Silva y Zonas Aledañas",
+      "municipios": "San Francisco del Rincón",
+      "estado": "Guanajuato",
+      "area_ha": 3934,
+      "fecha_designacion": "02 de febrero de 2011"
+    },
+    {
+      "numero_ramsar": "2025",
+      "clave": "MEX-131",
+      "sitio": "Lagunas de Santa María-Topolobampo-Ohuira",
+      "municipios": "Ahome",
+      "estado": "Sinaloa",
+      "area_ha": 225000,
+      "fecha_designacion": "02 de febrero de 2009"
+    },
+    {
+      "numero_ramsar": "2026",
+      "clave": "MEX-132",
+      "sitio": "Presa La Vega",
+      "municipios": "Teuchitlán",
+      "estado": "Jalisco",
+      "area_ha": 1950,
+      "fecha_designacion": "02 de febrero de 2010"
+    },
+    {
+      "numero_ramsar": "2027",
+      "clave": "MEX-133",
+      "sitio": "Presa Manuel Ávila Camacho",
+      "municipios": "Puebla",
+      "estado": "Puebla",
+      "area_ha": 23612,
+      "fecha_designacion": "02 de febrero de 2012"
+    },
+    {
+      "numero_ramsar": "2043",
+      "clave": "MEX-134",
+      "sitio": "Anillo de Cenotes",
+      "municipios": "Celestún, Umán, Abalá, Chocholá, Maxcanú, Kopomá, Opichén, Muna, Chapab, Sacalum, Tecoh, Tekit, Cuzamá, Homún, Huhí, Kantunil, Izamal, Dzoncauich, Tekal de Venegas, Quintana Roo (Yucatán), Sotuta, Sudzal, Tunkás, Cenotillo, Buctzotz, Dzilam González, Dzilam de Bravo",
+      "estado": "Yucatán",
+      "area_ha": 300000,
+      "fecha_designacion": "02 de febrero de 2009"
+    },
+    {
+      "numero_ramsar": "2045",
+      "clave": "MEX-135",
+      "sitio": "Humedales de Montaña María Eugenia",
+      "municipios": "San Cristóbal de las Casas",
+      "estado": "Chiapas",
+      "area_ha": 86,
+      "fecha_designacion": "02 de febrero de 2012"
+    },
+    {
+      "numero_ramsar": "2046",
+      "clave": "MEX-136",
+      "sitio": "Laguna de Santiaguillo",
+      "municipios": "Nuevo Ideal",
+      "estado": "Durango",
+      "area_ha": 24016,
+      "fecha_designacion": "02 de febrero de 2012"
+    },
+    {
+      "numero_ramsar": "2027",
+      "clave": "MEX-137",
+      "sitio": "Presa Manuel Ávila Camacho (Presa Valsequillo)",
+      "municipios": "Puebla",
+      "estado": "Puebla",
+      "area_ha": 23612,
+      "fecha_designacion": "02 de febrero de 2012"
+    },
+    {
+      "numero_ramsar": "2047",
+      "clave": "MEX-138",
+      "sitio": "Río San Pedro-Meoqui",
+      "municipios": "Meoqui",
+      "estado": "Chihuahua",
+      "area_ha": 374,
+      "fecha_designacion": "02 de febrero de 2012"
+    },
+    {
+      "numero_ramsar": "2154",
+      "clave": "MEX-139",
+      "sitio": "Humedales de la Laguna La Cruz",
+      "municipios": "Hermosillo",
+      "estado": "Sonora",
+      "area_ha": 6665,
+      "fecha_designacion": "02 de febrero de 2013"
+    },
+    {
+      "numero_ramsar": "2201",
+      "clave": "MEX-140",
+      "sitio": "Manantiales Geotermales de Julimes",
+      "municipios": "Julimes",
+      "estado": "Chihuahua",
+      "area_ha": 368,
+      "fecha_designacion": "30 de octubre de 2013"
+    },
+    {
+      "numero_ramsar": "2205",
+      "clave": "MEX-141",
+      "sitio": "Humedales de Guachochi",
+      "municipios": "Guachochi",
+      "estado": "Chihuahua",
+      "area_ha": 57.5,
+      "fecha_designacion": "30 de octubre de 2013"
+    },
+    {
+      "numero_ramsar": "2206",
+      "clave": "MEX-142",
+      "sitio": "Laguna La Juanota",
+      "municipios": "Balleza",
+      "estado": "Chihuahua",
+      "area_ha": 232,
+      "fecha_designacion": "30 de octubre de 2013"
+    },
+    {
+      "numero_ramsar": "2468",
+      "clave": "MEX-143",
+      "sitio": "Reserva Estatal Ciénagas y Manglares de la Costa Norte de Yucatán",
+      "municipios": "Hunucma, Ucú, Progreso, Ixil, Motul, Dzemul, Telchac, Sinanché, Yobain, Dzidzantun, Dzilam de Bravo",
+      "estado": "Yucatán",
+      "area_ha": 54776,
+      "fecha_designacion": "02 de febrero de 2022"
+    },
+    {
+      "numero_ramsar": "2469",
+      "clave": "MEX-144",
+      "sitio": "Lago de Texcoco",
+      "municipios": "Texcoco, Atenco, Chimalhuacán, Ecatepec de Morelos, Nezahualcóyotl",
+      "estado": "México",
+      "area_ha": 10077,
+      "fecha_designacion": "05 de junio de 2022"
+    }
+  ],
+  "meta": {
+    "title": "Sitios Ramsar de México - Free Download",
+    "description": "Humedales de importancia internacional (sitios Ramsar) de México con su número Ramsar, municipios, estado, superficie en hectáreas y fecha de designación. Contains 144 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sitios Ramsar de México | ListBase",
+    "seo_description": "Download Sitios Ramsar de México — 144 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 144 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Sitios_Ramsar_en_México"
+    ]
+  }
+}
