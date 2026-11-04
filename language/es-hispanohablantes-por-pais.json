@@ -1,0 +1,282 @@
+{
+  "id": "es-hispanohablantes-por-pais",
+  "name": "Hispanohablantes por país",
+  "title": "Hispanohablantes por país",
+  "description": "Número de hablantes de español en los países donde es idioma oficial y en otros países con comunidades hispanohablantes importantes.",
+  "category": "language",
+  "source": "https://es.wikipedia.org/wiki/Distribución_geográfica_del_idioma_español",
+  "source_url": "https://es.wikipedia.org/wiki/Distribución_geográfica_del_idioma_español",
+  "updated": "2026-11",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "pais",
+      "label": "Pais",
+      "type": "string"
+    },
+    {
+      "key": "hispanohablantes",
+      "label": "Hispanohablantes",
+      "type": "number"
+    },
+    {
+      "key": "continente",
+      "label": "Continente",
+      "type": "string"
+    },
+    {
+      "key": "estatus",
+      "label": "Estatus",
+      "type": "string"
+    },
+    {
+      "key": "porcentaje",
+      "label": "Porcentaje",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pais": "México",
+      "hispanohablantes": 133703740,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Colombia",
+      "hispanohablantes": 52147570,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "España",
+      "hispanohablantes": 48797875,
+      "continente": "Europa",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Argentina",
+      "hispanohablantes": 46432470,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Perú",
+      "hispanohablantes": 32162184,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Venezuela",
+      "hispanohablantes": 31828000,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Chile",
+      "hispanohablantes": 17574003,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Guatemala",
+      "hispanohablantes": 17383245,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Ecuador",
+      "hispanohablantes": 16755452,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Cuba",
+      "hispanohablantes": 11616004,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Bolivia",
+      "hispanohablantes": 11217864,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "República Dominicana",
+      "hispanohablantes": 10766998,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Honduras",
+      "hispanohablantes": 9126229,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "El Salvador",
+      "hispanohablantes": 7415479,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Paraguay",
+      "hispanohablantes": 7052983,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Nicaragua",
+      "hispanohablantes": 6279712,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Costa Rica",
+      "hispanohablantes": 5003393,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Panamá",
+      "hispanohablantes": 4158783,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Puerto Rico",
+      "hispanohablantes": 3615086,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Uruguay",
+      "hispanohablantes": 3467397,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Guinea Ecuatorial",
+      "hispanohablantes": 1267689,
+      "continente": "África",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Antigua y Barbuda",
+      "hispanohablantes": 2083,
+      "continente": "América",
+      "estatus": "español idioma oficial",
+      "porcentaje": ""
+    },
+    {
+      "pais": "Estados Unidos",
+      "hispanohablantes": 57398719,
+      "continente": "América",
+      "estatus": "español sin estatus oficial",
+      "porcentaje": "17,8 %"
+    },
+    {
+      "pais": "Belice",
+      "hispanohablantes": 165296,
+      "continente": "América",
+      "estatus": "español sin estatus oficial",
+      "porcentaje": "56,6 %"
+    },
+    {
+      "pais": "Marruecos",
+      "hispanohablantes": 1700000,
+      "continente": "África",
+      "estatus": "español sin estatus oficial",
+      "porcentaje": "4,5 %"
+    },
+    {
+      "pais": "Brasil",
+      "hispanohablantes": 6676000,
+      "continente": "América",
+      "estatus": "español sin estatus oficial",
+      "porcentaje": "3,20 %"
+    },
+    {
+      "pais": "Italia",
+      "hispanohablantes": 5704863,
+      "continente": "Europa",
+      "estatus": "español sin estatus oficial",
+      "porcentaje": "11 % [ cita requerida ]"
+    },
+    {
+      "pais": "Filipinas",
+      "hispanohablantes": 3017265,
+      "continente": "Asia",
+      "estatus": "español sin estatus oficial",
+      "porcentaje": "3 %"
+    },
+    {
+      "pais": "Francia",
+      "hispanohablantes": "2000000[citarequerida]",
+      "continente": "Europa",
+      "estatus": "español sin estatus oficial",
+      "porcentaje": "3,10 %"
+    },
+    {
+      "pais": "Canadá",
+      "hispanohablantes": "909000[citarequerida]",
+      "continente": "América",
+      "estatus": "español sin estatus oficial",
+      "porcentaje": "3,00 %"
+    },
+    {
+      "pais": "Israel",
+      "hispanohablantes": "200000[citarequerida]",
+      "continente": "Asia",
+      "estatus": "español sin estatus oficial",
+      "porcentaje": "2,05 %"
+    },
+    {
+      "pais": "Andorra",
+      "hispanohablantes": 55287,
+      "continente": "Europa",
+      "estatus": "español sin estatus oficial",
+      "porcentaje": "73,25 %"
+    },
+    {
+      "pais": "Gibraltar",
+      "hispanohablantes": 22758,
+      "continente": "Europa",
+      "estatus": "español sin estatus oficial",
+      "porcentaje": "77,3 %"
+    }
+  ],
+  "meta": {
+    "title": "Hispanohablantes por país - Free Download",
+    "description": "Número de hablantes de español en los países donde es idioma oficial y en otros países con comunidades hispanohablantes importantes. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hispanohablantes por país | ListBase",
+    "seo_description": "Download Hispanohablantes por país — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Distribución_geográfica_del_idioma_español"
+    ]
+  }
+}

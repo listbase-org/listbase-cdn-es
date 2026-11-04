@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-04T02:16:35.971Z",
-  "total_datasets": 526,
-  "total_records": 429591,
+  "generated": "2026-11-04T02:16:43.399Z",
+  "total_datasets": 527,
+  "total_records": 429624,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -2787,6 +2787,32 @@
         "xlsx": {
           "name": "es-gitanismos_ES.xlsx",
           "size": 14008
+        }
+      }
+    },
+    {
+      "id": "es-hispanohablantes-por-pais",
+      "name": "Hispanohablantes por país",
+      "category": "language",
+      "record_count": 33,
+      "columns": [
+        "pais",
+        "hispanohablantes",
+        "continente",
+        "estatus",
+        "porcentaje"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Distribución_geográfica_del_idioma_español",
+      "updated": "2026-11",
+      "size": 7638,
+      "files": {
+        "csv": {
+          "name": "es-hispanohablantes-por-pais_ES.csv",
+          "size": 2266
+        },
+        "xlsx": {
+          "name": "es-hispanohablantes-por-pais_ES.xlsx",
+          "size": 8035
         }
       }
     },
