@@ -1,0 +1,1375 @@
+{
+  "id": "es-records-de-espana-atletismo",
+  "name": "Récords de España de atletismo",
+  "title": "Récords de España de atletismo",
+  "description": "Récords nacionales absolutos de España en atletismo (pista al aire libre, ruta y pista corta), masculinos, femeninos y mixtos, con marca, atleta, lugar y fecha.",
+  "category": "sports",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Récords_de_España_de_atletismo",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Récords_de_España_de_atletismo",
+  "updated": "2026-11",
+  "record_count": 146,
+  "columns": [
+    {
+      "key": "modalidad",
+      "label": "Modalidad",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "prueba",
+      "label": "Prueba",
+      "type": "string"
+    },
+    {
+      "key": "marca",
+      "label": "Marca",
+      "type": "string"
+    },
+    {
+      "key": "atleta",
+      "label": "Atleta",
+      "type": "string"
+    },
+    {
+      "key": "lugar",
+      "label": "Lugar",
+      "type": "string"
+    },
+    {
+      "key": "fecha",
+      "label": "Fecha",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "50 m",
+      "marca": "5\"67 i +",
+      "atleta": "Venancio José",
+      "lugar": "Madrid",
+      "fecha": "14/03/2001"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "60 m",
+      "marca": "6\"52 i",
+      "atleta": "Yunier Pérez",
+      "lugar": "Düsseldorf",
+      "fecha": "06/02/2018"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "100 m",
+      "marca": "10\"06 (viento: +1.0 m/s)",
+      "atleta": "Bruno Hortelano",
+      "lugar": "Madrid",
+      "fecha": "23/06/2016"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "200 m",
+      "marca": "20\"04 (viento: +0.8 m/s)",
+      "atleta": "Bruno Hortelano",
+      "lugar": "Getafe",
+      "fecha": "22/07/2018"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "400 m",
+      "marca": "44\"69",
+      "atleta": "Bruno Hortelano",
+      "lugar": "Madrid",
+      "fecha": "22/06/2018"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "800 m",
+      "marca": "1'42\"04",
+      "atleta": "Mohamed Attaoui",
+      "lugar": "Montecarlo",
+      "fecha": "12/07/2024"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "1000 m",
+      "marca": "2'12\"25",
+      "atleta": "Mohamed Attaoui",
+      "lugar": "Trier",
+      "fecha": "02/09/2025"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "1500 m",
+      "marca": "3'28\"76",
+      "atleta": "Mohamed Katir",
+      "lugar": "Montecarlo",
+      "fecha": "09/07/2021"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "Milla",
+      "marca": "3'47\"69",
+      "atleta": "Mario García Romo",
+      "lugar": "Eugene",
+      "fecha": "16/09/2023"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "2000 m",
+      "marca": "4'49\"85",
+      "atleta": "Mario García Romo",
+      "lugar": "Bruselas",
+      "fecha": "08/09/2023"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "3000 m",
+      "marca": "7'24\"68 i",
+      "atleta": "Mohamed Katir",
+      "lugar": "Liévin",
+      "fecha": "15/02/2023"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "5000 m",
+      "marca": "12'45\"01",
+      "atleta": "Mohamed Katir",
+      "lugar": "Montecarlo",
+      "fecha": "21/07/2023"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "10 000 m",
+      "marca": "26'49\"49",
+      "atleta": "Thierry Ndikumwenayo",
+      "lugar": "París",
+      "fecha": "02/08/2024"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "1 hora en pista",
+      "marca": "20 593 m",
+      "atleta": "Dani Mateo",
+      "lugar": "La Nucía",
+      "fecha": "20/04/2021"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "50 m vallas",
+      "marca": "6\"46 i +",
+      "atleta": "Enrique Llopis",
+      "lugar": "Liévin",
+      "fecha": "13/02/2025"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "50 m vallas",
+      "marca": "6\"39 i + ​",
+      "atleta": "Enrique Llopis",
+      "lugar": "Liévin",
+      "fecha": "19/02/2026"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "60 m vallas",
+      "marca": "7\"42 i",
+      "atleta": "Enrique Llopis",
+      "lugar": "Toruń",
+      "fecha": "21/03/2026"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "110 m vallas",
+      "marca": "13\"04 (viento: 0.0 m/s)",
+      "atleta": "Orlando Ortega",
+      "lugar": "Montecarlo",
+      "fecha": "15/07/2016"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "300 m vallas",
+      "marca": "35\"59",
+      "atleta": "Mark Ujakpor",
+      "lugar": "Fuenlabrada",
+      "fecha": "26/05/2016"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "400 m vallas",
+      "marca": "48\"11",
+      "atleta": "Jesús David Delgado",
+      "lugar": "Ostrava",
+      "fecha": "16/06/2026"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "3000 m obstáculos",
+      "marca": "8'05\"69",
+      "atleta": "Fernando Carro",
+      "lugar": "Montecarlo",
+      "fecha": "12/07/2019"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "10 000 m marcha",
+      "marca": "37'53\"09",
+      "atleta": "Paquillo Fernández",
+      "lugar": "Santa Cruz de Tenerife",
+      "fecha": "27/07/2008"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "20 000 m marcha",
+      "marca": "1h22'31\"8",
+      "atleta": "Juan Manuel Molina",
+      "lugar": "Brisbane",
+      "fecha": "04/09/2001"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "30 000 m marcha",
+      "marca": "2h07'59\"8",
+      "atleta": "Josep Marín",
+      "lugar": "Barcelona",
+      "fecha": "08/04/1979"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "35 000 m marcha",
+      "marca": "2h38'12\"0 +",
+      "atleta": "Jordi Llopart",
+      "lugar": "Bergen",
+      "fecha": "28/05/1981"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "50 000 m marcha",
+      "marca": "3h51'54\"5",
+      "atleta": "Josep Marín",
+      "lugar": "Manresa",
+      "fecha": "07/04/1990"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "Salto de altura",
+      "marca": "2,34 m",
+      "atleta": "Arturo Ortiz",
+      "lugar": "Barcelona",
+      "fecha": "22/06/1991"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "Salto con pértiga",
+      "marca": "5,81 m",
+      "atleta": "Montxu Miranda",
+      "lugar": "Barcelona",
+      "fecha": "02/09/2000"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "Salto de longitud",
+      "marca": "8,56 m i",
+      "atleta": "Yago Lamela",
+      "lugar": "Maebashi",
+      "fecha": "07/03/1999"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "Triple salto",
+      "marca": "18,18 m (viento: -0.3 m/s)",
+      "atleta": "Jordan Díaz",
+      "lugar": "Roma",
+      "fecha": "11/06/2024"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "Lanzamiento de peso",
+      "marca": "21,47 m",
+      "atleta": "Manolo Martínez",
+      "lugar": "Salamanca",
+      "fecha": "10/07/2002"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "Lanzamiento de disco",
+      "marca": "69,50 m",
+      "atleta": "Mario Pestano",
+      "lugar": "Santa Cruz de Tenerife",
+      "fecha": "27/07/2008"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "Lanzamiento de martillo",
+      "marca": "79,38 m",
+      "atleta": "Javier Cienfuegos",
+      "lugar": "Andújar",
+      "fecha": "06/09/2019"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "Lanzamiento de jabalina",
+      "marca": "84,80 m",
+      "atleta": "Odei Jainaga",
+      "lugar": "Chorzów",
+      "fecha": "29/05/2021"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "Decatlón",
+      "marca": "8526 puntos (10.72/+2.9-7,45/-1.2-14,57-1,92- 48.10 / 13.83/+1.8-46,12-5,00-65,37-4:26.81)",
+      "atleta": "Francisco Javier Benet",
+      "lugar": "Alhama de Murcia",
+      "fecha": "17/05/1998"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "Relevos 4 × 100 m",
+      "marca": "38\"46",
+      "atleta": "Selección Española Eduard Viles Sergio Ruiz Bruno Hortelano Ángel David Rodríguez",
+      "lugar": "Moscú",
+      "fecha": "18/08/2013"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "Relevos 4 × 200 m",
+      "marca": "1'23\"69",
+      "atleta": "Selección Española Juan José Prado Isidoro Hornillos Javier Arques Antonio Sánchez",
+      "lugar": "Madrid",
+      "fecha": "28/06/1986"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "Relevos 4 × 400 m",
+      "marca": "3'00\"26",
+      "atleta": "Selección Española Markel Fernández Samuel García Manuel Guijarro Óscar Husillos",
+      "lugar": "Gaborone",
+      "fecha": "02/05/2026"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "Relevos 4 × 800 m",
+      "marca": "7'16\"99",
+      "atleta": "Combinado Español Miguel Quesada José Manuel Cerezo Juan de Dios Jurado Eugenio Barrios",
+      "lugar": "Bruselas",
+      "fecha": "25/08/2006"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Masculino",
+      "prueba": "Relevos 4 × 1500 m",
+      "marca": "14'46\"16",
+      "atleta": "Larios A.A.M. Anacleto Jiménez Manuel Pancorbo Alberto García Isaac Viciosa",
+      "lugar": "Madrid",
+      "fecha": "05/09/1997"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "50 m",
+      "marca": "6\"28 i +",
+      "atleta": "Sandra Myers",
+      "lugar": "Madrid",
+      "fecha": "09/02/1995"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "60 m",
+      "marca": "7\"15 i",
+      "atleta": "Maribel Pérez",
+      "lugar": "Madrid",
+      "fecha": "22/02/2025"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "100 m",
+      "marca": "11\"06 (viento: +1.7 m/s)",
+      "atleta": "Sandra Myers",
+      "lugar": "Vigo",
+      "fecha": "23/07/1991"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "200 m",
+      "marca": "22\"19 (viento: +0.8 m/s)",
+      "atleta": "Jaël Bestué",
+      "lugar": "Madrid",
+      "fecha": "29/06/2025"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "400 m",
+      "marca": "49\"67",
+      "atleta": "Sandra Myers",
+      "lugar": "Oslo",
+      "fecha": "06/07/1991"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "800 m",
+      "marca": "1'57\"45",
+      "atleta": "Maite Zúñiga",
+      "lugar": "Sevilla",
+      "fecha": "01/06/1988"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "1000 m",
+      "marca": "2'33\"06",
+      "atleta": "Mayte Martínez",
+      "lugar": "Huelva",
+      "fecha": "13/09/2007"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "1500 m",
+      "marca": "3'57\"75",
+      "atleta": "Marta Pérez",
+      "lugar": "París",
+      "fecha": "08/08/2024"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "Milla",
+      "marca": "4'20\"12",
+      "atleta": "Esther Guerrero",
+      "lugar": "Londres",
+      "fecha": "19/07/2025"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "2000 m",
+      "marca": "5'32\"86",
+      "atleta": "Marta García",
+      "lugar": "Montecarlo",
+      "fecha": "12/07/2024"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "3000 m",
+      "marca": "8'28\"80",
+      "atleta": "Marta Domínguez",
+      "lugar": "Zúrich",
+      "fecha": "11/08/2000"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "5000 m",
+      "marca": "14'33\"40",
+      "atleta": "Marta García",
+      "lugar": "Bruselas",
+      "fecha": "22/08/2025"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "10 000 m",
+      "marca": "30'51\"69",
+      "atleta": "Marta Domínguez",
+      "lugar": "Gotemburgo",
+      "fecha": "07/08/2006"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "1 hora en pista",
+      "marca": "17 546 m",
+      "atleta": "Marta Galimany",
+      "lugar": "Bruselas",
+      "fecha": "04/09/2020"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "50 m vallas",
+      "marca": "6\"75 i +",
+      "atleta": "Josephine Onyia",
+      "lugar": "Estocolmo",
+      "fecha": "21/02/2008"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "60 m vallas",
+      "marca": "7\"83 i",
+      "atleta": "Glory Alozie",
+      "lugar": "Birmingham",
+      "fecha": "15/03/2003"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "100 m vallas",
+      "marca": "12\"50 (viento: +0.8 m/s)",
+      "atleta": "Josephine Onyia",
+      "lugar": "Berlín",
+      "fecha": "01/06/2008"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "400 m vallas",
+      "marca": "54\"34",
+      "atleta": "Sara Gallego",
+      "lugar": "Nerja",
+      "fecha": "25/06/2022"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "3000 m obstáculos",
+      "marca": "9'09\"39",
+      "atleta": "Marta Domínguez",
+      "lugar": "Barcelona",
+      "fecha": "25/07/2009"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "10 000 m marcha",
+      "marca": "42'14\"12",
+      "atleta": "Raquel González",
+      "lugar": "Gijón",
+      "fecha": "23/07/2016"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "20 000 m marcha",
+      "marca": "1h32'22\"4",
+      "atleta": "Eva Pérez",
+      "lugar": "Brisbane",
+      "fecha": "05/09/2001"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "Salto de altura",
+      "marca": "2,02 m",
+      "atleta": "Ruth Beitia",
+      "lugar": "San Sebastián",
+      "fecha": "04/08/2007"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "Salto con pértiga",
+      "marca": "4,56 m i",
+      "atleta": "Naroa Agirre",
+      "lugar": "Sevilla",
+      "fecha": "17/02/2007"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "Salto de longitud",
+      "marca": "7,06 m (viento: -0.1 m/s)",
+      "atleta": "Niurka Montalvo",
+      "lugar": "Sevilla",
+      "fecha": "23/08/1999"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "Triple salto",
+      "marca": "14,87 m (viento: +0.5 m/s)",
+      "atleta": "Ana Peleteiro",
+      "lugar": "Tokio",
+      "fecha": "01/08/2021"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "Lanzamiento de peso",
+      "marca": "18,80 m",
+      "atleta": "Belén Toimil",
+      "lugar": "Castellón",
+      "fecha": "29/06/2021"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "Lanzamiento de disco",
+      "marca": "61,89 m",
+      "atleta": "Sabina Asenjo",
+      "lugar": "Bilbao",
+      "fecha": "25/06/2016"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "Lanzamiento de martillo",
+      "marca": "72,00 m",
+      "atleta": "Laura Redondo",
+      "lugar": "Madrid",
+      "fecha": "18/06/2022"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "Lanzamiento de jabalina",
+      "marca": "65,39 m",
+      "atleta": "Yulenmis Aguilar",
+      "lugar": "Tarento",
+      "fecha": "01/09/2026"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "Lanzamiento de jabalina",
+      "marca": "64,07 m",
+      "atleta": "Mercedes Chilla",
+      "lugar": "Valencia",
+      "fecha": "12/06/2010"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "Heptatlón",
+      "marca": "6372 puntos (13\"38 (-0,6) - 1,77 - 13,09 - 23\"71 (+3,4) / 6,42 (+1,5) - 44,02 - 2'14\"81)",
+      "atleta": "María Vicente",
+      "lugar": "Birmingham",
+      "fecha": "15/08/2026"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "Heptatlón",
+      "marca": "6304 puntos (13\"62 (-1,1) - 1,77 - 12,77 - 24\"02 (-0,4) / 6,41 (+1,3) - 47,83 - 2'18\"60)",
+      "atleta": "María Vicente",
+      "lugar": "Lana",
+      "fecha": "25/04/2021"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "Decatlón",
+      "marca": "6614 puntos (13.29/0.0-30,93-3,00-31,13-1:00.67 / 14.53/+0.3-5,62/+2.3-11,76-1,63-5:32.61)",
+      "atleta": "María Peinado",
+      "lugar": "Castellón",
+      "fecha": "23/10/2005"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "4 × 100 m",
+      "marca": "42\"11",
+      "atleta": "Selección Española Esperança Cladera Jaël Bestué Paula Sevilla María Isabel Pérez",
+      "lugar": "Madrid",
+      "fecha": "28/06/2025"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "4 × 200 m",
+      "marca": "1'35\"18",
+      "atleta": "Selección Española Mercedes Cano Teresa Hortelano Cristina Pérez Blanca Lacambra",
+      "lugar": "Madrid",
+      "fecha": "28/06/1986"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "Relevos 4 × 400 m",
+      "marca": "3'21\"25",
+      "atleta": "Selección Española Paula Sevilla Ana Prieto Rocío Arroyo Blanca Hervás",
+      "lugar": "Gaborone",
+      "fecha": "03/05/2026"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "4 × 800 m",
+      "marca": "8'50\"0",
+      "atleta": "Federación Catalana María Carmen Romero Carmen Bes Marta Bosch Carmen Rovira",
+      "lugar": "Manresa",
+      "fecha": "20/06/1990"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Femenino",
+      "prueba": "4 × 1500 m",
+      "marca": "18'43\"40",
+      "atleta": "Mislata-Playas de Castellón Laura Pico Inmaculada Francisco Dolores Peñarrocha Noemí Bachero",
+      "lugar": "Castellón",
+      "fecha": "05/06/1999"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Mixto",
+      "prueba": "Relevos 4 × 100 m",
+      "marca": "40\"42",
+      "atleta": "Selección Española Guillem Crespí Maribel Pérez Andoni Calbano Jaël Bestué",
+      "lugar": "Birmingham",
+      "fecha": "16/08/2026"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Mixto",
+      "prueba": "Relevos 4 × 100 m",
+      "marca": "40\"51",
+      "atleta": "Selección Española Guillem Crespí Maribel Pérez Andoni Calbano Jaël Bestué",
+      "lugar": "Gaborone",
+      "fecha": "02/05/2026"
+    },
+    {
+      "modalidad": "pista",
+      "categoria": "Mixto",
+      "prueba": "Relevos 4 × 400 m",
+      "marca": "3'09\"89",
+      "atleta": "Selección Española David García Zurita Paula Sevilla Julio Arenas Blanca Hervás",
+      "lugar": "Gaborone",
+      "fecha": "02/05/2026"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "Milla en ruta",
+      "marca": "3'54\"00",
+      "atleta": "Marca de referencia ​",
+      "lugar": "Marca de referencia ​",
+      "fecha": "Marca de referencia ​"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "5 km",
+      "marca": "13'08\"",
+      "atleta": "Thierry Ndikumwenayo",
+      "lugar": "Herzogenaurach",
+      "fecha": "26/04/2025"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "5 km",
+      "marca": "12'57\"",
+      "atleta": "Santiago Catrofe ​",
+      "lugar": "Lille",
+      "fecha": "13/06/2025"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "10 km",
+      "marca": "27'15\"",
+      "atleta": "Rodrigue Kwizera",
+      "lugar": "Praga",
+      "fecha": "05/09/2026"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "10 km",
+      "marca": "27'25\"",
+      "atleta": "Said Mechaal",
+      "lugar": "Valencia",
+      "fecha": "11/01/2026"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "10 km",
+      "marca": "26'01\" ​",
+      "atleta": "Rodrigue Kwizera",
+      "lugar": "Madrid",
+      "fecha": "31/05/2026"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "10 km",
+      "marca": "27'16\"",
+      "atleta": "Santiago Catrofe ​",
+      "lugar": "Valencia",
+      "fecha": "12/01/2025 ​"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "Media maratón",
+      "marca": "58'03\"",
+      "atleta": "Rodrigue Kwizera",
+      "lugar": "Valencia",
+      "fecha": "25/10/2026"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "Media maratón",
+      "marca": "59'39\"",
+      "atleta": "Carlos Mayo",
+      "lugar": "Valencia",
+      "fecha": "22/10/2023"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "Maratón (Progresión)",
+      "marca": "2h05'48\"",
+      "atleta": "Tariku Novales",
+      "lugar": "Valencia",
+      "fecha": "03/12/2023"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "50 km",
+      "marca": "2h47'51\"",
+      "atleta": "Iraitz Arrospide",
+      "lugar": "Brașov",
+      "fecha": "01/09/2019"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "100 km",
+      "marca": "6h21'06\"",
+      "atleta": "Carlos Gazapo",
+      "lugar": "Málaga",
+      "fecha": "03/05/2025"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "20 km marcha",
+      "marca": "1h17'22\"",
+      "atleta": "Paquillo Fernández",
+      "lugar": "Turku",
+      "fecha": "28/04/2002"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "Medio maratón marcha",
+      "marca": "1h22'23\"",
+      "atleta": "Marca de referencia ​",
+      "lugar": "Marca de referencia ​",
+      "fecha": "Marca de referencia ​"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "35 km marcha",
+      "marca": "2h23'48\"",
+      "atleta": "Miguel Ángel López",
+      "lugar": "Poděbrady",
+      "fecha": "18/05/2025"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "Maratón marcha",
+      "marca": "2h56'57\"",
+      "atleta": "Miguel Ángel López",
+      "lugar": "Birmingham",
+      "fecha": "15/08/2026"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Masculino",
+      "prueba": "50 km marcha",
+      "marca": "3h38'43\"",
+      "atleta": "Valentí Massana",
+      "lugar": "Orense",
+      "fecha": "20/03/1994"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "Milla en ruta",
+      "marca": "4'29\"00",
+      "atleta": "Marca de referencia ​",
+      "lugar": "Marca de referencia ​",
+      "fecha": "Marca de referencia ​"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "5 km",
+      "marca": "14'59\"",
+      "atleta": "Marta García",
+      "lugar": "Copenhague",
+      "fecha": "19/09/2026"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "5 km",
+      "marca": "15'11\"",
+      "atleta": "Marta Domínguez",
+      "lugar": "Londres",
+      "fecha": "01/09/2002"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "10 km",
+      "marca": "31'11\"",
+      "atleta": "Carla Gallardo",
+      "lugar": "Laredo",
+      "fecha": "24/05/2025"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "10 km",
+      "marca": "32'26\" SM",
+      "atleta": "Alessandra Aguilar",
+      "lugar": "Mánchester",
+      "fecha": "20/05/2007"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "10 km",
+      "marca": "30'58\" ​",
+      "atleta": "Laura Luengo",
+      "lugar": "Madrid",
+      "fecha": "23/11/2024"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "Media maratón",
+      "marca": "1h08'28\"",
+      "atleta": "Laura Luengo",
+      "lugar": "Valencia",
+      "fecha": "25/10/2026"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "Media maratón",
+      "marca": "1h08'30\"",
+      "atleta": "Carla Gallardo",
+      "lugar": "Berlín",
+      "fecha": "29/03/2026"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "Media maratón",
+      "marca": "1h10'06\" SM",
+      "atleta": "Rocío Ríos",
+      "lugar": "Košice",
+      "fecha": "04/10/1997"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "Maratón",
+      "marca": "2h21'27\"",
+      "atleta": "Majida Maayouf",
+      "lugar": "Valencia",
+      "fecha": "03/12/2023"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "Maratón",
+      "marca": "2h27'38\" SM",
+      "atleta": "Marta Galimany",
+      "lugar": "Londres",
+      "fecha": "26/04/2026"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "50 km",
+      "marca": "3h15'09\"",
+      "atleta": "Alicia Pérez",
+      "lugar": "Brașov",
+      "fecha": "01/09/2019"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "100 km",
+      "marca": "7h17'50\"",
+      "atleta": "Gemma Arenas",
+      "lugar": "Ames",
+      "fecha": "20/09/2026"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "100 km",
+      "marca": "7h20'57\"",
+      "atleta": "Gemma Arenas",
+      "lugar": "Málaga",
+      "fecha": "21/03/2026"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "10 km marcha",
+      "marca": "42'29\" +",
+      "atleta": "María Pérez",
+      "lugar": "Córdoba",
+      "fecha": "26/03/2023"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "20 km marcha",
+      "marca": "1h25'30\"",
+      "atleta": "María Pérez",
+      "lugar": "Córdoba",
+      "fecha": "26/03/2023"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "Medio maratón marcha",
+      "marca": "1h30'06\"",
+      "atleta": "María Pérez",
+      "lugar": "Birmingham",
+      "fecha": "15/08/2026"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "35 km marcha",
+      "marca": "2h37'15\"",
+      "atleta": "María Pérez",
+      "lugar": "Poděbrady",
+      "fecha": "21/05/2023"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "Maratón marcha",
+      "marca": "3h19'03\"",
+      "atleta": "Marca de referencia ​",
+      "lugar": "Marca de referencia ​",
+      "fecha": "Marca de referencia ​"
+    },
+    {
+      "modalidad": "ruta",
+      "categoria": "Femenino",
+      "prueba": "50 km marcha",
+      "marca": "4h05'46\"",
+      "atleta": "Júlia Takács",
+      "lugar": "Alytus",
+      "fecha": "19/05/2019"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Masculino",
+      "prueba": "200 m",
+      "marca": "20\"65",
+      "atleta": "Adrià Alfonso",
+      "lugar": "Madrid",
+      "fecha": "23/02/2025"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Masculino",
+      "prueba": "400 m",
+      "marca": "45\"58",
+      "atleta": "Óscar Husillos",
+      "lugar": "Madrid",
+      "fecha": "19/02/2023"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Masculino",
+      "prueba": "800 m",
+      "marca": "1'44\"48",
+      "atleta": "Mohamed Attaoui",
+      "lugar": "Toruń",
+      "fecha": "21/03/2026"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Masculino",
+      "prueba": "1000 m",
+      "marca": "2'14\"52",
+      "atleta": "Mohamed Attaoui",
+      "lugar": "Madrid",
+      "fecha": "06/02/2026"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Masculino",
+      "prueba": "1500 m",
+      "marca": "3'33\"28",
+      "atleta": "Adel Mechaal",
+      "lugar": "Birmingham",
+      "fecha": "25/02/2023"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Masculino",
+      "prueba": "Milla",
+      "marca": "3'51\"79",
+      "atleta": "Mario García Romo",
+      "lugar": "Nueva York",
+      "fecha": "12/02/2023"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Masculino",
+      "prueba": "2000 m",
+      "marca": "4'52\"90",
+      "atleta": "Sergio Sánchez",
+      "lugar": "Oviedo",
+      "fecha": "23/01/2010"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Masculino",
+      "prueba": "3000 m",
+      "marca": "7'24\"68 ​",
+      "atleta": "Mohamed Katir",
+      "lugar": "Liévin",
+      "fecha": "15/02/2023"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Masculino",
+      "prueba": "5000 m",
+      "marca": "13'11\"39",
+      "atleta": "Alberto García",
+      "lugar": "Gante",
+      "fecha": "09/02/2003"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Masculino",
+      "prueba": "Heptatlón",
+      "marca": "6249 puntos (6\"91 - 7,62 - 13,96 - 2,04 / 7\"85 - 5,00 - 2'40\"06)",
+      "atleta": "Jorge Ureña",
+      "lugar": "Praga",
+      "fecha": "29/01/2017"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Masculino",
+      "prueba": "3000 m marcha",
+      "marca": "11'06\"57",
+      "atleta": "Diego García Carrera",
+      "lugar": "Gante",
+      "fecha": "09/02/2003"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Masculino",
+      "prueba": "Relevos 4 × 200 m",
+      "marca": "1'25\"56",
+      "atleta": "Selección española Sergio López Ángel Heras Amalio Capellán José Antonio Gay",
+      "lugar": "París",
+      "fecha": "10/02/1990"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Masculino",
+      "prueba": "Relevos 4 × 400 m",
+      "marca": "3'05\"18",
+      "atleta": "Selección española Markel Fernández Manuel Guijarro Óscar Husillos Bernat Erta",
+      "lugar": "Apeldoorn",
+      "fecha": "09/03/2025"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Femenino",
+      "prueba": "200 m",
+      "marca": "22\"69",
+      "atleta": "Jaël Bestué",
+      "lugar": "Metz",
+      "fecha": "08/02/2026"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Femenino",
+      "prueba": "400 m",
+      "marca": "50\"99",
+      "atleta": "Sandra Myers",
+      "lugar": "Sevilla",
+      "fecha": "10/03/1991"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Femenino",
+      "prueba": "400 m",
+      "marca": "50\"99",
+      "atleta": "Paula Sevilla",
+      "lugar": "Apeldoorn",
+      "fecha": "08/03/2025"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Femenino",
+      "prueba": "800 m",
+      "marca": "1'59\"52",
+      "atleta": "Mayte Martínez",
+      "lugar": "Gante",
+      "fecha": "08/02/2004"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Femenino",
+      "prueba": "1000 m",
+      "marca": "2'37\"57",
+      "atleta": "Esther Guerrero",
+      "lugar": "Antequera",
+      "fecha": "13/01/2024"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Femenino",
+      "prueba": "1500 m",
+      "marca": "4'01\"77",
+      "atleta": "Nuria Fernández",
+      "lugar": "Valencia",
+      "fecha": "14/02/2009"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Femenino",
+      "prueba": "Milla",
+      "marca": "4'23\"88",
+      "atleta": "Marta Pérez",
+      "lugar": "Nueva York",
+      "fecha": "11/02/2024"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Femenino",
+      "prueba": "2000 m",
+      "marca": "5'42\"53 +",
+      "atleta": "Esther Guerrero",
+      "lugar": "Antequera",
+      "fecha": "25/01/2025"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Femenino",
+      "prueba": "3000 m",
+      "marca": "8'34\"28",
+      "atleta": "Marta García",
+      "lugar": "Liévin",
+      "fecha": "19/02/2026"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Femenino",
+      "prueba": "5000 m",
+      "marca": "14'46\"37",
+      "atleta": "Marta García",
+      "lugar": "Boston",
+      "fecha": "27/01/2024"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Femenino",
+      "prueba": "Pentatlón",
+      "marca": "4728 puntos (8\"24 / 1,76 / 13,84 / 6,65 / 2'15\"50)",
+      "atleta": "María Vicente",
+      "lugar": "Aubière",
+      "fecha": "28/01/2024"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Femenino",
+      "prueba": "Relevos 4 × 200 m",
+      "marca": "1'35\"50",
+      "atleta": "Selección española Cristina Castro Sandra Myers Gregoria Ferrer Blanca Lacambra",
+      "lugar": "Sevilla",
+      "fecha": "10/03/1991"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Femenino",
+      "prueba": "Relevos 4 × 400 m",
+      "marca": "3'25\"68",
+      "atleta": "Selección española Paula Sevilla Eva Santidrián Daniela Fra Blanca Hervás",
+      "lugar": "Apeldoorn",
+      "fecha": "09/03/2025"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Mixto",
+      "prueba": "Relevo 4 × 400 m",
+      "marca": "3'16\"96",
+      "atleta": "Selección Española Markel Fernández Paula Sevilla David García Zurita Blanca Hervás",
+      "lugar": "Toruń",
+      "fecha": "21/03/2026"
+    },
+    {
+      "modalidad": "short track",
+      "categoria": "Mixto",
+      "prueba": "Relevo 4 × 400 m",
+      "marca": "3'17\"12",
+      "atleta": "Selección Española Manuel Guijarro Carmen Avilés Bernat Erta Daniela Fra",
+      "lugar": "Apeldoorn",
+      "fecha": "06/02/2025"
+    }
+  ],
+  "meta": {
+    "title": "Récords de España de atletismo - Free Download",
+    "description": "Récords nacionales absolutos de España en atletismo (pista al aire libre, ruta y pista corta), masculinos, femeninos y mixtos, con marca, atleta, lugar y fecha. Contains 146 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Récords de España de atletismo | ListBase",
+    "seo_description": "Download Récords de España de atletismo — 146 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 146 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Récords_de_España_de_atletismo"
+    ]
+  }
+}

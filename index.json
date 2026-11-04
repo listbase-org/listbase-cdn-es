@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-04T02:16:49.813Z",
-  "total_datasets": 528,
-  "total_records": 429687,
+  "generated": "2026-11-04T02:16:56.670Z",
+  "total_datasets": 529,
+  "total_records": 429833,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tech",
@@ -15916,6 +15916,34 @@
         "xlsx": {
           "name": "es-mexico-entrenadores-campeones_ES.xlsx",
           "size": 11291
+        }
+      }
+    },
+    {
+      "id": "es-records-de-espana-atletismo",
+      "name": "Récords de España de atletismo",
+      "category": "sports",
+      "record_count": 146,
+      "columns": [
+        "modalidad",
+        "categoria",
+        "prueba",
+        "marca",
+        "atleta",
+        "lugar",
+        "fecha"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Récords_de_España_de_atletismo",
+      "updated": "2026-11",
+      "size": 36164,
+      "files": {
+        "csv": {
+          "name": "es-records-de-espana-atletismo_ES.csv",
+          "size": 14729
+        },
+        "xlsx": {
+          "name": "es-records-de-espana-atletismo_ES.xlsx",
+          "size": 15276
         }
       }
     },
