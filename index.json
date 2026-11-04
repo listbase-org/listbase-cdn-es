@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-04T02:16:27.311Z",
-  "total_datasets": 525,
-  "total_records": 429460,
+  "generated": "2026-11-04T02:16:35.971Z",
+  "total_datasets": 526,
+  "total_records": 429591,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -15643,6 +15643,34 @@
         "xlsx": {
           "name": "es-volcanes-de-mexico_ES.xlsx",
           "size": 8769
+        }
+      }
+    },
+    {
+      "id": "es-ciudades-de-mexico-por-poblacion",
+      "name": "Ciudades más pobladas de México (censo 2020)",
+      "category": "society",
+      "record_count": 131,
+      "columns": [
+        "posicion",
+        "clave",
+        "ciudad",
+        "poblacion_2020",
+        "entidad_federativa",
+        "area_metropolitana",
+        "region"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Ciudades_de_México_por_población",
+      "updated": "2026-11",
+      "size": 33090,
+      "files": {
+        "csv": {
+          "name": "es-ciudades-de-mexico-por-poblacion_ES.csv",
+          "size": 10211
+        },
+        "xlsx": {
+          "name": "es-ciudades-de-mexico-por-poblacion_ES.xlsx",
+          "size": 13687
         }
       }
     },

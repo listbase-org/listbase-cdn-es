@@ -1,0 +1,1240 @@
+{
+  "id": "es-ciudades-de-mexico-por-poblacion",
+  "name": "Ciudades más pobladas de México (censo 2020)",
+  "title": "Ciudades más pobladas de México (censo 2020)",
+  "description": "Ciudades de México con más de 100 000 habitantes según el censo de 2020, con entidad federativa, área metropolitana y región.",
+  "category": "society",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Ciudades_de_México_por_población",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Ciudades_de_México_por_población",
+  "updated": "2026-11",
+  "record_count": 131,
+  "columns": [
+    {
+      "key": "posicion",
+      "label": "Posicion",
+      "type": "number"
+    },
+    {
+      "key": "clave",
+      "label": "Clave",
+      "type": "string"
+    },
+    {
+      "key": "ciudad",
+      "label": "Ciudad",
+      "type": "string"
+    },
+    {
+      "key": "poblacion_2020",
+      "label": "Poblacion 2020",
+      "type": "number"
+    },
+    {
+      "key": "entidad_federativa",
+      "label": "Entidad Federativa",
+      "type": "string"
+    },
+    {
+      "key": "area_metropolitana",
+      "label": "Area Metropolitana",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "posicion": 1,
+      "clave": "CDMX-01",
+      "ciudad": "Ciudad de México",
+      "poblacion_2020": 9209944,
+      "entidad_federativa": "Ciudad de México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 2,
+      "clave": "BCN-01",
+      "ciudad": "Tijuana",
+      "poblacion_2020": 1810645,
+      "entidad_federativa": "Baja California",
+      "area_metropolitana": "Tijuana",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 3,
+      "clave": "MEX-01",
+      "ciudad": "Ecatepec de Morelos",
+      "poblacion_2020": 1643623,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 4,
+      "clave": "GUA-01",
+      "ciudad": "León de los Aldama",
+      "poblacion_2020": 1579803,
+      "entidad_federativa": "Guanajuato",
+      "area_metropolitana": "León",
+      "region": "Centronorte"
+    },
+    {
+      "posicion": 5,
+      "clave": "PUE-01",
+      "ciudad": "Heroica Puebla de Zaragoza",
+      "poblacion_2020": 1542232,
+      "entidad_federativa": "Puebla",
+      "area_metropolitana": "Puebla-Tlaxcala",
+      "region": "Oriente"
+    },
+    {
+      "posicion": 6,
+      "clave": "CHH-01",
+      "ciudad": "Heroica Ciudad Juárez",
+      "poblacion_2020": 1501551,
+      "entidad_federativa": "Chihuahua",
+      "area_metropolitana": "Juárez",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 7,
+      "clave": "JAL-01",
+      "ciudad": "Guadalajara",
+      "poblacion_2020": 1385621,
+      "entidad_federativa": "Jalisco",
+      "area_metropolitana": "Guadalajara",
+      "region": "Occidente"
+    },
+    {
+      "posicion": 8,
+      "clave": "JAL-02",
+      "ciudad": "Zapopan",
+      "poblacion_2020": 1257547,
+      "entidad_federativa": "Jalisco",
+      "area_metropolitana": "Guadalajara",
+      "region": "Occidente"
+    },
+    {
+      "posicion": 9,
+      "clave": "NLE-01",
+      "ciudad": "Monterrey",
+      "poblacion_2020": 1142952,
+      "entidad_federativa": "Nuevo León",
+      "area_metropolitana": "Monterrey",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 10,
+      "clave": "MEX-02",
+      "ciudad": "Nezahualcóyotl",
+      "poblacion_2020": 1072676,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 11,
+      "clave": "CHH-02",
+      "ciudad": "Chihuahua",
+      "poblacion_2020": 925762,
+      "entidad_federativa": "Chihuahua",
+      "area_metropolitana": "Chihuahua",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 12,
+      "clave": "YUC-01",
+      "ciudad": "Mérida",
+      "poblacion_2020": 921771,
+      "entidad_federativa": "Yucatán",
+      "area_metropolitana": "Mérida",
+      "region": "Sureste"
+    },
+    {
+      "posicion": 13,
+      "clave": "ROO-01",
+      "ciudad": "Cancún",
+      "poblacion_2020": 888797,
+      "entidad_federativa": "Quintana Roo",
+      "area_metropolitana": "Cancún",
+      "region": "Sureste"
+    },
+    {
+      "posicion": 14,
+      "clave": "COA-01",
+      "ciudad": "Saltillo",
+      "poblacion_2020": 864431,
+      "entidad_federativa": "Coahuila",
+      "area_metropolitana": "Saltillo",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 15,
+      "clave": "AGU-01",
+      "ciudad": "Aguascalientes",
+      "poblacion_2020": 863893,
+      "entidad_federativa": "Aguascalientes",
+      "area_metropolitana": "Aguascalientes",
+      "region": "Centronorte"
+    },
+    {
+      "posicion": 16,
+      "clave": "SON-01",
+      "ciudad": "Hermosillo",
+      "poblacion_2020": 855563,
+      "entidad_federativa": "Sonora",
+      "area_metropolitana": "Hermosillo",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 17,
+      "clave": "BCN-02",
+      "ciudad": "Mexicali",
+      "poblacion_2020": 854186,
+      "entidad_federativa": "Baja California",
+      "area_metropolitana": "Mexicali",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 18,
+      "clave": "SLP-01",
+      "ciudad": "San Luis Potosí",
+      "poblacion_2020": 845941,
+      "entidad_federativa": "San Luis Potosí",
+      "area_metropolitana": "S. Luis Potosí",
+      "region": "Centronorte"
+    },
+    {
+      "posicion": 19,
+      "clave": "SIN-01",
+      "ciudad": "Culiacán Rosales",
+      "poblacion_2020": 808416,
+      "entidad_federativa": "Sinaloa",
+      "area_metropolitana": "Culiacán",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 20,
+      "clave": "QUE-01",
+      "ciudad": "Santiago de Querétaro",
+      "poblacion_2020": 794789,
+      "entidad_federativa": "Querétaro",
+      "area_metropolitana": "Querétaro",
+      "region": "Centronorte"
+    },
+    {
+      "posicion": 21,
+      "clave": "MEX-03",
+      "ciudad": "Naucalpan de Juárez (municipio de Naucalpan)",
+      "poblacion_2020": 776220,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 22,
+      "clave": "MIC-01",
+      "ciudad": "Morelia",
+      "poblacion_2020": 743275,
+      "entidad_federativa": "Michoacán",
+      "area_metropolitana": "Morelia",
+      "region": "Occidente"
+    },
+    {
+      "posicion": 23,
+      "clave": "MEX-04",
+      "ciudad": "Santa María Chimalhuacán",
+      "poblacion_2020": 703215,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 24,
+      "clave": "TAM-01",
+      "ciudad": "Reynosa",
+      "poblacion_2020": 691557,
+      "entidad_federativa": "Tamaulipas",
+      "area_metropolitana": "Reynosa",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 25,
+      "clave": "COA-02",
+      "ciudad": "Torreón",
+      "poblacion_2020": 690193,
+      "entidad_federativa": "Coahuila",
+      "area_metropolitana": "La Laguna",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 26,
+      "clave": "MEX-05",
+      "ciudad": "Tlalnepantla de Baz",
+      "poblacion_2020": 658907,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 27,
+      "clave": "GRO-01",
+      "ciudad": "Acapulco de Juárez",
+      "poblacion_2020": 658609,
+      "entidad_federativa": "Guerrero",
+      "area_metropolitana": "Acapulco",
+      "region": "Suroeste"
+    },
+    {
+      "posicion": 28,
+      "clave": "JAL-03",
+      "ciudad": "Tlaquepaque",
+      "poblacion_2020": 650123,
+      "entidad_federativa": "Jalisco",
+      "area_metropolitana": "Guadalajara",
+      "region": "Occidente"
+    },
+    {
+      "posicion": 29,
+      "clave": "NLE-02",
+      "ciudad": "Guadalupe",
+      "poblacion_2020": 635862,
+      "entidad_federativa": "Nuevo León",
+      "area_metropolitana": "Monterrey",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 30,
+      "clave": "DUR-01",
+      "ciudad": "Victoria de Durango",
+      "poblacion_2020": 616068,
+      "entidad_federativa": "Durango",
+      "area_metropolitana": "Durango",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 31,
+      "clave": "CHP-01",
+      "ciudad": "Tuxtla Gutiérrez",
+      "poblacion_2020": 578830,
+      "entidad_federativa": "Chiapas",
+      "area_metropolitana": "Tuxtla Gutiérrez",
+      "region": "Suroeste"
+    },
+    {
+      "posicion": 32,
+      "clave": "NLE-03",
+      "ciudad": "Ciudad Apodaca",
+      "poblacion_2020": 536436,
+      "entidad_federativa": "Nuevo León",
+      "area_metropolitana": "Monterrey",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 33,
+      "clave": "MEX-06",
+      "ciudad": "Ciudad López Mateos",
+      "poblacion_2020": 523065,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 34,
+      "clave": "MEX-07",
+      "ciudad": "Cuautitlán Izcalli",
+      "poblacion_2020": 515353,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 35,
+      "clave": "TAM-02",
+      "ciudad": "Heroica Matamoros",
+      "poblacion_2020": 510739,
+      "entidad_federativa": "Tamaulipas",
+      "area_metropolitana": "Matamoros",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 36,
+      "clave": "NLE-05",
+      "ciudad": "Ciudad General Escobedo",
+      "poblacion_2020": 454967,
+      "entidad_federativa": "Nuevo León",
+      "area_metropolitana": "Monterrey",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 37,
+      "clave": "GUA-02",
+      "ciudad": "Irapuato",
+      "poblacion_2020": 452090,
+      "entidad_federativa": "Guanajuato",
+      "area_metropolitana": "Irapuato",
+      "region": "Centronorte"
+    },
+    {
+      "posicion": 38,
+      "clave": "VER-01",
+      "ciudad": "Xalapa-Enríquez",
+      "poblacion_2020": 443063,
+      "entidad_federativa": "Veracruz",
+      "area_metropolitana": "Xalapa",
+      "region": "Oriente"
+    },
+    {
+      "posicion": 39,
+      "clave": "JAL-04",
+      "ciudad": "Tonalá",
+      "poblacion_2020": 442440,
+      "entidad_federativa": "Jalisco",
+      "area_metropolitana": "Guadalajara",
+      "region": "Occidente"
+    },
+    {
+      "posicion": 40,
+      "clave": "SIN-02",
+      "ciudad": "Mazatlán",
+      "poblacion_2020": 441975,
+      "entidad_federativa": "Sinaloa",
+      "area_metropolitana": "Mazatlán",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 41,
+      "clave": "TAM-03",
+      "ciudad": "Nuevo Laredo",
+      "poblacion_2020": 416055,
+      "entidad_federativa": "Tamaulipas",
+      "area_metropolitana": "Nuevo Laredo",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 42,
+      "clave": "NLE-04",
+      "ciudad": "San Nicolás de los Garza",
+      "poblacion_2020": 412199,
+      "entidad_federativa": "Nuevo León",
+      "area_metropolitana": "Monterrey",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 43,
+      "clave": "VER-02",
+      "ciudad": "Veracruz (municipio de Veracruz)",
+      "poblacion_2020": 405952,
+      "entidad_federativa": "Veracruz",
+      "area_metropolitana": "Veracruz",
+      "region": "Oriente"
+    },
+    {
+      "posicion": 44,
+      "clave": "MEX-08",
+      "ciudad": "Ojo de Agua",
+      "poblacion_2020": 386290,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 45,
+      "clave": "MEX-09",
+      "ciudad": "Xico",
+      "poblacion_2020": 384327,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 46,
+      "clave": "GUA-03",
+      "ciudad": "Celaya",
+      "poblacion_2020": 378143,
+      "entidad_federativa": "Guanajuato",
+      "area_metropolitana": "Celaya",
+      "region": "Centronorte"
+    },
+    {
+      "posicion": 47,
+      "clave": "NAY-01",
+      "ciudad": "Tepic",
+      "poblacion_2020": 371387,
+      "entidad_federativa": "Nayarit",
+      "area_metropolitana": "Tepic",
+      "region": "Occidente"
+    },
+    {
+      "posicion": 48,
+      "clave": "MEX-10",
+      "ciudad": "Ixtapaluca",
+      "poblacion_2020": 368585,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 49,
+      "clave": "MOR-01",
+      "ciudad": "Cuernavaca",
+      "poblacion_2020": 341029,
+      "entidad_federativa": "Morelos",
+      "area_metropolitana": "Cuernavaca",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 50,
+      "clave": "TAB-01",
+      "ciudad": "Villahermosa",
+      "poblacion_2020": 340060,
+      "entidad_federativa": "Tabasco",
+      "area_metropolitana": "Villahermosa",
+      "region": "Sureste"
+    },
+    {
+      "posicion": 51,
+      "clave": "TAM-04",
+      "ciudad": "Ciudad Victoria",
+      "poblacion_2020": 332100,
+      "entidad_federativa": "Tamaulipas",
+      "area_metropolitana": "Ciudad Victoria",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 52,
+      "clave": "BCN-03",
+      "ciudad": "Ensenada",
+      "poblacion_2020": 330652,
+      "entidad_federativa": "Baja California",
+      "area_metropolitana": "Ensenada",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 53,
+      "clave": "SON-02",
+      "ciudad": "Ciudad Obregón",
+      "poblacion_2020": 329404,
+      "entidad_federativa": "Sonora",
+      "area_metropolitana": "Ciudad Obregón",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 54,
+      "clave": "MEX-11",
+      "ciudad": "Ciudad Nicolás Romero",
+      "poblacion_2020": 323545,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 55,
+      "clave": "SLP-02",
+      "ciudad": "Soledad de Graciano Sánchez",
+      "poblacion_2020": 310192,
+      "entidad_federativa": "San Luis Potosí",
+      "area_metropolitana": "San Luis Potosí",
+      "region": "Centronorte"
+    },
+    {
+      "posicion": 56,
+      "clave": "NLE-07",
+      "ciudad": "Ciudad Benito Juárez",
+      "poblacion_2020": 308285,
+      "entidad_federativa": "Nuevo León",
+      "area_metropolitana": "Monterrey",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 57,
+      "clave": "ROO-02",
+      "ciudad": "Playa del Carmen",
+      "poblacion_2020": 304942,
+      "entidad_federativa": "Quintana Roo",
+      "area_metropolitana": "Playa del Carmen",
+      "region": "Sureste"
+    },
+    {
+      "posicion": 58,
+      "clave": "NLE-06",
+      "ciudad": "Santa Catarina",
+      "poblacion_2020": 304052,
+      "entidad_federativa": "Nuevo León",
+      "area_metropolitana": "Monterrey",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 59,
+      "clave": "DUR-02",
+      "ciudad": "Gómez Palacio",
+      "poblacion_2020": 301742,
+      "entidad_federativa": "Durango",
+      "area_metropolitana": "La Laguna",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 60,
+      "clave": "MIC-02",
+      "ciudad": "Uruapan del Progreso",
+      "poblacion_2020": 299523,
+      "entidad_federativa": "Michoacán",
+      "area_metropolitana": "Uruapan",
+      "region": "Occidente"
+    },
+    {
+      "posicion": 61,
+      "clave": "SIN-03",
+      "ciudad": "Los Mochis",
+      "poblacion_2020": 298009,
+      "entidad_federativa": "Sinaloa",
+      "area_metropolitana": "Los Mochis",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 62,
+      "clave": "HID-01",
+      "ciudad": "Pachuca de Soto",
+      "poblacion_2020": 297848,
+      "entidad_federativa": "Hidalgo",
+      "area_metropolitana": "Pachuca",
+      "region": "Oriente"
+    },
+    {
+      "posicion": 63,
+      "clave": "TAM-05",
+      "ciudad": "Tampico",
+      "poblacion_2020": 297373,
+      "entidad_federativa": "Tamaulipas",
+      "area_metropolitana": "Tampico",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 64,
+      "clave": "PUE-02",
+      "ciudad": "Tehuacán",
+      "poblacion_2020": 293825,
+      "entidad_federativa": "Puebla",
+      "area_metropolitana": "Tehuacán",
+      "region": "Oriente"
+    },
+    {
+      "posicion": 65,
+      "clave": "MEX-12",
+      "ciudad": "San Francisco Coacalco",
+      "poblacion_2020": 293245,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 66,
+      "clave": "SON-03",
+      "ciudad": "Heroica Nogales",
+      "poblacion_2020": 261137,
+      "entidad_federativa": "Sonora",
+      "area_metropolitana": "Nogales",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 67,
+      "clave": "OAX-01",
+      "ciudad": "Oaxaca de Juárez",
+      "poblacion_2020": 258913,
+      "entidad_federativa": "Oaxaca",
+      "area_metropolitana": "Oaxaca",
+      "region": "Sureste"
+    },
+    {
+      "posicion": 68,
+      "clave": "BCS-01",
+      "ciudad": "La Paz",
+      "poblacion_2020": 250141,
+      "entidad_federativa": "Baja California Sur",
+      "area_metropolitana": "La Paz",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 69,
+      "clave": "CAM-01",
+      "ciudad": "San Francisco de Campeche",
+      "poblacion_2020": 249623,
+      "entidad_federativa": "Campeche",
+      "area_metropolitana": "Campeche",
+      "region": "Sureste"
+    },
+    {
+      "posicion": 70,
+      "clave": "COA-03",
+      "ciudad": "Monclova",
+      "poblacion_2020": 237169,
+      "entidad_federativa": "Coahuila",
+      "area_metropolitana": "Monclova-Frontera",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 71,
+      "clave": "NLE-08",
+      "ciudad": "García",
+      "poblacion_2020": 234698,
+      "entidad_federativa": "Nuevo León",
+      "area_metropolitana": "Monterrey",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 72,
+      "clave": "GRO-02",
+      "ciudad": "Chilpancingo de los Bravo",
+      "poblacion_2020": 225728,
+      "entidad_federativa": "Guerrero",
+      "area_metropolitana": "Chilpancingo",
+      "region": "Suroeste"
+    },
+    {
+      "posicion": 73,
+      "clave": "JAL-05",
+      "ciudad": "Puerto Vallarta",
+      "poblacion_2020": 224166,
+      "entidad_federativa": "Jalisco",
+      "area_metropolitana": "Puerto Vallarta",
+      "region": "Occidente"
+    },
+    {
+      "posicion": 74,
+      "clave": "MEX-13",
+      "ciudad": "Toluca de Lerdo",
+      "poblacion_2020": 223876,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Valle de Toluca",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 75,
+      "clave": "CHP-02",
+      "ciudad": "Tapachula",
+      "poblacion_2020": 217550,
+      "entidad_federativa": "Chiapas",
+      "area_metropolitana": "Tapachula",
+      "region": "Suroeste"
+    },
+    {
+      "posicion": 76,
+      "clave": "MEX-14",
+      "ciudad": "Buenavista",
+      "poblacion_2020": 216776,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 77,
+      "clave": "VER-03",
+      "ciudad": "Coatzacoalcos",
+      "poblacion_2020": 212540,
+      "entidad_federativa": "Veracruz",
+      "area_metropolitana": "Coatzacoalcos",
+      "region": "Oriente"
+    },
+    {
+      "posicion": 78,
+      "clave": "TAM-06",
+      "ciudad": "Ciudad Madero",
+      "poblacion_2020": 205933,
+      "entidad_federativa": "Tamaulipas",
+      "area_metropolitana": "Tampico",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 79,
+      "clave": "BCS-02",
+      "ciudad": "Cabo San Lucas",
+      "poblacion_2020": 202694,
+      "entidad_federativa": "Baja California Sur",
+      "area_metropolitana": "Los Cabos",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 80,
+      "clave": "MEX-15",
+      "ciudad": "Chicoloapan",
+      "poblacion_2020": 193532,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 81,
+      "clave": "CAM-02",
+      "ciudad": "Ciudad del Carmen",
+      "poblacion_2020": 191238,
+      "entidad_federativa": "Campeche",
+      "area_metropolitana": "—",
+      "region": "Sureste"
+    },
+    {
+      "posicion": 82,
+      "clave": "CHP-03",
+      "ciudad": "San Cristóbal de las Casas",
+      "poblacion_2020": 183509,
+      "entidad_federativa": "Chiapas",
+      "area_metropolitana": "—",
+      "region": "Suroeste"
+    },
+    {
+      "posicion": 83,
+      "clave": "VER-04",
+      "ciudad": "Poza Rica de Hidalgo",
+      "poblacion_2020": 180057,
+      "entidad_federativa": "Veracruz",
+      "area_metropolitana": "Poza Rica",
+      "region": "Oriente"
+    },
+    {
+      "posicion": 84,
+      "clave": "QUE-02",
+      "ciudad": "San Juan del Río",
+      "poblacion_2020": 177719,
+      "entidad_federativa": "Querétaro",
+      "area_metropolitana": "–",
+      "region": "Centronorte"
+    },
+    {
+      "posicion": 85,
+      "clave": "SON-04",
+      "ciudad": "San Luis Río Colorado",
+      "poblacion_2020": 176685,
+      "entidad_federativa": "Sonora",
+      "area_metropolitana": "—",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 86,
+      "clave": "MEX-16",
+      "ciudad": "Chalco de Díaz Covarrubias",
+      "poblacion_2020": 174704,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 87,
+      "clave": "MOR-02",
+      "ciudad": "Jiutepec",
+      "poblacion_2020": 174629,
+      "entidad_federativa": "Morelos",
+      "area_metropolitana": "Cuernavaca",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 88,
+      "clave": "COA-04",
+      "ciudad": "Piedras Negras",
+      "poblacion_2020": 173959,
+      "entidad_federativa": "Coahuila",
+      "area_metropolitana": "Piedras Negras",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 89,
+      "clave": "ZAC-01",
+      "ciudad": "Guadalupe",
+      "poblacion_2020": 170029,
+      "entidad_federativa": "Zacatecas",
+      "area_metropolitana": "Zacatecas",
+      "region": "Centronorte"
+    },
+    {
+      "posicion": 90,
+      "clave": "ROO-02",
+      "ciudad": "Chetumal",
+      "poblacion_2020": 169028,
+      "entidad_federativa": "Quintana Roo",
+      "area_metropolitana": "Chetumal",
+      "region": "Sureste"
+    },
+    {
+      "posicion": 91,
+      "clave": "TAM-07",
+      "ciudad": "Miramar",
+      "poblacion_2020": 161820,
+      "entidad_federativa": "Tamaulipas",
+      "area_metropolitana": "Tampico",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 92,
+      "clave": "GUA-04",
+      "ciudad": "Salamanca",
+      "poblacion_2020": 160682,
+      "entidad_federativa": "Guanajuato",
+      "area_metropolitana": "–",
+      "region": "Centronorte"
+    },
+    {
+      "posicion": 93,
+      "clave": "COA-05",
+      "ciudad": "Ciudad Acuña",
+      "poblacion_2020": 160225,
+      "entidad_federativa": "Coahuila",
+      "area_metropolitana": "—",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 94,
+      "clave": "COL-01",
+      "ciudad": "Manzanillo",
+      "poblacion_2020": 159853,
+      "entidad_federativa": "Colima",
+      "area_metropolitana": "—",
+      "region": "Occidente"
+    },
+    {
+      "posicion": 95,
+      "clave": "MEX-17",
+      "ciudad": "San Pablo de las Salinas",
+      "poblacion_2020": 157998,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 96,
+      "clave": "MOR-03",
+      "ciudad": "Cuautla",
+      "poblacion_2020": 157336,
+      "entidad_federativa": "Morelos",
+      "area_metropolitana": "Cuautla",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 97,
+      "clave": "MIC-03",
+      "ciudad": "Zamora de Hidalgo",
+      "poblacion_2020": 154546,
+      "entidad_federativa": "Michoacán",
+      "area_metropolitana": "Zamora",
+      "region": "Occidente"
+    },
+    {
+      "posicion": 98,
+      "clave": "COL-02",
+      "ciudad": "Villa de Álvarez",
+      "poblacion_2020": 147496,
+      "entidad_federativa": "Colima",
+      "area_metropolitana": "Colima-Villa de Álvarez",
+      "region": "Occidente"
+    },
+    {
+      "posicion": 99,
+      "clave": "COL-03",
+      "ciudad": "Colima",
+      "poblacion_2020": 146965,
+      "entidad_federativa": "Colima",
+      "area_metropolitana": "Colima-Villa de Álvarez",
+      "region": "Occidente"
+    },
+    {
+      "posicion": 100,
+      "clave": "ZAC-02",
+      "ciudad": "Fresnillo",
+      "poblacion_2020": 143281,
+      "entidad_federativa": "Zacatecas",
+      "area_metropolitana": "–",
+      "region": "Centronorte"
+    },
+    {
+      "posicion": 101,
+      "clave": "YUC-02",
+      "ciudad": "Kanasín",
+      "poblacion_2020": 139753,
+      "entidad_federativa": "Yucatán",
+      "area_metropolitana": "Mérida",
+      "region": "Sureste"
+    },
+    {
+      "posicion": 102,
+      "clave": "JAL-06",
+      "ciudad": "Hacienda Santa Fe",
+      "poblacion_2020": 139174,
+      "entidad_federativa": "Jalisco",
+      "area_metropolitana": "Guadalajara",
+      "region": "Occidente"
+    },
+    {
+      "posicion": 103,
+      "clave": "VER-05",
+      "ciudad": "Córdoba",
+      "poblacion_2020": 139075,
+      "entidad_federativa": "Veracruz",
+      "area_metropolitana": "Córdoba",
+      "region": "Oriente"
+    },
+    {
+      "posicion": 104,
+      "clave": "ZAC-03",
+      "ciudad": "Zacatecas",
+      "poblacion_2020": 138444,
+      "entidad_federativa": "Zacatecas",
+      "area_metropolitana": "Zacatecas",
+      "region": "Centronorte"
+    },
+    {
+      "posicion": 105,
+      "clave": "SLP-03",
+      "ciudad": "Ciudad Valles",
+      "poblacion_2020": 136351,
+      "entidad_federativa": "San Luis Potosí",
+      "area_metropolitana": "—",
+      "region": "Centronorte"
+    },
+    {
+      "posicion": 106,
+      "clave": "BCS-03",
+      "ciudad": "San José del Cabo",
+      "poblacion_2020": 136285,
+      "entidad_federativa": "Baja California Sur",
+      "area_metropolitana": "Los Cabos",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 107,
+      "clave": "CHH-03",
+      "ciudad": "Ciudad Cuauhtémoc",
+      "poblacion_2020": 135586,
+      "entidad_federativa": "Chihuahua",
+      "area_metropolitana": "—",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 108,
+      "clave": "MEX-18",
+      "ciudad": "Naucalpan de Juárez (Municipio de Huixquilucan)",
+      "poblacion_2020": 134948,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 109,
+      "clave": "GRO-03",
+      "ciudad": "Iguala de la Independencia",
+      "poblacion_2020": 132854,
+      "entidad_federativa": "Guerrero",
+      "area_metropolitana": "—",
+      "region": "Suroeste"
+    },
+    {
+      "posicion": 110,
+      "clave": "NLE-09",
+      "ciudad": "San Pedro Garza García",
+      "poblacion_2020": 132128,
+      "entidad_federativa": "Nuevo León",
+      "area_metropolitana": "Monterrey",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 111,
+      "clave": "VER-06",
+      "ciudad": "Veracruz (Municipio de Boca del Río)",
+      "poblacion_2020": 132011,
+      "entidad_federativa": "Veracruz",
+      "area_metropolitana": "Veracruz",
+      "region": "Oriente"
+    },
+    {
+      "posicion": 112,
+      "clave": "CHH-04",
+      "ciudad": "Delicias",
+      "poblacion_2020": 128548,
+      "entidad_federativa": "Chihuahua",
+      "area_metropolitana": "Delicias",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 113,
+      "clave": "SON-05",
+      "ciudad": "Navojoa",
+      "poblacion_2020": 120926,
+      "entidad_federativa": "Sonora",
+      "area_metropolitana": "—",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 114,
+      "clave": "MEX-19",
+      "ciudad": "Tepexpan",
+      "poblacion_2020": 120778,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 115,
+      "clave": "VER-07",
+      "ciudad": "Orizaba",
+      "poblacion_2020": 120500,
+      "entidad_federativa": "Veracruz",
+      "area_metropolitana": "Orizaba",
+      "region": "Oriente"
+    },
+    {
+      "posicion": 116,
+      "clave": "MEX-20",
+      "ciudad": "Cuautitlán",
+      "poblacion_2020": 117995,
+      "entidad_federativa": "México",
+      "area_metropolitana": "Ciudad de México",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 117,
+      "clave": "SON-06",
+      "ciudad": "Guaymas",
+      "poblacion_2020": 117253,
+      "entidad_federativa": "Sonora",
+      "area_metropolitana": "Guaymas",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 118,
+      "clave": "QUE-03",
+      "ciudad": "El Pueblito",
+      "poblacion_2020": 115264,
+      "entidad_federativa": "Querétaro",
+      "area_metropolitana": "Querétaro",
+      "region": "Centronorte"
+    },
+    {
+      "posicion": 119,
+      "clave": "COA-06",
+      "ciudad": "Ramos Arizpe",
+      "poblacion_2020": 114010,
+      "entidad_federativa": "Coahuila",
+      "area_metropolitana": "Saltillo",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 120,
+      "clave": "CHH-05",
+      "ciudad": "Hidalgo del Parral",
+      "poblacion_2020": 113843,
+      "entidad_federativa": "Chihuahua",
+      "area_metropolitana": "Hidalgo del Parral",
+      "region": "Noroeste"
+    },
+    {
+      "posicion": 121,
+      "clave": "CHP-04",
+      "ciudad": "Comitán de Domínguez",
+      "poblacion_2020": 113479,
+      "entidad_federativa": "Chiapas",
+      "area_metropolitana": "—",
+      "region": "Suroeste"
+    },
+    {
+      "posicion": 122,
+      "clave": "JAL-07",
+      "ciudad": "Ciudad Guzmán",
+      "poblacion_2020": 111975,
+      "entidad_federativa": "Jalisco",
+      "area_metropolitana": "—",
+      "region": "Occidente"
+    },
+    {
+      "posicion": 123,
+      "clave": "JAL-08",
+      "ciudad": "Lagos de Moreno",
+      "poblacion_2020": 111569,
+      "entidad_federativa": "Jalisco",
+      "area_metropolitana": "—",
+      "region": "Occidente"
+    },
+    {
+      "posicion": 124,
+      "clave": "TAM-08",
+      "ciudad": "Río Bravo",
+      "poblacion_2020": 111314,
+      "entidad_federativa": "Tamaulipas",
+      "area_metropolitana": "Reynosa",
+      "region": "Noreste"
+    },
+    {
+      "posicion": 125,
+      "clave": "HID-02",
+      "ciudad": "Tulancingo",
+      "poblacion_2020": 106163,
+      "entidad_federativa": "Hidalgo",
+      "area_metropolitana": "Tulacingo",
+      "region": "Oriente"
+    },
+    {
+      "posicion": 126,
+      "clave": "MOR-04",
+      "ciudad": "Temixco",
+      "poblacion_2020": 104461,
+      "entidad_federativa": "Morelos",
+      "area_metropolitana": "Cuernavaca",
+      "region": "Centrosur"
+    },
+    {
+      "posicion": 127,
+      "clave": "OAX-02",
+      "ciudad": "San Juan Bautista Tuxtepec",
+      "poblacion_2020": 103609,
+      "entidad_federativa": "Oaxaca",
+      "area_metropolitana": "—",
+      "region": "Suroeste"
+    },
+    {
+      "posicion": 128,
+      "clave": "MIC-04",
+      "ciudad": "Apatzingán de la Constitución",
+      "poblacion_2020": 102362,
+      "entidad_federativa": "Michoacán",
+      "area_metropolitana": "—",
+      "region": "Occidente"
+    },
+    {
+      "posicion": 129,
+      "clave": "PUE-03",
+      "ciudad": "Cholula de Rivadavia",
+      "poblacion_2020": 102260,
+      "entidad_federativa": "Puebla",
+      "area_metropolitana": "Puebla-Tlaxcala",
+      "region": "Oriente"
+    },
+    {
+      "posicion": 130,
+      "clave": "VER-08",
+      "ciudad": "Minatitlán",
+      "poblacion_2020": 101336,
+      "entidad_federativa": "Veracruz",
+      "area_metropolitana": "Minatitlán",
+      "region": "Oriente"
+    },
+    {
+      "posicion": 131,
+      "clave": "BCN-04",
+      "ciudad": "Rosarito",
+      "poblacion_2020": 100660,
+      "entidad_federativa": "Baja California",
+      "area_metropolitana": "Tijuana",
+      "region": "Noroeste"
+    }
+  ],
+  "meta": {
+    "title": "Ciudades más pobladas de México (censo 2020) - Free Download",
+    "description": "Ciudades de México con más de 100 000 habitantes según el censo de 2020, con entidad federativa, área metropolitana y región. Contains 131 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ciudades más pobladas de México (censo 2020) | ListBase",
+    "seo_description": "Download Ciudades más pobladas de México (censo 2020) — 131 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 131 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Ciudades_de_México_por_población"
+    ]
+  }
+}
