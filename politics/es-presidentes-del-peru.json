@@ -1,0 +1,560 @@
+{
+  "id": "es-presidentes-del-peru",
+  "name": "Presidentes del Perú",
+  "title": "Presidentes del Perú",
+  "description": "Lista cronológica de los presidentes de la República del Perú desde 1821, con su mandato, partido o afiliación, origen del cargo y vicepresidentes.",
+  "category": "politics",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Presidentes_del_Perú",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Presidentes_del_Perú",
+  "updated": "2026-11",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "presidente",
+      "label": "Presidente",
+      "type": "string"
+    },
+    {
+      "key": "mandato",
+      "label": "Mandato",
+      "type": "string"
+    },
+    {
+      "key": "partido",
+      "label": "Partido",
+      "type": "string"
+    },
+    {
+      "key": "origen_del_cargo",
+      "label": "Origen Del Cargo",
+      "type": "string"
+    },
+    {
+      "key": "vicepresidente",
+      "label": "Vicepresidente",
+      "type": "string"
+    },
+    {
+      "key": "epoca",
+      "label": "Epoca",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "presidente": "José de la Riva-Agüero (Lima, 1783-1858)",
+      "mandato": "28 de febrero - 23 de junio de 1823 (115 días, depuesto)",
+      "partido": "Militar",
+      "origen_del_cargo": "Impuesto por el Motín de Balconcillo. Ratificado por el Congreso. ​",
+      "vicepresidente": "-",
+      "epoca": "Época fundacional (1821-1841)"
+    },
+    {
+      "presidente": "José Bernardo de Tagle \" Torre Tagle \" (Lima, 1779-1825)",
+      "mandato": "16 de agosto de 1823 - 10 de febrero de 1824 (178 días, depuesto)",
+      "partido": "Militar",
+      "origen_del_cargo": "Nombrado por el Congreso. ​ ​",
+      "vicepresidente": "Diego de Aliaga y Santa Cruz",
+      "epoca": "Época fundacional (1821-1841)"
+    },
+    {
+      "presidente": "José de la Mar (Cuenca, ​ 1776-1830)",
+      "mandato": "9 de junio de 1827 - 7 de junio de 1829 (1 año y 363 días, derrocado)",
+      "partido": "Militar",
+      "origen_del_cargo": "Elegido por el Congreso ​",
+      "vicepresidente": "Manuel Salazar y Baquíjano",
+      "epoca": "Época fundacional (1821-1841)"
+    },
+    {
+      "presidente": "Agustín Gamarra (Cuzco, 1785- 1841)",
+      "mandato": "31 de agosto de 1829 - 19 de diciembre de 1833 (4 años y 110 días)",
+      "partido": "Militar",
+      "origen_del_cargo": "Nombrado por el Congreso ​ (31 de agosto de 1829) Elecciones 1829 ​ (19 de diciembre de 1829)",
+      "vicepresidente": "",
+      "epoca": "Época fundacional (1821-1841)"
+    },
+    {
+      "presidente": "Luis José de Orbegoso Presidente Provisorio (Usquil, 1795-1847)",
+      "mandato": "20 de diciembre de 1833 - 4 de enero de 1834 (15 días, derrocado)",
+      "partido": "Militar",
+      "origen_del_cargo": "Elegido provisionalmente por el Congreso tras frustrarse las elecciones ​ ​",
+      "vicepresidente": "-",
+      "epoca": "Época fundacional (1821-1841)"
+    },
+    {
+      "presidente": "Luis José de Orbegoso (2.º mandato)",
+      "mandato": "29 de enero de 1834 - 25 de febrero de 1835 (1 año y 27 días, derrocado)",
+      "partido": "Militar",
+      "origen_del_cargo": "Recaptura Lima ​",
+      "vicepresidente": "-",
+      "epoca": "Época fundacional (1821-1841)"
+    },
+    {
+      "presidente": "Luis José de Orbegoso (3.º mandato)",
+      "mandato": "8 de enero - 3 de agosto de 1836 (208 días)",
+      "partido": "Militar",
+      "origen_del_cargo": "Recaptura Lima ​",
+      "vicepresidente": "-",
+      "epoca": "Época fundacional (1821-1841)"
+    },
+    {
+      "presidente": "Agustín Gamarra (2.º mandato) ​",
+      "mandato": "15 de agosto de 1839 - 18 de noviembre de 1841 (†) (2 años y 95 días, muerto en combate)",
+      "partido": "Militar",
+      "origen_del_cargo": "Nombrado por el Congreso ​ (15 de agosto de 1839) Elecciones 1840 ​ (10 de julio de 1840)",
+      "vicepresidente": "Manuel Menéndez (Presidente del Consejo de Estado)",
+      "epoca": "Época fundacional (1821-1841)"
+    },
+    {
+      "presidente": "Ramón Castilla (S.L. Tarapacá, 1797-1867)",
+      "mandato": "20 de abril de 1845 - 20 de abril de 1851 (6 años)",
+      "partido": "Militar",
+      "origen_del_cargo": "Elecciones 1845 ​ ​",
+      "vicepresidente": "-",
+      "epoca": "Era del guano (1845-1866)"
+    },
+    {
+      "presidente": "José Rufino Echenique (Puno, 1808-1887)",
+      "mandato": "20 de abril de 1851 - 5 de enero de 1855 (3 años y 260 días, derrotado en combate)",
+      "partido": "Militar",
+      "origen_del_cargo": "Elecciones 1851 ​",
+      "vicepresidente": "-",
+      "epoca": "Era del guano (1845-1866)"
+    },
+    {
+      "presidente": "Ramón Castilla (2.º mandato) ​",
+      "mandato": "5 de enero de 1855 - 24 de octubre de 1862 (7 años y 292 días)",
+      "partido": "Militar",
+      "origen_del_cargo": "Golpe de Estado; luego ratificado por la Convención Nacional ​ ​ (14 de julio de 1855) Elecciones 1858 ​ (24 de octubre de 1858)",
+      "vicepresidente": "Juan Manuel del Mar",
+      "epoca": "Era del guano (1845-1866)"
+    },
+    {
+      "presidente": "Miguel de San Román (Pichacani, 1802-1863)",
+      "mandato": "24 de octubre de 1862 - 3 de abril de 1863 (†) (161 días, muerte natural)",
+      "partido": "Militar",
+      "origen_del_cargo": "Elecciones 1862",
+      "vicepresidente": "1.º Juan Antonio Pezet 2.º Pedro Diez Canseco Corbacho",
+      "epoca": "Era del guano (1845-1866)"
+    },
+    {
+      "presidente": "Juan Antonio Pezet (Lima, 1809-1879)",
+      "mandato": "5 de agosto de 1863 - 8 de noviembre de 1865 (2 años y 95 días, renuncia tras guerra civil)",
+      "partido": "Militar",
+      "origen_del_cargo": "Sucesión Constitucional ​ ​ (1° vicepresidente)",
+      "vicepresidente": "Pedro Diez Canseco Corbacho",
+      "epoca": "Era del guano (1845-1866)"
+    },
+    {
+      "presidente": "Mariano Ignacio Prado (Huánuco, 1825-1901)",
+      "mandato": "15 de febrero de 1867 - 7 de enero de 1868 (326 días, renuncia tras guerra civil)",
+      "partido": "Militar",
+      "origen_del_cargo": "Nombrado por el Congreso ​ tras las fraudulentas elecciones de 1866 ​ y ratificado el 29 de agosto ​",
+      "vicepresidente": "Luis La Puerta",
+      "epoca": "Crisis hacendaria (1867-1879)"
+    },
+    {
+      "presidente": "José Balta (Lima, 1814-1872)",
+      "mandato": "2 de agosto de 1868 - 22 de julio de 1872 (3 años y 355 días, derrocado y asesinado 5 días después)",
+      "partido": "Militar",
+      "origen_del_cargo": "Elecciones 1868 ​ ​",
+      "vicepresidente": "1.º Mariano Herencia-Zevallos 2.º Francisco Diez-Canseco Corbacho",
+      "epoca": "Crisis hacendaria (1867-1879)"
+    },
+    {
+      "presidente": "Manuel Pardo y Lavalle (Lima, 1834- 1878)",
+      "mandato": "2 de agosto de 1872 - 2 de agosto de 1876 (4 años)",
+      "partido": "Partido Civil",
+      "origen_del_cargo": "Elecciones 1872 ​ ​",
+      "vicepresidente": "1.º Manuel Costas Arce 2.º Francisco Garmendia Puértolas",
+      "epoca": "Crisis hacendaria (1867-1879)"
+    },
+    {
+      "presidente": "Mariano Ignacio Prado (2.º mandato)",
+      "mandato": "2 de agosto de 1876 - 23 de diciembre de 1879 (3 años y 143 días, derrocado durante viaje a Europa) ​",
+      "partido": "Partido Civil",
+      "origen_del_cargo": "Elecciones 1876 ​",
+      "vicepresidente": "1.º Luis La Puerta 2.º José Francisco Canevaro Valega",
+      "epoca": "Guerra del Pacífico (1879-1883)"
+    },
+    {
+      "presidente": "Francisco García-Calderón Landa Presidente Provisorio (Arequipa, 1834-1905)",
+      "mandato": "10 de julio - 6 de noviembre de 1881 (119 días, apresado)",
+      "partido": "Independiente",
+      "origen_del_cargo": "Nombrado por el Congreso de Chorillos ​ ​ y reconocido por las fuerzas chilenas",
+      "vicepresidente": "1.º Lizardo Montero 2.º Andrés Avelino Cáceres",
+      "epoca": "Guerra del Pacífico (1879-1883)"
+    },
+    {
+      "presidente": "Nicolás de Piérola (Arequipa, 1839-1913)",
+      "mandato": "29 de julio - 28 de noviembre de 1881 (122 días, renuncia)",
+      "partido": "Independiente",
+      "origen_del_cargo": "Nombrado por la Asamblea Nacional de Ayacucho, ​ gobernante de facto desde 1879",
+      "vicepresidente": "-",
+      "epoca": "Guerra del Pacífico (1879-1883)"
+    },
+    {
+      "presidente": "Miguel Iglesias Presidente Provisorio (Celendín, 1830-1909)",
+      "mandato": "1 de marzo de 1884 - 3 de diciembre de 1885 (1 año y 277 días, renuncia tras guerra civil)",
+      "partido": "Independiente",
+      "origen_del_cargo": "Nombrado por la Asamblea Constituyente ​",
+      "vicepresidente": "-",
+      "epoca": "Reconstrucción nacional y segundo militarismo (1884-1895)"
+    },
+    {
+      "presidente": "Andrés Avelino Cáceres (Ayacucho, 1836-1923)",
+      "mandato": "3 de junio de 1886 - 10 de agosto de 1890 (4 años y 68 días)",
+      "partido": "Partido Constitucional",
+      "origen_del_cargo": "Elecciones 1886 (único candidato) ​",
+      "vicepresidente": "1.º Remigio Morales Bermúdez 2.º Aurelio Denegri",
+      "epoca": "Reconstrucción nacional y segundo militarismo (1884-1895)"
+    },
+    {
+      "presidente": "Remigio Morales Bermúdez (Pica, 1836-1895)",
+      "mandato": "10 de agosto de 1890 - 1 de abril de 1894 (†) (3 años y 234 días, muerte natural)",
+      "partido": "Partido Constitucional",
+      "origen_del_cargo": "Elecciones 1890",
+      "vicepresidente": "1.º Pedro Alejandrino del Solar 2.º Justiniano Borgoño",
+      "epoca": "Reconstrucción nacional y segundo militarismo (1884-1895)"
+    },
+    {
+      "presidente": "Andrés Avelino Cáceres (2.º mandato)",
+      "mandato": "10 de agosto de 1894 - 20 de marzo de 1895 (222 días, renuncia tras guerra civil)",
+      "partido": "Partido Constitucional",
+      "origen_del_cargo": "Elecciones 1894 (único candidato)",
+      "vicepresidente": "1.º César Canevaro 2.º Cesáreo Chacaltana",
+      "epoca": "Reconstrucción nacional y segundo militarismo (1884-1895)"
+    },
+    {
+      "presidente": "Nicolás de Piérola (2.º mandato)",
+      "mandato": "8 de septiembre de 1895 - 8 de septiembre de 1899 (4 años)",
+      "partido": "Partido Demócrata",
+      "origen_del_cargo": "Elecciones 1895 (único candidato)",
+      "vicepresidente": "1.º Guillermo Billinghurst 2.º Augusto Seminario y Váscones",
+      "epoca": "República Aristocrática (1895-1919)"
+    },
+    {
+      "presidente": "Eduardo López de Romaña (Arequipa, 1847-1912)",
+      "mandato": "8 de septiembre de 1899 - 8 de septiembre de 1903 (4 años)",
+      "partido": "Partido Civil (en alianza junto al Partido Demócrata)",
+      "origen_del_cargo": "Elecciones 1899",
+      "vicepresidente": "1.º Isaac Alzamora 2.º Federico Bresani",
+      "epoca": "República Aristocrática (1895-1919)"
+    },
+    {
+      "presidente": "Manuel Candamo (Lima, 1841-1904)",
+      "mandato": "8 de septiembre de 1903 - 7 de mayo de 1904 (†) (242 días, muerte natural)",
+      "partido": "Partido Civil",
+      "origen_del_cargo": "Elecciones 1903 (único candidato)",
+      "vicepresidente": "1.º Lino Alarco ​ 2.º Serapio Calderón",
+      "epoca": "República Aristocrática (1895-1919)"
+    },
+    {
+      "presidente": "José Pardo y Barreda (Lima, 1864-1947)",
+      "mandato": "24 de septiembre de 1904 - 24 de septiembre de 1908 (4 años)",
+      "partido": "Partido Civil",
+      "origen_del_cargo": "Elecciones 1904 (único candidato)",
+      "vicepresidente": "José Salvador Cavero Ovalle",
+      "epoca": "República Aristocrática (1895-1919)"
+    },
+    {
+      "presidente": "Augusto Leguía (Lambayeque, 1863-1932)",
+      "mandato": "24 de septiembre de 1908 - 24 de septiembre de 1912 (4 años)",
+      "partido": "Partido Civil",
+      "origen_del_cargo": "Elecciones 1908 (único candidato)",
+      "vicepresidente": "1.º Eugenio Larrabure y Unanue 2.º Belisario Sosa",
+      "epoca": "República Aristocrática (1895-1919)"
+    },
+    {
+      "presidente": "Guillermo Billinghurst (Arica, 1851-1915)",
+      "mandato": "24 de septiembre de 1912 - 4 de febrero de 1914 (1 año y 133 días, derrocado)",
+      "partido": "Partido Demócrata",
+      "origen_del_cargo": "Elecciones 1912",
+      "vicepresidente": "1.º Roberto Leguía 2.º Miguel Echenique",
+      "epoca": "República Aristocrática (1895-1919)"
+    },
+    {
+      "presidente": "Óscar Benavides Presidente Provisorio (Lima, 1876-1945)",
+      "mandato": "15 de mayo de 1914 - 18 de agosto de 1915 (1 año y 95 días)",
+      "partido": "Militar",
+      "origen_del_cargo": "Nombrado por el Congreso tras Golpe de Estado ​",
+      "vicepresidente": "-",
+      "epoca": "República Aristocrática (1895-1919)"
+    },
+    {
+      "presidente": "José Pardo y Barreda (2.º mandato)",
+      "mandato": "18 de agosto de 1915 - 4 de julio de 1919 (3 años y 320 días, derrocado)",
+      "partido": "Partido Civil",
+      "origen_del_cargo": "Elecciones 1915",
+      "vicepresidente": "1.º Ricardo Bentín Sánchez 2.º Melitón Carvajal",
+      "epoca": "República Aristocrática (1895-1919)"
+    },
+    {
+      "presidente": "Augusto Leguía (2.º mandato)",
+      "mandato": "4 de julio de 1919 - 25 de agosto de 1930 (11 años y 52 días, derrocado)",
+      "partido": "Partido Democrático Reformista",
+      "origen_del_cargo": "Elecciones 1919 ​",
+      "vicepresidente": "​",
+      "epoca": "Oncenio de Leguía y tercer militarismo (1919-1939)"
+    },
+    {
+      "presidente": "Augusto Leguía (2.º mandato)",
+      "mandato": "4 de julio de 1919 - 25 de agosto de 1930 (11 años y 52 días, derrocado)",
+      "partido": "Partido Democrático Reformista",
+      "origen_del_cargo": "Golpe de Estado 1919",
+      "vicepresidente": "-",
+      "epoca": "Oncenio de Leguía y tercer militarismo (1919-1939)"
+    },
+    {
+      "presidente": "Augusto Leguía (2.º mandato)",
+      "mandato": "4 de julio de 1919 - 25 de agosto de 1930 (11 años y 52 días, derrocado)",
+      "partido": "Partido Democrático Reformista",
+      "origen_del_cargo": "Elecciones 1924 (único candidato)",
+      "vicepresidente": "-",
+      "epoca": "Oncenio de Leguía y tercer militarismo (1919-1939)"
+    },
+    {
+      "presidente": "Augusto Leguía (2.º mandato)",
+      "mandato": "4 de julio de 1919 - 25 de agosto de 1930 (11 años y 52 días, derrocado)",
+      "partido": "Partido Democrático Reformista",
+      "origen_del_cargo": "Elecciones 1929 (único candidato)",
+      "vicepresidente": "-",
+      "epoca": "Oncenio de Leguía y tercer militarismo (1919-1939)"
+    },
+    {
+      "presidente": "Luis Miguel Sánchez Cerro (Piura, 1889- 1933)",
+      "mandato": "8 de diciembre de 1931 - 30 de abril de 1933 (†) (1 año y 143 días, asesinado)",
+      "partido": "Unión Revolucionaria",
+      "origen_del_cargo": "Elecciones 1931",
+      "vicepresidente": "-",
+      "epoca": "Oncenio de Leguía y tercer militarismo (1919-1939)"
+    },
+    {
+      "presidente": "Óscar Benavides (2.º mandato)",
+      "mandato": "30 de abril de 1933 - 8 de diciembre de 1939 (6 años y 222 días)",
+      "partido": "Militar",
+      "origen_del_cargo": "Nombrado por el Congreso ​",
+      "vicepresidente": "1.º Ernesto Montagne Markholz (1936-1939) 2.º Antonio Rodríguez Ramírez (1936-1939)",
+      "epoca": "Oncenio de Leguía y tercer militarismo (1919-1939)"
+    },
+    {
+      "presidente": "Manuel Prado Ugarteche (Lima, 1889-1967)",
+      "mandato": "8 de diciembre de 1939 - 28 de julio de 1945 (5 años y 232 días)",
+      "partido": "Independiente (Coalición Conservadora)",
+      "origen_del_cargo": "Elecciones 1939 (fraude electoral) ​",
+      "vicepresidente": "1.º Rafael Larco Herrera 2.º Carlos Gibson",
+      "epoca": "Primavera Democrática (1939-1948)"
+    },
+    {
+      "presidente": "José Luis Bustamante y Rivero (Arequipa, 1894-1989)",
+      "mandato": "28 de julio de 1945 - 29 de octubre de 1948 (3 años y 93 días, derrocado)",
+      "partido": "Independiente (Frente Democrático Nacional)",
+      "origen_del_cargo": "Elecciones 1945",
+      "vicepresidente": "1.º José Gálvez Barrenechea 2.º Eduardo Ganoza y Ganoza",
+      "epoca": "Primavera Democrática (1939-1948)"
+    },
+    {
+      "presidente": "Manuel Odría (Tarma, 1896-1974)",
+      "mandato": "28 de julio de 1950 28 de julio de 1956 (6 años)",
+      "partido": "Unión Nacional Odriista",
+      "origen_del_cargo": "Elecciones 1950 (único candidato)",
+      "vicepresidente": "1.º Héctor Boza 2.º Federico Bolognesi Bolognesi",
+      "epoca": "Ochenio de Odría y reformisto civil (1948-1968)"
+    },
+    {
+      "presidente": "Manuel Prado Ugarteche (2.º mandato)",
+      "mandato": "28 de julio de 1956 18 de julio de 1962 (5 años y 355 días, derrocado)",
+      "partido": "Movimiento Democrático Peruano",
+      "origen_del_cargo": "Elecciones 1956",
+      "vicepresidente": "1.º Luis Gallo Porras 2.º Carlos Moreyra y Paz Soldán",
+      "epoca": "Ochenio de Odría y reformisto civil (1948-1968)"
+    },
+    {
+      "presidente": "Fernando Belaúnde Terry (Lima, 1912-2002)",
+      "mandato": "28 de julio de 1963 - 3 de octubre de 1968 (5 años y 67 días, derrocado)",
+      "partido": "Acción Popular",
+      "origen_del_cargo": "Elecciones 1963",
+      "vicepresidente": "1.º Edgardo Seoane 2.º Mario Polar Ugarteche",
+      "epoca": "Ochenio de Odría y reformisto civil (1948-1968)"
+    },
+    {
+      "presidente": "Juan Velasco Alvarado (Castilla, 1910-1977)",
+      "mandato": "3 de octubre de 1968 - 29 de agosto de 1975 (6 años y 330 días, derrocado)",
+      "partido": "Militar",
+      "origen_del_cargo": "Golpe de Estado 1968",
+      "vicepresidente": "Edgardo Mercado Jarrín",
+      "epoca": "Gobierno Revolucionario de la Fuerza Armada (1968-1980)"
+    },
+    {
+      "presidente": "Francisco Morales-Bermúdez (Lima, 1921-2022)",
+      "mandato": "29 de agosto de 1975 - 28 de julio de 1980 (4 años y 334 días)",
+      "partido": "Militar",
+      "origen_del_cargo": "Golpe de Estado 1975",
+      "vicepresidente": "Pedro Richter Prada",
+      "epoca": "Gobierno Revolucionario de la Fuerza Armada (1968-1980)"
+    },
+    {
+      "presidente": "Fernando Belaúnde Terry (Lima, 1912-2002) (2.º mandato)",
+      "mandato": "28 de julio de 1980 - 28 de julio de 1985 (5 años)",
+      "partido": "Acción Popular",
+      "origen_del_cargo": "Elecciones 1980",
+      "vicepresidente": "1.º Fernando Schwalb 2.º Javier Alva Orlandini",
+      "epoca": "Época del terrorismo y Fujimorato (1980-2000)"
+    },
+    {
+      "presidente": "Alan García (Lima, 1949- 2019)",
+      "mandato": "28 de julio de 1985 - 28 de julio de 1990 (5 años)",
+      "partido": "Partido Aprista Peruano",
+      "origen_del_cargo": "Elecciones 1985",
+      "vicepresidente": "1.º Luis Alberto Sánchez 2.º Luis Alva Castro",
+      "epoca": "Época del terrorismo y Fujimorato (1980-2000)"
+    },
+    {
+      "presidente": "Alberto Fujimori (Lima, 1938- 2024)",
+      "mandato": "28 de julio de 1990 - 21 de noviembre de 2000 (10 años y 116 días, depuesto) ​",
+      "partido": "Cambio 90 ​",
+      "origen_del_cargo": "Elecciones 1990",
+      "vicepresidente": "1.º Máximo San Román 2.º Carlos García y García",
+      "epoca": "Época del terrorismo y Fujimorato (1980-2000)"
+    },
+    {
+      "presidente": "Alberto Fujimori (Lima, 1938- 2024)",
+      "mandato": "28 de julio de 1990 - 21 de noviembre de 2000 (10 años y 116 días, depuesto) ​",
+      "partido": "Cambio 90 ​",
+      "origen_del_cargo": "Autogolpe 1992 ​",
+      "vicepresidente": "Jaime Yoshiyama (presidente del Congreso)",
+      "epoca": "Época del terrorismo y Fujimorato (1980-2000)"
+    },
+    {
+      "presidente": "Alberto Fujimori (Lima, 1938- 2024)",
+      "mandato": "28 de julio de 1990 - 21 de noviembre de 2000 (10 años y 116 días, depuesto) ​",
+      "partido": "Cambio 90 ​",
+      "origen_del_cargo": "Elecciones 1995 ​",
+      "vicepresidente": "1.º Ricardo Márquez Flores 2.º César Paredes Canto",
+      "epoca": "Época del terrorismo y Fujimorato (1980-2000)"
+    },
+    {
+      "presidente": "Alberto Fujimori (Lima, 1938- 2024)",
+      "mandato": "28 de julio de 1990 - 21 de noviembre de 2000 (10 años y 116 días, depuesto) ​",
+      "partido": "Cambio 90 ​",
+      "origen_del_cargo": "Elecciones 2000 ​",
+      "vicepresidente": "1.º Francisco Tudela 2.º Ricardo Márquez Flores",
+      "epoca": "Época del terrorismo y Fujimorato (1980-2000)"
+    },
+    {
+      "presidente": "Valentín Paniagua (Cuzco, 1936-2006)",
+      "mandato": "22 de noviembre de 2000 - 28 de julio de 2001 (248 días)",
+      "partido": "Acción Popular",
+      "origen_del_cargo": "Sucesión constitucional (Presidente del Congreso)",
+      "vicepresidente": "-",
+      "epoca": "República empresarial (2000-2016)"
+    },
+    {
+      "presidente": "Alejandro Toledo (Cabana, 1946-)",
+      "mandato": "28 de julio de 2001 - 28 de julio de 2006 (5 años)",
+      "partido": "Perú Posible",
+      "origen_del_cargo": "Elecciones 2001",
+      "vicepresidente": "1.º Raúl Diez Canseco Terry (2001-2004) 2.º David Waisman",
+      "epoca": "República empresarial (2000-2016)"
+    },
+    {
+      "presidente": "Alan García (Lima, 1949- 2019) (2.º mandato)",
+      "mandato": "28 de julio de 2006 - 28 de julio de 2011 (5 años)",
+      "partido": "Partido Aprista Peruano",
+      "origen_del_cargo": "Elecciones 2006",
+      "vicepresidente": "1.º Luis Giampietri 2.º Lourdes Mendoza del Solar",
+      "epoca": "República empresarial (2000-2016)"
+    },
+    {
+      "presidente": "Ollanta Humala (Lima, 1962-)",
+      "mandato": "28 de julio de 2011 - 28 de julio de 2016 (5 años)",
+      "partido": "Partido Nacionalista Peruano (Gana Perú)",
+      "origen_del_cargo": "Elecciones 2011",
+      "vicepresidente": "1.º Marisol Espinoza (2011-2016) 2.º Omar Chehade (2011-2012)",
+      "epoca": "República empresarial (2000-2016)"
+    },
+    {
+      "presidente": "Pedro Pablo Kuczynski (Lima, 1938-)",
+      "mandato": "28 de julio de 2016 - 23 de marzo de 2018 (1 año y 105 días, renuncia) ​",
+      "partido": "Peruanos Por el Kambio",
+      "origen_del_cargo": "Elecciones 2016",
+      "vicepresidente": "1.º Martín Vizcarra 2.º Mercedes Aráoz",
+      "epoca": "Crisis política (2016-2021)"
+    },
+    {
+      "presidente": "Martín Vizcarra (Lima, 1963-)",
+      "mandato": "23 de marzo de 2018 - 9 de noviembre de 2020 (2 años y 231 días, depuesto)",
+      "partido": "Independiente",
+      "origen_del_cargo": "Sucesión constitucional (1.º Vicepresidente)",
+      "vicepresidente": "Mercedes Aráoz (2018-2019) ​",
+      "epoca": "Crisis política (2016-2021)"
+    },
+    {
+      "presidente": "Manuel Merino (Tumbes, 1961-)",
+      "mandato": "10-15 de noviembre de 2020 (5 días, renuncia tras protestas)",
+      "partido": "Acción Popular",
+      "origen_del_cargo": "Sucesión constitucional (Presidente del Congreso)",
+      "vicepresidente": "-",
+      "epoca": "Crisis política (2016-2021)"
+    },
+    {
+      "presidente": "Francisco Sagasti (Lima, 1944-)",
+      "mandato": "17 de noviembre de 2020 - 28 de julio de 2021 (253 días)",
+      "partido": "Partido Morado",
+      "origen_del_cargo": "Sucesión constitucional (previa elección por el Congreso) ​",
+      "vicepresidente": "-",
+      "epoca": "Crisis política (2016-2021)"
+    },
+    {
+      "presidente": "Pedro Castillo (Tacabamba, 1969-)",
+      "mandato": "28 de julio de 2021 - 7 de diciembre de 2022 (1 año y 132 días, depuesto tras intento de autogolpe)",
+      "partido": "Perú Libre",
+      "origen_del_cargo": "Elecciones 2021",
+      "vicepresidente": "1.º Dina Boluarte 2.º Vacante ​",
+      "epoca": "Crisis política (2021-2026)"
+    },
+    {
+      "presidente": "Dina Boluarte (Chalhuanca, 1962-)",
+      "mandato": "7 de diciembre de 2022 - 10 de octubre de 2025 (2 años y 307 días, depuesta)",
+      "partido": "Independiente (ex-Perú Libre)",
+      "origen_del_cargo": "Sucesión constitucional (1.º Vicepresidenta)",
+      "vicepresidente": "-",
+      "epoca": "Crisis política (2021-2026)"
+    },
+    {
+      "presidente": "José Jerí (Lima, 1986-)",
+      "mandato": "10 de octubre de 2025 - 17 de febrero de 2026 (130 días, depuesto)",
+      "partido": "Somos Perú",
+      "origen_del_cargo": "Sucesión constitucional (Presidente del Congreso)",
+      "vicepresidente": "-",
+      "epoca": "Crisis política (2021-2026)"
+    },
+    {
+      "presidente": "José María Balcázar (Nánchoc, 1943-)",
+      "mandato": "18 de febrero de 2026 - 28 de julio de 2026 (160 días)",
+      "partido": "Independiente ​ (ex-Perú Libre)",
+      "origen_del_cargo": "Sucesión constitucional (previa elección por el Congreso) ​",
+      "vicepresidente": "-",
+      "epoca": "Crisis política (2021-2026)"
+    },
+    {
+      "presidente": "Keiko Fujimori (Lima, 1975-)",
+      "mandato": "Desde el 28 de julio de 2026 (99 días)",
+      "partido": "Fuerza Popular",
+      "origen_del_cargo": "Elecciones 2026",
+      "vicepresidente": "1.º Luis Galarreta 2.º Miguel Torres",
+      "epoca": "Crisis política (2021-2026)"
+    }
+  ],
+  "meta": {
+    "title": "Presidentes del Perú - Free Download",
+    "description": "Lista cronológica de los presidentes de la República del Perú desde 1821, con su mandato, partido o afiliación, origen del cargo y vicepresidentes. Contains 63 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidentes del Perú | ListBase",
+    "seo_description": "Download Presidentes del Perú — 63 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 63 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Presidentes_del_Perú"
+    ]
+  }
+}
