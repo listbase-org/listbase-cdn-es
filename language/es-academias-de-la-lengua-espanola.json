@@ -1,0 +1,219 @@
+{
+  "id": "es-academias-de-la-lengua-espanola",
+  "name": "Academias de la Lengua Española (ASALE)",
+  "title": "Academias de la Lengua Española (ASALE)",
+  "description": "Academias que integran la Asociación de Academias de la Lengua Española, con país, año de creación y sede.",
+  "category": "language",
+  "source": "https://es.wikipedia.org/wiki/Asociación_de_Academias_de_la_Lengua_Española",
+  "source_url": "https://es.wikipedia.org/wiki/Asociación_de_Academias_de_la_Lengua_Española",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "pais",
+      "label": "Pais",
+      "type": "string"
+    },
+    {
+      "key": "academia",
+      "label": "Academia",
+      "type": "string"
+    },
+    {
+      "key": "anio_creacion",
+      "label": "Anio Creacion",
+      "type": "number"
+    },
+    {
+      "key": "sede",
+      "label": "Sede",
+      "type": "string"
+    },
+    {
+      "key": "estado",
+      "label": "Estado",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pais": "España",
+      "academia": "Real Academia Española",
+      "anio_creacion": 1713,
+      "sede": "Madrid",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Colombia",
+      "academia": "Academia Colombiana de la Lengua",
+      "anio_creacion": 1871,
+      "sede": "Bogotá",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Ecuador",
+      "academia": "Academia Ecuatoriana de la Lengua",
+      "anio_creacion": 1874,
+      "sede": "Quito",
+      "estado": "miembro"
+    },
+    {
+      "pais": "México",
+      "academia": "Academia Mexicana de la Lengua",
+      "anio_creacion": 1875,
+      "sede": "Ciudad de México",
+      "estado": "miembro"
+    },
+    {
+      "pais": "El Salvador",
+      "academia": "Academia Salvadoreña de la Lengua",
+      "anio_creacion": 1875,
+      "sede": "San Salvador",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Venezuela",
+      "academia": "Academia Venezolana de la Lengua",
+      "anio_creacion": 1883,
+      "sede": "Caracas",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Chile",
+      "academia": "Academia Chilena de la Lengua",
+      "anio_creacion": 1885,
+      "sede": "Santiago de Chile",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Perú",
+      "academia": "Academia Peruana de la Lengua",
+      "anio_creacion": 1887,
+      "sede": "Lima",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Guatemala",
+      "academia": "Academia Guatemalteca de la Lengua",
+      "anio_creacion": 1887,
+      "sede": "Ciudad de Guatemala",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Costa Rica",
+      "academia": "Academia Costarricense de la Lengua",
+      "anio_creacion": 1923,
+      "sede": "San José",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Filipinas",
+      "academia": "Academia Filipina de la Lengua Española",
+      "anio_creacion": 1924,
+      "sede": "Manila",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Panamá",
+      "academia": "Academia Panameña de la Lengua",
+      "anio_creacion": 1926,
+      "sede": "Ciudad de Panamá",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Cuba",
+      "academia": "Academia Cubana de la Lengua",
+      "anio_creacion": 1926,
+      "sede": "La Habana",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Paraguay",
+      "academia": "Academia Paraguaya de la Lengua Española",
+      "anio_creacion": 1927,
+      "sede": "Asunción",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Bolivia",
+      "academia": "Academia Boliviana de la Lengua",
+      "anio_creacion": 1927,
+      "sede": "La Paz",
+      "estado": "miembro"
+    },
+    {
+      "pais": "República Dominicana",
+      "academia": "Academia Dominicana de la Lengua",
+      "anio_creacion": 1927,
+      "sede": "Santo Domingo",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Nicaragua",
+      "academia": "Academia Nicaragüense de la Lengua",
+      "anio_creacion": 1928,
+      "sede": "Managua",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Argentina",
+      "academia": "Academia Argentina de Letras",
+      "anio_creacion": 1931,
+      "sede": "Buenos Aires",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Uruguay",
+      "academia": "Academia Nacional de Letras del Uruguay",
+      "anio_creacion": 1943,
+      "sede": "Montevideo",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Honduras",
+      "academia": "Academia Hondureña de la Lengua",
+      "anio_creacion": 1949,
+      "sede": "Tegucigalpa",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Puerto Rico",
+      "academia": "Academia Puertorriqueña de la Lengua Española",
+      "anio_creacion": 1955,
+      "sede": "San Juan",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Estados Unidos",
+      "academia": "Academia Norteamericana de la Lengua Española",
+      "anio_creacion": "1973 — Integrada en la ASALE desde 1980.",
+      "sede": "Nueva York",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Guinea Ecuatorial",
+      "academia": "Academia Ecuatoguineana de la Lengua Española",
+      "anio_creacion": "2013 — Integrada en la ASALE desde 2016.",
+      "sede": "Malabo",
+      "estado": "miembro"
+    },
+    {
+      "pais": "Israel",
+      "academia": "Academia Nacional del Judeoespañol",
+      "anio_creacion": "2018 — Reconocida por la ASALE en 2020, año en que su presidencia fue incorporada al panel de presidencias de la asociación.",
+      "sede": "Jerusalén",
+      "estado": "en proceso de incorporación"
+    }
+  ],
+  "meta": {
+    "title": "Academias de la Lengua Española (ASALE) - Free Download",
+    "description": "Academias que integran la Asociación de Academias de la Lengua Española, con país, año de creación y sede. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Academias de la Lengua Española (ASALE) | ListBase",
+    "seo_description": "Download Academias de la Lengua Española (ASALE) — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Asociación_de_Academias_de_la_Lengua_Española"
+    ]
+  }
+}

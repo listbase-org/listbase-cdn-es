@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-03T02:14:01.838Z",
-  "total_datasets": 524,
-  "total_records": 429436,
+  "generated": "2026-11-04T02:16:27.311Z",
+  "total_datasets": 525,
+  "total_records": 429460,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -2711,6 +2711,32 @@
         "xlsx": {
           "name": "es-virreyes-de-nueva-espana_ES.xlsx",
           "size": 11870
+        }
+      }
+    },
+    {
+      "id": "es-academias-de-la-lengua-espanola",
+      "name": "Academias de la Lengua Española (ASALE)",
+      "category": "language",
+      "record_count": 24,
+      "columns": [
+        "pais",
+        "academia",
+        "anio_creacion",
+        "sede",
+        "estado"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Asociación_de_Academias_de_la_Lengua_Española",
+      "updated": "2026-11",
+      "size": 6267,
+      "files": {
+        "csv": {
+          "name": "es-academias-de-la-lengua-espanola_ES.csv",
+          "size": 2171
+        },
+        "xlsx": {
+          "name": "es-academias-de-la-lengua-espanola_ES.xlsx",
+          "size": 8005
         }
       }
     },
