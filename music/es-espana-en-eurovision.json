@@ -1,0 +1,646 @@
+{
+  "id": "es-espana-en-eurovision",
+  "name": "España en el Festival de Eurovisión",
+  "title": "España en el Festival de Eurovisión",
+  "description": "Participaciones de España en el Festival de la Canción de Eurovisión desde 1961: año, sede, artista, canción, idioma, posición y puntos.",
+  "category": "music",
+  "source": "https://es.wikipedia.org/wiki/España_en_el_Festival_de_la_Canción_de_Eurovisión",
+  "source_url": "https://es.wikipedia.org/wiki/España_en_el_Festival_de_la_Canción_de_Eurovisión",
+  "updated": "2026-11",
+  "record_count": 65,
+  "columns": [
+    {
+      "key": "anio",
+      "label": "Anio",
+      "type": "number"
+    },
+    {
+      "key": "sede",
+      "label": "Sede",
+      "type": "string"
+    },
+    {
+      "key": "artista",
+      "label": "Artista",
+      "type": "string"
+    },
+    {
+      "key": "cancion",
+      "label": "Cancion",
+      "type": "string"
+    },
+    {
+      "key": "idioma",
+      "label": "Idioma",
+      "type": "string"
+    },
+    {
+      "key": "posicion",
+      "label": "Posicion",
+      "type": "number"
+    },
+    {
+      "key": "puntos",
+      "label": "Puntos",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "anio": 1961,
+      "sede": "Cannes",
+      "artista": "Conchita Bautista",
+      "cancion": "Estando contigo",
+      "idioma": "Español",
+      "posicion": 9,
+      "puntos": 8
+    },
+    {
+      "anio": 1962,
+      "sede": "Luxemburgo",
+      "artista": "Víctor Balaguer",
+      "cancion": "Llámame",
+      "idioma": "Español",
+      "posicion": 13,
+      "puntos": 0
+    },
+    {
+      "anio": 1963,
+      "sede": "Londres",
+      "artista": "José Guardiola",
+      "cancion": "Algo prodigioso",
+      "idioma": "Español",
+      "posicion": 12,
+      "puntos": 2
+    },
+    {
+      "anio": 1964,
+      "sede": "Copenhague",
+      "artista": "Los TNT",
+      "cancion": "Caracola",
+      "idioma": "Español",
+      "posicion": 12,
+      "puntos": 1
+    },
+    {
+      "anio": 1965,
+      "sede": "Nápoles",
+      "artista": "Conchita Bautista",
+      "cancion": "¡Qué bueno, qué bueno!",
+      "idioma": "Español",
+      "posicion": 15,
+      "puntos": 0
+    },
+    {
+      "anio": 1966,
+      "sede": "Luxemburgo",
+      "artista": "Raphael",
+      "cancion": "Yo soy aquel",
+      "idioma": "Español",
+      "posicion": 7,
+      "puntos": 9
+    },
+    {
+      "anio": 1967,
+      "sede": "Viena",
+      "artista": "Raphael",
+      "cancion": "Hablemos del amor",
+      "idioma": "Español",
+      "posicion": 6,
+      "puntos": 9
+    },
+    {
+      "anio": 1968,
+      "sede": "Londres",
+      "artista": "Massiel",
+      "cancion": "La, la, la",
+      "idioma": "Español",
+      "posicion": 1,
+      "puntos": 29
+    },
+    {
+      "anio": 1969,
+      "sede": "Madrid",
+      "artista": "Salomé",
+      "cancion": "Vivo cantando",
+      "idioma": "Español",
+      "posicion": 1,
+      "puntos": 18
+    },
+    {
+      "anio": 1970,
+      "sede": "Ámsterdam",
+      "artista": "Julio Iglesias",
+      "cancion": "Gwendolyne",
+      "idioma": "Español",
+      "posicion": 4,
+      "puntos": 8
+    },
+    {
+      "anio": 1971,
+      "sede": "Dublín",
+      "artista": "Karina",
+      "cancion": "En un mundo nuevo",
+      "idioma": "Español",
+      "posicion": 2,
+      "puntos": 116
+    },
+    {
+      "anio": 1972,
+      "sede": "Edimburgo",
+      "artista": "Jaime Morey",
+      "cancion": "Amanece",
+      "idioma": "Español",
+      "posicion": 10,
+      "puntos": 83
+    },
+    {
+      "anio": 1973,
+      "sede": "Luxemburgo",
+      "artista": "Mocedades",
+      "cancion": "Eres tú",
+      "idioma": "Español",
+      "posicion": 2,
+      "puntos": 125
+    },
+    {
+      "anio": 1974,
+      "sede": "Brighton",
+      "artista": "Peret",
+      "cancion": "Canta y sé feliz",
+      "idioma": "Español",
+      "posicion": 9,
+      "puntos": 10
+    },
+    {
+      "anio": 1975,
+      "sede": "Estocolmo",
+      "artista": "Sergio y Estíbaliz",
+      "cancion": "Tú volverás",
+      "idioma": "Español",
+      "posicion": 10,
+      "puntos": 53
+    },
+    {
+      "anio": 1976,
+      "sede": "La Haya",
+      "artista": "Braulio",
+      "cancion": "Sobran las palabras",
+      "idioma": "Español",
+      "posicion": 16,
+      "puntos": 11
+    },
+    {
+      "anio": 1977,
+      "sede": "Londres",
+      "artista": "Micky",
+      "cancion": "Enséñame a cantar",
+      "idioma": "Español",
+      "posicion": 9,
+      "puntos": 52
+    },
+    {
+      "anio": 1978,
+      "sede": "París",
+      "artista": "José Vélez",
+      "cancion": "Bailemos un vals",
+      "idioma": "Español, francés",
+      "posicion": 9,
+      "puntos": 65
+    },
+    {
+      "anio": 1979,
+      "sede": "Jerusalén",
+      "artista": "Betty Missiego",
+      "cancion": "Su canción",
+      "idioma": "Español",
+      "posicion": 2,
+      "puntos": 116
+    },
+    {
+      "anio": 1980,
+      "sede": "La Haya",
+      "artista": "Trigo Limpio",
+      "cancion": "Quédate esta noche",
+      "idioma": "Español",
+      "posicion": 12,
+      "puntos": 38
+    },
+    {
+      "anio": 1981,
+      "sede": "Dublín",
+      "artista": "José María Bacchelli",
+      "cancion": "Y sólo tú",
+      "idioma": "Español",
+      "posicion": 14,
+      "puntos": 38
+    },
+    {
+      "anio": 1982,
+      "sede": "Harrogate",
+      "artista": "Lucía",
+      "cancion": "Él",
+      "idioma": "Español",
+      "posicion": 10,
+      "puntos": 52
+    },
+    {
+      "anio": 1983,
+      "sede": "Múnich",
+      "artista": "Remedios Amaya",
+      "cancion": "¿Quién maneja mi barca?",
+      "idioma": "Español",
+      "posicion": 19,
+      "puntos": 0
+    },
+    {
+      "anio": 1984,
+      "sede": "Luxemburgo",
+      "artista": "Bravo",
+      "cancion": "Lady, Lady",
+      "idioma": "Español",
+      "posicion": 3,
+      "puntos": 106
+    },
+    {
+      "anio": 1985,
+      "sede": "Gotemburgo",
+      "artista": "Paloma San Basilio",
+      "cancion": "La fiesta terminó",
+      "idioma": "Español",
+      "posicion": 14,
+      "puntos": 36
+    },
+    {
+      "anio": 1986,
+      "sede": "Bergen",
+      "artista": "Cadillac",
+      "cancion": "Valentino",
+      "idioma": "Español",
+      "posicion": 10,
+      "puntos": 51
+    },
+    {
+      "anio": 1987,
+      "sede": "Bruselas",
+      "artista": "Patricia Kraus",
+      "cancion": "No estás solo",
+      "idioma": "Español",
+      "posicion": 19,
+      "puntos": 10
+    },
+    {
+      "anio": 1988,
+      "sede": "Dublín",
+      "artista": "La Década Prodigiosa",
+      "cancion": "Made in Spain (La chica que yo quiero)",
+      "idioma": "Español",
+      "posicion": 11,
+      "puntos": 58
+    },
+    {
+      "anio": 1989,
+      "sede": "Lausana",
+      "artista": "Nina",
+      "cancion": "Nacida para amar",
+      "idioma": "Español",
+      "posicion": 6,
+      "puntos": 88
+    },
+    {
+      "anio": 1990,
+      "sede": "Zagreb",
+      "artista": "Azúcar Moreno",
+      "cancion": "Bandido",
+      "idioma": "Español",
+      "posicion": 5,
+      "puntos": 96
+    },
+    {
+      "anio": 1991,
+      "sede": "Roma",
+      "artista": "Sergio Dalma",
+      "cancion": "Bailar pegados",
+      "idioma": "Español",
+      "posicion": 4,
+      "puntos": 119
+    },
+    {
+      "anio": 1992,
+      "sede": "Malmö",
+      "artista": "Serafín Zubiri",
+      "cancion": "Todo esto es la música",
+      "idioma": "Español",
+      "posicion": 14,
+      "puntos": 37
+    },
+    {
+      "anio": 1993,
+      "sede": "Millstreet",
+      "artista": "Eva Santamaría",
+      "cancion": "Hombres",
+      "idioma": "Español",
+      "posicion": 11,
+      "puntos": 58
+    },
+    {
+      "anio": 1994,
+      "sede": "Dublín",
+      "artista": "Alejandro Abad",
+      "cancion": "Ella no es ella",
+      "idioma": "Español",
+      "posicion": 18,
+      "puntos": 17
+    },
+    {
+      "anio": 1995,
+      "sede": "Dublín",
+      "artista": "Anabel Conde",
+      "cancion": "Vuelve conmigo",
+      "idioma": "Español",
+      "posicion": 2,
+      "puntos": 119
+    },
+    {
+      "anio": 1996,
+      "sede": "Oslo",
+      "artista": "Antonio Carbonell",
+      "cancion": "¡Ay, qué deseo!",
+      "idioma": "Español",
+      "posicion": 20,
+      "puntos": 17
+    },
+    {
+      "anio": 1997,
+      "sede": "Dublín",
+      "artista": "Marcos Llunas",
+      "cancion": "Sin rencor",
+      "idioma": "Español",
+      "posicion": 6,
+      "puntos": 96
+    },
+    {
+      "anio": 1998,
+      "sede": "Birmingham",
+      "artista": "Mikel Herzog",
+      "cancion": "¿Qué voy a hacer sin ti?",
+      "idioma": "Español",
+      "posicion": 16,
+      "puntos": 21
+    },
+    {
+      "anio": 1999,
+      "sede": "Jerusalén",
+      "artista": "Lydia",
+      "cancion": "No quiero escuchar",
+      "idioma": "Español",
+      "posicion": 23,
+      "puntos": 1
+    },
+    {
+      "anio": 2000,
+      "sede": "Estocolmo",
+      "artista": "Serafín Zubiri",
+      "cancion": "Colgado de un sueño",
+      "idioma": "Español",
+      "posicion": 18,
+      "puntos": 18
+    },
+    {
+      "anio": 2001,
+      "sede": "Copenhague",
+      "artista": "David Civera",
+      "cancion": "Dile que la quiero",
+      "idioma": "Español",
+      "posicion": 6,
+      "puntos": 76
+    },
+    {
+      "anio": 2002,
+      "sede": "Tallin",
+      "artista": "Rosa López",
+      "cancion": "Europe's living a celebration",
+      "idioma": "Español, inglés",
+      "posicion": 7,
+      "puntos": 81
+    },
+    {
+      "anio": 2003,
+      "sede": "Riga",
+      "artista": "Beth Rodergas",
+      "cancion": "Dime",
+      "idioma": "Español",
+      "posicion": 8,
+      "puntos": 81
+    },
+    {
+      "anio": 2004,
+      "sede": "Estambul",
+      "artista": "Ramón del Castillo",
+      "cancion": "Para llenarme de ti",
+      "idioma": "Español",
+      "posicion": 10,
+      "puntos": 87
+    },
+    {
+      "anio": 2005,
+      "sede": "Kiev",
+      "artista": "Son de Sol",
+      "cancion": "Brujería",
+      "idioma": "Español",
+      "posicion": 21,
+      "puntos": 28
+    },
+    {
+      "anio": 2006,
+      "sede": "Atenas",
+      "artista": "Las Ketchup",
+      "cancion": "Un Blodymary",
+      "idioma": "Español",
+      "posicion": 21,
+      "puntos": 18
+    },
+    {
+      "anio": 2007,
+      "sede": "Helsinki",
+      "artista": "D'Nash",
+      "cancion": "I love you mi vida",
+      "idioma": "Español, inglés",
+      "posicion": 20,
+      "puntos": 43
+    },
+    {
+      "anio": 2008,
+      "sede": "Belgrado",
+      "artista": "Rodolfo Chikilicuatre",
+      "cancion": "Baila el Chiki-chiki",
+      "idioma": "Español, inglés",
+      "posicion": 16,
+      "puntos": 55
+    },
+    {
+      "anio": 2009,
+      "sede": "Moscú",
+      "artista": "Soraya Arnelas",
+      "cancion": "La noche es para mí",
+      "idioma": "Español, inglés",
+      "posicion": 24,
+      "puntos": 23
+    },
+    {
+      "anio": 2010,
+      "sede": "Oslo",
+      "artista": "Daniel Diges",
+      "cancion": "Algo pequeñito",
+      "idioma": "Español",
+      "posicion": 15,
+      "puntos": 68
+    },
+    {
+      "anio": 2011,
+      "sede": "Düsseldorf",
+      "artista": "Lucía Pérez",
+      "cancion": "Que me quiten lo bailao",
+      "idioma": "Español",
+      "posicion": 23,
+      "puntos": 50
+    },
+    {
+      "anio": 2012,
+      "sede": "Bakú",
+      "artista": "Pastora Soler",
+      "cancion": "Quédate conmigo",
+      "idioma": "Español",
+      "posicion": 10,
+      "puntos": 97
+    },
+    {
+      "anio": 2013,
+      "sede": "Malmö",
+      "artista": "El Sueño de Morfeo",
+      "cancion": "Contigo hasta el final",
+      "idioma": "Español",
+      "posicion": 25,
+      "puntos": 8
+    },
+    {
+      "anio": 2014,
+      "sede": "Copenhague",
+      "artista": "Ruth Lorenzo",
+      "cancion": "Dancing in the Rain",
+      "idioma": "Inglés, español",
+      "posicion": 10,
+      "puntos": 74
+    },
+    {
+      "anio": 2015,
+      "sede": "Viena",
+      "artista": "Edurne",
+      "cancion": "Amanecer",
+      "idioma": "Español",
+      "posicion": 21,
+      "puntos": 15
+    },
+    {
+      "anio": 2016,
+      "sede": "Estocolmo",
+      "artista": "Barei",
+      "cancion": "Say Yay!",
+      "idioma": "Inglés",
+      "posicion": 22,
+      "puntos": 77
+    },
+    {
+      "anio": 2017,
+      "sede": "Kiev",
+      "artista": "Manel Navarro",
+      "cancion": "Do It for Your Lover",
+      "idioma": "Español, inglés",
+      "posicion": 26,
+      "puntos": 5
+    },
+    {
+      "anio": 2018,
+      "sede": "Lisboa",
+      "artista": "Amaia Romero y Alfred García",
+      "cancion": "Tu canción",
+      "idioma": "Español",
+      "posicion": 23,
+      "puntos": 61
+    },
+    {
+      "anio": 2019,
+      "sede": "Tel Aviv",
+      "artista": "Miki Núñez",
+      "cancion": "La venda",
+      "idioma": "Español",
+      "posicion": 22,
+      "puntos": 54
+    },
+    {
+      "anio": 2020,
+      "sede": "Róterdam",
+      "artista": "Blas Cantó",
+      "cancion": "Universo",
+      "idioma": "Festival cancelado",
+      "posicion": "Festival cancelado",
+      "puntos": "Festival cancelado"
+    },
+    {
+      "anio": 2021,
+      "sede": "Róterdam",
+      "artista": "Blas Cantó",
+      "cancion": "Voy a quedarme",
+      "idioma": "Español",
+      "posicion": 24,
+      "puntos": 6
+    },
+    {
+      "anio": 2022,
+      "sede": "Turín",
+      "artista": "Chanel",
+      "cancion": "SloMo",
+      "idioma": "Español, inglés",
+      "posicion": 3,
+      "puntos": 459
+    },
+    {
+      "anio": 2023,
+      "sede": "Liverpool",
+      "artista": "Blanca Paloma",
+      "cancion": "Eaea",
+      "idioma": "Español",
+      "posicion": 17,
+      "puntos": 100
+    },
+    {
+      "anio": 2024,
+      "sede": "Malmö",
+      "artista": "Nebulossa",
+      "cancion": "Zorra",
+      "idioma": "Español",
+      "posicion": 22,
+      "puntos": 30
+    },
+    {
+      "anio": 2025,
+      "sede": "Basilea",
+      "artista": "Melody",
+      "cancion": "Esa diva",
+      "idioma": "Español",
+      "posicion": 24,
+      "puntos": 37
+    }
+  ],
+  "meta": {
+    "title": "España en el Festival de Eurovisión - Free Download",
+    "description": "Participaciones de España en el Festival de la Canción de Eurovisión desde 1961: año, sede, artista, canción, idioma, posición y puntos. Contains 65 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "España en el Festival de Eurovisión | ListBase",
+    "seo_description": "Download España en el Festival de Eurovisión — 65 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 65 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/España_en_el_Festival_de_la_Canción_de_Eurovisión"
+    ]
+  }
+}
