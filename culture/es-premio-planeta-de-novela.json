@@ -1,0 +1,576 @@
+{
+  "id": "es-premio-planeta-de-novela",
+  "name": "Premio Planeta de Novela — ganadores y finalistas",
+  "title": "Premio Planeta de Novela — ganadores y finalistas",
+  "description": "Ganadores y finalistas del Premio Planeta de Novela desde 1952, con el título de cada obra.",
+  "category": "culture",
+  "source": "https://es.wikipedia.org/wiki/Premio_Planeta_de_Novela",
+  "source_url": "https://es.wikipedia.org/wiki/Premio_Planeta_de_Novela",
+  "updated": "2026-11",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "anio",
+      "label": "Anio",
+      "type": "number"
+    },
+    {
+      "key": "ganador",
+      "label": "Ganador",
+      "type": "string"
+    },
+    {
+      "key": "obra_ganadora",
+      "label": "Obra Ganadora",
+      "type": "string"
+    },
+    {
+      "key": "finalista",
+      "label": "Finalista",
+      "type": "string"
+    },
+    {
+      "key": "obra_finalista",
+      "label": "Obra Finalista",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "anio": 1952,
+      "ganador": "Juan José Mira",
+      "obra_ganadora": "En la noche no hay caminos",
+      "finalista": "Severiano Fernández Nicolás",
+      "obra_finalista": "Tierra de promisión"
+    },
+    {
+      "anio": 1953,
+      "ganador": "Santiago Lorén",
+      "obra_ganadora": "Una casa con goteras",
+      "finalista": "Antonio Ortiz Muñoz",
+      "obra_finalista": "Otros son los caminos"
+    },
+    {
+      "anio": 1954,
+      "ganador": "Ana María Matute",
+      "obra_ganadora": "Pequeño teatro",
+      "finalista": "Ignacio Aldecoa",
+      "obra_finalista": "El fulgor y la sangre"
+    },
+    {
+      "anio": 1955,
+      "ganador": "Antonio Prieto",
+      "obra_ganadora": "Tres pisadas de hombre",
+      "finalista": "Mercedes Salisachs",
+      "obra_finalista": "Carretera intermedia"
+    },
+    {
+      "anio": 1956,
+      "ganador": "Carmen Kurtz",
+      "obra_ganadora": "El desconocido",
+      "finalista": "Raúl Grien",
+      "obra_finalista": "A fuego lento"
+    },
+    {
+      "anio": 1957,
+      "ganador": "Emilio Romero Gómez",
+      "obra_ganadora": "La paz empieza nunca",
+      "finalista": "Elisa Brufal",
+      "obra_finalista": "Siete puertas"
+    },
+    {
+      "anio": 1958,
+      "ganador": "Fernando Bermúdez de Castro y Rebellón",
+      "obra_ganadora": "Pasos sin huellas",
+      "finalista": "Julio Manegat",
+      "obra_finalista": "La ciudad amarilla"
+    },
+    {
+      "anio": 1959,
+      "ganador": "Andrés Bosch",
+      "obra_ganadora": "La noche",
+      "finalista": "José María Castillo",
+      "obra_finalista": "El grito de la paloma"
+    },
+    {
+      "anio": 1960,
+      "ganador": "Tomás Salvador",
+      "obra_ganadora": "El atentado",
+      "finalista": "Manuel San Martín",
+      "obra_finalista": "El borrador"
+    },
+    {
+      "anio": 1961,
+      "ganador": "Torcuato Luca de Tena",
+      "obra_ganadora": "La mujer de otro",
+      "finalista": "Sempronio (pseudónimo de Andreu-Avel·li Artis)",
+      "obra_finalista": "La oración del diablo"
+    },
+    {
+      "anio": 1962,
+      "ganador": "Ángel Vázquez Molina",
+      "obra_ganadora": "Se enciende y se apaga una luz",
+      "finalista": "Juan Antonio Usero",
+      "obra_finalista": "El pozo de los monos"
+    },
+    {
+      "anio": 1963,
+      "ganador": "Luis Romero",
+      "obra_ganadora": "El cacique",
+      "finalista": "Víctor Chamorro",
+      "obra_finalista": "El santo y el demonio"
+    },
+    {
+      "anio": 1964,
+      "ganador": "Concha Alós",
+      "obra_ganadora": "Las hogueras",
+      "finalista": "Vizarco (pseudónimo de Víctor Chamorro)",
+      "obra_finalista": "El adúltero y Dios"
+    },
+    {
+      "anio": 1965,
+      "ganador": "Rodrigo Rubio",
+      "obra_ganadora": "Equipaje de amor para la tierra",
+      "finalista": "Julio Manegat",
+      "obra_finalista": "Spanish Show"
+    },
+    {
+      "anio": 1966,
+      "ganador": "Marta Portal",
+      "obra_ganadora": "A tientas y a ciegas",
+      "finalista": "Santiago Moncada",
+      "obra_finalista": "El stress"
+    },
+    {
+      "anio": 1967,
+      "ganador": "Ángel María de Lera",
+      "obra_ganadora": "Las últimas banderas",
+      "finalista": "Eugenio Juan Zappietro",
+      "obra_finalista": "Tiempo de morir"
+    },
+    {
+      "anio": 1968,
+      "ganador": "Manuel Ferrand",
+      "obra_ganadora": "Con la noche a cuestas",
+      "finalista": "Pedro Entenza",
+      "obra_finalista": "No hay aceras"
+    },
+    {
+      "anio": 1969,
+      "ganador": "Ramón J. Sender",
+      "obra_ganadora": "En la vida de Ignacio Morel",
+      "finalista": "Manuel Scorza",
+      "obra_finalista": "Redoble por Rancas"
+    },
+    {
+      "anio": 1970,
+      "ganador": "Marcos Aguinis",
+      "obra_ganadora": "La cruz invertida",
+      "finalista": "Luis de Castresana",
+      "obra_finalista": "Retrato de una bruja"
+    },
+    {
+      "anio": 1971,
+      "ganador": "José María Gironella",
+      "obra_ganadora": "Condenados a vivir",
+      "finalista": "Ramiro Pinilla",
+      "obra_finalista": "Seno"
+    },
+    {
+      "anio": 1972,
+      "ganador": "Jesús Zárate",
+      "obra_ganadora": "La cárcel",
+      "finalista": "Hilda Perera",
+      "obra_finalista": "El sitio de nadie"
+    },
+    {
+      "anio": 1973,
+      "ganador": "Carlos Rojas",
+      "obra_ganadora": "Azaña",
+      "finalista": "Mercedes Salisachs",
+      "obra_finalista": "Adagio confidencial"
+    },
+    {
+      "anio": 1974,
+      "ganador": "Xavier Benguerel",
+      "obra_ganadora": "Icaria, Icaria...",
+      "finalista": "Pedro de Lorenzo",
+      "obra_finalista": "Gran café"
+    },
+    {
+      "anio": 1975,
+      "ganador": "Mercedes Salisachs",
+      "obra_ganadora": "La gangrena",
+      "finalista": "Víctor Alba",
+      "obra_finalista": "El pájaro africano"
+    },
+    {
+      "anio": 1976,
+      "ganador": "Jesús Torbado",
+      "obra_ganadora": "En el día de hoy",
+      "finalista": "Alfonso Grosso",
+      "obra_finalista": "La buena muerte"
+    },
+    {
+      "anio": 1977,
+      "ganador": "Jorge Semprún",
+      "obra_ganadora": "Autobiografía de Federico Sánchez",
+      "finalista": "Ángel Palomino",
+      "obra_finalista": "Divorcio para una virgen rota"
+    },
+    {
+      "anio": 1978,
+      "ganador": "Juan Marsé",
+      "obra_ganadora": "La muchacha de las bragas de oro",
+      "finalista": "Alfonso Grosso",
+      "obra_finalista": "Los invitados"
+    },
+    {
+      "anio": 1979,
+      "ganador": "Manuel Vázquez Montalbán",
+      "obra_ganadora": "Los mares del Sur",
+      "finalista": "Fernando Quiñones",
+      "obra_finalista": "Las mil noches de Hortensia Romero"
+    },
+    {
+      "anio": 1980,
+      "ganador": "Antonio Larreta",
+      "obra_ganadora": "Volavérunt",
+      "finalista": "Juan Benet",
+      "obra_finalista": "El aire de un crimen"
+    },
+    {
+      "anio": 1981,
+      "ganador": "Cristóbal Zaragoza",
+      "obra_ganadora": "Y Dios en la última playa",
+      "finalista": "José María del Val",
+      "obra_finalista": "Llegará tarde a Hendaya"
+    },
+    {
+      "anio": 1982,
+      "ganador": "Jesús Fernández Santos",
+      "obra_ganadora": "Jaque a la Dama",
+      "finalista": "Fernando Schwartz",
+      "obra_finalista": "La conspiración del Golfo"
+    },
+    {
+      "anio": 1983,
+      "ganador": "José Luis Olaizola",
+      "obra_ganadora": "La guerra del general Escobar",
+      "finalista": "Fernando Quiñones",
+      "obra_finalista": "La canción del pirata"
+    },
+    {
+      "anio": 1984,
+      "ganador": "Francisco González Ledesma",
+      "obra_ganadora": "Crónica sentimental en rojo",
+      "finalista": "Raúl Guerra Garrido",
+      "obra_finalista": "El año del wolfram"
+    },
+    {
+      "anio": 1985,
+      "ganador": "Juan Antonio Vallejo-Nágera",
+      "obra_ganadora": "Yo, el rey",
+      "finalista": "Francisco Umbral",
+      "obra_finalista": "Pío XII, la escolta mora y un general sin un ojo"
+    },
+    {
+      "anio": 1986,
+      "ganador": "Terenci Moix",
+      "obra_ganadora": "No digas que fue un sueño",
+      "finalista": "Pedro Casals",
+      "obra_finalista": "La jeringuilla"
+    },
+    {
+      "anio": 1987,
+      "ganador": "Juan Eslava Galán",
+      "obra_ganadora": "En busca del unicornio",
+      "finalista": "Fernando Fernán Gómez",
+      "obra_finalista": "El mal amor"
+    },
+    {
+      "anio": 1988,
+      "ganador": "Gonzalo Torrente Ballester",
+      "obra_ganadora": "Filomeno, a mi pesar",
+      "finalista": "Ricardo de la Cierva",
+      "obra_finalista": "El triángulo. Alumna de la libertad"
+    },
+    {
+      "anio": 1989,
+      "ganador": "Soledad Puértolas",
+      "obra_ganadora": "Queda la noche",
+      "finalista": "Pedro Casals",
+      "obra_finalista": "Las hogueras del rey"
+    },
+    {
+      "anio": 1990,
+      "ganador": "Antonio Gala",
+      "obra_ganadora": "El manuscrito carmesí",
+      "finalista": "Fernando Sánchez Dragó",
+      "obra_finalista": "El camino del corazón"
+    },
+    {
+      "anio": 1991,
+      "ganador": "Antonio Muñoz Molina",
+      "obra_ganadora": "El jinete polaco",
+      "finalista": "Néstor Luján",
+      "obra_finalista": "Los espejos paralelos"
+    },
+    {
+      "anio": 1992,
+      "ganador": "Fernando Sánchez Dragó",
+      "obra_ganadora": "La prueba del laberinto",
+      "finalista": "Eduardo Chamorro",
+      "obra_finalista": "La cruz de Santiago"
+    },
+    {
+      "anio": 1993,
+      "ganador": "Mario Vargas Llosa",
+      "obra_ganadora": "Lituma en los Andes",
+      "finalista": "Fernando Savater",
+      "obra_finalista": "El jardín de las dudas"
+    },
+    {
+      "anio": 1994,
+      "ganador": "Camilo José Cela",
+      "obra_ganadora": "La cruz de San Andrés",
+      "finalista": "Ángeles Caso",
+      "obra_finalista": "El peso de las sombras"
+    },
+    {
+      "anio": 1995,
+      "ganador": "Fernando Delgado",
+      "obra_ganadora": "La mirada del otro",
+      "finalista": "Lourdes Ortiz",
+      "obra_finalista": "La fuente de la vida"
+    },
+    {
+      "anio": 1996,
+      "ganador": "Fernando Schwartz",
+      "obra_ganadora": "El desencuentro",
+      "finalista": "Zoé Valdés",
+      "obra_finalista": "Te di la vida entera"
+    },
+    {
+      "anio": 1997,
+      "ganador": "Juan Manuel de Prada",
+      "obra_ganadora": "La tempestad",
+      "finalista": "Carmen Rigalt",
+      "obra_finalista": "Mi corazón que baila con espigas"
+    },
+    {
+      "anio": 1998,
+      "ganador": "Carmen Posadas",
+      "obra_ganadora": "Pequeñas infamias",
+      "finalista": "José María Mendiluce",
+      "obra_finalista": "Pura vida"
+    },
+    {
+      "anio": 1999,
+      "ganador": "Espido Freire",
+      "obra_ganadora": "Melocotones helados",
+      "finalista": "Nativel Preciado",
+      "obra_finalista": "El egoísta"
+    },
+    {
+      "anio": 2000,
+      "ganador": "Maruja Torres",
+      "obra_ganadora": "Mientras vivimos",
+      "finalista": "Salvador Compán",
+      "obra_finalista": "Cuaderno de viaje"
+    },
+    {
+      "anio": 2001,
+      "ganador": "Rosa Regàs",
+      "obra_ganadora": "La canción de Dorotea",
+      "finalista": "Marcela Serrano",
+      "obra_finalista": "Lo que está en mi corazón"
+    },
+    {
+      "anio": 2002,
+      "ganador": "Alfredo Bryce Echenique",
+      "obra_ganadora": "El huerto de mi amada",
+      "finalista": "Maria de la Pau Janer",
+      "obra_finalista": "Las mujeres que hay en mí"
+    },
+    {
+      "anio": 2003,
+      "ganador": "Antonio Skármeta",
+      "obra_ganadora": "El baile de la Victoria",
+      "finalista": "Susana Fortes",
+      "obra_finalista": "El amante albanés"
+    },
+    {
+      "anio": 2004,
+      "ganador": "Lucía Etxebarria",
+      "obra_ganadora": "Un milagro en equilibrio",
+      "finalista": "Ferran Torrent",
+      "obra_finalista": "La vida en el abismo"
+    },
+    {
+      "anio": 2005,
+      "ganador": "Maria de la Pau Janer",
+      "obra_ganadora": "Pasiones romanas",
+      "finalista": "Jaime Bayly",
+      "obra_finalista": "Y de repente, un ángel"
+    },
+    {
+      "anio": 2006,
+      "ganador": "Álvaro Pombo",
+      "obra_ganadora": "La fortuna de Matilda Turpin",
+      "finalista": "Marta Rivera de la Cruz",
+      "obra_finalista": "En tiempo de prodigios"
+    },
+    {
+      "anio": 2007,
+      "ganador": "Juan José Millás",
+      "obra_ganadora": "El mundo",
+      "finalista": "Boris Izaguirre",
+      "obra_finalista": "Villa Diamante"
+    },
+    {
+      "anio": 2008,
+      "ganador": "Fernando Savater",
+      "obra_ganadora": "La Hermandad de la Buena Suerte",
+      "finalista": "Ángela Vallvey",
+      "obra_finalista": "Muerte entre poetas"
+    },
+    {
+      "anio": 2009,
+      "ganador": "Ángeles Caso",
+      "obra_ganadora": "Contra el viento",
+      "finalista": "Emilio Calderón",
+      "obra_finalista": "La bailarina y el inglés"
+    },
+    {
+      "anio": 2010,
+      "ganador": "Eduardo Mendoza",
+      "obra_ganadora": "Riña de gatos. Madrid 1936",
+      "finalista": "Carmen Amoraga",
+      "obra_finalista": "El tiempo mientras tanto"
+    },
+    {
+      "anio": 2011,
+      "ganador": "Javier Moro",
+      "obra_ganadora": "El imperio eres tú",
+      "finalista": "Inma Chacón",
+      "obra_finalista": "Tiempo de arena"
+    },
+    {
+      "anio": 2012,
+      "ganador": "Lorenzo Silva",
+      "obra_ganadora": "La marca del meridiano",
+      "finalista": "Mara Torres",
+      "obra_finalista": "La vida imaginaria"
+    },
+    {
+      "anio": 2013,
+      "ganador": "Clara Sánchez",
+      "obra_ganadora": "El cielo ha vuelto",
+      "finalista": "Ángeles González-Sinde",
+      "obra_finalista": "El buen hijo"
+    },
+    {
+      "anio": 2014,
+      "ganador": "Jorge Zepeda Patterson",
+      "obra_ganadora": "Milena o el fémur más bello del mundo",
+      "finalista": "Pilar Eyre",
+      "obra_finalista": "Mi color favorito es verte"
+    },
+    {
+      "anio": 2015,
+      "ganador": "Alicia Giménez Bartlett",
+      "obra_ganadora": "Hombres desnudos",
+      "finalista": "Daniel Sánchez Arévalo",
+      "obra_finalista": "La isla de Alice"
+    },
+    {
+      "anio": 2016,
+      "ganador": "Dolores Redondo",
+      "obra_ganadora": "Todo esto te daré",
+      "finalista": "Marcos Chicot",
+      "obra_finalista": "El asesinato de Sócrates"
+    },
+    {
+      "anio": 2017,
+      "ganador": "Javier Sierra",
+      "obra_ganadora": "El fuego invisible",
+      "finalista": "Cristina López Barrio",
+      "obra_finalista": "Niebla en Tánger"
+    },
+    {
+      "anio": 2018,
+      "ganador": "Santiago Posteguillo",
+      "obra_ganadora": "Yo, Julia",
+      "finalista": "Ayanta Barilli",
+      "obra_finalista": "Un mar violeta oscuro"
+    },
+    {
+      "anio": 2019,
+      "ganador": "Javier Cercas",
+      "obra_ganadora": "Terra Alta",
+      "finalista": "Manuel Vilas",
+      "obra_finalista": "Alegría"
+    },
+    {
+      "anio": 2020,
+      "ganador": "Eva García Sáenz de Urturi",
+      "obra_ganadora": "Aquitania",
+      "finalista": "Sandra Barneda",
+      "obra_finalista": "Un océano para llegar a ti"
+    },
+    {
+      "anio": 2021,
+      "ganador": "Carmen Mola (pseudónimo colectivo de Jorge Díaz, Agustín Martínez y Antonio Mercero Santos)",
+      "obra_ganadora": "La Bestia",
+      "finalista": "Paloma Sánchez-Garnica",
+      "obra_finalista": "Últimos días en Berlín"
+    },
+    {
+      "anio": 2022,
+      "ganador": "Luz Gabás",
+      "obra_ganadora": "Lejos de Luisiana",
+      "finalista": "Cristina Campos",
+      "obra_finalista": "Historias de mujeres casadas"
+    },
+    {
+      "anio": 2023,
+      "ganador": "Sonsoles Ónega",
+      "obra_ganadora": "Las hijas de la criada",
+      "finalista": "Alfonso Goizueta",
+      "obra_finalista": "La sangre del padre"
+    },
+    {
+      "anio": 2024,
+      "ganador": "Paloma Sánchez-Garnica",
+      "obra_ganadora": "Victoria",
+      "finalista": "Beatriz Serrano",
+      "obra_finalista": "Fuego en la garganta"
+    },
+    {
+      "anio": 2025,
+      "ganador": "Juan del Val",
+      "obra_ganadora": "Vera, una historia de amor",
+      "finalista": "Ángela Banzas",
+      "obra_finalista": "Cuando el viento hable"
+    },
+    {
+      "anio": 2026,
+      "ganador": "Isabel Allende",
+      "obra_ganadora": "La hora antes del Alba",
+      "finalista": "Sergio Hernández Carrasco",
+      "obra_finalista": "La Añoranza"
+    }
+  ],
+  "meta": {
+    "title": "Premio Planeta de Novela — ganadores y finalistas - Free Download",
+    "description": "Ganadores y finalistas del Premio Planeta de Novela desde 1952, con el título de cada obra. Contains 75 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Premio Planeta de Novela — ganadores y finalistas | ListBase",
+    "seo_description": "Download Premio Planeta de Novela — ganadores y finalistas — 75 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 75 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Premio_Planeta_de_Novela"
+    ]
+  }
+}
