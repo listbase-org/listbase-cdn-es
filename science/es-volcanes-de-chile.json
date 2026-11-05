@@ -1,0 +1,1420 @@
+{
+  "id": "es-volcanes-de-chile",
+  "name": "Volcanes de Chile",
+  "title": "Volcanes de Chile",
+  "description": "Volcanes de Chile por zona volcánica, con altitud, tipo de volcán, coordenadas y última erupción conocida.",
+  "category": "science",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Volcanes_de_Chile",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Volcanes_de_Chile",
+  "updated": "2026-11",
+  "record_count": 151,
+  "columns": [
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "zona",
+      "label": "Zona",
+      "type": "string"
+    },
+    {
+      "key": "altitud_msnm",
+      "label": "Altitud Msnm",
+      "type": "number"
+    },
+    {
+      "key": "clasificacion",
+      "label": "Clasificacion",
+      "type": "string"
+    },
+    {
+      "key": "latitud",
+      "label": "Latitud",
+      "type": "number"
+    },
+    {
+      "key": "longitud",
+      "label": "Longitud",
+      "type": "number"
+    },
+    {
+      "key": "ultima_erupcion",
+      "label": "Ultima Erupcion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nombre": "Acamarachi",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6046,
+      "clasificacion": "Estratovolcán",
+      "latitud": -23.3,
+      "longitud": -67.61667,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Acotango",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6052,
+      "clasificacion": "Estratovolcán",
+      "latitud": -18.383,
+      "longitud": -69.05,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Aguas Calientes",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5924,
+      "clasificacion": "Estratovolcán",
+      "latitud": -23.367,
+      "longitud": -67.683,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Arintica",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5597,
+      "clasificacion": "Estratovolcán",
+      "latitud": -18.383,
+      "longitud": -69.05,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Ata",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6501,
+      "clasificacion": "Estratovolcán",
+      "latitud": -27.18194,
+      "longitud": -68.57611,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Aucanquilcha",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6176,
+      "clasificacion": "Estratovolcán",
+      "latitud": -21.217,
+      "longitud": -68.467,
+      "ultima_erupcion": "~170 000 años atrás"
+    },
+    {
+      "nombre": "Azufre",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5463,
+      "clasificacion": "Complejo",
+      "latitud": -25.33333,
+      "longitud": -68.51667,
+      "ultima_erupcion": "Pleistoceno"
+    },
+    {
+      "nombre": "Bayo",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5401,
+      "clasificacion": "Estratovolcán",
+      "latitud": -25.41667,
+      "longitud": -68.58333,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Caichinque",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 4450,
+      "clasificacion": "Estratovolcán",
+      "latitud": -23.95,
+      "longitud": -67.73333,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Cariquima",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5350,
+      "clasificacion": "Estratovolcán",
+      "latitud": -19.54528,
+      "longitud": -68.67278,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Capurata",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5990,
+      "clasificacion": "Estratovolcán",
+      "latitud": -18.415,
+      "longitud": -69.04583,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Cerro del azufre",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5846,
+      "clasificacion": "Estratovolcán",
+      "latitud": -21.78306,
+      "longitud": -68.23972,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Chiliques",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5778,
+      "clasificacion": "Estratovolcán",
+      "latitud": -23.58333,
+      "longitud": -67.7,
+      "ultima_erupcion": "2003"
+    },
+    {
+      "nombre": "Colachi",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5631,
+      "clasificacion": "Estratovolcán",
+      "latitud": -23.24194,
+      "longitud": -67.64611,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Colorados",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6000,
+      "clasificacion": "Estratovolcán",
+      "latitud": -26.167,
+      "longitud": -68.367,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Copiapó",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6052,
+      "clasificacion": "Estratovolcán",
+      "latitud": -27.3,
+      "longitud": -69.133,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Doña Inés",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5092,
+      "clasificacion": "Estratovolcán",
+      "latitud": -26.07972,
+      "longitud": -69.18444,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "El Ermitaño",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6145,
+      "clasificacion": "Estratovolcán",
+      "latitud": -26.78694,
+      "longitud": -68.60333,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "El Escorial",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5451,
+      "clasificacion": "Estratovolcán",
+      "latitud": -25.083,
+      "longitud": -68.367,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "El Fraile",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6040,
+      "clasificacion": "Domo de lava",
+      "latitud": -27.04861,
+      "longitud": -68.37944,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "El Muerto",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6488,
+      "clasificacion": "Estratovolcán",
+      "latitud": -27.0575,
+      "longitud": -68.48389,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "El Chascón",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5703,
+      "clasificacion": "Domo de lava",
+      "latitud": -23,
+      "longitud": -67.683,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Falso Azufre",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5890,
+      "clasificacion": "Estratovolcán",
+      "latitud": -26.8,
+      "longitud": -68.367,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Guallatiri",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6071,
+      "clasificacion": "Estratovolcán",
+      "latitud": -18.41667,
+      "longitud": -69.08333,
+      "ultima_erupcion": "1985"
+    },
+    {
+      "nombre": "Incahuasi",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6638,
+      "clasificacion": "Estratovolcán",
+      "latitud": -27.033,
+      "longitud": -68.3,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Irruputuncu",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5163,
+      "clasificacion": "Estratovolcán",
+      "latitud": -20.733,
+      "longitud": -68.55,
+      "ultima_erupcion": "1995"
+    },
+    {
+      "nombre": "Isluga",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5501,
+      "clasificacion": "Estratovolcán",
+      "latitud": -19.15833,
+      "longitud": -68.825,
+      "ultima_erupcion": "1913"
+    },
+    {
+      "nombre": "Juriques",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5704,
+      "clasificacion": "Estratovolcán",
+      "latitud": -22.84528,
+      "longitud": -67.82472,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Laguna Verde",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5464,
+      "clasificacion": "Estratovolcán",
+      "latitud": -23.25389,
+      "longitud": -67.71278,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Láscar",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5154,
+      "clasificacion": "Estratovolcán",
+      "latitud": -23.367,
+      "longitud": -67.733,
+      "ultima_erupcion": "1993"
+    },
+    {
+      "nombre": "Lastarria",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5697,
+      "clasificacion": "Estratovolcán",
+      "latitud": -25.167,
+      "longitud": -68.5,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "León",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5760,
+      "clasificacion": "Estratovolcán",
+      "latitud": -22.15,
+      "longitud": -68.11667,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Licancabur",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5920,
+      "clasificacion": "Estratovolcán",
+      "latitud": -22.833,
+      "longitud": -67.883,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Linzor",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5680,
+      "clasificacion": "Estratovolcán",
+      "latitud": -22.15,
+      "longitud": -67.96667,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Los Patos",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6239,
+      "clasificacion": "Estratovolcán",
+      "latitud": -27.30111,
+      "longitud": -68.80889,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Llullaillaco",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6739,
+      "clasificacion": "Estratovolcán",
+      "latitud": -24.72972,
+      "longitud": -68.54583,
+      "ultima_erupcion": "1877"
+    },
+    {
+      "nombre": "Medusa",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6120,
+      "clasificacion": "Estratovolcán",
+      "latitud": -27.127278,
+      "longitud": -68.482833,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Miñiques",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5910,
+      "clasificacion": "Estratovolcán",
+      "latitud": -23.81667,
+      "longitud": -67.76667,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Miño",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5631,
+      "clasificacion": "Estratovolcán",
+      "latitud": -21.18333,
+      "longitud": -68.6,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Miscanti",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5622,
+      "clasificacion": "Estratovolcán",
+      "latitud": -23.68333,
+      "longitud": -67.71667,
+      "ultima_erupcion": "Pleistoceno"
+    },
+    {
+      "nombre": "Ojos del Salado",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": "6891,3",
+      "clasificacion": "Estratovolcán",
+      "latitud": -27.10944,
+      "longitud": -68.54222,
+      "ultima_erupcion": "1300 años atrás"
+    },
+    {
+      "nombre": "Ollagüe",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5870,
+      "clasificacion": "Estratovolcán",
+      "latitud": -21.3,
+      "longitud": -68.16667,
+      "ultima_erupcion": "Posible erupción en 1894"
+    },
+    {
+      "nombre": "Olca",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5407,
+      "clasificacion": "Estratovolcán",
+      "latitud": -20.93333,
+      "longitud": -68.48333,
+      "ultima_erupcion": "1867"
+    },
+    {
+      "nombre": "Overo",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 4555,
+      "clasificacion": "Maar",
+      "latitud": -23.51667,
+      "longitud": -67.66667,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Pacana",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5200,
+      "clasificacion": "Caldera",
+      "latitud": -23.167,
+      "longitud": -67.417,
+      "ultima_erupcion": "Mioceno"
+    },
+    {
+      "nombre": "Palpana",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6023,
+      "clasificacion": "Estratovolcán",
+      "latitud": -21.54694,
+      "longitud": -68.52417,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Paniri",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5960,
+      "clasificacion": "Estratovolcán",
+      "latitud": -22.05,
+      "longitud": -68.233,
+      "ultima_erupcion": "1901"
+    },
+    {
+      "nombre": "Parinacota",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6348,
+      "clasificacion": "Estratovolcán",
+      "latitud": -18.16583,
+      "longitud": -69.14167,
+      "ultima_erupcion": "290 a. C."
+    },
+    {
+      "nombre": "Paruma",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5420,
+      "clasificacion": "Estratovolcán",
+      "latitud": -20.93333,
+      "longitud": -68.48333,
+      "ultima_erupcion": "1865"
+    },
+    {
+      "nombre": "Peña Blanca",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6030,
+      "clasificacion": "Estratovolcán",
+      "latitud": -26.82556,
+      "longitud": -68.64944,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Pomerape",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6282,
+      "clasificacion": "Estratovolcán",
+      "latitud": -18.12639,
+      "longitud": -69.12667,
+      "ultima_erupcion": "290 a. C."
+    },
+    {
+      "nombre": "Pular",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6233,
+      "clasificacion": "Estratovolcán",
+      "latitud": -24.195,
+      "longitud": -68.05861,
+      "ultima_erupcion": "1990"
+    },
+    {
+      "nombre": "Puntas Negras",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5852,
+      "clasificacion": "Complejo",
+      "latitud": -23.74278,
+      "longitud": -67.53417,
+      "ultima_erupcion": "Pleistoceno"
+    },
+    {
+      "nombre": "Puquintica",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5407,
+      "clasificacion": "Estratovolcán",
+      "latitud": -18.73333,
+      "longitud": -68.98333,
+      "ultima_erupcion": "Pleistoceno"
+    },
+    {
+      "nombre": "Purico",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5703,
+      "clasificacion": "Complejo",
+      "latitud": -23,
+      "longitud": -67.75,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Putana",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5890,
+      "clasificacion": "Estratovolcán",
+      "latitud": -22.55,
+      "longitud": -67.85,
+      "ultima_erupcion": "1810 + 10 años"
+    },
+    {
+      "nombre": "Sairecabur",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5971,
+      "clasificacion": "Complejo",
+      "latitud": -22.71667,
+      "longitud": -67.89167,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Salín",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6029,
+      "clasificacion": "Estratovolcán",
+      "latitud": -24.33167,
+      "longitud": -68.06389,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "San Francisco",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6018,
+      "clasificacion": "Estratovolcán",
+      "latitud": -26.91833,
+      "longitud": -68.26306,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "San Pablo",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6092,
+      "clasificacion": "Estratovolcán",
+      "latitud": -21.88667,
+      "longitud": -68.34472,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "San Pedro",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6145,
+      "clasificacion": "Estratovolcán",
+      "latitud": -21.89083,
+      "longitud": -68.39333,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Sierra Nevada de Lagunas Bravas",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6173,
+      "clasificacion": "Complejo",
+      "latitud": -26.49333,
+      "longitud": -68.58611,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Sillajhuay",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5982,
+      "clasificacion": "Estratovolcán",
+      "latitud": -19.75,
+      "longitud": -68.7,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Socompa",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6051,
+      "clasificacion": "Estratovolcán",
+      "latitud": -24.39333,
+      "longitud": -68.25611,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Solo",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6205,
+      "clasificacion": "Estratovolcán",
+      "latitud": -27.10833,
+      "longitud": -68.71667,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Taapacá",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5860,
+      "clasificacion": "Complejo",
+      "latitud": -18.1,
+      "longitud": -69.5,
+      "ultima_erupcion": "320"
+    },
+    {
+      "nombre": "Tacora",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5980,
+      "clasificacion": "Estratovolcán",
+      "latitud": -17.71722,
+      "longitud": -69.77806,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Tilocálar",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 3116,
+      "clasificacion": "Estratovolcán",
+      "latitud": -23.97806,
+      "longitud": -68.12806,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Toco",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5640,
+      "clasificacion": "Estratovolcán",
+      "latitud": -22.9525,
+      "longitud": -67.77333,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Toconce",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5335,
+      "clasificacion": "Estratovolcán",
+      "latitud": -22.19389,
+      "longitud": -68.07361,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Tocorpuri",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5808,
+      "clasificacion": "Complejo",
+      "latitud": -22.43889,
+      "longitud": -67.8875,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Tres Cruces Sur",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6754,
+      "clasificacion": "Estratovolcán",
+      "latitud": -27.09806,
+      "longitud": -68.77806,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Tres Cruces Central",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6629,
+      "clasificacion": "Estratovolcán",
+      "latitud": -27.06861,
+      "longitud": -68.78639,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Vicuñas",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 6067,
+      "clasificacion": "Estratovolcán",
+      "latitud": -27.02139,
+      "longitud": -68.61889,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Zapaleri",
+      "zona": "Zona volcánica central (ZVC)",
+      "altitud_msnm": 5619,
+      "clasificacion": "Estratovolcán",
+      "latitud": -22.81417,
+      "longitud": -67.18028,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Antillanca",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 1990,
+      "clasificacion": "Complejo",
+      "latitud": -40.77472,
+      "longitud": -72.15639,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Antuco",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2985,
+      "clasificacion": "Estratovolcán",
+      "latitud": -37.417,
+      "longitud": -71.35,
+      "ultima_erupcion": "1869"
+    },
+    {
+      "nombre": "Apagado",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 1210,
+      "clasificacion": "Cono piroclástico",
+      "latitud": -41.883,
+      "longitud": -72.583,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Azufre (Maule)",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 4112,
+      "clasificacion": "Estratovolcán",
+      "latitud": -35.27278,
+      "longitud": -70.58167,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Arenales",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 3437,
+      "clasificacion": "Estratovolcán",
+      "latitud": -47.2,
+      "longitud": -73.483,
+      "ultima_erupcion": "1979"
+    },
+    {
+      "nombre": "Azul-Quizapú",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 3788,
+      "clasificacion": "Estratovolcán",
+      "latitud": -35.65333,
+      "longitud": -70.76083,
+      "ultima_erupcion": "1967"
+    },
+    {
+      "nombre": "Batea Mahuida",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 1948,
+      "clasificacion": "Estratovolcán",
+      "latitud": -38.81889,
+      "longitud": -71.19278,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Caburgua-Huelemolle",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 1496,
+      "clasificacion": "Cono de escoria",
+      "latitud": -39.25,
+      "longitud": -71.7,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Calabozos",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 3503,
+      "clasificacion": "Caldera",
+      "latitud": -35.5,
+      "longitud": -70.5,
+      "ultima_erupcion": "Hace 150 000 años"
+    },
+    {
+      "nombre": "Calbuco",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2015,
+      "clasificacion": "Estratovolcán",
+      "latitud": -41.333,
+      "longitud": -72.617,
+      "ultima_erupcion": "2015"
+    },
+    {
+      "nombre": "Callaqui",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 3164,
+      "clasificacion": "Estratovolcán",
+      "latitud": -37.917,
+      "longitud": -71.45,
+      "ultima_erupcion": "1980"
+    },
+    {
+      "nombre": "Carrán-Los Venados",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 1114,
+      "clasificacion": "Complejo",
+      "latitud": -40.30806,
+      "longitud": -72.07,
+      "ultima_erupcion": "1974"
+    },
+    {
+      "nombre": "Casablanca",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2240,
+      "clasificacion": "Estratovolcán",
+      "latitud": -40.77139,
+      "longitud": -72,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Cay",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2090,
+      "clasificacion": "Estratovolcán",
+      "latitud": -45.0625,
+      "longitud": -72.98583,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Chaitén",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 962,
+      "clasificacion": "Domo de lava y caldera",
+      "latitud": -42.833,
+      "longitud": -72.65,
+      "ultima_erupcion": "2008-2009"
+    },
+    {
+      "nombre": "Copahue",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2997,
+      "clasificacion": "Estratovolcán",
+      "latitud": -37.85,
+      "longitud": -71.167,
+      "ultima_erupcion": "2012-2014"
+    },
+    {
+      "nombre": "Corcovado",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2300,
+      "clasificacion": "Estratovolcán",
+      "latitud": -43.183,
+      "longitud": -72.783,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Cordón Caulle",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2240,
+      "clasificacion": "Fisura",
+      "latitud": -40.583,
+      "longitud": -72.083,
+      "ultima_erupcion": "2011"
+    },
+    {
+      "nombre": "Cuernos del Diablo",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 1862,
+      "clasificacion": "Estratovolcán",
+      "latitud": -41.36472,
+      "longitud": -72.00583,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Descabezado Chico",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 3546,
+      "clasificacion": "Estratovolcán",
+      "latitud": -35.515,
+      "longitud": -70.6175,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Descabezado Grande",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 3830,
+      "clasificacion": "Estratovolcán",
+      "latitud": -35.85,
+      "longitud": -71.167,
+      "ultima_erupcion": "1932-1933"
+    },
+    {
+      "nombre": "Diamante",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 5323,
+      "clasificacion": "Caldera",
+      "latitud": -34.16056,
+      "longitud": -69.83278,
+      "ultima_erupcion": "Hace 500 000 años"
+    },
+    {
+      "nombre": "Hornopirén",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 1572,
+      "clasificacion": "Estratovolcán",
+      "latitud": -41.883,
+      "longitud": -72.433,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Huanquihue",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2139,
+      "clasificacion": "Complejo",
+      "latitud": -39.88333,
+      "longitud": -71.58333,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Hudson",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 1950,
+      "clasificacion": "Estratovolcán",
+      "latitud": -45.9,
+      "longitud": -72.967,
+      "ultima_erupcion": "2011"
+    },
+    {
+      "nombre": "Huequi",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 1318,
+      "clasificacion": "Estratovolcán",
+      "latitud": -42.367,
+      "longitud": -72.567,
+      "ultima_erupcion": "1920"
+    },
+    {
+      "nombre": "Lanín",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 3776,
+      "clasificacion": "Estratovolcán",
+      "latitud": -39.633,
+      "longitud": -71.5,
+      "ultima_erupcion": "Hace 1400 años"
+    },
+    {
+      "nombre": "Llaima",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 3125,
+      "clasificacion": "Estratovolcán",
+      "latitud": -38.7,
+      "longitud": -71.733,
+      "ultima_erupcion": "2008-2009"
+    },
+    {
+      "nombre": "Lomas Blancas",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2268,
+      "clasificacion": "Estratovolcán",
+      "latitud": -36.28861,
+      "longitud": -71.00944,
+      "ultima_erupcion": "Desconocido"
+    },
+    {
+      "nombre": "Longaví",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 3242,
+      "clasificacion": "Estratovolcán",
+      "latitud": -36.19306,
+      "longitud": -71.16083,
+      "ultima_erupcion": "4890 a. C. ± 75"
+    },
+    {
+      "nombre": "Lonquimay",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2865,
+      "clasificacion": "Estratovolcán",
+      "latitud": -38.383,
+      "longitud": -71.583,
+      "ultima_erupcion": "1988-1990"
+    },
+    {
+      "nombre": "Macá",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2960,
+      "clasificacion": "Estratovolcán",
+      "latitud": -45.10583,
+      "longitud": -73.16917,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Maipo",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 5264,
+      "clasificacion": "Estratovolcán",
+      "latitud": -34.161,
+      "longitud": -69.833,
+      "ultima_erupcion": "1912"
+    },
+    {
+      "nombre": "Maule",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 3092,
+      "clasificacion": "Caldera",
+      "latitud": -36.01667,
+      "longitud": -70.58333,
+      "ultima_erupcion": "Hace 3000 años"
+    },
+    {
+      "nombre": "Marmolejo",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 6108,
+      "clasificacion": "Caldera - Estratovolcán",
+      "latitud": -33.786417,
+      "longitud": -69.898667,
+      "ultima_erupcion": "Pleistoceno"
+    },
+    {
+      "nombre": "Mate Grande",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 1280,
+      "clasificacion": "Complejo",
+      "latitud": -45.59111,
+      "longitud": -73.13083,
+      "ultima_erupcion": "Desconocido"
+    },
+    {
+      "nombre": "Melimoyu",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2400,
+      "clasificacion": "Estratovolcán",
+      "latitud": -44.067,
+      "longitud": -72.85,
+      "ultima_erupcion": "200 d. C."
+    },
+    {
+      "nombre": "Mentolat",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 1660,
+      "clasificacion": "Estratovolcán",
+      "latitud": -44.69667,
+      "longitud": -73.07583,
+      "ultima_erupcion": "1710 + 10 años"
+    },
+    {
+      "nombre": "Michinmahuida",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2404,
+      "clasificacion": "Estratovolcán",
+      "latitud": -42.79917,
+      "longitud": -72.44583,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Mocho-Choshuenco",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2422,
+      "clasificacion": "Estratovolcán",
+      "latitud": -39.90972,
+      "longitud": -72.0375,
+      "ultima_erupcion": "1864"
+    },
+    {
+      "nombre": "Nevados de Chillán",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 3122,
+      "clasificacion": "Complejo",
+      "latitud": -36.867,
+      "longitud": -71.367,
+      "ultima_erupcion": "2016"
+    },
+    {
+      "nombre": "Osorno",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2652,
+      "clasificacion": "Estratovolcán",
+      "latitud": -41.1,
+      "longitud": -72.49306,
+      "ultima_erupcion": "1835"
+    },
+    {
+      "nombre": "Palomo",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 4850,
+      "clasificacion": "Estratovolcán",
+      "latitud": -34.60778,
+      "longitud": -70.295,
+      "ultima_erupcion": "Hace ~1300 años"
+    },
+    {
+      "nombre": "Pantojo",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2024,
+      "clasificacion": "Estratovolcán",
+      "latitud": -40.76667,
+      "longitud": -71.95,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Peteroa",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 4084,
+      "clasificacion": "Estratovolcán",
+      "latitud": -35.233,
+      "longitud": -70.567,
+      "ultima_erupcion": "1998"
+    },
+    {
+      "nombre": "Planchón",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 3977,
+      "clasificacion": "Estratovolcán",
+      "latitud": -35.24444,
+      "longitud": -70.57417,
+      "ultima_erupcion": "2010"
+    },
+    {
+      "nombre": "Puntiagudo",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2498,
+      "clasificacion": "Estratovolcán",
+      "latitud": -40.967,
+      "longitud": -72.267,
+      "ultima_erupcion": "1930"
+    },
+    {
+      "nombre": "Puyehue",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2240,
+      "clasificacion": "Complejo",
+      "latitud": -40.583,
+      "longitud": -72.083,
+      "ultima_erupcion": "2011-2012"
+    },
+    {
+      "nombre": "Quetrupillán",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2360,
+      "clasificacion": "Caldera",
+      "latitud": -39.49639,
+      "longitud": -71.72306,
+      "ultima_erupcion": "1872"
+    },
+    {
+      "nombre": "Resago",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 1890,
+      "clasificacion": "Cono de cenizas",
+      "latitud": -36.45806,
+      "longitud": -70.90389,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "San Pedro-Pellado",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 3129,
+      "clasificacion": "Complejo",
+      "latitud": -35.99417,
+      "longitud": -70.85139,
+      "ultima_erupcion": "Plioceno"
+    },
+    {
+      "nombre": "San José",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 5856,
+      "clasificacion": "Estratovolcán",
+      "latitud": -33.786417,
+      "longitud": -69.898667,
+      "ultima_erupcion": "1932-1933"
+    },
+    {
+      "nombre": "Sierra Nevada",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2554,
+      "clasificacion": "Estratovolcán",
+      "latitud": -38.583,
+      "longitud": -71.583,
+      "ultima_erupcion": "Pleistoceno"
+    },
+    {
+      "nombre": "Sierra Velluda",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 3585,
+      "clasificacion": "Estratovolcán",
+      "latitud": -37.46667,
+      "longitud": -71.43333,
+      "ultima_erupcion": "Pleistoceno"
+    },
+    {
+      "nombre": "Sollipulli",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2282,
+      "clasificacion": "Caldera",
+      "latitud": -38.96667,
+      "longitud": -71.51667,
+      "ultima_erupcion": "1240"
+    },
+    {
+      "nombre": "Tinguiririca",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 4260,
+      "clasificacion": "Estratovolcán",
+      "latitud": -34.8,
+      "longitud": -70.333,
+      "ultima_erupcion": "1917"
+    },
+    {
+      "nombre": "Tolhuaca",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2806,
+      "clasificacion": "Estratovolcán",
+      "latitud": -38.31,
+      "longitud": -71.645,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Tronador",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 3554,
+      "clasificacion": "Estratovolcán",
+      "latitud": -41.16083,
+      "longitud": -71.8875,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Tupungatito",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 5913,
+      "clasificacion": "Cono piroclástico - Estratovolcán",
+      "latitud": -33.38528,
+      "longitud": -69.83917,
+      "ultima_erupcion": "1959-1960"
+    },
+    {
+      "nombre": "Tupungato",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 6550,
+      "clasificacion": "Estratovolcán",
+      "latitud": -33.35583,
+      "longitud": -69.76944,
+      "ultima_erupcion": "Hace 1400 años"
+    },
+    {
+      "nombre": "Villarrica",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2847,
+      "clasificacion": "Estratovolcán",
+      "latitud": -39.41861,
+      "longitud": -71.93917,
+      "ultima_erupcion": "2015"
+    },
+    {
+      "nombre": "Yanteles",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2960,
+      "clasificacion": "Estratovolcán",
+      "latitud": -43.5,
+      "longitud": -72.8,
+      "ultima_erupcion": "6650 a. C."
+    },
+    {
+      "nombre": "Yates",
+      "zona": "Zona volcánica sur (ZVS)",
+      "altitud_msnm": 2187,
+      "clasificacion": "Estratovolcán",
+      "latitud": -41.75472,
+      "longitud": -72.39639,
+      "ultima_erupcion": "Pleistoceno"
+    },
+    {
+      "nombre": "Aguilera",
+      "zona": "Zona volcánica austral (ZVA)",
+      "altitud_msnm": 2546,
+      "clasificacion": "Estratovolcán",
+      "latitud": -50.333,
+      "longitud": -73.75,
+      "ultima_erupcion": "1250 a. C. ± 150 años"
+    },
+    {
+      "nombre": "Burney",
+      "zona": "Zona volcánica austral (ZVA)",
+      "altitud_msnm": 1520,
+      "clasificacion": "Estratovolcán",
+      "latitud": -52.333,
+      "longitud": -73.4,
+      "ultima_erupcion": "1910"
+    },
+    {
+      "nombre": "Fueguino",
+      "zona": "Zona volcánica austral (ZVA)",
+      "altitud_msnm": 150,
+      "clasificacion": "Complejo",
+      "latitud": -54.95,
+      "longitud": -70.25,
+      "ultima_erupcion": "1820"
+    },
+    {
+      "nombre": "Lautaro",
+      "zona": "Zona volcánica austral (ZVA)",
+      "altitud_msnm": 3623,
+      "clasificacion": "Estratovolcán",
+      "latitud": -49.017,
+      "longitud": -73.5,
+      "ultima_erupcion": "1979"
+    },
+    {
+      "nombre": "Reclus",
+      "zona": "Zona volcánica austral (ZVA)",
+      "altitud_msnm": 1000,
+      "clasificacion": "Cono de escoria - Estratovolcán",
+      "latitud": -50.967,
+      "longitud": -73.583,
+      "ultima_erupcion": "1908"
+    },
+    {
+      "nombre": "Sangra",
+      "zona": "Zona volcánica austral (ZVA)",
+      "altitud_msnm": 2200,
+      "clasificacion": "Estratovolcán",
+      "latitud": -48.36667,
+      "longitud": -72.35,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Viedma",
+      "zona": "Zona volcánica austral (ZVA)",
+      "altitud_msnm": 1550,
+      "clasificacion": "Cerro",
+      "latitud": -49.35833,
+      "longitud": -73.28333,
+      "ultima_erupcion": "-"
+    },
+    {
+      "nombre": "Cayutué-La Viguería",
+      "zona": "Otros volcanes",
+      "altitud_msnm": 506,
+      "clasificacion": "Campo volcánico",
+      "latitud": -41.25,
+      "longitud": -72.267,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Pali-Aike",
+      "zona": "Otros volcanes",
+      "altitud_msnm": 281,
+      "clasificacion": "Campo volcánico",
+      "latitud": -52,
+      "longitud": -70,
+      "ultima_erupcion": "Holoceno"
+    },
+    {
+      "nombre": "Poike",
+      "zona": "Otros volcanes",
+      "altitud_msnm": 412,
+      "clasificacion": "Escudo",
+      "latitud": -27.09194,
+      "longitud": -109.25,
+      "ultima_erupcion": "Pleistoceno"
+    },
+    {
+      "nombre": "Rano Kau",
+      "zona": "Otros volcanes",
+      "altitud_msnm": 324,
+      "clasificacion": "Caldera",
+      "latitud": -27.18333,
+      "longitud": -109.43333,
+      "ultima_erupcion": "Plioceno"
+    },
+    {
+      "nombre": "Rano Raraku",
+      "zona": "Otros volcanes",
+      "altitud_msnm": 126,
+      "clasificacion": "Escudo",
+      "latitud": -27.12389,
+      "longitud": -109.28611,
+      "ultima_erupcion": "Desconocida"
+    },
+    {
+      "nombre": "Terevaka",
+      "zona": "Otros volcanes",
+      "altitud_msnm": 511,
+      "clasificacion": "Escudo",
+      "latitud": -27.08444,
+      "longitud": -109.37944,
+      "ultima_erupcion": "Holoceno"
+    }
+  ],
+  "meta": {
+    "title": "Volcanes de Chile - Free Download",
+    "description": "Volcanes de Chile por zona volcánica, con altitud, tipo de volcán, coordenadas y última erupción conocida. Contains 151 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Volcanes de Chile | ListBase",
+    "seo_description": "Download Volcanes de Chile — 151 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 151 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Volcanes_de_Chile"
+    ]
+  }
+}
