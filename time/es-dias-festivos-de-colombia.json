@@ -1,0 +1,208 @@
+{
+  "id": "es-dias-festivos-de-colombia",
+  "name": "Días festivos en Colombia",
+  "title": "Días festivos en Colombia",
+  "description": "Días festivos oficiales de Colombia con su carácter (civil o religioso), la regla de traslado (Ley Emiliani) y la fecha en 2026.",
+  "category": "time",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Días_festivos_en_Colombia",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Días_festivos_en_Colombia",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "mes",
+      "label": "Mes",
+      "type": "string"
+    },
+    {
+      "key": "dia_2026",
+      "label": "Dia 2026",
+      "type": "string"
+    },
+    {
+      "key": "festivo",
+      "label": "Festivo",
+      "type": "string"
+    },
+    {
+      "key": "caracter",
+      "label": "Caracter",
+      "type": "string"
+    },
+    {
+      "key": "regla",
+      "label": "Regla",
+      "type": "string"
+    },
+    {
+      "key": "comentarios",
+      "label": "Comentarios",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mes": "enero",
+      "dia_2026": "1 (jueves)",
+      "festivo": "Año Nuevo",
+      "caracter": "civil",
+      "regla": "Fecha fija",
+      "comentarios": ""
+    },
+    {
+      "mes": "enero",
+      "dia_2026": "12 (lunes)",
+      "festivo": "Epifanía",
+      "caracter": "religioso",
+      "regla": "Primer lunes a partir de 6 de enero",
+      "comentarios": ""
+    },
+    {
+      "mes": "marzo",
+      "dia_2026": "23 (lunes)",
+      "festivo": "San José",
+      "caracter": "religioso",
+      "regla": "Primer lunes a partir de 19 de marzo",
+      "comentarios": ""
+    },
+    {
+      "mes": "abril",
+      "dia_2026": "2 (jueves)",
+      "festivo": "Jueves Santo",
+      "caracter": "religioso",
+      "regla": "Estas fechas corresponden a los días inmediatamente anteriores al Domingo de Pascua.",
+      "comentarios": "Estas fechas corresponden a los días inmediatamente anteriores al Domingo de Pascua."
+    },
+    {
+      "mes": "abril",
+      "dia_2026": "3 (viernes)",
+      "festivo": "Viernes Santo",
+      "caracter": "religioso",
+      "regla": "Estas fechas corresponden a los días inmediatamente anteriores al Domingo de Pascua.",
+      "comentarios": "Estas fechas corresponden a los días inmediatamente anteriores al Domingo de Pascua."
+    },
+    {
+      "mes": "mayo",
+      "dia_2026": "1 (viernes)",
+      "festivo": "Día Nacional del Trabajo",
+      "caracter": "civil",
+      "regla": "Fecha fija",
+      "comentarios": "Se conoce informalmente como el «Día del Obrero»."
+    },
+    {
+      "mes": "mayo",
+      "dia_2026": "18 (lunes)",
+      "festivo": "Ascensión de Jesús",
+      "caracter": "religioso",
+      "regla": "Lunes posterior al Sexto Jueves después del Domingo de Pascua",
+      "comentarios": "Lunes posterior al Sexto Jueves después del Domingo de Pascua"
+    },
+    {
+      "mes": "junio",
+      "dia_2026": "8 (lunes)",
+      "festivo": "Corpus Christi",
+      "caracter": "religioso",
+      "regla": "Lunes posterior al Noveno Jueves después del Domingo de Pascua",
+      "comentarios": "Lunes posterior al Noveno Jueves después del Domingo de Pascua"
+    },
+    {
+      "mes": "junio",
+      "dia_2026": "15 (lunes)",
+      "festivo": "Sagrado Corazón",
+      "caracter": "religioso",
+      "regla": "Lunes Posterior al Décimo Viernes después del Domingo de Pascua",
+      "comentarios": "Lunes Posterior al Décimo Viernes después del Domingo de Pascua"
+    },
+    {
+      "mes": "junio",
+      "dia_2026": "29 (lunes)",
+      "festivo": "San Pedro y San Pablo",
+      "caracter": "religioso",
+      "regla": "Primer lunes a partir de 29 de junio",
+      "comentarios": ""
+    },
+    {
+      "mes": "julio",
+      "dia_2026": "13 (lunes)",
+      "festivo": "Virgen de Chiquinquirá",
+      "caracter": "religiosa",
+      "regla": "Primer lunes a partir del 9 de julio",
+      "comentarios": ""
+    },
+    {
+      "mes": "julio",
+      "dia_2026": "20 (lunes)",
+      "festivo": "Declaración de Independencia",
+      "caracter": "civil",
+      "regla": "Fecha fija",
+      "comentarios": ""
+    },
+    {
+      "mes": "agosto",
+      "dia_2026": "7 (viernes)",
+      "festivo": "Batalla de Boyacá",
+      "caracter": "civil",
+      "regla": "Fecha fija",
+      "comentarios": ""
+    },
+    {
+      "mes": "agosto",
+      "dia_2026": "17 (lunes)",
+      "festivo": "Asunción de la Virgen",
+      "caracter": "religioso",
+      "regla": "Primer lunes a partir del 15 de agosto",
+      "comentarios": ""
+    },
+    {
+      "mes": "octubre",
+      "dia_2026": "12 (lunes)",
+      "festivo": "Día de la Diversidad Étnica y Cultural de la Nación Colombiana",
+      "caracter": "civil",
+      "regla": "Primer lunes a partir de 12 de octubre",
+      "comentarios": "Conocido anteriormente como el 'Día de la Raza'"
+    },
+    {
+      "mes": "noviembre",
+      "dia_2026": "2 (lunes)",
+      "festivo": "Día de Todos los Santos",
+      "caracter": "religioso",
+      "regla": "Primer lunes a partir de 1 de noviembre",
+      "comentarios": ""
+    },
+    {
+      "mes": "noviembre",
+      "dia_2026": "16 (lunes)",
+      "festivo": "Independencia de Cartagena",
+      "caracter": "civil",
+      "regla": "Primer lunes a partir de 11 de noviembre",
+      "comentarios": ""
+    },
+    {
+      "mes": "diciembre",
+      "dia_2026": "8 (martes)",
+      "festivo": "Inmaculada Concepción de la Virgen",
+      "caracter": "religioso",
+      "regla": "Fecha fija",
+      "comentarios": ""
+    },
+    {
+      "mes": "diciembre",
+      "dia_2026": "25 (viernes)",
+      "festivo": "Navidad",
+      "caracter": "religioso",
+      "regla": "Fecha fija",
+      "comentarios": ""
+    }
+  ],
+  "meta": {
+    "title": "Días festivos en Colombia - Free Download",
+    "description": "Días festivos oficiales de Colombia con su carácter (civil o religioso), la regla de traslado (Ley Emiliani) y la fecha en 2026. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Días festivos en Colombia | ListBase",
+    "seo_description": "Download Días festivos en Colombia — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Días_festivos_en_Colombia"
+    ]
+  }
+}

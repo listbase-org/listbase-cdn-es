@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-05T02:08:03.874Z",
-  "total_datasets": 530,
-  "total_records": 429852,
+  "generated": "2026-11-05T02:08:12.725Z",
+  "total_datasets": 531,
+  "total_records": 429871,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tourism",
@@ -16293,6 +16293,33 @@
         "xlsx": {
           "name": "es-dias-feriados-de-chile_ES.xlsx",
           "size": 8314
+        }
+      }
+    },
+    {
+      "id": "es-dias-festivos-de-colombia",
+      "name": "Días festivos en Colombia",
+      "category": "time",
+      "record_count": 19,
+      "columns": [
+        "mes",
+        "dia_2026",
+        "festivo",
+        "caracter",
+        "regla",
+        "comentarios"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Días_festivos_en_Colombia",
+      "updated": "2026-11",
+      "size": 6392,
+      "files": {
+        "csv": {
+          "name": "es-dias-festivos-de-colombia_ES.csv",
+          "size": 2433
+        },
+        "xlsx": {
+          "name": "es-dias-festivos-de-colombia_ES.xlsx",
+          "size": 7897
         }
       }
     },
