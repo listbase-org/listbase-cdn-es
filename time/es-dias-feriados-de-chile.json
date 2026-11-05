@@ -1,0 +1,208 @@
+{
+  "id": "es-dias-feriados-de-chile",
+  "name": "Días feriados en Chile (2026)",
+  "title": "Días feriados en Chile (2026)",
+  "description": "Feriados legales de Chile con su fecha en 2026, jurisdicción (nacional o regional), carácter y notas.",
+  "category": "time",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Días_feriados_en_Chile",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Días_feriados_en_Chile",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "mes",
+      "label": "Mes",
+      "type": "string"
+    },
+    {
+      "key": "dia_2026",
+      "label": "Dia 2026",
+      "type": "string"
+    },
+    {
+      "key": "feriado",
+      "label": "Feriado",
+      "type": "string"
+    },
+    {
+      "key": "jurisdiccion",
+      "label": "Jurisdiccion",
+      "type": "string"
+    },
+    {
+      "key": "caracter",
+      "label": "Caracter",
+      "type": "string"
+    },
+    {
+      "key": "notas",
+      "label": "Notas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mes": "enero",
+      "dia_2026": "1 (jueves)",
+      "feriado": "Año Nuevo",
+      "jurisdiccion": "Nacional",
+      "caracter": "Civil",
+      "notas": "Irrenunciable. En el pasado era un feriado religioso: se celebraba la fiesta de la Circuncisión del Señor, pero este sentido se ha perdido completamente."
+    },
+    {
+      "mes": "abril",
+      "dia_2026": "3 (viernes)",
+      "feriado": "Viernes Santo",
+      "jurisdiccion": "Nacional",
+      "caracter": "Religioso",
+      "notas": "Estas fechas corresponden a los dos días inmediatamente anteriores al Domingo de Resurrección."
+    },
+    {
+      "mes": "abril",
+      "dia_2026": "4 (sábado)",
+      "feriado": "Sábado Santo",
+      "jurisdiccion": "Nacional",
+      "caracter": "Religioso",
+      "notas": "Estas fechas corresponden a los dos días inmediatamente anteriores al Domingo de Resurrección."
+    },
+    {
+      "mes": "mayo",
+      "dia_2026": "1 (viernes)",
+      "feriado": "Día Nacional del Trabajo",
+      "jurisdiccion": "Nacional",
+      "caracter": "Civil",
+      "notas": "Irrenunciable. Se conoce informalmente como «Día del Trabajo»."
+    },
+    {
+      "mes": "mayo",
+      "dia_2026": "21 (jueves)",
+      "feriado": "Día de las Glorias Navales",
+      "jurisdiccion": "Nacional",
+      "caracter": "Civil",
+      "notas": "Conmemora el Combate naval de Iquique."
+    },
+    {
+      "mes": "junio",
+      "dia_2026": "7 (domingo)",
+      "feriado": "Asalto y Toma del Morro de Arica",
+      "jurisdiccion": "Regional",
+      "caracter": "Civil",
+      "notas": "Válido solamente en la Región de Arica y Parinacota."
+    },
+    {
+      "mes": "junio",
+      "dia_2026": "21 (domingo)",
+      "feriado": "Día Nacional de los Pueblos Indígenas",
+      "jurisdiccion": "Nacional",
+      "caracter": "Civil",
+      "notas": "Se observa el día en que ocurre el solsticio de invierno."
+    },
+    {
+      "mes": "junio",
+      "dia_2026": "29 (lunes)",
+      "feriado": "San Pedro y San Pablo",
+      "jurisdiccion": "Nacional",
+      "caracter": "Religioso",
+      "notas": ""
+    },
+    {
+      "mes": "julio",
+      "dia_2026": "16 (jueves)",
+      "feriado": "Virgen del Carmen",
+      "jurisdiccion": "Nacional",
+      "caracter": "Religioso",
+      "notas": ""
+    },
+    {
+      "mes": "agosto",
+      "dia_2026": "15 (sábado)",
+      "feriado": "Asunción de la Virgen",
+      "jurisdiccion": "Nacional",
+      "caracter": "Religioso",
+      "notas": ""
+    },
+    {
+      "mes": "agosto",
+      "dia_2026": "20 (jueves)",
+      "feriado": "Nacimiento del Prócer de la Independencia",
+      "jurisdiccion": "Comunal",
+      "caracter": "Civil",
+      "notas": "Celebra el natalicio del libertador Bernardo O'Higgins. Válido solamente en las comunas de Chillán y Chillán Viejo."
+    },
+    {
+      "mes": "septiembre",
+      "dia_2026": "18 (viernes)",
+      "feriado": "Día de la Independencia Nacional",
+      "jurisdiccion": "Nacional",
+      "caracter": "Civil",
+      "notas": "Irrenunciable. Celebra la creación de la Primera Junta Nacional de Gobierno en 1810."
+    },
+    {
+      "mes": "septiembre",
+      "dia_2026": "19 (sábado)",
+      "feriado": "Día de las Glorias del Ejército de Chile",
+      "jurisdiccion": "Nacional",
+      "caracter": "Civil",
+      "notas": "Irrenunciable. Se conmemoran las grandes batallas de la Independencia y todas las guerras en las que participó el Ejército de Chile."
+    },
+    {
+      "mes": "octubre",
+      "dia_2026": "12 (lunes)",
+      "feriado": "Día del Encuentro de Dos Mundos",
+      "jurisdiccion": "Nacional",
+      "caracter": "Civil",
+      "notas": "Se conoce coloquialmente como « Día de la Raza » o Aniversario del Descubrimiento de América."
+    },
+    {
+      "mes": "octubre",
+      "dia_2026": "31 (sábado)",
+      "feriado": "Día Nacional de las Iglesias Evangélicas y Protestantes",
+      "jurisdiccion": "Nacional",
+      "caracter": "Religioso",
+      "notas": "Corresponde al Día de la Reforma de la Iglesia Luterana; se desplaza al viernes anterior si el 31 de octubre cae en día martes y al posterior si cae en miércoles."
+    },
+    {
+      "mes": "noviembre",
+      "dia_2026": "1 (domingo)",
+      "feriado": "Día de Todos los Santos",
+      "jurisdiccion": "Nacional",
+      "caracter": "Religioso",
+      "notas": ""
+    },
+    {
+      "mes": "diciembre",
+      "dia_2026": "8 (martes)",
+      "feriado": "Inmaculada Concepción de la Virgen",
+      "jurisdiccion": "Nacional",
+      "caracter": "Religioso",
+      "notas": ""
+    },
+    {
+      "mes": "diciembre",
+      "dia_2026": "25 (viernes)",
+      "feriado": "Natividad del Señor (Navidad)",
+      "jurisdiccion": "Nacional",
+      "caracter": "Religioso",
+      "notas": "Irrenunciable."
+    },
+    {
+      "mes": "diciembre",
+      "dia_2026": "31 (jueves)",
+      "feriado": "Feriado bancario de fin de año",
+      "jurisdiccion": "Nacional",
+      "caracter": "Bancario",
+      "notas": "Solamente las instituciones bancarias cierran sus puertas en dicha jornada."
+    }
+  ],
+  "meta": {
+    "title": "Días feriados en Chile (2026) - Free Download",
+    "description": "Feriados legales de Chile con su fecha en 2026, jurisdicción (nacional o regional), carácter y notas. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Días feriados en Chile (2026) | ListBase",
+    "seo_description": "Download Días feriados en Chile (2026) — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Días_feriados_en_Chile"
+    ]
+  }
+}

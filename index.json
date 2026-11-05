@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-04T02:16:56.670Z",
-  "total_datasets": 529,
-  "total_records": 429833,
+  "generated": "2026-11-05T02:08:03.874Z",
+  "total_datasets": 530,
+  "total_records": 429852,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tourism",
@@ -16266,6 +16266,33 @@
         "xlsx": {
           "name": "es-nombres-de-emoji_ES.xlsx",
           "size": 92630
+        }
+      }
+    },
+    {
+      "id": "es-dias-feriados-de-chile",
+      "name": "Días feriados en Chile (2026)",
+      "category": "time",
+      "record_count": 19,
+      "columns": [
+        "mes",
+        "dia_2026",
+        "feriado",
+        "jurisdiccion",
+        "caracter",
+        "notas"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Días_feriados_en_Chile",
+      "updated": "2026-11",
+      "size": 6754,
+      "files": {
+        "csv": {
+          "name": "es-dias-feriados-de-chile_ES.csv",
+          "size": 2821
+        },
+        "xlsx": {
+          "name": "es-dias-feriados-de-chile_ES.xlsx",
+          "size": 8314
         }
       }
     },
