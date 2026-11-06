@@ -1,0 +1,1072 @@
+{
+  "id": "es-ministros-educacion",
+  "name": "Ministros de Educación de España",
+  "title": "Ministros de Educación de España",
+  "description": "Lista de ministros de Educación de España con fechas de mandato, partido y gobierno.",
+  "category": "education",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Ministros_de_Educación_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Ministros_de_Educación_de_España",
+  "updated": "2026-11",
+  "record_count": 127,
+  "columns": [
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "inicio",
+      "label": "Inicio",
+      "type": "string"
+    },
+    {
+      "key": "fin",
+      "label": "Fin",
+      "type": "string"
+    },
+    {
+      "key": "partido",
+      "label": "Partido",
+      "type": "string"
+    },
+    {
+      "key": "gobierno",
+      "label": "Gobierno",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nombre": "Antonio García Alix",
+      "inicio": "18 de abril de 1900",
+      "fin": "6 de marzo de 1901",
+      "partido": "Conservador",
+      "gobierno": "Francisco Silvela",
+      "periodo": "Regencia María Cristina de Habsburgo"
+    },
+    {
+      "nombre": "Antonio García Alix",
+      "inicio": "18 de abril de 1900",
+      "fin": "6 de marzo de 1901",
+      "partido": "Conservador",
+      "gobierno": "Marcelo Azcárraga Palmero",
+      "periodo": "Regencia María Cristina de Habsburgo"
+    },
+    {
+      "nombre": "Álvaro de Figueroa y Torres",
+      "inicio": "6 de marzo de 1901",
+      "fin": "6 de diciembre de 1902",
+      "partido": "Liberal",
+      "gobierno": "Práxedes Mateo Sagasta",
+      "periodo": "Regencia María Cristina de Habsburgo"
+    },
+    {
+      "nombre": "Álvaro de Figueroa y Torres",
+      "inicio": "6 de marzo de 1901",
+      "fin": "6 de diciembre de 1902",
+      "partido": "Liberal",
+      "gobierno": "Práxedes Mateo Sagasta",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Manuel Allendesalazar y Muñoz",
+      "inicio": "6 de diciembre de 1902",
+      "fin": "20 de julio de 1903",
+      "partido": "Conservador",
+      "gobierno": "Francisco Silvela",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Gabino Bugallal Araújo",
+      "inicio": "20 de julio de 1903",
+      "fin": "5 de diciembre de 1903",
+      "partido": "Conservador",
+      "gobierno": "Raimundo Fernández Villaverde",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Lorenzo Domínguez Pascual",
+      "inicio": "5 de diciembre de 1903",
+      "fin": "16 de diciembre de 1904",
+      "partido": "Conservador",
+      "gobierno": "Antonio Maura",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Juan de la Cierva y Peñafiel",
+      "inicio": "16 de diciembre de 1904",
+      "fin": "8 de abril de 1905",
+      "partido": "Conservador",
+      "gobierno": "Marcelo Azcarraga Palmero",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Juan de la Cierva y Peñafiel",
+      "inicio": "16 de diciembre de 1904",
+      "fin": "8 de abril de 1905",
+      "partido": "Conservador",
+      "gobierno": "Raimundo Fernández Villaverde",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Carlos Cortezo Prieto",
+      "inicio": "8 de abril de 1905",
+      "fin": "23 de junio de 1905",
+      "partido": "Conservador",
+      "gobierno": "Raimundo Fernández Villaverde",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Andrés Mellado y Fernández",
+      "inicio": "23 de junio de 1905",
+      "fin": "31 de octubre de 1905",
+      "partido": "Liberal",
+      "gobierno": "Eugenio Montero Ríos",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Manuel de Eguilior y Llaguno",
+      "inicio": "31 de octubre de 1905",
+      "fin": "1 de diciembre de 1905",
+      "partido": "Liberal",
+      "gobierno": "Eugenio Montero Ríos",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Vicente Santamaría de Paredes",
+      "inicio": "1 de diciembre de 1905",
+      "fin": "10 de junio de 1906",
+      "partido": "Liberal",
+      "gobierno": "Segismundo Moret",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Alejandro San Martín y Satrústegui",
+      "inicio": "10 de junio de 1906",
+      "fin": "6 de julio de 1906",
+      "partido": "Liberal",
+      "gobierno": "Segismundo Moret",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Amalio Gimeno y Cabañas",
+      "inicio": "6 de julio de 1906",
+      "fin": "30 de noviembre de 1906",
+      "partido": "Liberal",
+      "gobierno": "José López Domínguez",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Pedro Rodríguez de la Borbolla",
+      "inicio": "30 de noviembre de 1906",
+      "fin": "4 de diciembre de 1906",
+      "partido": "Liberal",
+      "gobierno": "Segismundo Moret",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Amalio Gimeno y Cabañas",
+      "inicio": "4 de diciembre de 1906",
+      "fin": "25 de enero de 1907",
+      "partido": "Liberal",
+      "gobierno": "Antonio Aguilar Correa",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Faustino Rodríguez San Pedro",
+      "inicio": "25 de enero de 1907",
+      "fin": "21 de octubre de 1909",
+      "partido": "Conservador",
+      "gobierno": "Antonio Maura",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Antonio Barroso Castillo",
+      "inicio": "21 de octubre de 1909",
+      "fin": "9 de febrero de 1910",
+      "partido": "Liberal",
+      "gobierno": "Segismundo Moret",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Álvaro de Figueroa y Torres",
+      "inicio": "9 de febrero de 1910",
+      "fin": "9 de junio de 1910",
+      "partido": "Liberal",
+      "gobierno": "José Canalejas",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Julio Burell y Cuéllar",
+      "inicio": "9 de junio de 1910",
+      "fin": "2 de enero de 1911",
+      "partido": "Liberal",
+      "gobierno": "José Canalejas",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Amós Salvador Rodrigáñez",
+      "inicio": "2 de enero de 1911",
+      "fin": "3 de abril de 1911",
+      "partido": "Liberal",
+      "gobierno": "José Canalejas",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Amalio Gimeno y Cabañas",
+      "inicio": "3 de abril de 1911",
+      "fin": "12 de marzo de 1912",
+      "partido": "Liberal",
+      "gobierno": "José Canalejas",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Santiago Alba Bonifaz",
+      "inicio": "13 de marzo de 1912",
+      "fin": "31 de diciembre de 1912",
+      "partido": "Liberal",
+      "gobierno": "José Canalejas",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Santiago Alba Bonifaz",
+      "inicio": "13 de marzo de 1912",
+      "fin": "31 de diciembre de 1912",
+      "partido": "Liberal",
+      "gobierno": "Manuel García Prieto ​",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Santiago Alba Bonifaz",
+      "inicio": "13 de marzo de 1912",
+      "fin": "31 de diciembre de 1912",
+      "partido": "Liberal",
+      "gobierno": "Álvaro de Figueroa y Torres",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Antonio López Muñoz",
+      "inicio": "31 de diciembre de 1912",
+      "fin": "13 de junio de 1913",
+      "partido": "Liberal",
+      "gobierno": "Álvaro de Figueroa y Torres",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Joaquín Ruiz Jiménez",
+      "inicio": "13 de junio de 1913",
+      "fin": "27 de octubre de 1913",
+      "partido": "Liberal",
+      "gobierno": "Álvaro de Figueroa y Torres",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Francisco Bergamín García",
+      "inicio": "27 de octubre de 1913",
+      "fin": "11 de diciembre de 1914",
+      "partido": "Conservador",
+      "gobierno": "Eduardo Dato Iradier",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Gabino Bugallal Araújo interino",
+      "inicio": "11 de diciembre de 1914",
+      "fin": "4 de enero de 1915",
+      "partido": "Conservador",
+      "gobierno": "Eduardo Dato Iradier",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Saturnino Esteban Miguel y Collantes",
+      "inicio": "4 de enero de 1915",
+      "fin": "25 de octubre de 1915",
+      "partido": "Conservador",
+      "gobierno": "Eduardo Dato Iradier",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Rafael Andrade Navarrete",
+      "inicio": "25 de octubre de 1915",
+      "fin": "9 de diciembre de 1915",
+      "partido": "Conservador",
+      "gobierno": "Eduardo Dato Iradier",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Julio Burell y Cuéllar",
+      "inicio": "9 de diciembre de 1915",
+      "fin": "19 de abril de 1917",
+      "partido": "Liberal",
+      "gobierno": "Álvaro de Figueroa y Torres",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "José Francos Rodríguez",
+      "inicio": "19 de abril de 1917",
+      "fin": "11 de junio de 1917",
+      "partido": "Liberal",
+      "gobierno": "Manuel García Prieto",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Rafael Andrade Navarrete",
+      "inicio": "11 de junio de 1917",
+      "fin": "3 de noviembre de 1917",
+      "partido": "Conservador",
+      "gobierno": "Eduardo Dato Iradier",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Felipe Rodés Baldrich",
+      "inicio": "3 de noviembre de 1917",
+      "fin": "2 de marzo de 1918",
+      "partido": "Liberal",
+      "gobierno": "Manuel García Prieto Gobierno de concentración",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Luis Silvela Casado",
+      "inicio": "2 de marzo de 1918",
+      "fin": "22 de marzo de 1918",
+      "partido": "Liberal",
+      "gobierno": "Manuel García Prieto Gobierno de concentración",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Santiago Alba Bonifaz",
+      "inicio": "22 de marzo de 1918",
+      "fin": "10 de octubre de 1918",
+      "partido": "Liberal",
+      "gobierno": "Antonio Maura Gobierno de concentración",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Álvaro de Figueroa y Torres",
+      "inicio": "10 de octubre de 1918",
+      "fin": "9 de noviembre de 1918",
+      "partido": "Liberal",
+      "gobierno": "Antonio Maura Gobierno de concentración",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Julio Burell y Cuéllar",
+      "inicio": "9 de noviembre de 1918",
+      "fin": "5 de diciembre de 1918",
+      "partido": "Liberal",
+      "gobierno": "Manuel García Prieto",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Joaquín Salvatella Gisbert",
+      "inicio": "5 de diciembre de 1918",
+      "fin": "15 de abril de 1919",
+      "partido": "Liberal",
+      "gobierno": "Álvaro de Figueroa y Torres",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "César Silió y Cortés",
+      "inicio": "15 de abril de 1919",
+      "fin": "20 de julio de 1919",
+      "partido": "Conservador",
+      "gobierno": "Antonio Maura",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "José del Prado y Palacio",
+      "inicio": "20 de julio de 1919",
+      "fin": "12 de diciembre de 1919",
+      "partido": "Conservador",
+      "gobierno": "Joaquín Sánchez de Toca",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Natalio Rivas Santiago",
+      "inicio": "12 de diciembre de 1919",
+      "fin": "5 de mayo de 1920",
+      "partido": "Conservador",
+      "gobierno": "Manuel Allendesalazar",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Luis Espada Guntín",
+      "inicio": "5 de mayo de 1920",
+      "fin": "1 de septiembre de 1920",
+      "partido": "Conservador",
+      "gobierno": "Eduardo Dato Iradier",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Vicente Cabeza de Vaca",
+      "inicio": "1 de septiembre de 1920",
+      "fin": "29 de diciembre de 1920",
+      "partido": "Conservador",
+      "gobierno": "Eduardo Dato Iradier",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Tomás Montejo y Rica",
+      "inicio": "1 de septiembre de 1920",
+      "fin": "13 de marzo de 1921",
+      "partido": "Conservador",
+      "gobierno": "Eduardo Dato Iradier",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Tomás Montejo y Rica",
+      "inicio": "1 de septiembre de 1920",
+      "fin": "13 de marzo de 1921",
+      "partido": "Conservador",
+      "gobierno": "Gabino Bugallal Araújo interino ​",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Francisco Aparicio y Ruiz",
+      "inicio": "13 de marzo de 1921",
+      "fin": "14 de agosto de 1921",
+      "partido": "Conservador",
+      "gobierno": "Manuel Allendesalazar",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "César Silió y Cortés",
+      "inicio": "14 de agosto de 1921",
+      "fin": "1 de abril de 1922",
+      "partido": "Conservador",
+      "gobierno": "Antonio Maura Gobierno de concentración",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "César Silió y Cortés",
+      "inicio": "14 de agosto de 1921",
+      "fin": "1 de abril de 1922",
+      "partido": "Conservador",
+      "gobierno": "José Sánchez Guerra",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Tomás Montejo y Rica",
+      "inicio": "1 de abril de 1922",
+      "fin": "4 de diciembre de 1922",
+      "partido": "Conservador",
+      "gobierno": "José Sánchez Guerra",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Isidoro de la Cierva y Peñafiel",
+      "inicio": "1 de abril de 1922",
+      "fin": "4 de diciembre de 1922",
+      "partido": "Conservador",
+      "gobierno": "José Sánchez Guerra",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Joaquín Salvatella Gisbert",
+      "inicio": "7 de diciembre de 1922",
+      "fin": "15 de septiembre de 1923",
+      "partido": "Liberal",
+      "gobierno": "Manuel García Prieto",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Alfonso Pérez Gómez Nieva",
+      "inicio": "17 de septiembre de 1923",
+      "fin": "21 de diciembre de 1925",
+      "partido": "",
+      "gobierno": "Miguel Primo de Rivera Directorio Militar",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Javier García de Leániz",
+      "inicio": "21 de diciembre de 1923",
+      "fin": "3 de diciembre de 1925",
+      "partido": "Unión Patriótica",
+      "gobierno": "Miguel Primo de Rivera Directorio Civil",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Eduardo Callejo de la Cuesta",
+      "inicio": "20 de febrero de 1927",
+      "fin": "30 de enero de 1930",
+      "partido": "Unión Patriótica",
+      "gobierno": "Miguel Primo de Rivera Directorio Civil",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Jacobo Fitz-James Stuart y Falcó",
+      "inicio": "30 de enero de 1930",
+      "fin": "22 de febrero de 1930",
+      "partido": "",
+      "gobierno": "Dámaso Berenguer Dictadura 1930-1931",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Elías Tormo y Monzó",
+      "inicio": "24 de febrero de 1930",
+      "fin": "18 de febrero de 1931",
+      "partido": "",
+      "gobierno": "Dámaso Berenguer Dictadura 1930-1931",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "José Gascón y Marín",
+      "inicio": "18 de febrero de 1931",
+      "fin": "14 de abril de 1931",
+      "partido": "Monárquicos",
+      "gobierno": "Juan Bautista Aznar-Cabañas",
+      "periodo": "Alfonso XIII"
+    },
+    {
+      "nombre": "Marcelino Domingo Sanjuán",
+      "inicio": "14 de abril de 1931",
+      "fin": "16 de diciembre de 1931",
+      "partido": "PRRS",
+      "gobierno": "Niceto Alcalá Zamora 1. er Gobierno Provisional",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Marcelino Domingo Sanjuán",
+      "inicio": "14 de abril de 1931",
+      "fin": "16 de diciembre de 1931",
+      "partido": "PRRS",
+      "gobierno": "Manuel Azaña 2.º Gobierno Provisional",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Fernando de los Ríos Urruti",
+      "inicio": "16 de diciembre de 1931",
+      "fin": "12 de junio de 1933",
+      "partido": "PSOE",
+      "gobierno": "Manuel Azaña",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Francisco Barnés Salinas",
+      "inicio": "12 de junio de 1933",
+      "fin": "12 de septiembre de 1933",
+      "partido": "PRRS",
+      "gobierno": "Manuel Azaña",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Domingo Barnés Salinas",
+      "inicio": "12 de septiembre de 1933",
+      "fin": "16 de diciembre de 1933",
+      "partido": "PRRS",
+      "gobierno": "Alejandro Lerroux",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Domingo Barnés Salinas",
+      "inicio": "12 de septiembre de 1933",
+      "fin": "16 de diciembre de 1933",
+      "partido": "PRRS",
+      "gobierno": "Diego Martínez Barrio",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "José Pareja Yébenes",
+      "inicio": "16 de diciembre de 1933",
+      "fin": "3 de marzo de 1934",
+      "partido": "PRR",
+      "gobierno": "Alejandro Lerroux",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Salvador de Madariaga Rojo",
+      "inicio": "3 de marzo de 1934",
+      "fin": "28 de abril de 1934",
+      "partido": "Independiente",
+      "gobierno": "Alejandro Lerroux",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Filiberto Villalobos González",
+      "inicio": "28 de abril de 1934",
+      "fin": "29 de diciembre de 1934",
+      "partido": "PRLD",
+      "gobierno": "Ricardo Samper Ibáñez",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Filiberto Villalobos González",
+      "inicio": "28 de abril de 1934",
+      "fin": "29 de diciembre de 1934",
+      "partido": "PRLD",
+      "gobierno": "Alejandro Lerroux",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Joaquín Dualde Gómez",
+      "inicio": "29 de diciembre de 1934",
+      "fin": "3 de abril de 1935",
+      "partido": "PRLD",
+      "gobierno": "Alejandro Lerroux",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Ramón Prieto Bances",
+      "inicio": "3 de abril de 1935",
+      "fin": "6 de mayo de 1935",
+      "partido": "Independiente",
+      "gobierno": "Alejandro Lerroux",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Joaquín Dualde Gómez",
+      "inicio": "6 de mayo de 1935",
+      "fin": "25 de septiembre de 1935",
+      "partido": "PRLD",
+      "gobierno": "Alejandro Lerroux",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Juan José Rocha García",
+      "inicio": "25 de septiembre de 1935",
+      "fin": "29 de octubre de 1935",
+      "partido": "PRR",
+      "gobierno": "Joaquín Chapaprieta",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Luis Bardají López",
+      "inicio": "29 de octubre de 1935",
+      "fin": "14 de diciembre de 1935",
+      "partido": "PRR",
+      "gobierno": "Joaquín Chapaprieta",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Manuel Becerra Fernández",
+      "inicio": "14 de diciembre de 1935",
+      "fin": "30 de diciembre de 1935",
+      "partido": "PRR",
+      "gobierno": "Manuel Portela Valladares",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Filiberto Villalobos González",
+      "inicio": "30 de diciembre de 1935",
+      "fin": "19 de febrero de 1936",
+      "partido": "Centrista",
+      "gobierno": "Manuel Portela Valladares",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Marcelino Domingo Sanjuán",
+      "inicio": "19 de febrero de 1936",
+      "fin": "13 de mayo de 1936",
+      "partido": "IR",
+      "gobierno": "Manuel Azaña",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Marcelino Domingo Sanjuán",
+      "inicio": "19 de febrero de 1936",
+      "fin": "13 de mayo de 1936",
+      "partido": "IR",
+      "gobierno": "Augusto Barcia Trelles ​",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Francisco Barnés Salinas",
+      "inicio": "13 de mayo de 1936",
+      "fin": "19 de julio de 1936",
+      "partido": "IR",
+      "gobierno": "Santiago Casares Quiroga",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Marcelino Domingo Sanjuán",
+      "inicio": "19 de julio de 1936",
+      "fin": "19 de julio de 1936",
+      "partido": "IR",
+      "gobierno": "Diego Martínez Barrio",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Francisco Barnés Salinas",
+      "inicio": "19 de julio de 1936",
+      "fin": "4 de septiembre de 1936",
+      "partido": "IR",
+      "gobierno": "José Giral",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Jesús Hernández Tomás (1) (3) ​",
+      "inicio": "4 de septiembre de 1936",
+      "fin": "5 de abril de 1938",
+      "partido": "PCE",
+      "gobierno": "Francisco Largo Caballero",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Jesús Hernández Tomás (1) (3) ​",
+      "inicio": "4 de septiembre de 1936",
+      "fin": "5 de abril de 1938",
+      "partido": "PCE",
+      "gobierno": "Juan Negrín",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "Segundo Blanco González",
+      "inicio": "5 de abril de 1938",
+      "fin": "5 de marzo de 1939",
+      "partido": "CNT",
+      "gobierno": "Juan Negrín",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "José del Río",
+      "inicio": "5 de marzo de 1939",
+      "fin": "31 de marzo de 1939",
+      "partido": "UR",
+      "gobierno": "Consejo Nacional de Defensa",
+      "periodo": "Segunda República española"
+    },
+    {
+      "nombre": "José María Pemán Pemartín",
+      "inicio": "5 de octubre de 1936",
+      "fin": "31 de enero de 1938",
+      "partido": "",
+      "gobierno": "Junta Técnica del Estado (Guerra civil española 1936-1939)",
+      "periodo": "Dictadura franquista"
+    },
+    {
+      "nombre": "Pedro Sainz Rodríguez",
+      "inicio": "31 de enero de 1938",
+      "fin": "28 de abril de 1939 ​",
+      "partido": "",
+      "gobierno": "I Gobierno de Francisco Franco",
+      "periodo": "Dictadura franquista"
+    },
+    {
+      "nombre": "Tomás Domínguez Arévalo (5) interino",
+      "inicio": "28 de abril de 1939",
+      "fin": "9 de agosto de 1939",
+      "partido": "",
+      "gobierno": "I Gobierno de Francisco Franco",
+      "periodo": "Dictadura franquista"
+    },
+    {
+      "nombre": "José Ibáñez Martín",
+      "inicio": "9 de agosto de 1939",
+      "fin": "19 de julio de 1951",
+      "partido": "Movimiento Nacional",
+      "gobierno": "II Gobierno de Francisco Franco",
+      "periodo": "Dictadura franquista"
+    },
+    {
+      "nombre": "José Ibáñez Martín",
+      "inicio": "9 de agosto de 1939",
+      "fin": "19 de julio de 1951",
+      "partido": "Movimiento Nacional",
+      "gobierno": "III Gobierno de Francisco Franco",
+      "periodo": "Dictadura franquista"
+    },
+    {
+      "nombre": "Joaquín Ruiz-Giménez Cortés",
+      "inicio": "19 de julio de 1951",
+      "fin": "15 de febrero de 1956",
+      "partido": "Movimiento Nacional",
+      "gobierno": "IV Gobierno de Francisco Franco",
+      "periodo": "Dictadura franquista"
+    },
+    {
+      "nombre": "Jesús Rubio García-Mina",
+      "inicio": "15 de febrero de 1956",
+      "fin": "10 de julio de 1962",
+      "partido": "Movimiento Nacional",
+      "gobierno": "IV Gobierno de Francisco Franco",
+      "periodo": "Dictadura franquista"
+    },
+    {
+      "nombre": "Jesús Rubio García-Mina",
+      "inicio": "15 de febrero de 1956",
+      "fin": "10 de julio de 1962",
+      "partido": "Movimiento Nacional",
+      "gobierno": "V Gobierno de Francisco Franco",
+      "periodo": "Dictadura franquista"
+    },
+    {
+      "nombre": "Manuel Lora-Tamayo Martín (5) (6) ​",
+      "inicio": "10 de julio de 1962",
+      "fin": "16 de abril de 1968",
+      "partido": "Movimiento Nacional",
+      "gobierno": "VI Gobierno de Francisco Franco",
+      "periodo": "Dictadura franquista"
+    },
+    {
+      "nombre": "Manuel Lora-Tamayo Martín (5) (6) ​",
+      "inicio": "10 de julio de 1962",
+      "fin": "16 de abril de 1968",
+      "partido": "Movimiento Nacional",
+      "gobierno": "VII Gobierno de Francisco Franco",
+      "periodo": "Dictadura franquista"
+    },
+    {
+      "nombre": "José Luis Villar Palasí",
+      "inicio": "16 de abril de 1968",
+      "fin": "11 de junio de 1973",
+      "partido": "Movimiento Nacional",
+      "gobierno": "VII Gobierno de Francisco Franco",
+      "periodo": "Dictadura franquista"
+    },
+    {
+      "nombre": "José Luis Villar Palasí",
+      "inicio": "16 de abril de 1968",
+      "fin": "11 de junio de 1973",
+      "partido": "Movimiento Nacional",
+      "gobierno": "VIII Gobierno de Francisco Franco",
+      "periodo": "Dictadura franquista"
+    },
+    {
+      "nombre": "Julio Rodríguez Martínez",
+      "inicio": "11 de junio de 1973",
+      "fin": "3 de enero de 1974",
+      "partido": "Movimiento Nacional",
+      "gobierno": "Luis Carrero Blanco",
+      "periodo": "Dictadura franquista"
+    },
+    {
+      "nombre": "Julio Rodríguez Martínez",
+      "inicio": "11 de junio de 1973",
+      "fin": "3 de enero de 1974",
+      "partido": "Movimiento Nacional",
+      "gobierno": "Torcuato Fernández-Miranda ​",
+      "periodo": "Dictadura franquista"
+    },
+    {
+      "nombre": "Julio Rodríguez Martínez",
+      "inicio": "11 de junio de 1973",
+      "fin": "3 de enero de 1974",
+      "partido": "Movimiento Nacional",
+      "gobierno": "Carlos Arias Navarro ​",
+      "periodo": "Dictadura franquista"
+    },
+    {
+      "nombre": "Cruz Martínez Esteruelas",
+      "inicio": "3 de enero de 1974",
+      "fin": "11 de diciembre de 1975",
+      "partido": "Movimiento Nacional",
+      "gobierno": "Carlos Arias Navarro",
+      "periodo": "Dictadura franquista"
+    },
+    {
+      "nombre": "Cruz Martínez Esteruelas",
+      "inicio": "3 de enero de 1974",
+      "fin": "11 de diciembre de 1975",
+      "partido": "Movimiento Nacional",
+      "gobierno": "Carlos Arias Navarro",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "Carlos Robles Piquer",
+      "inicio": "11 de diciembre de 1975",
+      "fin": "7 de julio de 1976",
+      "partido": "Movimiento Nacional",
+      "gobierno": "Carlos Arias Navarro",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "Aurelio Menéndez Menéndez",
+      "inicio": "7 de julio de 1976",
+      "fin": "4 de julio de 1977",
+      "partido": "UCD",
+      "gobierno": "Adolfo Suárez González",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "Íñigo Cavero Lataillade",
+      "inicio": "4 de julio de 1977",
+      "fin": "5 de abril de 1979",
+      "partido": "UCD",
+      "gobierno": "Adolfo Suárez González",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "José Manuel Otero",
+      "inicio": "5 de abril de 1979",
+      "fin": "8 de septiembre de 1980",
+      "partido": "UCD",
+      "gobierno": "Adolfo Suárez González",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "Juan Antonio Ortega (7)",
+      "inicio": "8 de septiembre de 1980",
+      "fin": "1 de diciembre de 1981",
+      "partido": "UCD",
+      "gobierno": "Adolfo Suárez González",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "Juan Antonio Ortega (7)",
+      "inicio": "8 de septiembre de 1980",
+      "fin": "1 de diciembre de 1981",
+      "partido": "UCD",
+      "gobierno": "Leopoldo Calvo Sotelo",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "Federico Mayor Zaragoza",
+      "inicio": "1 de diciembre de 1981",
+      "fin": "2 de diciembre de 1982",
+      "partido": "UCD",
+      "gobierno": "Leopoldo Calvo Sotelo",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "José María Maravall",
+      "inicio": "2 de diciembre de 1982",
+      "fin": "11 de julio de 1988",
+      "partido": "PSOE",
+      "gobierno": "Felipe González",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "Javier Solana Madariaga",
+      "inicio": "11 de julio de 1988",
+      "fin": "23 de junio de 1992",
+      "partido": "PSOE",
+      "gobierno": "Felipe González",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "Alfredo Pérez Rubalcaba",
+      "inicio": "23 de junio de 1992",
+      "fin": "13 de julio de 1993",
+      "partido": "PSOE",
+      "gobierno": "Felipe González",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "Gustavo Suárez Pertierra",
+      "inicio": "13 de julio de 1993",
+      "fin": "2 de julio de 1995",
+      "partido": "PSOE",
+      "gobierno": "Felipe González",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "Jerónimo Saavedra Acevedo",
+      "inicio": "2 de julio de 1995",
+      "fin": "5 de mayo de 1996 ​",
+      "partido": "PSOE",
+      "gobierno": "Felipe González",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "Esperanza Aguirre",
+      "inicio": "5 de mayo de 1996",
+      "fin": "18 de enero de 1999",
+      "partido": "PP",
+      "gobierno": "José María Aznar",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "Mariano Rajoy Brey",
+      "inicio": "18 de enero de 1999",
+      "fin": "27 de abril de 2000",
+      "partido": "PP",
+      "gobierno": "José María Aznar",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "Pilar del Castillo",
+      "inicio": "27 de abril de 2000",
+      "fin": "17 de abril de 2004 ​",
+      "partido": "PP",
+      "gobierno": "José María Aznar",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "María Jesús San Segundo",
+      "inicio": "17 de abril de 2004",
+      "fin": "11 de abril de 2006",
+      "partido": "PSOE",
+      "gobierno": "José Luis Rodríguez Zapatero",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "Mercedes Cabrera (6)",
+      "inicio": "11 de abril de 2006",
+      "fin": "7 de abril de 2009",
+      "partido": "PSOE",
+      "gobierno": "José Luis Rodríguez Zapatero",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "Ángel Gabilondo Pujol",
+      "inicio": "7 de abril de 2009",
+      "fin": "21 de diciembre de 2011",
+      "partido": "PSOE",
+      "gobierno": "José Luis Rodríguez Zapatero",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "José Ignacio Wert",
+      "inicio": "21 de diciembre de 2011",
+      "fin": "26 de junio de 2015",
+      "partido": "PP",
+      "gobierno": "Mariano Rajoy",
+      "periodo": "Juan Carlos I"
+    },
+    {
+      "nombre": "José Ignacio Wert",
+      "inicio": "21 de diciembre de 2011",
+      "fin": "26 de junio de 2015",
+      "partido": "PP",
+      "gobierno": "Mariano Rajoy",
+      "periodo": "Felipe VI"
+    },
+    {
+      "nombre": "Íñigo Méndez de Vigo",
+      "inicio": "26 de junio de 2015",
+      "fin": "1 de junio de 2018",
+      "partido": "PP",
+      "gobierno": "Mariano Rajoy",
+      "periodo": "Felipe VI"
+    },
+    {
+      "nombre": "Isabel Celaá",
+      "inicio": "7 de junio de 2018",
+      "fin": "12 de julio de 2021",
+      "partido": "PSOE",
+      "gobierno": "Pedro Sánchez",
+      "periodo": "Felipe VI"
+    },
+    {
+      "nombre": "Pilar Alegría (12)",
+      "inicio": "12 de julio de 2021",
+      "fin": "22 de diciembre de 2025",
+      "partido": "PSOE",
+      "gobierno": "Pedro Sánchez",
+      "periodo": "Felipe VI"
+    },
+    {
+      "nombre": "Milagros Tolón",
+      "inicio": "22 de diciembre de 2025",
+      "fin": "",
+      "partido": "PSOE",
+      "gobierno": "Pedro Sánchez",
+      "periodo": "Felipe VI"
+    }
+  ],
+  "meta": {
+    "title": "Ministros de Educación de España - Free Download",
+    "description": "Lista de ministros de Educación de España con fechas de mandato, partido y gobierno. Contains 127 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministros de Educación de España | ListBase",
+    "seo_description": "Download Ministros de Educación de España — 127 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 127 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Ministros_de_Educación_de_España"
+    ]
+  }
+}
