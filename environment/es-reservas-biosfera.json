@@ -1,0 +1,480 @@
+{
+  "id": "es-reservas-biosfera",
+  "name": "Reservas de la biosfera en España",
+  "title": "Reservas de la biosfera en España",
+  "description": "Lista de reservas de la biosfera en España con año de declaración, localización, superficie y otras figuras de protección.",
+  "category": "environment",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Reservas_de_la_biosfera_en_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Reservas_de_la_biosfera_en_España",
+  "updated": "2026-11",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "anio",
+      "label": "Anio",
+      "type": "number"
+    },
+    {
+      "key": "localizacion",
+      "label": "Localizacion",
+      "type": "string"
+    },
+    {
+      "key": "superficie_ha",
+      "label": "Superficie Ha",
+      "type": "number"
+    },
+    {
+      "key": "otras_figuras",
+      "label": "Otras Figuras",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nombre": "Sierra de Grazalema",
+      "numero": "01",
+      "anio": "1977",
+      "localizacion": "Andalucía",
+      "superficie_ha": "51695",
+      "otras_figuras": "Parque natural. Zona de especial protección para las aves (ZEPA). Reserva de la biosfera intercontinental del Mediterráneo. Zona especial de conservación (ZEC). ​"
+    },
+    {
+      "nombre": "Ordesa-Viñamala",
+      "numero": "02",
+      "anio": "1977 2013",
+      "localizacion": "Aragón",
+      "superficie_ha": "117364​",
+      "otras_figuras": "Parque nacional de Ordesa y Monte Perdido. Sitio Patrimonio Mundial, natural y cultural, Pirineos Monte Perdido, declarado por UNESCO con carácter mixto (español, francés). Monumentos Naturales de los Glaciares Pirenaicos. Zona de especial protección para las aves (ZEPA). Lugares de Importancia Comunitaria (LIC). Geoparque de Sobrarbe. Reservas de Caza de Viñamala y de los Circos. ​"
+    },
+    {
+      "nombre": "Montseny",
+      "numero": "03",
+      "anio": "1978 2014",
+      "localizacion": "Cataluña",
+      "superficie_ha": "50167",
+      "otras_figuras": "Parque natural. ​"
+    },
+    {
+      "nombre": "Doñana",
+      "numero": "04",
+      "anio": "1980",
+      "localizacion": "Andalucía",
+      "superficie_ha": "268293,8",
+      "otras_figuras": "Parque nacional y parque natural. Zona de especial protección para las aves y Zona especial de conservación (Red Natura). Zona húmeda de importancia internacional (RAMSAR). Diploma del Consejo de Europa. Patrimonio Mundial (UNESCO). ​"
+    },
+    {
+      "nombre": "La Mancha Húmeda",
+      "numero": "05",
+      "anio": "1980 2014",
+      "localizacion": "Castilla-La Mancha",
+      "superficie_ha": "418087",
+      "otras_figuras": "Parque nacional de las Tablas de Daimiel. Parque natural de las Lagunas de Ruidera. Reservas naturales (10). Microrreserva (1). Zonas de especial protección para las aves (ZEPA) (3). Lugares de importancia comunitaria (LIC) (3). Zonas húmedas de importancia internacional (RAMSAR) (5). ​"
+    },
+    {
+      "nombre": "La Palma",
+      "numero": "06",
+      "anio": "1983 2002",
+      "localizacion": "Canarias",
+      "superficie_ha": "80702",
+      "otras_figuras": "Parque nacional. Parque natural (2). Reserva natural integral. Sitio de especial interés científico (3). Monumento natural (8). Paisaje protegido (4). Zonas de especial protección para la aves (ZEPA) (5). Zonas especiales de conservación (ZEC) terrestres (30). Zonas especiales de conservación (ZEC) marinas (2). ​"
+    },
+    {
+      "nombre": "Sierras de Cazorla, Segura y Las Villas",
+      "numero": "07",
+      "anio": "1983",
+      "localizacion": "Andalucía",
+      "superficie_ha": "190000",
+      "otras_figuras": "Parque natural. Lugar de importancia comunitaria (LIC). Zona de especial protección para las aves (ZEPA). Zona especial de conservación (ZEC). ​"
+    },
+    {
+      "nombre": "Marismas del Odiel",
+      "numero": "08",
+      "anio": "1983 2018",
+      "localizacion": "Andalucía",
+      "superficie_ha": "25304",
+      "otras_figuras": "Paraje natural. Lugar de importancia comunitaria (7). Zona de especial conservación para las aves (ZEPA). Zona especial de conservación (ZEC). Humedal RAMSAR. ​"
+    },
+    {
+      "nombre": "Urdaibai",
+      "numero": "09",
+      "anio": "1984",
+      "localizacion": "País Vasco",
+      "superficie_ha": "22041",
+      "otras_figuras": "Zona de especial protección para las aves (ZEPA). Zona húmeda de importancia internacional (RAMSAR). Zonas especiales de conservación (ZEC) (3). Ley 5/1989, de 6 de julio, de Protección y Ordenación de la Reserva de la Biosfera de Urdaibai. ​"
+    },
+    {
+      "nombre": "Sierra Nevada",
+      "numero": "10",
+      "anio": "1986 2012",
+      "localizacion": "Andalucía",
+      "superficie_ha": "173110,8",
+      "otras_figuras": "Parque natural. Parque nacional. Monumento natural (Falla de Nigüelas). Zona especial de conservación (ZEC). Zona de especial protección para las aves (ZEPA). Lugar de importancia comunitaria (LIC). Lista de humedales RAMSAR (Humedales y Turberas de Padul). Carta Europea de Turismo Sostenible (CETS). ​"
+    },
+    {
+      "nombre": "Cuenca Alta del Manzanares",
+      "numero": "11",
+      "anio": "1992",
+      "localizacion": "Madrid",
+      "superficie_ha": "105654",
+      "otras_figuras": "Parque regional. Zona de especial protección para las aves (ZEPA). Lugar de importancia comunitaria (LIC). Parque nacional de la Sierra de Guadarrama. ​"
+    },
+    {
+      "nombre": "Lanzarote",
+      "numero": "12",
+      "anio": "1993",
+      "localizacion": "Canarias",
+      "superficie_ha": "122610",
+      "otras_figuras": "Plan Insular de Ordenación (1). Parque nacional. Parques naturales (2). Reserva natural integral (1). Monumentos naturales (5). Paisajes protegidos (2). Sitios de interés científico (2). Reserva marina estatal (1). Zonas de especial protección para las aves (ZEPA) (5). Lugares de importancia comunitaria (LIC) (11). ​"
+    },
+    {
+      "nombre": "Menorca",
+      "numero": "13",
+      "anio": "1993 2003 2019",
+      "localizacion": "Islas Baleares",
+      "superficie_ha": "514485",
+      "otras_figuras": "Parque natural (1). Exclusivamente declaradas como Zona de especial protección para las aves (ZEPA) (5). Zona de especial protección para las aves (ZEPA) (14). Exclusivamente declaradas como Lugar de importancia comunitaria (LIC) (19). Declaradas conjuntamente como LIC y ZEPA (12). ​"
+    },
+    {
+      "nombre": "Sierra de las Nieves",
+      "numero": "14",
+      "anio": "1995",
+      "localizacion": "Andalucía",
+      "superficie_ha": "93930",
+      "otras_figuras": "Parque natural de la Sierra de las Nieves. Lugar de importancia comunitaria (LIC) (8). Zona de especial conservación para las aves. Zona especial de conservación (ZEC). Reserva andaluza de caza. Monumento natural. Reserva de la Biosfera Intercontinental del Mediterráneo Andalucía (España)-Marruecos. ​"
+    },
+    {
+      "nombre": "Cabo de Gata-Níjar",
+      "numero": "15",
+      "anio": "1997",
+      "localizacion": "Andalucía",
+      "superficie_ha": "50000",
+      "otras_figuras": "Parque natural. Zona de especial protección para las aves (ZEPA) (7). Zona especialmente protegida de importancia para el Mediterráneo (ZEPIM). Lugar de importancia comunitaria (LIC) (11). Zona RAMSAR (Humedal de Importancia Internacional). Reserva marina del Estado. Geoparque. Zona especial de conservación (ZEC). ​"
+    },
+    {
+      "nombre": "El Hierro",
+      "numero": "16",
+      "anio": "2000",
+      "localizacion": "Canarias",
+      "superficie_ha": "29600,4",
+      "otras_figuras": "Reserva natural integral (2). Reserva natural especial. Reserva marina. Zona de especial protección para las aves (ZEPA) (3). Monumento natural. Parque rural. Paisaje protegido (2). ​"
+    },
+    {
+      "nombre": "Somiedo (elemento de la futura Reserva de la biosfera Gran Cantábrica)",
+      "numero": "17",
+      "anio": "2000",
+      "localizacion": "Principado de Asturias",
+      "superficie_ha": "29121",
+      "otras_figuras": "Parque natural de Somiedo. Lugar de importancia comunitaria (LIC). Zona de especial conservación para las aves (ZEPA). Monumento natural del Conjunto Lacustre de Somiedo. ​"
+    },
+    {
+      "nombre": "Muniellos (elemento de la futura Reserva de la biosfera Gran Cantábrica)",
+      "numero": "18",
+      "anio": "2000 2003",
+      "localizacion": "Principado de Asturias",
+      "superficie_ha": "55657",
+      "otras_figuras": "Reserva natural parcial del Cueto de Arbás. Parque natural de las Fuentes del Narcea, Degaña e Ibias. Zona de especial protección para las aves (ZEPA). Reserva natural integral de Muniellos. ​"
+    },
+    {
+      "nombre": "Bardenas Reales",
+      "numero": "19",
+      "anio": "2000",
+      "localizacion": "Navarra",
+      "superficie_ha": "39273",
+      "otras_figuras": "Parque natural. Lugar de importancia comunitaria. Reservas naturales (2). Zonas de especial conservación para las aves (2). ​"
+    },
+    {
+      "nombre": "Redes (elemento de la futura Reserva de la biosfera Gran Cantábrica)",
+      "numero": "20",
+      "anio": "2001",
+      "localizacion": "Principado de Asturias",
+      "superficie_ha": "37804",
+      "otras_figuras": "Parque natural de Redes. Zona de especial protección para las aves (ZEPA). Lugar de importancia comunitaria (LIC). Monumento natural. ​"
+    },
+    {
+      "nombre": "Tierras del Miño",
+      "numero": "21",
+      "anio": "2002",
+      "localizacion": "Galicia",
+      "superficie_ha": "363668,9",
+      "otras_figuras": "Lugar de importancia comunitaria (LIC): Parga-Ladra-Támoga, Sierra del Xistral, Ría de Foz-Masma, Sierra del Careón. Zona de especial protección de los valores naturales (ZEPVN): Parga-Ladra-Támoga, Sierra del Xistral, Miño-Neira, Ría de Foz-Masma, Sierra del Careón. ​"
+    },
+    {
+      "nombre": "Dehesas de Sierra Morena",
+      "numero": "22",
+      "anio": "2002",
+      "localizacion": "Andalucía",
+      "superficie_ha": "424400",
+      "otras_figuras": "Parques naturales: Sierra de Aracena y Picos de Aroche (Huelva), Sierra Norte de Sevilla (Sevilla), y Sierra de Hornachuelos (Córdoba). Monumentos naturales: Monumentos naturales: Encina de la Dehesa de San Francisco (Huelva), Cerro del Hierro (Sevilla) y Cascada del Huesna (Sevilla). Zona de especial protección para las aves (ZEPA). Zona de especial conservación. Geoparque Sierra Norte de Sevilla. ​"
+    },
+    {
+      "nombre": "Valle de Laciana (elemento de la futura Reserva de la biosfera Gran Cantábrica)",
+      "numero": "23",
+      "anio": "2003",
+      "localizacion": "Castilla y León",
+      "superficie_ha": "21700",
+      "otras_figuras": "Espacio Natural Alto Sil. Lugar de importancia comunitaria (LIC) Alto Sil. Zona de especial protección para la aves (ZEPA) Alto Sil. ​"
+    },
+    {
+      "nombre": "Picos de Europa (elemento de la futura Reserva de la biosfera Gran Cantábrica)",
+      "numero": "24",
+      "anio": "2003",
+      "localizacion": "Principado de Asturias Cantabria Castilla y León",
+      "superficie_ha": "64315",
+      "otras_figuras": "Parque nacional de los Picos de Europa. Lugar de importancia comunitaria (LIC). Zona de especial conservación para las aves (ZEPA). Parque Regional de Picos de Europa (vertiente leonesa). Monumento natural (4). ​"
+    },
+    {
+      "nombre": "Monfragüe",
+      "numero": "25",
+      "anio": "2003",
+      "localizacion": "Extremadura",
+      "superficie_ha": "116160",
+      "otras_figuras": "Parque nacional. Lugar de importancia comunitaria (LIC). Zona de especial protección para las aves (ZEPA). ​"
+    },
+    {
+      "nombre": "Valles del Jubera, Leza, Cidacos y Alhama",
+      "numero": "26",
+      "anio": "2003",
+      "localizacion": "La Rioja",
+      "superficie_ha": "119669",
+      "otras_figuras": "Zonas especial de conservación de importancia comunitaria (ZECIC) (3). Zona de especial protección para las aves (ZEPA) (3). ​"
+    },
+    {
+      "nombre": "Babia (elemento de la futura Reserva de la biosfera Gran Cantábrica)",
+      "numero": "27",
+      "anio": "2004",
+      "localizacion": "Castilla y León",
+      "superficie_ha": "38018",
+      "otras_figuras": "Parque natural Babia y Luna. Lugar de importancia comunitaria. Zona de especial conservación para las aves. ​"
+    },
+    {
+      "nombre": "Gran Canaria",
+      "numero": "28",
+      "anio": "2005",
+      "localizacion": "Canarias",
+      "superficie_ha": "100458,6",
+      "otras_figuras": "Parque natural (2). Parque rural. Monumento natural (3). Reserva natural integral. Reserva natural especial. Paisaje protegido. Zona de especial protección para las aves (ZEPA). Zona especial de conservación (ZEC). ​"
+    },
+    {
+      "nombre": "Área de Allariz",
+      "numero": "29",
+      "anio": "2005",
+      "localizacion": "Galicia",
+      "superficie_ha": "21482",
+      "otras_figuras": "Zona húmeda de importancia internacional (RAMSAR). Zona de especial protección para las aves (ZEPA). Lugar de importancia comunitaria (LIC). ​"
+    },
+    {
+      "nombre": "Sierra del Rincón",
+      "numero": "30",
+      "anio": "2005",
+      "localizacion": "Madrid",
+      "superficie_ha": "15230,8",
+      "otras_figuras": "Zona Especial de Conservación Cuenca del Río Lozoya y Sierra Norte. ​"
+    },
+    {
+      "nombre": "Alto Bernesga (elemento de la futura Reserva de la biosfera Gran Cantábrica)",
+      "numero": "31",
+      "anio": "2005",
+      "localizacion": "Castilla y León",
+      "superficie_ha": "33442",
+      "otras_figuras": "Lugar de importancia comunitaria (LIC). Punto de interés biológico (PIB) (2). Lugar de interés geológico (LIG). Áreas importantes para las aves (2). ​"
+    },
+    {
+      "nombre": "Los Argüellos (elemento de la futura reserva de la biosfera Gran Cantábrica)",
+      "numero": "32",
+      "anio": "2005",
+      "localizacion": "Castilla y León",
+      "superficie_ha": "33260",
+      "otras_figuras": "Lugar de importancia comunitaria (LIC) (2). Espacio natural. Punto de interés geológico. Punto de interés biológico. ​"
+    },
+    {
+      "nombre": "Valles de Omaña y Luna (elemento de la futura Reserva de la biosfera Gran Cantábrica)",
+      "numero": "33",
+      "anio": "2005 2019",
+      "localizacion": "Castilla y León",
+      "superficie_ha": "81161,9",
+      "otras_figuras": "Espacio natural Valles de Babia y Luna. Lugar de importancia comunitaria (LIC)(2). Zona de especial protección para las aves (ZEPA). ​"
+    },
+    {
+      "nombre": "Los Ancares Lucenses y Montes de Cervantes, Navia y Becerreá (elemento de la futura Reserva de la biosfera Gran Cantábrica)",
+      "numero": "34",
+      "anio": "2006",
+      "localizacion": "Galicia",
+      "superficie_ha": "53664",
+      "otras_figuras": "Lugar de importancia comunitaria (LIC): Os Ancares-Courel, Cruzul-Agüeira. Zona de especial protección para las aves (ZEPA): Ancares. Zona de especial protección de los valores naturales (ZEPVN): Os Ancares-Courel, Cruzul-Agüeira, Ancares. Reserva nacional de caza. Zona de protección del Oso Pardo. ​"
+    },
+    {
+      "nombre": "Ancares Leoneses (elemento de la futura Reserva de la biosfera Gran Cantábrica)",
+      "numero": "35",
+      "anio": "2006",
+      "localizacion": "Castilla y León",
+      "superficie_ha": "56786",
+      "otras_figuras": "Lugar de importancia comunitaria (LIC). Zona de especial protección para las aves (ZEPA). Espacio natural protegido de la REN de Castilla y León. Reserva nacional de caza. ​"
+    },
+    {
+      "nombre": "Sierras de Béjar y Francia",
+      "numero": "36",
+      "anio": "2006",
+      "localizacion": "Castilla y León",
+      "superficie_ha": "199140,3",
+      "otras_figuras": "Parque natural Batuecas-Sierra de Francia. Espacio natural Quilamas; Candelario. Lugar de importancia comunitaria (8). Zona de especial protección de aves (5). Reserva nacional de caza de las Batuecas. ​"
+    },
+    {
+      "nombre": "Intercontinental del Mediterráneo",
+      "numero": "37",
+      "anio": "2006",
+      "localizacion": "Andalucía Marruecos",
+      "superficie_ha": "907185",
+      "otras_figuras": "Andalucía: parques naturales (4). Reservas de la biosfera (2). Parajes naturales (2). Monumentos naturales (3). Parque periurbano (1). Lugares de interés comunitario (LIC) (11). Marruecos: parque nacional. Lugar de importancia biológica y ecológica (6). Zona de especial protección para las aves (ZEPA) (7). Zona especial de conservación (ZEC) (7). ​"
+    },
+    {
+      "nombre": "Río Eo, Oscos y Tierras de Burón (elemento de la futura Reserva de la biosfera Gran Cantábrica)",
+      "numero": "38",
+      "anio": "2007",
+      "localizacion": "Principado de Asturias Galicia",
+      "superficie_ha": "159949,6",
+      "otras_figuras": "Zonas de especial conservación para las aves (ZEPA) (3). Lugares de importancia comunitaria (LIC) (9). Humedal de importancia internacional (RAMSAR). ​"
+    },
+    {
+      "nombre": "Fuerteventura",
+      "numero": "39",
+      "anio": "2009",
+      "localizacion": "Canarias",
+      "superficie_ha": "354288",
+      "otras_figuras": "Parques naturales (3). Parques rurales (1). Monumentos naturales (4). Paisajes protegidos (2). Sitios de interés científico (1). Humedal internacional RAMSAR. Zonas ZEC marinas (3). Lugares de importancia comunitaria (LIC) (13). Zonas de especial protección para las aves ZEPAS (5). ​"
+    },
+    {
+      "nombre": "Gêres-Xurés",
+      "numero": "40",
+      "anio": "2009",
+      "localizacion": "Galicia Portugal",
+      "superficie_ha": "330874",
+      "otras_figuras": "Parque natural Baixa Limia Serra do Xurés. Parque nacional de Peneda-Gerês (Portugal). SIC Serras da Peneda e Gerês. PTCON 0001 Reserva Biogenética Matas de Palheiros-Albergaria. PT 930003 (Red de Reservas Biogenéticas del Consejo de Europa). Lugar de importancia comunitaria (LIC). Zona de especial protección para las aves (ZEPA). ​"
+    },
+    {
+      "nombre": "Ubiña-La Mesa (elemento de la futura Reserva de la biosfera Gran Cantábrica)",
+      "numero": "41",
+      "anio": "2012",
+      "localizacion": "Principado de Asturias",
+      "superficie_ha": "45163",
+      "otras_figuras": "Parque natural de Las Ubiñas-La Mesa. Lugar de importancia comunitaria (LIC): Caldoveiro, Montovo-La Mesa, Peña Ubiña, Valgrande y Aller-Lena. Zona de especial protección para las aves (ZEPA): Ubiña-La Mesa. Monumento natural de los Puertos de Marabio. Monumento natural de Cueva Huerta. ​"
+    },
+    {
+      "nombre": "La Gomera",
+      "numero": "42",
+      "anio": "2012",
+      "localizacion": "Canarias",
+      "superficie_ha": "84522,2",
+      "otras_figuras": "Parque nacional de Garajonay. Reserva natural integral. Reserva natural especial. Parque natural. Parque rural. Monumentos naturales (8). Paisaje protegido. Sitio de interés científico (3). Zonas especiales de conservación (ZEC) (27). Zonas de especial protección para las aves (ZEPA) (7). Bienes naturales del Patrimonio Mundial (parque nacional de Garajonay, declarado Bien Natural del Patrimonio Mundial en el año 1986). Bienes inmateriales del Patrimonio Mundial (El Silbo Gomero). Bienes de interés cultural (La Fortaleza de Chipude, Puntallana, El Bujero del Silo, Torre del Conde, Casa de la Aduana). ​"
+    },
+    {
+      "nombre": "Mariñas Coruñesas y Tierras de Mandeo",
+      "numero": "43",
+      "anio": "2013",
+      "localizacion": "Galicia",
+      "superficie_ha": "116724,3",
+      "otras_figuras": "Lugares de importancia comunitaria (4). Zonas de especial protección de los valores naturales (4). Monumento natural (1). ​"
+    },
+    {
+      "nombre": "Tierras del Ebro",
+      "numero": "44",
+      "anio": "2013",
+      "localizacion": "Cataluña",
+      "superficie_ha": "367729,6",
+      "otras_figuras": "Parque natural del Delta de l’Ebre. Parque natural del Massís dels Ports. Lugar de importancia comunitaria (17). Reserva nacional de caza. ​"
+    },
+    {
+      "nombre": "Real Sitio de San Ildefonso-El Espinar",
+      "numero": "45",
+      "anio": "2013",
+      "localizacion": "Castilla y León",
+      "superficie_ha": "48727,61",
+      "otras_figuras": "Parque nacional de la Sierra de Guadarrama. Parque natural de la Sierra Norte de Guadarrama. LIC «Sierra de Guadarrama» ES4160109. LIC Valles del Voltoya-Zorita ES0000188. ZEPA «Sierra de Guadarrama». ZEPA «Valles Votoya y Zorita». ​"
+    },
+    {
+      "nombre": "Macizo de Anaga",
+      "numero": "46",
+      "anio": "2015",
+      "localizacion": "Canarias",
+      "superficie_ha": "48727,07",
+      "otras_figuras": "Parque rural de Anaga. Reserva natural integral de Ijuana. Reserva natural integral de El Pijaral. Reserva natural integral de los Roques de Anaga. ZEPA Anaga. ZECs Anaga, El Pirajal, Ijuana, Roques de Anaga. ​"
+    },
+    {
+      "nombre": "Meseta Ibérica",
+      "numero": "47",
+      "anio": "2015",
+      "localizacion": "Castilla y León Portugal",
+      "superficie_ha": "1132606",
+      "otras_figuras": "5 áreas protegidas (3 en Portugal y 2 en España). 22 Lugares de interés comunitario (8 en Portugal y 14 en España). 10 Zonas de especial protección para las aves (4 en Portugal y 6 en España). ​"
+    },
+    {
+      "nombre": "Tajo-Tejo Internacional",
+      "numero": "48",
+      "anio": "2016",
+      "localizacion": "Extremadura Portugal",
+      "superficie_ha": "428176",
+      "otras_figuras": "Parque natural del Tajo Internacional. Parque natural do Tejo Internacional. Parque Internacional Tajo-Tejo. ZIR Sierra de San Pedro. Espacios de la Red Natura 2000: ZPE, 14 ZEC y 11 ZEPA. ​"
+    },
+    {
+      "nombre": "Ponga",
+      "numero": "49",
+      "anio": "2018",
+      "localizacion": "Principado de Asturias",
+      "superficie_ha": "20506",
+      "otras_figuras": "Parque natural de Ponga. Zona de especial protección para las aves (ZEPA). Zona especial de conservación Ponga-Amieva (ZEC). ​"
+    },
+    {
+      "nombre": "Valle del Cabriel",
+      "numero": "50",
+      "anio": "2019",
+      "localizacion": "Aragón Castilla-La Mancha Comunidad Valenciana",
+      "superficie_ha": "421765,93",
+      "otras_figuras": "Lugares de importancia comunitaria (LIC) (11). Zona especial de conservación (ZEC) (5). Zona de especial protección para las aves (ZEPA) (9). Microreservas (6). Monumentos naturales (2). Parques naturales (2). Reserva natural (1). ​"
+    },
+    {
+      "nombre": "Alto Turia",
+      "numero": "51",
+      "anio": "2019",
+      "localizacion": "Castilla-La Mancha Comunidad Valenciana",
+      "superficie_ha": "67080",
+      "otras_figuras": "Lugares de interés comunitario (LIC) (6). Zona de especial protección para las aves (ZEPA) (1). Zona especial de conservación (ZEC) (2). Microrreservas de flora (8). Parajes naturales municipales (PANAMU) (2). ​"
+    },
+    {
+      "nombre": "La Siberia",
+      "numero": "52",
+      "anio": "2019",
+      "localizacion": "Extremadura",
+      "superficie_ha": "155717,49",
+      "otras_figuras": "Zona de especial protección para las aves (ZEPA) (4). Zona especial de conservación (ZEC) (8). Zona de interés regional (ZIR) (1). Corredor ecológico y de biodiversidad (CEB) (1). RAMSAR (1). ​"
+    },
+    {
+      "nombre": "Ribeira Sacra, Serras do Oribio y Courel",
+      "numero": "53",
+      "anio": "2021",
+      "localizacion": "Galicia",
+      "superficie_ha": "306534,77",
+      "otras_figuras": ""
+    }
+  ],
+  "meta": {
+    "title": "Reservas de la biosfera en España - Free Download",
+    "description": "Lista de reservas de la biosfera en España con año de declaración, localización, superficie y otras figuras de protección. Contains 53 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Reservas de la biosfera en España | ListBase",
+    "seo_description": "Download Reservas de la biosfera en España — 53 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 53 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Reservas_de_la_biosfera_en_España"
+    ]
+  }
+}

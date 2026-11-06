@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-06T02:40:10.586Z",
-  "total_datasets": 538,
-  "total_records": 430641,
+  "generated": "2026-11-06T02:40:19.024Z",
+  "total_datasets": 539,
+  "total_records": 430694,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -889,6 +889,33 @@
         "xlsx": {
           "name": "es-parques-nacionales-de-mexico_ES.xlsx",
           "size": 10541
+        }
+      }
+    },
+    {
+      "id": "es-reservas-biosfera",
+      "name": "Reservas de la biosfera en España",
+      "category": "environment",
+      "record_count": 53,
+      "columns": [
+        "nombre",
+        "numero",
+        "anio",
+        "localizacion",
+        "superficie_ha",
+        "otras_figuras"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Reservas_de_la_biosfera_en_España",
+      "updated": "2026-11",
+      "size": 24444,
+      "files": {
+        "csv": {
+          "name": "es-reservas-biosfera_ES.csv",
+          "size": 15700
+        },
+        "xlsx": {
+          "name": "es-reservas-biosfera_ES.xlsx",
+          "size": 12313
         }
       }
     },
