@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-06T02:40:27.479Z",
-  "total_datasets": 540,
-  "total_records": 430797,
+  "generated": "2026-11-06T02:40:37.291Z",
+  "total_datasets": 541,
+  "total_records": 430824,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -2842,6 +2842,29 @@
         "xlsx": {
           "name": "es-arabismos_ES.xlsx",
           "size": 62575
+        }
+      }
+    },
+    {
+      "id": "es-frecuencia-letras",
+      "name": "Frecuencia de aparición de letras en español",
+      "category": "language",
+      "record_count": 27,
+      "columns": [
+        "letra",
+        "porcentaje"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Frecuencia_de_aparición_de_letras",
+      "updated": "2026-11",
+      "size": 2973,
+      "files": {
+        "csv": {
+          "name": "es-frecuencia-letras_ES.csv",
+          "size": 320
+        },
+        "xlsx": {
+          "name": "es-frecuencia-letras_ES.xlsx",
+          "size": 7156
         }
       }
     },
