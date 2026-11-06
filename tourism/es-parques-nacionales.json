@@ -1,0 +1,205 @@
+{
+  "id": "es-parques-nacionales",
+  "name": "Parques nacionales de España",
+  "title": "Parques nacionales de España",
+  "description": "Lista de parques nacionales de España con provincias, fecha de declaración, superficie y ecosistemas principales.",
+  "category": "tourism",
+  "source": "https://es.wikipedia.org/wiki/Parques_nacionales_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Parques_nacionales_de_España",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "parque",
+      "label": "Parque",
+      "type": "string"
+    },
+    {
+      "key": "provincias",
+      "label": "Provincias",
+      "type": "string"
+    },
+    {
+      "key": "fecha_declaracion",
+      "label": "Fecha Declaracion",
+      "type": "string"
+    },
+    {
+      "key": "referente",
+      "label": "Referente",
+      "type": "string"
+    },
+    {
+      "key": "superficie_ha",
+      "label": "Superficie Ha",
+      "type": "string"
+    },
+    {
+      "key": "cotas",
+      "label": "Cotas",
+      "type": "string"
+    },
+    {
+      "key": "ecosistemas",
+      "label": "Ecosistemas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "parque": "Picos de Europa",
+      "provincias": "Asturias, León, Cantabria",
+      "fecha_declaracion": "1918/1995/2014 (Reclasificación y ampliaciones)",
+      "referente": "1916/1989",
+      "superficie_ha": "17000/67455",
+      "cotas": "2650 70",
+      "ecosistemas": "Alta montaña atlántica: geomorfología glaciar y cárstica, foces, bosques de frondosas y praderío."
+    },
+    {
+      "parque": "Ordesa y Monte Perdido",
+      "provincias": "Huesca",
+      "fecha_declaracion": "1918/1982 (Reclasificación y ampliación)",
+      "referente": "1916/1975",
+      "superficie_ha": "2100/15608",
+      "cotas": "3335 750",
+      "ecosistemas": "Alta montaña: glaciarismo y geomorfología glaciar, cárstica y fluvial, bosques de coníferas y frondosas."
+    },
+    {
+      "parque": "Teide",
+      "provincias": "Santa Cruz de Tenerife",
+      "fecha_declaracion": "1954 1981 (Reclasificación)",
+      "referente": "1916 1975 1989/1997",
+      "superficie_ha": "13571/18990",
+      "cotas": "3718 1650",
+      "ecosistemas": "Volcánico-macaronésica: geomorfología volcánica, (cañadas, malpaíses...), endemismos, matorral canario de alta montaña."
+    },
+    {
+      "parque": "Caldera de Taburiente",
+      "provincias": "Santa Cruz de Tenerife",
+      "fecha_declaracion": "1954 1981 (Reclasificación)",
+      "referente": "1916 1975",
+      "superficie_ha": "4690/5956(ZPP)",
+      "cotas": "2426 430",
+      "ecosistemas": "Volcánico-macaronésica: caldera volcánica y erosiva, pinar canario, vegetación rupícola."
+    },
+    {
+      "parque": "Aiguas Tortas y Lago de San Mauricio",
+      "provincias": "Lérida",
+      "fecha_declaracion": "1955 1996 (Ampliación de la Generalidad de Cataluña)",
+      "referente": "1916",
+      "superficie_ha": "10230/14119",
+      "cotas": "3033 1350",
+      "ecosistemas": "Alta montaña atlántica: glaciarismo, bosques de coníferas y frondosas, praderío alpino."
+    },
+    {
+      "parque": "Doñana",
+      "provincias": "Huelva, Sevilla, Cádiz",
+      "fecha_declaracion": "1969 1978 (Reclasificación)",
+      "referente": "1957 1975 2004 (Ampliación)",
+      "superficie_ha": "54252/74279(Pp)",
+      "cotas": "47 0",
+      "ecosistemas": "Humedal: marismas costeras, dunas móviles y vegetación sabulícola, pinares y alcornocales."
+    },
+    {
+      "parque": "Tablas de Daimiel",
+      "provincias": "Ciudad Real",
+      "fecha_declaracion": "1973 1980 (Reclasificación)",
+      "referente": "1957 1975",
+      "superficie_ha": "1928/5410(Pp)",
+      "cotas": "618 607",
+      "ecosistemas": "Humedal: humedal interior, saladares y vegetación de ribera."
+    },
+    {
+      "parque": "Timanfaya",
+      "provincias": "Las Palmas",
+      "fecha_declaracion": "1974 1981 (Reclasificación)",
+      "referente": "1957 1975",
+      "superficie_ha": "5107",
+      "cotas": "510 0",
+      "ecosistemas": "Volcánico-macaronésica: pahoehoe, conos de cínder y actividades geotérmicas, endemismos."
+    },
+    {
+      "parque": "Garajonay",
+      "provincias": "Santa Cruz de Tenerife",
+      "fecha_declaracion": "1981",
+      "referente": "1975",
+      "superficie_ha": "3984",
+      "cotas": "1487 700",
+      "ecosistemas": "Volcánico-macaronésica: barrancos, pitones fonolíticos, Roques, laurisilva canaria"
+    },
+    {
+      "parque": "Archipiélago de Cabrera",
+      "provincias": "Islas Baleares",
+      "fecha_declaracion": "1991",
+      "referente": "1989",
+      "superficie_ha": "10021/8703mar./1318terr.",
+      "cotas": "172 0 (fondo marino: -118)",
+      "ecosistemas": "Marítimo-terrestre: islotes rocosos, fondos marinos, matorral mediterráneo."
+    },
+    {
+      "parque": "Cabañeros",
+      "provincias": "Ciudad Real, Toledo",
+      "fecha_declaracion": "1995",
+      "referente": "1989",
+      "superficie_ha": "39687",
+      "cotas": "1448 600",
+      "ecosistemas": "Media montaña mediterránea: sierras, piedemonte y superficie de rañas, monte mediterráneo y de transición; matorral, formaciones herbáceas."
+    },
+    {
+      "parque": "Sierra Nevada",
+      "provincias": "Granada, Almería",
+      "fecha_declaracion": "1999/1989 (parque natural, 71 646 ha)",
+      "referente": "1989/1998",
+      "superficie_ha": "70953",
+      "cotas": "3482 1200",
+      "ecosistemas": "Alta montaña mediterránea: huellas glaciares, periglaciarismo, pastos alpinos (borreguiles), bosques de quercíneas."
+    },
+    {
+      "parque": "Islas Atlánticas de Galicia",
+      "provincias": "Pontevedra, La Coruña",
+      "fecha_declaracion": "2002",
+      "referente": "",
+      "superficie_ha": "8400/1200terr./7200mar.",
+      "cotas": "197 Fondo marino",
+      "ecosistemas": "Marítimo-terrestre: fondos marinos, aves endémicas."
+    },
+    {
+      "parque": "Monfragüe",
+      "provincias": "Cáceres",
+      "fecha_declaracion": "2007",
+      "referente": "",
+      "superficie_ha": "17852",
+      "cotas": "750 250",
+      "ecosistemas": "Media montaña mediterránea: bosque y matorral mediterráneo, dehesas, roquedos y masas de agua."
+    },
+    {
+      "parque": "Sierra de Guadarrama",
+      "provincias": "Madrid, Segovia",
+      "fecha_declaracion": "2013",
+      "referente": "",
+      "superficie_ha": "33960",
+      "cotas": "2428",
+      "ecosistemas": "Alta montaña mediterránea: glaciarismo, bosques de coníferas y frondosas, bosques de quercíneas."
+    },
+    {
+      "parque": "Sierra de las Nieves",
+      "provincias": "Málaga",
+      "fecha_declaracion": "2021",
+      "referente": "",
+      "superficie_ha": "22979,76",
+      "cotas": "",
+      "ecosistemas": "Alta montaña mediterránea: bosques de coníferas y frondosas, bosques de pinsapar."
+    }
+  ],
+  "meta": {
+    "title": "Parques nacionales de España - Free Download",
+    "description": "Lista de parques nacionales de España con provincias, fecha de declaración, superficie y ecosistemas principales. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Parques nacionales de España | ListBase",
+    "seo_description": "Download Parques nacionales de España — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Parques_nacionales_de_España"
+    ]
+  }
+}
