@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-05T02:08:41.856Z",
-  "total_datasets": 535,
-  "total_records": 430264,
+  "generated": "2026-11-06T02:39:51.585Z",
+  "total_datasets": 536,
+  "total_records": 430498,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -3160,6 +3160,34 @@
         "xlsx": {
           "name": "es-sencillos-numero-uno-espana-2023-2025_ES.xlsx",
           "size": 12842
+        }
+      }
+    },
+    {
+      "id": "es-ministros-asuntos-exteriores",
+      "name": "Ministros de Asuntos Exteriores de España",
+      "category": "politics",
+      "record_count": 234,
+      "columns": [
+        "nombre",
+        "inicio",
+        "fin",
+        "duracion",
+        "partido",
+        "gobierno",
+        "periodo"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Ministros_de_Asuntos_Exteriores_de_España",
+      "updated": "2026-11",
+      "size": 69758,
+      "files": {
+        "csv": {
+          "name": "es-ministros-asuntos-exteriores_ES.csv",
+          "size": 36584
+        },
+        "xlsx": {
+          "name": "es-ministros-asuntos-exteriores_ES.xlsx",
+          "size": 19205
         }
       }
     },
