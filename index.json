@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-06T02:40:19.024Z",
-  "total_datasets": 539,
-  "total_records": 430694,
+  "generated": "2026-11-06T02:40:27.479Z",
+  "total_datasets": 540,
+  "total_records": 430797,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 25
+      "dataset_count": 26
     },
     {
       "id": "units",
@@ -16984,6 +16984,33 @@
         "xlsx": {
           "name": "es-aragon-aeropuertos_ES.xlsx",
           "size": 10162
+        }
+      }
+    },
+    {
+      "id": "es-autopistas-y-autovias",
+      "name": "Autopistas y autovías de España",
+      "category": "transport",
+      "record_count": 103,
+      "columns": [
+        "id",
+        "id_europeo",
+        "denominacion",
+        "antiguo_id",
+        "itinerario",
+        "longitud"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Autopistas_y_autovías_de_España",
+      "updated": "2026-11",
+      "size": 28436,
+      "files": {
+        "csv": {
+          "name": "es-autopistas-y-autovias_ES.csv",
+          "size": 13346
+        },
+        "xlsx": {
+          "name": "es-autopistas-y-autovias_ES.xlsx",
+          "size": 13663
         }
       }
     },

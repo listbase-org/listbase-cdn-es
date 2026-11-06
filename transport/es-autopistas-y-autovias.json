@@ -1,0 +1,880 @@
+{
+  "id": "es-autopistas-y-autovias",
+  "name": "Autopistas y autovías de España",
+  "title": "Autopistas y autovías de España",
+  "description": "Red estatal de autopistas y autovías de España con identificador, denominación, itinerario y longitud.",
+  "category": "transport",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Autopistas_y_autovías_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Autopistas_y_autovías_de_España",
+  "updated": "2026-11",
+  "record_count": 103,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "id_europeo",
+      "label": "Id Europeo",
+      "type": "string"
+    },
+    {
+      "key": "denominacion",
+      "label": "Denominacion",
+      "type": "string"
+    },
+    {
+      "key": "antiguo_id",
+      "label": "Antiguo Id",
+      "type": "string"
+    },
+    {
+      "key": "itinerario",
+      "label": "Itinerario",
+      "type": "string"
+    },
+    {
+      "key": "longitud",
+      "label": "Longitud",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "A-1",
+      "id_europeo": "E-5",
+      "denominacion": "Autovía del Norte",
+      "antiguo_id": "N-I",
+      "itinerario": "Tramo 1: Madrid - Aranda de Duero - Burgos - Rubena Tramo 2: Miranda de Ebro - Armiñón - Vitoria - Alsasua - Lím. Navarra-Guipúzcoa",
+      "longitud": "375 km"
+    },
+    {
+      "id": "A-1",
+      "id_europeo": "E-5",
+      "denominacion": "Autovía del Norte",
+      "antiguo_id": "N-I",
+      "itinerario": "Tramo 1: Madrid - Aranda de Duero - Burgos - Rubena Tramo 2: Miranda de Ebro - Armiñón - Vitoria - Alsasua - Lím. Navarra-Guipúzcoa",
+      "longitud": "375 km"
+    },
+    {
+      "id": "A-1",
+      "id_europeo": "E-5",
+      "denominacion": "Autovía del Norte",
+      "antiguo_id": "N-I",
+      "itinerario": "Tramo 1: Madrid - Aranda de Duero - Burgos - Rubena Tramo 2: Miranda de Ebro - Armiñón - Vitoria - Alsasua - Lím. Navarra-Guipúzcoa",
+      "longitud": "375 km"
+    },
+    {
+      "id": "N-I",
+      "id_europeo": "E-5",
+      "denominacion": "Carretera Madrid-Irún",
+      "antiguo_id": "",
+      "itinerario": "Tramo 3: Lím. Navarra-Guipúzcoa - Tolosa - San Sebastián",
+      "longitud": "375 km"
+    },
+    {
+      "id": "AP-1",
+      "id_europeo": "E-5 E-80",
+      "denominacion": "Autopista del Norte",
+      "antiguo_id": "A-1",
+      "itinerario": "Burgos - Rubena - Armiñón",
+      "longitud": "80,9 km"
+    },
+    {
+      "id": "AP-1",
+      "id_europeo": "E-5 E-80",
+      "denominacion": "Autopista del Norte",
+      "antiguo_id": "A-1",
+      "itinerario": "Burgos - Rubena - Armiñón",
+      "longitud": "80,9 km"
+    },
+    {
+      "id": "AP-1",
+      "id_europeo": "E-5 E-70 E-80",
+      "denominacion": "Autopista Vitoria-Irún por Éibar",
+      "antiguo_id": "A-1",
+      "itinerario": "Vitoria - Mondragón - Éibar AP-8 - San Sebastián - Irún (con peaje)",
+      "longitud": "115,6 km"
+    },
+    {
+      "id": "AP-1",
+      "id_europeo": "E-5 E-70 E-80",
+      "denominacion": "Autopista Vitoria-Irún por Éibar",
+      "antiguo_id": "A-1",
+      "itinerario": "Vitoria - Mondragón - Éibar AP-8 - San Sebastián - Irún (con peaje)",
+      "longitud": "115,6 km"
+    },
+    {
+      "id": "R-1",
+      "id_europeo": "",
+      "denominacion": "Autopista Radial 1",
+      "antiguo_id": "",
+      "itinerario": "Madrid - * - Santo Tomé del Puerto (con peaje)",
+      "longitud": "99 km"
+    },
+    {
+      "id": "A-2",
+      "id_europeo": "E-90",
+      "denominacion": "Autovía del Nordeste",
+      "antiguo_id": "N-II",
+      "itinerario": "Tramo 1: Madrid - Guadalajara - Zaragoza - Alfajarín Tramo 2: Fraga - Lérida - Igualada - Barcelona En obras: Tordera - Vidreras Tramo 3: Vidreras - Gerona Tramo 4: Vilademúls - Orriols Proyectado: Orriols - Figueras - El Pertús - Frontera con Francia",
+      "longitud": "536,9 km"
+    },
+    {
+      "id": "AP-2",
+      "id_europeo": "E-90",
+      "denominacion": "Autopista Zaragoza-Mediterráneo",
+      "antiguo_id": "A-2",
+      "itinerario": "Alfajarín - Fraga - Lérida - Vendrell",
+      "longitud": "215,9 km"
+    },
+    {
+      "id": "R-2",
+      "id_europeo": "",
+      "denominacion": "Autopista Madrid-Guadalajara",
+      "antiguo_id": "",
+      "itinerario": "Madrid - Guadalajara - Jadraque A-2 (con peaje)",
+      "longitud": "61 km"
+    },
+    {
+      "id": "A-3",
+      "id_europeo": "E-901",
+      "denominacion": "Autovía del Este",
+      "antiguo_id": "N-III",
+      "itinerario": "Madrid - Tarancón - Utiel - Requena - Valencia",
+      "longitud": "352 km"
+    },
+    {
+      "id": "R-3",
+      "id_europeo": "",
+      "denominacion": "Autopista Madrid-Tarancón",
+      "antiguo_id": "",
+      "itinerario": "Madrid - Arganda del Rey A-3 (con peaje)",
+      "longitud": "37 km"
+    },
+    {
+      "id": "A-4",
+      "id_europeo": "E-5",
+      "denominacion": "Autovía del Sur",
+      "antiguo_id": "N-IV",
+      "itinerario": "Madrid - Aranjuez - Llanos del Caudillo - Valdepeñas - Bailén - Córdoba - Sevilla - Dos Hermanas - Los Palacios y Villafranca - Jerez - Cádiz",
+      "longitud": "668 km"
+    },
+    {
+      "id": "AP-4",
+      "id_europeo": "E-5",
+      "denominacion": "Autopista del Sur",
+      "antiguo_id": "A-4",
+      "itinerario": "Dos Hermanas - Los Palacios y Villafranca - Jerez - Cádiz",
+      "longitud": "86 km"
+    },
+    {
+      "id": "R-4",
+      "id_europeo": "",
+      "denominacion": "Autopista Madrid-Ocaña",
+      "antiguo_id": "",
+      "itinerario": "Getafe - Aranjuez - Ocaña - A-4 AP-36 (con peaje)",
+      "longitud": "52,64 km"
+    },
+    {
+      "id": "A-5",
+      "id_europeo": "E-90",
+      "denominacion": "Autovía del Suroeste",
+      "antiguo_id": "N-V",
+      "itinerario": "Madrid - Talavera de la Reina - Trujillo - Mérida - Badajoz - Portugal",
+      "longitud": "408 km"
+    },
+    {
+      "id": "R-5",
+      "id_europeo": "",
+      "denominacion": "Autopista Madrid-Talavera de la Reina",
+      "antiguo_id": "",
+      "itinerario": "Madrid - Navalcarnero A-5 (con peaje)",
+      "longitud": "31 km"
+    },
+    {
+      "id": "A-6",
+      "id_europeo": "E-70",
+      "denominacion": "Autovía del Noroeste",
+      "antiguo_id": "N-VI",
+      "itinerario": "Tramo 1: Madrid - Collado Villalba Tramo 2: Adanero - Tordesillas - Benavente - Ponferrada - Lugo - La Coruña",
+      "longitud": "518,2 km"
+    },
+    {
+      "id": "AP-6",
+      "id_europeo": "",
+      "denominacion": "Autopista del Noroeste",
+      "antiguo_id": "A-6",
+      "itinerario": "Collado Villalba - Adanero (con peaje)",
+      "longitud": "69,77 km"
+    },
+    {
+      "id": "A-7",
+      "id_europeo": "E-15",
+      "denominacion": "Autovía del Mediterráneo",
+      "antiguo_id": "N-340 A-36",
+      "itinerario": "Tramo 1: Puebla de Montornés - Tarragona - Vandellós Tramo 2: Castellón de la Plana - Sagunto norte Tramo 3: Sagunto sur - Valencia - Albaida - Alcoy - Alicante Tramo 4: Elche - Murcia - Lorca - Almería - Albuñol - Polopos - Castell de Ferro - Carchuna - Motril - La Gorgoracha - Lobres - Velilla-Taramay - Málaga - Algeciras",
+      "longitud": "885,9 km"
+    },
+    {
+      "id": "AP-7",
+      "id_europeo": "E-15 E-90",
+      "denominacion": "Autopista del Mediterráneo",
+      "antiguo_id": "A-7 A-37",
+      "itinerario": "Tramo 1: La Junquera - Gerona - Barcelona - Tarragona - Sagunto Tramo 2: Sollana - Alicante Tramo 3: Circunvalación de Alicante Tramo 4: Crevillente - Cartagena (con peaje) Tramo 5: Cartagena - Vera (con peaje) Tramo 6: Benalmádena - Estepona (con peaje) Tramo 7: Estepona - Guadiaro (con peaje)",
+      "longitud": "831,4 km"
+    },
+    {
+      "id": "A-8",
+      "id_europeo": "E-70",
+      "denominacion": "Autovía del Cantábrico",
+      "antiguo_id": "N-634",
+      "itinerario": "Galdácano - Basauri - Bilbao - Solares - Torrelavega - Unquera - Llanes - Gijón - Avilés - Muros del Nalón - Luarca - Navia - Ribadeo - Mondoñedo - Carreira - Baamonde",
+      "longitud": "507,5 km"
+    },
+    {
+      "id": "A-8",
+      "id_europeo": "E-70",
+      "denominacion": "Autovía del Cantábrico",
+      "antiguo_id": "N-634",
+      "itinerario": "Galdácano - Basauri - Bilbao - Solares - Torrelavega - Unquera - Llanes - Gijón - Avilés - Muros del Nalón - Luarca - Navia - Ribadeo - Mondoñedo - Carreira - Baamonde",
+      "longitud": "507,5 km"
+    },
+    {
+      "id": "AP-8",
+      "id_europeo": "E-5 E-70 E-80",
+      "denominacion": "Autopista del Cantábrico",
+      "antiguo_id": "A-8",
+      "itinerario": "Irún - Éibar - Bilbao (con peaje)",
+      "longitud": "148,3 km"
+    },
+    {
+      "id": "AP-8",
+      "id_europeo": "E-5 E-70 E-80",
+      "denominacion": "Autopista del Cantábrico",
+      "antiguo_id": "A-8",
+      "itinerario": "Irún - Éibar - Bilbao (con peaje)",
+      "longitud": "148,3 km"
+    },
+    {
+      "id": "AP-9",
+      "id_europeo": "E-1",
+      "denominacion": "Autopista del Atlántico",
+      "antiguo_id": "A-9",
+      "itinerario": "Ferrol - La Coruña - Santiago de Compostela - Pontevedra - Vigo - Tuy - A-55 - Portugal (con peaje)",
+      "longitud": "177 km"
+    },
+    {
+      "id": "A-10",
+      "id_europeo": "",
+      "denominacion": "Autovía de la Barranca",
+      "antiguo_id": "N-240-A",
+      "itinerario": "Irurzun - Alsasua",
+      "longitud": "29 km"
+    },
+    {
+      "id": "A-11",
+      "id_europeo": "E-82",
+      "denominacion": "Autovía del Duero",
+      "antiguo_id": "N-122",
+      "itinerario": "Los Rábanos - * - La Mallona - El Burgo de Osma - San Esteban de Gormaz - Langa de Duero - - Aranda de Duero - * - Quintanilla de Arriba - Tudela de Duero - Valladolid - A-62 - Tordesillas - Zamora - * - Portugal",
+      "longitud": "387 km"
+    },
+    {
+      "id": "A-12",
+      "id_europeo": "",
+      "denominacion": "Autovía del Camino de Santiago",
+      "antiguo_id": "",
+      "itinerario": "Pamplona - Puente la Reina - Estella - Los Arcos - Viana - Logroño - Nájera - Santo Domingo - - Villamayor del Río - * - Ibeas de Juarros - - Burgos",
+      "longitud": "214 km"
+    },
+    {
+      "id": "A-12",
+      "id_europeo": "",
+      "denominacion": "Autovía del Camino de Santiago",
+      "antiguo_id": "",
+      "itinerario": "Pamplona - Puente la Reina - Estella - Los Arcos - Viana - Logroño - Nájera - Santo Domingo - - Villamayor del Río - * - Ibeas de Juarros - - Burgos",
+      "longitud": "214 km"
+    },
+    {
+      "id": "A-13",
+      "id_europeo": "",
+      "denominacion": "Logroño-L.P. La Rioja-Navarra",
+      "antiguo_id": "N-111",
+      "itinerario": "L.P. La Rioja-Navarra - Logroño",
+      "longitud": "4 km"
+    },
+    {
+      "id": "A-14",
+      "id_europeo": "",
+      "denominacion": "Autovía de la Ribagorza",
+      "antiguo_id": "",
+      "itinerario": "Lérida - Almenar - * - Sopeira",
+      "longitud": "268 km"
+    },
+    {
+      "id": "A-15",
+      "id_europeo": "",
+      "denominacion": "Autovía de Navarra",
+      "antiguo_id": "N-111 N-122 N-113",
+      "itinerario": "Medinaceli - Soria - * - Variante de Ágreda - * - Tudela",
+      "longitud": "72 km"
+    },
+    {
+      "id": "A-15",
+      "id_europeo": "",
+      "denominacion": "Autovía de Navarra",
+      "antiguo_id": "N-111 N-122 N-113",
+      "itinerario": "Medinaceli - Soria - * - Variante de Ágreda - * - Tudela",
+      "longitud": "72 km"
+    },
+    {
+      "id": "A-15",
+      "id_europeo": "",
+      "denominacion": "Ronda de Pamplona Oeste",
+      "antiguo_id": "",
+      "itinerario": "Noáin - Berrioplano",
+      "longitud": "13 km"
+    },
+    {
+      "id": "A-15",
+      "id_europeo": "",
+      "denominacion": "Autovía de Leizarán",
+      "antiguo_id": "N-130 N-240",
+      "itinerario": "Irurzun - Lecumberri - Leiza - Lím. Navarra-Guipúzcoa",
+      "longitud": "27,6 km"
+    },
+    {
+      "id": "A-15",
+      "id_europeo": "",
+      "denominacion": "Autopista Navarra-Guipúzcoa",
+      "antiguo_id": "GI-131",
+      "itinerario": "Lím. Guipúzcoa-Navarra - Andoáin - Solapa con N-I - Hernani - San Sebastián",
+      "longitud": "27,5 km"
+    },
+    {
+      "id": "AP-15",
+      "id_europeo": "",
+      "denominacion": "Autopista de Navarra",
+      "antiguo_id": "A-15",
+      "itinerario": "Tramo 1: Tudela - Marcilla - Olite - Tafalla - Pamplona (con peaje) Tramo 2: Pamplona - Irurzun (con peaje)",
+      "longitud": "112,15 km"
+    },
+    {
+      "id": "A-21",
+      "id_europeo": "",
+      "denominacion": "Autovía del Pirineo",
+      "antiguo_id": "N-240",
+      "itinerario": "Pamplona - Lumbier - Sigüés - Puente la Reina de Jaca - Abay - * - Jaca",
+      "longitud": "110 km"
+    },
+    {
+      "id": "A-21",
+      "id_europeo": "",
+      "denominacion": "Autovía del Pirineo",
+      "antiguo_id": "N-240",
+      "itinerario": "Pamplona - Lumbier - Sigüés - Puente la Reina de Jaca - Abay - * - Jaca",
+      "longitud": "110 km"
+    },
+    {
+      "id": "A-22",
+      "id_europeo": "",
+      "denominacion": "Autovía del Camino Catalán",
+      "antiguo_id": "",
+      "itinerario": "Huesca - Siétamo - Barbastro - Monzón - Binéfar - Almacellas - Lérida",
+      "longitud": "109,5 km"
+    },
+    {
+      "id": "A-23",
+      "id_europeo": "E-7",
+      "denominacion": "Autovía Mudéjar",
+      "antiguo_id": "N-234 N-330",
+      "itinerario": "A-7 - Sagunto - Teruel - Zaragoza - Huesca - Nueno - Lanave - * - Sabiñánigo - * - Jaca - * - Somport - * - Francia",
+      "longitud": "434,8 km"
+    },
+    {
+      "id": "A-24",
+      "id_europeo": "",
+      "denominacion": "Autovía del Jiloca",
+      "antiguo_id": "",
+      "itinerario": "Daroca - * - Calatayud - * - Soria - * - Burgos",
+      "longitud": ""
+    },
+    {
+      "id": "A-25",
+      "id_europeo": "",
+      "denominacion": "Autovía Alcolea del Pinar-Monreal del Campo",
+      "antiguo_id": "",
+      "itinerario": "Alcolea del Pinar - * - Molina de Aragón - * - Monreal del Campo",
+      "longitud": ""
+    },
+    {
+      "id": "A-26",
+      "id_europeo": "",
+      "denominacion": "Autovía Pirenaica",
+      "antiguo_id": "N-260",
+      "itinerario": "Llansá - * - Figueras - * - Olot - Besalú - * - Ripoll - * - Campdevánol",
+      "longitud": "41 km"
+    },
+    {
+      "id": "A-27",
+      "id_europeo": "",
+      "denominacion": "Autovía Tarragona-Montblanch",
+      "antiguo_id": "N-241",
+      "itinerario": "Tarragona - Valls - Lilla - * - Montblanch",
+      "longitud": "29 km"
+    },
+    {
+      "id": "A-28",
+      "id_europeo": "",
+      "denominacion": "Autovía de la Alcarria",
+      "antiguo_id": "",
+      "itinerario": "Tarancón - * - Guadalajara - * - Venturada A-1",
+      "longitud": "169 km"
+    },
+    {
+      "id": "A-30",
+      "id_europeo": "",
+      "denominacion": "Autovía de Albacete-Cartagena",
+      "antiguo_id": "N-301",
+      "itinerario": "Albacete - Murcia - Cartagena",
+      "longitud": "200 km"
+    },
+    {
+      "id": "A-31",
+      "id_europeo": "",
+      "denominacion": "Autovía de Alicante",
+      "antiguo_id": "N-301 N-430 N-330",
+      "itinerario": "Atalaya del Cañavate - Albacete - Almansa - Alicante",
+      "longitud": "239 km"
+    },
+    {
+      "id": "A-32",
+      "id_europeo": "",
+      "denominacion": "Autovía Linares-Albacete",
+      "antiguo_id": "N-322",
+      "itinerario": "Bailén - Torreperogil - Villanueva del Arzobispo - * - Albacete",
+      "longitud": "236,5 km"
+    },
+    {
+      "id": "A-33",
+      "id_europeo": "",
+      "denominacion": "Autovía del Altiplano",
+      "antiguo_id": "N-344",
+      "itinerario": "Blanca - Cieza - Jumilla - Yecla - Caudete - Enlace A-31 - Fuente la Higuera - Enlace A-35",
+      "longitud": "91,9 km"
+    },
+    {
+      "id": "A-35",
+      "id_europeo": "",
+      "denominacion": "Autovía Almansa-Játiva",
+      "antiguo_id": "N-430",
+      "itinerario": "Almansa - Játiva",
+      "longitud": "44 km"
+    },
+    {
+      "id": "AP-36",
+      "id_europeo": "",
+      "denominacion": "Autopista Ocaña-La Roda",
+      "antiguo_id": "",
+      "itinerario": "Ocaña - Quintanar de la Orden - La Roda (con peaje)",
+      "longitud": "151 km"
+    },
+    {
+      "id": "AP-37",
+      "id_europeo": "",
+      "denominacion": "",
+      "antiguo_id": "",
+      "itinerario": "Zeneta - * - Catral (con peaje)",
+      "longitud": "24 km"
+    },
+    {
+      "id": "A-38",
+      "id_europeo": "",
+      "denominacion": "",
+      "antiguo_id": "N-332",
+      "itinerario": "Valencia - Cullera - Favareta - * - Gandía - * - Vergel",
+      "longitud": "40 km"
+    },
+    {
+      "id": "A-40",
+      "id_europeo": "",
+      "denominacion": "Autovía de la Meseta Sur",
+      "antiguo_id": "",
+      "itinerario": "Ávila - * - Maqueda - Toledo - * - Ocaña - Tarancón - Cuenca - * - Teruel",
+      "longitud": "490 km"
+    },
+    {
+      "id": "A-41",
+      "id_europeo": "",
+      "denominacion": "Autovía Ciudad Real - Puertollano",
+      "antiguo_id": "",
+      "itinerario": "Ciudad Real - Puertollano",
+      "longitud": "39,6 km"
+    },
+    {
+      "id": "AP-41",
+      "id_europeo": "",
+      "denominacion": "Autopista Madrid-Toledo",
+      "antiguo_id": "",
+      "itinerario": "Madrid - Toledo (con peaje)",
+      "longitud": "60 km"
+    },
+    {
+      "id": "A-42",
+      "id_europeo": "",
+      "denominacion": "Autovía de Toledo",
+      "antiguo_id": "N-401",
+      "itinerario": "Madrid - Toledo",
+      "longitud": "78 km"
+    },
+    {
+      "id": "A-43",
+      "id_europeo": "",
+      "denominacion": "Autovía del Guadiana",
+      "antiguo_id": "",
+      "itinerario": "Mérida - * - Ciudad Real - Manzanares - Tomelloso - San Clemente - Atalaya del Cañavate",
+      "longitud": "432 km"
+    },
+    {
+      "id": "A-44",
+      "id_europeo": "E-902",
+      "denominacion": "Autovía de Sierra Nevada-Costa Tropical",
+      "antiguo_id": "N-323",
+      "itinerario": "Bailén - Jaén - Granada - Motril",
+      "longitud": "189,7 km"
+    },
+    {
+      "id": "A-45",
+      "id_europeo": "",
+      "denominacion": "Autovía de Málaga",
+      "antiguo_id": "N-331",
+      "itinerario": "Córdoba - Antequera - Málaga",
+      "longitud": "142 km"
+    },
+    {
+      "id": "AP-46",
+      "id_europeo": "",
+      "denominacion": "Autopista de las Pedrizas",
+      "antiguo_id": "",
+      "itinerario": "Alto de las Pedrizas - Málaga (con peaje)",
+      "longitud": "24 km"
+    },
+    {
+      "id": "A-48",
+      "id_europeo": "E-5",
+      "denominacion": "Autovía de la Costa de la Luz",
+      "antiguo_id": "N-340",
+      "itinerario": "Tres Caminos - Vejer de la Frontera - * - Tarifa - * - Algeciras",
+      "longitud": "36 km"
+    },
+    {
+      "id": "A-49",
+      "id_europeo": "E-1",
+      "denominacion": "Autovía del V Centenario",
+      "antiguo_id": "",
+      "itinerario": "Sevilla - Huelva - Ayamonte - Portugal",
+      "longitud": "132 km"
+    },
+    {
+      "id": "A-50",
+      "id_europeo": "",
+      "denominacion": "Autovía de la Cultura",
+      "antiguo_id": "N-501",
+      "itinerario": "Ávila - Salamanca",
+      "longitud": "101 km"
+    },
+    {
+      "id": "AP-51",
+      "id_europeo": "",
+      "denominacion": "Autopista Villacastín-Ávila",
+      "antiguo_id": "A-51",
+      "itinerario": "Villacastín - Ávila (con peaje)",
+      "longitud": "24 km"
+    },
+    {
+      "id": "A-52",
+      "id_europeo": "",
+      "denominacion": "Autovía de las Rías Bajas",
+      "antiguo_id": "",
+      "itinerario": "Benavente - Orense - Porriño - * - Vigo",
+      "longitud": "307 km"
+    },
+    {
+      "id": "AP-53",
+      "id_europeo": "",
+      "denominacion": "Autopista Central de Galicia",
+      "antiguo_id": "A-53",
+      "itinerario": "Santiago de Compostela - AG-53 (con peaje)",
+      "longitud": "56,6 km"
+    },
+    {
+      "id": "A-54",
+      "id_europeo": "",
+      "denominacion": "Autovía Lugo-Santiago de Compostela",
+      "antiguo_id": "",
+      "itinerario": "Santiago - Aeropuerto de Santiago de Compostela - Arzúa - - Mellid - Palas de Rey - Guntín de Pallares - Nadela",
+      "longitud": "101 km"
+    },
+    {
+      "id": "A-55",
+      "id_europeo": "",
+      "denominacion": "Autovía Vigo-Frontera Portuguesa",
+      "antiguo_id": "N-550 N-120",
+      "itinerario": "Vigo - Tuy",
+      "longitud": "31,5 km"
+    },
+    {
+      "id": "A-56",
+      "id_europeo": "",
+      "denominacion": "Autovía Lugo-Orense",
+      "antiguo_id": "",
+      "itinerario": "Guntín de Pallares - * - San Martiño - A Barrela - * - Orense",
+      "longitud": "47,6 km"
+    },
+    {
+      "id": "A-57",
+      "id_europeo": "",
+      "denominacion": "Autovía del Atlántico",
+      "antiguo_id": "",
+      "itinerario": "Enlace A-52 - * - Pazos de Borbén - * - Sotomayor - * - Vilaboa - La Ermida - * - Pontevedra - * - Curro",
+      "longitud": "48,8 km"
+    },
+    {
+      "id": "A-58",
+      "id_europeo": "",
+      "denominacion": "Autovía Extremeña",
+      "antiguo_id": "",
+      "itinerario": "Trujillo - Cáceres - * - Badajoz",
+      "longitud": "47,6 km"
+    },
+    {
+      "id": "A-59",
+      "id_europeo": "",
+      "denominacion": "Autovía Pontevedra-Vigo",
+      "antiguo_id": "",
+      "itinerario": "Villabona - * - Vigo",
+      "longitud": "23,1 km"
+    },
+    {
+      "id": "A-60",
+      "id_europeo": "",
+      "denominacion": "Autovía Valladolid-León",
+      "antiguo_id": "N-601",
+      "itinerario": "Valladolid - Villanubla - * - Medina de Rioseco - * - Santas Martas - León",
+      "longitud": "138 km"
+    },
+    {
+      "id": "AP-61",
+      "id_europeo": "",
+      "denominacion": "Autopista Segovia-San Rafael",
+      "antiguo_id": "A-61",
+      "itinerario": "San Rafael - Segovia (con peaje)",
+      "longitud": "28 km"
+    },
+    {
+      "id": "A-62",
+      "id_europeo": "E-80",
+      "denominacion": "Autovía de Castilla",
+      "antiguo_id": "N-620",
+      "itinerario": "Burgos - Palencia - Valladolid - Salamanca - Ciudad Rodrigo - Fuentes de Oñoro - Portugal",
+      "longitud": "356 km"
+    },
+    {
+      "id": "A-63",
+      "id_europeo": "",
+      "denominacion": "Autovía Oviedo-La Espina",
+      "antiguo_id": "",
+      "itinerario": "Oviedo - Cornellana - - Salas - viaducto de El Regueirón - * - La Espina - * - Canero",
+      "longitud": "30 km"
+    },
+    {
+      "id": "A-64",
+      "id_europeo": "",
+      "denominacion": "Autovía Oviedo-Villaviciosa",
+      "antiguo_id": "A-8",
+      "itinerario": "Villaviciosa - Oviedo",
+      "longitud": "28 km"
+    },
+    {
+      "id": "A-65",
+      "id_europeo": "",
+      "denominacion": "Autovía de Tierra de Campos",
+      "antiguo_id": "",
+      "itinerario": "Palencia - * - Villalpando",
+      "longitud": "81 km"
+    },
+    {
+      "id": "A-66",
+      "id_europeo": "E-803",
+      "denominacion": "Autovía Ruta de la Plata",
+      "antiguo_id": "N-630",
+      "itinerario": "Gijón - Oviedo - Mieres - Campomanes / La Robla - * - León / Onzonilla - Benavente (Zamora) - Zamora - Salamanca - Béjar - Hervás - Plasencia - Cáceres - Mérida - Sevilla",
+      "longitud": "786 km"
+    },
+    {
+      "id": "AP-66",
+      "id_europeo": "",
+      "denominacion": "Autopista Ruta de la Plata",
+      "antiguo_id": "A-66",
+      "itinerario": "Campomanes - Valverde de la Virgen (con peaje)",
+      "longitud": "78 km"
+    },
+    {
+      "id": "A-67",
+      "id_europeo": "",
+      "denominacion": "Autovía Cantabria-Meseta",
+      "antiguo_id": "",
+      "itinerario": "Santander - Torrelavega - Reinosa - Aguilar de Campoo - Palencia",
+      "longitud": "205 km"
+    },
+    {
+      "id": "A-68",
+      "id_europeo": "",
+      "denominacion": "Autovía del Ebro",
+      "antiguo_id": "N-232",
+      "itinerario": "La Jana - * - Valdealgorfa - * - Alcañiz - * - Fuentes de Ebro - - El Burgo de Ebro - Zaragoza - Gallur - Mallén - Cortes de Navarra - Tudela - Castejón - * - Logroño - * - Miranda de Ebro",
+      "longitud": "344,5 km"
+    },
+    {
+      "id": "A-68",
+      "id_europeo": "",
+      "denominacion": "Autovía del Ebro",
+      "antiguo_id": "N-232",
+      "itinerario": "La Jana - * - Valdealgorfa - * - Alcañiz - * - Fuentes de Ebro - - El Burgo de Ebro - Zaragoza - Gallur - Mallén - Cortes de Navarra - Tudela - Castejón - * - Logroño - * - Miranda de Ebro",
+      "longitud": "344,5 km"
+    },
+    {
+      "id": "AP-68",
+      "id_europeo": "E-804",
+      "denominacion": "Autopista Vasco-Aragonesa",
+      "antiguo_id": "A-68",
+      "itinerario": "Bilbao - Miranda de Ebro - Logroño - Zaragoza (con peaje)",
+      "longitud": "295 km"
+    },
+    {
+      "id": "AP-68",
+      "id_europeo": "E-804",
+      "denominacion": "Autopista Vasco-Aragonesa",
+      "antiguo_id": "A-68",
+      "itinerario": "Bilbao - Miranda de Ebro - Logroño - Zaragoza (con peaje)",
+      "longitud": "295 km"
+    },
+    {
+      "id": "AP-68",
+      "id_europeo": "E-804",
+      "denominacion": "Autopista Vasco-Aragonesa",
+      "antiguo_id": "A-68",
+      "itinerario": "Bilbao - Miranda de Ebro - Logroño - Zaragoza (con peaje)",
+      "longitud": "295 km"
+    },
+    {
+      "id": "AP-68",
+      "id_europeo": "E-804",
+      "denominacion": "Autopista Vasco-Aragonesa",
+      "antiguo_id": "A-68",
+      "itinerario": "Bilbao - Miranda de Ebro - Logroño - Zaragoza (con peaje)",
+      "longitud": "295 km"
+    },
+    {
+      "id": "AP-71",
+      "id_europeo": "",
+      "denominacion": "Autopista León-Astorga",
+      "antiguo_id": "A-12",
+      "itinerario": "León - Astorga (con peaje)",
+      "longitud": "37 km"
+    },
+    {
+      "id": "A-72",
+      "id_europeo": "",
+      "denominacion": "Autovía Monforte de Lemos-Chantada",
+      "antiguo_id": "",
+      "itinerario": "Monforte de Lemos - * - Chantada",
+      "longitud": ""
+    },
+    {
+      "id": "A-73",
+      "id_europeo": "",
+      "denominacion": "Autovía Burgos-Aguilar de Campoo",
+      "antiguo_id": "",
+      "itinerario": "Burgos - Quintanaortuño - * - Pedrosa de Valdelucio - Báscones de Valdivia - * - Aguilar de Campoo",
+      "longitud": "74 km"
+    },
+    {
+      "id": "A-74",
+      "id_europeo": "",
+      "denominacion": "Autovía de La Mariña",
+      "antiguo_id": "",
+      "itinerario": "Barreiros A-8 - * - Foz - * - Burela - * - San Ciprián",
+      "longitud": ""
+    },
+    {
+      "id": "A-75",
+      "id_europeo": "E-801",
+      "denominacion": "Autovía Verín - Frontera Portuguesa",
+      "antiguo_id": "",
+      "itinerario": "A-52 - Portugal",
+      "longitud": "12,7 km"
+    },
+    {
+      "id": "A-76",
+      "id_europeo": "",
+      "denominacion": "Autovía Ponferrada-Orense",
+      "antiguo_id": "",
+      "itinerario": "Ponferrada - * - Orense",
+      "longitud": "125 km"
+    },
+    {
+      "id": "A-80",
+      "id_europeo": "",
+      "denominacion": "Autovía del Suroccidente asturiano",
+      "antiguo_id": "",
+      "itinerario": "La Espina A-63 - * - Tineo - * - CL-631",
+      "longitud": "31 km"
+    },
+    {
+      "id": "A-81",
+      "id_europeo": "",
+      "denominacion": "Autovía Badajoz-Granada",
+      "antiguo_id": "",
+      "itinerario": "Badajoz - * - Espiel - * - Córdoba - * - Granada",
+      "longitud": "419 km"
+    },
+    {
+      "id": "A-83",
+      "id_europeo": "",
+      "denominacion": "Autovía de Huelva",
+      "antiguo_id": "",
+      "itinerario": "Huelva A-49 - * - Fregenal de la Sierra - * - Zafra A-66",
+      "longitud": ""
+    },
+    {
+      "id": "A-91",
+      "id_europeo": "",
+      "denominacion": "Autovía Puerto Lumbreras-Vélez Rubio",
+      "antiguo_id": "N-342",
+      "itinerario": "Vélez-Rubio A-92N - Puerto Lumbreras A-7",
+      "longitud": "16 km"
+    },
+    {
+      "id": "A-92",
+      "id_europeo": "",
+      "denominacion": "Autovía de Tabernas",
+      "antiguo_id": "A-92",
+      "itinerario": "Tabernas - Viator - Almería",
+      "longitud": "24 km"
+    }
+  ],
+  "meta": {
+    "title": "Autopistas y autovías de España - Free Download",
+    "description": "Red estatal de autopistas y autovías de España con identificador, denominación, itinerario y longitud. Contains 103 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Autopistas y autovías de España | ListBase",
+    "seo_description": "Download Autopistas y autovías de España — 103 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 103 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Autopistas_y_autovías_de_España"
+    ]
+  }
+}
