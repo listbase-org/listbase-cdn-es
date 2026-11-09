@@ -1,0 +1,331 @@
+{
+  "id": "es-premio-goya-mejor-direccion",
+  "name": "Premio Goya a la mejor dirección",
+  "title": "Premio Goya a la mejor dirección",
+  "description": "Ganadores del Premio Goya a la mejor dirección por edición desde 1986, con la película premiada y los demás candidatos.",
+  "category": "entertainment",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Premio_Goya_a_la_mejor_dirección",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Premio_Goya_a_la_mejor_dirección",
+  "updated": "2026-11",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "edicion",
+      "label": "Edicion",
+      "type": "string"
+    },
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    },
+    {
+      "key": "pelicula",
+      "label": "Pelicula",
+      "type": "string"
+    },
+    {
+      "key": "candidatos",
+      "label": "Candidatos",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edicion": "I",
+      "ano": 1986,
+      "director": "Fernando Fernán Gómez",
+      "pelicula": "El viaje a ninguna parte",
+      "candidatos": "Emilio Martínez-Lázaro por Lulú de noche Pilar Miró por Werther"
+    },
+    {
+      "edicion": "II",
+      "ano": 1987,
+      "director": "José Luis Garci",
+      "pelicula": "Asignatura aprobada",
+      "candidatos": "Bigas Luna por Angustia Vicente Aranda por El Lute: camina o revienta"
+    },
+    {
+      "edicion": "III",
+      "ano": 1988,
+      "director": "Gonzalo Suárez",
+      "pelicula": "Remando al viento",
+      "candidatos": "Ricardo Franco por Berlín Blues Francisco Regueiro por Diario de invierno Antonio Mercero por Espérame en el cielo Pedro Almodóvar por Mujeres al borde de un ataque de nervios"
+    },
+    {
+      "edicion": "IV",
+      "ano": 1989,
+      "director": "Fernando Trueba",
+      "pelicula": "El sueño del mono loco",
+      "candidatos": "Fernando Fernán Gómez por El mar y el tiempo Agustí Villaronga por El niño de la luna Josefina Molina por Esquilache Vicente Aranda por Si te dicen que caí"
+    },
+    {
+      "edicion": "V",
+      "ano": 1990,
+      "director": "Carlos Saura",
+      "pelicula": "¡Ay, Carmela!",
+      "candidatos": "Pedro Almodóvar por ¡Átame! Montxo Armendáriz por Las cartas de Alou"
+    },
+    {
+      "edicion": "VI",
+      "ano": 1991,
+      "director": "Vicente Aranda",
+      "pelicula": "Amantes",
+      "candidatos": "Pilar Miró por Beltenebros Imanol Uribe por El rey pasmado"
+    },
+    {
+      "edicion": "VII",
+      "ano": 1992,
+      "director": "Fernando Trueba",
+      "pelicula": "Belle Époque",
+      "candidatos": "Bigas Luna por Jamón, jamón Pedro Olea por El maestro de esgrima"
+    },
+    {
+      "edicion": "VIII",
+      "ano": 1993,
+      "director": "Luis García Berlanga",
+      "pelicula": "Todos a la cárcel",
+      "candidatos": "Vicente Aranda por Intruso Juanma Bajo Ulloa por La madre muerta"
+    },
+    {
+      "edicion": "IX",
+      "ano": 1994,
+      "director": "Imanol Uribe",
+      "pelicula": "Días contados",
+      "candidatos": "José Luis Garci por Canción de cuna Vicente Aranda por La pasión turca"
+    },
+    {
+      "edicion": "X",
+      "ano": 1995,
+      "director": "Álex de la Iglesia",
+      "pelicula": "El día de la bestia",
+      "candidatos": "Manuel Gómez Pereira por Boca a boca Pedro Almodóvar por La flor de mi secreto"
+    },
+    {
+      "edicion": "XI",
+      "ano": 1996,
+      "director": "Pilar Miró",
+      "pelicula": "El perro del hortelano",
+      "candidatos": "Imanol Uribe por Bwana Julio Medem por Tierra"
+    },
+    {
+      "edicion": "XII",
+      "ano": 1997,
+      "director": "Ricardo Franco",
+      "pelicula": "La buena estrella",
+      "candidatos": "Adolfo Aristarain por Martín (Hache) Montxo Armendáriz por Secretos del corazón"
+    },
+    {
+      "edicion": "XIII",
+      "ano": 1998,
+      "director": "Fernando León de Aranoa",
+      "pelicula": "Barrio",
+      "candidatos": "Alejandro Amenábar por Abre los ojos José Luis Garci por El abuelo Fernando Trueba por La niña de tus ojos"
+    },
+    {
+      "edicion": "XIV",
+      "ano": 1999,
+      "director": "Pedro Almodóvar",
+      "pelicula": "Todo sobre mi madre",
+      "candidatos": "Gracia Querejeta por Cuando vuelvas a mi lado José Luis Cuerda por La lengua de las mariposas Benito Zambrano por Solas"
+    },
+    {
+      "edicion": "XV",
+      "ano": 2000,
+      "director": "José Luis Borau",
+      "pelicula": "Leo",
+      "candidatos": "Jaime Chávarri por Besos para todos Álex de la Iglesia por La comunidad José Luis Garci por You're the One"
+    },
+    {
+      "edicion": "XVI",
+      "ano": 2001,
+      "director": "Alejandro Amenábar",
+      "pelicula": "Los otros",
+      "candidatos": "Vicente Aranda por Juana la Loca Julio Medem por Lucía y el sexo Agustín Díaz Yanes por Sin noticias de Dios"
+    },
+    {
+      "edicion": "XVII",
+      "ano": 2002,
+      "director": "Fernando León de Aranoa",
+      "pelicula": "Los lunes al sol",
+      "candidatos": "Emilio Martínez-Lázaro por El otro lado de la cama Antonio Hernández por En la ciudad sin límites Pedro Almodóvar por Hable con ella (candidato al Óscar al mejor director)"
+    },
+    {
+      "edicion": "XVIII",
+      "ano": 2003,
+      "director": "Icíar Bollaín",
+      "pelicula": "Te doy mis ojos",
+      "candidatos": "Cesc Gay por En la ciudad Isabel Coixet por Mi vida sin mí David Trueba por Soldados de Salamina"
+    },
+    {
+      "edicion": "XIX",
+      "ano": 2004,
+      "director": "Alejandro Amenábar",
+      "pelicula": "Mar adentro",
+      "candidatos": "Carlos Saura por El séptimo día Pedro Almodóvar por La mala educación Adolfo Aristarain por Roma"
+    },
+    {
+      "edicion": "XX",
+      "ano": 2005,
+      "director": "Isabel Coixet",
+      "pelicula": "La vida secreta de las palabras",
+      "candidatos": "Alberto Rodríguez por 7 vírgenes Benito Zambrano por Habana Blues Montxo Armendáriz por Obaba"
+    },
+    {
+      "edicion": "XXI",
+      "ano": 2006,
+      "director": "Pedro Almodóvar",
+      "pelicula": "Volver",
+      "candidatos": "Agustín Díaz Yanes por Alatriste Guillermo del Toro por El laberinto del fauno Manuel Huerga por Salvador (Puig Antich)"
+    },
+    {
+      "edicion": "XXII",
+      "ano": 2007,
+      "director": "Jaime Rosales",
+      "pelicula": "La soledad",
+      "candidatos": "Emilio Martínez-Lázaro por Las 13 rosas Icíar Bollaín por Mataharis Gracia Querejeta por Siete mesas de billar francés"
+    },
+    {
+      "edicion": "XXIII",
+      "ano": 2008,
+      "director": "Javier Fesser",
+      "pelicula": "Camino",
+      "candidatos": "Álex de la Iglesia por Los crímenes de Oxford José Luis Cuerda por Los girasoles ciegos Agustín Díaz Yanes por Solo quiero caminar"
+    },
+    {
+      "edicion": "XXIV",
+      "ano": 2009,
+      "director": "Daniel Monzón",
+      "pelicula": "Celda 211",
+      "candidatos": "Alejandro Amenábar por Ágora Fernando Trueba por El baile de la Victoria Juan José Campanella por El secreto de sus ojos"
+    },
+    {
+      "edicion": "XXV",
+      "ano": 2010,
+      "director": "Agustí Villaronga",
+      "pelicula": "Pa negre (Pan negro)",
+      "candidatos": "Álex de la Iglesia por Balada triste de trompeta Rodrigo Cortés por Buried (Enterrado) Icíar Bollaín por También la lluvia"
+    },
+    {
+      "edicion": "XXVI",
+      "ano": 2011,
+      "director": "Enrique Urbizu",
+      "pelicula": "No habrá paz para los malvados",
+      "candidatos": "Mateo Gil por Blackthorn Pedro Almodóvar por La piel que habito Benito Zambrano por La voz dormida"
+    },
+    {
+      "edicion": "XXVII",
+      "ano": 2012,
+      "director": "Juan Antonio Bayona",
+      "pelicula": "Lo imposible",
+      "candidatos": "Pablo Berger por Blancanieves Alberto Rodríguez por Grupo 7 Fernando Trueba por El artista y la modelo"
+    },
+    {
+      "edicion": "XXVIII",
+      "ano": 2013,
+      "director": "David Trueba",
+      "pelicula": "Vivir es fácil con los ojos cerrados",
+      "candidatos": "Gracia Querejeta por 15 años y un día Manuel Martín Cuenca por Caníbal Daniel Sánchez Arévalo por La gran familia española"
+    },
+    {
+      "edicion": "XXIX",
+      "ano": 2014,
+      "director": "Alberto Rodríguez",
+      "pelicula": "La isla mínima",
+      "candidatos": "Daniel Monzón por El Niño Carlos Vermut por Magical Girl Damián Szifron por Relatos salvajes"
+    },
+    {
+      "edicion": "XXX",
+      "ano": 2015,
+      "director": "Cesc Gay",
+      "pelicula": "Truman",
+      "candidatos": "Paula Ortiz por La novia Isabel Coixet por Nadie quiere la noche Fernando León de Aranoa por Un día perfecto"
+    },
+    {
+      "edicion": "XXXI",
+      "ano": 2016,
+      "director": "Juan Antonio Bayona",
+      "pelicula": "Un monstruo viene a verme",
+      "candidatos": "Alberto Rodríguez por El hombre de las mil caras Pedro Almodóvar por Julieta Rodrigo Sorogoyen por Que Dios nos perdone"
+    },
+    {
+      "edicion": "XXXII",
+      "ano": 2017,
+      "director": "Isabel Coixet",
+      "pelicula": "La librería",
+      "candidatos": "Manuel Martín Cuenca por El autor Aitor Arregi y Jon Garaño por Handia Paco Plaza por Verónica"
+    },
+    {
+      "edicion": "XXXIII",
+      "ano": 2018,
+      "director": "Rodrigo Sorogoyen",
+      "pelicula": "El reino",
+      "candidatos": "Asghar Farhadi por Todos lo saben Javier Fesser por Campeones Isaki Lacuesta por Entre dos aguas"
+    },
+    {
+      "edicion": "XXXIV",
+      "ano": 2019,
+      "director": "Pedro Almodóvar",
+      "pelicula": "Dolor y gloria",
+      "candidatos": "Alejandro Amenábar por Mientras dure la guerra Oliver Laxe por Lo que arde Jon Garaño, Aitor Arregi y Jose Mari Goenaga por La trinchera infinita"
+    },
+    {
+      "edicion": "XXXV",
+      "ano": 2020,
+      "director": "Salvador Calvo",
+      "pelicula": "Adú",
+      "candidatos": "Juanma Bajo Ulloa por Baby Iciar Bollaín por La boda de Rosa Isabel Coixet por Nieva en Benidorm"
+    },
+    {
+      "edicion": "XXXVI",
+      "ano": 2021,
+      "director": "Fernando León de Aranoa",
+      "pelicula": "El buen patrón",
+      "candidatos": "Pedro Almodóvar por Madres paralelas Iciar Bollaín por Maixabel Manuel Martín Cuenca por La hija"
+    },
+    {
+      "edicion": "XXXVII",
+      "ano": 2022,
+      "director": "Rodrigo Sorogoyen",
+      "pelicula": "As bestas",
+      "candidatos": "Carla Simón por Alcarràs Pilar Palomero por La maternal Carlos Vermut por Mantícora Alberto Rodríguez por Modelo 77"
+    },
+    {
+      "edicion": "XXXVIII",
+      "ano": 2023,
+      "director": "Juan Antonio Bayona",
+      "pelicula": "La sociedad de la nieve",
+      "candidatos": "Víctor Erice por Cerrar los ojos Elena Martín Gimeno por Creatura David Trueba por Saben aquell Isabel Coixet por Un amor"
+    },
+    {
+      "edicion": "XXXIV",
+      "ano": 2024,
+      "director": "Isaki Lacuesta y Pol Rodríguez",
+      "pelicula": "Segundo premio",
+      "candidatos": "Pedro Almodóvar por La habitación de al lado Arantxa Echevarría por La infiltrada Paula Ortiz por La virgen roja Aitor Arregi y Jon Garaño por Marco"
+    },
+    {
+      "edicion": "XL",
+      "ano": 2025,
+      "director": "Alauda Ruiz de Azúa",
+      "pelicula": "Los domingos",
+      "candidatos": "Óliver Laxe por Sirāt Carla Simón por Romería Albert Serra por Tardes de soledad Aitor Arregi y Jose Mari Goenaga por Maspalomas"
+    }
+  ],
+  "meta": {
+    "title": "Premio Goya a la mejor dirección - Free Download",
+    "description": "Ganadores del Premio Goya a la mejor dirección por edición desde 1986, con la película premiada y los demás candidatos. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Premio Goya a la mejor dirección | ListBase",
+    "seo_description": "Download Premio Goya a la mejor dirección — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Premio_Goya_a_la_mejor_dirección"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-09T02:36:28.860Z",
-  "total_datasets": 542,
-  "total_records": 431946,
+  "generated": "2026-11-09T02:36:38.551Z",
+  "total_datasets": 543,
+  "total_records": 431986,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "environment",
@@ -759,6 +759,32 @@
         "xlsx": {
           "name": "es-premio-ariel-mejor-pelicula_ES.xlsx",
           "size": 18354
+        }
+      }
+    },
+    {
+      "id": "es-premio-goya-mejor-direccion",
+      "name": "Premio Goya a la mejor dirección",
+      "category": "entertainment",
+      "record_count": 40,
+      "columns": [
+        "edicion",
+        "ano",
+        "director",
+        "pelicula",
+        "candidatos"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Premio_Goya_a_la_mejor_dirección",
+      "updated": "2026-11",
+      "size": 12208,
+      "files": {
+        "csv": {
+          "name": "es-premio-goya-mejor-direccion_ES.csv",
+          "size": 6511
+        },
+        "xlsx": {
+          "name": "es-premio-goya-mejor-direccion_ES.xlsx",
+          "size": 10432
         }
       }
     },
