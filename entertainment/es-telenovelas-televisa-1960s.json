@@ -1,0 +1,1968 @@
+{
+  "id": "es-telenovelas-televisa-1960s",
+  "name": "Telenovelas de Televisa de la década de 1960",
+  "title": "Telenovelas de Televisa de la década de 1960",
+  "description": "Telenovelas producidas por Telesistema Mexicano (Televisa) en México durante la década de 1960, con año, número de episodios, fechas de emisión, autor y director.",
+  "category": "entertainment",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Telenovelas_de_Televisa_de_la_década_de_1960",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Telenovelas_de_Televisa_de_la_década_de_1960",
+  "updated": "2026-11",
+  "record_count": 239,
+  "columns": [
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "titulo",
+      "label": "Titulo",
+      "type": "string"
+    },
+    {
+      "key": "episodios",
+      "label": "Episodios",
+      "type": "string"
+    },
+    {
+      "key": "emision_original",
+      "label": "Emision Original",
+      "type": "string"
+    },
+    {
+      "key": "autor",
+      "label": "Autor",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ano": 1960,
+      "titulo": "Amar fue su pecado",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Mimí Bechelani",
+      "director": "Rafael Banquells"
+    },
+    {
+      "ano": 1960,
+      "titulo": "La ambiciosa",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Raúl Astor",
+      "director": "Raúl Astor"
+    },
+    {
+      "ano": 1960,
+      "titulo": "Cartas de amor",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Julio Alejandro",
+      "director": "Fernando Wagner"
+    },
+    {
+      "ano": 1960,
+      "titulo": "La casa del odio",
+      "episodios": 51,
+      "emision_original": "4 de julio de 1960",
+      "autor": "—",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1960,
+      "titulo": "Claudia",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Mimí Bechelani",
+      "director": "Leopoldo Labra"
+    },
+    {
+      "ano": 1960,
+      "titulo": "Donde comienza la tristeza",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Raúl Astor",
+      "director": "Rafael Banquells"
+    },
+    {
+      "ano": 1960,
+      "titulo": "Dos caras tiene el destino",
+      "episodios": 50,
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1960,
+      "titulo": "Espejo de sombras",
+      "episodios": 55,
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1960,
+      "titulo": "Gabriela",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1960,
+      "titulo": "El hombre de oro",
+      "episodios": 29,
+      "emision_original": "—",
+      "autor": "Raúl Astor",
+      "director": "Raúl Astor"
+    },
+    {
+      "ano": 1960,
+      "titulo": "El juicio de los padres",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Ernesto Alonso",
+      "director": ""
+    },
+    {
+      "ano": 1960,
+      "titulo": "María Guadalupe",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Raúl Astor",
+      "director": "Raúl Astor"
+    },
+    {
+      "ano": 1960,
+      "titulo": "Mi amor frente al pasado",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Kenia Perea",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1960,
+      "titulo": "La mujer dorada",
+      "episodios": 45,
+      "emision_original": "—",
+      "autor": "Hugo Argüelles",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1960,
+      "titulo": "Murallas blancas",
+      "episodios": 42,
+      "emision_original": "—",
+      "autor": "Gabriel Guerrero",
+      "director": "Francisco Jambrina"
+    },
+    {
+      "ano": 1960,
+      "titulo": "El otro",
+      "episodios": 30,
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams",
+      "director": "Germán Robles"
+    },
+    {
+      "ano": 1960,
+      "titulo": "Pecado mortal",
+      "episodios": 47,
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams",
+      "director": "Raúl Astor"
+    },
+    {
+      "ano": 1960,
+      "titulo": "Pensión de mujeres",
+      "episodios": 43,
+      "emision_original": "—",
+      "autor": "Raúl Astor",
+      "director": "—"
+    },
+    {
+      "ano": 1960,
+      "titulo": "El rapto",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Jesús Valero"
+    },
+    {
+      "ano": 1960,
+      "titulo": "Un rostro en el pasado",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "Rafael Banquells"
+    },
+    {
+      "ano": 1960,
+      "titulo": "Secretaria o mujer",
+      "episodios": 48,
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Rafael Banquells"
+    },
+    {
+      "ano": 1960,
+      "titulo": "Vida por vida",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Félix B. Caignet Antonio Monsell",
+      "director": "Rafael Banquells"
+    },
+    {
+      "ano": 1961,
+      "titulo": "Abismos de amor",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Manuel Canseco Noriega",
+      "director": "Francisco Jambrina"
+    },
+    {
+      "ano": 1961,
+      "titulo": "Bajo la sombra de los almendros",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Kenia Perea",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1961,
+      "titulo": "La brújula rota",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Manolo Calvo"
+    },
+    {
+      "ano": 1961,
+      "titulo": "Cielo sin estrellas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1961,
+      "titulo": "Conflicto",
+      "episodios": 54,
+      "emision_original": "—",
+      "autor": "Marissa Garrido",
+      "director": ""
+    },
+    {
+      "ano": 1961,
+      "titulo": "Cuatro en la trampa",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1961,
+      "titulo": "Culpas ajenas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Francisco Jambrina"
+    },
+    {
+      "ano": 1961,
+      "titulo": "Divorciadas",
+      "episodios": 60,
+      "emision_original": "—",
+      "autor": "Julia Guzmán",
+      "director": "Rafael Banquells"
+    },
+    {
+      "ano": 1961,
+      "titulo": "Don Bosco",
+      "episodios": 51,
+      "emision_original": "—",
+      "autor": "Benjamín Torre Haro",
+      "director": "Jesús Valero"
+    },
+    {
+      "ano": 1961,
+      "titulo": "Elena",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Estela Calderón",
+      "director": "Rafael Banquells"
+    },
+    {
+      "ano": 1961,
+      "titulo": "El enemigo",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1961,
+      "titulo": "Estafa de amor",
+      "episodios": 51,
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1961,
+      "titulo": "La familia del 6",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1961,
+      "titulo": "Las gemelas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Marissa Garrido",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1961,
+      "titulo": "La honra de vivir",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1961,
+      "titulo": "La insaciable",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1961,
+      "titulo": "La leona",
+      "episodios": 60,
+      "emision_original": "—",
+      "autor": "Marissa Garrido",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1961,
+      "titulo": "Marianela",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Benito Pérez Galdós",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1961,
+      "titulo": "Niebla",
+      "episodios": 59,
+      "emision_original": "—",
+      "autor": "Marissa Garrido",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1961,
+      "titulo": "No basta ser médico",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Francisco Jambrina"
+    },
+    {
+      "ano": 1961,
+      "titulo": "Una noche sin mañana",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1961,
+      "titulo": "Risas amargas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Miguel Córcega"
+    },
+    {
+      "ano": 1961,
+      "titulo": "La sospecha",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1961,
+      "titulo": "La telaraña",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Francisco Jambrina"
+    },
+    {
+      "ano": 1961,
+      "titulo": "Vida robada",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1962,
+      "titulo": "La actriz",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1962,
+      "titulo": "Adiós, amor mío",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1962,
+      "titulo": "Borrasca",
+      "episodios": 53,
+      "emision_original": "—",
+      "autor": "Marissa Garrido",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1962,
+      "titulo": "El caminante",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Francisco Ibarra",
+      "director": "Julio Alejandro"
+    },
+    {
+      "ano": 1962,
+      "titulo": "La cobarde",
+      "episodios": 59,
+      "emision_original": "—",
+      "autor": "Julio Alejandro",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1962,
+      "titulo": "Codicia",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Carlos Lozano Dana",
+      "director": "Julio Alejandro"
+    },
+    {
+      "ano": 1962,
+      "titulo": "Encadenada",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Marissa Garrido",
+      "director": "Manolo Calvo"
+    },
+    {
+      "ano": 1962,
+      "titulo": "La gloria quedó atrás",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Francisco Javier Camargo",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1962,
+      "titulo": "La herencia",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Julio Bracho"
+    },
+    {
+      "ano": 1962,
+      "titulo": "La herida del tiempo",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Luis Beristáin"
+    },
+    {
+      "ano": 1962,
+      "titulo": "Un hijo cayó del cielo",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1962,
+      "titulo": "Janina",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1962,
+      "titulo": "La madrastra",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Jesús Valero"
+    },
+    {
+      "ano": 1962,
+      "titulo": "Marcela",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Francisco Jambrina"
+    },
+    {
+      "ano": 1962,
+      "titulo": "Las momias de Guanajuato",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Hugo Argüelles",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1962,
+      "titulo": "Mujercitas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Louisa May Alcott",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1962,
+      "titulo": "Penumbra",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "Francisco Jambrina"
+    },
+    {
+      "ano": 1962,
+      "titulo": "Prisionera",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Rafael Banquells"
+    },
+    {
+      "ano": 1962,
+      "titulo": "El profesor Valdez",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Mimí Bechelani",
+      "director": "Julio Bracho"
+    },
+    {
+      "ano": 1962,
+      "titulo": "Sor Juana Inés de la Cruz",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1963,
+      "titulo": "Agonía de amor",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Pablo Palomino",
+      "director": "Julio Alejandro"
+    },
+    {
+      "ano": 1963,
+      "titulo": "Cita con la muerte",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams",
+      "director": "—"
+    },
+    {
+      "ano": 1963,
+      "titulo": "La culpa de los padres",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "Rafael Banquells"
+    },
+    {
+      "ano": 1963,
+      "titulo": "La desconocida",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Leandro Blanco",
+      "director": "Antulio Jiménez Pons"
+    },
+    {
+      "ano": 1963,
+      "titulo": "Destino",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Marissa Garrido",
+      "director": "Julio Alejandro"
+    },
+    {
+      "ano": 1963,
+      "titulo": "Doña Macabra",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Hugo Argüelles",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1963,
+      "titulo": "Eugenia",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1963,
+      "titulo": "La familia Miau",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1963,
+      "titulo": "Grandes ilusiones",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Julio Alejandro"
+    },
+    {
+      "ano": 1963,
+      "titulo": "Lo imperdonable",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Marcia del Río Eugenia Chávez",
+      "director": "—"
+    },
+    {
+      "ano": 1963,
+      "titulo": "Madres egoístas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Mimí Bechelani",
+      "director": "Jesús Valero"
+    },
+    {
+      "ano": 1963,
+      "titulo": "La mesera",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "Jesús Valero"
+    },
+    {
+      "ano": 1963,
+      "titulo": "Mi mujer y yo",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "-"
+    },
+    {
+      "ano": 1963,
+      "titulo": "Las modelos",
+      "episodios": 60,
+      "emision_original": "—",
+      "autor": "Abelardo Arias",
+      "director": "José Morris"
+    },
+    {
+      "ano": 1963,
+      "titulo": "Pablo y Elena",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Carlos Lozano Dana",
+      "director": "Antulio Jiménez Pons"
+    },
+    {
+      "ano": 1963,
+      "titulo": "El secreto",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Raúl Zenteno",
+      "director": "Jesús Valero"
+    },
+    {
+      "ano": 1963,
+      "titulo": "La sombra del otro",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Francisco Javier Camargo",
+      "director": "—"
+    },
+    {
+      "ano": 1963,
+      "titulo": "Traicionera",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1963,
+      "titulo": "Tres caras de mujer",
+      "episodios": 55,
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1963,
+      "titulo": "Vidas cruzadas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1963,
+      "titulo": "Vivimos en una estrella",
+      "episodios": 61,
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Francisco Jambrina"
+    },
+    {
+      "ano": 1964,
+      "titulo": "Apasionada",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1964,
+      "titulo": "Central de emergencia",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Gabriel Guerrero",
+      "director": "Rafael Banquells"
+    },
+    {
+      "ano": 1964,
+      "titulo": "El crisol",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1964,
+      "titulo": "Cumbres Borrascosas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Emily Brontë",
+      "director": "Manolo Calvo"
+    },
+    {
+      "ano": 1964,
+      "titulo": "Debiera haber obispas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Rafael Solana",
+      "director": "—"
+    },
+    {
+      "ano": 1964,
+      "titulo": "Desencuentro",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Vicente Leñero",
+      "director": "—"
+    },
+    {
+      "ano": 1964,
+      "titulo": "El dolor de vivir",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Lorenzo de Rodas"
+    },
+    {
+      "ano": 1964,
+      "titulo": "Gabriela",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Guadalupe Dueñas Vicente Leñero",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1964,
+      "titulo": "Historia de un cobarde",
+      "episodios": 57,
+      "emision_original": "—",
+      "autor": "Mimí Bechelani",
+      "director": "Raúl Araiza"
+    },
+    {
+      "ano": 1964,
+      "titulo": "La intrusa",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Leandro Blanco",
+      "director": "—"
+    },
+    {
+      "ano": 1964,
+      "titulo": "Juan José",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1964,
+      "titulo": "Juicio de almas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1964,
+      "titulo": "La máscara del ángel",
+      "episodios": 61,
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1964,
+      "titulo": "México 1900",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "Jesús Valero"
+    },
+    {
+      "ano": 1964,
+      "titulo": "La piel de Zapa",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Honoré de Balzac",
+      "director": "—"
+    },
+    {
+      "ano": 1964,
+      "titulo": "San Martín de Porres",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "José María Sánchez-Silva Fernanda Villeli",
+      "director": "Antulio Jiménez Pons"
+    },
+    {
+      "ano": 1964,
+      "titulo": "Siempre tuya",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Estela Calderón",
+      "director": "Antonio Fernández"
+    },
+    {
+      "ano": 1964,
+      "titulo": "La vecindad",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Luis Moreno",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1965,
+      "titulo": "Abismo",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Carlos Lozano Dana",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1965,
+      "titulo": "Las abuelas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Mimí Bechelani",
+      "director": "Jesús Valero"
+    },
+    {
+      "ano": 1965,
+      "titulo": "Alma de mi alma",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1965,
+      "titulo": "La calle en que vivimos",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Antonio Monsell",
+      "director": "—"
+    },
+    {
+      "ano": 1965,
+      "titulo": "Casa de huéspedes",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1965,
+      "titulo": "Corona de lágrimas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Manuel Canseco Noriega",
+      "director": "Jesús Valero"
+    },
+    {
+      "ano": 1965,
+      "titulo": "Un largo amor",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1965,
+      "titulo": "Llamado urgente",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Raúl Araiza"
+    },
+    {
+      "ano": 1965,
+      "titulo": "Marina Lavalle",
+      "episodios": 73,
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1965,
+      "titulo": "Maximiliano y Carlota",
+      "episodios": 50,
+      "emision_original": "—",
+      "autor": "Guadalupe Dueñas Margarita López Portillo",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1965,
+      "titulo": "La mentira",
+      "episodios": 62,
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1965,
+      "titulo": "Una mujer",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Vicente Leñero",
+      "director": "—"
+    },
+    {
+      "ano": 1965,
+      "titulo": "Nuestro barrio",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1965,
+      "titulo": "Puente de cristal",
+      "episodios": 50,
+      "emision_original": "—",
+      "autor": "Kenia Perea",
+      "director": "José Morris"
+    },
+    {
+      "ano": 1965,
+      "titulo": "El refugio",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1965,
+      "titulo": "Secreto de confesión",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Marissa Garrido",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1965,
+      "titulo": "La sembradora",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Gabriel Guerrero",
+      "director": "—"
+    },
+    {
+      "ano": 1965,
+      "titulo": "Tormenta de pasiones",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams",
+      "director": "—"
+    },
+    {
+      "ano": 1965,
+      "titulo": "Tú eres un extraño",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1966,
+      "titulo": "Amor y orgullo",
+      "episodios": 50,
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "Enrique Rambal"
+    },
+    {
+      "ano": 1966,
+      "titulo": "La búsqueda",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Carlos Lozano Dana",
+      "director": "Enrique Rambal"
+    },
+    {
+      "ano": 1966,
+      "titulo": "Cita en la gloria",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Leandro Bravo",
+      "director": "Jesús Valero"
+    },
+    {
+      "ano": 1966,
+      "titulo": "Corazón salvaje",
+      "episodios": 62,
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1966,
+      "titulo": "El corrido de Lupe Reyes",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Gabriel Guerrero",
+      "director": "Fernando Wagner"
+    },
+    {
+      "ano": 1966,
+      "titulo": "Cristina Guzmán",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1966,
+      "titulo": "El derecho de nacer",
+      "episodios": 100,
+      "emision_original": "—",
+      "autor": "Félix B. Caignet",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1966,
+      "titulo": "El despertar",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Carlos Lozano Dana",
+      "director": "José Morris"
+    },
+    {
+      "ano": 1966,
+      "titulo": "El dolor de amar",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "Jesús Valero"
+    },
+    {
+      "ano": 1966,
+      "titulo": "La dueña",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Kenia Perea",
+      "director": "José Solé"
+    },
+    {
+      "ano": 1966,
+      "titulo": "La Duquesa",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Estela Calderón",
+      "director": "Francisco Jambrina"
+    },
+    {
+      "ano": 1966,
+      "titulo": "El espejismo brillaba",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1966,
+      "titulo": "Gutierritos",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Estela Calderón",
+      "director": "Rafael Banquells"
+    },
+    {
+      "ano": 1966,
+      "titulo": "El homogéneo",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1966,
+      "titulo": "El ídolo",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Mimí Bechelani",
+      "director": "Francisco Jambrina"
+    },
+    {
+      "ano": 1966,
+      "titulo": "María Isabel",
+      "episodios": 60,
+      "emision_original": "—",
+      "autor": "Yolanda Vargas Dulché",
+      "director": "Jesús Valero"
+    },
+    {
+      "ano": 1966,
+      "titulo": "Más fuerte que tu amor",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1966,
+      "titulo": "Los medio hogares",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Antulio Jiménez Pons"
+    },
+    {
+      "ano": 1966,
+      "titulo": "El medio pelo",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Antonio González Caballero",
+      "director": "Luis Aragón"
+    },
+    {
+      "ano": 1966,
+      "titulo": "Nuestro pequeño mundo",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1966,
+      "titulo": "El patio de Tlaquepaque",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Carlos Lozano Dana",
+      "director": "José Solé"
+    },
+    {
+      "ano": 1966,
+      "titulo": "La razón de vivir",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Marissa Garrido",
+      "director": "Luis Aragón"
+    },
+    {
+      "ano": 1966,
+      "titulo": "La sombra del pecado",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Estela Calderón",
+      "director": "Antonio Fernández"
+    },
+    {
+      "ano": 1966,
+      "titulo": "Sonata de otoño",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1966,
+      "titulo": "Valeria",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Julio Alejandro"
+    },
+    {
+      "ano": 1966,
+      "titulo": "Vértigo",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Estela Calderón",
+      "director": "Antonio Fernández"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Adriana",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Lila Yolanda Andrade",
+      "director": "Luis Aragón"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Amor en el desierto",
+      "episodios": 48,
+      "emision_original": "8 de mayo - 12 de julio de 1967",
+      "autor": "Caridad Bravo Adams",
+      "director": "Enrique Rambal"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Amor sublime",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Mimí Bechelani",
+      "director": "Fernando Wagner"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Un ángel en el fango",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Arturo Moya Grau",
+      "director": "Fernando Wagner"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Angustia del pasado",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "Jesús Valero"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Anita de Montemar",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Leandro Bravo",
+      "director": "Jesús Valero"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Atormentada",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Estela Calderón",
+      "director": "—"
+    },
+    {
+      "ano": 1967,
+      "titulo": "La casa de las fieras",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Miguel Sabido",
+      "director": "José Solé"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Un color para tu piel",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Kenia Perea",
+      "director": "José Morris"
+    },
+    {
+      "ano": 1967,
+      "titulo": "El cuarto mandamiento",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Mimí Bechelani",
+      "director": "Fernando Wagner Antonio Fernández"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Cuna vacía",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Tomás I. Jaime",
+      "director": "Luis Aragón"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Deborah",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Detrás del muro",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "—"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Dicha robada",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Marissa Garrido",
+      "director": "José Morris"
+    },
+    {
+      "ano": 1967,
+      "titulo": "La duda",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "-",
+      "director": "Luis Aragón"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Ellas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "José de Uriarte",
+      "director": "Luis Aragón"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Engáñame",
+      "episodios": 50,
+      "emision_original": "—",
+      "autor": "Lila Yolanda Andrade",
+      "director": "José Solé"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Entre sombras",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Marissa Garrido",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Felipa Sánchez, la soldadera",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Guillermina Rivas",
+      "director": "Luis Aragón Antonio Fernández"
+    },
+    {
+      "ano": 1967,
+      "titulo": "La frontera",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "José Luis Moreno María de Silvia",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Gente sin historia",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Joaquín Bauche Alcalde",
+      "director": "Luis Aragón"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Incertidumbre",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "Jesús Valero"
+    },
+    {
+      "ano": 1967,
+      "titulo": "El juicio de nuestros hijos",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Marissa Garrido",
+      "director": "Enrique Rambal"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Lágrimas amargas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Carlos Lozano Dana",
+      "director": "Raúl Araiza"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Una mentira",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1967,
+      "titulo": "No quiero lágrimas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "—"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Obsesión",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "Antulio Jiménez Pons"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Un pobre hombre",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "José Morris"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Lo prohibido",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams",
+      "director": "Raúl Araiza"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Rocambole",
+      "episodios": 75,
+      "emision_original": "—",
+      "autor": "Raúl Zenteno",
+      "director": "Rafael Banquells"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Sueña conmigo, Donají",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams Marissa Garrido",
+      "director": "José Morris"
+    },
+    {
+      "ano": 1967,
+      "titulo": "La tormenta",
+      "episodios": 91,
+      "emision_original": "—",
+      "autor": "Miguel Sabido Eduardo Lizalde",
+      "director": "Raúl Araiza"
+    },
+    {
+      "ano": 1967,
+      "titulo": "El usurpador",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Gabriel Guerrero",
+      "director": "Fernando Wagner Antonio Fernández"
+    },
+    {
+      "ano": 1967,
+      "titulo": "Las víctimas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Mimí Bechelani",
+      "director": "Antulio Jiménez Pons"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Águeda",
+      "episodios": 62,
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams",
+      "director": "Xavier Rojas"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Aurelia",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Estela Calderón",
+      "director": "Antulio Jiménez Pons"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Cárcel de mujeres",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "María Luz Perea",
+      "director": "Manolo García"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Los Caudillos",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Miguel Sabido Eduardo Lizalde",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Chucho el Roto",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Carlos Chacón Jr.",
+      "director": "Fernando Wagner"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Cruz de amor",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Manuel Canseco Noriega",
+      "director": "Antulio Jiménez Pons"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Cynthia",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Beatriz Hernández",
+      "director": "Enrique Rambal"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Destino la gloria",
+      "episodios": 60,
+      "emision_original": "—",
+      "autor": "Joaquín Bauche Alcalde",
+      "director": "Alfredo Saldaña"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Duelo de pasiones",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Marissa Garrido",
+      "director": "Luis Aragón"
+    },
+    {
+      "ano": 1968,
+      "titulo": "En busca del paraíso",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Ramón Zozaya",
+      "director": "Raúl Araiza"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Estafa de amor",
+      "episodios": 66,
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Fallaste corazón",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Raúl Zenteno",
+      "director": "Antulio Jiménez Pons"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Un grito en la oscuridad",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Guadalupe Dueñas",
+      "director": "Raúl Araiza"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Los inconformes",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "-",
+      "director": "José Morris"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Intriga",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "María Luz Perea",
+      "director": "Luis Aragón"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Juventud divino tesoro",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Héctor Mendoza",
+      "director": "José Solé"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Leyendas de México",
+      "episodios": 30,
+      "emision_original": "—",
+      "autor": "Hugo Argüelles",
+      "director": "Raúl Araiza"
+    },
+    {
+      "ano": 1968,
+      "titulo": "El maestro",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "Hugo Cervantes"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Mariana",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Estela Calderón Luisa Xammar",
+      "director": "Antulio Jiménez Pons Jesús Valero"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Mujeres sin amor",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "Alfredo Saldaña"
+    },
+    {
+      "ano": 1968,
+      "titulo": "El padre Garnica",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Ramón Zozaya",
+      "director": "José Morris"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Pasión gitana",
+      "episodios": 40,
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams",
+      "director": "José Morris"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Pueblo sin esperanza",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Mimí Bechelani",
+      "director": "Manolo García"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Rubí",
+      "episodios": 53,
+      "emision_original": "—",
+      "autor": "Yolanda Vargas Dulché",
+      "director": "Fernando Wagner"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Simplemente vivir",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Ignacio Perera",
+      "director": "Arturo Salgado Raúl Astor"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Tiempo de perdón",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernanda Villeli",
+      "director": "José Morris"
+    },
+    {
+      "ano": 1968,
+      "titulo": "Tres vidas distintas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Kenia Perea",
+      "director": "Carlos Salinas"
+    },
+    {
+      "ano": 1969,
+      "titulo": "Aventuras de Huck",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Mark Twain",
+      "director": "—"
+    },
+    {
+      "ano": 1969,
+      "titulo": "Cadenas de angustia",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Estela Calderón",
+      "director": "Antulio Jiménez Pons"
+    },
+    {
+      "ano": 1969,
+      "titulo": "El ciego",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Mimí Bechelani",
+      "director": "Antulio Jiménez Pons"
+    },
+    {
+      "ano": 1969,
+      "titulo": "Concierto de almas",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Carlos Lozano Dana",
+      "director": "—"
+    },
+    {
+      "ano": 1969,
+      "titulo": "Corazón de dos ciudades",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Edmundo de Amicis",
+      "director": "—"
+    },
+    {
+      "ano": 1969,
+      "titulo": "De la tierra a la luna",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Julio Verne",
+      "director": "José Solé"
+    },
+    {
+      "ano": 1969,
+      "titulo": "De turno con la angustia",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Ignacio Perera",
+      "director": "Arturo Salgado"
+    },
+    {
+      "ano": 1969,
+      "titulo": "Del altar a la tumba",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Francisco Marín Cañas",
+      "director": "Manolo García"
+    },
+    {
+      "ano": 1969,
+      "titulo": "El diario de una señorita decente",
+      "episodios": 70,
+      "emision_original": "—",
+      "autor": "Luz María Servín",
+      "director": "Raúl Araiza"
+    },
+    {
+      "ano": 1969,
+      "titulo": "Encadenados",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Fernando Fernández",
+      "director": "Fernando Fernández"
+    },
+    {
+      "ano": 1969,
+      "titulo": "La familia",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Gabriel Guerrero",
+      "director": "Fernando Wagner"
+    },
+    {
+      "ano": 1969,
+      "titulo": "La frontera de cristal",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "—",
+      "director": "—"
+    },
+    {
+      "ano": 1969,
+      "titulo": "Honor y orgullo",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Ludwig G. Weber",
+      "director": "—"
+    },
+    {
+      "ano": 1969,
+      "titulo": "Lo que no fue",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Mimí Bechelani",
+      "director": "Manolo García"
+    },
+    {
+      "ano": 1969,
+      "titulo": "Más allá de la muerte",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Carlos Lozano Dana",
+      "director": "Raúl Araiza"
+    },
+    {
+      "ano": 1969,
+      "titulo": "Mi amor por ti",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Guadalupe Dueñas",
+      "director": "Raúl Araiza"
+    },
+    {
+      "ano": 1969,
+      "titulo": "No creo en los hombres",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Caridad Bravo Adams",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1969,
+      "titulo": "El ojo de vidrio",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Rosendo Ocañas",
+      "director": "Leandro Blanch"
+    },
+    {
+      "ano": 1969,
+      "titulo": "Una plegaria en el camino",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Arturo Moya Grau Violante Villamil",
+      "director": "Hugo Cervantes"
+    },
+    {
+      "ano": 1969,
+      "titulo": "Puente de amor",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Marissa Garrido",
+      "director": "Raúl Araiza"
+    },
+    {
+      "ano": 1969,
+      "titulo": "El retrato de Dorian Gray",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Oscar Wilde",
+      "director": "Ernesto Alonso"
+    },
+    {
+      "ano": 1969,
+      "titulo": "Rosario",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Arturo Moya Grau",
+      "director": "Antulio Jiménez Pons"
+    },
+    {
+      "ano": 1969,
+      "titulo": "El ruiseñor mexicano",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Antonio Monsell",
+      "director": "Rafael Banquells"
+    },
+    {
+      "ano": 1969,
+      "titulo": "Secreto para tres",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Rodrigo de la Cueva",
+      "director": "Guillermo Diazayas"
+    },
+    {
+      "ano": 1969,
+      "titulo": "Sin palabras",
+      "episodios": 70,
+      "emision_original": "—",
+      "autor": "Carlos Lozano Dana",
+      "director": "Ernesto Alonso José Morris"
+    },
+    {
+      "ano": 1969,
+      "titulo": "Tú eres mi destino",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Lila Yolanda Andrade",
+      "director": "Hugo Cervantes"
+    },
+    {
+      "ano": 1969,
+      "titulo": "El usurero",
+      "episodios": "—",
+      "emision_original": "—",
+      "autor": "Benito Pérez Galdós",
+      "director": "Luis Aragón"
+    }
+  ],
+  "meta": {
+    "title": "Telenovelas de Televisa de la década de 1960 - Free Download",
+    "description": "Telenovelas producidas por Telesistema Mexicano (Televisa) en México durante la década de 1960, con año, número de episodios, fechas de emisión, autor y director. Contains 239 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Telenovelas de Televisa de la década de 1960 | ListBase",
+    "seo_description": "Download Telenovelas de Televisa de la década de 1960 — 239 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 239 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Telenovelas_de_Televisa_de_la_década_de_1960"
+    ]
+  }
+}
