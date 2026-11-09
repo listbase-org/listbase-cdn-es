@@ -1,0 +1,499 @@
+{
+  "id": "es-virreyes-del-peru",
+  "name": "Virreyes y gobernadores del Perú colonial",
+  "title": "Virreyes y gobernadores del Perú colonial",
+  "description": "Virreyes, gobernadores y gobernadores interinos del Perú durante el período colonial español (1533–1824).",
+  "category": "history",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Virreyes_y_gobernadores_del_Perú_colonial",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Virreyes_y_gobernadores_del_Perú_colonial",
+  "updated": "2026-11",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "investidura",
+      "label": "Investidura",
+      "type": "string"
+    },
+    {
+      "key": "fecha_nombramiento",
+      "label": "Fecha Nombramiento",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    },
+    {
+      "key": "rey_de_espana",
+      "label": "Rey De Espana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nombre": "Francisco Pizarro 1.er Marqués de la Conquista",
+      "investidura": "Gobernador y Capitán General del Perú",
+      "fecha_nombramiento": "26 de julio de 1529",
+      "periodo": "16 de noviembre de 1533 a 26 de junio de 1541 †",
+      "rey_de_espana": "Carlos I de España (1516-1556)"
+    },
+    {
+      "nombre": "Diego de Almagro el Mozo",
+      "investidura": "Gobernador del Perú",
+      "fecha_nombramiento": "De facto",
+      "periodo": "26 de junio de 1541 a 16 de septiembre de 1542",
+      "rey_de_espana": "Carlos I de España (1516-1556)"
+    },
+    {
+      "nombre": "Cristóbal Vaca de Castro",
+      "investidura": "Gobernador del Perú",
+      "fecha_nombramiento": "9 de septiembre de 1540",
+      "periodo": "7 de agosto de 1542 a 17 de mayo de 1544",
+      "rey_de_espana": "Carlos I de España (1516-1556)"
+    },
+    {
+      "nombre": "Blasco Núñez Vela",
+      "investidura": "1.er Virrey del Perú",
+      "fecha_nombramiento": "1 de mayo de 1543",
+      "periodo": "17 de mayo de 1544 a 18 de septiembre de 1544",
+      "rey_de_espana": "Carlos I de España (1516-1556)"
+    },
+    {
+      "nombre": "Diego Vázquez de Cepeda",
+      "investidura": "Presidente de la Real Audiencia y Gobernador interino del Perú",
+      "fecha_nombramiento": "18 de septiembre de 1544",
+      "periodo": "18 de septiembre de 1544 a 28 de octubre de 1544",
+      "rey_de_espana": "Carlos I de España (1516-1556)"
+    },
+    {
+      "nombre": "Gonzalo Pizarro",
+      "investidura": "Capitán General y Justicia Mayor",
+      "fecha_nombramiento": "De facto",
+      "periodo": "28 de octubre de 1544 a 9 de abril de 1548",
+      "rey_de_espana": "Carlos I de España (1516-1556)"
+    },
+    {
+      "nombre": "Pedro de la Gasca",
+      "investidura": "Presidente de la Real Audiencia y Gobernador del Perú",
+      "fecha_nombramiento": "16 de febrero de 1546",
+      "periodo": "12 de agosto de 1546 a 6 de enero de 1550",
+      "rey_de_espana": "Carlos I de España (1516-1556)"
+    },
+    {
+      "nombre": "Andrés de Cianca",
+      "investidura": "Presidente de la Real Audiencia y Gobernador interino del Perú",
+      "fecha_nombramiento": "6 de enero de 1550",
+      "periodo": "6 de enero de 1550 a 14 de septiembre de 1551",
+      "rey_de_espana": "Carlos I de España (1516-1556)"
+    },
+    {
+      "nombre": "Antonio de Mendoza",
+      "investidura": "2.º Virrey del Perú",
+      "fecha_nombramiento": "8 de julio de 1549",
+      "periodo": "14 de septiembre de 1551 a 21 de julio de 1552 †",
+      "rey_de_espana": "Carlos I de España (1516-1556)"
+    },
+    {
+      "nombre": "Andrés de Cianca",
+      "investidura": "Presidente de la Real Audiencia y Gobernador interino del Perú",
+      "fecha_nombramiento": "21 de julio de 1552",
+      "periodo": "21 de julio de 1552 a 11 de abril de 1553",
+      "rey_de_espana": "Carlos I de España (1516-1556)"
+    },
+    {
+      "nombre": "Melchor Bravo de Saravia",
+      "investidura": "Presidente de la Real Audiencia y Gobernador interino del Perú",
+      "fecha_nombramiento": "11 de abril de 1553",
+      "periodo": "11 de abril de 1553 a 29 de junio de 1556",
+      "rey_de_espana": "Carlos I de España (1516-1556)"
+    },
+    {
+      "nombre": "Andrés Hurtado de Mendoza 2.º Marqués de Cañete",
+      "investidura": "3.er Virrey del Perú",
+      "fecha_nombramiento": "10 de mayo de 1555",
+      "periodo": "29 de junio de 1556 a 14 de septiembre de 1560 †",
+      "rey_de_espana": "Felipe II (1556-1598)"
+    },
+    {
+      "nombre": "Diego López de Zúñiga y Velasco 5.º Conde de Nieva",
+      "investidura": "4.º Virrey del Perú",
+      "fecha_nombramiento": "15 de diciembre de 1558",
+      "periodo": "17 de abril de 1561 a 19 de febrero de 1564 †",
+      "rey_de_espana": "Felipe II (1556-1598)"
+    },
+    {
+      "nombre": "Hernando de Saavedra",
+      "investidura": "Presidente de la Real Audiencia y Gobernador interino del Perú",
+      "fecha_nombramiento": "19 de febrero de 1564",
+      "periodo": "19 de febrero de 1564 a 23 de octubre de 1564",
+      "rey_de_espana": "Felipe II (1556-1598)"
+    },
+    {
+      "nombre": "Lope García de Castro",
+      "investidura": "Gobernador del Perú",
+      "fecha_nombramiento": "16 de agosto de 1563",
+      "periodo": "23 de octubre de 1564 a 30 de noviembre de 1569",
+      "rey_de_espana": "Felipe II (1556-1598)"
+    },
+    {
+      "nombre": "Francisco Álvarez de Toledo",
+      "investidura": "5.º Virrey del Perú",
+      "fecha_nombramiento": "30 de noviembre de 1568",
+      "periodo": "30 de noviembre de 1569 a 1 de mayo de 1581",
+      "rey_de_espana": "Felipe II (1556-1598)"
+    },
+    {
+      "nombre": "Martín Enríquez de Almansa",
+      "investidura": "6.º Virrey del Perú",
+      "fecha_nombramiento": "26 de mayo de 1580",
+      "periodo": "15 de mayo de 1581 a 12 de marzo de 1583 †",
+      "rey_de_espana": "Felipe II (1556-1598)"
+    },
+    {
+      "nombre": "Cristóbal Ramírez de Cartagena",
+      "investidura": "Presidente de la Real Audiencia y Gobernador interino del Perú",
+      "fecha_nombramiento": "12 de marzo de 1583",
+      "periodo": "12 de marzo de 1583 a 21 de noviembre de 1585",
+      "rey_de_espana": "Felipe II (1556-1598)"
+    },
+    {
+      "nombre": "Fernando Torres y Portugal 1.er Conde de Villardompardo",
+      "investidura": "7.º Virrey del Perú",
+      "fecha_nombramiento": "31 de marzo de 1584",
+      "periodo": "21 de noviembre de 1585 a 6 de enero de 1590",
+      "rey_de_espana": "Felipe II (1556-1598)"
+    },
+    {
+      "nombre": "García Hurtado de Mendoza 4.º Marqués de Cañete",
+      "investidura": "8.º Virrey del Perú",
+      "fecha_nombramiento": "30 de agosto de 1588",
+      "periodo": "6 de enero de 1590 a 19 de abril de 1596",
+      "rey_de_espana": "Felipe II (1556-1598)"
+    },
+    {
+      "nombre": "Luis de Velasco y Castilla",
+      "investidura": "9.º Virrey del Perú",
+      "fecha_nombramiento": "7 de junio de 1595",
+      "periodo": "24 de junio de 1596 a 8 de diciembre de 1604",
+      "rey_de_espana": "Felipe II (1556-1598)"
+    },
+    {
+      "nombre": "Gaspar de Zúñiga Acevedo y Velasco 5.º Conde de Monterrey",
+      "investidura": "10.º Virrey del Perú",
+      "fecha_nombramiento": "28 de mayo de 1603",
+      "periodo": "8 de diciembre de 1604 a 10 de febrero de 1606 †",
+      "rey_de_espana": "Felipe III (1598-1621), Casa de Habsburgo."
+    },
+    {
+      "nombre": "Diego Núñez de Avendaño",
+      "investidura": "Presidente de la Real Audiencia y Gobernador interino del Perú",
+      "fecha_nombramiento": "10 de febrero de 1606",
+      "periodo": "10 de febrero de 1606 a 26 de mayo de 1606",
+      "rey_de_espana": "Felipe III (1598-1621), Casa de Habsburgo."
+    },
+    {
+      "nombre": "Juan Fernández de Boán",
+      "investidura": "Presidente de la Real Audiencia y Gobernador interino del Perú",
+      "fecha_nombramiento": "26 de mayo de 1606",
+      "periodo": "26 de mayo de 1606 a 21 de diciembre de 1607",
+      "rey_de_espana": "Felipe III (1598-1621), Casa de Habsburgo."
+    },
+    {
+      "nombre": "Juan de Mendoza y Luna 3.er Marqués de Montes Claros",
+      "investidura": "11.er Virrey del Perú",
+      "fecha_nombramiento": "22 de noviembre de 1606",
+      "periodo": "21 de diciembre de 1607 a 18 de diciembre de 1615",
+      "rey_de_espana": "Felipe III (1598-1621), Casa de Habsburgo."
+    },
+    {
+      "nombre": "Francisco de Borja y Aragón 2.º Conde de Mayalde",
+      "investidura": "12.º Virrey del Perú",
+      "fecha_nombramiento": "19 de julio de 1614",
+      "periodo": "18 de diciembre de 1615 a 31 de diciembre de 1621",
+      "rey_de_espana": "Felipe III (1598-1621), Casa de Habsburgo."
+    },
+    {
+      "nombre": "Juan Jiménez de Montalvo",
+      "investidura": "Presidente de la Real Audiencia y Gobernador interino del Perú",
+      "fecha_nombramiento": "31 de diciembre de 1621",
+      "periodo": "31 de diciembre de 1621 a 25 de julio de 1622",
+      "rey_de_espana": "Felipe III (1598-1621), Casa de Habsburgo."
+    },
+    {
+      "nombre": "Diego Fernández de Córdoba 1.er Marqués de Guadalcázar",
+      "investidura": "13.er Virrey del Perú",
+      "fecha_nombramiento": "22 de agosto de 1620",
+      "periodo": "25 de julio de 1622 a 14 de enero de 1629",
+      "rey_de_espana": "Felipe IV (1621-1665)"
+    },
+    {
+      "nombre": "Luis Jerónimo Fernández de Cabrera y Bobadilla 4.º Conde de Chinchón",
+      "investidura": "14.º Virrey del Perú",
+      "fecha_nombramiento": "11 de febrero de 1628",
+      "periodo": "14 de enero de 1629 a 18 de diciembre de 1639",
+      "rey_de_espana": "Felipe IV (1621-1665)"
+    },
+    {
+      "nombre": "Pedro Álvarez de Toledo y Leiva 1.er Marqués de Mancera",
+      "investidura": "15.º Virrey del Perú",
+      "fecha_nombramiento": "24 de octubre de 1638",
+      "periodo": "18 de diciembre de 1639 a 20 de septiembre de 1648",
+      "rey_de_espana": "Felipe IV (1621-1665)"
+    },
+    {
+      "nombre": "García Sarmiento de Sotomayor 2.º Conde de Salvatierra",
+      "investidura": "16.º Virrey del Perú",
+      "fecha_nombramiento": "18 de junio de 1647",
+      "periodo": "20 de septiembre de 1648 a 24 de febrero de 1655",
+      "rey_de_espana": "Felipe IV (1621-1665)"
+    },
+    {
+      "nombre": "Luis Enríquez de Guzmán 9.º Conde de Alba de Liste",
+      "investidura": "17.º Virrey del Perú",
+      "fecha_nombramiento": "22 de marzo de 1653",
+      "periodo": "24 de febrero de 1655 a 31 de julio de 1661",
+      "rey_de_espana": "Felipe IV (1621-1665)"
+    },
+    {
+      "nombre": "Diego de Benavides y de la Cueva 8.º Conde de Santisteban",
+      "investidura": "18.º Virrey del Perú",
+      "fecha_nombramiento": "5 de agosto de 1659",
+      "periodo": "31 de julio de 1661 a 17 de marzo de 1666 †",
+      "rey_de_espana": "Felipe IV (1621-1665)"
+    },
+    {
+      "nombre": "Bernardo de Iturrizarra",
+      "investidura": "Presidente de la Real Audiencia y Gobernador interino del Perú",
+      "fecha_nombramiento": "17 de marzo de 1666",
+      "periodo": "17 de marzo de 1666 a 21 de noviembre de 1667",
+      "rey_de_espana": "Carlos II (1665-1700)"
+    },
+    {
+      "nombre": "Pedro Antonio Fernández de Castro 10.º Conde de Lemos",
+      "investidura": "19.º Virrey del Perú",
+      "fecha_nombramiento": "21 de noviembre de 1666",
+      "periodo": "21 de noviembre de 1667 a 6 de diciembre de 1672 †",
+      "rey_de_espana": "Carlos II (1665-1700)"
+    },
+    {
+      "nombre": "Álvaro de Ibarra",
+      "investidura": "Presidente de la Real Audiencia y Gobernador interino del Perú",
+      "fecha_nombramiento": "6 de diciembre de 1672",
+      "periodo": "6 de diciembre de 1672 a 15 de agosto de 1674",
+      "rey_de_espana": "Carlos II (1665-1700)"
+    },
+    {
+      "nombre": "Baltasar de la Cueva Henríquez 7.º Conde de Castellar",
+      "investidura": "20.º Virrey del Perú",
+      "fecha_nombramiento": "26 de septiembre de 1673",
+      "periodo": "15 de agosto de 1674 a 7 de julio de 1678",
+      "rey_de_espana": "Carlos II (1665-1700)"
+    },
+    {
+      "nombre": "Melchor de Liñán y Cisneros 7.º Arzobispo de Lima",
+      "investidura": "21.er Virrey del Perú",
+      "fecha_nombramiento": "26 de febrero de 1678 (interino)",
+      "periodo": "7 de julio de 1678 a 2 de noviembre de 1681",
+      "rey_de_espana": "Carlos II (1665-1700)"
+    },
+    {
+      "nombre": "Melchor de Navarra y Rocafull 2.º Duque consorte de Palata",
+      "investidura": "22.º Virrey del Perú",
+      "fecha_nombramiento": "24 de septiembre de 1680",
+      "periodo": "2 de noviembre de 1681 a 15 de agosto de 1689",
+      "rey_de_espana": "Carlos II (1665-1700)"
+    },
+    {
+      "nombre": "Melchor Portocarrero Lasso de la Vega 3.er Conde de la Monclova",
+      "investidura": "23.er Virrey del Perú",
+      "fecha_nombramiento": "3 de mayo de 1688",
+      "periodo": "15 de agosto de 1689 a 22 de septiembre de 1705 †",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Juan Peñalosa y Benavides",
+      "investidura": "Presidente de la Real Audiencia y Gobernador interino del Perú",
+      "fecha_nombramiento": "22 de septiembre de 1705",
+      "periodo": "22 de septiembre de 1705 a 7 de julio de 1707",
+      "rey_de_espana": "Felipe V (1700-1724)"
+    },
+    {
+      "nombre": "Manuel de Oms y de Santa Pau 1.er Marqués de Castelldosrius",
+      "investidura": "24.º Virrey del Perú",
+      "fecha_nombramiento": "31 de diciembre de 1704",
+      "periodo": "7 de julio de 1707 a 25 de abril de 1710 †",
+      "rey_de_espana": "Felipe V (1700-1724)"
+    },
+    {
+      "nombre": "Miguel Núñez de Sanabria",
+      "investidura": "Presidente de la Real Audiencia y Gobernador interino del Perú",
+      "fecha_nombramiento": "25 de abril de 1710",
+      "periodo": "25 de abril de 1710 a 14 de septiembre de 1710",
+      "rey_de_espana": "Felipe V (1700-1724)"
+    },
+    {
+      "nombre": "Diego Ladrón de Guevara Obispo de Quito",
+      "investidura": "25.º Virrey del Perú",
+      "fecha_nombramiento": "14 de septiembre de 1710",
+      "periodo": "14 de septiembre de 1710 a 2 de marzo de 1716",
+      "rey_de_espana": "Felipe V (1700-1724)"
+    },
+    {
+      "nombre": "Mateo de la Mata Ponce de León",
+      "investidura": "Presidente de la Real Audiencia y Gobernador interino del Perú",
+      "fecha_nombramiento": "2 de marzo de 1716",
+      "periodo": "2 de marzo de 1716 a 15 de agosto de 1716",
+      "rey_de_espana": "Felipe V (1700-1724)"
+    },
+    {
+      "nombre": "Diego Morcillo Rubio de Auñón Arzobispo de Charcas",
+      "investidura": "Virrey interino del Perú",
+      "fecha_nombramiento": "3 de noviembre de 1715",
+      "periodo": "15 de agosto de 1716 a 5 de octubre de 1716",
+      "rey_de_espana": "Felipe V (1700-1724)"
+    },
+    {
+      "nombre": "Carmine Nicolao Caracciolo Príncipe de Santo Buono",
+      "investidura": "26.º Virrey del Perú",
+      "fecha_nombramiento": "1715",
+      "periodo": "5 de octubre de 1716 a 26 de enero de 1720",
+      "rey_de_espana": "Felipe V (1700-1724)"
+    },
+    {
+      "nombre": "Diego Morcillo Rubio de Auñón 10.º Arzobispo de Lima",
+      "investidura": "27.º Virrey del Perú",
+      "fecha_nombramiento": "-",
+      "periodo": "26 de enero de 1720 a 14 de mayo de 1724",
+      "rey_de_espana": "Felipe V (1700-1724)"
+    },
+    {
+      "nombre": "José de Armendáriz 1.er Marqués de Castelfuerte",
+      "investidura": "28.º Virrey del Perú",
+      "fecha_nombramiento": "1723",
+      "periodo": "14 de mayo de 1724 a 4 de enero de 1736",
+      "rey_de_espana": "Luis I (1724)"
+    },
+    {
+      "nombre": "José Antonio de Mendoza Caamaño y Sotomayor 3.er marqués de Villagarcía",
+      "investidura": "29.º Virrey del Perú",
+      "fecha_nombramiento": "1736",
+      "periodo": "4 de enero de 1736 a 12 de julio de 1745",
+      "rey_de_espana": "Felipe V (1724-1746)"
+    },
+    {
+      "nombre": "José Antonio Manso de Velasco 1.er Conde de Superunda",
+      "investidura": "30.º Virrey del Perú",
+      "fecha_nombramiento": "24 de diciembre de 1744",
+      "periodo": "12 de julio de 1745 a 12 de octubre de 1761",
+      "rey_de_espana": "Fernando VI (1746-1759)"
+    },
+    {
+      "nombre": "Manuel de Amat y Juniet",
+      "investidura": "31.er Virrey del Perú",
+      "fecha_nombramiento": "1761",
+      "periodo": "12 de octubre de 1761 a 17 de julio de 1776",
+      "rey_de_espana": "Carlos III (1759-1788)"
+    },
+    {
+      "nombre": "Manuel Guirior 1.er Marqués de Guirior",
+      "investidura": "32.º Virrey del Perú",
+      "fecha_nombramiento": "24 de agosto de 1775",
+      "periodo": "17 de julio de 1776 a 21 de julio de 1780",
+      "rey_de_espana": "Carlos III (1759-1788)"
+    },
+    {
+      "nombre": "Agustín de Jáuregui",
+      "investidura": "33.er Virrey del Perú",
+      "fecha_nombramiento": "10 de enero de 1780",
+      "periodo": "21 de julio de 1780 a 6 de abril de 1784",
+      "rey_de_espana": "Carlos III (1759-1788)"
+    },
+    {
+      "nombre": "Teodoro de Croix Caballero de Croix",
+      "investidura": "34.º Virrey del Perú",
+      "fecha_nombramiento": "15 de enero de 1783",
+      "periodo": "6 de abril de 1784 a 25 de marzo de 1790",
+      "rey_de_espana": "Carlos III (1759-1788)"
+    },
+    {
+      "nombre": "Francisco Gil de Taboada",
+      "investidura": "35.º Virrey del Perú",
+      "fecha_nombramiento": "10 de enero de 1790",
+      "periodo": "25 de marzo de 1790 a 6 de junio de 1796",
+      "rey_de_espana": "Carlos IV (1788-1808) ​"
+    },
+    {
+      "nombre": "Ambrosio O'Higgins Marqués de Osorno",
+      "investidura": "36.º Virrey del Perú",
+      "fecha_nombramiento": "16 de septiembre de 1795",
+      "periodo": "6 de junio de 1796 a 18 de marzo de 1800 †",
+      "rey_de_espana": "Carlos IV (1788-1808) ​"
+    },
+    {
+      "nombre": "Manuel Arredondo y Pelegrín",
+      "investidura": "Presidente de la Real Audiencia y Gobernador interino del Perú",
+      "fecha_nombramiento": "18 de marzo de 1800",
+      "periodo": "18 de marzo de 1800 a 6 de noviembre de 1801",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Gabriel de Avilés y del Fierro 4.º Marqués de Avilés",
+      "investidura": "37.º Virrey del Perú",
+      "fecha_nombramiento": "14 de julio de 1800",
+      "periodo": "6 de noviembre de 1801 a 26 de julio de 1806",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "El Virreinato del Perú no reconoce la autoridad francesa de José I Bonaparte en España. Se mantiene leal a Fernando VII, preso en Francia.",
+      "investidura": "El Virreinato del Perú no reconoce la autoridad francesa de José I Bonaparte en España. Se mantiene leal a Fernando VII, preso en Francia.",
+      "fecha_nombramiento": "El Virreinato del Perú no reconoce la autoridad francesa de José I Bonaparte en España. Se mantiene leal a Fernando VII, preso en Francia.",
+      "periodo": "El Virreinato del Perú no reconoce la autoridad francesa de José I Bonaparte en España. Se mantiene leal a Fernando VII, preso en Francia.",
+      "rey_de_espana": "El Virreinato del Perú no reconoce la autoridad francesa de José I Bonaparte en España. Se mantiene leal a Fernando VII, preso en Francia."
+    },
+    {
+      "nombre": "José Fernando de Abascal y Sousa 1.er Marqués de la Concordia Española del Perú",
+      "investidura": "38.º Virrey del Perú",
+      "fecha_nombramiento": "10 de noviembre de 1804",
+      "periodo": "26 de julio de 1806 a 7 de julio de 1816",
+      "rey_de_espana": "Fernando VII (1808-1833)"
+    },
+    {
+      "nombre": "Joaquín de la Pezuela 1.er Marqués de Viluma",
+      "investidura": "39.º Virrey del Perú",
+      "fecha_nombramiento": "14 de octubre de 1815",
+      "periodo": "7 de julio de 1816 a 29 de enero de 1821",
+      "rey_de_espana": "Fernando VII (1808-1833)"
+    },
+    {
+      "nombre": "José de la Serna e Hinojosa 1.er Conde de los Andes",
+      "investidura": "40.º Virrey del Perú",
+      "fecha_nombramiento": "Impuesto el 29 de enero de 1821 por el motín de Aznapuquio y confirmado el 29 de julio de 1821",
+      "periodo": "29 de enero de 1821 a 9 de diciembre de 1824",
+      "rey_de_espana": "Fernando VII (1808-1833)"
+    },
+    {
+      "nombre": "Pío Tristán",
+      "investidura": "Virrey interino del Perú",
+      "fecha_nombramiento": "De facto (nombrado por la Real Audiencia del Cuzco)",
+      "periodo": "16 de diciembre de 1824 a 30 de diciembre de 1824",
+      "rey_de_espana": "Fernando VII (1808-1833)"
+    }
+  ],
+  "meta": {
+    "title": "Virreyes y gobernadores del Perú colonial - Free Download",
+    "description": "Virreyes, gobernadores y gobernadores interinos del Perú durante el período colonial español (1533–1824). Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Virreyes y gobernadores del Perú colonial | ListBase",
+    "seo_description": "Download Virreyes y gobernadores del Perú colonial — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Virreyes_y_gobernadores_del_Perú_colonial"
+    ]
+  }
+}

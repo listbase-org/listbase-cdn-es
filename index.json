@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-09T02:36:47.082Z",
-  "total_datasets": 544,
-  "total_records": 432225,
+  "generated": "2026-11-09T02:36:57.274Z",
+  "total_datasets": 545,
+  "total_records": 432289,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -2844,6 +2844,32 @@
         "xlsx": {
           "name": "es-virreyes-de-nueva-espana_ES.xlsx",
           "size": 11870
+        }
+      }
+    },
+    {
+      "id": "es-virreyes-del-peru",
+      "name": "Virreyes y gobernadores del Perú colonial",
+      "category": "history",
+      "record_count": 64,
+      "columns": [
+        "nombre",
+        "investidura",
+        "fecha_nombramiento",
+        "periodo",
+        "rey_de_espana"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Virreyes_y_gobernadores_del_Perú_colonial",
+      "updated": "2026-11",
+      "size": 21396,
+      "files": {
+        "csv": {
+          "name": "es-virreyes-del-peru_ES.csv",
+          "size": 11882
+        },
+        "xlsx": {
+          "name": "es-virreyes-del-peru_ES.xlsx",
+          "size": 11069
         }
       }
     },
