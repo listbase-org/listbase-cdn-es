@@ -1,0 +1,1856 @@
+{
+  "id": "es-terremotos-en-peru",
+  "name": "Terremotos en Perú",
+  "title": "Terremotos en Perú",
+  "description": "Terremotos registrados en el Perú desde el siglo XVI: fecha, magnitud, nombre, epicentro, zonas afectadas y daños.",
+  "category": "science",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Terremotos_en_Perú",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Terremotos_en_Perú",
+  "updated": "2026-11",
+  "record_count": 225,
+  "columns": [
+    {
+      "key": "fecha",
+      "label": "Fecha",
+      "type": "number"
+    },
+    {
+      "key": "magnitud",
+      "label": "Magnitud",
+      "type": "string"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "epicentro",
+      "label": "Epicentro",
+      "type": "string"
+    },
+    {
+      "key": "zonas_afectadas",
+      "label": "Zonas Afectadas",
+      "type": "string"
+    },
+    {
+      "key": "victimas_y_danos",
+      "label": "Victimas Y Danos",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "fecha": "1513",
+      "magnitud": "8.7 Muk",
+      "nombre": "",
+      "epicentro": "Sur del Perú",
+      "zonas_afectadas": "",
+      "victimas_y_danos": "Se desconoce el alcance de los daños que causó. Un tsunami contribuyó a sus efectos destructivos."
+    },
+    {
+      "fecha": "s.f. / 1555 (o anterior)",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Arequipa",
+      "zonas_afectadas": "Ciudad de Arequipa",
+      "victimas_y_danos": "Un relato da constancia de como la ciudad solía registrar constantes y fuertes temblores de tierra que provocaban la caída de numerosas viviendas y la muerte de algunos pobladores. Ante esta situación recurrente de peligro, los habitantes decidieron tomar a Santa Marta como la santa patrona de la ciudad para buscar amparo y protección divina frente a los sismos."
+    },
+    {
+      "fecha": "15 de noviembre de 1555",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Desconocido.",
+      "zonas_afectadas": "Lima",
+      "victimas_y_danos": "El sismo causó que las casas de propiedad de la ciudad se maltrataran y sufrieran el hundimiento de sus paredes. Las estructuras quedaron peligrosas y a punto de caer, provocando que los inquilinos desampararan las viviendas por temor a derrumbes que pudieran causar muertes."
+    },
+    {
+      "fecha": "12 de mayo de 1568",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Ica (Villa de Valverde)",
+      "zonas_afectadas": "Emplazamiento original de Tocara (Ica) y un jagüey/ventilla a 5 leguas del valle",
+      "victimas_y_danos": "Un fuerte terremoto destruyó por completo la Villa de Valverde (fundada seis años antes en el sector de Tocara), provocando también el desplome de un jagüey y una ventilla cercanos. Debido a la destrucción total de las viviendas y la traza urbana, los habitantes se vieron obligados a abandonar el lugar y trasladarse a un nuevo asentamiento conocido hoy como Pueblo Viejo."
+    },
+    {
+      "fecha": "22 de enero de 1582",
+      "magnitud": "8.2 M s",
+      "nombre": "Terremoto de Arequipa de 1582",
+      "epicentro": "Cerca de Arequipa.",
+      "zonas_afectadas": "Ciudad de Arequipa, Puerto de Islay y valles de Vítor, Siguas, Majes y Camaná",
+      "victimas_y_danos": "Terremoto que destruyó la ciudad de Arequipa, colapsó acequias y provocó una densa polvareda. En la costa se retiró el mar y desapareció un arroyo en el puerto de Islay. En los valles de Vítor, Siguas, Majes y Camaná se perdió una gran cantidad de tinajas de vino y murieron animales. Dejó entre 36 y 40 fallecidos y desató una posterior plaga de moscas y ratones debido a la putrefacción."
+    },
+    {
+      "fecha": "ago./oct. de 1582",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Desconocido",
+      "zonas_afectadas": "Lima",
+      "victimas_y_danos": "Un fuerte sismo matutino sacudió la ciudad de Lima provocando un fuerte ruido subterráneo y pánico generalizado. Las personas huyeron a las calles en medio de la confusión; algunas paredes colapsaron atrapando a sus dueños, mientras que otras estructuras se balancearon violentamente sin llegar a caerse del todo."
+    },
+    {
+      "fecha": "17 de marzo de 1584",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Desconocido",
+      "zonas_afectadas": "Lima y el Callao",
+      "victimas_y_danos": "Un fuerte sismo averió múltiples edificaciones en la capital y dañó las Casas Reales en El Callao. El alarife Francisco Morales fue comisionado para inspeccionar, reparar y apuntalar las estructuras en peligro, ordenándose además eliminar las almenas altas por riesgo de caída. La tierra continuó temblando durante dos días con aproximadamente 8 o 9 réplicas."
+    },
+    {
+      "fecha": "9 de julio de 1586",
+      "magnitud": "8.1 M w",
+      "nombre": "Terremoto de Lima y Callao de 1586",
+      "epicentro": "Costa central del Perú",
+      "zonas_afectadas": "Ciudad de Lima, El Callao, puerto de Chincha y Villa de Valverde de Ica",
+      "victimas_y_danos": "Devastador sismo precedido por un fuerte ruido subterráneo que destruyó casi la totalidad de Lima y El Callao. Minutos después, un tsunami inundó hasta la plaza de Santo Domingo, arrasando almacenes, barcos y mercaderías. Provocó un mínimo de 30 muertos y numerosos heridos. La población y el virrey tuvieron que vivir en campos y barracas debido al riesgo de colapso, mientras que las réplicas destructivas continuaron por meses hasta mediados de 1587."
+    },
+    {
+      "fecha": "s.f / Anterior a 1590",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Chachapoyas",
+      "zonas_afectadas": "Ciudad de Chachapoyas",
+      "victimas_y_danos": "Registro histórico del jesuita Joseph de Acosta donde se señala que la ciudad sufrió graves daños materiales a causa de fuertes movimientos telúricos ocurridos antes de la publicación de su obra."
+    },
+    {
+      "fecha": "18 de diciembre de 1594",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Departamento de Ica",
+      "zonas_afectadas": "Costa centro-sur del Perú",
+      "victimas_y_danos": "Ica quedó prácticamente arrasada: No quedó casa ni templo en pie, por lo que los habitantes tuvieron que refugiarse en bohíos y celebrar los oficios religiosos en ramadas. Murieron más de 40 personas. El sismo también se sintió en otras zonas, aunque sin causar daños importantes."
+    },
+    {
+      "fecha": "19 de febrero de 1600",
+      "magnitud": "s.d.",
+      "nombre": "Terremoto de Arequipa de 1600",
+      "epicentro": "Volcán Huaynaputina / Omate (Moquegua)",
+      "zonas_afectadas": "Región de Arequipa, Moquegua, Torata, Omate, Valle del Río Tambo y alcance global de cenizas",
+      "victimas_y_danos": "La explosión del cráter generó más de 200 sismos en pocas horas, derribando buena parte de Arequipa. En Omate y sus inmediaciones, la erupción sepultó por completo entre 6 y 7 pueblos con todos sus habitantes adentro. Los escombros y la lava represaron el río Tambo, cuya posterior rotura asoló todo el valle; mientras que en Moquegua y Torata los campos quedaron estériles por años. Los bramidos subterráneos se oyeron claramente en Lima, y la colosal lluvia de ceniza duró más de 40 días, cubriendo más de 200 leguas a la redonda y alcanzando por el mar las costas de Panamá, Nicaragua y Acapulco. A nivel global, las emisiones de azufre generaron un \"invierno volcánico\" que alteró el clima mundial y desencadenó la Hambruna rusa de 1601-1603."
+    },
+    {
+      "fecha": "24 de noviembre de 1604",
+      "magnitud": "8.7-9.0 M w",
+      "nombre": "Terremoto del Sur Del Perú de 1604",
+      "epicentro": "Océano Pacífico, frente a Tacna",
+      "zonas_afectadas": "Arequipa, Moquegua, Tacna, Arica, Ica, Cuzco, Pausa (Ayacucho), Callao, Pisco, Camaná e Ilo",
+      "victimas_y_danos": "Catastrófico sismo que arrasó por completo Arequipa, Moquegua (donde brotaron arroyos fétidos), derrocó muchas casas en la Villa de Ica y redujo el pueblo de Pausa a solo 15 casas. El posterior tsunami golpeó con fuerza toda la costa sur y central: arrasó con la villa de Arica obligando a la población a huir al Morro, inundó Pisco, penetró media legua en los valles de Camaná e Ilo dejando decenas de ahogados, y aisló temporalmente el puerto del Callao."
+    },
+    {
+      "fecha": "19 de octubre de 1609",
+      "magnitud": "7.4M w",
+      "nombre": "Terremoto de Lima y Callao de 1609",
+      "epicentro": "Océano Pacífico, 30 km al noroeste del Callao",
+      "zonas_afectadas": "Costa central del Perú.",
+      "victimas_y_danos": "Fallecieron 6 personas. Unas 500 casas en Lima se derrumban y la Catedral es seriamente afectada."
+    },
+    {
+      "fecha": "16 de septiembre de 1615",
+      "magnitud": "7.5 M w",
+      "nombre": "",
+      "epicentro": "Océano Pacífico, frente a Arica.",
+      "zonas_afectadas": "Sur del Perú y actual norte de Chile.",
+      "victimas_y_danos": "Se desconoce si causó víctimas. Destrucción en Arica y Tacna. Acompañado de un moderado tsunami que no provocó daños ni víctimas."
+    },
+    {
+      "fecha": "14 de febrero de 1619",
+      "magnitud": "8.7 M w",
+      "nombre": "Terremoto de Trujillo de 1619",
+      "epicentro": "Cerca de Trujillo, actual departamento de La Libertad.",
+      "zonas_afectadas": "Costa norte del Perú.",
+      "victimas_y_danos": "Más de 300 muertos. Destrucción total de Trujillo (X). Se extendió la devastación por una amplia zona que incluía Saña, Santa, Cajamarca y Huamachuco. Se presentaron graves efectos en los terrenos adyacentes, así como en los ríos de diferentes provincias."
+    },
+    {
+      "fecha": "27 de noviembre de 1630",
+      "magnitud": "7.5 M s",
+      "nombre": "Terremoto de Lima y Callao de 1630",
+      "epicentro": "",
+      "zonas_afectadas": "Costa central del Perú.",
+      "victimas_y_danos": "Varios muertos y contusos en Lima. Destrucción de algunos edificios en Lima y Callao."
+    },
+    {
+      "fecha": "31 de marzo de 1650",
+      "magnitud": "7.7 Muk",
+      "nombre": "Terremoto del Cuzco de 1650",
+      "epicentro": "Cerca del Cusco, actual Departamento de Cusco.",
+      "zonas_afectadas": "Sur y centro del Perú",
+      "victimas_y_danos": "Numerosos muertos. Causó fuertes daños en las edificaciones, y masivos deslizamientos entre Písac y Paucartambo, represando además el río Apurímac generando inundaciones aguas abajo."
+    },
+    {
+      "fecha": "13 de noviembre de 1655",
+      "magnitud": "7.7 M s",
+      "nombre": "Terremoto de Lima y Callao de 1655",
+      "epicentro": "",
+      "zonas_afectadas": "Costa central del Perú.",
+      "victimas_y_danos": "Un muerto y numerosos heridos. Graves daños en edificios en Lima y Callao. Generó numerosas réplicas de fuerte intensidad durante un mes."
+    },
+    {
+      "fecha": "12 de mayo de 1664",
+      "magnitud": "7.5 M w",
+      "nombre": "Terremoto de Ica y Pisco de 1664",
+      "epicentro": "",
+      "zonas_afectadas": "Actual departamento de Ica.",
+      "victimas_y_danos": "Destrucción en Ica con 400 muertos y 60 muertos en Pisco."
+    },
+    {
+      "fecha": "17 de junio de 1678",
+      "magnitud": "8.0 M w",
+      "nombre": "Terremoto de Lima y Callao de 1678",
+      "epicentro": "",
+      "zonas_afectadas": "Costa central del Perú.",
+      "victimas_y_danos": "9-17 muertos. Destrucción reportada en Lima, Callao y Chancay. Tsunami reportado en el Callao y en Santa."
+    },
+    {
+      "fecha": "10 de marzo de 1681",
+      "magnitud": "7.3 M s",
+      "nombre": "Terremoto de Arica de 1681",
+      "epicentro": "",
+      "zonas_afectadas": "Sur del Perú y actual norte de Chile.",
+      "victimas_y_danos": "Terremoto de aparente origen continental ocasiona 133 muertos. Daños importantes en Tacna."
+    },
+    {
+      "fecha": "28 de enero de 1687",
+      "magnitud": "6.5 M b",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Huancavelica, Huanta y Lircay.",
+      "victimas_y_danos": "La villa de Huancavelica padeció mucho. Huanta y Angaraes quedaron asoladas."
+    },
+    {
+      "fecha": "20 de octubre de 1687",
+      "magnitud": "8.0 M w y 8.6-8.7 M w",
+      "nombre": "Terremotos del centro- sur del Perú de 1687",
+      "epicentro": "Océano Pacífico, al oeste de Lima y el Callao.",
+      "zonas_afectadas": "Costa centro y sur del Perú.",
+      "victimas_y_danos": "Dos importantes eventos espaciados por pocas horas. Murieron aproximadamente 1541 personas. El tsunami posterior arrasó la costa centro-sur y fue percibido en Japón y Concepción, Chile."
+    },
+    {
+      "fecha": "20 de noviembre de 1690",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Oceano pacífico, al oeste de Lima",
+      "zonas_afectadas": "Actual Departamento de Lima",
+      "victimas_y_danos": "Causó graves daños en Lima, agravando las ruinas dejadas por el terremoto de 1687. Varias torres y paredes de iglesias y conventos colapsaron o quedaron en riesgo de derrumbe, además de numerosas viviendas y edificios públicos."
+    },
+    {
+      "fecha": "14 de julio de 1699",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Actual Departamento de Lima",
+      "victimas_y_danos": "Derribó algunas casas."
+    },
+    {
+      "fecha": "30 de diciembre de 1702",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Cerca de la ciudad del Cusco",
+      "zonas_afectadas": "Ciudad del Cusco y valle de Pisac",
+      "victimas_y_danos": "Tembló la tierra con gran fuerza. Se lastimaron edificios como el primer claustro de la Merced; se quebró una cruz de piedra en Santa Clara y se movieron las cruces de la portada del Triunfo. En el valle de Pisac cayeron muchos pedazos de cerros, pero no peligró ninguna persona."
+    },
+    {
+      "fecha": "17 de septiembre de 1707",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Capi, Paruro, actual departamento de Cusco",
+      "zonas_afectadas": "Actual Dpto. de Cusco.",
+      "victimas_y_danos": "Destructivo en la provincia de Paruro, especialmente en Capi, donde cayeron unas 90 viviendas y la iglesia quedó gravemente dañada. En Capi y pueblos vecinos murieron hasta 400 personas. Hubo grandes deslizamientos y caída de cerros que represaron el río Apurímac, cuyo posterior desborde arrasó viviendas y huertos. El sismo fue seguido por numerosas réplicas en las siguienters semanas. Origen probable en el sistema de fallas Zurite-Calca-Paruro."
+    },
+    {
+      "fecha": "s.f. / 1708",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Localidad de Huamanga",
+      "zonas_afectadas": "Centro histórico de Huamanga",
+      "victimas_y_danos": "Terremoto que afectó a Huamanga, destruyendo la casa del Cabildo al provocar el derrumbe de su pared frontal hacia la Iglesia de San Agustín, el desplome parcial de los portales que daban a la Plaza Mayor y el deterioro total de su arco estructural."
+    },
+    {
+      "fecha": "22 de agosto de 1715",
+      "magnitud": "7.0 M w",
+      "nombre": "",
+      "epicentro": "Cerca de Arequipa",
+      "zonas_afectadas": "Sur del Perú.",
+      "victimas_y_danos": "En Arequipa causó graves daños y dejó numerosas viviendas inhabitables. El movimiento afectó Arica, Tacna, Moquegua y otros pueblos, donde se produjeron derrumbes que sepultaron pequeñas localidades en colinas y valles. Los movimientos sísmicos continuaron durante aproximadamente dos meses y numerosas personas debieron permanecer al aire libre."
+    },
+    {
+      "fecha": "6 de febrero de 1716",
+      "magnitud": "8.8 Muk",
+      "nombre": "",
+      "epicentro": "Torata, actual departamento de Moquegua",
+      "zonas_afectadas": "Actuales dptos. de Arequipa y Moquegua.",
+      "victimas_y_danos": "Destrucción de Torata."
+    },
+    {
+      "fecha": "10 de febrero de 1716",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Pisco, departamento de Ica",
+      "zonas_afectadas": "Centro del Perú",
+      "victimas_y_danos": "Derribó prácticamente todas las casas de la villa de Pisco. Se produjeron nuevas y continuas sacudidas durante la noche, algunas acompañadas de grietas que expulsaban polvo y agua, y al día siguiente ocurrió un movimiento aún más violento. Fue sentido en Lima con gran intensidad."
+    },
+    {
+      "fecha": "17 de junio de 1719",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Andes del sur",
+      "zonas_afectadas": "Huamanga (Ayacucho) y alrededores.",
+      "victimas_y_danos": "Causó graves daños en Huamanga y dejó numerosos edificios amenazando ruina. Los temblores continuaron durante varias semanas."
+    },
+    {
+      "fecha": "6 de enero de 1725",
+      "magnitud": "7.5 M w",
+      "nombre": "Terremoto de Trujillo de 1725",
+      "epicentro": "Cerca de Trujilllo.",
+      "zonas_afectadas": "Norte y centro del Perú.",
+      "victimas_y_danos": "Alrededor de 4,000 muertos. En la Cordillera Blanca originó la rotura de una laguna glaciar en el Nevado Huandoy que arrasó al pueblo de Ancash muriendo en aquel lugar 1,500 personas. Destrucción en Barranca y Huaraz."
+    },
+    {
+      "fecha": "8 de enero de 1725",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Sur del Perú",
+      "zonas_afectadas": "Arequipa y alrededores",
+      "victimas_y_danos": "Causó daños en templos y viviendas en Arequipa. Fue acompañado de un fuerte estruendo y movimientos tan violentos que las personas no podían mantenerse en pie."
+    },
+    {
+      "fecha": "27 de marzo de 1725",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Cerca de Camaná, actual departamento de Arequipa.",
+      "zonas_afectadas": "Costa sur del Perú.",
+      "victimas_y_danos": "Camaná sufre daños de consideración. Generó un tsunami en Camaná."
+    },
+    {
+      "fecha": "24 de marzo de 1739",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Andes del sur",
+      "zonas_afectadas": "Aymaraes (Apurímac), Cusco",
+      "victimas_y_danos": "Santa Catalina de Toro quedó prácticamente arruinado: Colapsaron el templo y la mayor parte de las viviendas, causando numerosas víctimas."
+    },
+    {
+      "fecha": "19 de noviembre de 1744",
+      "magnitud": "5.8 M b",
+      "nombre": "",
+      "epicentro": "Cerca de Cusco",
+      "zonas_afectadas": "Actual departamento de Cusco.",
+      "victimas_y_danos": "Causó daños."
+    },
+    {
+      "fecha": "9 de febrero de 1746",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Andes del sur",
+      "zonas_afectadas": "Cusco, Quispicanchi, Urcos, Guaroc, Quiquijana, Accomayo y alrededores",
+      "victimas_y_danos": "Serie sísmica en la región del Cusco, con numerosos temblores que causaron daños en Urcos, Guaroc, Quiquijana y otros pueblos de Quisquipanchi. Muchas casas y templos colapsaron. En Urcos y Guaroc se contabilizaron hasta 124 temblores en pocos días y alrededor de 280 hasta marzo."
+    },
+    {
+      "fecha": "28 de octubre de 1746",
+      "magnitud": "8.6-8.8 M w",
+      "nombre": "Terremoto de Lima de 1746",
+      "epicentro": "Costa y sierra central del Perú",
+      "zonas_afectadas": "Lima y Callao; costa central desde Pisco hasta Pativilca; valles y pueblos de la sierra de Lima, Yauyos, Huaylas, Huánuco y zonas de Lucanas;",
+      "victimas_y_danos": "Terremoto catastrófico y de gran extensión, con destrucción generalizada en Lima y devastación total del Callao por el posterior tsunami. Se reportaron daños severos desde la costa central hasta amplias zonas de la sierra, con derrumbes, grietas y alteraciones de fuentes y ríos. En Lima prácticamente todos los edificios resultaron dañados y en total miles de personas murieron; el desastre se prolongó durante meses por la enorme cantidad de réplicas y las condiciones sanitarias posteriores. El tsunami afectó también distintos puertos del litoral peruano."
+    },
+    {
+      "fecha": "4 de febrero de 1747",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Andes del sur",
+      "zonas_afectadas": "Sandia, Carabaya, Ayapata, Ollachea, Ccoasa, Inambari y alrededores",
+      "victimas_y_danos": "Serie sísmica muy destructiva en la región de Sandía y Carabaya. Provocaron derrumbres de cerros, sepultando viviendas y causando numerosas víctimas. Cayeron iglesias y casas en diferentes pueblos, mientras los deslizamientos bloquearon caminos y aislaron a pobladores.. Los temblores continuaron durante semanas, siendo especialmente destructivo el del 19 de marzo."
+    },
+    {
+      "fecha": "14 de marzo de 1747",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Tauca, hoy en la provincia de Pallasca, Áncash.",
+      "victimas_y_danos": "Causó más de 80 muertos."
+    },
+    {
+      "fecha": "2 de septiembre de 1759",
+      "magnitud": "7.5 M s",
+      "nombre": "",
+      "epicentro": "Cerca de Trujilllo.",
+      "zonas_afectadas": "Norte del Perú.",
+      "victimas_y_danos": "Terremoto destructor en Trujillo, donde casi todas las viviendas quedaron gravemente dañadas. También afectó severamente a los pueblos y haciendas de los valles de la jurisdicción y produjo derrumbes en la provincia de Huamachuco. Fue seguido por numerosas réplicas. Murieron 5 personas en Trujillo."
+    },
+    {
+      "fecha": "26 de enero de 1777",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Costa central del Perú.",
+      "victimas_y_danos": "Serie de fuertes sismos sentidos en Lima durante unos 15 días, con varios movimientos diarios. Causaron daños en viviendas rurales y tapias al este de Lima y en Cañete, mientras que la caída de rocas inhabilitó caminos de Huarochiri y Yauyos."
+    },
+    {
+      "fecha": "13 de mayo de 1784",
+      "magnitud": "8.4 M w",
+      "nombre": "",
+      "epicentro": "Arequipa y sus alrededores.",
+      "zonas_afectadas": "Actual departamento de Arequipa.",
+      "victimas_y_danos": "Terremoto devastador en Arequipa, de unos 4 a 5 minutos de duración, que destruyó casi toda la ciudad: Solo unas 8-10 casas quedaron en pie sin daños importantes. Colapsaron o quedaron gravemente dañadas numerosas iglesias, conventos, edificios públicos y viviendas; se registraron 54 muertos y más de 500 heridos. También se produjeron derrumbes en los cerros y daños en las acequias, mientras las réplicas mantuvieron a la población refugiada en plazas y campamentos."
+    },
+    {
+      "fecha": "14 de octubre de 1791",
+      "magnitud": "6.0 M b",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Villa de Pasco",
+      "victimas_y_danos": "Algunas viviendas colapsadas y 30 heridos."
+    },
+    {
+      "fecha": "1 de diciembre de 1806",
+      "magnitud": "7.5 M w",
+      "nombre": "",
+      "epicentro": "Océano Pacífico, frente al Callao.",
+      "zonas_afectadas": "Costa central del Perú.",
+      "victimas_y_danos": "Fuerte terremoto que causó daños en numerosas viviendas y algunas iglesias de Lima, haciendo oscilar prolongadamente las torres de los templos. En el Callao, el mar salió de sus límites y destruyó las defensas costeras, dañó gravemente la Casa del Capitán del Puerto y ocasionó importantes daños en el muelle de descarga y algunas embarcaciones. El oleaje arrastró mercancías y otros objetos de la playa, provocando pérdidas materiales. También se reportaron estragos en diversos puntos y haciendas de la costa central."
+    },
+    {
+      "fecha": "30 de marzo de 1813",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Cerca de Ica.",
+      "zonas_afectadas": "Ica y localidades y haciendas de su entorno; efectos en el valle del río Ica y daños reportados hasta la zona de Desaguadero de Chanchajailla–Garganto.",
+      "victimas_y_danos": "Terremoto que causó graves daños y destrucción de viviendas e iglesias en Ica. Quedaron completamente arruinadas las iglesias de Luren, San Agustín y Santa Ana, además de resultar dañada la de San Francisco. Murieron al menos 33 personas. Se abrieron grandes grietas en el cauce del río entre Desaguadero de Chanchajailla y Garganto, de las que brotaron abundantes aguas turbias y malolientes. También se produjeron importantes daños en las haciendas de la zona."
+    },
+    {
+      "fecha": "1 de febrero de 1814",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Piura (aprox.)",
+      "zonas_afectadas": "Piura y alrededores.",
+      "victimas_y_danos": "Fuerte terremoto que causó daños generalizados en la ciudad de Piura, afectando sus edificaciones."
+    },
+    {
+      "fecha": "Agosto de 1815",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Región de la sierra de La Libertad",
+      "zonas_afectadas": "Santiago de Chuco y Angasmarca.",
+      "victimas_y_danos": "Movimiento sísmico de gran intensidad en el departamento de La Libertad. Ocasionó daños estructurales mayores en Santiago de Chuco y la destrucción de la casa y la capilla de Angasmarca. El reporte histórico detalla una secuencia de nueve réplicas consecutivas seguida de un enjambre de temblores leves cotidianos percibidos de forma continua en Trujillo."
+    },
+    {
+      "fecha": "10 de julio de 1821",
+      "magnitud": "7.8 M w",
+      "nombre": "",
+      "epicentro": "Caravelí (aprox.)",
+      "zonas_afectadas": "Arequipa, Caravelí, Chuquibamba, Camaná, Ocoña, valle de Majes y otras localidades del sur del Perú",
+      "victimas_y_danos": "Terremoto que causó graves daños en Arequipa y otras localidades del sur del Perú, con destrucción de numerosos edificios y víctimas mortales. Los efectos fueron especialmente graves en Caravelí, Chuquibamba, Camaná, Ocoña y el valle de Majes, donde se registraron más de 160 fallecidos. El movimiento también fue sentido en Lima."
+    },
+    {
+      "fecha": "30 de marzo de 1828",
+      "magnitud": "7.5M w",
+      "nombre": "Terremoto de Lima de 1828",
+      "epicentro": "Lima, Callao, Chorrillos, Chancay, Cañete, Huarochirí y localidades de la sierra central",
+      "zonas_afectadas": "Costa central del Perú.",
+      "victimas_y_danos": "Fuerte terremoto que causó graves daños en Lima y localidades cercanas, con numerosos edificios, iglesias y viviendas dañados o destruidos. Chorrillos, Chancay y varios pueblos y haciendas de la costa sufrieron importantes daños. En San Mateo, 18 casas quedaron en escombros y se produjeron grandes desprendimientos de rocas que bloquearon los caminos; en Huarochirí, el pueblo de San Jerónimo quedó parcialmente destruido y hubo numerosas víctimas. Se registraron alrededor de 30–40 fallecidos en Lima, además de heridos. El terremoto fue sentido hasta Trujillo, Huánuco, Yauli, Tarma y Arequipa."
+    },
+    {
+      "fecha": "8 de octubre de 1831",
+      "magnitud": "7.0 M b",
+      "nombre": "Terremoto del Sur del Perú de 1831",
+      "epicentro": "Tacna y Arica",
+      "zonas_afectadas": "Arequipa y pueblos de su interior, Tacna y Arica.",
+      "victimas_y_danos": "Terremoto de larga duración, seguido por otro temblor de unos 30 segundos. Sus efectos se extendieron por los pueblos del interior de Arequipa y hasta Tacna y Arica, donde se registraron numerosas víctimas y alrededor de 30 heridos. Días después se informó que Tacna y Arica habían sufrido una elevada cantidad de fallecidos y más de 20 heridos."
+    },
+    {
+      "fecha": "18 de septiembre de 1833",
+      "magnitud": "7.7 M w",
+      "nombre": "Terremoto de Arica de 1833",
+      "epicentro": "Tacna–Arica (aprox.)",
+      "zonas_afectadas": "Tacna, Arica, Moquegua, Sama, Torata, Locumba e Ilabaya; daños también en otras localidades del departamento de Arequipa.",
+      "victimas_y_danos": "Terremoto que redujo a escombros gran parte de Tacna y causó graves daños en Arica y Moquegua. En Tacna quedó destruida la iglesia y murieron 18 personas, con 25 heridos y contusos. En Moquegua se arruinaron numerosas casas, templos y el colegio, además de derramarse depósitos de vinos y aguardientes. También hubo daños en Torata, Locumba e Ilabaya y derrumbes de cerros que inutilizaron las acequias de regadío de Sama."
+    },
+    {
+      "fecha": "10 de junio de 1839",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Ica (aprox.)",
+      "zonas_afectadas": "Ica y haciendas de su entorno; efectos en el valle de Ica.",
+      "victimas_y_danos": "Fuerte terremoto que causó graves daños en Ica, donde numerosas viviendas y edificaciones quedaron arruinadas o inhabitables. Algunas paredes y estructuras colapsaron, resultaron dañadas varias iglesias y edificios públicos, y numerosas familias tuvieron que abandonar sus viviendas. Se registraron alrededor de 49 temblores el mismo día y más de un centenar de réplicas posteriormente. Las haciendas sufrieron importantes pérdidas y se observó un aumento del caudal de un río que se encontraba seco. No se registraron víctimas mortales."
+    },
+    {
+      "fecha": "4 de julio de 1839",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Actual distrito de Chanchamayo, departamento de Junín.",
+      "zonas_afectadas": "Chanchamayo, selva central del Perú.",
+      "victimas_y_danos": "Fuerte terremoto en Chanchamayo, con sacudidas violentas y efectos sobre el terreno y el cauce del río Aynamayo, que habría experimentado un desplazamiento de su curso."
+    },
+    {
+      "fecha": "1847",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Área de Huancarama, provincia de Andahuaylas, Apurímac",
+      "zonas_afectadas": "Huancarama y localidades del entorno de Andahuaylas",
+      "victimas_y_danos": "Serie de sismos de fuerte intensidad en Huancarama y alrededores, con oscilaciones violentas y repetidas que ocasionaron daños importantes en viviendas y edificaciones, incluido el deterioro parcial del templo."
+    },
+    {
+      "fecha": "20 de agosto de 1857",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Piura o su entorno inmediato",
+      "zonas_afectadas": "Piura y Paita, con efectos más severos en Piura.",
+      "victimas_y_danos": "Temblor de larga duración en Piura, con fuerte agitación del terreno, formación de grietas y emanación de aguas negras desde las fracturas del suelo; en Paita se registraron daños de menor intensidad."
+    },
+    {
+      "fecha": "21 de abril de 1860",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Lima y su franja costera central",
+      "zonas_afectadas": "Lima, Miraflores, Chorrillos y Callao",
+      "victimas_y_danos": "Fuerte secuencia sísmica en Lima, con un evento principal de aproximadamente un minuto de duración que ocasionó daños considerables en numerosas edificaciones, desprendimientos en la barranca de Miraflores, víctimas mortales y heridos; la actividad sísmica persistió durante varios días, generando alarma prolongada, abandono del Callao y pernoctación de familias en espacios abiertos."
+    },
+    {
+      "fecha": "13 de abril de 1861",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Departamento de Apurímac y parte del de Ayacucho",
+      "victimas_y_danos": "Afectados los pueblos de Andahuaylas, San Jerónimo y Talavera."
+    },
+    {
+      "fecha": "13 de agosto de 1868",
+      "magnitud": "8.8-9.1 M w",
+      "nombre": "Terremoto del Sur del Perú de 1868",
+      "epicentro": "Océano Pacífico, frente a Tacna y Arica.",
+      "zonas_afectadas": "Ica, Chincha, Nazca, Arequipa, Moquegua, Ilo, Arica, Tacna, provincia de Ayacucho, Iquique y Pisagua; efectos sísmicos hasta el centro-sur de Perú y Chile, y tsunami observado a escala del Pacífico.",
+      "victimas_y_danos": "El mayor sismo registrado en Perú. Se percibió desde Samanco en Perú, hasta Valdivia en Chile. Al menos 700 muertos (500 de ellos en todo el litoral afectado). Destrucción en Moquegua, Arequipa, Tacna, Iquique, Ayacucho e incluso en Ica; los puertos de Arica, Mollendo, Islay y Camaná arrasados por el posterior tsunami. El tsunami fue registrado en diversos puntos del océano Pacífico, alcanzando California, Hawái, Japón, Filipinas, Australia, Tasmania y Nueva Zelanda, causando graves repercusiones en este último."
+    },
+    {
+      "fecha": "3 de noviembre de 1969",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Arequipa o su entorno inmediato.",
+      "zonas_afectadas": "Arequipa.",
+      "victimas_y_danos": "Sismo en Arequipa, precedido por temblores menores, que produjo daños y averías en diversas edificaciones de la ciudad."
+    },
+    {
+      "fecha": "3 de diciembre de 1869",
+      "magnitud": "6.0 M b",
+      "nombre": "",
+      "epicentro": "Abancay, departamento de Apurímac",
+      "zonas_afectadas": "Dpto. de Apurímac.",
+      "victimas_y_danos": "Daños en edificaciones."
+    },
+    {
+      "fecha": "24 de agosto de 1869",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Frente a las costas de Arica (aprox).",
+      "zonas_afectadas": "Arequipa, Iquique y sectores de la costa entre Arica y Cobija.",
+      "victimas_y_danos": "Fuerte terremoto que fue sentido en Arequipa, Iquique y a bordo del vapor Paita, frente a las costas de Arica. El movimiento fue violento y prolongado, con una duración de hasta 50 segundos, seguido de numerosos temblores menores. En el mar se observaron fuertes alteraciones, con descenso y ascenso repetido del nivel del agua, borbotones de hasta 2 pies y un fuerte ruido. El sismo causó daños en el Paita, pánico entre los pasajeros y una densa nube de polvo sobre la costa."
+    },
+    {
+      "fecha": "22 de febrero de 1871",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Probablemente en la zona de Puno y sus alrededores.",
+      "zonas_afectadas": "Puno, San Antonio y caseríos de las haciendas cercanas.",
+      "victimas_y_danos": "Se registraron dos movimientos sísmicos consecutivos en Puno, separados por algunas horas. El primero fue de corta duración, mientras que el segundo, aunque menos intenso, provocó daños en el pueblo de San Antonio y en varios caseríos de las haciendas cercanas. Posteriormente, se produjeron varios sacudimientos ligeros en la zona."
+    },
+    {
+      "fecha": "5 de abril de 1875",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Trujillo y su entorno inmediato.",
+      "zonas_afectadas": "Trujillo.",
+      "victimas_y_danos": "Se registró una importante secuencia sísmica en Trujillo, con varios temblores durante distintos días. El movimiento principal fue fuerte, duró cerca de 45 segundos a 1 minuto y estuvo acompañado por un ruido sordo semejante a un trueno y un movimiento predominantemente vertical. El sismo ocasionó averías en gran parte de los edificios de Trujillo, incluyendo la casa prefectural y los cuarteles, aunque no se registraron víctimas. También fue percibido en Lima y Callao, donde se experimentó una oscilación prolongada seguida de dos fuertes remezones. La actividad sísmica continuó con nuevos temblores posteriores."
+    },
+    {
+      "fecha": "5 de diciembre de 1875",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Abancay y sus alrededores.",
+      "zonas_afectadas": "Principalmente Abancay.",
+      "victimas_y_danos": "Se registraron inicialmente dos temblores leves que alarmaron a la población de Abancay debido a su corta separación. Posteriormente ocurrió un movimiento fuerte e impetuoso de unos 5 segundos de duración, que causó averías en algunos edificios. Durante las horas siguientes se produjeron 27 temblores, y la actividad sísmica continuó durante varios días, aunque tuvo un alcance muy local y apenas fue percibida en las zonas cercanas."
+    },
+    {
+      "fecha": "9 de mayo de 1877",
+      "magnitud": "8.8-8.9 M w",
+      "nombre": "Terremoto de Iquique de 1877",
+      "epicentro": "Océano Pacífico, frente a la provincia de Tarapacá",
+      "zonas_afectadas": "Sur del Perú, actual norte de Chile y antiguo suroeste boliviano (Litoral de Bolivia, perdido en la guerra del Pacífico).",
+      "victimas_y_danos": "Acompañado de un tsunami que afectó desde Pisco en Perú hasta Antofagasta (en esa época territorio de Bolivia) en Chile. 34 muertos. Poblaciones afectadas en Perú: Mollendo, Ilo, Arica e Iquique."
+    },
+    {
+      "fecha": "23 de enero de 1878",
+      "magnitud": "7.9 M s",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Sur del Perú y actual norte de Chile.",
+      "victimas_y_danos": "Acompañado de un tsunami. Poblaciones afectadas en Tarapacá. Se sintió en Arequipa y Tacna."
+    },
+    {
+      "fecha": "1 de octubre de 1883",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Arequipa y sus alrededores",
+      "zonas_afectadas": "Arequipa y pueblos próximos",
+      "victimas_y_danos": "Fuerte sismo en Arequipa que provocó numerosas averías en los edificios de la ciudad y en las localidades cercanas. El movimiento tuvo una dirección de sur a norte."
+    },
+    {
+      "fecha": "20 de septiembre de 1897",
+      "magnitud": "6.0 Mb",
+      "nombre": "",
+      "epicentro": "Matucana",
+      "zonas_afectadas": "Matucana, Lima y Callao.",
+      "victimas_y_danos": "Afectó una amplia zona de la costa central del Perú. En Matucana se produjo con gran intensidad, causando daños en el pueblo y derrumbes en los cerros próximos. En Lima y el Callao se sintieron dos remezones muy fuertes y una oscilación de aproximadamente 10 segundos con dirección de norte a sur. El sismo ocasionó numerosas averías en los edificios, especialmente en el Callao, y fue percibido desde las proximidades de Ancón hasta Pisco."
+    },
+    {
+      "fecha": "2 de enero de 1902",
+      "magnitud": "6.5 M b",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Costa norte y central del Perú.",
+      "victimas_y_danos": "Fuerte y prolongado en Casma y Chimbote. Se sintió desde Paita hasta Lima."
+    },
+    {
+      "fecha": "4 de marzo de 1904",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Matucana, departamento de Lima, Perú",
+      "zonas_afectadas": "Costa central del Perú.",
+      "victimas_y_danos": "Intenso sismo que dañó la gran mayoría de las fincas urbanas de Lima. Provocó la caída de cornisas, paredes y chimeneas, agrietó iglesias y causó el colapso de postes y cables que cortaron los servicios de telefonía, luz y telégrafo. Deslizamientos de rocas obstruyeron la vía del tren Chosica-Lima y en el Hospital San Bartolomé cayó una pared desatando el pánico de los enfermos. Tras el evento, la Alcaldía designó comisiones de ingenieros y arquitectos para inspeccionar daños graves en diferentes edificios públicos."
+    },
+    {
+      "fecha": "23 de enero de 1905",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "42 km al oeste del Cusco",
+      "zonas_afectadas": "Andahuaylillas, Anta y Urcos",
+      "victimas_y_danos": "Fuerte movimiento telúrico matutino que provocó el colapso de algunas viviendas y el agrietamiento de otras en Andahuaylillas."
+    },
+    {
+      "fecha": "4 de mayo de 1906",
+      "magnitud": "6.2 M w",
+      "nombre": "",
+      "epicentro": "Cerca de Tacna",
+      "zonas_afectadas": "Sur del Perú y norte de Chile.",
+      "victimas_y_danos": "Intenso temblor que en Tacna ocasiona derrumbes de casas y cuarteamientos de paredes. Afectó también a Arica y Mollendo."
+    },
+    {
+      "fecha": "28 de setiembre de 1906",
+      "magnitud": "7.5 M w",
+      "nombre": "",
+      "epicentro": "Selva norte del Perú",
+      "zonas_afectadas": "Chachapoyas, Moyobamba, Trujillo, Tarma, Tumbes, Piura, Sullana, Ayabaca, Huancabamba, Morropón, Santa y estribaciones orientales",
+      "victimas_y_danos": "Extensa conmoción sísmica que abarcó gran parte de la costa, sierra y selva alta. En Chachapoyas provocó daños considerables al cuartear paredes, desquiciar techos y derrumbar las antiguas murallas coloniales de la ciudad. El movimiento telúrico se percibió con gran fuerza en todo el extremo norte del litoral y la sierra de Piura."
+    },
+    {
+      "fecha": "26 de diciembre de 1906",
+      "magnitud": "7.9 M s",
+      "nombre": "",
+      "epicentro": "Cerca de Tacna",
+      "zonas_afectadas": "Sur del Perú y norte de Chile.",
+      "victimas_y_danos": "Se desconocen los daños que el sismo pudo haber causado"
+    },
+    {
+      "fecha": "16 de junio de 1908",
+      "magnitud": "7.0 M s",
+      "nombre": "",
+      "epicentro": "Cerca de Tacna",
+      "zonas_afectadas": "Sur del Perú y norte de Chile.",
+      "victimas_y_danos": "Desplome de casas en Tacna y Arica."
+    },
+    {
+      "fecha": "s.f. / 1909",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Región andina al noreste de Lima",
+      "zonas_afectadas": "Costa central",
+      "victimas_y_danos": "Fuerte sismo que causó estragos en la provincia de Chancay, colapsando todos los muros y tapiales entre las haciendas de Vilcahuaura y Andahuasi, y destruyendo su tambo. En Sayán y Andahuasi la mayoría de casas se cuartearon y los caminos a la sierra colapsaron. En Lima, dañó cornisas, lápidas y nichos del Cementerio Presbítero Maestro. en Yauli el pánico provocó la muerte indirecta de un menor de edad. Se registraron decenas de réplicas continuas hasta finales de abril."
+    },
+    {
+      "fecha": "24 de julio de 1912",
+      "magnitud": "8.2 M w",
+      "nombre": "",
+      "epicentro": "Huancabamba, departamento de Piura.",
+      "zonas_afectadas": "Provincias de Piura, Huancabamba, Jaén; puerto de Paita, Trujillo, Salaverry y poblaciones limítrofes del Ecuador (Guayas)",
+      "victimas_y_danos": "Catastrófico terremoto que destruyó la ciudad de Piura y poblaciones vecinas, provocando muertos, heridos y pérdidas materiales estimadas en un millón y medio de soles. El sismo agrietó el suelo en el puerto de Paita y en el cauce seco del río Piura, donde brotó agua subterránea."
+    },
+    {
+      "fecha": "6 de agosto de 1913",
+      "magnitud": "7.7 M w",
+      "nombre": "",
+      "epicentro": "Costa litoral de Arequipa",
+      "zonas_afectadas": "Caravelí, Valle de Majes, Chuquibamba, Cailloma, Ciudad de Arequipa, Ocoña, Atico",
+      "victimas_y_danos": "Violento terremoto que destruyó la localidad de Caravelí, provocando el desplome de edificios, derrumbes en las laderas del valle y varios muertos. En Chuquibamba se desplomó la Iglesia Mayor y en Cailloma se agrietó la iglesia matriz; además se reportaron daños materiales en el Valle de Majes, Ocoña, Atico y la ciudad de Arequipa. El sismo tuvo un enorme radio de percepción."
+    },
+    {
+      "fecha": "4 de noviembre de 1913",
+      "magnitud": "6.3 M s",
+      "nombre": "",
+      "epicentro": "Provincia de Aymaraes (Apurímac)",
+      "zonas_afectadas": "Caseríos de Casaya, Soraya, Tarray, Puente, Huaquipa, Sañaica; aldeas de Colcabamba y Amoray; ciudades de Chalhuanca, Abancay.",
+      "victimas_y_danos": "Un violento terremoto provocó la destrucción total de numerosos caseríos (como Casaya, Soraya y Sañaica) y causó graves daños materiales en diversas aldeas de la provincia de Aymaraes, dejando un lamentable saldo de aproximadamente 150 víctimas mortales. El sismo provocó daños estructurales en las construcciones de Abancay."
+    },
+    {
+      "fecha": "11 de septiembre de 1914",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Caravelí, departamento de Arequipa",
+      "zonas_afectadas": "Ciudad de Caravelí y cerros aledaños, Nazca (Ica), Ica y Atico",
+      "victimas_y_danos": "Un violento sismo volvió a dejar en escombros la ciudad de Caravelí, la cual apenas había sido reedificada tras el terremoto del año anterior, provocando además grandes derrumbes en los cerros circundantes. En Nazca, el sismo ocasionó víctimas mortales y el desplome de su iglesia principal recién construida, mientras que en Ica y Atico se percibió con gran fuerza."
+    },
+    {
+      "fecha": "2 de diciembre de 1914",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Provincia de Parinacochas (Ayacucho)",
+      "zonas_afectadas": "Pueblos de Pararca, Pauza, Colta, Oyolo, Corculla, Marcabamba, Coracora y Caravelí",
+      "victimas_y_danos": "Fuerte movimiento telúrico que causó 34 muertos y graves daños materiales en varias localidades ubicadas en las faldas del volcán Sara-Sara y la divisoria de la Cordillera Occidental."
+    },
+    {
+      "fecha": "28 de diciembre de 1915",
+      "magnitud": "7.3 M s",
+      "nombre": "",
+      "epicentro": "Caravelí, departamento de Arequipa.",
+      "zonas_afectadas": "Dpto. de Arequipa.",
+      "victimas_y_danos": "Muy fuerte temblor. En Caravelí cuarteó viviendas, agrietó parte de las torres de la iglesia y causó deslizamientos en los cerros. En Acarí causó desplomes de casas y otros deterioros. Causó alarma en Ica y fue sentido entre Cañete y Atico."
+    },
+    {
+      "fecha": "8 de febrero de 1916",
+      "magnitud": "6.9 Ms",
+      "nombre": "",
+      "epicentro": "Lircay, límite de los dptos. de Huancavelica y Ayacucho.",
+      "zonas_afectadas": "Departamentos de Ayacucho, Huancavelica, Ica y Lima.",
+      "victimas_y_danos": "Afectó un área de 120,000 km². En Julcamarca (Ayacucho) la iglesia quedó semiarruinada. En Ocros cayeron viviendas y hubo deslizamientos de cerros. En Huancaraya se desplomaron dos torres de la iglesia. Daños leves/caída de revoque en Ica. Sentido fuerte en Yauyos y costa entre Chancay y San Juan; leve en Tarma."
+    },
+    {
+      "fecha": "20 de mayo de 1917",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Cerca de Trujillo, departamento de La Libertad",
+      "zonas_afectadas": "Costa norte del Perú.",
+      "victimas_y_danos": "Fuerte temblor en Trujillo que agrietó paredes en edificios públicos, Palacio Arzobispal, local de la Beneficencia, hospitales, iglesias, monasterios y en muchas viviendas. El sismo fue fuerte en Saña a 150 km N. de Trujillo, en Chimbote y en Casma."
+    },
+    {
+      "fecha": "21 de mayo de 1917",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Caylloma Provincia de Caylloma, departamento de Arequipa",
+      "zonas_afectadas": "Pueblo de Caylloma.",
+      "victimas_y_danos": "Violento sismo. 22 muertos y muchos heridos. El pueblo de Caylloma queda en ruinas."
+    },
+    {
+      "fecha": "7 de octubre de 1920",
+      "magnitud": "6.5 M w",
+      "nombre": "",
+      "epicentro": "Zonas limítrofes de Ayacucho y Arequipa.",
+      "zonas_afectadas": "Departamentos de Ayacucho y Arequipa",
+      "victimas_y_danos": "Santa Lucía (Lucanas) quedó totalmente destruida. Numerosos daños materiales y algunas pérdidas de vidas en Acarí y Jaqui. En Chala cayeron la pared y columnas de la iglesia, y cercas de haciendas. Daños en la estación ferroviaria de Cachendo. Gran alarma en Caravelí y Huanta. Sentido intenso en Arequipa, Mollendo, Ica y Chincha."
+    },
+    {
+      "fecha": "18 de diciembre de 1921",
+      "magnitud": "7.3 M w",
+      "nombre": "",
+      "epicentro": "Mariscal Ramon Castilla, Departamento de Loreto",
+      "zonas_afectadas": "Dpto. de Loreto",
+      "victimas_y_danos": "Sismo de gran profundidad."
+    },
+    {
+      "fecha": "17 de enero de 1922",
+      "magnitud": "7.9 M w",
+      "nombre": "",
+      "epicentro": "Putumayo, Departamento de Loreto",
+      "zonas_afectadas": "Dpto. de Loreto",
+      "victimas_y_danos": "Sismo de gran profundidad."
+    },
+    {
+      "fecha": "11 de octubre de 1922",
+      "magnitud": "7.2 M w",
+      "nombre": "",
+      "epicentro": "Caravelí, departamento de Arequipa.",
+      "zonas_afectadas": "Dpto. de Arequipa.",
+      "victimas_y_danos": "Sismo destructor. En el pueblo de Caravelí cayeron muchas viviendas. Causó daños de consideración en la ciudad de Arequipa y en el puerto de Mollendo. Efectos materiales notorios en Acarí y Quicacha. Sentido fuerte en Ica, Nazca, Puquio, Palpa, Chala y Cañete."
+    },
+    {
+      "fecha": "11 de marzo de 1926",
+      "magnitud": "6.4 M b",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Costa y sierra central del Perú.",
+      "victimas_y_danos": "Sentido con intensidad. Cayeron algunas cornisas en Lima y sufrieron daños los mausoleos en el cementerio del Callao. Se produjeron derrumbes en la ruta del Ferrocarril Central. Sentido con violencia en Chosica y Cañete; de forma leve en Chiclayo e Ica."
+    },
+    {
+      "fecha": "9 de abril de 1928",
+      "magnitud": "6.7 M w",
+      "nombre": "",
+      "epicentro": "Ayapata, Provincia de Carabaya, departamento de Puno",
+      "zonas_afectadas": "Dpto. de Puno.",
+      "victimas_y_danos": "Causó 2 muertos, 8 desaparecidos y destrucción seria en Ayapata (iglesia colonial semiarruinada y casas inhabilitables), Ituata y Macusani. Desprendimiento de hielo en el nevado Allincapac, ruidos subterráneos en Ollachea y un embalse fluvial por derrumbes. Sentido intenso en Puno, Cusco y Bolivia."
+    },
+    {
+      "fecha": "27 de abril de 1928",
+      "magnitud": "6.5 M w",
+      "nombre": "",
+      "epicentro": "Ayapata, Provincia de Carabaya, departamento de Puno",
+      "zonas_afectadas": "",
+      "victimas_y_danos": "Se produjo una fuerte réplica del sismo anterior, que afectó la región montañosa de Esquilaya. En Macusani se sintió fuerte y en La Paz - Bolivia débil. El Observatorio de San Calixto registró desde el 9 de abril unas 200 réplicas provenientes de esa región."
+    },
+    {
+      "fecha": "14 de mayo de 1928",
+      "magnitud": "7.3 M w",
+      "nombre": "",
+      "epicentro": "Valle del Chinchipe",
+      "zonas_afectadas": "Departamentos de Amazonas, Cajamarca, Piura y San Martín",
+      "victimas_y_danos": "Destrucción casi total de Chachapoyas. Destruidas Cutervo, Chota, Huancabamba, Jaén, Pucará, Bagua y Lamud. En Moyobamba colapsaron 150 viviendas. Deslizamiento en Pimpingos mató a 25 personas. Licuefacción arrasó el pueblo de Vituya."
+    },
+    {
+      "fecha": "18 de julio de 1928",
+      "magnitud": "7.1 M w",
+      "nombre": "",
+      "epicentro": "Región Norte (Chachapoyas)",
+      "zonas_afectadas": "Departamentos de Amazonas, Cajamarca y La Libertad",
+      "victimas_y_danos": "Réplica muy fuerte del sismo principal. Provocó el desplome de casas ya afectadas en Chachapoyas. Sentido de forma intensa en Cajamarca, Chilete, Contumazá, Trujillo y Molinopampa. En Ecuador (Chumbi y Loma Grande) causó daños severos en caminos."
+    },
+    {
+      "fecha": "18 de junio de 1931",
+      "magnitud": "4.0 mb",
+      "nombre": "",
+      "epicentro": "Tinta, provincia de Canchis, departamento del Cusco",
+      "zonas_afectadas": "Tinta, Checacupe, Sicuani y Yanaoca.",
+      "victimas_y_danos": "Destrucción en Tinta con el colapso de la iglesia y muchas viviendas. Se registró agrietamiento del suelo y desprendimiento de piedras desde los cerros. Causó alarma en Sicuani, Checacupe y Yanaoca, pero sin registrar daños."
+    },
+    {
+      "fecha": "19 de enero de 1932",
+      "magnitud": "6.1 M w",
+      "nombre": "",
+      "epicentro": "Huacho, Dpto. de Lima",
+      "zonas_afectadas": "Costa central del Perú.",
+      "victimas_y_danos": "Causó la caída de cornisas, tapias y paredes viejas en Lima. En el Callao ocasionó diversos daños materiales y dejó la iglesia de Santa Rosa en pésimo estado. Sentido recio en Huaraz; fuerte en Huacho."
+    },
+    {
+      "fecha": "5 de agosto de 1932",
+      "magnitud": "6.3 M b",
+      "nombre": "",
+      "epicentro": "Arequipa, departamento de Arequipa",
+      "zonas_afectadas": "Dpto. de Arequipa",
+      "victimas_y_danos": "Dejó 4 heridos. Causó ruidos subterráneos, caída de cornisas, rotura de vidrios, ligeros daños en casas y nubes de polvo sobre la ciudad. Registró réplicas por 24 horas y provocó alarma en el puerto de Mollendo."
+    },
+    {
+      "fecha": "5 de agosto de 1933",
+      "magnitud": "6.5 Ms",
+      "nombre": "",
+      "epicentro": "Costa Central",
+      "zonas_afectadas": "Departamentos de Lima e Ica",
+      "victimas_y_danos": "Fuerte y prolongado. Causó alarma y ligeros deterioros en viviendas antiguas de Lima y el Callao. Provocó la rotura de vidrios en la ciudad de Ica."
+    },
+    {
+      "fecha": "4 de diciembre de 1934",
+      "magnitud": "6.6 M w",
+      "nombre": "",
+      "epicentro": "Frontera Perú - Chile",
+      "zonas_afectadas": "Departamento de Tacna (y norte de Chile)",
+      "victimas_y_danos": "Fuerte movimiento. Ocasionó ligeros deterioros en paredes de viviendas antiguas en Tacna. Se sintió fuerte en el puerto de Arica (Chile), donde además se registraron indicios de una marejada."
+    },
+    {
+      "fecha": "5 de marzo de 1935",
+      "magnitud": "4.6 M b",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Costa y sierra norte del Perú.",
+      "victimas_y_danos": "Sismo local en el pueblo de Ticapampa, Callejón de Huaylas que ocasionó un muerto, la destrucción de seis casas y la inestabilidad de otras ocho."
+    },
+    {
+      "fecha": "8 y 17 de abril de 1937",
+      "magnitud": "4.4 mb y 3.9 mb",
+      "nombre": "",
+      "epicentro": "Cajabamba y Huamachuco",
+      "zonas_afectadas": "Departamentos de Cajamarca y La Libertad",
+      "victimas_y_danos": "El sismo del 8 destruyó varias casas de adobón. La réplica del 17 derribó las viviendas que habían quedado debilitadas en Cajabamba. El evento dejó un saldo de personas heridas."
+    },
+    {
+      "fecha": "21 de junio de 1937",
+      "magnitud": "7.1 M w",
+      "nombre": "",
+      "epicentro": "Costa Norte",
+      "zonas_afectadas": "Departamentos de La Libertad, Lambayeque, Cajamarca y Ancash",
+      "victimas_y_danos": "Ocasionó caída de cornisas y rajaduras en Trujillo. Provocó derrumbes parciales en las torres de las iglesias de Lambayeque y Salaverry. Dejó ligeros daños en Cajamarca y Cutervo. Sentido fuerte en Chimbote, Casma y el Callejón de Huaylas."
+    },
+    {
+      "fecha": "24 de diciembre de 1937",
+      "magnitud": "6.5 M w",
+      "nombre": "",
+      "epicentro": "Huancabamba, departamento de Pasco.",
+      "zonas_afectadas": "Vertientes orientales de la Cordillera Central.",
+      "victimas_y_danos": "Dejó al menos 15 muertos y más de 20 heridos. Destruyó 92 casas de adobe/tapial (34 en Chontabamba, 23 en El Progreso, 18 en Huancabamba, 10 en San David y 7 en Oxapampa). Causó deslizamientos masivos en 50 km de cerros, una grieta con eyección de agua en Fundo Victoria y daños en caminos. Registró unas 600 réplicas en una semana."
+    },
+    {
+      "fecha": "5 de marzo de 1938",
+      "magnitud": "6.0 M b",
+      "nombre": "",
+      "epicentro": "Acopía, provincia de Acomayo, departamento del Cusco",
+      "zonas_afectadas": "Pueblo de Acopía.",
+      "victimas_y_danos": "El sismo del día 5 en Acopia causó derrumbes de casas, paredes cuarteadas y grietas en el terreno. El sismo del día 6 en Tinta derribó numerosas viviendas viejas. El movimiento fue percibido también en la ciudad del Cusco y zonas aledañas."
+    },
+    {
+      "fecha": "23 de junio de 1939",
+      "magnitud": "6.3 Ms",
+      "nombre": "",
+      "epicentro": "Distrito de Pomacanchi, provincia de Acomayo, departamento del Cusco",
+      "zonas_afectadas": "Provincias de Acomayo y Canas",
+      "victimas_y_danos": "Dejó 37 muertos y 40 heridos. Destrucción localizada en Pomacanchi, donde las réplicas terminaron por derrumbar las viviendas de adobe que habían resistido el primer impacto. Sentido con gran intensidad en Yanaoca, Tinta, Checacupe, Combapata y Sicuani."
+    },
+    {
+      "fecha": "11 de octubre de 1939",
+      "magnitud": "7.0 M s",
+      "nombre": "",
+      "epicentro": "Chuquibamba, provincia de Condesuyos, departamento de Arequipa",
+      "zonas_afectadas": "Pueblo de Chuquibamba.",
+      "victimas_y_danos": "En Chuquibamba colapsaron muchas casas y sufrieron graves daños la iglesia, cárcel y municipalidad. Destrucción de viviendas en Chuquibambilla y Caravelí. Causó daños estructurales en edificios de Arequipa y Moquegua. Sentido con gran intensidad en Puquio, Quicacha, Palpa, Chala y Mollendo."
+    },
+    {
+      "fecha": "24 de mayo de 1940",
+      "magnitud": "8.2 M w",
+      "nombre": "Terremoto de Lima y Callao de 1940",
+      "epicentro": "Océano Pacífico, frente a las costas de Callao y del departamento de Lima.",
+      "zonas_afectadas": "Costa central del Perú.",
+      "victimas_y_danos": "Dejó 179 muertos, 3,500 heridos y cuantiosos daños en Lima, Callao, Chorrillos y Chancay. Colapsaron templos, la Catedral y viviendas (38% de quincha y 23% de adobe dañadas). Destruyó Canchapilca y Huascoy. Provocó derrumbes en quebradas y un pequeño tsunami que inundó Ancón, Callao y Pisco."
+    },
+    {
+      "fecha": "18 de septiembre de 1941",
+      "magnitud": "6.4 M b",
+      "nombre": "",
+      "epicentro": "Cerca del Cusco, departamento del Cusco",
+      "zonas_afectadas": "Dptos. de Cusco y Apurímac.",
+      "victimas_y_danos": "Daños en edificios y viviendas en el Cusco. Se sintió en Abancay y en los pueblos situados en las estribaciones de la Cordillera Occidental."
+    },
+    {
+      "fecha": "24 de agosto de 1942",
+      "magnitud": "8.1 M w",
+      "nombre": "",
+      "epicentro": "Entre los límites de los dptos. de Ica y Arequipa",
+      "zonas_afectadas": "Dptos. de Arequipa e Ica.",
+      "victimas_y_danos": "Dejó 30 muertos, 25 heridos y causó la ruina total del 30% de Nasca. Quedaron en escombros Acarí, Jaqui y Caravelí. En Ica colapsó la cúpula del Señor de Luren; la Catedral de Arequipa sufrió inclinación de su torre. Generó derrumbes en Puquio, un levantamiento costero de 1 m en San Juan y un tsunami que inundó el puerto de Lomas."
+    },
+    {
+      "fecha": "30 de enero de 1943",
+      "magnitud": "5.0 Ms",
+      "nombre": "",
+      "epicentro": "Distrito de Yanaoca, provincia de Canchis, departamento de Cusco.",
+      "zonas_afectadas": "Pueblos de Yanaoca y Pampamarca.",
+      "victimas_y_danos": "Sismo destructor en los pueblos de Yanaoca y Pampamarca, de la provincia de Canas, Departamento del Cuzco. El fenómeno tuvo carácter local y causó 75 muertos y 200 heridos."
+    },
+    {
+      "fecha": "6 de agosto de 1945",
+      "magnitud": "s.d.",
+      "nombre": "",
+      "epicentro": "Valle del río Mayo",
+      "zonas_afectadas": "Departamentos de San Martín y Amazonas",
+      "victimas_y_danos": "En Moyobamba dañó 97 casas debido a la mala calidad del material (adobón) y daños previos del sismo de 1928. En el valle de Mayo se formaron grietas en el suelo que emanaron agua con limo durante dos días. No hubo víctimas, solo 2 heridos leves."
+    },
+    {
+      "fecha": "29 de septiembre de 1946",
+      "magnitud": "7.0 Ms",
+      "nombre": "",
+      "epicentro": "Costa central",
+      "zonas_afectadas": "Departamento de Ica",
+      "victimas_y_danos": "El 70% de las casas de adobe y quincha en Pisco sufrió rajaduras y el 20% daños graves. El Hospital San Juan de Dios presentó grietas profundas en paredes. Foco profundo a 80 km."
+    },
+    {
+      "fecha": "10 de noviembre de 1946",
+      "magnitud": "6.8 M w",
+      "nombre": "Terremoto de Ancash de 1946",
+      "epicentro": "Quiches, provincia de Sihuas, departamento de Áncash.",
+      "zonas_afectadas": "Dptos. de Áncash y La Libertad.",
+      "victimas_y_danos": "Dejó 1,396 muertos. Causó la destrucción casi total de Quiches, Sihuas, Mayas y Conchucos. Un deslizamiento sepultó el caserío de Acobamba (217 muertos). Generó grandes transformaciones topográficas, incluyendo una escarpa de falla visible de 10 km de longitud con un salto vertical de hasta 3.5 metros."
+    },
+    {
+      "fecha": "1 de noviembre de 1947",
+      "magnitud": "7.6 M w",
+      "nombre": "",
+      "epicentro": "Satipo, departamento de Junín",
+      "zonas_afectadas": "Entre la sierra central y la selva peruana.",
+      "victimas_y_danos": "Dejó un saldo estimado en más de 200 muertos en Satipo, Andamarca, Acobamba, La Merced, entre otros. Destruyó paredes de ladrillo de la iglesia de Satipo y dejó inhabitables casas de adobe en La Merced, Jauja y Cerro de Pasco. Provocó derrumbes masivos en zonas boscosas, represamientos de ríos, la inundación de Puerto Ocopa por rotura de presas naturales y destruyó tramos de la carretera."
+    },
+    {
+      "fecha": "14 de febrero de 1948",
+      "magnitud": "6.1 M w",
+      "nombre": "",
+      "epicentro": "Región de Quiches (área del río Marañón)",
+      "zonas_afectadas": "Departamento de Ancash",
+      "victimas_y_danos": "Fue la réplica más violenta tras el terremoto de 1946. Causó derrumbes en los cerros que provocaron la muerte de 7 personas, varios heridos y la interrupción de tramos en los caminos de herradura."
+    },
+    {
+      "fecha": "11 de mayo de 1948",
+      "magnitud": "6.5 M w",
+      "nombre": "",
+      "epicentro": "Toquepala, límites de los dptos. de Moquegua, Tacna y Puno.",
+      "zonas_afectadas": "Dptos. de Arequipa, Moquegua y Tacna.",
+      "victimas_y_danos": "Dejó 1 muerto y 66 heridos. Causó graves daños en Moquegua (estimados en 3 millones de soles oro) afectando viviendas antiguas de adobe y sillar. Generó averías leves en Torata, Quinistaquillas, Quellaveco y Mollendo. Provocó derrumbes en quebradas y el asentamiento de 30 cm en el terraplén ferroviario de Uchumayo."
+    },
+    {
+      "fecha": "28 de mayo de 1948",
+      "magnitud": "7.0 M s",
+      "nombre": "",
+      "epicentro": "Cerca de Cañete",
+      "zonas_afectadas": "Provincia de Cañete, departamento de Lima.",
+      "victimas_y_danos": "Dejó 4 muertos, numerosos heridos y pérdidas por 800,000 soles oro. Deterioró la mayoría de viviendas de adobe y quincha en Cañete. Provocó deslizamientos en terrenos pantanosos en Calavera, grietas y pequeños derrumbes en el cerro Candela debido a la saturación del suelo. Sentido fuerte en Lima."
+    },
+    {
+      "fecha": "20 de julio de 1948",
+      "magnitud": "6.5 M w",
+      "nombre": "",
+      "epicentro": "Caravelí/Chuquibamba",
+      "zonas_afectadas": "Provincias de Caravelí y Condesuyos, departamento de Arequipa.",
+      "victimas_y_danos": "Sismo ligeramente destructor en las poblaciones de Caravelí y Chuquibamba. Fue percibido de forma leve en Lima."
+    },
+    {
+      "fecha": "16 de mayo de 1950",
+      "magnitud": "7.9 M uk",
+      "nombre": "",
+      "epicentro": "Huancane, Departamento de Puno",
+      "zonas_afectadas": "Dpto de Puno y Dpto. de la Paz (Bolivia)",
+      "victimas_y_danos": "Sismo de gran profundidad."
+    },
+    {
+      "fecha": "21 de mayo de 1950",
+      "magnitud": "6.8 M b",
+      "nombre": "Terremoto del Cusco de 1950",
+      "epicentro": "Cerca del Cusco, departamento del Cusco.",
+      "zonas_afectadas": "Dpto. del Cusco.",
+      "victimas_y_danos": "Dejó 120 muertos, 275 heridos y dañó más del 50% de las edificaciones de la ciudad de Cusco. Colapsaron campanarios y templos coloniales antiguos, y se destruyeron casas de adobe afectadas desde 1941. Causó una zona de fisuración de 5 km con grietas de hasta 2 m de profundidad al SE de San Sebastián, caídas de estatuas y el ascenso del nivel freático en el sur del valle."
+    },
+    {
+      "fecha": "9 de diciembre de 1950",
+      "magnitud": "6.3 Mw",
+      "nombre": "",
+      "epicentro": "Cerca de Ica, departamento de Ica.",
+      "zonas_afectadas": "Dpto. de Ica",
+      "victimas_y_danos": "Dejó 4 muertos y 12 heridos. Destruyó viviendas de adobe y quincha en barrios humildes; en el centro causó caída de cornisas y enlucidos (estructuras de concreto quedaron intactas). Provocó grietas con salida de agua en terrenos de cultivo, derrumbes en las carreteras a Córdova y Huaitará, y un leve retiro/salida de mar de 5 metros en Pisco."
+    },
+    {
+      "fecha": "31 de enero de 1951",
+      "magnitud": "6.0 M b",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Departamento de Lima",
+      "victimas_y_danos": "Inició con ruido sordo y causó un fuerte remezón que hizo crujir paredes. Provocó el bamboleo de edificios, una fina rajadura vertical en la fachada de un edificio de concreto en la Plaza San Martín y agrietamientos menores de revoque en otros sectores."
+    },
+    {
+      "fecha": "4 de marzo de 1951",
+      "magnitud": "5.8 M w",
+      "nombre": "",
+      "epicentro": "Cercanías de Chala, provincia de Caravelí, departamento de Arequipa.",
+      "zonas_afectadas": "Dptos. de Arequipa e Ica.",
+      "victimas_y_danos": "Ligeramente destructor en Caravelí."
+    },
+    {
+      "fecha": "12 de diciembre de 1953",
+      "magnitud": "7.3 M w",
+      "nombre": "",
+      "epicentro": "Tumbes, departamento de Tumbes, en la frontera Perú - Ecuador",
+      "zonas_afectadas": "Norte del Perú y sur del Ecuador",
+      "victimas_y_danos": "48 muertos en Perú; 36 en Ecuador."
+    },
+    {
+      "fecha": "21 de abril de 1954",
+      "magnitud": "6.0 M b",
+      "nombre": "",
+      "epicentro": "Entre Cañete y Chincha.",
+      "zonas_afectadas": "Dptos. de Lima e Ica",
+      "victimas_y_danos": "1 muerto."
+    },
+    {
+      "fecha": "19 de agosto de 1955",
+      "magnitud": "M uk",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Dptos. de Áncash y La Libertad.",
+      "victimas_y_danos": "Ligeramente destructor en la Hacienda Cartavio y en Chimbote. Sentido desde Piura hasta Lima."
+    },
+    {
+      "fecha": "9 de octubre de 1955",
+      "magnitud": "6.0 M b",
+      "nombre": "",
+      "epicentro": "Caserío de Mungui, distrito de Pampamarca (La Unión), provincia de La Unión, departamento de Arequipa.",
+      "zonas_afectadas": "",
+      "victimas_y_danos": "Causa destrucción y averías de viviendas en Mungui."
+    },
+    {
+      "fecha": "18 de febrero de 1956",
+      "magnitud": "6.2 M b",
+      "nombre": "",
+      "epicentro": "Carhuaz, departamento de Áncash",
+      "zonas_afectadas": "Callejón de Huaylas, Dpto. de Áncash.",
+      "victimas_y_danos": "Sismo destructor sentido en todo el Callejón de Huaylas, causando 14 muertos. Daños en Carhuaz y en los caseríos de Amascha, Shilla, Llipa y Hualcán."
+    },
+    {
+      "fecha": "29 de octubre de 1956",
+      "magnitud": "6.5 M b",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Dptos. de Huánuco y Áncash.",
+      "victimas_y_danos": "Ligeramente destructor en Huánuco y Tingo María. Sentido fuertemente en los pueblos aledaños al río Marañón, en el Dpto. de Áncash y en el pto. de Chimbote."
+    },
+    {
+      "fecha": "15 de enero de 1958",
+      "magnitud": "7.0 M w",
+      "nombre": "",
+      "epicentro": "Cerca de Arequipa, departamento de Arequipa.",
+      "zonas_afectadas": "Dptos. de Arequipa y Moquegua.",
+      "victimas_y_danos": "228 muertos; 845 heridos; 100,000 damnificados. Todas las casas antiguas de la ciudad de Arequipa sufrieron daños, resistiendo solo las modernas."
+    },
+    {
+      "fecha": "19 de julio de 1959",
+      "magnitud": "7.1 M w",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Dptos. de Arequipa, Moquegua y Tacna.",
+      "victimas_y_danos": ""
+    },
+    {
+      "fecha": "24 de diciembre de 1959",
+      "magnitud": "6.2 M b",
+      "nombre": "",
+      "epicentro": "Cerca de Ayacucho",
+      "zonas_afectadas": "Sierras del departamento de Ayacucho.",
+      "victimas_y_danos": "7 muertos. Destrucción de 250 viviendas en los poblados de Pomabamba, Moyobamba y Huahuapuquio."
+    },
+    {
+      "fecha": "13 de enero de 1960",
+      "magnitud": "7.8 M s",
+      "nombre": "",
+      "epicentro": "Cerca de Arequipa, departamento de Arequipa",
+      "zonas_afectadas": "Dptos. de Arequipa y Moquegua.",
+      "victimas_y_danos": "63 muertos y más de 200 heridos. Las ciudades de Arequipa y Moquegua severamente afectadas. Chuquibamba, Caravelí, Cotahuasi, Omate y Puquina en ruinas."
+    },
+    {
+      "fecha": "15 de enero de 1960",
+      "magnitud": "7.1 M w",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Dptos. de Lima, Ica y Huancavelica.",
+      "victimas_y_danos": "Derrumbe de casas en Nazca, Ica y Huancavelica."
+    },
+    {
+      "fecha": "20 de noviembre de 1960",
+      "magnitud": "7.6 M w",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Dptos. de Piura, Lambayeque",
+      "victimas_y_danos": "Dos muertos en Piura. Mueren 3 por un tsunami de 9 metros de altura, en los puertos de Eten y Pimentel."
+    },
+    {
+      "fecha": "8 de noviembre de 1961",
+      "magnitud": "6.0 M b",
+      "nombre": "",
+      "epicentro": "Distrito de Acos, provincia de Acomayo, departamento de Cusco",
+      "zonas_afectadas": "",
+      "victimas_y_danos": ""
+    },
+    {
+      "fecha": "3 de marzo de 1962",
+      "magnitud": "6.0 M b",
+      "nombre": "",
+      "epicentro": "Yungul, distrito de Ulcumayo, departamento de Junín.",
+      "zonas_afectadas": "Vertientes orientales de los Andes centrales.",
+      "victimas_y_danos": "20 muertos. Destrucción y agrietamientos de las partes altas."
+    },
+    {
+      "fecha": "15 de agosto de 1963",
+      "magnitud": "7.7 M w",
+      "nombre": "",
+      "epicentro": "Sandia, Departamento de Puno",
+      "zonas_afectadas": "Dpto. de Puno",
+      "victimas_y_danos": "Sismo de gran profundidad."
+    },
+    {
+      "fecha": "17 de septiembre de 1963",
+      "magnitud": "6.5 M b",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Dptos. de La Libertad, Áncash y Lima.",
+      "victimas_y_danos": "Sentido a lo largo de la costa, entre Cañete y Trujillo y en las poblaciones del Callejón de Huaylas."
+    },
+    {
+      "fecha": "24 de septiembre de 1963",
+      "magnitud": "6.9 M w",
+      "nombre": "",
+      "epicentro": "",
+      "zonas_afectadas": "Dpto. de Áncash.",
+      "victimas_y_danos": "Causa fuertes daños a las casas de adobe de los pueblos de la Cordillera Negra. Muchas averías en los canales de regadío y caminos. En Huaraz y Huarmey se producen severos daños en las viviendas; algunas rajaduras en inmuebles antiguos del norte de la ciudad de Lima; sentido fuertemente en Chimbote y Salaverry."
+    },
+    {
+      "fecha": "26 de enero de 1964",
+      "magnitud": "6.0 M b",
+      "nombre": "",
+      "epicentro": "Cerca de Arequipa, departamento de Arequipa",
+      "zonas_afectadas": "Dptos. de Arequipa y Moquegua.",
+      "victimas_y_danos": "En Arequipa hubo 4 heridos y deterioros en varias casas ya resentidas por movimientos anteriores."
+    },
+    {
+      "fecha": "8 de mayo de 1965",
+      "magnitud": "6.0 M b",
+      "nombre": "",
+      "epicentro": "Distrito de Urcos, provincia de Quispicanchi, departamento de Cusco",
+      "zonas_afectadas": "Pueblo de Urcos.",
+      "victimas_y_danos": "Desprendimientos de las laderas de los cerros."
+    },
+    {
+      "fecha": "17 de octubre de 1966",
+      "magnitud": "8.1 M w",
+      "nombre": "Terremoto de Lima y Callao de 1966",
+      "epicentro": "Océano Pacífico, frente a las costas de Huacho y Barranca, (departamento de Lima)",
+      "zonas_afectadas": "Costa central del Perú.",
+      "victimas_y_danos": "Acompañado de un maremoto moderado. 220 muertos; 1800 heridos; 258 000 damnificados. Las zonas más afectadas de Lima fueron La Molina, Puente Piedra, las zonas antiguas del Rímac y del Cercado, las zonas adyacentes a los cerros y una banda a lo largo del río Rímac hasta el Callao."
+    },
+    {
+      "fecha": "19 de junio de 1968",
+      "magnitud": "6.9 M w",
+      "nombre": "",
+      "epicentro": "Moyobamba, departamento de San Martín.",
+      "zonas_afectadas": "Dpto. de San Martín, selva norte del Perú.",
+      "victimas_y_danos": "Sismo ocasionado en el sistema de fallas Campanaquiz-Cahuapanas-Angaiza-Chazuta; el epicentro se ubicó en las cercanías de Santa María de Cahuapanas, generó numerosos daños materiales en San Martín, Cajamarca, Amazonas, La Libertad y Loreto. Intensidad máxima IX en Angaiza y Cahuapanas, se reportó VII en Moyobamba y Yantaló; VI-VII Rioja, Lamas, Chachapoyas; VI Cajamarca, Juanjui, Celendín. Sentido fuerte en Guayaquil (IV), Iquitos y Trujillo (IV), alcanzó Lima y Huancayo (III). No se pudo evidenciar la ruptura de la falla debido a la densidad boscosa de la región, sin embargo se observó deslizamientos masivos desde el aire sobre todo en las cuencas del río Mayo y del río Paranapura; ocasionó desplazamiento lateral de suelo cerca de Moyobamba y en el área de Yarina-Huimbayoc. Se reportaron 46 fallecidos (12 fallecidos en Moyobamba, 02 en Tabalosos, 01 en Lamas, 5 en Chachapoyas entre otros). Pese a elevada magnitud y superficialidad del sismo la mayoría de daños se debieron a fallas de construcción y antigüedad de las construcciones."
+    },
+    {
+      "fecha": "1 de octubre de 1969",
+      "magnitud": "6.6 M w",
+      "nombre": "",
+      "epicentro": "Huaytapallana, distrito de Pariahuanca (Huancayo), departamento de Junín",
+      "zonas_afectadas": "Huaytapallana",
+      "victimas_y_danos": "1300 muertos. Se produce una falla o desplazamiento vertical del terreno en las faldas del nevado Huaytapallana."
+    },
+    {
+      "fecha": "14 de febrero de 1970",
+      "magnitud": "6.2 M b",
+      "nombre": "",
+      "epicentro": "Panao, Provincia de Pachitea, Departamento de Huánuco",
+      "zonas_afectadas": "Panao.",
+      "victimas_y_danos": "10 + muertos; numerosos heridos. Los pueblos más afectados fueron Chaglla, Quero, Ayllamarca, La Linda y otros donde quedaron destruidas todas las viviendas rurales."
+    },
+    {
+      "fecha": "31 de mayo de 1970",
+      "magnitud": "7.9 M w",
+      "nombre": "Terremoto de Áncash de 1970",
+      "epicentro": "Océano Pacífico, frente a las costas del departamento de Áncash",
+      "zonas_afectadas": "Norte del Perú.",
+      "victimas_y_danos": "El más catastrófico ocurrido en el Perú, por la cantidad de víctimas. Alrededor de 70 mil fallecidos y 358,000 heridos. La ciudad de Yungay desaparece cubierta por un gigantesco aluvión. Destrucción de Huaraz y otras ciudades. Sentido desde Tumbes hasta Ica y desde la costa hasta Iquitos."
+    },
+    {
+      "fecha": "9 de diciembre de 1970",
+      "magnitud": "7.2 M w",
+      "nombre": "",
+      "epicentro": "Cerca de Piura",
+      "zonas_afectadas": "Dptos. de Tumbes y Piura.",
+      "victimas_y_danos": "82 muertos y 350 heridos."
+    },
+    {
+      "fecha": "5 de mayo de 1971",
+      "magnitud": "6.2 M b",
+      "nombre": "",
+      "epicentro": "San Miguel, provincia de Sihuas, departamento de Áncash.",
+      "zonas_afectadas": "Dpto. de Áncash.",
+      "victimas_y_danos": "En el caserío de San Miguel de Chingalpo y el pueblo de Quiches se producen víctimas por deslizamientos y desplomes: 5 muertos; 30 heridos. Tuvo su origen en el mismo foco del terremoto de 1946."
+    },
+    {
+      "fecha": "14 de octubre de 1971",
+      "magnitud": "5.6 M w",
+      "nombre": "",
+      "epicentro": "Provincia de Aymaraes, departamento de Apurímac.",
+      "zonas_afectadas": "Prov. de Aymaraes.",
+      "victimas_y_danos": "144 muertos. Se calcula que el 10 % de las viviendas fueron destruidas y un 40 % resultaron bastante dañadas. Los pueblos más afectados fueron: Copaya, Mosecca, Sañayca y Toraya."
+    },
+    {
+      "fecha": "20 de marzo de 1972",
+      "magnitud": "6.4 M w",
+      "nombre": "",
+      "epicentro": "Juanjuí, provincia de Mariscal Cáceres, departamento de San Martín",
+      "zonas_afectadas": "Nororiente del Perú.",
+      "victimas_y_danos": "40 muertos. 500 viviendas derrumbadas o semidestruidas. Licuación de arenas en Juanjuí y asentamientos en la carretera marginal. Derrumbe de cerros en Saposoa. Sentido hasta Lambayeque."
+    },
+    {
+      "fecha": "3 de octubre de 1974",
+      "magnitud": "8.1 M w",
+      "nombre": "Terremoto de Lima de 1974",
+      "epicentro": "Al Oeste de la Región Central, en la costa sur del departamento de Lima.",
+      "zonas_afectadas": "Dptos. de Lima e Ica.",
+      "victimas_y_danos": "252 muertos; 3600 heridos; 300,000 damnificados. En Lima sufrieron daños edificios públicos, iglesias y monumentos históricos. El tsunami inundó varias fábricas en el Callao y las costas de Pisco."
+    },
+    {
+      "fecha": "16 de febrero de 1979",
+      "magnitud": "7.1 M w",
+      "nombre": "",
+      "epicentro": "Cerca de la ciudad de Arequipa",
+      "zonas_afectadas": "Dpto. de Arequipa.",
+      "victimas_y_danos": "Daños materiales."
+    },
+    {
+      "fecha": "10 de noviembre de 1980",
+      "magnitud": "6.2 M b",
+      "nombre": "",
+      "epicentro": "Cerca de Ayacucho",
+      "zonas_afectadas": "Departamento de Ayacucho.",
+      "victimas_y_danos": ""
+    },
+    {
+      "fecha": "18 de abril de 1981",
+      "magnitud": "6.2 M b",
+      "nombre": "",
+      "epicentro": "Paccha-Opancca-Ticllas, departamento de Ayacucho.",
+      "zonas_afectadas": "",
+      "victimas_y_danos": "106 muertos."
+    },
+    {
+      "fecha": "28 de marzo de 1982",
+      "magnitud": "6.1 M b",
+      "nombre": "",
+      "epicentro": "Suroeste de la ciudad de Lima, departamento de Lima.",
+      "zonas_afectadas": "Departamento de Lima",
+      "victimas_y_danos": "En la ciudad de Lima fallecieron una mujer y un niño y en Huancayo dos personas. En Chosica una acequia se salió fuera de su cauce, derribando un muro de contención."
+    },
+    {
+      "fecha": "26 de enero de 1984",
+      "magnitud": "5.6 - 6.5 M w",
+      "nombre": "",
+      "epicentro": "17 kms al NO de San Bartolo, departamento de Lima.",
+      "zonas_afectadas": "Departamento de Lima",
+      "victimas_y_danos": "En Lima causó daños en la iglesia de Huérfanos en el centro de Lima, así como en el edificio de la Compañía de Seguros Generales. Hubo deslizamientos en la Costa Verde a la altura de Chorrillos."
+    },
+    {
+      "fecha": "5 de abril de 1986",
+      "magnitud": "5.2 M w",
+      "nombre": "Terremoto del Cusco de 1986",
+      "epicentro": "8 km al NE de la ciudad de Cusco.",
+      "zonas_afectadas": "Departamento del Cusco",
+      "victimas_y_danos": "Causó la muerte de 7 personas, 80 heridos y aproximadamente 13,000 damnificados. Fue generado por la reactivación de la falla Chinchero-Qoricocha (longitud de 3 km y desplazamiento de hasta 10 cm con extensión Norte-Sur)"
+    },
+    {
+      "fecha": "29 de mayo de 1990",
+      "magnitud": "6.6 M w",
+      "nombre": "",
+      "epicentro": "En los límites de los dptos. de San Martín y Amazonas",
+      "zonas_afectadas": "Noreste amazónico del Perú",
+      "victimas_y_danos": "Importante y complejo evento, que supone uno de los sismos superficiales más notables de la región nororiental. Evento de 48 segundos de duración y 03 rupturas, epicentro en la Falla Shitari en los límites San Martín con Amazonas, al suroeste de Rioja. El sismo rompió un segmento de falla que supone la energía acumulada por aproximadamente 500 años. Este sismo presentó numerosas réplicas muchas de ellas suficientemente fuertes para sentirse en Iquitos a 500 km de distancia, licuefacción de suelos, derrumbes, y deslizamientos en un gran área. Intensidad VIII Soritor, Omia, San Marcos y El Porvenir, VII-VIII Rioja, Mendoza VII Moyobamba, Nueva Cajamarca, Tabalosos VI -VII Lamas, Tarapoto, Juanjui, Chachapoyas VI Bagua, Jaén, Celendín, Yurimaguas. Causó pánico y agrietamiento de algunas viviendas en Trujillo, Piura, Chiclayo, Chepén y Pacasmayo. Sentido moderado a fuerte (IV) en Chimbote e Iquitos. Más de 200 muertos, 4,000 heridos y 285,000 damnificados."
+    },
+    {
+      "fecha": "4 de abril de 1991",
+      "magnitud": "6.5 M w",
+      "nombre": "Terremoto del Nororiente del Perú de 1991",
+      "epicentro": "En la Amazonía, evento premonitor; departamento de San Martín.",
+      "zonas_afectadas": "Noreste del Perú",
+      "victimas_y_danos": "Evento premonitor en el sistema de fallas Rioja-Moyobamba. Ocasionó algunos daños y 10 heridos en el área de Nueva Cajamarca-Moyobamba-Tarapoto. Intensidad VI en Moyobamba y Tarapoto; V Chachapoyas, Yurimaguas; IV Chiclayo, Cajamarca; III Tumbes, Iquitos, Tingo María, Trujillo."
+    },
+    {
+      "fecha": "5 de abril de 1991",
+      "magnitud": "7.1 M w",
+      "nombre": "Terremoto del Nororiente del Perú de 1991",
+      "epicentro": "Evento principal",
+      "zonas_afectadas": "Noreste del Perú.",
+      "victimas_y_danos": "Se considera el evento principal del enjambre sísmico iniciado en el segmento Rioja-Moyobamba parte del sistema de fallas Campanaquiz-Cahuapanas-Angaiza-Chazuta. Se cree que el sistema fue reactivado tardíamente por el sismo del 29 de mayo de 1990 que ocurrió en un sistema de fallas cercano (Pucatambo-Shitari-Saposoa). Evento complejo ocasionado en falla normal ocasió 100 muertes, más de 500 heridos y 185,000 damnificados. VIII en Angaiza VII en Moyobamba, Nueva Cajamarca, Soritor, Rioja, Rodríguez de Mendoza, Tabalosos VI Tarapoto, Chachapoyas, Yurimaguas, Juanjuí, Jaén, Bolívar V Chiclayo, Cajamarca, Andoas, Tingo María IV Iquitos, Pucallpa, Trujillo, Guayaquil III Quito, Lima, Huancayo. Produjo daños en algunos lugares del sur de Ecuador. Se evidenció importantes efectos de licuefacción en la zona del Alto Mayo, sobre todo en los alrededores de Nueva Cajamarca y Moyobamba, asimismo desplazamiento lateral de suelos y licuefacción en San Antonio de Cumbaza, Shapaja, cerca de Juanjui, en Celendín, Bagua, y Balsapuerto. Unas 135 escuelas fueron destruidas."
+    },
+    {
+      "fecha": "18 de abril de 1993",
+      "magnitud": "6.3 M w",
+      "nombre": "",
+      "epicentro": "Centro del departamento de Lima",
+      "zonas_afectadas": "",
+      "victimas_y_danos": "Sismo intermedio con epicentro en la Cordillera, cerca de Yangas (provincia de Canta). Ocasionó muchos deslizamientos de que interrumpieron vías de comunicación y que provocaron daños materiales y humanos. Intensidad VII en San José del Palle VI en Canta, Santa Rosa de Quives, Santa Eualia V-VI Lima, Callao, Matucana V Huacho, Huaral, Oyón IV Cañete, Huaraz, Pasco III Huancayo, Ica, Cajamarca, Trujillo. Ocasionó 08 muertes (05 en Canta y Huarochirí; 03 en Lima), 83 heridos y 2,000 damnificados."
+    },
+    {
+      "fecha": "21 de febrero de 1996",
+      "magnitud": "7.5 M w",
+      "nombre": "",
+      "epicentro": "180 km al oeste de Chimbote, Ancash. Lejos de la costa norte-centro",
+      "zonas_afectadas": "Dptos. de Lambayeque, La Libertad y Áncash",
+      "victimas_y_danos": "Terremoto submarino de ruptura lenta. Produjo intensidades de IV-V en Chimbote. Ocasionó un tsunami, las olas (la mayor de 3 metros de altura) destruyeron numerosas viviendas y embarcaciones entre Puerto Salaverry y Puerto Casma. En el área de Guadalupito, Santa, Coishco y cerca de Samanco la inundación ocasionó la muerte de 14 personas."
+    },
+    {
+      "fecha": "12 de noviembre de 1996",
+      "magnitud": "7.7 M w",
+      "nombre": "Terremoto de Nasca de 1996",
+      "epicentro": "Al Suroeste de la Región Central-Sur, límites de los dptos. de Ica y Arequipa.",
+      "zonas_afectadas": "",
+      "victimas_y_danos": "Casi 20 muertos; 2,000 heridos; 99,874 damnificados en Ica, Huancavelica, Ayacucho y Arequipa. Produjo un leve tsunami que afectó el área de San Juan de Marcona-San Nicolás."
+    },
+    {
+      "fecha": "3 de abril de 1999",
+      "magnitud": "6.8 M w",
+      "nombre": "",
+      "epicentro": "Suroeste del Perú.",
+      "zonas_afectadas": "Costas del departamento de Arequipa.",
+      "victimas_y_danos": "Daños importantes en el área de Camaná-Caravelí-Cotahuasi-Chuquibamba-Aplao. 1 muerto; 95 heridos; más de 400 familias damnificadas."
+    },
+    {
+      "fecha": "23 de junio de 2001",
+      "magnitud": "8.4 M w",
+      "nombre": "Terremoto del sur del Perú de 2001",
+      "epicentro": "En el mar, frente a las costas del departamento de Arequipa, Perú",
+      "zonas_afectadas": "Departamentos de Arequipa, Moquegua y Tacna",
+      "victimas_y_danos": "102 personas fallecidas, incluyendo 26 que murieron como consecuencia del posterior tsunami, que también causó la desaparición de 70 personas. Aproximadamente 320 000 personas fueron afectadas por el terremoto, 17 500 casas fueron destruidas y 35 550 dañadas directamente en los alrededores de las ciudades de Arequipa, Camaná, Moquegua y Tacna."
+    },
+    {
+      "fecha": "23 de junio de 2001",
+      "magnitud": "6.1 Mw",
+      "nombre": "",
+      "epicentro": "En el mar, frente a las costas del departamento de Arequipa, Perú",
+      "zonas_afectadas": "Arequipa",
+      "victimas_y_danos": "Replica suscitada tras el evento principal del mismo año."
+    },
+    {
+      "fecha": "26 de junio de 2001",
+      "magnitud": "6.7 Mw",
+      "nombre": "",
+      "epicentro": "En el mar, frente a las costas del departamento de Arequipa, Perú",
+      "zonas_afectadas": "Arequipa",
+      "victimas_y_danos": "Fue la segunda replica más fuerte suscitada tras el evento principal del mismo año."
+    },
+    {
+      "fecha": "5 de julio de 2001",
+      "magnitud": "6.6 Mw",
+      "nombre": "",
+      "epicentro": "En el mar, frente a las costas del departamento de Arequipa, Perú",
+      "zonas_afectadas": "Arequipa",
+      "victimas_y_danos": "Replica suscitada tras el evento principal del mismo año."
+    },
+    {
+      "fecha": "7 de julio de 2001",
+      "magnitud": "7.6 M w",
+      "nombre": "",
+      "epicentro": "Frente a las costas de los dptos. de Arequipa y Moquegua.",
+      "zonas_afectadas": "Arequipa",
+      "victimas_y_danos": "Fue la replica más fuerte del sismo principal ocurrido el 23 de junio del mismo año, con una profundidad de 33 km, dejó un saldo de 3 muertos."
+    },
+    {
+      "fecha": "28 de diciembre de 2001",
+      "magnitud": "6.0 Mw",
+      "nombre": "",
+      "epicentro": "En el norte de Ucayali, Perú.",
+      "zonas_afectadas": "Departamento de Ucayali",
+      "victimas_y_danos": "Fue un sismo acontecido a las 09:28 (UTC) a una profundidad de 160 km."
+    },
+    {
+      "fecha": "25 de septiembre de 2005",
+      "magnitud": "7.5 M w",
+      "nombre": "Terremoto del norte del Perú de 2005",
+      "epicentro": "90 km al NE de Moyobamba, departamento de San Martín",
+      "zonas_afectadas": "Departamentos de Loreto y San Martín",
+      "victimas_y_danos": "10 muertos; 164 heridos; 12 600 damnificados. Daños más severos en Lamas, en el departamento de San Martín, limitando con el departamento de Loreto."
+    },
+    {
+      "fecha": "20 de octubre de 2006",
+      "magnitud": "6.7 Mw",
+      "nombre": "",
+      "epicentro": "Oeste de Chincha, departamento de Ica",
+      "zonas_afectadas": "",
+      "victimas_y_danos": "Heridos leves."
+    },
+    {
+      "fecha": "15 de agosto de 2007",
+      "magnitud": "8.0 Mw",
+      "nombre": "Terremoto de Pisco de 2007",
+      "epicentro": "Océano Pacífico, a 40 km al oeste de Chincha Alta, departamento de Ica.",
+      "zonas_afectadas": "Provincia de Pisco, Chincha, Ica y Cañete",
+      "victimas_y_danos": "El terremoto más mortífero en Perú desde 1970, generó aprox 1,000 fallecidos; (600 fallecidos y 400 desaparecidos), 2891 heridos hospitalizados, 76 000 viviendas destruidas e inhabitables y 431 000 personas afectadas. Ocasionó un tsunami local que ahogó a 03 personas en Lagunillas (Pisco) e inundó Paracas. Afectó a los departamentos de Lima, Callao, Ica, Ayacucho, Huancavelica y Junín; se reportó daños leves en Andahuaylas (V). Se observó desplazamiento lateral del terreno y licuefacción masiva entre Jaguay (Chincha Alta) y playa Carhuas. Intensidad IX en Pisco y Tambo de Mora; VIII-IX en Chincha Alta; VIII en Ica; VII-VIII Cañete; VII Castrovirreyna, Yauyos; VI Huancavelica, Nasca V-VI Lima V Huancayo, Huamanga IV Cusco, Pucallpa, Chimbote III-IV Trujillo III Arequipa, Cajamarca, Chachapoyas II-III Chiclayo II Iquitos, Arica, La Paz, Guayaquil."
+    },
+    {
+      "fecha": "16 de noviembre de 2007",
+      "magnitud": "6.8 Mw",
+      "nombre": "",
+      "epicentro": "La frontera entre Perú y Brasil; límites de los dptos. de Ucayali y Loreto, Perú.",
+      "zonas_afectadas": "",
+      "victimas_y_danos": "Heridos leves."
+    },
+    {
+      "fecha": "8 de julio de 2008",
+      "magnitud": "6.2 Mw",
+      "nombre": "",
+      "epicentro": "Cerca de Aplao, Arequipa.",
+      "zonas_afectadas": "Provincia de Castilla, Arequipa.",
+      "victimas_y_danos": "El movimiento registrado a las 09:13:07 UTC provocó daños estructurales en viviendas y puentes y dejó al menos una persona muerta, víctima por el colapso de una pared en Arequipa, además de heridos y agrietamientos en varios edificios."
+    },
+    {
+      "fecha": "26 de agosto de 2008",
+      "magnitud": "6.4 Mw",
+      "nombre": "",
+      "epicentro": "66 km al noroeste de Pucallpa",
+      "zonas_afectadas": "Selva Central del Perú, amazonía de Brasil",
+      "victimas_y_danos": "Daños materiales."
+    },
+    {
+      "fecha": "9 de febrero de 2009",
+      "magnitud": "6.1 Mw",
+      "nombre": "",
+      "epicentro": "Frontera de los dptos. de Arequipa e Ica",
+      "zonas_afectadas": "Sur del Perú",
+      "victimas_y_danos": "Daños materiales menores."
+    },
+    {
+      "fecha": "23 de marzo de 2010",
+      "magnitud": "6.0 Mw",
+      "nombre": "",
+      "epicentro": "40 km al sureste de Nazca, a 40 km de profundidad",
+      "zonas_afectadas": "Centro y sur costero del Perú",
+      "victimas_y_danos": "Pánico general, caída de algunas cornisas. Sentido fuerte en Nazca, Palpa y Puquio (V), intensidad IV en Caravelí, e Ica III en Arequipa, Huamanga, Huancavelica, Cañete."
+    },
+    {
+      "fecha": "5 de mayo de 2010",
+      "magnitud": "6.2 Mw",
+      "nombre": "",
+      "epicentro": "Al Oeste de Tacna, en el mar, Perú",
+      "zonas_afectadas": "Sur del Perú, Norte de Chile y Bolivia",
+      "victimas_y_danos": "17 heridos registrados, daños materiales, derrumbes y postes caídos en Tacna, se dañaron algunas viviendas en Moquegua, causando 02 heridos. Intensidad V en Tacna IV-V Ilo IV Moquegua III Arequipa, Chucuito II Puno, Camaná."
+    },
+    {
+      "fecha": "18 de mayo de 2010",
+      "magnitud": "6.0 Mw",
+      "nombre": "",
+      "epicentro": "46 km al este-noreste de Bagua Grande, Amazonas",
+      "zonas_afectadas": "Sur de Ecuador, nororiente del Perú",
+      "victimas_y_danos": "Se reportó 01 herido en Bagua. Daños materiales en viviendas e infraestructura vial, al presentarse el fenómeno de licuefacción que destruyó 2 km de la Carretera Belaúnde Terry entre Pedro Ruiz y Jamalca. Corte de fluido eléctrico e hídrico. Colapsaron algunas tuberías de captación de agua potable en Bagua y Utcubamba. Caída de algunos techos y muros en Luya y Chachapoyas. Sentido V en Bagua IV-V Chachapoyas, Jaén IV Moyobamba, Tarapoto, Cajamarca, Juanjui, Olmos, Huancabamba III Chiclayo, Piura, Trujillo. Sentido II en Iquitos."
+    },
+    {
+      "fecha": "23 de mayo de 2010",
+      "magnitud": "6.1 Mw",
+      "nombre": "",
+      "epicentro": "28 km al suroeste de Huancasancos, Ayacucho",
+      "zonas_afectadas": "Centro y Sur del Perú",
+      "victimas_y_danos": "Daños menores en viviendas precarias de las provincias de Huanca Sancos, Cangallo, Lucanas y Sucre en Ayacucho. Causó algunos deslizamientos que afectaron vías de comunicación. Se reportó 16 heridos en la región Ica, la mayoría por ataques de pánico y personas que saltaron desde las ventanas de sus viviendas, asimismo 04 heridos por contusiones en Ayacucho. Sentido V en Sancos IV-V Puquio, Cangallo, Querobamba IV Huamanga, Ica, Nazca, Andahuaylas, Huancavelica, Huanta III-IV Huancayo III Abancay, Cusco, Lima II-III Arequipa, Junín, La Merced II Moquegua, Huacho, Barranca."
+    },
+    {
+      "fecha": "24 de mayo de 2010",
+      "magnitud": "6.5 Mw",
+      "nombre": "",
+      "epicentro": "319 km al este de Pucallpa, en el estado brasileño de Acre.",
+      "zonas_afectadas": "Selva centro-oriental del Perú",
+      "victimas_y_danos": "No se registraron daños. Sentido IV en Purús III en Pucallpa y Atalaya."
+    },
+    {
+      "fecha": "6 de marzo de 2011",
+      "magnitud": "6.2 Mw",
+      "nombre": "",
+      "epicentro": "93 km al sureste de Tacna",
+      "zonas_afectadas": "Sur del Perú",
+      "victimas_y_danos": "Corte temporal del fluido eléctrico y de las comunicaciones, sentido fuerte IV en Tacna."
+    },
+    {
+      "fecha": "20 de junio de 2011",
+      "magnitud": "6.6 Mw",
+      "nombre": "",
+      "epicentro": "Región de Antofagasta, Chile",
+      "zonas_afectadas": "Sur del Perú",
+      "victimas_y_danos": "Corte temporal de fluido eléctrico, sentido prolongado IV en Tacna."
+    },
+    {
+      "fecha": "24 de agosto de 2011",
+      "magnitud": "7.0 Mw",
+      "nombre": "Terremoto del Perú de 2011",
+      "epicentro": "37 km al sureste de Contamana, Loreto",
+      "zonas_afectadas": "Centro del Perú. Percibido en Ecuador, Colombia, Brasil y Bolivia.",
+      "victimas_y_danos": "3 muertos, uno por accidente en Pucallpa, una mujer por impacto de roca en la vía terrestre entre Pucallpa y Aguaytía y un hombre por infarto en Ica, se contabilizaron 70 heridos, de ellos 28 en la ciudad de Tarma, donde varias estudiantes se accidentaron al evacuar su centro educativo. Se reportaron deslizamientos y derrumbes de cerros en Junín, Pasco, y Huánuco, siendo los más importantes los que afectaron el pueblo de Monobamba en Junín y la carretera Aguaytía-Pucallpa, se observaron derrumbes menores en La Merced y Pichanaki, corte prolongado de energía eléctrica y telecomunicaciones, se evidenció licuefacción de suelos en Contamana (Loreto) y agrietamiento del suelo en partes de Pucallpa. Sentido fuerte V-VI en Pucallpa y Contamana V en Aguaytía, Puerto Inca y Orellana. IV en Iquitos, Huánuco, Tingo María, Cerro de Pasco, Satipo, Tarapoto III-IV Moyobamba, Huaraz, Huancayo, Quillabamba, Bagua III Cajamarca, Trujillo, Chimbote, Ica, Huarmey, Huancavelica, Huamanga, Puerto Maldonado, Ica II-III Lima."
+    },
+    {
+      "fecha": "28 de octubre de 2011",
+      "magnitud": "6.9 Mw",
+      "nombre": "",
+      "epicentro": "117 km al suroeste de Ica",
+      "zonas_afectadas": "Centro y sur del Perú",
+      "victimas_y_danos": "1 muerto en Cerro Azul (Cañete, Lima), 103 heridos, 134 casas destruidas, 600 inhabitables y casi 1000 damnificados. Corte temporal de las comunicaciones y fluido eléctrico. Asimismo, la catedral de Ica (patrimonio cultural) y 2 iglesias más colapsaron, se observaron muchos derrumbes en caminos de Huaytara. En la ciudad de Huancavelica 02 viviendas y 01 colegio resultaron parcialmente destruidos. Sentido fuerte VI en Ica y Palpa V Nazca, Chincha Alta IV Cañete, Camaná, Caravelí III-IV Huancayo, Huamanga III Arequipa, Moquegua, Tacna, Huaral, Lima II-III Abancay II Cerro de Pasco, Huánuco, Puno."
+    },
+    {
+      "fecha": "30 de enero de 2012",
+      "magnitud": "6.3 Mw",
+      "nombre": "",
+      "epicentro": "47 km al suroeste de Ica",
+      "zonas_afectadas": "Centro y sur del Perú",
+      "victimas_y_danos": "224 heridos, 150 casas destruidas, 425 inhabitables y alrededor de 1800 damnificados. Causó pánico en horas de la madrugada, corte de fluido eléctrico y de las telecomunicaciones en la región Ica, colapso de tuberías de aguas servidas en la ciudad de Ica. Sentido VI en Ica, V en Nazca, Pisco, Chincha Alta IV Mala, Cañete, Huancavelica, Puquio, III-IV Cangallo III Lima, Huancayo, Huamanga, Arequipa, Camaná II Moquegua, Tacna, Huacho, Junín."
+    },
+    {
+      "fecha": "14 de mayo de 2012",
+      "magnitud": "6.3 Mw",
+      "nombre": "",
+      "epicentro": "31 km al suroeste de Tarata",
+      "zonas_afectadas": "Sur del Perú",
+      "victimas_y_danos": "Corte de fluido eléctrico. Sentido fuerte (V) en Tacna, IV en Moquegua III en Arequipa II en Puno, y Chucuito. Se evidenció asentamiento de suelos en la zona de Pocollay. Resultaron afectadas 106 viviendas, y 11 heridos."
+    },
+    {
+      "fecha": "7 de junio de 2012",
+      "magnitud": "6.1 Mw",
+      "nombre": "",
+      "epicentro": "19 km al suroeste de Chuquibamba, Arequipa",
+      "zonas_afectadas": "Sur del Perú",
+      "victimas_y_danos": "Daño en las líneas telefónicas, se observó caída de algunos muros de viviendas antiguas y deslizamientos sobre caminos y carreteras. Sentido muy fuerte en Chuquibamba, Caraveli y Aplao (V), Arequipa, Puquio y Nazca (IV), sentido III en Moquegua, Ica, intensidad II en Tacna."
+    },
+    {
+      "fecha": "2 de agosto de 2012",
+      "magnitud": "6.2 ML",
+      "nombre": "",
+      "epicentro": "47 km al suroeste de Pucallpa, Ucayali",
+      "zonas_afectadas": "Centro y oriente del Perú",
+      "victimas_y_danos": "Daños leves en algunas viviendas, corte de fluido eléctrico. Epicentro junto al pueblo de Masisea donde la intensidad llegó a V. Sentido en fuerte en Pucallpa (IV), sentido III en Huanuco, Huancayo, Cerro de Pasco, Huaraz II-III Cajamarca II Lima, Trujillo, Chimbote."
+    },
+    {
+      "fecha": "16 de julio de 2013",
+      "magnitud": "6.0 Mw",
+      "nombre": "",
+      "epicentro": "9 km al este de Huambo, Arequipa",
+      "zonas_afectadas": "Sur del Perú. Sentido en Bolivia y norte de Chile.",
+      "victimas_y_danos": "38 heridos y 111 viviendas colapsadas. Numerosas viviendas afectadas. No se descarta que tenga relación con la actividad del volcán Sabancaya. Intensidad V en Maca, Huambo y Cabanaconde IV en Chivay, Arequipa, Caraveli III en Moquegua y Sicuani II-III Juliaca II Abancay, Cusco. Este evento se relaciona con el inicio de un enjambre sísmico. El potencial sísmico de esta zona es muy activo, presentándose eventos que causaron daños materiales en 1992 y 1998, en fallas que cruzan todo el Valle de El Colca y relacionada con la actividad del volcán Sabancaya desde 1986. Cabe destacar que en esta zona se presentó un sismo de Mg 6.2 el 23 de julio de 1991, causando 97 muertes, y daños en el Valle de El Colca, además de forzar la reubicación del pueblo de Maca, destrozado al 100%."
+    },
+    {
+      "fecha": "25 de septiembre de 2013",
+      "magnitud": "7.1 Mw",
+      "nombre": "Terremoto de Acari 2013",
+      "epicentro": "64 kilómetros al sur de la localidad de Lomas, en la región Arequipa",
+      "zonas_afectadas": "Arequipa",
+      "victimas_y_danos": "Se reportaron 48 heridos en Arequipa y Ayacucho. Evento dejó 1763 damnificados, en las provincias de Caravelí (Arequipa), Parinacochas y Paucar del Sara Sara (Ayacucho), algunas viviendas dañadas en Nazca. Se reportó deslizamiento lateral de suelos en Chala, Atiquipa y Acarí, derrumbes obstaculizaron el tránsito en la Panamericana Sur entre Chala y Camaná y entre Puquio y Cora Cora. Sentido muy fuerte VI en Acari y alrededores V en Cora Cora, Nazca y Puquio IV Arequipa, Ica, Pisco, Cañete, Huancavelica III-IV Moquegua, Huamanga, Mala III Huancayo, Abancay, Cusco, Tacna, Lima, Jauja, Tacna II Puno, Huacho, Cerro de Pasco. Este evento se presentó a 84 km al sur del evento de noviembre de 1996, y en el área de ruptura de un sismo en 1913, aparentemente sin liberar toda la energía acumulada en una zona ubicada entre Puerto de Lomas y Chala."
+    },
+    {
+      "fecha": "15 de marzo de 2014",
+      "magnitud": "6.2 Mw",
+      "nombre": "",
+      "epicentro": "45 kilómetros al sur de Pisco, en la región Ica",
+      "zonas_afectadas": "Centro-sur del Perú.",
+      "victimas_y_danos": "Viviendas precarias dañadas. Sentido V en Pisco IV Ica III en Lima y Huancayo."
+    },
+    {
+      "fecha": "15 de marzo de 2014",
+      "magnitud": "6.3 Mw",
+      "nombre": "",
+      "epicentro": "38 kilómetros al oeste de Sechura, en la región Piura",
+      "zonas_afectadas": "Norte del Perú y sur de Ecuador.",
+      "victimas_y_danos": "Daños de consideración en construcciones coloniales de Sechura, Colán y Piura. Daños en autopistas locales y derrumbes en cerros balnearios. Corte de fluido eléctrico y de comunicaciones. Al menos 150 casas reportaron daños. Licuefacción de suelos en pueblos costeros. Sentido con intensidad V-VI en Sechura V en Talara, Piura, Paita y Sullana IV en Tumbes, Olmos y Chiclayo. Se percibió con intensidad III en Cajamarca, Jaén, Trujillo y Chimbote, II en Chachapoyas."
+    },
+    {
+      "fecha": "24 de agosto de 2014",
+      "magnitud": "6.8 Mw",
+      "nombre": "",
+      "epicentro": "60 kilómetros al este de la localidad de Tambo, Ayacucho",
+      "zonas_afectadas": "Sur del Perú.",
+      "victimas_y_danos": "El sismo sacudió la tarde del domingo (18h 21m Hora local) la zona centro-sur de Perú, movimiento que logró ser percibido también en regiones del norte de Chile. Según reportaron algunos diarios peruanos, como el Comercio, los pobladores de Huamanga, capital de Ayacucho, o de Cusco salieron de sus viviendas y corrieron a la plaza de armas para ponerse a salvo. Se reportan fallas en la telefonía celular y el servicio de electricidad. Hubo daños ligeros en estructuras en Puquio y Cora Cora (V-VI), además de derrumbes en carreteras. Sentido fuerte V en Nazca IV Ica, Chincha Alta, Huamanga, Andahuaylas, Huancavelica III-IV Abancay, Huancayo III Lima, Arequipa, Moquegua, Cusco II-III Juliaca II Cerro de Pasco, Tacna."
+    },
+    {
+      "fecha": "25 de noviembre de 2015, 17:45 y 17:50",
+      "magnitud": "7.6 Mw 7.6 Mw",
+      "nombre": "",
+      "epicentro": "83 y 99 kilómetros al sur de Esperanza, Ucayali",
+      "zonas_afectadas": "Sur y centro del Perú, oeste de Brasil y norte de Bolivia.",
+      "victimas_y_danos": "Doblete sísmico, separados por una diferencia de 5 minutos. Percibido con intensidad máxima V en Puerto Esperanza IV en Cusco, Pucallpa, Puerto Maldonado, Puno, Arequipa y La Paz III en Huamanga, Huancayo, Moyobamba, Tacna, Tarapoto, Puerto Inca, Tingo María, Oxapampa, Chachapoyas, sentido ligeramente (II) en Lima, Cajamarca y Trujillo. Sentido en Ecuador, Colombia, y desde el occidente y al sur de Venezuela, ciudades como Manaus, Rio Branco y Porto Velho en Brasil, Bolivia y el norte de Chile. Debido a la gran profundidad de los sismos (636 y 635 km. respectivamente), no causaron daños significativos."
+    },
+    {
+      "fecha": "14 de agosto de 2016, 10:00",
+      "magnitud": "5.3 Mw",
+      "nombre": "Terremoto de Caylloma de 2016",
+      "epicentro": "10 km de Chivay",
+      "zonas_afectadas": "Provincia de Caylloma",
+      "victimas_y_danos": "Cuatro muertos y 55 heridos, muchos edificios en valle del Colca colapsaron."
+    },
+    {
+      "fecha": "17 de julio de 2017, 21:05",
+      "magnitud": "6.4 Mw",
+      "nombre": "",
+      "epicentro": "45 kilómetros al suroeste de Atico, Arequipa",
+      "zonas_afectadas": "Sur del Perú.",
+      "victimas_y_danos": "De bastante intensidad en la ciudad de Arequipa. En la zona de Atico (norte del departamento de Arequipa) hubo derrumbes frente a la Panamericana Sur, ocasionando bloqueos en la carretera. Pasajeros de ómnibus interprovinciales quedaron varados casi un día tras quedar aislados por los derrumbes. Un conductor de camión herido por un derrumbe en el sector de La Planchada."
+    },
+    {
+      "fecha": "14 de enero de 2018, 04:18",
+      "magnitud": "7.1 Mw",
+      "nombre": "Terremoto del sur del Perú de 2018",
+      "epicentro": "40 kilómetros al sur de Lomas, Arequipa",
+      "zonas_afectadas": "Arequipa",
+      "victimas_y_danos": "Se sintió al norte del departamento de Arequipa, en zonas limítrofes con los departamentos de Ica y Ayacucho y con regular intensidad en la ciudad de Arequipa. También se sintió en el departamento de Lima y el norte de Chile. Dejó un saldo de dos muertos y 103 heridos."
+    },
+    {
+      "fecha": "24 de agosto de 2018, 04:04",
+      "magnitud": "7.1 Mw",
+      "nombre": "",
+      "epicentro": "250 Kilómetros al noroeste de Puerto Maldonado.",
+      "zonas_afectadas": "Oriente Del Perú.",
+      "victimas_y_danos": "El movimiento telúrico ocurrió al promediar las 04:04 (UTC 09:04) horas del día viernes 24 de agosto de 2018, y su epicentro se localizó a 123 kilómetros al sur de la ciudad de Esperanza, con una profundidad de 616 kilómetros. Las autoridades de Defensa Civil no reportaron daños personales ni materiales."
+    },
+    {
+      "fecha": "1 de marzo de 2019, 03:50",
+      "magnitud": "7.0 Mw",
+      "nombre": "",
+      "epicentro": "Con epicentro a 8 km al noroeste de Puno, Puno",
+      "zonas_afectadas": "Sur del Perú",
+      "victimas_y_danos": "Se sintió con regular intensidad en los departamentos de: Arequipa, Moquegua, Tacna y el norte de Chile"
+    },
+    {
+      "fecha": "26 de mayo de 2019, 02:41",
+      "magnitud": "8.0 Mw",
+      "nombre": "Terremoto de Loreto de 2019",
+      "epicentro": "70 km al SE de Alto Amazonas, Loreto, al Noreste del Perú",
+      "zonas_afectadas": "Colombia, Ecuador, Perú y oeste de Brasil.",
+      "victimas_y_danos": "Dejó un saldo de 2 personas fallecidas, daños materiales y fallas eléctricas en las localidades de Yurimaguas, Tarapoto, Lagunas e Iquitos, se sintió en la mayor parte del territorio nacional incluyendo ciudades como Lima, Tumbes, Trujillo y Cusco; en las ciudades ecuatorianas de Quito y Guayaquil,y en las ciudades colombianas de Bogotá, Cali, Ibagué y Pasto, en Brasil se reportó temblores en la ciudad de Manaus sin ocasionar daños. Es el terremoto más potente en 12 años en Perú desde el Terremoto del Perú de 2007 de magnitud 8.0 que ocurrió el 15 de agosto de 2007."
+    },
+    {
+      "fecha": "27 de diciembre de 2020, 07:11",
+      "magnitud": "6.0 ML",
+      "nombre": "",
+      "epicentro": "36 km al sursudoeste de Chala, Departamento de Arequipa.",
+      "zonas_afectadas": "Departamento de Arequipa",
+      "victimas_y_danos": "De 41 km de profundidad, percibido con intensidad VI en Chala, Yauca. Ocho viviendas en el distrito de Yauca, en la provincia de Caravelí quedaron dañadas."
+    },
+    {
+      "fecha": "22 de junio de 2021,21:54",
+      "magnitud": "5.9 Mw",
+      "nombre": "Sismo de Mala de 2021",
+      "epicentro": "33 km al SO de Mala, Cañete-Lima",
+      "zonas_afectadas": "Departamento de Lima",
+      "victimas_y_danos": "Daños menores. 1 muerto. Se sintió principalmente en la ciudad de Lima.. Se registraron daños de moderados a mayores, principalmente en Mala."
+    },
+    {
+      "fecha": "30 de julio de 2021, 12:10",
+      "magnitud": "6.2 Mw",
+      "nombre": "Sismo de Sullana de 2021",
+      "epicentro": "18 km al oeste-noroeste de Sullana, Sullana-Piura",
+      "zonas_afectadas": "Departamento de Piura",
+      "victimas_y_danos": "De 32 km de profundidad, el sismo dejó a más de 50 personas heridas, provocó desprendimientos en varias viviendas y edificios, entre ellos la fachada de la catedral de la ciudad de Piura, así como en zonas costeras. La fuerte intensidad del sismo generó alarma en la población que salió a las calles en busca de lugar seguro debido al temor a réplicas."
+    },
+    {
+      "fecha": "28 de noviembre de 2021, 05:52:12 a. m.",
+      "magnitud": "7.5 Mw",
+      "nombre": "Terremoto de Loreto de 2021",
+      "epicentro": "Barranca (Datem del Marañón)",
+      "zonas_afectadas": "Departamentos de Amazonas y Loreto",
+      "victimas_y_danos": "De solo 131 km de profundidad, el sismo se logró sentir en todo el país y en Colombia, Ecuador, Brasil y en varias zonas de Venezuela. se han registrado 126 heridos, 2 fallecidos y varios daños materiales, también se registraron daños materiales en Ecuador, 2.202 personas se quedaron sin hogar, 220 viviendas resultaron dañadas y 75 totalmente destruidas, 7 iglesias derrumbadas, 13 escuelas de los departamentos de Loreto, Piura y Amazonas (Perú) resultaron dañadas."
+    },
+    {
+      "fecha": "3 de febrero de 2022, 10:58:56 a. m.",
+      "magnitud": "6.5 Mw",
+      "nombre": "Terremoto de Loreto 2022",
+      "epicentro": "104 km al este de Santa María de Nieva, Condorcanqui, Amazonas",
+      "zonas_afectadas": "Departamento de Amazonas",
+      "victimas_y_danos": "Réplica del sismo de noviembre de 2021. Se sintió fuertemente en todo el norte del Perú, así como también en Ecuador, Colombia y Brasil. Según Indeci, varias viviendas en Amazonas quedaron severamente dañadas. No dejó ni heridos ni fallecidos."
+    },
+    {
+      "fecha": "12 de mayo de 2022, 4:55:48 p. m.",
+      "magnitud": "5.5 Mw",
+      "nombre": "Terremoto de Cañete de 2022",
+      "epicentro": "30 km al oeste de Chilca, Cañete, Lima.",
+      "zonas_afectadas": "Departamento de Lima",
+      "victimas_y_danos": "Fuerte movimiento sísmico, se sintió fuerte en Lima y Callao, daños menores, derrumbes de viviendas y deslizamientos en la Costa Verde. Se reportaron 7 heridos y 2 fallecidos: una menor de edad que cayó desde un tercer piso, falleció 2 días después, y una mujer de 84 años. 4 casas colapsaron y 17 resultaron afectadas."
+    },
+    {
+      "fecha": "26 de mayo de 2022, 07:02:18",
+      "magnitud": "7.2 Mw",
+      "nombre": "",
+      "epicentro": "10 km al oeste de Azángaro, Puno.",
+      "zonas_afectadas": "Puno",
+      "victimas_y_danos": "Fuerte movimiento sísmico, se sintió con bastante intensidad en los departamentos de Arequipa, Cusco, Moquegua y Tacna. Se reportaron varios daños y una carretera bloqueada por un desprendimiento de rocas. Fue percibido en Chile y Bolivia."
+    },
+    {
+      "fecha": "12 de julio de 2022, 18:36:12",
+      "magnitud": "5.5 Mw",
+      "nombre": "Terremoto de La Capilla de 2022",
+      "epicentro": "3 km al sureste de La Capilla, Perú",
+      "zonas_afectadas": "Departamento de Moquegua",
+      "victimas_y_danos": "8 heridos leves, 1813 afectados y 85 damnificados. Se sintió en los departamentos de Moquegua, Tacna y partes de Puno, Arica y Arequipa con algo de intensidad."
+    },
+    {
+      "fecha": "5 de octubre de 2022, 03:26:17",
+      "magnitud": "6.1 Mw",
+      "nombre": "",
+      "epicentro": "13 km al oeste de Sullana Piura.",
+      "zonas_afectadas": "Piura",
+      "victimas_y_danos": "Sismo de regular intensidad, con epicentro en Sullana, Piura. Se sintió en el norte peruano. Se reportaron daños materiales menores. Sin víctimas humanas. Tuvo al menos unas cinco réplicas."
+    },
+    {
+      "fecha": "20 de diciembre de 2023, 07:11:20",
+      "magnitud": "6.2 Mw",
+      "nombre": "",
+      "epicentro": "31 km al O de Aplao, Castilla - Arequipa",
+      "zonas_afectadas": "Arequipa",
+      "victimas_y_danos": "Sismo de regular intensidad con epicentro en Arequipa, ocurrido a hora local 07:11 a. m.. Se sintió muy fuerte en casi todo el sur peruano. Incluso la intensidad alcanzó hasta la ciudad de Lima. En la provincia de Castilla hubo alrededor de 30 viviendas afectadas, quedando en estado inhabitable. No hubo reporte de fallecidos ni heridos."
+    },
+    {
+      "fecha": "16 de junio de 2024, 09:47:30",
+      "magnitud": "6.0 Mw",
+      "nombre": "",
+      "epicentro": "41 km al SO de Chala, Caraveli - Arequipa.",
+      "zonas_afectadas": "Arequipa",
+      "victimas_y_danos": "Movimiento sísmico de regular intensidad, con epicentro frente a las costas de Chala, Caravelí, Arequipa. Se reportaron caídas de viviendas en las costas y deslizamientos de piedras y tierra, afectando tramos de la carretera Panamericana Sur."
+    },
+    {
+      "fecha": "28 de junio de 2024, 00:36:27",
+      "magnitud": "7.2 Mw",
+      "nombre": "Terremoto de Arequipa 2024",
+      "epicentro": "54 km al SO de Yauca, Caraveli - Arequipa.",
+      "zonas_afectadas": "Arequipa",
+      "victimas_y_danos": "Terremoto con epicentro frente a las costas de Yauca, Caravelí, Arequipa. Este sismo generó la alerta de tsunami por parte de la Dirección de Hidrografía y Navegación (DHN) de la Marina de Guerra del Perú que posteriormente fue cancelada. Se reportaron 14 heridos, 5 personas afectadas, 2 puentes dañados, 6 escuelas afectadas, tramos de la Carretera Panamericana Sur bloqueados, servicio eléctrico afectado en Atiquipa y Lomas, Red de agua potable afectada en un 20% en Jaquí."
+    },
+    {
+      "fecha": "29 de junio de 2024, 02:05:31",
+      "magnitud": "6.1 Mw",
+      "nombre": "",
+      "epicentro": "54 km al SO de Chala, Caraveli - Arequipa",
+      "zonas_afectadas": "Arequipa",
+      "victimas_y_danos": "Replica más fuerte ocurrida tras el sismo principal del 28 de junio del mismo año."
+    },
+    {
+      "fecha": "17 de mayo de 2025, 05:22:13",
+      "magnitud": "6.0 Mw",
+      "nombre": "",
+      "epicentro": "23 km al sur de Puquio - Provincia de Lucanas",
+      "zonas_afectadas": "Departamento de Ayacucho",
+      "victimas_y_danos": "Fuerte movimiento sísmico. Se sintió en Ayacucho, Ica e intensamente en el departamento de Huancavelica. No dejó daños personales ni materiales. De igual manera, se registraron personas que sintieron el movimiento telúrico en Lima Metropolitana. Varias viviendas en San Pedro sufrieron rajaduras y otros daños materiales."
+    },
+    {
+      "fecha": "15 de junio de 2025, 11:35:27",
+      "magnitud": "5.6 Mw",
+      "nombre": "Terremoto de Lima y Callao de 2025",
+      "epicentro": "30 km al SO de Provincia constitucional del Callao, Callao - Lima",
+      "zonas_afectadas": "Departamento de Lima",
+      "victimas_y_danos": "Fuerte movimiento sísmico. Sentido en la capital del Perú, se reportó deslizamientos en el Circuito de playas de la Costa Verde en la zona del distrito de Chorrillos. Hubo 1 muerto y 17 heridos. Varias casas presentaron daños estructurales. Es el temblor más fuerte sentido en Lima desde el 2007."
+    },
+    {
+      "fecha": "27 de diciembre de 2025, 21:51:48",
+      "magnitud": "6.2 Mw",
+      "nombre": "Terremoto de Chimbote de 2025",
+      "epicentro": "67 km al O de Chimbote, Santa - Áncash",
+      "zonas_afectadas": "Departamento de Áncash",
+      "victimas_y_danos": "Movimiento sísmico de regular intensidad, sentido en Áncash, La Libertad, Lambayeque, Cajamarca, Piura, Tumbes y Lima y Callao; y también en Ecuador. Asimismo, se habrían producido daños materiales en los departamentos de Ancash y La Libertad."
+    },
+    {
+      "fecha": "1 de abril de 2026, 06:20:26",
+      "magnitud": "6.0 Mw",
+      "nombre": "",
+      "epicentro": "19 km al sureste de Picota, San Martín",
+      "zonas_afectadas": "Departamento de San Martin",
+      "victimas_y_danos": "El sismo fue suficientemente profundo para ser percibido en áreas cercanas, pero su intensidad moderada redujo el riesgo de afectaciones graves en las infraestructuras locales."
+    },
+    {
+      "fecha": "19 de mayo de 2026, 12:57:54",
+      "magnitud": "5.8 Mw",
+      "nombre": "Terremoto de Ica de 2026",
+      "epicentro": "23 km al este de Pampa de Tate, Ica",
+      "zonas_afectadas": "Departamento de Ica",
+      "victimas_y_danos": "28 personas resultaron heridas, además, en Ica, la sede local del Banco de la Nación, la parte baja de la cúpula de la iglesia local y locales como Mega Plaza y KFC sufrieron daños, hubo deslizamientos de tierra en Huacachina, Huaytará y Huancavelica, y al menos 4 universidades sufrieron daños materiales."
+    },
+    {
+      "fecha": "18 de julio de 2026, 21:24:34",
+      "magnitud": "5.5 Mw",
+      "nombre": "Terremoto de Junín de 2026",
+      "epicentro": "2 km al oeste-suroeste de Sicaya, Junín",
+      "zonas_afectadas": "Departamento de Junín",
+      "victimas_y_danos": "Murieron 6 personas y resultaron heridas otras 32. En Chongos Bajo, Vista Alegre y Huamancaca hubo daños materiales y en sus alrededores hubo corte de energía eléctrica."
+    },
+    {
+      "fecha": "20 de agosto de 2026, 13:00:16",
+      "magnitud": "6.7 Mw",
+      "nombre": "Terremoto de Ayacucho de 2026",
+      "epicentro": "35 km al norte de Coracora, Ayacucho",
+      "zonas_afectadas": "Departamento de Ayacucho",
+      "victimas_y_danos": "No se reportaron fallecidos debido a la gran profundidad del sismo, percibido en Ayacucho, Cusco, Ica, Arequipa y Lima."
+    }
+  ],
+  "meta": {
+    "title": "Terremotos en Perú - Free Download",
+    "description": "Terremotos registrados en el Perú desde el siglo XVI: fecha, magnitud, nombre, epicentro, zonas afectadas y daños. Contains 225 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Terremotos en Perú | ListBase",
+    "seo_description": "Download Terremotos en Perú — 225 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 225 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Terremotos_en_Perú"
+    ]
+  }
+}

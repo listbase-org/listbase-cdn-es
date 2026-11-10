@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-10T02:25:11.567Z",
-  "total_datasets": 549,
-  "total_records": 433228,
+  "generated": "2026-11-10T02:25:21.538Z",
+  "total_datasets": 550,
+  "total_records": 433453,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -16004,6 +16004,33 @@
         "xlsx": {
           "name": "es-terremotos-en-mexico_ES.xlsx",
           "size": 26886
+        }
+      }
+    },
+    {
+      "id": "es-terremotos-en-peru",
+      "name": "Terremotos en Perú",
+      "category": "science",
+      "record_count": 225,
+      "columns": [
+        "fecha",
+        "magnitud",
+        "nombre",
+        "epicentro",
+        "zonas_afectadas",
+        "victimas_y_danos"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Terremotos_en_Perú",
+      "updated": "2026-11",
+      "size": 117055,
+      "files": {
+        "csv": {
+          "name": "es-terremotos-en-peru_ES.csv",
+          "size": 84618
+        },
+        "xlsx": {
+          "name": "es-terremotos-en-peru_ES.xlsx",
+          "size": 39312
         }
       }
     },
