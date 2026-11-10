@@ -1,0 +1,170 @@
+{
+  "id": "es-dias-festivos-argentina",
+  "name": "Días festivos en Argentina",
+  "title": "Días festivos en Argentina",
+  "description": "Feriados nacionales y días no laborables de Argentina con fecha, carácter (civil, religioso, trasladable) y comentarios.",
+  "category": "time",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Días_festivos_en_Argentina",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Días_festivos_en_Argentina",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "mes",
+      "label": "Mes",
+      "type": "string"
+    },
+    {
+      "key": "dia",
+      "label": "Dia",
+      "type": "string"
+    },
+    {
+      "key": "feriado",
+      "label": "Feriado",
+      "type": "string"
+    },
+    {
+      "key": "caracter",
+      "label": "Caracter",
+      "type": "string"
+    },
+    {
+      "key": "comentarios",
+      "label": "Comentarios",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mes": "Enero",
+      "dia": "1 (jueves)",
+      "feriado": "Año Nuevo",
+      "caracter": "civil",
+      "comentarios": "Es irrenunciable. Festividad del comienzo de un nuevo año."
+    },
+    {
+      "mes": "Febrero",
+      "dia": "15 (lunes)",
+      "feriado": "Lunes de Carnaval",
+      "caracter": "civil",
+      "comentarios": "Carnaval"
+    },
+    {
+      "mes": "Febrero",
+      "dia": "4 (martes)",
+      "feriado": "Martes de Carnaval",
+      "caracter": "civil",
+      "comentarios": "Carnaval"
+    },
+    {
+      "mes": "Marzo",
+      "dia": "24 (martes)",
+      "feriado": "Día Nacional de la Memoria por la Verdad y la Justicia",
+      "caracter": "civil",
+      "comentarios": "Se conmemora a los desaparecidos del Proceso de Reorganización Nacional (golpe de Estado del 24 de marzo de 1976)."
+    },
+    {
+      "mes": "Abril",
+      "dia": "2 (jueves)",
+      "feriado": "Día del Veterano y de los Caídos en la Guerra de Malvinas",
+      "caracter": "civil",
+      "comentarios": "Conmemoración de veteranos y caídos en la guerra de las Malvinas."
+    },
+    {
+      "mes": "Abril",
+      "dia": "3 (viernes)",
+      "feriado": "Viernes Santo",
+      "caracter": "religioso",
+      "comentarios": "Viernes Santo"
+    },
+    {
+      "mes": "Mayo",
+      "dia": "1 (viernes)",
+      "feriado": "Día del Trabajador",
+      "caracter": "civil",
+      "comentarios": "Es irrenunciable. Adhesión nacional al Día Internacional de los Trabajadores."
+    },
+    {
+      "mes": "Mayo",
+      "dia": "25 (lunes)",
+      "feriado": "Día de la Revolución de Mayo",
+      "caracter": "civil",
+      "comentarios": "Conmemoración de la constitución de un primer gobierno dentro del proceso de independencia nacional iniciado en la Revolución de Mayo."
+    },
+    {
+      "mes": "Junio",
+      "dia": "16 (martes)",
+      "feriado": "Paso a la Inmortalidad del General Martín Miguel de Güemes",
+      "caracter": "civil",
+      "comentarios": "Conmemoración de la muerte del general Martín Miguel de Güemes (1785-1821), militar que luchó en la Guerra de la Independencia Argentina."
+    },
+    {
+      "mes": "Junio",
+      "dia": "20 (sábado)",
+      "feriado": "Paso a la Inmortalidad del General Manuel Belgrano",
+      "caracter": "civil",
+      "comentarios": "Conmemoración de la muerte del general Manuel Belgrano (1770-1820), creador de la bandera de Argentina."
+    },
+    {
+      "mes": "Julio",
+      "dia": "9 (jueves)",
+      "feriado": "Día de la Independencia",
+      "caracter": "civil",
+      "comentarios": "Es irrenunciable. Conmemoración de la Declaración de independencia nacional (1816)."
+    },
+    {
+      "mes": "Agosto",
+      "dia": "17 (lunes)",
+      "feriado": "Paso a la Inmortalidad del General José de San Martín",
+      "caracter": "civil",
+      "comentarios": "Conmemoración de la muerte del general José de San Martín (1778-1850)."
+    },
+    {
+      "mes": "Septiembre",
+      "dia": "(no hay festivos)",
+      "feriado": "(no hay festivos)",
+      "caracter": "(no hay festivos)",
+      "comentarios": "(no hay festivos)"
+    },
+    {
+      "mes": "Octubre",
+      "dia": "12 (lunes)",
+      "feriado": "Día del Respeto a la Diversidad Cultural",
+      "caracter": "civil",
+      "comentarios": "Festividad de la diversidad étnica y cultural de todos los pueblos (denominación a partir del año 2010). Nota: Originalmente llamado \"Día de la Raza\" (en conmemoración del descubrimiento de América), posteriormente denominado \"Día de la Diversidad Cultural Americana\" entre los años 2007 a 2010."
+    },
+    {
+      "mes": "Noviembre",
+      "dia": "20 (viernes)",
+      "feriado": "Día de la Soberanía Nacional",
+      "caracter": "civil",
+      "comentarios": "Conmemoración de la Batalla de la Vuelta de Obligado (1845)."
+    },
+    {
+      "mes": "Diciembre",
+      "dia": "8 (martes)",
+      "feriado": "Día de la Inmaculada Concepción de la Virgen",
+      "caracter": "religioso",
+      "comentarios": "Celebración religiosa católica: Concepción de la Virgen María sin pecado original."
+    },
+    {
+      "mes": "Diciembre",
+      "dia": "25 (viernes)",
+      "feriado": "Navidad",
+      "caracter": "religioso",
+      "comentarios": "Es irrenunciable. Celebración religiosa católica: Natividad de Jesucristo."
+    }
+  ],
+  "meta": {
+    "title": "Días festivos en Argentina - Free Download",
+    "description": "Feriados nacionales y días no laborables de Argentina con fecha, carácter (civil, religioso, trasladable) y comentarios. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Días festivos en Argentina | ListBase",
+    "seo_description": "Download Días festivos en Argentina — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Días_festivos_en_Argentina"
+    ]
+  }
+}

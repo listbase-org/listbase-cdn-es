@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-09T02:36:57.274Z",
-  "total_datasets": 545,
-  "total_records": 432289,
+  "generated": "2026-11-10T02:24:39.855Z",
+  "total_datasets": 546,
+  "total_records": 432306,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tourism",
@@ -16611,6 +16611,32 @@
         "xlsx": {
           "name": "es-dias-feriados-de-chile_ES.xlsx",
           "size": 8314
+        }
+      }
+    },
+    {
+      "id": "es-dias-festivos-argentina",
+      "name": "Días festivos en Argentina",
+      "category": "time",
+      "record_count": 17,
+      "columns": [
+        "mes",
+        "dia",
+        "feriado",
+        "caracter",
+        "comentarios"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Días_festivos_en_Argentina",
+      "updated": "2026-11",
+      "size": 5967,
+      "files": {
+        "csv": {
+          "name": "es-dias-festivos-argentina_ES.csv",
+          "size": 2694
+        },
+        "xlsx": {
+          "name": "es-dias-festivos-argentina_ES.xlsx",
+          "size": 8110
         }
       }
     },
