@@ -1,0 +1,1148 @@
+{
+  "id": "es-panes-de-espana",
+  "name": "Panes tradicionales de España por comunidad autónoma",
+  "title": "Panes tradicionales de España por comunidad autónoma",
+  "description": "Variedades de pan tradicional de España agrupadas por comunidad autónoma.",
+  "category": "food",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Panes_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Panes_de_España",
+  "updated": "2026-11",
+  "record_count": 278,
+  "columns": [
+    {
+      "key": "pan",
+      "label": "Pan",
+      "type": "string"
+    },
+    {
+      "key": "comunidad_autonoma",
+      "label": "Comunidad Autonoma",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pan": "Albardilla",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Ablandao de Bornos",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Abogao (Córdoba)",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pan de Alfacar",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Batuta de Huércal-Overa",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pan besao",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Boba, llamado «pan de dos cortes» en Huelva y «yeye» en Aznalcóllar.",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Bollo follao de Alosno",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Bollo regio de Almería",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Bollo sevillano",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Canijo de Sevilla",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pan cateto",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pan civil malagueño",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pan de cachos, Córdoba",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pan de cuajo de Gérgal",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pan de dos cortes",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Jayuyas y salaíllas de Granada",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Hornazo",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Mingo y minguito cordobeses",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Mollafa de Jaén",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Mollete de Algar",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Mollete de Antequera",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Mollete de Cádiz",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Mollete de Écija",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Mollete de Espera",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Mollete de Marchena",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Mollete de Osuna",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Mona de Almería",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Nochebueno de Granada",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Ochío jiennense",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pan de aceite de Almería",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pan besao de Jerez de la Frontera",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pan de boca, Málaga",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pan de cantos",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pan facar, Mancha Real",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pan molinero (Jaén y Córdoba)",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pan rojal de Baeza",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pan seco de Almería",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pan serrano de Huelva",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Panarria de Ronda",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Picos",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Piña",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Pitufo malagueño",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Plasta, hogaza cordobesa",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Regañá",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Rosca",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Roscos",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Rosquilla de Alhama",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Tarrito de Jerez",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Telera cordobesa",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Violín de Málaga",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Zurriago de Trigueros",
+      "comunidad_autonoma": "Andalucía"
+    },
+    {
+      "pan": "Bisalto, bisarto o bisalticos de Calatayud",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Bolla de Calatayud",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Pan de cañada del Bajo Aragón, guitarra en Cariñena o sequillo",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Pan de Calamocha",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Churro de Tarazona",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Chusco o pan de munición",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Pan de cinta",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Coqs de Valderrobres",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Pan cortado",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Coscarona",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Pan de estrella, pan de pintera o pintadera",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Farinoso o dobladillo",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Harinosa de Alcañiz",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Hornazo",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Pan hueco de Híjar",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Mona del Maestrazgo",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Palotes de Calatayud",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Raspao de Híjar",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Redondo",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Regañao de Teruel",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Rollo del Maestrazgo",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Rosca de Calaceite",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Pan de San Jorge",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Tercero de Cariñena",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Pan de tres moños",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Torta de aceite",
+      "comunidad_autonoma": "Aragón"
+    },
+    {
+      "pan": "Bollo preñao",
+      "comunidad_autonoma": "Asturias"
+    },
+    {
+      "pan": "Borona o boroña",
+      "comunidad_autonoma": "Asturias"
+    },
+    {
+      "pan": "Cantelo o rosca de Pascua",
+      "comunidad_autonoma": "Asturias"
+    },
+    {
+      "pan": "Marañuelas de Candás y Luanco",
+      "comunidad_autonoma": "Asturias"
+    },
+    {
+      "pan": "Pan de escanda",
+      "comunidad_autonoma": "Asturias"
+    },
+    {
+      "pan": "Panchón",
+      "comunidad_autonoma": "Asturias"
+    },
+    {
+      "pan": "Rapa",
+      "comunidad_autonoma": "Asturias"
+    },
+    {
+      "pan": "Cóc",
+      "comunidad_autonoma": "Baleares"
+    },
+    {
+      "pan": "Cocarroi",
+      "comunidad_autonoma": "Baleares"
+    },
+    {
+      "pan": "Formatjada",
+      "comunidad_autonoma": "Baleares"
+    },
+    {
+      "pan": "Galleta de Inca",
+      "comunidad_autonoma": "Baleares"
+    },
+    {
+      "pan": "Galleta forta",
+      "comunidad_autonoma": "Baleares"
+    },
+    {
+      "pan": "Llonguet",
+      "comunidad_autonoma": "Baleares"
+    },
+    {
+      "pan": "Pan de payés",
+      "comunidad_autonoma": "Baleares"
+    },
+    {
+      "pan": "Pa de xeixa",
+      "comunidad_autonoma": "Baleares"
+    },
+    {
+      "pan": "Mollete",
+      "comunidad_autonoma": "Canarias"
+    },
+    {
+      "pan": "Pan de batata, típica del carnaval",
+      "comunidad_autonoma": "Canarias"
+    },
+    {
+      "pan": "Pan de campo con matalahúva",
+      "comunidad_autonoma": "Canarias"
+    },
+    {
+      "pan": "Pan de huevos",
+      "comunidad_autonoma": "Canarias"
+    },
+    {
+      "pan": "Pan de millo",
+      "comunidad_autonoma": "Canarias"
+    },
+    {
+      "pan": "Pan de papas",
+      "comunidad_autonoma": "Canarias"
+    },
+    {
+      "pan": "Pan de puño de Ingenio",
+      "comunidad_autonoma": "Canarias"
+    },
+    {
+      "pan": "Gallofa",
+      "comunidad_autonoma": "Cantabria"
+    },
+    {
+      "pan": "Hornazo",
+      "comunidad_autonoma": "Cantabria"
+    },
+    {
+      "pan": "Pan de Campoo",
+      "comunidad_autonoma": "Cantabria"
+    },
+    {
+      "pan": "Señorito",
+      "comunidad_autonoma": "Cantabria"
+    },
+    {
+      "pan": "Tarta de cúscaros o jeriguitos",
+      "comunidad_autonoma": "Cantabria"
+    },
+    {
+      "pan": "Torto pasiego",
+      "comunidad_autonoma": "Cantabria"
+    },
+    {
+      "pan": "Tostón",
+      "comunidad_autonoma": "Cantabria"
+    },
+    {
+      "pan": "Cantero de Toledo",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Congria, Guadalajara",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Pan de Cruz, Ciudad Real",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Pan dormido",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Malhecha de Albacete",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Pan manchego",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Pan de la Mota del Cuervo",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Nochebueno de Toledo",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Oreja, Guadalajara",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Pan partido a brazo de Oropesa",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Panota de Molina de Aragón",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Peineta o libreta de Molina de Aragón",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Repelá",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Reseca de Manzanares",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Pan de rizo, Guadalajara",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Rollo moreno de Albacete",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Rollo sobado de Albacete",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Torta cenceña o galiana de Albacete y Cuenca",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Torta de cañamones",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Torta de garbanzos",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Torta de chicharrones",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Pan tortel en Cuenca",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Tostajo",
+      "comunidad_autonoma": "Castilla-La Mancha"
+    },
+    {
+      "pan": "Pan de Astorga",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Pan bobo",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Bolla",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Pan de cielo, Burgos",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Colón de Salamanca",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Pan de cuadros",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Cuartal",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Enrollado de Mombuey",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Barra Fabiola",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Pan feo de Zamora",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Galleta de pan de Zamora",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Langarto de Ágreda",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Lechuguino de Valladolid, o pan bonito en Palencia",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Molleta de Medina del Campo",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Natacha de Soria",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Obleas de Valladolid y Salamanca",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Palo de Castilla, Burgos",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Pan de picos, Soria",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Panecito de Toro",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Panete de Aranda",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Panico",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Piñitas",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Rebojo de Zamora",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Torta de aceite de Aranda de Duero",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Torta de chicharrones",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Pan trenzado de León",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Pan de Valladolid",
+      "comunidad_autonoma": "Castilla y León"
+    },
+    {
+      "pan": "Coca",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Corona de Gerona",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Foradada de Tortosa",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Llonguet",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Mona",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Pan Dalí o de tres crostones",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Pa de boig",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Pan de avellana de Amer",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Pan de codos",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Pan de matalahúva",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Pan de payés",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Pan de regir",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Pan de torna",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Pan de tramontana, de Castellón de Ampurias",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Pan de riñón de Las Garrigas",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Panado de Lérida",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Panet pla",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Sombrero de Tortosa",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Tallat de Tortosa",
+      "comunidad_autonoma": "Cataluña"
+    },
+    {
+      "pan": "Bollo de Flor, de Mérida y Badajoz",
+      "comunidad_autonoma": "Extremadura"
+    },
+    {
+      "pan": "Chula",
+      "comunidad_autonoma": "Extremadura"
+    },
+    {
+      "pan": "Medio mate de Villafranca de los Barros",
+      "comunidad_autonoma": "Extremadura"
+    },
+    {
+      "pan": "Medio redondo",
+      "comunidad_autonoma": "Extremadura"
+    },
+    {
+      "pan": "Pan de albro",
+      "comunidad_autonoma": "Extremadura"
+    },
+    {
+      "pan": "Pan de garnucha",
+      "comunidad_autonoma": "Extremadura"
+    },
+    {
+      "pan": "Pan prieto",
+      "comunidad_autonoma": "Extremadura"
+    },
+    {
+      "pan": "Pan seco",
+      "comunidad_autonoma": "Extremadura"
+    },
+    {
+      "pan": "Telera de Olivenza",
+      "comunidad_autonoma": "Extremadura"
+    },
+    {
+      "pan": "Regañá (torta de pan ácimo)",
+      "comunidad_autonoma": "Extremadura"
+    },
+    {
+      "pan": "Bola de Santiago",
+      "comunidad_autonoma": "Galicia"
+    },
+    {
+      "pan": "Bolla d'O Porriño",
+      "comunidad_autonoma": "Galicia"
+    },
+    {
+      "pan": "Bollete de moño de Valdeorras",
+      "comunidad_autonoma": "Galicia"
+    },
+    {
+      "pan": "Broa o boroa",
+      "comunidad_autonoma": "Galicia"
+    },
+    {
+      "pan": "Pan de Cea",
+      "comunidad_autonoma": "Galicia"
+    },
+    {
+      "pan": "Pan de centeo",
+      "comunidad_autonoma": "Galicia"
+    },
+    {
+      "pan": "Cornecho",
+      "comunidad_autonoma": "Galicia"
+    },
+    {
+      "pan": "Pan de Neda",
+      "comunidad_autonoma": "Galicia"
+    },
+    {
+      "pan": "Pan de Ousá",
+      "comunidad_autonoma": "Galicia"
+    },
+    {
+      "pan": "Regueifa, pan de boda",
+      "comunidad_autonoma": "Galicia"
+    },
+    {
+      "pan": "Barra de la sierra madrileña",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Bocatín",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Bombón",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Bonete",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Caracol",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Barra castellana",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Hogaza de Castilla",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Colín",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Chinchón",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Chusco de Chinchón",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Francesilla",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Garibaldino de Aranjuez",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Gusano de Alcalá de Henares",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Hogaza",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Libretas de Chinchón",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Medianoche",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Pan de San Fernando de Aranjuez",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Pan de Viena",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Panecillo de leche de Aranjuez",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Pitufo de Chinchón",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Trenza",
+      "comunidad_autonoma": "Madrid"
+    },
+    {
+      "pan": "Bollo murciano",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Cachirulo",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Congo",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Congrio",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Crespillos",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Estrella",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Mona",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Pan de artesa",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Pan de carrasca",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Pan de cuadros",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Pan de espiga",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Pan de jeja",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Pan de rigüelto",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Pan sobao",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Pitanza de Librilla",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Rollo de panza",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Torna o Añiura",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Torta",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Talvina de Mula",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Trenza",
+      "comunidad_autonoma": "Murcia"
+    },
+    {
+      "pan": "Ainosas",
+      "comunidad_autonoma": "Navarra"
+    },
+    {
+      "pan": "Cabezón",
+      "comunidad_autonoma": "Navarra"
+    },
+    {
+      "pan": "Culeca",
+      "comunidad_autonoma": "Navarra"
+    },
+    {
+      "pan": "Retorcido de Pamplona",
+      "comunidad_autonoma": "Navarra"
+    },
+    {
+      "pan": "Taja y tajita",
+      "comunidad_autonoma": "Navarra"
+    },
+    {
+      "pan": "Barzón de Autol",
+      "comunidad_autonoma": "La Rioja"
+    },
+    {
+      "pan": "Bollo de San Prudencio",
+      "comunidad_autonoma": "La Rioja"
+    },
+    {
+      "pan": "Civil",
+      "comunidad_autonoma": "La Rioja"
+    },
+    {
+      "pan": "Pan de estrella de Logroño",
+      "comunidad_autonoma": "La Rioja"
+    },
+    {
+      "pan": "Pan de picos",
+      "comunidad_autonoma": "La Rioja"
+    },
+    {
+      "pan": "Richi",
+      "comunidad_autonoma": "La Rioja"
+    },
+    {
+      "pan": "Pan Sobado de La Rioja",
+      "comunidad_autonoma": "La Rioja"
+    },
+    {
+      "pan": "Bollo de Requena",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Borreguito",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Coca de payés de Castellón",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Corfat",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Fogassa y fogassita de Castellón",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Lanzadera",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Mangraneta de Alicante",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Mona",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Montera de Valencia",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Pan de huerta",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Pan de pimentón de Castellón",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Toña (tonya), panquemao (pa cremat), pan dormido",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Pan de reu",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Pan rosado",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Pataqueta",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Pirulí",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Pito",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Rollo o roll d'horta",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Rosquilleta",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Torta pinchada",
+      "comunidad_autonoma": "Comunidad Valenciana"
+    },
+    {
+      "pan": "Borona",
+      "comunidad_autonoma": "País Vasco"
+    },
+    {
+      "pan": "Opilla y piperopilla",
+      "comunidad_autonoma": "País Vasco"
+    },
+    {
+      "pan": "Karapaixo de Oñate y Mondragón",
+      "comunidad_autonoma": "País Vasco"
+    },
+    {
+      "pan": "Otana de Álava",
+      "comunidad_autonoma": "País Vasco"
+    },
+    {
+      "pan": "Redondo de Bilbao",
+      "comunidad_autonoma": "País Vasco"
+    },
+    {
+      "pan": "Sopako de San Sebastián",
+      "comunidad_autonoma": "País Vasco"
+    },
+    {
+      "pan": "Taja alavesa",
+      "comunidad_autonoma": "País Vasco"
+    },
+    {
+      "pan": "Tortas de aceite de Vitoria",
+      "comunidad_autonoma": "País Vasco"
+    },
+    {
+      "pan": "Cachete y Rosca, en Laguardia",
+      "comunidad_autonoma": "País Vasco"
+    }
+  ],
+  "meta": {
+    "title": "Panes tradicionales de España por comunidad autónoma - Free Download",
+    "description": "Variedades de pan tradicional de España agrupadas por comunidad autónoma. Contains 278 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Panes tradicionales de España por comunidad autónoma | ListBase",
+    "seo_description": "Download Panes tradicionales de España por comunidad autónoma — 278 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 278 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Panes_de_España"
+    ]
+  }
+}
