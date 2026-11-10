@@ -1,0 +1,1920 @@
+{
+  "id": "es-platos-cocina-chilena",
+  "name": "Platos de la cocina chilena",
+  "title": "Platos de la cocina chilena",
+  "description": "Listado de platos, postres, bebidas y preparaciones tradicionales de la gastronomía de Chile, agrupados por tipo.",
+  "category": "food",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Platos_de_la_cocina_chilena",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Platos_de_la_cocina_chilena",
+  "updated": "2026-11",
+  "record_count": 471,
+  "columns": [
+    {
+      "key": "plato",
+      "label": "Plato",
+      "type": "string"
+    },
+    {
+      "key": "seccion",
+      "label": "Seccion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "plato": "Tortilla de mariscos",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Ensalada de papas al salmón",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Almejas a la parmesana",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Machas a la parmesana",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Conchas de camarones",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Camarones con salsa",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Erizos",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Caldillo de congrio al vino",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Ceviche de corvina",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Ceviche de locos",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Calapurca",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Picante de conejo",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Plateada con quinua",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Cazuela marina",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Churrasco marino",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Estofado de cordero a la ostra",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Ensalada chilena nortina",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Ensalada de quinua",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Timbal de quinua",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Risotto de quinua y pimientos amarillos",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Pisco chileno",
+      "seccion": "Bebidas, alcoholes y aperitivos"
+    },
+    {
+      "plato": "Pisco sour",
+      "seccion": "Bebidas, alcoholes y aperitivos"
+    },
+    {
+      "plato": "Mango sour",
+      "seccion": "Bebidas, alcoholes y aperitivos"
+    },
+    {
+      "plato": "Pajarete",
+      "seccion": "Bebidas, alcoholes y aperitivos"
+    },
+    {
+      "plato": "Cola de mono",
+      "seccion": "Bebidas, alcoholes y aperitivos"
+    },
+    {
+      "plato": "Vaina chilena",
+      "seccion": "Bebidas, alcoholes y aperitivos"
+    },
+    {
+      "plato": "Serena libre",
+      "seccion": "Bebidas, alcoholes y aperitivos"
+    },
+    {
+      "plato": "Ulpo",
+      "seccion": "Bebidas, alcoholes y aperitivos"
+    },
+    {
+      "plato": "Mango con leche",
+      "seccion": "Bebidas, alcoholes y aperitivos"
+    },
+    {
+      "plato": "Jote",
+      "seccion": "Bebidas, alcoholes y aperitivos"
+    },
+    {
+      "plato": "Piscola",
+      "seccion": "Bebidas, alcoholes y aperitivos"
+    },
+    {
+      "plato": "Ponche de erizos",
+      "seccion": "Bebidas, alcoholes y aperitivos"
+    },
+    {
+      "plato": "Pomelo sour",
+      "seccion": "Bebidas, alcoholes y aperitivos"
+    },
+    {
+      "plato": "Chumbeque",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Alfajores de mango, guayaba, coco, de Pica.",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Ceviche de almejas",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Ceviche de pescado",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Ensalada a la chilena",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Mariscal",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Caldillo de congrio",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Locos con mayonesa",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Palta reina",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Machas a la parmesana",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Consomé de Pollo",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Chorrillana",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Pastel de choclo",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Humitas",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Pastelera",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Porotos con riendas",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Porotos granados",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Vapora",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Porotos pilco",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Pailita de choclo y crema",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Albóndigas al jugo",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Cazuela de ave",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Cazuela de Vacuno",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Pantrucas",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Porotos con mazamorra",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Pollo arvejado",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Pollo al Cognac",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Pollo al jugo.",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Charquicán",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Jaibas rellenas",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Tomaticán",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Pastel de papa",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Brochetas (variación del anticucho)",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Empolvados",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Chilenos",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Pan de Pascua",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Pan amasado",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Leche asada",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Colegial",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Berlines",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Pan de huevo",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Alfajor",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Torta de milhojas",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Mote con Huesillo",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Duraznos con crema",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Caldillo de almejas",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Chupe de locos",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Sopa de ostras",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Pastel de pescado",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Arrollado de huaso",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Ensalada de digueñes",
+      "seccion": "Entradas y sopas"
+    },
+    {
+      "plato": "Asado de cordero",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Asado al palo",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Caldillo de mariscos",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Cancato",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Catuto o mültrün",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Churrasco chilote",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Cazuela chilota",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Cazuela de vacuno",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Sopa chilota de pescado seco",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Curanto",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Chapaleles",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Chiporro",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Chochoca o trutru",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Empanadas de horno",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Luchicán",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Milcaos",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Ngüllokiñ",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Ñachi",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Pichanga (plato caliente)",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Pollo a las brasas",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Polmay",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Pulmay o curanto en olla",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Lloco",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Valdiviano",
+      "seccion": "Platos de fondo"
+    },
+    {
+      "plato": "Brazo de reina",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Empanadas de manzana",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Mazamorra de manzana",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Merquén",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Mella de papas",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Mella de trigo",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Papas vunas",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Roscas",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Roscas chonchinas",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Strudel de manzana",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Tortas fritas",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Tortillas al rescoldo",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Kuchen",
+      "seccion": "Otros"
+    },
+    {
+      "plato": "Chicha de manzana",
+      "seccion": "Bebidas alcohólicas"
+    },
+    {
+      "plato": "Caliente de chicha",
+      "seccion": "Bebidas alcohólicas"
+    },
+    {
+      "plato": "Chicha de frutos silvestres (calafate, cauchao o maqui)",
+      "seccion": "Bebidas alcohólicas"
+    },
+    {
+      "plato": "Licor de oro",
+      "seccion": "Bebidas alcohólicas"
+    },
+    {
+      "plato": "Mate con malicia",
+      "seccion": "Bebidas alcohólicas"
+    },
+    {
+      "plato": "Muday",
+      "seccion": "Bebidas alcohólicas"
+    },
+    {
+      "plato": "Murtado",
+      "seccion": "Bebidas alcohólicas"
+    },
+    {
+      "plato": "Palta reina",
+      "seccion": "Entradas"
+    },
+    {
+      "plato": "Tomates rellenos con atún",
+      "seccion": "Entradas"
+    },
+    {
+      "plato": "Salpicón",
+      "seccion": "Entradas"
+    },
+    {
+      "plato": "Tortilla de porotos verdes",
+      "seccion": "Entradas"
+    },
+    {
+      "plato": "Alcachofas primavera",
+      "seccion": "Entradas"
+    },
+    {
+      "plato": "Aspic de tomates",
+      "seccion": "Entradas"
+    },
+    {
+      "plato": "Ceviche de corvina con camarones",
+      "seccion": "Entradas"
+    },
+    {
+      "plato": "Ceviche de merluza",
+      "seccion": "Entradas"
+    },
+    {
+      "plato": "Cóctel de camarones",
+      "seccion": "Entradas"
+    },
+    {
+      "plato": "Enrollados de jamón",
+      "seccion": "Entradas"
+    },
+    {
+      "plato": "Jamón primavera",
+      "seccion": "Entradas"
+    },
+    {
+      "plato": "Mousse de ave",
+      "seccion": "Entradas"
+    },
+    {
+      "plato": "Porotos con riendas",
+      "seccion": "Cereales y legumbres"
+    },
+    {
+      "plato": "Porotos con mote",
+      "seccion": "Cereales y legumbres"
+    },
+    {
+      "plato": "Porotos granados con mazamorra",
+      "seccion": "Cereales y legumbres"
+    },
+    {
+      "plato": "Porotos granados con pilco",
+      "seccion": "Cereales y legumbres"
+    },
+    {
+      "plato": "Lentejas de la abuela",
+      "seccion": "Cereales y legumbres"
+    },
+    {
+      "plato": "Budín de maíz",
+      "seccion": "Cereales y legumbres"
+    },
+    {
+      "plato": "Corona de arroz con cholgas",
+      "seccion": "Cereales y legumbres"
+    },
+    {
+      "plato": "Garbanzos picantes",
+      "seccion": "Cereales y legumbres"
+    },
+    {
+      "plato": "Mote a la crema",
+      "seccion": "Cereales y legumbres"
+    },
+    {
+      "plato": "Pastel de arroz",
+      "seccion": "Cereales y legumbres"
+    },
+    {
+      "plato": "Choritos con arroz",
+      "seccion": "Cereales y legumbres"
+    },
+    {
+      "plato": "Arroz graneado",
+      "seccion": "Cereales y legumbres"
+    },
+    {
+      "plato": "Arroz primavera",
+      "seccion": "Cereales y legumbres"
+    },
+    {
+      "plato": "Arroz con huevo",
+      "seccion": "Cereales y legumbres"
+    },
+    {
+      "plato": "Arroz con arvejitas",
+      "seccion": "Cereales y legumbres"
+    },
+    {
+      "plato": "Lentejas con arroz",
+      "seccion": "Cereales y legumbres"
+    },
+    {
+      "plato": "Callampas al gratín",
+      "seccion": "Callampas y champiñones"
+    },
+    {
+      "plato": "Callampas con crema",
+      "seccion": "Callampas y champiñones"
+    },
+    {
+      "plato": "Guiso de champiñones",
+      "seccion": "Callampas y champiñones"
+    },
+    {
+      "plato": "Callampas con salsa de tomates y carne",
+      "seccion": "Callampas y champiñones"
+    },
+    {
+      "plato": "Callampas al horno",
+      "seccion": "Callampas y champiñones"
+    },
+    {
+      "plato": "Calampas acompañadas de salsa de cerezo",
+      "seccion": "Callampas y champiñones"
+    },
+    {
+      "plato": "Champiñones salteados",
+      "seccion": "Callampas y champiñones"
+    },
+    {
+      "plato": "Ensalada chilena",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Ensalada de papas picantes",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Ensalada de arvejitas con jamón",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Ensalada de colores",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Ensalada de papas",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Ensalada de pencas (peciolos de nalca pelados)",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Ensalada de pimientos",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Ensalada de zanahorias",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Ensalada de pollo amoldado",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Ensalada de pepinos",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Ensalada de habas",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Ensalada de apio",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Flan de espinacas o acelga",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Flancitos de coliflor con salsa",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Tortilla de porotos verdes",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Torta de cebolla gratinada",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Fricasé de verduras",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Berenjenas a la parmesana",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Budín de acelgas",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Budín de zanahorias",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Coliflor al gratín",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Chupe de tomates",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Panqueques verdes",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Papas con ají",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Papas rellenas",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Pastel de acelgas",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Tartaleta de verduras",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Zapallitos con pimentón",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Zapallitos rellenos",
+      "seccion": "Ensaladas y verduras"
+    },
+    {
+      "plato": "Callampitas de huevo",
+      "seccion": "Huevos"
+    },
+    {
+      "plato": "Huevos a la copa",
+      "seccion": "Huevos"
+    },
+    {
+      "plato": "Huevos a la jardinera",
+      "seccion": "Huevos"
+    },
+    {
+      "plato": "Huevos a la ligera",
+      "seccion": "Huevos"
+    },
+    {
+      "plato": "Huevos a la tripa",
+      "seccion": "Huevos"
+    },
+    {
+      "plato": "Huevos con callampas",
+      "seccion": "Huevos"
+    },
+    {
+      "plato": "Huevos con salsa de alcachofas",
+      "seccion": "Huevos"
+    },
+    {
+      "plato": "Huevos duros",
+      "seccion": "Huevos"
+    },
+    {
+      "plato": "Huevos gratinados",
+      "seccion": "Huevos"
+    },
+    {
+      "plato": "Huevos primavera",
+      "seccion": "Huevos"
+    },
+    {
+      "plato": "Huevos rellenos",
+      "seccion": "Huevos"
+    },
+    {
+      "plato": "Huevos revueltos",
+      "seccion": "Huevos"
+    },
+    {
+      "plato": "Huevos revueltos con salsa de tomates",
+      "seccion": "Huevos"
+    },
+    {
+      "plato": "Huevos revueltos con vienesas",
+      "seccion": "Huevos"
+    },
+    {
+      "plato": "Revoltijo de tomates",
+      "seccion": "Huevos"
+    },
+    {
+      "plato": "Pailita de huevo con salsa de tomate",
+      "seccion": "Huevos"
+    },
+    {
+      "plato": "Berlines",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Calzones rotos",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Croquetas de pescado",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Chumbeque",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Panqueques",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Panqueques con espinacas",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Picarones",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Sopaipilla de zapallo",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Suflé de queso",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Torta de panqueques",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Tortilla de arvejas",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Tortilla de cebollas",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Tortilla de erizos",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Tortilla de jamón",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Tortilla de salchichas",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Tortilla mixta",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Tostadas de cebolla",
+      "seccion": "Tortillas y frituras"
+    },
+    {
+      "plato": "Ajiaco",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Albóndigas de cordero",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Caldillo de congrio",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Caldillo de pescado",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Caldillo de merluza al vino",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Caldo de gallo",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Carbonada",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Cazuela de cordero",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Cazuela de pava con chuchoca",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Cazuela de chancho",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Caldo de huesos",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Consomé de ave",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Consome de perejil",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Sopa de garbanzos",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Sopa de cebolla",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Sopa de lentejas",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Sopa de pan",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Crema de espárragos",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Crema de verduras",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Crema de garbanzos",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Menestrón",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Puchero",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Puchero criollo",
+      "seccion": "Caldos, cremas y sopas"
+    },
+    {
+      "plato": "Chaparritas",
+      "seccion": "Masas"
+    },
+    {
+      "plato": "Masa de pizza a la maicena",
+      "seccion": "Masas"
+    },
+    {
+      "plato": "Masa sencilla",
+      "seccion": "Masas"
+    },
+    {
+      "plato": "Empanadas de horno o de pino",
+      "seccion": "Empanadas"
+    },
+    {
+      "plato": "Empanadas de machas",
+      "seccion": "Empanadas"
+    },
+    {
+      "plato": "Empanadas fritas",
+      "seccion": "Empanadas"
+    },
+    {
+      "plato": "Empanadas de queso",
+      "seccion": "Empanadas"
+    },
+    {
+      "plato": "Empanadas de mariscos",
+      "seccion": "Empanadas"
+    },
+    {
+      "plato": "Pequenes",
+      "seccion": "Empanadas"
+    },
+    {
+      "plato": "Marraqueta",
+      "seccion": "Panes"
+    },
+    {
+      "plato": "Pan de campo",
+      "seccion": "Panes"
+    },
+    {
+      "plato": "Pan amasado",
+      "seccion": "Panes"
+    },
+    {
+      "plato": "Hallulla",
+      "seccion": "Panes"
+    },
+    {
+      "plato": "Pan de huevo",
+      "seccion": "Panes"
+    },
+    {
+      "plato": "Pan con chicharrones",
+      "seccion": "Panes"
+    },
+    {
+      "plato": "Tortilla de rescoldo",
+      "seccion": "Panes"
+    },
+    {
+      "plato": "Dobladitas",
+      "seccion": "Panes"
+    },
+    {
+      "plato": "Canelones con camarones",
+      "seccion": "Pastas"
+    },
+    {
+      "plato": "Coditos con cebolla",
+      "seccion": "Pastas"
+    },
+    {
+      "plato": "Coditos con nueces",
+      "seccion": "Pastas"
+    },
+    {
+      "plato": "Tallarines con berenjenas",
+      "seccion": "Pastas"
+    },
+    {
+      "plato": "Tallarines vegetarianos",
+      "seccion": "Pastas"
+    },
+    {
+      "plato": "Tallarines al pesto",
+      "seccion": "Pastas"
+    },
+    {
+      "plato": "Tallarines al salmón",
+      "seccion": "Pastas"
+    },
+    {
+      "plato": "Tallarines con atún",
+      "seccion": "Pastas"
+    },
+    {
+      "plato": "Tallarines con pollo",
+      "seccion": "Pastas"
+    },
+    {
+      "plato": "Tallarines sureños",
+      "seccion": "Pastas"
+    },
+    {
+      "plato": "Pebre",
+      "seccion": "Salsas y agregados"
+    },
+    {
+      "plato": "Chancho en piedra",
+      "seccion": "Salsas y agregados"
+    },
+    {
+      "plato": "Crema de queso para rellenar",
+      "seccion": "Salsas y agregados"
+    },
+    {
+      "plato": "Pebre de cilantro con tomates",
+      "seccion": "Salsas y agregados"
+    },
+    {
+      "plato": "Pebre de ají cacho de cabra",
+      "seccion": "Salsas y agregados"
+    },
+    {
+      "plato": "Pebre sureño",
+      "seccion": "Salsas y agregados"
+    },
+    {
+      "plato": "Pebre de camote",
+      "seccion": "Salsas y agregados"
+    },
+    {
+      "plato": "Pebre de cebolla con cilantro",
+      "seccion": "Salsas y agregados"
+    },
+    {
+      "plato": "Salsa blanca",
+      "seccion": "Salsas y agregados"
+    },
+    {
+      "plato": "Salsa chilena",
+      "seccion": "Salsas y agregados"
+    },
+    {
+      "plato": "Salsa de los Andes",
+      "seccion": "Salsas y agregados"
+    },
+    {
+      "plato": "Salsa de mantequilla a las verduras",
+      "seccion": "Salsas y agregados"
+    },
+    {
+      "plato": "Salsa de paltas",
+      "seccion": "Salsas y agregados"
+    },
+    {
+      "plato": "Salsa para tallarines",
+      "seccion": "Salsas y agregados"
+    },
+    {
+      "plato": "Salsa picante",
+      "seccion": "Salsas y agregados"
+    },
+    {
+      "plato": "Pollo arvejado",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Pollo borracho",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Pavo de harina",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Pollo asado con vino blanco y albahaca",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Chuño - puti con ave",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Gallina en escabeche",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Ganso relleno",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Pato a la naranja",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Pato relleno",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Pavo relleno",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Picante de gallina",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Pollo asado",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Pollo a la cacerola",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Pollo al coñac",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Pollo al vino",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Pollo estofado",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Pollo guisado",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Pollo primavera",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Tórtola al jerez",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Pollo al barro",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Filete de pollo al vino",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Pollo al jugo",
+      "seccion": "Ave"
+    },
+    {
+      "plato": "Niños envueltos",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Bistec a lo pobre",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Tapapecho a la cacerola",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Carnes al disco con mariscos",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Chorrillana (variación)",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Budín de 2 carnes",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Asado (incluye cerdo y ave)",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Bifes a la cacerola",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Bifes a la criolla",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Bifes al sartén",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Bifes hamburgueses",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Cacerola al vino",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Carne con salsa pimienta",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Carne mechada",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Chanfaina",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Chuleta asada a la parrilla",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Chuletón a la parrilla con berros",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Estofado de vacuno",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Filete al jerez",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Filete al vino blanco",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Medallones de filete",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Ropa vieja",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Tapabarriga de ternera rellena",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Pollo ganso mechado",
+      "seccion": "Carnes"
+    },
+    {
+      "plato": "Costillar de chancho",
+      "seccion": "Cerdo"
+    },
+    {
+      "plato": "Arrollado de chancho",
+      "seccion": "Cerdo"
+    },
+    {
+      "plato": "Queso de cabeza",
+      "seccion": "Cerdo"
+    },
+    {
+      "plato": "Longaniza",
+      "seccion": "Cerdo"
+    },
+    {
+      "plato": "Arrollado arriero",
+      "seccion": "Cerdo"
+    },
+    {
+      "plato": "Rollo de cerdo picante",
+      "seccion": "Cerdo"
+    },
+    {
+      "plato": "Arrollado de guatitas",
+      "seccion": "Cerdo"
+    },
+    {
+      "plato": "Arrollado de malaya",
+      "seccion": "Cerdo"
+    },
+    {
+      "plato": "Chancho adobado",
+      "seccion": "Cerdo"
+    },
+    {
+      "plato": "Costillar con papas",
+      "seccion": "Cerdo"
+    },
+    {
+      "plato": "Chuletas rebozadas",
+      "seccion": "Cerdo"
+    },
+    {
+      "plato": "Estofado de chancho",
+      "seccion": "Cerdo"
+    },
+    {
+      "plato": "Malaya a la chilena",
+      "seccion": "Cerdo"
+    },
+    {
+      "plato": "Patas de chancho rebozadas",
+      "seccion": "Cerdo"
+    },
+    {
+      "plato": "Cordero en salsa",
+      "seccion": "Cordero"
+    },
+    {
+      "plato": "Caritún",
+      "seccion": "Cordero"
+    },
+    {
+      "plato": "Chuletas de cordero primavera",
+      "seccion": "Cordero"
+    },
+    {
+      "plato": "Arvejado de Cordero",
+      "seccion": "Cordero"
+    },
+    {
+      "plato": "Cordero Guisado",
+      "seccion": "Cordero"
+    },
+    {
+      "plato": "Cacerola campesina",
+      "seccion": "Cordero"
+    },
+    {
+      "plato": "Cordero al chilindrón",
+      "seccion": "Cordero"
+    },
+    {
+      "plato": "Cordero al horno",
+      "seccion": "Cordero"
+    },
+    {
+      "plato": "Cordero arvejado",
+      "seccion": "Cordero"
+    },
+    {
+      "plato": "Corderito relleno",
+      "seccion": "Cordero"
+    },
+    {
+      "plato": "Chuletas asadas",
+      "seccion": "Cordero"
+    },
+    {
+      "plato": "Pulpa de cordero a la mantequilla",
+      "seccion": "Cordero"
+    },
+    {
+      "plato": "Patitas con ají",
+      "seccion": "Cordero"
+    },
+    {
+      "plato": "Conejo al horno",
+      "seccion": "Carnes de caza"
+    },
+    {
+      "plato": "Conejo al orégano",
+      "seccion": "Carnes de caza"
+    },
+    {
+      "plato": "Conejo a la valdiviana",
+      "seccion": "Carnes de caza"
+    },
+    {
+      "plato": "Estofado de conejo",
+      "seccion": "Carnes de caza"
+    },
+    {
+      "plato": "Conejo e",
+      "seccion": "Carnes de caza"
+    },
+    {
+      "plato": "Cocimientos de criadillas",
+      "seccion": "Interiores"
+    },
+    {
+      "plato": "Guatitas al vino blanco",
+      "seccion": "Interiores"
+    },
+    {
+      "plato": "Lengua con salsa tártara",
+      "seccion": "Interiores"
+    },
+    {
+      "plato": "Panitas en salsa de mostaza",
+      "seccion": "Interiores"
+    },
+    {
+      "plato": "Picante de guatitas",
+      "seccion": "Interiores"
+    },
+    {
+      "plato": "Riñones al jerez",
+      "seccion": "Interiores"
+    },
+    {
+      "plato": "Salchichas de cerdo envueltas",
+      "seccion": "Interiores"
+    },
+    {
+      "plato": "Seso a la mantequilla",
+      "seccion": "Interiores"
+    },
+    {
+      "plato": "Sesos imperiales",
+      "seccion": "Interiores"
+    },
+    {
+      "plato": "Guatitas a la jardinera",
+      "seccion": "Interiores"
+    },
+    {
+      "plato": "Tortilla de tallarines",
+      "seccion": "Guisos"
+    },
+    {
+      "plato": "Guiso de lentejas con zapallo y romero",
+      "seccion": "Guisos"
+    },
+    {
+      "plato": "Guiso de Fausto",
+      "seccion": "Guisos"
+    },
+    {
+      "plato": "Guiso de acelga con huevo",
+      "seccion": "Guisos"
+    },
+    {
+      "plato": "Guiso de guatitas",
+      "seccion": "Guisos"
+    },
+    {
+      "plato": "Charquicán (variación)",
+      "seccion": "Guisos"
+    },
+    {
+      "plato": "Charquicán de cochayuyo",
+      "seccion": "Guisos"
+    },
+    {
+      "plato": "Jurel en salsa de tomate y pimentones",
+      "seccion": "Pescados"
+    },
+    {
+      "plato": "Pescado a la parrilla",
+      "seccion": "Pescados"
+    },
+    {
+      "plato": "Tollo en salsa de erizos",
+      "seccion": "Pescados"
+    },
+    {
+      "plato": "Pejerrey relleno",
+      "seccion": "Pescados"
+    },
+    {
+      "plato": "Pejerrey al dedo",
+      "seccion": "Pescados"
+    },
+    {
+      "plato": "Pescado Rebozado",
+      "seccion": "Pescados"
+    },
+    {
+      "plato": "Congrio a lo pobre",
+      "seccion": "Pescados"
+    },
+    {
+      "plato": "Lenguado a la plancha",
+      "seccion": "Pescados"
+    },
+    {
+      "plato": "Chupín de Congrio",
+      "seccion": "Pescados"
+    },
+    {
+      "plato": "Congrio a la plancha",
+      "seccion": "Pescados"
+    },
+    {
+      "plato": "Pescado a la teja",
+      "seccion": "Pescados"
+    },
+    {
+      "plato": "Almejas al matico",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Camarón de mar",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Camarón de río",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Cangrejo o jaiba (cangrejo buey)",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Centolla",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Cholgas al alicate",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Choritos al vapor",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Choritos en salsa verde",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Choros zapato",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Gambas",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Langostas de Juan Fernández",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Langostino",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Locos",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Machas",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Navajuelas",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Ostras",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Ostión",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Piures",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Picorocos",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Caracoles de mar",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Erizos",
+      "seccion": "Mariscos naturales"
+    },
+    {
+      "plato": "Chupe de mariscos",
+      "seccion": "Mariscos preparados"
+    },
+    {
+      "plato": "Consomé de locos",
+      "seccion": "Mariscos preparados"
+    },
+    {
+      "plato": "Locos con mayo",
+      "seccion": "Mariscos preparados"
+    },
+    {
+      "plato": "Lapas rebozadas",
+      "seccion": "Mariscos preparados"
+    },
+    {
+      "plato": "Mariscal",
+      "seccion": "Mariscos preparados"
+    },
+    {
+      "plato": "Mariscal caliente",
+      "seccion": "Mariscos preparados"
+    },
+    {
+      "plato": "Pastel de jaibas",
+      "seccion": "Mariscos preparados"
+    },
+    {
+      "plato": "Perol de mariscos",
+      "seccion": "Mariscos preparados"
+    },
+    {
+      "plato": "Dulce de membrillo",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Almíbar de chancaca (miel)",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Queque",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Hojarascas",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Empolvados",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Alfajor chileno",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Alfajor de maicena",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Tortas de La Ligua",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Tortas curicanas",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Dulces chilenos o chilenitos",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Cintas",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Calzones rotos (rosca)",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Berlines",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Fritos de berenjena",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Buñuelo de coco",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Barquillos",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Cuchuflí",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Sopaipilla",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Chumbeque",
+      "seccion": "Dulces"
+    },
+    {
+      "plato": "Mote con huesillos",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Compota",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Tarta primavera",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Torta mil hojas",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Arroz con leche",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Panqueques",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Leche nevada",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Budín de lúcuma",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Suspiros de monja",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Flan de choclos",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Flan de leche",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Flan de castaña con chocolate",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Budín de sémola",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Leche asada",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Manjar casero",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Pastel de cuatro leches",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Budín de pan",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Manzanas asadas",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Manjar blanco",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Bavarois de lúcumas",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Empanadita de pera",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Cocadas caseras",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Merengues",
+      "seccion": "Postres"
+    },
+    {
+      "plato": "Kuchen",
+      "seccion": "Postres"
+    }
+  ],
+  "meta": {
+    "title": "Platos de la cocina chilena - Free Download",
+    "description": "Listado de platos, postres, bebidas y preparaciones tradicionales de la gastronomía de Chile, agrupados por tipo. Contains 471 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Platos de la cocina chilena | ListBase",
+    "seo_description": "Download Platos de la cocina chilena — 471 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 471 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Platos_de_la_cocina_chilena"
+    ]
+  }
+}
