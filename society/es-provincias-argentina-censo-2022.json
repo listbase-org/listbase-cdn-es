@@ -1,0 +1,324 @@
+{
+  "id": "es-provincias-argentina-censo-2022",
+  "name": "Provincias de Argentina: población (censo 2022), superficie y capital",
+  "title": "Provincias de Argentina: población (censo 2022), superficie y capital",
+  "description": "Las 23 provincias de Argentina con población del censo 2022, superficie, densidad, capital y fecha de declaración de autonomía.",
+  "category": "society",
+  "source": "https://es.wikipedia.org/wiki/Provincias_de_Argentina",
+  "source_url": "https://es.wikipedia.org/wiki/Provincias_de_Argentina",
+  "updated": "2026-11",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "iata_abbr",
+      "label": "Iata Abbr",
+      "type": "string"
+    },
+    {
+      "key": "population_2022",
+      "label": "Population 2022",
+      "type": "number"
+    },
+    {
+      "key": "population_pct",
+      "label": "Population Pct",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_pct",
+      "label": "Area Pct",
+      "type": "string"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "autonomy_declared",
+      "label": "Autonomy Declared",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "province": "Provincia de Buenos Aires",
+      "iata_abbr": "BA",
+      "population_2022": 17523996,
+      "population_pct": "41 %",
+      "area_km2": 307571,
+      "area_pct": "11 %",
+      "density_per_km2": 57.3,
+      "capital": "La Plata",
+      "autonomy_declared": "11 de febrero de 1820"
+    },
+    {
+      "province": "Provincia de Catamarca",
+      "iata_abbr": "CA",
+      "population_2022": 429562,
+      "population_pct": "1 %",
+      "area_km2": 102602,
+      "area_pct": "4 %",
+      "density_per_km2": 4.2,
+      "capital": "San Fernando del Valle de Catamarca",
+      "autonomy_declared": "25 de agosto de 1821"
+    },
+    {
+      "province": "Provincia del Chaco",
+      "iata_abbr": "CH",
+      "population_2022": 1129606,
+      "population_pct": "3 %",
+      "area_km2": 99633,
+      "area_pct": "4 %",
+      "density_per_km2": 11.3,
+      "capital": "Resistencia",
+      "autonomy_declared": "8 de agosto de 1951"
+    },
+    {
+      "province": "Provincia del Chubut",
+      "iata_abbr": "CT",
+      "population_2022": 592621,
+      "population_pct": "1 %",
+      "area_km2": 224686,
+      "area_pct": "8 %",
+      "density_per_km2": 2.6,
+      "capital": "Rawson",
+      "autonomy_declared": "15 de junio de 1955"
+    },
+    {
+      "province": "Provincia de Córdoba",
+      "iata_abbr": "CB",
+      "population_2022": 3840905,
+      "population_pct": "9 %",
+      "area_km2": 165321,
+      "area_pct": "6 %",
+      "density_per_km2": 23.3,
+      "capital": "Córdoba",
+      "autonomy_declared": "5 de enero de 1820"
+    },
+    {
+      "province": "Provincia de Corrientes",
+      "iata_abbr": "CR",
+      "population_2022": 1212696,
+      "population_pct": "3 %",
+      "area_km2": 88199,
+      "area_pct": "3 %",
+      "density_per_km2": 13.6,
+      "capital": "Corrientes",
+      "autonomy_declared": "20 de abril de 1814"
+    },
+    {
+      "province": "Provincia de Entre Ríos",
+      "iata_abbr": "ER",
+      "population_2022": 1425578,
+      "population_pct": "3 %",
+      "area_km2": 78781,
+      "area_pct": "3 %",
+      "density_per_km2": 18.2,
+      "capital": "Paraná",
+      "autonomy_declared": "23 de abril de 1814"
+    },
+    {
+      "province": "Provincia de Formosa",
+      "iata_abbr": "FO",
+      "population_2022": 607419,
+      "population_pct": "1 %",
+      "area_km2": 72066,
+      "area_pct": "3 %",
+      "density_per_km2": 8,
+      "capital": "Formosa",
+      "autonomy_declared": "15 de junio de 1955"
+    },
+    {
+      "province": "Provincia de Jujuy",
+      "iata_abbr": "JY",
+      "population_2022": 811611,
+      "population_pct": "2 %",
+      "area_km2": 53219,
+      "area_pct": "2 %",
+      "density_per_km2": 15.2,
+      "capital": "San Salvador de Jujuy",
+      "autonomy_declared": "17 de diciembre de 1836"
+    },
+    {
+      "province": "Provincia de La Pampa",
+      "iata_abbr": "LP",
+      "population_2022": 361859,
+      "population_pct": "1 %",
+      "area_km2": 143440,
+      "area_pct": "5 %",
+      "density_per_km2": 2.5,
+      "capital": "Santa Rosa",
+      "autonomy_declared": "8 de agosto de 1951"
+    },
+    {
+      "province": "Provincia de La Rioja",
+      "iata_abbr": "LR",
+      "population_2022": 383865,
+      "population_pct": "1 %",
+      "area_km2": 89680,
+      "area_pct": "3 %",
+      "density_per_km2": 4.2,
+      "capital": "La Rioja",
+      "autonomy_declared": "1 de marzo de 1820"
+    },
+    {
+      "province": "Provincia de Mendoza",
+      "iata_abbr": "MZ",
+      "population_2022": 2043540,
+      "population_pct": "5 %",
+      "area_km2": 148827,
+      "area_pct": "5 %",
+      "density_per_km2": 13.7,
+      "capital": "Mendoza",
+      "autonomy_declared": "1 de marzo de 1820"
+    },
+    {
+      "province": "Provincia de Misiones",
+      "iata_abbr": "MI",
+      "population_2022": 1278873,
+      "population_pct": "3 %",
+      "area_km2": 29801,
+      "area_pct": "1 %",
+      "density_per_km2": 42.8,
+      "capital": "Posadas",
+      "autonomy_declared": "10 de diciembre de 1953"
+    },
+    {
+      "province": "Provincia del Neuquén",
+      "iata_abbr": "NQ",
+      "population_2022": 710814,
+      "population_pct": "2 %",
+      "area_km2": 94078,
+      "area_pct": "3 %",
+      "density_per_km2": 7.5,
+      "capital": "Neuquén",
+      "autonomy_declared": "15 de junio de 1955"
+    },
+    {
+      "province": "Provincia de Río Negro",
+      "iata_abbr": "RN",
+      "population_2022": 750768,
+      "population_pct": "2 %",
+      "area_km2": 203013,
+      "area_pct": "7%",
+      "density_per_km2": 3.7,
+      "capital": "Viedma",
+      "autonomy_declared": "15 de junio de 1955"
+    },
+    {
+      "province": "Provincia de Salta",
+      "iata_abbr": "SA",
+      "population_2022": 1441351,
+      "population_pct": "3 %",
+      "area_km2": 155488,
+      "area_pct": "6 %",
+      "density_per_km2": 9.3,
+      "capital": "Salta",
+      "autonomy_declared": "17 de diciembre de 1836"
+    },
+    {
+      "province": "Provincia de San Juan",
+      "iata_abbr": "SJ",
+      "population_2022": 822853,
+      "population_pct": "2 %",
+      "area_km2": 89651,
+      "area_pct": "3 %",
+      "density_per_km2": 9.3,
+      "capital": "San Juan",
+      "autonomy_declared": "1 de marzo de 1820"
+    },
+    {
+      "province": "Provincia de San Luis",
+      "iata_abbr": "SL",
+      "population_2022": 542069,
+      "population_pct": "1 %",
+      "area_km2": 76748,
+      "area_pct": "3 %",
+      "density_per_km2": 7.2,
+      "capital": "San Luis",
+      "autonomy_declared": "1 de marzo de 1820"
+    },
+    {
+      "province": "Provincia de Santa Cruz",
+      "iata_abbr": "SC",
+      "population_2022": 337226,
+      "population_pct": "1 %",
+      "area_km2": 243943,
+      "area_pct": "9 %",
+      "density_per_km2": 1.4,
+      "capital": "Río Gallegos",
+      "autonomy_declared": "22 de noviembre de 1956"
+    },
+    {
+      "province": "Provincia de Santa Fe",
+      "iata_abbr": "SF",
+      "population_2022": 3544908,
+      "population_pct": "8 %",
+      "area_km2": 133007,
+      "area_pct": "5 %",
+      "density_per_km2": 26.6,
+      "capital": "Santa Fe",
+      "autonomy_declared": "10 de mayo de 1816"
+    },
+    {
+      "province": "Provincia de Santiago del Estero",
+      "iata_abbr": "SE",
+      "population_2022": 1060906,
+      "population_pct": "2 %",
+      "area_km2": 136351,
+      "area_pct": "5 %",
+      "density_per_km2": 7.7,
+      "capital": "Santiago del Estero",
+      "autonomy_declared": "27 de abril de 1820"
+    },
+    {
+      "province": "Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+      "iata_abbr": "TF",
+      "population_2022": 185732,
+      "population_pct": "<1 %",
+      "area_km2": 21571,
+      "area_pct": "1 %",
+      "density_per_km2": 0.2,
+      "capital": "Ushuaia",
+      "autonomy_declared": "26 de abril de 1990"
+    },
+    {
+      "province": "Provincia de Tucumán",
+      "iata_abbr": "TU",
+      "population_2022": 1731820,
+      "population_pct": "4 %",
+      "area_km2": 22524,
+      "area_pct": "1 %",
+      "density_per_km2": 76.7,
+      "capital": "San Miguel de Tucumán",
+      "autonomy_declared": "25 de noviembre de 1825"
+    }
+  ],
+  "meta": {
+    "title": "Provincias de Argentina: población (censo 2022), superficie y capital - Free Download",
+    "description": "Las 23 provincias de Argentina con población del censo 2022, superficie, densidad, capital y fecha de declaración de autonomía. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Provincias de Argentina: población (censo 2022), superficie y capital | ListBase",
+    "seo_description": "Download Provincias de Argentina: población (censo 2022), superficie y capital — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Provincias_de_Argentina"
+    ]
+  }
+}

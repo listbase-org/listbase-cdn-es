@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-11T02:10:11.531Z",
-  "total_datasets": 553,
-  "total_records": 433562,
+  "generated": "2026-11-11T02:10:20.633Z",
+  "total_datasets": 554,
+  "total_records": 433585,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -16311,6 +16311,36 @@
         "xlsx": {
           "name": "es-municipios-mas-poblados_ES.xlsx",
           "size": 52436
+        }
+      }
+    },
+    {
+      "id": "es-provincias-argentina-censo-2022",
+      "name": "Provincias de Argentina: población (censo 2022), superficie y capital",
+      "category": "society",
+      "record_count": 23,
+      "columns": [
+        "province",
+        "iata_abbr",
+        "population_2022",
+        "population_pct",
+        "area_km2",
+        "area_pct",
+        "density_per_km2",
+        "capital",
+        "autonomy_declared"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Provincias_de_Argentina",
+      "updated": "2026-11",
+      "size": 9423,
+      "files": {
+        "csv": {
+          "name": "es-provincias-argentina-censo-2022_ES.csv",
+          "size": 2538
+        },
+        "xlsx": {
+          "name": "es-provincias-argentina-censo-2022_ES.xlsx",
+          "size": 8598
         }
       }
     },
