@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-10T02:25:21.538Z",
-  "total_datasets": 550,
-  "total_records": 433453,
+  "generated": "2026-11-11T02:09:53.507Z",
+  "total_datasets": 551,
+  "total_records": 433477,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -3089,6 +3089,29 @@
         "xlsx": {
           "name": "es-sistemas-de-escritura_ES.xlsx",
           "size": 10380
+        }
+      }
+    },
+    {
+      "id": "es-fiscales-generales-del-estado",
+      "name": "Fiscales generales del Estado de España",
+      "category": "law",
+      "record_count": 24,
+      "columns": [
+        "name",
+        "term"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Fiscal_general_del_Estado_(España)",
+      "updated": "2026-11",
+      "size": 4106,
+      "files": {
+        "csv": {
+          "name": "es-fiscales-generales-del-estado_ES.csv",
+          "size": 1755
+        },
+        "xlsx": {
+          "name": "es-fiscales-generales-del-estado_ES.xlsx",
+          "size": 7590
         }
       }
     },

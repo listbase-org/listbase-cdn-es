@@ -1,0 +1,132 @@
+{
+  "id": "es-fiscales-generales-del-estado",
+  "name": "Fiscales generales del Estado de España",
+  "title": "Fiscales generales del Estado de España",
+  "description": "Lista de fiscales generales del Estado de España desde 1978 con su mandato.",
+  "category": "law",
+  "source": "https://es.wikipedia.org/wiki/Fiscal_general_del_Estado_(España)",
+  "source_url": "https://es.wikipedia.org/wiki/Fiscal_general_del_Estado_(España)",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Juan Manuel Fanjul Sedeño",
+      "term": "13 de enero de 1978-14 de nov. de 1980"
+    },
+    {
+      "name": "José María Gil-Albert Velarde",
+      "term": "14 de noviembre de 1980-15 de diciembre de 1982"
+    },
+    {
+      "name": "Luis Antonio Burón Barba",
+      "term": "16 de diciembre de 1982-19 de septiembre de 1986"
+    },
+    {
+      "name": "Javier Moscoso del Prado",
+      "term": "19 de septiembre de 1986-26 de enero de 1990"
+    },
+    {
+      "name": "Leopoldo Torres Boursault",
+      "term": "26 de enero de 1990-10 de abril de 1992"
+    },
+    {
+      "name": "Eligio Hernández",
+      "term": "10 de abril de 1992-27 de mayo de 1994"
+    },
+    {
+      "name": "Carlos Granados",
+      "term": "3 de junio de 1994-6 de septiembre de 1996"
+    },
+    {
+      "name": "Juan Ortiz Úrculo",
+      "term": "6 de septiembre de 1996-16 de mayo de 1997"
+    },
+    {
+      "name": "Jesús Cardenal Fernández",
+      "term": "16 de mayo de 1997-23 de abril de 2004"
+    },
+    {
+      "name": "Cándido Conde-Pumpido",
+      "term": "23 de abril de 2004-19 de diciembre de 2011"
+    },
+    {
+      "name": "Eduardo Torres-Dulce",
+      "term": "30 de diciembre de 2011-19 de diciembre de 2014"
+    },
+    {
+      "name": "Luis Navajas Ramos",
+      "term": "20 de diciembre de 2014-10 de enero de 2015. (ad interim)."
+    },
+    {
+      "name": "Consuelo Madrigal",
+      "term": "10 de enero de 2015-5 de noviembre de 2016"
+    },
+    {
+      "name": "Luis Navajas Ramos",
+      "term": "5 de noviembre de 2016-26 de noviembre de 2016. (ad interim)."
+    },
+    {
+      "name": "José Manuel Maza",
+      "term": "26 de noviembre de 2016 -18 de noviembre de 2017"
+    },
+    {
+      "name": "Luis Navajas Ramos",
+      "term": "18 de noviembre de 2017-11 de diciembre de 2017. (ad interim)."
+    },
+    {
+      "name": "Julián Sánchez Melgar",
+      "term": "11 de diciembre de 2017-22 de junio de 2018"
+    },
+    {
+      "name": "Luis Navajas Ramos",
+      "term": "22 de junio de 2018-29 de junio de 2018. (ad interim)."
+    },
+    {
+      "name": "María José Segarra",
+      "term": "29 de junio de 2018-15 de enero de 2020"
+    },
+    {
+      "name": "Luis Navajas Ramos",
+      "term": "15 de enero de 2020-26 de febrero de 2020. (ad interim)."
+    },
+    {
+      "name": "Dolores Delgado García",
+      "term": "26 de febrero de 2020-20 de julio de 2022"
+    },
+    {
+      "name": "María Ángeles Sánchez Conde",
+      "term": "20 de julio de 2022-2 de agosto de 2022 (ad interim)."
+    },
+    {
+      "name": "Álvaro García Ortiz",
+      "term": "2 de agosto de 2022-10 de diciembre de 2025"
+    },
+    {
+      "name": "Teresa Peramato",
+      "term": "10 de diciembre de 2025-"
+    }
+  ],
+  "meta": {
+    "title": "Fiscales generales del Estado de España - Free Download",
+    "description": "Lista de fiscales generales del Estado de España desde 1978 con su mandato. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fiscales generales del Estado de España | ListBase",
+    "seo_description": "Download Fiscales generales del Estado de España — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Fiscal_general_del_Estado_(España)"
+    ]
+  }
+}
