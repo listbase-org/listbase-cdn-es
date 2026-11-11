@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-11T02:10:20.633Z",
-  "total_datasets": 554,
-  "total_records": 433585,
+  "generated": "2026-11-11T02:10:31.967Z",
+  "total_datasets": 555,
+  "total_records": 433625,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -2836,6 +2836,32 @@
         "xlsx": {
           "name": "es-guerras-de-espana_ES.xlsx",
           "size": 19490
+        }
+      }
+    },
+    {
+      "id": "es-reyes-de-aragon",
+      "name": "Condes y reyes de Aragón",
+      "category": "history",
+      "record_count": 40,
+      "columns": [
+        "name",
+        "start",
+        "end",
+        "dynasty",
+        "comments"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Reyes_de_Aragón",
+      "updated": "2026-11",
+      "size": 12745,
+      "files": {
+        "csv": {
+          "name": "es-reyes-de-aragon_ES.csv",
+          "size": 7646
+        },
+        "xlsx": {
+          "name": "es-reyes-de-aragon_ES.xlsx",
+          "size": 10373
         }
       }
     },

@@ -1,0 +1,331 @@
+{
+  "id": "es-reyes-de-aragon",
+  "name": "Condes y reyes de Aragón",
+  "title": "Condes y reyes de Aragón",
+  "description": "Lista de los condes y reyes de Aragón por dinastía, con inicio y fin de su reinado y comentarios.",
+  "category": "history",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Reyes_de_Aragón",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Reyes_de_Aragón",
+  "updated": "2026-11",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "number"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "number"
+    },
+    {
+      "key": "dynasty",
+      "label": "Dynasty",
+      "type": "string"
+    },
+    {
+      "key": "comments",
+      "label": "Comments",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aureolo",
+      "start": 802,
+      "end": 809,
+      "dynasty": "Condes de Aragón",
+      "comments": "Se discute si los territorios que controlaba estaban o no en lo que luego se denominó Condado de Aragón."
+    },
+    {
+      "name": "Aznar I Galíndez",
+      "start": 809,
+      "end": 820,
+      "dynasty": "Condes de Aragón",
+      "comments": "A veces mencionado como conde de Jaca. Conde de Cerdaña y de Urgel."
+    },
+    {
+      "name": "García Galíndez el Malo",
+      "start": 820,
+      "end": 833,
+      "dynasty": "Condes de Aragón",
+      "comments": ""
+    },
+    {
+      "name": "Galindo Garcés",
+      "start": 833,
+      "end": 844,
+      "dynasty": "Condes de Aragón",
+      "comments": ""
+    },
+    {
+      "name": "Galindo I Aznárez",
+      "start": 844,
+      "end": 867,
+      "dynasty": "Condes de Aragón",
+      "comments": "Conde de Urgel (830-833), Cerdaña (~830-833), Pallars (833-834) y Ribagorza (833-834)."
+    },
+    {
+      "name": "Aznar II Galíndez",
+      "start": 867,
+      "end": 893,
+      "dynasty": "Condes de Aragón",
+      "comments": "La crisis de la monarquía franca favoreció la disolución de los lazos entre los condes y los soberanos carolingios, buscando la protección de los soberanos de Pamplona, así en poco antes de 867 aparece por primera vez el rey de Pamplona encabezando un documento."
+    },
+    {
+      "name": "Galindo II Aznárez",
+      "start": 893,
+      "end": 922,
+      "dynasty": "Condes de Aragón",
+      "comments": "A pesar de la escasez de documentos a final del siglo IX, parece que la autoridad condal estaba reducida y sometida al vecino rey de Pamplona."
+    },
+    {
+      "name": "Andregoto Galíndez",
+      "start": 922,
+      "end": 943,
+      "dynasty": "Condes de Aragón",
+      "comments": "Dado que era mujer, la tutoría y el gobierno pasaron al baiulus Fortún Jiménez, y en 925, por su compromiso matrimonial, pasó su tutela a Jimeno Garcés, tutor del rey García Sánchez I de Pamplona. En 933, García Sánchez I de Pamplona, mayor de edad, asumió la tutoría de Andregoto por sí mismo. Cuando el matrimonio fue disuelto hacia 943, Andregoto, por ser mujer, no podía ejercer el gobierno del condado, que pasó a su hijo Sancho Garcés II, y ella se retiró."
+    },
+    {
+      "name": "Sancho Garcés II, Abarca",
+      "start": 943,
+      "end": 994,
+      "dynasty": "Reyes de Pamplona (Dinastía Jimena)",
+      "comments": "Fortún Jiménez volvió a ejercer el gobierno del condado (943-958) En 970, sucedió a su padre García Sánchez I de Pamplona como rey de Pamplona."
+    },
+    {
+      "name": "García Sánchez II, el Temblón",
+      "start": 994,
+      "end": 1000,
+      "dynasty": "Reyes de Pamplona (Dinastía Jimena)",
+      "comments": "Según aparece en documentos, su hermano Gonzalo Sánchez aparece ejerciendo funciones administrativas en Aragón."
+    },
+    {
+      "name": "Sancho Garcés III, el Mayor o el Grande",
+      "start": 1000,
+      "end": 1035,
+      "dynasty": "Reyes de Pamplona (Dinastía Jimena)",
+      "comments": "En vida ya había asignado como regulus en Aragón a sus hijos Ramiro y García. A su muerte, no dividió el reino, sino que lo transmitió íntegro a su primogénito legítimo García Sánchez III, mientras que su hijo Ramiro pasó a gobernar el territorio aragonés como regulus subordinado a García al que debería fidelidad."
+    },
+    {
+      "name": "Ramiro I",
+      "start": 1035,
+      "end": 1063,
+      "dynasty": "Dinastía Jimena",
+      "comments": "Por disposición testamentaria de su padre, quedaba como regulus subordinado a su hermano el rey de Navarra, y por ello no adoptó el título de rey; pero llevó una política expansiva para sacudirse la influencia navarra y ello muestra que documentos navarros de época se refieren a Ramiro como rey."
+    },
+    {
+      "name": "Sancho I",
+      "start": 1063,
+      "end": 1094,
+      "dynasty": "Dinastía Jimena",
+      "comments": "Adquirió el título de rey en 1076, cuando fue proclamado Rey de Pamplona (1076-1094)"
+    },
+    {
+      "name": "Pedro I",
+      "start": 1094,
+      "end": 1104,
+      "dynasty": "Dinastía Jimena",
+      "comments": "Rey de Pamplona (1094-1104)"
+    },
+    {
+      "name": "Alfonso I, el Batallador",
+      "start": 1104,
+      "end": 1134,
+      "dynasty": "Dinastía Jimena",
+      "comments": "Rey de Pamplona (1104-1134)"
+    },
+    {
+      "name": "Ramiro II, el Monje o el Rey Campana",
+      "start": 1134,
+      "end": "1147/1157",
+      "dynasty": "Dinastía Jimena",
+      "comments": "Renunció al reino en 1137 en favor del conde Ramón Berenguer IV de Barcelona, aunque no al título de rey."
+    },
+    {
+      "name": "Petronila I",
+      "start": "1147/1157",
+      "end": 1164,
+      "dynasty": "Dinastía Jimena",
+      "comments": "Casada con el conde Ramón Berenguer IV de Barcelona, príncipe de Aragón (1137-1162), quien realmente ostentó el gobierno."
+    },
+    {
+      "name": "Alfonso II, el Casto o el Trovador",
+      "start": 1162,
+      "end": 1196,
+      "dynasty": "Casa Real de Aragón",
+      "comments": "Unión dinástica entre el Reino de Aragón y el Condado de Barcelona. Bautizado originalmente como Ramón Berenguer. A la muerte de su padre (a sus 5 años de edad), su madre cambió el nombre a Alfonso."
+    },
+    {
+      "name": "Pedro II, el Católico",
+      "start": 1196,
+      "end": 1213,
+      "dynasty": "Casa Real de Aragón",
+      "comments": "Primer rey aragonés que fue coronado. Tras la Batalla de Muret perdió la vida y el grueso de territorios occitanos."
+    },
+    {
+      "name": "Jaime I, el Conquistador",
+      "start": 1213,
+      "end": 1276,
+      "dynasty": "Casa Real de Aragón",
+      "comments": "Regencia de Sancho I de Cerdaña (1214-1218). Firma el tratado de Corbeil, renunciando a las pérdidas occitanas de su padre para legitimar sus derechos sobre los territorios catalanes. Incorporación definitiva del Reino de Valencia. Conquista el Reino de Murcia y lo cede a Castilla. Dejó el reino de Mallorca a su hijo Jaime II."
+    },
+    {
+      "name": "Pedro III, el Grande",
+      "start": 1276,
+      "end": 1285,
+      "dynasty": "Casa Real de Aragón",
+      "comments": "Con las Vísperas sicilianas fue reconocido rey de Sicilia pero solo en la isla. Fue excomulgado y el trono ofrecido por el papa a Carlos de Valois en 1282 hasta el Tratado de Anagni. Dejó el reino de Sicilia a su hijo Jaime II."
+    },
+    {
+      "name": "Alfonso III, el Liberal o el Franco",
+      "start": 1285,
+      "end": 1291,
+      "dynasty": "Casa Real de Aragón",
+      "comments": ""
+    },
+    {
+      "name": "Jaime II, el Justo",
+      "start": 1291,
+      "end": 1327,
+      "dynasty": "Casa Real de Aragón",
+      "comments": "Rey de Sicilia (1285–1296). En 1323 comenzó la conquista de Cerdeña."
+    },
+    {
+      "name": "Alfonso IV, el Benigno",
+      "start": 1327,
+      "end": 1336,
+      "dynasty": "Casa Real de Aragón",
+      "comments": ""
+    },
+    {
+      "name": "Pedro IV, el Ceremonioso o el del Punyalet",
+      "start": 1336,
+      "end": 1387,
+      "dynasty": "Casa Real de Aragón",
+      "comments": "Unión definitiva del reino de Mallorca en 1344. Se comenzó la conquista de Córcega en 1372. Duque de Atenas y Neopatria desde 1381. Firmaba como Pere Terç (Pedro Tercero)."
+    },
+    {
+      "name": "Juan I, el Cazador o el Amador de Toda Gentileza",
+      "start": 1387,
+      "end": 1396,
+      "dynasty": "Casa Real de Aragón",
+      "comments": "Perdió los ducados de Atenas y Neopatria."
+    },
+    {
+      "name": "Martín I, el Humano o el Viejo",
+      "start": 1396,
+      "end": 1410,
+      "dynasty": "Casa Real de Aragón",
+      "comments": "Rey de Sicilia desde 1409."
+    },
+    {
+      "name": "Interregno (1410-1412) que se termina con el Compromiso de Caspe.",
+      "start": "Interregno (1410-1412) que se termina con el Compromiso de Caspe.",
+      "end": "Interregno (1410-1412) que se termina con el Compromiso de Caspe.",
+      "dynasty": "Casa Real de Aragón",
+      "comments": "Interregno (1410-1412) que se termina con el Compromiso de Caspe."
+    },
+    {
+      "name": "Fernando I, de Trastámara o de Antequera, el Justo o el Honesto",
+      "start": 1412,
+      "end": 1416,
+      "dynasty": "Casa de Trastámara",
+      "comments": "Unión definitiva de Sicilia."
+    },
+    {
+      "name": "Alfonso V, el Magnánimo o el Sabio",
+      "start": 1416,
+      "end": 1458,
+      "dynasty": "Casa de Trastámara",
+      "comments": "En 1420 completó la conquista de Cerdeña, pero en 1455 fracasó en la conquista de Córcega. Conquistó el reino de Nápoles que lo cedió a su muerte a su hijo Ferrante."
+    },
+    {
+      "name": "Juan II, el Grande o Juan sin Fe",
+      "start": 1458,
+      "end": 1479,
+      "dynasty": "Casa de Trastámara",
+      "comments": "Rey de Navarra (1425-1479)."
+    },
+    {
+      "name": "Condestable Pedro de Portugal",
+      "start": 1464,
+      "end": 1466,
+      "dynasty": "Casa de Trastámara",
+      "comments": "Proclamado y reconocido en Cataluña Titulado rey de Aragón, rival y en guerra contra Juan II de Aragón."
+    },
+    {
+      "name": "Renato de Anjou",
+      "start": 1466,
+      "end": 1472,
+      "dynasty": "Casa de Trastámara",
+      "comments": "Proclamado y reconocido en Cataluña. Titulado rey de Aragón, rival y en guerra contra Juan II de Aragón."
+    },
+    {
+      "name": "Fernando II, el Católico",
+      "start": 1479,
+      "end": 1516,
+      "dynasty": "Casa de Trastámara",
+      "comments": "Rey de Sicilia (1468-1516) Recibido como regalo de bodas, al casarse con Isabel la Católica. Rey de Castilla (1475-1504). Rey de Navarra (1513-1515). Unión definitiva del reino de Nápoles en 1504."
+    },
+    {
+      "name": "Juana I, la Loca",
+      "start": 1516,
+      "end": 1555,
+      "dynasty": "Casa de Trastámara",
+      "comments": "Reina de Castilla (1504-1555). Aunque compartió el título real con su hijo Carlos, fue simplemente reina de forma nominal, pues estaba encerrada en Tordesillas."
+    },
+    {
+      "name": "Carlos I de Aragón, el Emperador o el César",
+      "start": 1516,
+      "end": 1556,
+      "dynasty": "Casa de Austria (Habsburgo)",
+      "comments": "Emperador del Sacro Imperio (1519-1558)."
+    },
+    {
+      "name": "Felipe I de Aragón, el Prudente",
+      "start": 1556,
+      "end": 1598,
+      "dynasty": "Casa de Austria (Habsburgo)",
+      "comments": ""
+    },
+    {
+      "name": "Felipe II de Aragón, el Piadoso",
+      "start": 1598,
+      "end": 1621,
+      "dynasty": "Casa de Austria (Habsburgo)",
+      "comments": ""
+    },
+    {
+      "name": "Felipe III de Aragón, el Grande o el Rey Planeta",
+      "start": 1621,
+      "end": 1665,
+      "dynasty": "Casa de Austria (Habsburgo)",
+      "comments": ""
+    },
+    {
+      "name": "Carlos II de Aragón, el Hechizado",
+      "start": 1665,
+      "end": 1700,
+      "dynasty": "Casa de Austria (Habsburgo)",
+      "comments": "Sólo hizo un viaje en su vida para jurar los Fueros de Aragón en Zaragoza, y poder proclamarse Rey de Aragón y su Corona."
+    }
+  ],
+  "meta": {
+    "title": "Condes y reyes de Aragón - Free Download",
+    "description": "Lista de los condes y reyes de Aragón por dinastía, con inicio y fin de su reinado y comentarios. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Condes y reyes de Aragón | ListBase",
+    "seo_description": "Download Condes y reyes de Aragón — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Reyes_de_Aragón"
+    ]
+  }
+}
