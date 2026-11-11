@@ -1,0 +1,533 @@
+{
+  "id": "es-legislaturas-provinciales-argentina",
+  "name": "Legislaturas provinciales de Argentina",
+  "title": "Legislaturas provinciales de Argentina",
+  "description": "Cámaras legislativas de las provincias argentinas: número de escaños, mandato, renovación, sistema electoral y piso electoral.",
+  "category": "politics",
+  "source": "https://es.wikipedia.org/wiki/Provincias_de_Argentina",
+  "source_url": "https://es.wikipedia.org/wiki/Provincias_de_Argentina",
+  "updated": "2026-11",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "legislature",
+      "label": "Legislature",
+      "type": "string"
+    },
+    {
+      "key": "chamber_level",
+      "label": "Chamber Level",
+      "type": "string"
+    },
+    {
+      "key": "seats",
+      "label": "Seats",
+      "type": "number"
+    },
+    {
+      "key": "term_years",
+      "label": "Term Years",
+      "type": "number"
+    },
+    {
+      "key": "renewal",
+      "label": "Renewal",
+      "type": "string"
+    },
+    {
+      "key": "electoral_system",
+      "label": "Electoral System",
+      "type": "string"
+    },
+    {
+      "key": "electoral_district",
+      "label": "Electoral District",
+      "type": "string"
+    },
+    {
+      "key": "threshold",
+      "label": "Threshold",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "province": "Buenos Aires",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Baja",
+      "seats": 92,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "8 secciones electorales",
+      "threshold": "Cociente Hare"
+    },
+    {
+      "province": "Buenos Aires",
+      "legislature": "Senado",
+      "chamber_level": "Alta",
+      "seats": 46,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "8 secciones electorales",
+      "threshold": "Cociente Hare"
+    },
+    {
+      "province": "Ciudad de Buenos Aires",
+      "legislature": "Legislatura",
+      "chamber_level": "Unicameral",
+      "seats": 60,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "Ciudad",
+      "threshold": "3 % de votos válidos"
+    },
+    {
+      "province": "Catamarca",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Baja",
+      "seats": 41,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "3 % del padrón"
+    },
+    {
+      "province": "Catamarca",
+      "legislature": "Cámara de Senadores",
+      "chamber_level": "Alta",
+      "seats": 16,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "Escrutinio mayoritario uninominal",
+      "electoral_district": "Departamentos",
+      "threshold": "Ninguno"
+    },
+    {
+      "province": "Chaco",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Unicameral",
+      "seats": 32,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "Ninguno"
+    },
+    {
+      "province": "Chubut",
+      "legislature": "Legislatura",
+      "chamber_level": "Unicameral",
+      "seats": 27,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "16: Bonificación a la mayoría 11: Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "3 % del padrón"
+    },
+    {
+      "province": "Córdoba",
+      "legislature": "Legislatura",
+      "chamber_level": "Unicameral",
+      "seats": 70,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "Voto paralelo:",
+      "electoral_district": "Voto paralelo:",
+      "threshold": "Voto paralelo:"
+    },
+    {
+      "province": "Córdoba",
+      "legislature": "Legislatura",
+      "chamber_level": "Unicameral",
+      "seats": 70,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "44: Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "Ninguno"
+    },
+    {
+      "province": "Córdoba",
+      "legislature": "Legislatura",
+      "chamber_level": "Unicameral",
+      "seats": 70,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "26: Escrutinio mayoritario uninominal",
+      "electoral_district": "Departamentos",
+      "threshold": "Ninguno"
+    },
+    {
+      "province": "Corrientes",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Baja",
+      "seats": 30,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "3 % del padrón"
+    },
+    {
+      "province": "Corrientes",
+      "legislature": "Cámara de Senadores",
+      "chamber_level": "Alta",
+      "seats": 15,
+      "term_years": 6,
+      "renewal": "Por tercios cada 2 años",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "3 % del padrón"
+    },
+    {
+      "province": "Entre Ríos",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Baja",
+      "seats": 34,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "18: Bonificación a la mayoría 16: Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "Cociente Hare"
+    },
+    {
+      "province": "Entre Ríos",
+      "legislature": "Cámara de Senadores",
+      "chamber_level": "Alta",
+      "seats": 17,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "Escrutinio mayoritario uninominal",
+      "electoral_district": "Departamentos",
+      "threshold": "Ninguno"
+    },
+    {
+      "province": "Formosa",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Unicameral",
+      "seats": 30,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "Lista incompleta con doble voto simultáneo: 2/3 de bancas para el partido más votado 1/3 de bancas para el segundo partido más votado",
+      "electoral_district": "Provincia",
+      "threshold": "Ninguno"
+    },
+    {
+      "province": "Jujuy",
+      "legislature": "Legislatura",
+      "chamber_level": "Unicameral",
+      "seats": 48,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "5 % del padrón"
+    },
+    {
+      "province": "La Pampa",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Unicameral",
+      "seats": 30,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "3 % del padrón"
+    },
+    {
+      "province": "La Rioja",
+      "legislature": "Legislatura",
+      "chamber_level": "Unicameral",
+      "seats": 36,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "24: Representación proporcional",
+      "electoral_district": "Departamentos",
+      "threshold": "3 % del padrón"
+    },
+    {
+      "province": "La Rioja",
+      "legislature": "Legislatura",
+      "chamber_level": "Unicameral",
+      "seats": 36,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "12: Escrutinio mayoritario uninominal",
+      "electoral_district": "Departamentos",
+      "threshold": "3 % del padrón"
+    },
+    {
+      "province": "Mendoza",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Baja",
+      "seats": 48,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "4 secciones electorales",
+      "threshold": "3 % del padrón"
+    },
+    {
+      "province": "Mendoza",
+      "legislature": "Cámara de Senadores",
+      "chamber_level": "Alta",
+      "seats": 38,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "4 secciones electorales",
+      "threshold": "3 % del padrón"
+    },
+    {
+      "province": "Misiones",
+      "legislature": "Cámara de Representantes",
+      "chamber_level": "Unicameral",
+      "seats": 40,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "Ninguno"
+    },
+    {
+      "province": "Neuquén",
+      "legislature": "Legislatura",
+      "chamber_level": "Unicameral",
+      "seats": 35,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "3 % de votos válidos"
+    },
+    {
+      "province": "Río Negro",
+      "legislature": "Legislatura",
+      "chamber_level": "Unicameral",
+      "seats": 46,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "Voto paralelo:",
+      "electoral_district": "Voto paralelo:",
+      "threshold": "Voto paralelo:"
+    },
+    {
+      "province": "Río Negro",
+      "legislature": "Legislatura",
+      "chamber_level": "Unicameral",
+      "seats": 46,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "22: Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "5 % de votos válidos"
+    },
+    {
+      "province": "Río Negro",
+      "legislature": "Legislatura",
+      "chamber_level": "Unicameral",
+      "seats": 46,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "24: Representación proporcional",
+      "electoral_district": "8 circuitos electorales",
+      "threshold": "5 % de votos válidos"
+    },
+    {
+      "province": "Salta",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Baja",
+      "seats": 60,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "47: Representación proporcional",
+      "electoral_district": "Departamentos",
+      "threshold": "Ninguno"
+    },
+    {
+      "province": "Salta",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Baja",
+      "seats": 60,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "13: Escrutinio mayoritario uninominal",
+      "electoral_district": "Departamentos",
+      "threshold": "Ninguno"
+    },
+    {
+      "province": "Salta",
+      "legislature": "Cámara de Senadores",
+      "chamber_level": "Alta",
+      "seats": 23,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "Escrutinio mayoritario uninominal",
+      "electoral_district": "Departamentos",
+      "threshold": "Ninguno"
+    },
+    {
+      "province": "San Juan",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Unicameral",
+      "seats": 36,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "Voto paralelo:",
+      "electoral_district": "Voto paralelo:",
+      "threshold": "Voto paralelo:"
+    },
+    {
+      "province": "San Juan",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Unicameral",
+      "seats": 36,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "17: Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "3% de votos válidos"
+    },
+    {
+      "province": "San Juan",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Unicameral",
+      "seats": 36,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "19: Escrutinio mayoritario uninominal",
+      "electoral_district": "Departamentos",
+      "threshold": "Ninguno"
+    },
+    {
+      "province": "San Luis",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Baja",
+      "seats": 43,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "Departamentos",
+      "threshold": "3 % del padrón"
+    },
+    {
+      "province": "San Luis",
+      "legislature": "Cámara de Senadores",
+      "chamber_level": "Alta",
+      "seats": 9,
+      "term_years": 4,
+      "renewal": "Por mitades cada 2 años",
+      "electoral_system": "Escrutinio mayoritario uninominal",
+      "electoral_district": "Departamentos",
+      "threshold": "Ninguno"
+    },
+    {
+      "province": "Santa Cruz",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Unicameral",
+      "seats": 24,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "Voto paralelo:",
+      "electoral_district": "Voto paralelo:",
+      "threshold": "Voto paralelo:"
+    },
+    {
+      "province": "Santa Cruz",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Unicameral",
+      "seats": 24,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "10: Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "3 % del padrón"
+    },
+    {
+      "province": "Santa Cruz",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Unicameral",
+      "seats": 24,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "14: Escrutinio mayoritario uninominal",
+      "electoral_district": "Municipios",
+      "threshold": "3 % del padrón"
+    },
+    {
+      "province": "Santa Fe",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Baja",
+      "seats": 50,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "3 % de votos válidos"
+    },
+    {
+      "province": "Santa Fe",
+      "legislature": "Cámara de Senadores",
+      "chamber_level": "Alta",
+      "seats": 19,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "Escrutinio mayoritario uninominal",
+      "electoral_district": "Departamentos",
+      "threshold": "Ninguno"
+    },
+    {
+      "province": "Santiago del Estero",
+      "legislature": "Cámara de Diputados",
+      "chamber_level": "Unicameral",
+      "seats": 40,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "2 % de votos válidos"
+    },
+    {
+      "province": "Tierra del Fuego",
+      "legislature": "Legislatura",
+      "chamber_level": "Unicameral",
+      "seats": 15,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "Provincia",
+      "threshold": "5 % de votos válidos"
+    },
+    {
+      "province": "Tucumán",
+      "legislature": "Legislatura",
+      "chamber_level": "Unicameral",
+      "seats": 49,
+      "term_years": 4,
+      "renewal": "Completa",
+      "electoral_system": "Representación proporcional",
+      "electoral_district": "3 secciones electorales",
+      "threshold": "Ninguno"
+    }
+  ],
+  "meta": {
+    "title": "Legislaturas provinciales de Argentina - Free Download",
+    "description": "Cámaras legislativas de las provincias argentinas: número de escaños, mandato, renovación, sistema electoral y piso electoral. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Legislaturas provinciales de Argentina | ListBase",
+    "seo_description": "Download Legislaturas provinciales de Argentina — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Provincias_de_Argentina"
+    ]
+  }
+}

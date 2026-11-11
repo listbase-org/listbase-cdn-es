@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-11T02:09:53.507Z",
-  "total_datasets": 551,
-  "total_records": 433477,
+  "generated": "2026-11-11T02:10:02.780Z",
+  "total_datasets": 552,
+  "total_records": 433519,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -3385,6 +3385,36 @@
         "xlsx": {
           "name": "es-sencillos-numero-uno-espana-2023-2025_ES.xlsx",
           "size": 12842
+        }
+      }
+    },
+    {
+      "id": "es-legislaturas-provinciales-argentina",
+      "name": "Legislaturas provinciales de Argentina",
+      "category": "politics",
+      "record_count": 42,
+      "columns": [
+        "province",
+        "legislature",
+        "chamber_level",
+        "seats",
+        "term_years",
+        "renewal",
+        "electoral_system",
+        "electoral_district",
+        "threshold"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Provincias_de_Argentina",
+      "updated": "2026-11",
+      "size": 16482,
+      "files": {
+        "csv": {
+          "name": "es-legislaturas-provinciales-argentina_ES.csv",
+          "size": 5926
+        },
+        "xlsx": {
+          "name": "es-legislaturas-provinciales-argentina_ES.xlsx",
+          "size": 8982
         }
       }
     },
