@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-11T02:10:02.780Z",
-  "total_datasets": 552,
-  "total_records": 433519,
+  "generated": "2026-11-11T02:10:11.531Z",
+  "total_datasets": 553,
+  "total_records": 433562,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -3499,6 +3499,36 @@
         "xlsx": {
           "name": "es-presidentes-de-chile_ES.xlsx",
           "size": 10910
+        }
+      }
+    },
+    {
+      "id": "es-presidentes-de-colombia",
+      "name": "Presidentes de la República de Colombia (desde 1886)",
+      "category": "politics",
+      "record_count": 43,
+      "columns": [
+        "no",
+        "name",
+        "life",
+        "term_start",
+        "term_end",
+        "duration",
+        "party",
+        "election",
+        "vice_president"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Presidentes_de_Colombia",
+      "updated": "2026-11",
+      "size": 16407,
+      "files": {
+        "csv": {
+          "name": "es-presidentes-de-colombia_ES.csv",
+          "size": 6994
+        },
+        "xlsx": {
+          "name": "es-presidentes-de-colombia_ES.xlsx",
+          "size": 10042
         }
       }
     },

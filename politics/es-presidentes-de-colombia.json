@@ -1,0 +1,544 @@
+{
+  "id": "es-presidentes-de-colombia",
+  "name": "Presidentes de la República de Colombia (desde 1886)",
+  "title": "Presidentes de la República de Colombia (desde 1886)",
+  "description": "Lista de presidentes de la República de Colombia desde 1886 con periodo, duración, partido, elección y vicepresidente.",
+  "category": "politics",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Presidentes_de_Colombia",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Presidentes_de_Colombia",
+  "updated": "2026-11",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "life",
+      "label": "Life",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "duration",
+      "label": "Duration",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "election",
+      "label": "Election",
+      "type": "string"
+    },
+    {
+      "key": "vice_president",
+      "label": "Vice President",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "José María Campo Serrano",
+      "life": "1838-1915",
+      "term_start": "5 de agosto de 1886",
+      "term_end": "7 de enero de 1887",
+      "duration": "5 meses y 2 días",
+      "party": "Partido Nacional Colombiano",
+      "election": "Sucesión presidencial",
+      "vice_president": "Vacante"
+    },
+    {
+      "no": 2,
+      "name": "Eliseo Payán",
+      "life": "1825-1895",
+      "term_start": "7 de enero de 1887",
+      "term_end": "4 de junio de 1887",
+      "duration": "4 meses y 28 días",
+      "party": "Partido Nacional Colombiano",
+      "election": "Sucesión presidencial",
+      "vice_president": "Vacante"
+    },
+    {
+      "no": 3,
+      "name": "Rafael Núñez",
+      "life": "1825-1894",
+      "term_start": "4 de junio de 1887",
+      "term_end": "7 de agosto de 1888",
+      "duration": "1 año, 2 meses y 3 días",
+      "party": "Partido Nacional Colombiano",
+      "election": "1884",
+      "vice_president": "Carlos Holguín Mallarino"
+    },
+    {
+      "no": 4,
+      "name": "Carlos Holguín Mallarino",
+      "life": "1832-1894",
+      "term_start": "7 de agosto de 1888",
+      "term_end": "7 de agosto de 1892",
+      "duration": "4 años",
+      "party": "Partido Nacional Colombiano",
+      "election": "Sucesión presidencial",
+      "vice_president": "Vacante"
+    },
+    {
+      "no": 5,
+      "name": "Rafael Núñez",
+      "life": "1825-1894",
+      "term_start": "7 de agosto de 1892",
+      "term_end": "18 de septiembre de 1894",
+      "duration": "2 años, 1 mes y 11 días",
+      "party": "Partido Nacional Colombiano",
+      "election": "1892",
+      "vice_president": "Miguel Antonio Caro"
+    },
+    {
+      "no": 6,
+      "name": "Miguel Antonio Caro",
+      "life": "1843-1909",
+      "term_start": "18 de septiembre de 1894",
+      "term_end": "7 de agosto de 1898",
+      "duration": "3 años, 10 meses y 19 días",
+      "party": "Partido Nacional Colombiano",
+      "election": "Sucesión presidencial",
+      "vice_president": "Vacante"
+    },
+    {
+      "no": 7,
+      "name": "Manuel Antonio Sanclemente",
+      "life": "1813-1902",
+      "term_start": "7 de agosto de 1898",
+      "term_end": "31 de julio de 1900",
+      "duration": "1 año, 11 meses y 24 días",
+      "party": "Partido Nacional Colombiano",
+      "election": "1898",
+      "vice_president": "José Manuel Marroquín"
+    },
+    {
+      "no": 8,
+      "name": "José Manuel Marroquín",
+      "life": "1827-1908",
+      "term_start": "31 de julio de 1900",
+      "term_end": "7 de agosto de 1904",
+      "duration": "4 años y 7 días",
+      "party": "Partido Conservador Colombiano",
+      "election": "Golpe de Estado",
+      "vice_president": "Vacante"
+    },
+    {
+      "no": 9,
+      "name": "Rafael Reyes Prieto",
+      "life": "1849-1921",
+      "term_start": "7 de agosto de 1904",
+      "term_end": "9 de junio de 1909",
+      "duration": "4 años, 10 meses y 2 días",
+      "party": "Partido Conservador Colombiano",
+      "election": "1904",
+      "vice_president": "Ramón González Valencia Vacante"
+    },
+    {
+      "no": 10,
+      "name": "Jorge Holguín",
+      "life": "1848-1928",
+      "term_start": "9 de junio de 1909",
+      "term_end": "4 de agosto de 1909",
+      "duration": "1 mes y 25 días",
+      "party": "Partido Conservador Colombiano",
+      "election": "Sucesión presidencial",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 11,
+      "name": "Ramón González Valencia",
+      "life": "1851-1928",
+      "term_start": "4 de agosto de 1909",
+      "term_end": "7 de agosto de 1910",
+      "duration": "1 año y 3 días",
+      "party": "Partido Conservador Colombiano",
+      "election": "1909",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 12,
+      "name": "Carlos Eugenio Restrepo",
+      "life": "1867-1937",
+      "term_start": "7 de agosto de 1910",
+      "term_end": "7 de agosto de 1914",
+      "duration": "4 años",
+      "party": "Partido Conservador Colombiano",
+      "election": "1910",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 13,
+      "name": "José Vicente Concha",
+      "life": "1867-1929",
+      "term_start": "7 de agosto de 1914",
+      "term_end": "7 de agosto de 1918",
+      "duration": "4 años",
+      "party": "Partido Conservador Colombiano",
+      "election": "1914",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 14,
+      "name": "Marco Fidel Suárez",
+      "life": "1855-1927",
+      "term_start": "7 de agosto de 1918",
+      "term_end": "11 de noviembre de 1921",
+      "duration": "3 años, 3 meses y 4 días",
+      "party": "Partido Conservador Colombiano",
+      "election": "1918",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 15,
+      "name": "Jorge Holguín",
+      "life": "1848-1928",
+      "term_start": "11 de noviembre de 1921",
+      "term_end": "7 de agosto de 1922",
+      "duration": "8 meses y 26 días",
+      "party": "Partido Conservador Colombiano",
+      "election": "Sucesión presidencial",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 16,
+      "name": "Pedro Nel Ospina",
+      "life": "1858-1927",
+      "term_start": "7 de agosto de 1922",
+      "term_end": "7 de agosto de 1926",
+      "duration": "4 años",
+      "party": "Partido Conservador Colombiano",
+      "election": "1922",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 17,
+      "name": "Miguel Abadía Méndez",
+      "life": "1867-1947",
+      "term_start": "7 de agosto de 1926",
+      "term_end": "7 de agosto de 1930",
+      "duration": "4 años",
+      "party": "Partido Conservador Colombiano",
+      "election": "1926",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 18,
+      "name": "Enrique Olaya Herrera",
+      "life": "1880-1937",
+      "term_start": "7 de agosto de 1930",
+      "term_end": "7 de agosto de 1934",
+      "duration": "4 años",
+      "party": "Partido Liberal Colombiano",
+      "election": "1930",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 19,
+      "name": "Alfonso López Pumarejo",
+      "life": "1906-1990",
+      "term_start": "7 de agosto de 1934",
+      "term_end": "7 de agosto de 1938",
+      "duration": "4 años",
+      "party": "Partido Liberal Colombiano",
+      "election": "1934",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 20,
+      "name": "Eduardo Santos Montejo",
+      "life": "1888-1974",
+      "term_start": "7 de agosto de 1938",
+      "term_end": "7 de agosto de 1942",
+      "duration": "4 años",
+      "party": "Partido Liberal Colombiano",
+      "election": "1938",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 21,
+      "name": "Alfonso López Pumarejo",
+      "life": "1886-1959",
+      "term_start": "7 de agosto de 1942",
+      "term_end": "7 de agosto de 1945",
+      "duration": "3 años",
+      "party": "Partido Liberal Colombiano",
+      "election": "1942",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 22,
+      "name": "Alberto Lleras Camargo",
+      "life": "1906-1990",
+      "term_start": "7 de agosto de 1945",
+      "term_end": "7 de agosto de 1946",
+      "duration": "1 año",
+      "party": "Partido Liberal Colombiano",
+      "election": "Sucesión presidencial",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 23,
+      "name": "Mariano Ospina Pérez",
+      "life": "1891-1976",
+      "term_start": "7 de agosto de 1946",
+      "term_end": "7 de agosto de 1950",
+      "duration": "4 años",
+      "party": "Partido Conservador Colombiano",
+      "election": "1946",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 24,
+      "name": "Laureano Gómez",
+      "life": "1889-1965",
+      "term_start": "7 de agosto de 1950",
+      "term_end": "5 de noviembre de 1951",
+      "duration": "1 año, 2 meses y 29 días",
+      "party": "Partido Conservador Colombiano",
+      "election": "1950",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 25,
+      "name": "Roberto Urdaneta",
+      "life": "1890-1972",
+      "term_start": "5 de noviembre de 1951",
+      "term_end": "14 de junio de 1953",
+      "duration": "1 año, 7 meses y 9 días",
+      "party": "Partido Conservador Colombiano",
+      "election": "Sucesión presidencial",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 26,
+      "name": "Gustavo Rojas Pinilla",
+      "life": "1900-1975",
+      "term_start": "14 de junio de 1953",
+      "term_end": "10 de mayo de 1957",
+      "duration": "3 años, 10 meses y 26 días",
+      "party": "Fuerzas Militares de Colombia",
+      "election": "Golpe de Estado",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 27,
+      "name": "Junta Militar de Gobierno",
+      "life": "",
+      "term_start": "10 de mayo de 1957",
+      "term_end": "7 de agosto de 1958",
+      "duration": "1 año, 2 meses y 28 días",
+      "party": "Fuerzas Militares de Colombia",
+      "election": "Renuncia del titular",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 28,
+      "name": "Alberto Lleras Camargo",
+      "life": "1906-1990",
+      "term_start": "7 de agosto de 1958",
+      "term_end": "7 de agosto de 1962",
+      "duration": "4 años",
+      "party": "Partido Liberal Colombiano",
+      "election": "1958",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 29,
+      "name": "Guillermo León Valencia",
+      "life": "1909-1971",
+      "term_start": "7 de agosto de 1962",
+      "term_end": "7 de agosto de 1966",
+      "duration": "4 años",
+      "party": "Partido Conservador Colombiano",
+      "election": "1962",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 30,
+      "name": "Carlos Lleras Restrepo",
+      "life": "1908-1994",
+      "term_start": "7 de agosto de 1966",
+      "term_end": "7 de agosto de 1970",
+      "duration": "4 años",
+      "party": "Partido Liberal Colombiano",
+      "election": "1966",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 31,
+      "name": "Misael Pastrana",
+      "life": "1923-1997",
+      "term_start": "7 de agosto de 1970",
+      "term_end": "7 de agosto de 1974",
+      "duration": "4 años",
+      "party": "Partido Conservador Colombiano",
+      "election": "1970",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 32,
+      "name": "Alfonso López Michelsen",
+      "life": "1913-2007",
+      "term_start": "7 de agosto de 1974",
+      "term_end": "7 de agosto de 1978",
+      "duration": "4 años",
+      "party": "Partido Liberal Colombiano",
+      "election": "1974",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 33,
+      "name": "Julio César Turbay",
+      "life": "1916-2005",
+      "term_start": "7 de agosto de 1978",
+      "term_end": "7 de agosto de 1982",
+      "duration": "4 años",
+      "party": "Partido Liberal Colombiano",
+      "election": "1978",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 34,
+      "name": "Belisario Betancur",
+      "life": "1923-2018",
+      "term_start": "7 de agosto de 1982",
+      "term_end": "7 de agosto de 1986",
+      "duration": "4 años",
+      "party": "Partido Conservador Colombiano",
+      "election": "1982",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 35,
+      "name": "Virgilio Barco",
+      "life": "1921-1997",
+      "term_start": "7 de agosto de 1986",
+      "term_end": "7 de agosto de 1990",
+      "duration": "4 años",
+      "party": "Partido Liberal Colombiano",
+      "election": "1986",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 36,
+      "name": "César Gaviria",
+      "life": "n. 1947",
+      "term_start": "7 de agosto de 1990",
+      "term_end": "7 de agosto de 1994",
+      "duration": "4 años",
+      "party": "Partido Liberal Colombiano",
+      "election": "1990",
+      "vice_president": "Cargo disuelto"
+    },
+    {
+      "no": 37,
+      "name": "Ernesto Samper",
+      "life": "n. 1950",
+      "term_start": "7 de agosto de 1994",
+      "term_end": "7 de agosto de 1998",
+      "duration": "4 años",
+      "party": "Partido Liberal Colombiano",
+      "election": "1994",
+      "vice_president": "Humberto de la Calle Carlos Lemos Simmonds"
+    },
+    {
+      "no": 38,
+      "name": "Andrés Pastrana",
+      "life": "n. 1954",
+      "term_start": "7 de agosto de 1998",
+      "term_end": "7 de agosto de 2002",
+      "duration": "4 años",
+      "party": "Partido Conservador Colombiano",
+      "election": "1998",
+      "vice_president": "Gustavo Bell"
+    },
+    {
+      "no": 39,
+      "name": "Álvaro Uribe",
+      "life": "n. 1952",
+      "term_start": "7 de agosto de 2002",
+      "term_end": "7 de agosto de 2010",
+      "duration": "8 años",
+      "party": "Movimiento Primero Colombia",
+      "election": "2002 2006",
+      "vice_president": "Francisco Santos"
+    },
+    {
+      "no": 40,
+      "name": "Juan Manuel Santos",
+      "life": "n. 1951",
+      "term_start": "7 de agosto de 2010",
+      "term_end": "7 de agosto de 2018",
+      "duration": "8 años",
+      "party": "Partido Social de Unidad Nacional",
+      "election": "2010 2014",
+      "vice_president": "Angelino Garzón Germán Vargas Lleras Gral. Óscar Naranjo"
+    },
+    {
+      "no": 41,
+      "name": "Iván Duque",
+      "life": "n. 1976",
+      "term_start": "7 de agosto de 2018",
+      "term_end": "7 de agosto de 2022",
+      "duration": "4 años",
+      "party": "Partido Centro Democrático",
+      "election": "2018",
+      "vice_president": "Marta Lucía Ramírez"
+    },
+    {
+      "no": 42,
+      "name": "Gustavo Petro",
+      "life": "n. 1960",
+      "term_start": "7 de agosto de 2022",
+      "term_end": "7 de agosto de 2026",
+      "duration": "4 años",
+      "party": "Partido Pacto Histórico",
+      "election": "2022",
+      "vice_president": "Francia Márquez"
+    },
+    {
+      "no": 43,
+      "name": "Abelardo de la Espriella",
+      "life": "n. 1978",
+      "term_start": "7 de agosto de 2026",
+      "term_end": "En el cargo",
+      "duration": "3 meses y 4 días",
+      "party": "Partido Defensores de la Patria",
+      "election": "2026",
+      "vice_president": "José Manuel Restrepo"
+    }
+  ],
+  "meta": {
+    "title": "Presidentes de la República de Colombia (desde 1886) - Free Download",
+    "description": "Lista de presidentes de la República de Colombia desde 1886 con periodo, duración, partido, elección y vicepresidente. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidentes de la República de Colombia (desde 1886) | ListBase",
+    "seo_description": "Download Presidentes de la República de Colombia (desde 1886) — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Presidentes_de_Colombia"
+    ]
+  }
+}
