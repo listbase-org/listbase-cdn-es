@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-12T02:21:47.545Z",
-  "total_datasets": 557,
-  "total_records": 433730,
+  "generated": "2026-11-12T02:21:59.773Z",
+  "total_datasets": 558,
+  "total_records": 433789,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "economy",
@@ -342,6 +342,31 @@
         "xlsx": {
           "name": "es-premio-cervantes_ES.xlsx",
           "size": 7945
+        }
+      }
+    },
+    {
+      "id": "es-premio-nacional-literatura-chile",
+      "name": "Premio Nacional de Literatura de Chile — galardonados",
+      "category": "culture",
+      "record_count": 59,
+      "columns": [
+        "ano",
+        "escritor",
+        "especialidad",
+        "principales_obras"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Premio_Nacional_de_Literatura_de_Chile",
+      "updated": "2026-11",
+      "size": 14330,
+      "files": {
+        "csv": {
+          "name": "es-premio-nacional-literatura-chile_ES.csv",
+          "size": 7088
+        },
+        "xlsx": {
+          "name": "es-premio-nacional-literatura-chile_ES.xlsx",
+          "size": 11058
         }
       }
     },

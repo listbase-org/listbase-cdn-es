@@ -1,0 +1,400 @@
+{
+  "id": "es-premio-nacional-literatura-chile",
+  "name": "Premio Nacional de Literatura de Chile — galardonados",
+  "title": "Premio Nacional de Literatura de Chile — galardonados",
+  "description": "Escritores galardonados con el Premio Nacional de Literatura de Chile desde 1942, con su especialidad y principales obras.",
+  "category": "culture",
+  "source": "https://es.wikipedia.org/wiki/Premio_Nacional_de_Literatura_de_Chile",
+  "source_url": "https://es.wikipedia.org/wiki/Premio_Nacional_de_Literatura_de_Chile",
+  "updated": "2026-11",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "escritor",
+      "label": "Escritor",
+      "type": "string"
+    },
+    {
+      "key": "especialidad",
+      "label": "Especialidad",
+      "type": "string"
+    },
+    {
+      "key": "principales_obras",
+      "label": "Principales Obras",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ano": 1942,
+      "escritor": "Augusto d'Halmar (1882-1950)",
+      "especialidad": "Novelista y cuentista",
+      "principales_obras": "Juana Lucero (1902) Pasión y muerte del cura Deusto (1924)"
+    },
+    {
+      "ano": 1943,
+      "escritor": "Joaquín Edwards Bello (1887-1968)",
+      "especialidad": "Novelista y cronista",
+      "principales_obras": "El Roto (1920) El chileno en Madrid (1928)"
+    },
+    {
+      "ano": 1944,
+      "escritor": "Mariano Latorre (1886-1955)",
+      "especialidad": "Novelista y cuentista",
+      "principales_obras": "Zurzulita (1920) On Panta (1935)"
+    },
+    {
+      "ano": 1945,
+      "escritor": "Pablo Neruda (1904-1973)",
+      "especialidad": "Poeta",
+      "principales_obras": "Veinte poemas de amor y una canción desesperada (1924) Residencia en la Tierra (1931-35) Canto general (1950)"
+    },
+    {
+      "ano": 1946,
+      "escritor": "Eduardo Barrios (1884-1963)",
+      "especialidad": "Cuentista, dramaturgo y novelista",
+      "principales_obras": "El niño que enloqueció de amor (1915) El hermano asno (1922)"
+    },
+    {
+      "ano": 1947,
+      "escritor": "Samuel Lillo (1870-1958)",
+      "especialidad": "Poeta y novelista",
+      "principales_obras": "Poesías (1900) Canciones de Arauco (1908)"
+    },
+    {
+      "ano": 1948,
+      "escritor": "Ángel Cruchaga Santa María (1893-1964)",
+      "especialidad": "Poeta y cronista",
+      "principales_obras": "Job (1922) Afán del corazón (1933)"
+    },
+    {
+      "ano": 1949,
+      "escritor": "Pedro Prado (1886-1952)",
+      "especialidad": "Poeta, ensayista y novelista",
+      "principales_obras": "Los pájaros errantes (1915) Alsino (1920)"
+    },
+    {
+      "ano": 1950,
+      "escritor": "José Santos González Vera (1897-1970)",
+      "especialidad": "Novelista",
+      "principales_obras": "Vidas mínimas (1923) Alhué (1928)"
+    },
+    {
+      "ano": 1951,
+      "escritor": "Gabriela Mistral (1889-1957)",
+      "especialidad": "Poeta",
+      "principales_obras": "Desolación (1922) Tala (1938)"
+    },
+    {
+      "ano": 1952,
+      "escritor": "Fernando Santiván (1886-1973)",
+      "especialidad": "Novelista y cuentista",
+      "principales_obras": "El crisol (1913) La hechizada (1916)"
+    },
+    {
+      "ano": 1953,
+      "escritor": "Daniel de la Vega (1892-1971)",
+      "especialidad": "Poeta, dramaturgo, cronista y novelista",
+      "principales_obras": "Luz de candilejas: el teatro y sus miserias (1930) Fechas apuntadas en la pared (1932)"
+    },
+    {
+      "ano": 1954,
+      "escritor": "Víctor Domingo Silva (1882-1960)",
+      "especialidad": "Poeta, dramaturgo y novelista",
+      "principales_obras": "La nueva Marsellesa (1903) Golondrina de invierno (1912)"
+    },
+    {
+      "ano": 1955,
+      "escritor": "Francisco Antonio Encina (1874-1965)",
+      "especialidad": "Ensayista",
+      "principales_obras": "Nuestra inferioridad económica, sus causas, sus consecuencias (1912) Historia de Chile desde la Prehistoria hasta 1891 (1952)"
+    },
+    {
+      "ano": 1956,
+      "escritor": "Max Jara (1886-1965)",
+      "especialidad": "Poeta",
+      "principales_obras": "¿Poesías...? (1914) Asonantes: (tono menor) (1922)"
+    },
+    {
+      "ano": 1957,
+      "escritor": "Manuel Rojas (1896-1973)",
+      "especialidad": "Novelista y cuentista",
+      "principales_obras": "El delincuente, el vaso de leche y otros cuentos (1929) Hijo de ladrón (1951)"
+    },
+    {
+      "ano": 1958,
+      "escritor": "Diego Dublé Urrutia (1877-1967)",
+      "especialidad": "Poeta",
+      "principales_obras": "Veinte años (1898) Fontana cándida (1953)"
+    },
+    {
+      "ano": 1959,
+      "escritor": "Hernán Díaz Arrieta (1891-1984)",
+      "especialidad": "Ensayista y crítico literario",
+      "principales_obras": "La sombra inquieta (1915) Historia personal de la literatura chilena (1954)"
+    },
+    {
+      "ano": 1960,
+      "escritor": "Julio Barrenechea (1910-1979)",
+      "especialidad": "Poeta y novelista",
+      "principales_obras": "El mitín de las mariposas (1930) Diario morir (1954)"
+    },
+    {
+      "ano": 1961,
+      "escritor": "Marta Brunet (1897-1967)",
+      "especialidad": "Novelista y cuentista",
+      "principales_obras": "Montaña adentro (1923) Cuentos para Mari-Sol (1938)"
+    },
+    {
+      "ano": 1962,
+      "escritor": "Juan Guzmán Cruchaga (1895-1979)",
+      "especialidad": "Poeta y dramaturgo",
+      "principales_obras": "Agua del cielo (1924) Canción y otros poemas (1942)"
+    },
+    {
+      "ano": 1963,
+      "escritor": "Benjamín Subercaseaux (1902-1973)",
+      "especialidad": "Novelista y ensayista",
+      "principales_obras": "Chile o una loca geografía (1940) Tierra de océano. La epopeya marítima de un pueblo terrestre (1946)"
+    },
+    {
+      "ano": 1964,
+      "escritor": "Francisco Coloane (1910-2002)",
+      "especialidad": "Cuentista y novelista",
+      "principales_obras": "El último grumete de la Baquedano (1941) Los conquistadores de la Antártida (1945)"
+    },
+    {
+      "ano": 1965,
+      "escritor": "Pablo de Rokha (1894-1968)",
+      "especialidad": "Poeta",
+      "principales_obras": "Epopeya de las bebidas y comidas de Chile (1945) Fuego negro (1953)"
+    },
+    {
+      "ano": 1966,
+      "escritor": "Juvencio Valle (1900-1999)",
+      "especialidad": "Poeta",
+      "principales_obras": "Nimbo de piedra (1941) Del monte en la ladera (1960)"
+    },
+    {
+      "ano": 1967,
+      "escritor": "Salvador Reyes Figueroa (1899-1970)",
+      "especialidad": "Novelista y cuentista",
+      "principales_obras": "Barco ebrio (1923) El continente de los hombres solos (1956)"
+    },
+    {
+      "ano": 1968,
+      "escritor": "Hernán del Solar (1901-1985)",
+      "especialidad": "Ensayista, poeta, novelista y cuentista infantil",
+      "principales_obras": "Viento verde (1940) La noche de enfrente (1952)"
+    },
+    {
+      "ano": 1969,
+      "escritor": "Nicanor Parra (1914-2018)",
+      "especialidad": "Poeta",
+      "principales_obras": "Cancionero sin nombre (1937) Poemas y antipoemas (1954)"
+    },
+    {
+      "ano": 1970,
+      "escritor": "Carlos Droguett (1912-1996)",
+      "especialidad": "Novelista y cuentista",
+      "principales_obras": "Sesenta muertos en la escalera (1953) Eloy (1960)"
+    },
+    {
+      "ano": 1971,
+      "escritor": "Humberto Díaz Casanueva (1906-1992)",
+      "especialidad": "Poeta",
+      "principales_obras": "El aventurero de Saba (1926) La hija vertiginosa (1954)"
+    },
+    {
+      "ano": 1972,
+      "escritor": "Edgardo Garrido (1888-1976)",
+      "especialidad": "Novelista",
+      "principales_obras": "El barco inmóvil (1928) El hombre en la montaña (1933)"
+    },
+    {
+      "ano": 1974,
+      "escritor": "Sady Zañartu (1893-1983)",
+      "especialidad": "Novelista y cuentista",
+      "principales_obras": "La sombra del corregidor (1927) Santiago: Calles viejas (1934)"
+    },
+    {
+      "ano": 1976,
+      "escritor": "Arturo Aldunate Phillips (1902-1985)",
+      "especialidad": "Poeta",
+      "principales_obras": "Matemática y poesía: ensayo y entusiasmo (1940) Los robots no tienen a Dios en el corazón (1963)"
+    },
+    {
+      "ano": 1978,
+      "escritor": "Rodolfo Oroz (1895-1997)",
+      "especialidad": "Ensayista y filólogo",
+      "principales_obras": "El castellano de nuestros deportistas (football-balompié) (1927) La lengua castellana en Chile (1966)"
+    },
+    {
+      "ano": 1980,
+      "escritor": "Roque Esteban Scarpa (1914-1995)",
+      "especialidad": "Novelista y ensayista",
+      "principales_obras": "Mortal mantenimiento (1942) Una mujer nada de tonta (1976)"
+    },
+    {
+      "ano": 1982,
+      "escritor": "Marcela Paz (1902-1985)",
+      "especialidad": "Novelista",
+      "principales_obras": "Papelucho (1947) Perico trepa por Chile (1978)"
+    },
+    {
+      "ano": 1984,
+      "escritor": "Braulio Arenas (1913-1988)",
+      "especialidad": "Poeta, dramaturgo y novelista",
+      "principales_obras": "Adiós a la familia (1961) El laberinto de Greta (1971)"
+    },
+    {
+      "ano": 1986,
+      "escritor": "Enrique Campos Menéndez (1914-2007)",
+      "especialidad": "Novelista",
+      "principales_obras": "Kupén: cuentos de la Tierra del Fuego (1940) Bernardo O'Higgins: el padre de la patria chilena (1942)"
+    },
+    {
+      "ano": 1988,
+      "escritor": "Eduardo Anguita (1914-1992)",
+      "especialidad": "Poeta",
+      "principales_obras": "Venus en el pudridero (1967)"
+    },
+    {
+      "ano": 1990,
+      "escritor": "José Donoso (1924-1996)",
+      "especialidad": "Novelista",
+      "principales_obras": "El lugar sin límites (1966) El obsceno pájaro de la noche (1970)"
+    },
+    {
+      "ano": 1992,
+      "escritor": "Gonzalo Rojas (1916-2011)",
+      "especialidad": "Poeta",
+      "principales_obras": "Contra la muerte (1964) Oscuro (1977)"
+    },
+    {
+      "ano": 1994,
+      "escritor": "Jorge Edwards (1931-2023)",
+      "especialidad": "Novelista y cuentista",
+      "principales_obras": "El patio (1952) El museo de cera (1981)"
+    },
+    {
+      "ano": 1996,
+      "escritor": "Miguel Arteche (1926-2012)",
+      "especialidad": "Poeta, novelista y ensayista",
+      "principales_obras": "Destierros y tinieblas (1963) La disparatada vida de Félix Palissa (1971)"
+    },
+    {
+      "ano": 1998,
+      "escritor": "Alfonso Calderón (1930-2009)",
+      "especialidad": "Poeta, novelista y ensayista",
+      "principales_obras": "Isla de los bienaventurados (1973) Poemas para clavecín (1978)"
+    },
+    {
+      "ano": 2000,
+      "escritor": "Raúl Zurita (1950-)",
+      "especialidad": "Poeta",
+      "principales_obras": "Purgatorio (1979) Anteparaíso (1982) La vida nueva (1994)"
+    },
+    {
+      "ano": 2002,
+      "escritor": "Volodia Teitelboim (1916-2008)",
+      "especialidad": "Ensayista",
+      "principales_obras": "Hijo del salitre (1952) Neruda (1984)"
+    },
+    {
+      "ano": 2004,
+      "escritor": "Armando Uribe (1933-2020)",
+      "especialidad": "Poeta y ensayista",
+      "principales_obras": "No hay lugar (1970) El libro negro de la intervención norteamericana en Chile (1974)"
+    },
+    {
+      "ano": 2006,
+      "escritor": "José Miguel Varas (1928-2011)",
+      "especialidad": "Novelista y cuentista",
+      "principales_obras": "Neruda y el huevo de Damocles (1991)"
+    },
+    {
+      "ano": 2008,
+      "escritor": "Efraín Barquero (1931-2020)",
+      "especialidad": "Poeta",
+      "principales_obras": "La piedra del pueblo (1954) Mujeres de oscuro (1993)"
+    },
+    {
+      "ano": 2010,
+      "escritor": "Isabel Allende (1942-)",
+      "especialidad": "Novelista",
+      "principales_obras": "La casa de los espíritus (1982) Inés del alma mía (2006)"
+    },
+    {
+      "ano": 2012,
+      "escritor": "Óscar Hahn (1938-)",
+      "especialidad": "Poeta",
+      "principales_obras": "Esta rosa negra (1961) En un abrir y cerrar de ojos (2006)"
+    },
+    {
+      "ano": 2014,
+      "escritor": "Antonio Skármeta (1940-2024)",
+      "especialidad": "Novelista",
+      "principales_obras": "Ardiente paciencia (1985) El baile de la victoria (2003)"
+    },
+    {
+      "ano": 2016,
+      "escritor": "Manuel Silva Acevedo (1942-)",
+      "especialidad": "Poeta",
+      "principales_obras": "Lobos y ovejas (1972) Día quinto (2002)"
+    },
+    {
+      "ano": 2018,
+      "escritor": "Diamela Eltit (1947-)",
+      "especialidad": "Novelista",
+      "principales_obras": "Lumpérica (1983) El cuarto mundo (1988)"
+    },
+    {
+      "ano": 2020,
+      "escritor": "Elicura Chihuailaf (1952-)",
+      "especialidad": "Poeta",
+      "principales_obras": "De sueños azules y contrasueños (1995) Recado confidencial a los chilenos (1999)"
+    },
+    {
+      "ano": 2022,
+      "escritor": "Hernán Rivera Letelier (1950-)",
+      "especialidad": "Novelista y poeta",
+      "principales_obras": "La reina Isabel cantaba rancheras (1994) Santa María de las flores negras (2002)"
+    },
+    {
+      "ano": 2024,
+      "escritor": "Elvira Hernández (1951-)",
+      "especialidad": "Poeta y ensayista",
+      "principales_obras": "La bandera de Chile (1991) Pájaros desde mi ventana (2018)"
+    },
+    {
+      "ano": 2025,
+      "escritor": "Ramón Díaz Eterovic (1956-)",
+      "especialidad": "Novelista",
+      "principales_obras": "La ciudad está triste (1987) Nunca enamores a un forastero (2006)"
+    },
+    {
+      "ano": 2026,
+      "escritor": "Cynthia Rimsky (1962-)",
+      "especialidad": "Novelista y cronista",
+      "principales_obras": "Poste restante (2001) Clara y confusa (2024)"
+    }
+  ],
+  "meta": {
+    "title": "Premio Nacional de Literatura de Chile — galardonados - Free Download",
+    "description": "Escritores galardonados con el Premio Nacional de Literatura de Chile desde 1942, con su especialidad y principales obras. Contains 59 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Premio Nacional de Literatura de Chile — galardonados | ListBase",
+    "seo_description": "Download Premio Nacional de Literatura de Chile — galardonados — 59 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 59 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Premio_Nacional_de_Literatura_de_Chile"
+    ]
+  }
+}
