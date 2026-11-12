@@ -1,0 +1,313 @@
+{
+  "id": "es-premios-gardel-ediciones",
+  "name": "Premios Gardel — ediciones y ganadores del Gardel de Oro",
+  "title": "Premios Gardel — ediciones y ganadores del Gardel de Oro",
+  "description": "Ediciones de los Premios Gardel a la música argentina con fecha, ganador del Gardel de Oro, presentadores, lugar y canal de transmisión.",
+  "category": "music",
+  "source": "https://es.wikipedia.org/wiki/Premios_Gardel",
+  "source_url": "https://es.wikipedia.org/wiki/Premios_Gardel",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "edicion",
+      "label": "Edicion",
+      "type": "number"
+    },
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "fecha",
+      "label": "Fecha",
+      "type": "string"
+    },
+    {
+      "key": "gardel_de_oro",
+      "label": "Gardel De Oro",
+      "type": "string"
+    },
+    {
+      "key": "presentadores",
+      "label": "Presentadores",
+      "type": "string"
+    },
+    {
+      "key": "lugar",
+      "label": "Lugar",
+      "type": "string"
+    },
+    {
+      "key": "transmision",
+      "label": "Transmision",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edicion": 1,
+      "ano": 1999,
+      "fecha": "14 de abril",
+      "gardel_de_oro": "Sandro",
+      "presentadores": "Jorge Guinzburg",
+      "lugar": "Teatro Coliseo, Buenos Aires",
+      "transmision": "El trece"
+    },
+    {
+      "edicion": 2,
+      "ano": 2000,
+      "fecha": "24 de abril",
+      "gardel_de_oro": "Mercedes Sosa",
+      "presentadores": "Dady Brieva",
+      "lugar": "Teatro Gran Rex, Buenos Aires",
+      "transmision": "El trece"
+    },
+    {
+      "edicion": 3,
+      "ano": 2001,
+      "fecha": "31 de marzo",
+      "gardel_de_oro": "León Gieco",
+      "presentadores": "Marcos Mundstock",
+      "lugar": "Estadio Luna Park, Buenos Aires",
+      "transmision": "El trece"
+    },
+    {
+      "edicion": 4,
+      "ano": 2002,
+      "fecha": "16 de abril",
+      "gardel_de_oro": "Charly García",
+      "presentadores": "Roberto Pettinato",
+      "lugar": "Teatro Ópera, Buenos Aires",
+      "transmision": "El trece"
+    },
+    {
+      "edicion": 5,
+      "ano": 2003,
+      "fecha": "17 de marzo",
+      "gardel_de_oro": "Charly García",
+      "presentadores": "Roberto Pettinato",
+      "lugar": "Estadio Luna Park, Buenos Aires",
+      "transmision": "El trece"
+    },
+    {
+      "edicion": 6,
+      "ano": 2004,
+      "fecha": "31 de marzo",
+      "gardel_de_oro": "Babasónicos",
+      "presentadores": "Roberto Pettinato",
+      "lugar": "Teatro Gran Rex, Buenos Aires",
+      "transmision": "El trece"
+    },
+    {
+      "edicion": 7,
+      "ano": 2005,
+      "fecha": "13 de abril",
+      "gardel_de_oro": "Bersuit Vergarabat",
+      "presentadores": "Roberto Pettinato",
+      "lugar": "Teatro Gran Rex, Buenos Aires",
+      "transmision": "Telefe"
+    },
+    {
+      "edicion": 8,
+      "ano": 2006,
+      "fecha": "5 de abril",
+      "gardel_de_oro": "Andrés Calamaro",
+      "presentadores": "Manuel Wirzt y Hilda Lizarazu",
+      "lugar": "Teatro Gran Rex, Buenos Aires",
+      "transmision": "Telefe"
+    },
+    {
+      "edicion": 9,
+      "ano": 2007,
+      "fecha": "17 de abril",
+      "gardel_de_oro": "Gustavo Cerati",
+      "presentadores": "Roberto Pettinato",
+      "lugar": "Estadio Luna Park, Buenos Aires",
+      "transmision": "El Trece"
+    },
+    {
+      "edicion": 10,
+      "ano": 2008,
+      "fecha": "26 de marzo",
+      "gardel_de_oro": "Andrés Calamaro",
+      "presentadores": "Bebe Contemponi",
+      "lugar": "Teatro Gran Rex, Buenos Aires",
+      "transmision": "El Trece"
+    },
+    {
+      "edicion": 11,
+      "ano": 2009,
+      "fecha": "22 de julio",
+      "gardel_de_oro": "Luis Alberto Spinetta",
+      "presentadores": "Evento cancelado ​",
+      "lugar": "Evento cancelado ​",
+      "transmision": "Evento cancelado ​"
+    },
+    {
+      "edicion": 12,
+      "ano": 2010,
+      "fecha": "4 de noviembre",
+      "gardel_de_oro": "Gustavo Cerati",
+      "presentadores": "Sin evento ​",
+      "lugar": "Sin evento ​",
+      "transmision": "Sin evento ​"
+    },
+    {
+      "edicion": 13,
+      "ano": 2011,
+      "fecha": "30 de noviembre",
+      "gardel_de_oro": "Divididos",
+      "presentadores": "Sin evento ​",
+      "lugar": "Sin evento ​",
+      "transmision": "Sin evento ​"
+    },
+    {
+      "edicion": 14,
+      "ano": 2012,
+      "fecha": "8 de noviembre",
+      "gardel_de_oro": "Escalandrum",
+      "presentadores": "Soledad y Bahiano",
+      "lugar": "Usina del Arte, Buenos Aires",
+      "transmision": "CM"
+    },
+    {
+      "edicion": 15,
+      "ano": 2013,
+      "fecha": "21 de agosto",
+      "gardel_de_oro": "Abel Pintos",
+      "presentadores": "Deborah de Corral y Mex Urtizberea",
+      "lugar": "Teatro Ópera, Buenos Aires",
+      "transmision": "C5N"
+    },
+    {
+      "edicion": 16,
+      "ano": 2014,
+      "fecha": "4 de septiembre",
+      "gardel_de_oro": "Abel Pintos",
+      "presentadores": "Roberto Pettinato y Sandra Mihanovich",
+      "lugar": "Teatro Gran Rex, Buenos Aires",
+      "transmision": "C5N"
+    },
+    {
+      "edicion": 17,
+      "ano": 2015,
+      "fecha": "2 de junio",
+      "gardel_de_oro": "Axel",
+      "presentadores": "Roberto Pettinato y Catarina Spinetta",
+      "lugar": "Teatro Gran Rex, Buenos Aires",
+      "transmision": "TN"
+    },
+    {
+      "edicion": 18,
+      "ano": 2016,
+      "fecha": "7 de junio",
+      "gardel_de_oro": "Luis Alberto Spinetta",
+      "presentadores": "Lalo Mir",
+      "lugar": "Teatro Gran Rex, Buenos Aires",
+      "transmision": "TN"
+    },
+    {
+      "edicion": 19,
+      "ano": 2017,
+      "fecha": "6 de junio",
+      "gardel_de_oro": "Abel Pintos",
+      "presentadores": "Lalo Mir y Maju Lozano",
+      "lugar": "Teatro Gran Rex, Buenos Aires",
+      "transmision": "TN"
+    },
+    {
+      "edicion": 20,
+      "ano": 2018,
+      "fecha": "29 de mayo",
+      "gardel_de_oro": "Charly García",
+      "presentadores": "Germán Paoloski",
+      "lugar": "Centro Cultural Kirchner, Buenos Aires",
+      "transmision": "TVP"
+    },
+    {
+      "edicion": 21,
+      "ano": 2019,
+      "fecha": "14 de mayo",
+      "gardel_de_oro": "Marilina Bertoldi",
+      "presentadores": "Iván de Pineda",
+      "lugar": "Auditorio Ángel Bustelo, Mendoza",
+      "transmision": "TNT"
+    },
+    {
+      "edicion": 22,
+      "ano": 2020,
+      "fecha": "18 de septiembre",
+      "gardel_de_oro": "David Lebón",
+      "presentadores": "Ale Sergi y Natalie Perez",
+      "lugar": "Evento virtual ​",
+      "transmision": "TNT"
+    },
+    {
+      "edicion": 23,
+      "ano": 2021,
+      "fecha": "23 de julio",
+      "gardel_de_oro": "Fito Páez",
+      "presentadores": "Jey Mammón y Eleonora Pérez Caressi",
+      "lugar": "Evento virtual ​",
+      "transmision": "TNT"
+    },
+    {
+      "edicion": 24,
+      "ano": 2022,
+      "fecha": "23 de agosto",
+      "gardel_de_oro": "Wos",
+      "presentadores": "Jey Mammón y Eleonora Pérez Caressi",
+      "lugar": "Movistar Arena, Buenos Aires",
+      "transmision": "Star+"
+    },
+    {
+      "edicion": 25,
+      "ano": 2023,
+      "fecha": "16 de mayo",
+      "gardel_de_oro": "Trueno",
+      "presentadores": "Iván de Pineda",
+      "lugar": "Movistar Arena, Buenos Aires",
+      "transmision": "Star+"
+    },
+    {
+      "edicion": 26,
+      "ano": 2024,
+      "fecha": "28 de mayo",
+      "gardel_de_oro": "Miranda!",
+      "presentadores": "Iván de Pineda",
+      "lugar": "Movistar Arena, Buenos Aires",
+      "transmision": "Star+"
+    },
+    {
+      "edicion": 27,
+      "ano": 2025,
+      "fecha": "18 de junio",
+      "gardel_de_oro": "Ca7riel y Paco Amoroso",
+      "presentadores": "Gabriela Rádice",
+      "lugar": "Teatro Coliseo, Buenos Aires",
+      "transmision": "TNT"
+    },
+    {
+      "edicion": 28,
+      "ano": 2026,
+      "fecha": "26 de mayo",
+      "gardel_de_oro": "Milo J",
+      "presentadores": "Diego Leuco",
+      "lugar": "Teatro Coliseo, Buenos Aires",
+      "transmision": "TNT"
+    }
+  ],
+  "meta": {
+    "title": "Premios Gardel — ediciones y ganadores del Gardel de Oro - Free Download",
+    "description": "Ediciones de los Premios Gardel a la música argentina con fecha, ganador del Gardel de Oro, presentadores, lugar y canal de transmisión. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Premios Gardel — ediciones y ganadores del Gardel de Oro | ListBase",
+    "seo_description": "Download Premios Gardel — ediciones y ganadores del Gardel de Oro — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Premios_Gardel"
+    ]
+  }
+}
