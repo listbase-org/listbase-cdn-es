@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-12T02:21:35.620Z",
-  "total_datasets": 556,
-  "total_records": 433701,
+  "generated": "2026-11-12T02:21:47.545Z",
+  "total_datasets": 557,
+  "total_records": 433730,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tech",
@@ -16498,6 +16498,32 @@
         "xlsx": {
           "name": "es-mexico-entrenadores-campeones_ES.xlsx",
           "size": 11291
+        }
+      }
+    },
+    {
+      "id": "es-palmares-primera-division-argentina",
+      "name": "Palmarés de la Primera División de Argentina",
+      "category": "sports",
+      "record_count": 29,
+      "columns": [
+        "orden",
+        "equipo",
+        "campeonatos",
+        "era_profesional",
+        "era_amateur"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Palmarés_de_la_Primera_División_de_Argentina",
+      "updated": "2026-11",
+      "size": 5945,
+      "files": {
+        "csv": {
+          "name": "es-palmares-primera-division-argentina_ES.csv",
+          "size": 1036
+        },
+        "xlsx": {
+          "name": "es-palmares-primera-division-argentina_ES.xlsx",
+          "size": 7713
         }
       }
     },

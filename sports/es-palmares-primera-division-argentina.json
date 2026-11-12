@@ -1,0 +1,254 @@
+{
+  "id": "es-palmares-primera-division-argentina",
+  "name": "Palmarés de la Primera División de Argentina",
+  "title": "Palmarés de la Primera División de Argentina",
+  "description": "Clubes campeones de la Primera División del fútbol argentino con el total de títulos y su reparto entre la era profesional y la amateur.",
+  "category": "sports",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Palmarés_de_la_Primera_División_de_Argentina",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Palmarés_de_la_Primera_División_de_Argentina",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "orden",
+      "label": "Orden",
+      "type": "number"
+    },
+    {
+      "key": "equipo",
+      "label": "Equipo",
+      "type": "string"
+    },
+    {
+      "key": "campeonatos",
+      "label": "Campeonatos",
+      "type": "number"
+    },
+    {
+      "key": "era_profesional",
+      "label": "Era Profesional",
+      "type": "number"
+    },
+    {
+      "key": "era_amateur",
+      "label": "Era Amateur",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "orden": 1,
+      "equipo": "River Plate",
+      "campeonatos": 37,
+      "era_profesional": 36,
+      "era_amateur": 1
+    },
+    {
+      "orden": 2,
+      "equipo": "Boca Juniors",
+      "campeonatos": 36,
+      "era_profesional": 30,
+      "era_amateur": 6
+    },
+    {
+      "orden": 3,
+      "equipo": "Racing Club",
+      "campeonatos": 18,
+      "era_profesional": 9,
+      "era_amateur": 9
+    },
+    {
+      "orden": 4,
+      "equipo": "Independiente",
+      "campeonatos": 16,
+      "era_profesional": 14,
+      "era_amateur": 2
+    },
+    {
+      "orden": 5,
+      "equipo": "San Lorenzo",
+      "campeonatos": 15,
+      "era_profesional": 12,
+      "era_amateur": 3
+    },
+    {
+      "orden": 6,
+      "equipo": "Vélez Sarsfield",
+      "campeonatos": 10,
+      "era_profesional": 10,
+      "era_amateur": 0
+    },
+    {
+      "orden": 7,
+      "equipo": "Alumni ​",
+      "campeonatos": 10,
+      "era_profesional": 0,
+      "era_amateur": 10
+    },
+    {
+      "orden": 8,
+      "equipo": "Estudiantes de La Plata",
+      "campeonatos": 7,
+      "era_profesional": 6,
+      "era_amateur": 1
+    },
+    {
+      "orden": 9,
+      "equipo": "Newell's Old Boys",
+      "campeonatos": 6,
+      "era_profesional": 6,
+      "era_amateur": 0
+    },
+    {
+      "orden": 9,
+      "equipo": "Lomas Athletic ​",
+      "campeonatos": 6,
+      "era_profesional": 0,
+      "era_amateur": 6
+    },
+    {
+      "orden": 11,
+      "equipo": "Huracán",
+      "campeonatos": 5,
+      "era_profesional": 1,
+      "era_amateur": 4
+    },
+    {
+      "orden": 11,
+      "equipo": "Rosario Central",
+      "campeonatos": 5,
+      "era_profesional": 5,
+      "era_amateur": 0
+    },
+    {
+      "orden": 13,
+      "equipo": "Argentinos Juniors",
+      "campeonatos": 3,
+      "era_profesional": 3,
+      "era_amateur": 0
+    },
+    {
+      "orden": 13,
+      "equipo": "Belgrano Athletic",
+      "campeonatos": 3,
+      "era_profesional": 0,
+      "era_amateur": 3
+    },
+    {
+      "orden": 15,
+      "equipo": "Estudiantil Porteño",
+      "campeonatos": 2,
+      "era_profesional": 0,
+      "era_amateur": 2
+    },
+    {
+      "orden": 15,
+      "equipo": "Ferro Carril Oeste",
+      "campeonatos": 2,
+      "era_profesional": 2,
+      "era_amateur": 0
+    },
+    {
+      "orden": 15,
+      "equipo": "Lanús",
+      "campeonatos": 2,
+      "era_profesional": 2,
+      "era_amateur": 0
+    },
+    {
+      "orden": 15,
+      "equipo": "Porteño",
+      "campeonatos": 2,
+      "era_profesional": 0,
+      "era_amateur": 2
+    },
+    {
+      "orden": 15,
+      "equipo": "Quilmes",
+      "campeonatos": 2,
+      "era_profesional": 1,
+      "era_amateur": 1
+    },
+    {
+      "orden": 20,
+      "equipo": "Arsenal",
+      "campeonatos": 1,
+      "era_profesional": 1,
+      "era_amateur": 0
+    },
+    {
+      "orden": 20,
+      "equipo": "Banfield",
+      "campeonatos": 1,
+      "era_profesional": 1,
+      "era_amateur": 0
+    },
+    {
+      "orden": 20,
+      "equipo": "Belgrano",
+      "campeonatos": 1,
+      "era_profesional": 1,
+      "era_amateur": 0
+    },
+    {
+      "orden": 20,
+      "equipo": "Chacarita Juniors",
+      "campeonatos": 1,
+      "era_profesional": 1,
+      "era_amateur": 0
+    },
+    {
+      "orden": 20,
+      "equipo": "Platense",
+      "campeonatos": 1,
+      "era_profesional": 1,
+      "era_amateur": 0
+    },
+    {
+      "orden": 20,
+      "equipo": "Dock Sud",
+      "campeonatos": 1,
+      "era_profesional": 0,
+      "era_amateur": 1
+    },
+    {
+      "orden": 20,
+      "equipo": "Gimnasia y Esgrima La Plata",
+      "campeonatos": 1,
+      "era_profesional": 0,
+      "era_amateur": 1
+    },
+    {
+      "orden": 20,
+      "equipo": "Old Caledonians",
+      "campeonatos": 1,
+      "era_profesional": 0,
+      "era_amateur": 1
+    },
+    {
+      "orden": 20,
+      "equipo": "Saint Andrew's",
+      "campeonatos": 1,
+      "era_profesional": 0,
+      "era_amateur": 1
+    },
+    {
+      "orden": 20,
+      "equipo": "Sportivo Barracas",
+      "campeonatos": 1,
+      "era_profesional": 0,
+      "era_amateur": 1
+    }
+  ],
+  "meta": {
+    "title": "Palmarés de la Primera División de Argentina - Free Download",
+    "description": "Clubes campeones de la Primera División del fútbol argentino con el total de títulos y su reparto entre la era profesional y la amateur. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Palmarés de la Primera División de Argentina | ListBase",
+    "seo_description": "Download Palmarés de la Primera División de Argentina — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Palmarés_de_la_Primera_División_de_Argentina"
+    ]
+  }
+}
