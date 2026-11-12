@@ -1,0 +1,583 @@
+{
+  "id": "es-gobernadores-banco-de-espana",
+  "name": "Gobernadores del Banco de España",
+  "title": "Gobernadores del Banco de España",
+  "description": "Lista histórica de los gobernadores del Banco de España desde 1856, con fechas de nombramiento y cese y quién los designó.",
+  "category": "economy",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Gobernadores_del_Banco_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Gobernadores_del_Banco_de_España",
+  "updated": "2026-11",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "nombramiento",
+      "label": "Nombramiento",
+      "type": "string"
+    },
+    {
+      "key": "cese",
+      "label": "Cese",
+      "type": "string"
+    },
+    {
+      "key": "designado_por",
+      "label": "Designado Por",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 1,
+      "nombre": "Ramón de Santillán González (1791-1863)",
+      "nombramiento": "24 de abril de 1856",
+      "cese": "19 de octubre de 1863",
+      "designado_por": "Juan Bravo Murillo (Ministro de Hacienda)"
+    },
+    {
+      "numero": 2,
+      "nombre": "Francisco Santa Cruz Pacheco (1797-1883)",
+      "nombramiento": "30 de octubre de 1863",
+      "cese": "31 de marzo de 1866",
+      "designado_por": "Victorio Fernández Lascoiti Fourquet (Ministro de Hacienda)"
+    },
+    {
+      "numero": 3,
+      "nombre": "Victorio Fernández Lascoiti Fourquet (1810-1878)",
+      "nombramiento": "20 de abril de 1866",
+      "cese": "25 de julio de 1866",
+      "designado_por": "Manuel Alonso Martínez (Ministro de Hacienda)"
+    },
+    {
+      "numero": 4,
+      "nombre": "Juan Bautista Trúpita Jiménez Cisneros (1815-1873)",
+      "nombramiento": "25 de julio de 1866",
+      "cese": "24 de octubre de 1868",
+      "designado_por": "José García Barzanallana (Ministro de Hacienda)"
+    },
+    {
+      "numero": 5,
+      "nombre": "Manuel Cantero San Vicente (1804-1876)",
+      "nombramiento": "24 de octubre de 1868",
+      "cese": "6 de diciembre de 1876",
+      "designado_por": "Laureano Figuerola (Ministro de Hacienda)"
+    },
+    {
+      "numero": 6,
+      "nombre": "Pedro Salaverría y Charitu (1821-1896)",
+      "nombramiento": "14 de enero de 1877",
+      "cese": "20 de octubre de 1877",
+      "designado_por": "José García Barzanallana (Ministro de Hacienda)"
+    },
+    {
+      "numero": 7,
+      "nombre": "José Elduayen Gorriti (1823-1898)",
+      "nombramiento": "20 de octubre de 1877",
+      "cese": "12 de febrero de 1878",
+      "designado_por": "Manuel Orovio Echagüe (Ministro de Hacienda)"
+    },
+    {
+      "numero": 8,
+      "nombre": "Martín Belda y Mencía del Barrio (1820-1882)",
+      "nombramiento": "17 de febrero de 1878",
+      "cese": "1 de marzo de 1881",
+      "designado_por": "Manuel Orovio Echagüe (Ministro de Hacienda)"
+    },
+    {
+      "numero": 9,
+      "nombre": "Antonio Romero Ortiz (1822-1884)",
+      "nombramiento": "1 de marzo de 1881",
+      "cese": "27 de octubre de 1883",
+      "designado_por": "Juan Francisco Camacho de Alcorta (Ministro de Hacienda)"
+    },
+    {
+      "numero": 10,
+      "nombre": "Juan Francisco Camacho de Alcorta (1813-1896)",
+      "nombramiento": "27 de octubre de 1883",
+      "cese": "22 de enero de 1884",
+      "designado_por": "José Gallostra y Frau (Ministro de Hacienda)"
+    },
+    {
+      "numero": 11,
+      "nombre": "Francisco de Cárdenas Espejo (1817-1898)",
+      "nombramiento": "24 de enero de 1884",
+      "cese": "31 de enero de 1885",
+      "designado_por": "Fernando Cos-Gayón (Ministro de Hacienda)"
+    },
+    {
+      "numero": 12,
+      "nombre": "Salvador Albacete y Albert (1827-1890)",
+      "nombramiento": "10 de febrero de 1885",
+      "cese": "4 de agosto de 1890",
+      "designado_por": "Fernando Cos-Gayón (Ministro de Hacienda)"
+    },
+    {
+      "numero": 13,
+      "nombre": "Cayetano Sánchez Bustillo (1839-1908)",
+      "nombramiento": "14 de agosto de 1890",
+      "cese": "25 de noviembre de 1891",
+      "designado_por": "Fernando Cos-Gayón (Ministro de Hacienda)"
+    },
+    {
+      "numero": 14,
+      "nombre": "Juan Francisco Camacho de Alcorta (1813-1896)",
+      "nombramiento": "25 de noviembre de 1891",
+      "cese": "6 de abril de 1892",
+      "designado_por": "Juan de la Concha Castañeda (Ministro de Hacienda)"
+    },
+    {
+      "numero": 15,
+      "nombre": "Santos de Isasa y Valseca (1822-1907)",
+      "nombramiento": "8 de abril de 1892",
+      "cese": "28 de diciembre de 1892",
+      "designado_por": "Juan de la Concha Castañeda (Ministro de Hacienda)"
+    },
+    {
+      "numero": 16,
+      "nombre": "Pío Gullón Iglesias (1835-1917)",
+      "nombramiento": "28 de diciembre de 1892",
+      "cese": "4 de abril de 1895",
+      "designado_por": "Germán Gamazo (Ministro de Hacienda)"
+    },
+    {
+      "numero": 17,
+      "nombre": "Santos de Isasa y Valseca (1822-1907)",
+      "nombramiento": "4 de abril de 1895",
+      "cese": "10 de septiembre de 1895",
+      "designado_por": "Juan Navarro Reverter (Ministro de Hacienda)"
+    },
+    {
+      "numero": 18,
+      "nombre": "Manuel Aguirre de Tejada (1827-1911)",
+      "nombramiento": "15 de septiembre de 1895",
+      "cese": "14 de diciembre de 1895",
+      "designado_por": "Juan Navarro Reverter (Ministro de Hacienda)"
+    },
+    {
+      "numero": 19,
+      "nombre": "José García Barzanallana (1819-1903)",
+      "nombramiento": "17 de diciembre de 1895",
+      "cese": "19 de octubre de 1897",
+      "designado_por": "Juan Navarro Reverter (Ministro de Hacienda)"
+    },
+    {
+      "numero": 20,
+      "nombre": "Manuel de Eguilior y Llaguno (1842-1931)",
+      "nombramiento": "21 de octubre de 1897",
+      "cese": "6 de marzo de 1899",
+      "designado_por": "Joaquín López Puigcerver (Ministro de Hacienda)"
+    },
+    {
+      "numero": 21,
+      "nombre": "Luis María de la Torre y de la Hoz (1827-1901)",
+      "nombramiento": "6 de marzo de 1899",
+      "cese": "24 de octubre de 1899",
+      "designado_por": "Joaquín López Puigcerver (Ministro de Hacienda)"
+    },
+    {
+      "numero": 22,
+      "nombre": "Antonio María Fabié Escudero (1832-1899)",
+      "nombramiento": "26 de octubre de 1899",
+      "cese": "3 de diciembre de 1899",
+      "designado_por": "Raimundo Fernández Villaverde (Ministro de Hacienda)"
+    },
+    {
+      "numero": 23,
+      "nombre": "Juan de la Concha Castañeda (1818-1903)",
+      "nombramiento": "2 de enero de 1900",
+      "cese": "12 de abril de 1901",
+      "designado_por": "Raimundo Fernández Villaverde (Ministro de Hacienda)"
+    },
+    {
+      "numero": 24,
+      "nombre": "Pío Gullón e Iglesias (1835-1917)",
+      "nombramiento": "12 de abril de 1901",
+      "cese": "18 de febrero de 1902",
+      "designado_por": "Ángel Urzaiz (Ministro de Hacienda)"
+    },
+    {
+      "numero": 25,
+      "nombre": "Andrés Mellado Fernández (1846-1913)",
+      "nombramiento": "25 de julio de 1902",
+      "cese": "9 de diciembre de 1902",
+      "designado_por": "Tirso Rodrigáñez y Sagasta (Ministro de Hacienda)"
+    },
+    {
+      "numero": 26,
+      "nombre": "Antonio García Alix (1852-1911)",
+      "nombramiento": "9 de diciembre de 1902",
+      "cese": "20 de julio de 1903",
+      "designado_por": "Raimundo Fernández Villaverde (Ministro de Hacienda)"
+    },
+    {
+      "numero": 27,
+      "nombre": "José Sánchez Guerra y Martínez (1859-1935)",
+      "nombramiento": "28 de julio de 1903",
+      "cese": "5 de diciembre de 1903",
+      "designado_por": "Augusto González Besada (Ministro de Hacienda)"
+    },
+    {
+      "numero": 28,
+      "nombre": "Tomás Castellano y Villarroya (1850-1906)",
+      "nombramiento": "8 de diciembre de 1903",
+      "cese": "16 de diciembre de 1904",
+      "designado_por": "Guillermo de Osma y Scull (Ministro de Hacienda)"
+    },
+    {
+      "numero": 29,
+      "nombre": "Manuel Allendesalazar y Muñoz de Salazar (1856-1923)",
+      "nombramiento": "20 de diciembre de 1904",
+      "cese": "17 de agosto de 1905",
+      "designado_por": "Tomás Castellano y Villarroya (Ministro de Hacienda)"
+    },
+    {
+      "numero": 30,
+      "nombre": "Trinitario Ruiz y Capdepón (1836-1911)",
+      "nombramiento": "17 de agosto de 1905",
+      "cese": "25 de junio de 1906",
+      "designado_por": "José Echegaray (Ministro de Hacienda)"
+    },
+    {
+      "numero": 31,
+      "nombre": "Fernando Merino Villarino (1860-1929)",
+      "nombramiento": "25 de junio de 1906",
+      "cese": "26 de enero de 1907",
+      "designado_por": "Amós Salvador Rodrigáñez (Ministro de Hacienda)"
+    },
+    {
+      "numero": 32,
+      "nombre": "José Sánchez Guerra y Martínez (1859-1935)",
+      "nombramiento": "26 de enero de 1907",
+      "cese": "14 de septiembre de 1908",
+      "designado_por": "Guillermo de Osma y Scull (Ministro de Hacienda)"
+    },
+    {
+      "numero": 33,
+      "nombre": "Antonio García Alix (1852-1911)",
+      "nombramiento": "14 de septiembre de 1908",
+      "cese": "30 de octubre de 1909",
+      "designado_por": "Augusto González Besada (Ministro de Hacienda)"
+    },
+    {
+      "numero": 34,
+      "nombre": "Fernando Merino Villarino (1860-1929)",
+      "nombramiento": "30 de octubre de 1909",
+      "cese": "9 de febrero de 1910",
+      "designado_por": "Juan Alvarado y del Saz (Ministro de Hacienda)"
+    },
+    {
+      "numero": 35,
+      "nombre": "Tirso Rodrigáñez y Sagasta (1853-1935)",
+      "nombramiento": "12 de febrero de 1910",
+      "cese": "3 de abril de 1911",
+      "designado_por": "Eduardo Cobián (Ministro de Hacienda)"
+    },
+    {
+      "numero": 36,
+      "nombre": "Eduardo Cobián y Rofiñac (1857-1918)",
+      "nombramiento": "6 de abril de 1911",
+      "cese": "12 de noviembre de 1913",
+      "designado_por": "Tirso Rodrigáñez y Sagasta (Ministro de Hacienda)"
+    },
+    {
+      "numero": 37,
+      "nombre": "Lorenzo Domínguez Pascual (1863-1923)",
+      "nombramiento": "12 de noviembre de 1913",
+      "cese": "13 de enero de 1916",
+      "designado_por": "Gabino Bugallal (Ministro de Hacienda)"
+    },
+    {
+      "numero": 38,
+      "nombre": "Manuel de Eguilior Llaguno (1842-1931)",
+      "nombramiento": "13 de enero de 1916",
+      "cese": "19 de julio de 1916",
+      "designado_por": "Ángel Urzaiz (Ministro de Hacienda)"
+    },
+    {
+      "numero": 39,
+      "nombre": "Amós Salvador Rodrigáñez (1845-1922)",
+      "nombramiento": "19 de julio de 1916",
+      "cese": "15 de junio de 1917",
+      "designado_por": "Santiago Alba Bonifaz (Ministro de Hacienda)"
+    },
+    {
+      "numero": 40,
+      "nombre": "Lorenzo Domínguez Pascual (1863-1926)",
+      "nombramiento": "15 de junio de 1917",
+      "cese": "13 de noviembre de 1917",
+      "designado_por": "Gabino Bugallal (Ministro de Hacienda)"
+    },
+    {
+      "numero": 41,
+      "nombre": "Tirso Rodrigáñez y Sagasta (1853-1935)",
+      "nombramiento": "13 de noviembre de 1917",
+      "cese": "23 de abril de 1919",
+      "designado_por": "Juan Ventosa (Ministro de Hacienda)"
+    },
+    {
+      "numero": 42,
+      "nombre": "Manuel Allendesalazar y Muñoz de Salazar (1856-1923)",
+      "nombramiento": "23 de abril de 1919",
+      "cese": "17 de octubre de 1919",
+      "designado_por": "Juan de la Cierva y Peñafiel (Ministro de Hacienda)"
+    },
+    {
+      "numero": 43,
+      "nombre": "Eduardo Sanz Escartín (1855-1939)",
+      "nombramiento": "17 de octubre de 1919",
+      "cese": "13 de marzo de 1921",
+      "designado_por": "Gabino Bugallal (Ministro de Hacienda)"
+    },
+    {
+      "numero": 44,
+      "nombre": "José Maestre Pérez (1866-1933)",
+      "nombramiento": "17 de marzo de 1921",
+      "cese": "15 de agosto de 1921",
+      "designado_por": "Manuel de Argüelles (Ministro de Hacienda)"
+    },
+    {
+      "numero": 45,
+      "nombre": "Luis Alfonso Sedó Guichard (1873-1952)",
+      "nombramiento": "23 de agosto de 1921",
+      "cese": "14 de marzo de 1922",
+      "designado_por": "Francisco Cambó (Ministro de Hacienda)"
+    },
+    {
+      "numero": 46,
+      "nombre": "Salvador Bermúdez de Castro O'Lawlor (1863-1945)",
+      "nombramiento": "14 de marzo de 1922",
+      "cese": "2 de enero de 1923",
+      "designado_por": "Francisco Bergamín García (Ministro de Hacienda)"
+    },
+    {
+      "numero": 47,
+      "nombre": "Tirso Rodrigáñez y Sagasta (1853-1935)",
+      "nombramiento": "2 de enero de 1923",
+      "cese": "17 de septiembre de 1923",
+      "designado_por": "José Manuel Pedregal (Ministro de Hacienda)"
+    },
+    {
+      "numero": 48,
+      "nombre": "Carlos Vergara Cailleaux (1854-1929)",
+      "nombramiento": "25 de febrero de 1924",
+      "cese": "16 de octubre de 1929",
+      "designado_por": "Miguel Primo de Rivera (Presidente del Directorio Militar)"
+    },
+    {
+      "numero": 49,
+      "nombre": "José Manuel Figueras Arizcun (1869-1944)",
+      "nombramiento": "16 de octubre de 1929",
+      "cese": "21 de febrero de 1930",
+      "designado_por": "José Calvo Sotelo (Ministro de Hacienda)"
+    },
+    {
+      "numero": 50,
+      "nombre": "Juan Antonio Gamazo y Abarca (1883-1968)",
+      "nombramiento": "21 de febrero de 1930",
+      "cese": "31 de agosto de 1930",
+      "designado_por": "Manuel de Argüelles (Ministro de Hacienda)"
+    },
+    {
+      "numero": 51,
+      "nombre": "Federico Carlos Bas Vassallo (1873-1938)",
+      "nombramiento": "31 de agosto de 1930",
+      "cese": "16 de abril de 1931",
+      "designado_por": "Julio Wais San Martín (Ministro de Hacienda)"
+    },
+    {
+      "numero": 52,
+      "nombre": "Julio Carabias Salcedo (1883-1963)",
+      "nombramiento": "16 de abril de 1931",
+      "cese": "30 de septiembre de 1933",
+      "designado_por": "Indalecio Prieto (Ministro de Hacienda)"
+    },
+    {
+      "numero": 53,
+      "nombre": "Manuel Marraco Ramón (1870-1956)",
+      "nombramiento": "30 de septiembre de 1933",
+      "cese": "3 de marzo de 1934",
+      "designado_por": "Antonio Lara Zárate (Ministro de Hacienda)"
+    },
+    {
+      "numero": 54,
+      "nombre": "Alfredo de Zavala y Lafora (1893-1995)",
+      "nombramiento": "7 de marzo de 1934",
+      "cese": "3 de abril de 1935",
+      "designado_por": "Manuel Marraco Ramón (Ministro de Hacienda)"
+    },
+    {
+      "numero": 55,
+      "nombre": "Alejandro Fernández de Araoz y de la Devesa (1894-1970)",
+      "nombramiento": "6 de abril de 1935",
+      "cese": "10 de mayo de 1935",
+      "designado_por": "Alfredo de Zavala y Lafora (Ministro de Hacienda)"
+    },
+    {
+      "numero": 56,
+      "nombre": "Alfredo de Zavala y Lafora (1893-1995)",
+      "nombramiento": "10 de mayo de 1935",
+      "cese": "28 de febrero de 1936",
+      "designado_por": "Joaquín Chapaprieta (Ministro de Hacienda)"
+    },
+    {
+      "numero": 57,
+      "nombre": "Luis Nicolau d'Olwer (1888-1961)",
+      "nombramiento": "4 de marzo de 1936",
+      "cese": "1938 ​",
+      "designado_por": "Gabriel Franco (Ministro de Hacienda)"
+    },
+    {
+      "numero": "Al estallar la Guerra Civil, en la zona republicana siguió funcionando el Banco de España hasta finales de 1938 cuando cesó el último gobernador, con carácter interino, Julio Carabias Salcedo, Subgobernador 1°. En las zonas sublevadas, en la sucursal de Burgos no hubo Gobernador hasta abril de 1938, fecha en la que se nombra a Antonio Goicoechea.",
+      "nombre": "Al estallar la Guerra Civil, en la zona republicana siguió funcionando el Banco de España hasta finales de 1938 cuando cesó el último gobernador, con carácter interino, Julio Carabias Salcedo, Subgobernador 1°. En las zonas sublevadas, en la sucursal de Burgos no hubo Gobernador hasta abril de 1938, fecha en la que se nombra a Antonio Goicoechea.",
+      "nombramiento": "Al estallar la Guerra Civil, en la zona republicana siguió funcionando el Banco de España hasta finales de 1938 cuando cesó el último gobernador, con carácter interino, Julio Carabias Salcedo, Subgobernador 1°. En las zonas sublevadas, en la sucursal de Burgos no hubo Gobernador hasta abril de 1938, fecha en la que se nombra a Antonio Goicoechea.",
+      "cese": "Al estallar la Guerra Civil, en la zona republicana siguió funcionando el Banco de España hasta finales de 1938 cuando cesó el último gobernador, con carácter interino, Julio Carabias Salcedo, Subgobernador 1°. En las zonas sublevadas, en la sucursal de Burgos no hubo Gobernador hasta abril de 1938, fecha en la que se nombra a Antonio Goicoechea.",
+      "designado_por": "Al estallar la Guerra Civil, en la zona republicana siguió funcionando el Banco de España hasta finales de 1938 cuando cesó el último gobernador, con carácter interino, Julio Carabias Salcedo, Subgobernador 1°. En las zonas sublevadas, en la sucursal de Burgos no hubo Gobernador hasta abril de 1938, fecha en la que se nombra a Antonio Goicoechea."
+    },
+    {
+      "numero": 58,
+      "nombre": "Antonio Goicoechea Cosculluela (1876-1953)",
+      "nombramiento": "25 de marzo de 1938 ​",
+      "cese": "21 de julio de 1950",
+      "designado_por": "Andrés Amado (Ministro de Hacienda)"
+    },
+    {
+      "numero": 59,
+      "nombre": "Francisco de Cárdenas y de la Torre (1875-1967)",
+      "nombramiento": "2 de agosto de 1950",
+      "cese": "7 de septiembre de 1951",
+      "designado_por": "Joaquín Benjumea Burín (Ministro de Hacienda)"
+    },
+    {
+      "numero": 60,
+      "nombre": "Joaquín Benjumea Burín (1876-1963)",
+      "nombramiento": "7 de septiembre de 1951",
+      "cese": "30 de diciembre de 1963",
+      "designado_por": "Francisco Gómez de Llano (Ministro de Hacienda)"
+    },
+    {
+      "numero": 61,
+      "nombre": "Mariano Navarro Rubio (1913-2001)",
+      "nombramiento": "9 de julio de 1965",
+      "cese": "24 de julio de 1970",
+      "designado_por": "Juan José Espinosa San Martín (Ministro de Hacienda)"
+    },
+    {
+      "numero": 62,
+      "nombre": "Luis Coronel de Palma (1925-2000)",
+      "nombramiento": "24 de julio de 1970",
+      "cese": "24 de agosto de 1976",
+      "designado_por": "Alberto Monreal Luque (Ministro de Hacienda)"
+    },
+    {
+      "numero": 63,
+      "nombre": "José María López de Letona (1922-2018)",
+      "nombramiento": "24 de agosto de 1976",
+      "cese": "2 de marzo de 1978",
+      "designado_por": "Eduardo Carriles Galarraga (Ministro de Hacienda)"
+    },
+    {
+      "numero": 64,
+      "nombre": "José Ramón Álvarez Rendueles (n. 1940)",
+      "nombramiento": "2 de marzo de 1978",
+      "cese": "24 de julio de 1980",
+      "designado_por": "Fernando Abril Martorell (Ministro de Economía)"
+    },
+    {
+      "numero": 64,
+      "nombre": "José Ramón Álvarez Rendueles (n. 1940)",
+      "nombramiento": "24 de julio de 1980",
+      "cese": "24 de julio de 1984",
+      "designado_por": "Adolfo Suárez (Presidente del Gobierno)"
+    },
+    {
+      "numero": 65,
+      "nombre": "Mariano Rubio Jiménez (1931-1999)",
+      "nombramiento": "24 de julio de 1984",
+      "cese": "24 de julio de 1988",
+      "designado_por": "Felipe González (Presidente del Gobierno)"
+    },
+    {
+      "numero": 65,
+      "nombre": "Mariano Rubio Jiménez (1931-1999)",
+      "nombramiento": "24 de julio de 1988",
+      "cese": "24 de julio de 1992",
+      "designado_por": "Felipe González (Presidente del Gobierno)"
+    },
+    {
+      "numero": 66,
+      "nombre": "Luis Ángel Rojo Duque (1934-2011)",
+      "nombramiento": "25 de julio de 1992",
+      "cese": "8 de julio de 1994",
+      "designado_por": "Felipe González (Presidente del Gobierno)"
+    },
+    {
+      "numero": 66,
+      "nombre": "Luis Ángel Rojo Duque (1934-2011)",
+      "nombramiento": "8 de julio de 1994",
+      "cese": "12 de julio de 2000",
+      "designado_por": "Felipe González (Presidente del Gobierno)"
+    },
+    {
+      "numero": 67,
+      "nombre": "Jaime Caruana Lacorte (n. 1952)",
+      "nombramiento": "12 de julio de 2000",
+      "cese": "12 de julio de 2006",
+      "designado_por": "José María Aznar (Presidente del Gobierno)"
+    },
+    {
+      "numero": 68,
+      "nombre": "Miguel Ángel Fernández Ordóñez (n. 1945)",
+      "nombramiento": "12 de julio de 2006",
+      "cese": "11 de junio de 2012",
+      "designado_por": "José Luis Rodríguez Zapatero (Presidente del Gobierno)"
+    },
+    {
+      "numero": 69,
+      "nombre": "Luis María Linde de Castro (n. 1945)",
+      "nombramiento": "11 de junio de 2012",
+      "cese": "11 de junio de 2018",
+      "designado_por": "Mariano Rajoy (Presidente del Gobierno)"
+    },
+    {
+      "numero": 70,
+      "nombre": "Pablo Hernández de Cos (n. 1971)",
+      "nombramiento": "11 de junio de 2018",
+      "cese": "11 de junio de 2024",
+      "designado_por": "Mariano Rajoy (Presidente del Gobierno)"
+    },
+    {
+      "numero": "-",
+      "nombre": "Margarita Delgado Tejero (n. 1963)",
+      "nombramiento": "11 de junio de 2024",
+      "cese": "6 de septiembre de 2024",
+      "designado_por": "Elegida de forma interina según la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España (BOE núm. 131, de 02/06/1994)."
+    },
+    {
+      "numero": 71,
+      "nombre": "José Luis Escrivá Belmonte (n. 1960)",
+      "nombramiento": "6 de septiembre de 2024",
+      "cese": "en el cargo",
+      "designado_por": "Pedro Sánchez Pérez-Castejón (Presidente del Gobierno)"
+    }
+  ],
+  "meta": {
+    "title": "Gobernadores del Banco de España - Free Download",
+    "description": "Lista histórica de los gobernadores del Banco de España desde 1856, con fechas de nombramiento y cese y quién los designó. Contains 76 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gobernadores del Banco de España | ListBase",
+    "seo_description": "Download Gobernadores del Banco de España — 76 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 76 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Gobernadores_del_Banco_de_España"
+    ]
+  }
+}
