@@ -1,0 +1,808 @@
+{
+  "id": "es-pueblos-mas-bonitos-de-espana",
+  "name": "Los Pueblos más Bonitos de España",
+  "title": "Los Pueblos más Bonitos de España",
+  "description": "Pueblos que forman parte de la asociación Los Pueblos más Bonitos de España, con comunidad autónoma, provincia y año de incorporación.",
+  "category": "tourism",
+  "source": "https://es.wikipedia.org/wiki/Los_Pueblos_Más_Bonitos_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Los_Pueblos_Más_Bonitos_de_España",
+  "updated": "2026-11",
+  "record_count": 127,
+  "columns": [
+    {
+      "key": "comunidad_autonoma",
+      "label": "Comunidad Autonoma",
+      "type": "string"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "pueblo",
+      "label": "Pueblo",
+      "type": "string"
+    },
+    {
+      "key": "ano_incorporacion",
+      "label": "Ano Incorporacion",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Almería",
+      "pueblo": "Lucainena de las Torres",
+      "ano_incorporacion": 2013
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Almería",
+      "pueblo": "Mojácar",
+      "ano_incorporacion": 2013
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Almería",
+      "pueblo": "Níjar",
+      "ano_incorporacion": 2019
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Cádiz",
+      "pueblo": "Castellar de la Frontera",
+      "ano_incorporacion": 2020
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Cádiz",
+      "pueblo": "Grazalema",
+      "ano_incorporacion": 2017
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Cádiz",
+      "pueblo": "Setenil de las Bodegas",
+      "ano_incorporacion": 2019
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Cádiz",
+      "pueblo": "Vejer de la Frontera",
+      "ano_incorporacion": 2014
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Cádiz",
+      "pueblo": "Zahara de la Sierra",
+      "ano_incorporacion": 2018
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Córdoba",
+      "pueblo": "Zuheros",
+      "ano_incorporacion": 2016
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Granada",
+      "pueblo": "Bubión",
+      "ano_incorporacion": 2018
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Granada",
+      "pueblo": "Capileira",
+      "ano_incorporacion": 2017
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Granada",
+      "pueblo": "Pampaneira",
+      "ano_incorporacion": 2013
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Granada",
+      "pueblo": "Trevélez",
+      "ano_incorporacion": 2023
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Huelva",
+      "pueblo": "Almonaster la Real",
+      "ano_incorporacion": 2018
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Jaén",
+      "pueblo": "Baños de la Encina",
+      "ano_incorporacion": 2021
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Jaén",
+      "pueblo": "Segura de la Sierra",
+      "ano_incorporacion": 2018
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Málaga",
+      "pueblo": "Frigiliana",
+      "ano_incorporacion": 2015
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Málaga",
+      "pueblo": "Genalguacil",
+      "ano_incorporacion": 2021
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "provincia": "Málaga",
+      "pueblo": "Parauta",
+      "ano_incorporacion": 2024
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "provincia": "Huesca",
+      "pueblo": "Aínsa",
+      "ano_incorporacion": 2015
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "provincia": "Huesca",
+      "pueblo": "Alquézar",
+      "ano_incorporacion": 2015
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "provincia": "Huesca",
+      "pueblo": "Ansó",
+      "ano_incorporacion": 2015
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "provincia": "Huesca",
+      "pueblo": "Roda de Isábena",
+      "ano_incorporacion": 2019
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "provincia": "Teruel",
+      "pueblo": "Albarracín",
+      "ano_incorporacion": 2013
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "provincia": "Teruel",
+      "pueblo": "Calaceite",
+      "ano_incorporacion": 2013
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "provincia": "Teruel",
+      "pueblo": "Cantavieja",
+      "ano_incorporacion": 2014
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "provincia": "Teruel",
+      "pueblo": "La Fresneda",
+      "ano_incorporacion": 2025
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "provincia": "Teruel",
+      "pueblo": "Linares de Mora",
+      "ano_incorporacion": 2025
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "provincia": "Teruel",
+      "pueblo": "Mirambel",
+      "ano_incorporacion": 2018
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "provincia": "Teruel",
+      "pueblo": "Puertomingalvo",
+      "ano_incorporacion": 2013
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "provincia": "Teruel",
+      "pueblo": "Rubielos de Mora",
+      "ano_incorporacion": 2013
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "provincia": "Teruel",
+      "pueblo": "Valderrobres",
+      "ano_incorporacion": 2013
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "provincia": "Zaragoza",
+      "pueblo": "Anento",
+      "ano_incorporacion": 2015
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "provincia": "Zaragoza",
+      "pueblo": "Sos del Rey Católico",
+      "ano_incorporacion": 2016
+    },
+    {
+      "comunidad_autonoma": "Asturias",
+      "provincia": "Asturias",
+      "pueblo": "Bulnes",
+      "ano_incorporacion": 2021
+    },
+    {
+      "comunidad_autonoma": "Asturias",
+      "provincia": "Asturias",
+      "pueblo": "Cudillero",
+      "ano_incorporacion": 2021
+    },
+    {
+      "comunidad_autonoma": "Asturias",
+      "provincia": "Asturias",
+      "pueblo": "Lastres",
+      "ano_incorporacion": 2014
+    },
+    {
+      "comunidad_autonoma": "Asturias",
+      "provincia": "Asturias",
+      "pueblo": "Tazones",
+      "ano_incorporacion": 2019
+    },
+    {
+      "comunidad_autonoma": "Asturias",
+      "provincia": "Asturias",
+      "pueblo": "Torazo",
+      "ano_incorporacion": 2016
+    },
+    {
+      "comunidad_autonoma": "Baleares",
+      "provincia": "Baleares",
+      "pueblo": "Alcudia",
+      "ano_incorporacion": 2020
+    },
+    {
+      "comunidad_autonoma": "Baleares",
+      "provincia": "Baleares",
+      "pueblo": "Fornaluch",
+      "ano_incorporacion": 2017
+    },
+    {
+      "comunidad_autonoma": "Baleares",
+      "provincia": "Baleares",
+      "pueblo": "Pollensa",
+      "ano_incorporacion": "2020 - 2024 ​"
+    },
+    {
+      "comunidad_autonoma": "Canarias",
+      "provincia": "Las Palmas",
+      "pueblo": "Betancuria",
+      "ano_incorporacion": 2020
+    },
+    {
+      "comunidad_autonoma": "Canarias",
+      "provincia": "Las Palmas",
+      "pueblo": "Teguise",
+      "ano_incorporacion": 2020
+    },
+    {
+      "comunidad_autonoma": "Canarias",
+      "provincia": "Las Palmas",
+      "pueblo": "Tejeda",
+      "ano_incorporacion": 2015
+    },
+    {
+      "comunidad_autonoma": "Canarias",
+      "provincia": "Santa Cruz de Tenerife",
+      "pueblo": "Agulo",
+      "ano_incorporacion": 2021
+    },
+    {
+      "comunidad_autonoma": "Canarias",
+      "provincia": "Santa Cruz de Tenerife",
+      "pueblo": "Garachico",
+      "ano_incorporacion": 2021
+    },
+    {
+      "comunidad_autonoma": "Cantabria",
+      "provincia": "Cantabria",
+      "pueblo": "Bárcena Mayor",
+      "ano_incorporacion": 2015
+    },
+    {
+      "comunidad_autonoma": "Cantabria",
+      "provincia": "Cantabria",
+      "pueblo": "Carmona",
+      "ano_incorporacion": 2019
+    },
+    {
+      "comunidad_autonoma": "Cantabria",
+      "provincia": "Cantabria",
+      "pueblo": "Comillas",
+      "ano_incorporacion": 2024
+    },
+    {
+      "comunidad_autonoma": "Cantabria",
+      "provincia": "Cantabria",
+      "pueblo": "Liérganes",
+      "ano_incorporacion": 2016
+    },
+    {
+      "comunidad_autonoma": "Cantabria",
+      "provincia": "Cantabria",
+      "pueblo": "Mogrovejo",
+      "ano_incorporacion": 2020
+    },
+    {
+      "comunidad_autonoma": "Cantabria",
+      "provincia": "Cantabria",
+      "pueblo": "Potes",
+      "ano_incorporacion": 2019
+    },
+    {
+      "comunidad_autonoma": "Cantabria",
+      "provincia": "Cantabria",
+      "pueblo": "Santillana del Mar",
+      "ano_incorporacion": 2013
+    },
+    {
+      "comunidad_autonoma": "Castilla-La Mancha",
+      "provincia": "Albacete",
+      "pueblo": "Alcalá del Júcar",
+      "ano_incorporacion": 2014
+    },
+    {
+      "comunidad_autonoma": "Castilla-La Mancha",
+      "provincia": "Albacete",
+      "pueblo": "Letur",
+      "ano_incorporacion": 2025
+    },
+    {
+      "comunidad_autonoma": "Castilla-La Mancha",
+      "provincia": "Ciudad Real",
+      "pueblo": "Almagro",
+      "ano_incorporacion": 2015
+    },
+    {
+      "comunidad_autonoma": "Castilla-La Mancha",
+      "provincia": "Ciudad Real",
+      "pueblo": "Villanueva de los Infantes",
+      "ano_incorporacion": 2017
+    },
+    {
+      "comunidad_autonoma": "Castilla-La Mancha",
+      "provincia": "Guadalajara",
+      "pueblo": "Atienza",
+      "ano_incorporacion": 2020
+    },
+    {
+      "comunidad_autonoma": "Castilla-La Mancha",
+      "provincia": "Guadalajara",
+      "pueblo": "Hita",
+      "ano_incorporacion": 2017
+    },
+    {
+      "comunidad_autonoma": "Castilla-La Mancha",
+      "provincia": "Guadalajara",
+      "pueblo": "Pastrana",
+      "ano_incorporacion": 2020
+    },
+    {
+      "comunidad_autonoma": "Castilla-La Mancha",
+      "provincia": "Guadalajara",
+      "pueblo": "Valverde de los Arroyos",
+      "ano_incorporacion": 2013
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Ávila",
+      "pueblo": "Bonilla de la Sierra",
+      "ano_incorporacion": 2019
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Burgos",
+      "pueblo": "Caleruega",
+      "ano_incorporacion": 2017
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Burgos",
+      "pueblo": "Castrojeriz",
+      "ano_incorporacion": 2023
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Burgos",
+      "pueblo": "Covarrubias",
+      "ano_incorporacion": 2017
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Burgos",
+      "pueblo": "Frías",
+      "ano_incorporacion": 2014
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Burgos",
+      "pueblo": "Lerma",
+      "ano_incorporacion": 2018
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Burgos",
+      "pueblo": "Poza de la Sal",
+      "ano_incorporacion": 2025
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Burgos",
+      "pueblo": "Puentedey",
+      "ano_incorporacion": 2022
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Burgos",
+      "pueblo": "Santa Gadea del Cid",
+      "ano_incorporacion": 2026
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "León",
+      "pueblo": "Castrillo de los Polvazares",
+      "ano_incorporacion": 2020
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "León",
+      "pueblo": "Molinaseca",
+      "ano_incorporacion": 2021
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "León",
+      "pueblo": "Peñalba de Santiago",
+      "ano_incorporacion": 2016
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Palencia",
+      "pueblo": "Ampudia",
+      "ano_incorporacion": 2024
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Salamanca",
+      "pueblo": "Candelario",
+      "ano_incorporacion": 2015
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Salamanca",
+      "pueblo": "Ciudad Rodrigo",
+      "ano_incorporacion": 2016
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Salamanca",
+      "pueblo": "La Alberca",
+      "ano_incorporacion": 2014
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Salamanca",
+      "pueblo": "Ledesma",
+      "ano_incorporacion": 2018
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Salamanca",
+      "pueblo": "Miranda del Castañar",
+      "ano_incorporacion": 2017
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Salamanca",
+      "pueblo": "Mogarraz",
+      "ano_incorporacion": 2014
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Segovia",
+      "pueblo": "Ayllón",
+      "ano_incorporacion": 2013
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Segovia",
+      "pueblo": "Maderuelo",
+      "ano_incorporacion": 2013
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Segovia",
+      "pueblo": "Pedraza",
+      "ano_incorporacion": 2014
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Segovia",
+      "pueblo": "Sepúlveda",
+      "ano_incorporacion": 2016
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Soria",
+      "pueblo": "Berlanga de Duero",
+      "ano_incorporacion": 2025
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Soria",
+      "pueblo": "El Burgo de Osma",
+      "ano_incorporacion": 2023
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Soria",
+      "pueblo": "Medinaceli",
+      "ano_incorporacion": 2013
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Soria",
+      "pueblo": "Monteagudo de las Vicarías",
+      "ano_incorporacion": 2020
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Soria",
+      "pueblo": "Vinuesa",
+      "ano_incorporacion": 2020
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Soria",
+      "pueblo": "Yanguas",
+      "ano_incorporacion": 2017
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Valladolid",
+      "pueblo": "Urueña",
+      "ano_incorporacion": 2014
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "provincia": "Zamora",
+      "pueblo": "Puebla de Sanabria",
+      "ano_incorporacion": 2017
+    },
+    {
+      "comunidad_autonoma": "Cataluña",
+      "provincia": "Gerona",
+      "pueblo": "Beget",
+      "ano_incorporacion": 2021
+    },
+    {
+      "comunidad_autonoma": "Cataluña",
+      "provincia": "Lérida",
+      "pueblo": "Artiés",
+      "ano_incorporacion": 2023
+    },
+    {
+      "comunidad_autonoma": "Cataluña",
+      "provincia": "Lérida",
+      "pueblo": "Bagerque",
+      "ano_incorporacion": 2019
+    },
+    {
+      "comunidad_autonoma": "Cataluña",
+      "provincia": "Lérida",
+      "pueblo": "Durro",
+      "ano_incorporacion": 2023
+    },
+    {
+      "comunidad_autonoma": "Cataluña",
+      "provincia": "Lérida",
+      "pueblo": "Garós",
+      "ano_incorporacion": 2023
+    },
+    {
+      "comunidad_autonoma": "Comunidad de Madrid",
+      "provincia": "Madrid",
+      "pueblo": "Chinchón",
+      "ano_incorporacion": 2017
+    },
+    {
+      "comunidad_autonoma": "Comunidad de Madrid",
+      "provincia": "Madrid",
+      "pueblo": "Nuevo Baztán",
+      "ano_incorporacion": 2021
+    },
+    {
+      "comunidad_autonoma": "Comunidad Valenciana",
+      "provincia": "Alicante",
+      "pueblo": "Guadalest",
+      "ano_incorporacion": 2015
+    },
+    {
+      "comunidad_autonoma": "Comunidad Valenciana",
+      "provincia": "Castellón",
+      "pueblo": "Culla",
+      "ano_incorporacion": 2020
+    },
+    {
+      "comunidad_autonoma": "Comunidad Valenciana",
+      "provincia": "Castellón",
+      "pueblo": "Morella",
+      "ano_incorporacion": 2013
+    },
+    {
+      "comunidad_autonoma": "Comunidad Valenciana",
+      "provincia": "Castellón",
+      "pueblo": "Peñíscola",
+      "ano_incorporacion": 2013
+    },
+    {
+      "comunidad_autonoma": "Comunidad Valenciana",
+      "provincia": "Castellón",
+      "pueblo": "Villafamés",
+      "ano_incorporacion": 2015
+    },
+    {
+      "comunidad_autonoma": "Comunidad Valenciana",
+      "provincia": "Valencia",
+      "pueblo": "Alpuente",
+      "ano_incorporacion": 2026
+    },
+    {
+      "comunidad_autonoma": "Extremadura",
+      "provincia": "Badajoz",
+      "pueblo": "Jerez de los Caballeros",
+      "ano_incorporacion": 2025
+    },
+    {
+      "comunidad_autonoma": "Extremadura",
+      "provincia": "Badajoz",
+      "pueblo": "Llerena",
+      "ano_incorporacion": 2025
+    },
+    {
+      "comunidad_autonoma": "Extremadura",
+      "provincia": "Badajoz",
+      "pueblo": "Olivenza",
+      "ano_incorporacion": 2020
+    },
+    {
+      "comunidad_autonoma": "Extremadura",
+      "provincia": "Cáceres",
+      "pueblo": "Guadalupe",
+      "ano_incorporacion": 2018
+    },
+    {
+      "comunidad_autonoma": "Extremadura",
+      "provincia": "Cáceres",
+      "pueblo": "Robledillo de Gata",
+      "ano_incorporacion": 2020
+    },
+    {
+      "comunidad_autonoma": "Extremadura",
+      "provincia": "Cáceres",
+      "pueblo": "San Martín de Trevejo",
+      "ano_incorporacion": 2019
+    },
+    {
+      "comunidad_autonoma": "Extremadura",
+      "provincia": "Cáceres",
+      "pueblo": "Trevejo",
+      "ano_incorporacion": 2024
+    },
+    {
+      "comunidad_autonoma": "Extremadura",
+      "provincia": "Cáceres",
+      "pueblo": "Trujillo",
+      "ano_incorporacion": "2016-2020 2024"
+    },
+    {
+      "comunidad_autonoma": "Extremadura",
+      "provincia": "Cáceres",
+      "pueblo": "Valverde de la Vera",
+      "ano_incorporacion": 2021
+    },
+    {
+      "comunidad_autonoma": "Galicia",
+      "provincia": "La Coruña",
+      "pueblo": "Pontemaceira",
+      "ano_incorporacion": 2020
+    },
+    {
+      "comunidad_autonoma": "Galicia",
+      "provincia": "Orense",
+      "pueblo": "Castro Caldelas",
+      "ano_incorporacion": 2018
+    },
+    {
+      "comunidad_autonoma": "Galicia",
+      "provincia": "Orense",
+      "pueblo": "Oseira",
+      "ano_incorporacion": 2026
+    },
+    {
+      "comunidad_autonoma": "Galicia",
+      "provincia": "Orense",
+      "pueblo": "Vilanova dos Infantes",
+      "ano_incorporacion": 2026
+    },
+    {
+      "comunidad_autonoma": "Galicia",
+      "provincia": "Lugo",
+      "pueblo": "Mondoñedo",
+      "ano_incorporacion": 2018
+    },
+    {
+      "comunidad_autonoma": "La Rioja",
+      "provincia": "La Rioja",
+      "pueblo": "Briones",
+      "ano_incorporacion": 2018
+    },
+    {
+      "comunidad_autonoma": "La Rioja",
+      "provincia": "La Rioja",
+      "pueblo": "Sajazarra",
+      "ano_incorporacion": 2017
+    },
+    {
+      "comunidad_autonoma": "La Rioja",
+      "provincia": "La Rioja",
+      "pueblo": "Viniegra de Abajo",
+      "ano_incorporacion": 2019
+    },
+    {
+      "comunidad_autonoma": "La Rioja",
+      "provincia": "La Rioja",
+      "pueblo": "Viniegra de Arriba",
+      "ano_incorporacion": 2019
+    },
+    {
+      "comunidad_autonoma": "Comunidad Foral de Navarra",
+      "provincia": "Navarra",
+      "pueblo": "Roncal",
+      "ano_incorporacion": 2021
+    },
+    {
+      "comunidad_autonoma": "Comunidad Foral de Navarra",
+      "provincia": "Navarra",
+      "pueblo": "Ujué",
+      "ano_incorporacion": 2017
+    },
+    {
+      "comunidad_autonoma": "País Vasco",
+      "provincia": "Álava",
+      "pueblo": "Laguardia",
+      "ano_incorporacion": 2016
+    }
+  ],
+  "meta": {
+    "title": "Los Pueblos más Bonitos de España - Free Download",
+    "description": "Pueblos que forman parte de la asociación Los Pueblos más Bonitos de España, con comunidad autónoma, provincia y año de incorporación. Contains 127 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Los Pueblos más Bonitos de España | ListBase",
+    "seo_description": "Download Los Pueblos más Bonitos de España — 127 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 127 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Los_Pueblos_Más_Bonitos_de_España"
+    ]
+  }
+}
