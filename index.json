@@ -1,12 +1,12 @@
 {
   "lang": "es",
-  "generated": "2026-11-13T02:19:39.421Z",
-  "total_datasets": 563,
-  "total_records": 434205,
+  "generated": "2026-11-13T02:19:48.447Z",
+  "total_datasets": 564,
+  "total_records": 434261,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -231,6 +231,30 @@
         "xlsx": {
           "name": "es-razas-ganaderas-espanolas_ES.xlsx",
           "size": 16106
+        }
+      }
+    },
+    {
+      "id": "es-variedades-oliva-comunidad-valenciana",
+      "name": "Variedades de oliva de la Comunidad Valenciana",
+      "category": "agriculture",
+      "record_count": 56,
+      "columns": [
+        "variety",
+        "group",
+        "distribution"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Variedades_de_oliva_de_la_Comunidad_Valenciana",
+      "updated": "2026-11",
+      "size": 12861,
+      "files": {
+        "csv": {
+          "name": "es-variedades-oliva-comunidad-valenciana_ES.csv",
+          "size": 7322
+        },
+        "xlsx": {
+          "name": "es-variedades-oliva-comunidad-valenciana_ES.xlsx",
+          "size": 9698
         }
       }
     },

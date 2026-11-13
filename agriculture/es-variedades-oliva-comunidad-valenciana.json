@@ -1,0 +1,321 @@
+{
+  "id": "es-variedades-oliva-comunidad-valenciana",
+  "name": "Variedades de oliva de la Comunidad Valenciana",
+  "title": "Variedades de oliva de la Comunidad Valenciana",
+  "description": "Variedades de olivo cultivadas en la Comunidad Valenciana clasificadas en principales, secundarias, difundidas y locales, con su zona de distribución.",
+  "category": "agriculture",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Variedades_de_oliva_de_la_Comunidad_Valenciana",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Variedades_de_oliva_de_la_Comunidad_Valenciana",
+  "updated": "2026-11",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "variety",
+      "label": "Variety",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "distribution",
+      "label": "Distribution",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "variety": "Alfafarenca",
+      "group": "Principales variedades",
+      "distribution": "En las zonas de las provincias de Valencia, Alicante y Albacete. Es la variedad principal en la zona del valle de Ayora y Almansa."
+    },
+    {
+      "variety": "Blanqueta",
+      "group": "Principales variedades",
+      "distribution": "En las provincias de Alicante, Valencia y Murcia. En Cataluña (Vallès Occidental con el 70% de la producción, Baix Camp y Tarragonès) donde fue introducida en los años 50."
+    },
+    {
+      "variety": "Changlot Real",
+      "group": "Principales variedades",
+      "distribution": "Originaria de la sierra de Enguera. En las provincias de Alicante y Valencia."
+    },
+    {
+      "variety": "Cornicabra",
+      "group": "Principales variedades",
+      "distribution": "Originaria de Mora (Toledo), área de cultivo extendida principalmente a través del valle del Tajo (Madrid, Toledo, Cáceres) y también extensas áreas entre Badajoz y Ciudad Real."
+    },
+    {
+      "variety": "Farga",
+      "group": "Principales variedades",
+      "distribution": ""
+    },
+    {
+      "variety": "Morruda",
+      "group": "Principales variedades",
+      "distribution": ""
+    },
+    {
+      "variety": "Rojal de Alicante",
+      "group": "Principales variedades",
+      "distribution": ""
+    },
+    {
+      "variety": "Serrana de Espadán",
+      "group": "Principales variedades",
+      "distribution": "En Alto Palancia y Alto Mijares en Castellón. En Serranos, Camp de Turia y Camp de Morvedre en Valencia."
+    },
+    {
+      "variety": "Vilallonga",
+      "group": "Principales variedades",
+      "distribution": "Variedad principal en la demarcación de Valencia y en la zona norte de Alicante. También se cultiva en la parte de Elvas en Portugal."
+    },
+    {
+      "variety": "Arbequina",
+      "group": "Variedades secundarias",
+      "distribution": "Se cultiva principalmente en el Camp de Tarragona, Urgell y las Garrigues. se encuentra distribuida por toda la Comunidad Valenciana, donde se cultivan un total de 1.013 Ha."
+    },
+    {
+      "variety": "Borriolenca",
+      "group": "Variedades secundarias",
+      "distribution": "Originaria de la localidad castellonense de Borriol, distribuyéndose principalmente por la Plana de Castellón."
+    },
+    {
+      "variety": "Callosina",
+      "group": "Variedades secundarias",
+      "distribution": "Se cultiva en las provincias de Alicante (cuenca del Vinalopó, Bajo Segura y el Alacantí) y Murcia."
+    },
+    {
+      "variety": "Cuquillo",
+      "group": "Variedades secundarias",
+      "distribution": "Se distribuye en la Comunidad Valenciana por las comarcas del Vinalopó y Alcoyano en la Alcoya en la provincia de Alicante, y la Valle de Ayora en la de Valencia."
+    },
+    {
+      "variety": "Empeltre",
+      "group": "Variedades secundarias",
+      "distribution": "Originaria del Bajo Aragón, que se extiende por toda la Valle del Ebro y las Illes Balears. En Castellón se cultiva principalmente en el Maestrazgo, y en menor medida en la Plana Alta y otras comarcas."
+    },
+    {
+      "variety": "Llumeta",
+      "group": "Variedades secundarias",
+      "distribution": "Distribuida por el Alt y el Baix Maestrat y la Plana Alta de Castellón; también aparece en el sur de Tarragona."
+    },
+    {
+      "variety": "Millarenca",
+      "group": "Variedades secundarias",
+      "distribution": "En las comarcas valencianas de la Canal de Navarrés, la Ribera Alta y la Valle de Ayora."
+    },
+    {
+      "variety": "Nana o Canetera",
+      "group": "Variedades secundarias",
+      "distribution": "Distribuida principalmente por el Baix Maestrat y la Plana Alta."
+    },
+    {
+      "variety": "Picual",
+      "group": "Variedades secundarias",
+      "distribution": ""
+    },
+    {
+      "variety": "Rojal de València",
+      "group": "Variedades secundarias",
+      "distribution": "Distribuida en las comarcas valencianas de la Vall de Albaida y Valle de Albaida, y la Costera, que también aparece aisladamente en las comarcas alicantinas colindantes del Condado (País Valenciano) Condado y el Alto Vinalopó AIt Vinalopó."
+    },
+    {
+      "variety": "Sollana",
+      "group": "Variedades secundarias",
+      "distribution": "En las comarcas valencianas de Hoya de Buñol, Los Serranos, Camp de Túria y Plana de Requena-Utiel."
+    },
+    {
+      "variety": "Asperilla",
+      "group": "Variedades difundidas",
+      "distribution": "Originaria de la provincia de Cáceres, que se encuentra distribuida por las comarcas valencianas del Valle de Ayora, Llanura de Requena-Utiel y La Canal de Navarrés."
+    },
+    {
+      "variety": "Blanqueta gorda",
+      "group": "Variedades difundidas",
+      "distribution": "Cultivada en las comarcas de L'Alacantí, L'Alcoià y La Marina Alta (Alicante) y Vall d'Albaida (Valencia)."
+    },
+    {
+      "variety": "Genovesa",
+      "group": "Variedades difundidas",
+      "distribution": "Se cultiva principalmente en las comarcas valencianas de La Costera y Vall d'Albaida; también aparece en las comarcas alicantinas del Alt Vinalopó, L'Alacantí, El Comtat y la Marina Baixa."
+    },
+    {
+      "variety": "Gordal Sevillana",
+      "group": "Variedades difundidas",
+      "distribution": "Se encuentra distribuida por toda la Comunitat Valenciana."
+    },
+    {
+      "variety": "Hojiblanca",
+      "group": "Variedades difundidas",
+      "distribution": "En la comarca alicantina del Baix Vinalopó, y en menor medida en L'Alacantí."
+    },
+    {
+      "variety": "Penjoll",
+      "group": "Variedades difundidas",
+      "distribution": "Procede del norte de la provincia de Castellón, distribuyéndose por las comarcas del Baix Maestrat y la Plana Alta."
+    },
+    {
+      "variety": "Piñón",
+      "group": "Variedades difundidas",
+      "distribution": "En la comarca de la Plana de Requena-Utiel y con menor difusión por el Rincón de Ademuz (Valencia)."
+    },
+    {
+      "variety": "Temprana de Montán",
+      "group": "Variedades difundidas",
+      "distribution": "Parece ser originaria de la localidad castellonense de Montán. Se distribuye principalmente en este municipio y, en menor medida, en otros del Alto Mijares; también se encuentran árboles aislados por la comarca limítrofe del Alto Palancia."
+    },
+    {
+      "variety": "Aguilar",
+      "group": "Variedades locales",
+      "distribution": "En la localidad valenciana de Beniganim disbuyéndose por la comarca del Valle de Albaida."
+    },
+    {
+      "variety": "Ampolleta",
+      "group": "Variedades locales",
+      "distribution": "En la comarca castellonense del Baix Maestrat."
+    },
+    {
+      "variety": "Beniana",
+      "group": "Variedades locales",
+      "distribution": "En la comarca del Alacantí,"
+    },
+    {
+      "variety": "Del Rosal",
+      "group": "Variedades locales",
+      "distribution": "En la localidad valenciana de Cortes de Pallás."
+    },
+    {
+      "variety": "Cabaret",
+      "group": "Variedades locales",
+      "distribution": "En la localidad de Navarrés (Valencia),"
+    },
+    {
+      "variety": "Carrasqueña de Cañada",
+      "group": "Variedades locales",
+      "distribution": "Se cultiva en el municipio alicantino de Canyada"
+    },
+    {
+      "variety": "Carrasqueta de Ayora",
+      "group": "Variedades locales",
+      "distribution": "En localidad valenciana de Ayora"
+    },
+    {
+      "variety": "Cornezuelo de Jaén",
+      "group": "Variedades locales",
+      "distribution": "Hay árboles aislados con las sinonimias de “Cornicabra” en Sinarques (Valencia), \"L'hereu\" en Sant Mateu (Castellón) y \"Queixalet\" en Salem (Valencia)."
+    },
+    {
+      "variety": "Dulce de Ayora",
+      "group": "Variedades locales",
+      "distribution": "En el municipio de Ayora (Valle de Ayora)."
+    },
+    {
+      "variety": "Gorda-limoncillo",
+      "group": "Variedades locales",
+      "distribution": "Está distribuida en la comarca valenciana del Valle de Ayora. Se cultiva principalmente en el municipio de Xarafull."
+    },
+    {
+      "variety": "Hoja Ancha",
+      "group": "Variedades locales",
+      "distribution": "En el municipio valenciano de Xalans (Valle de Ayora)."
+    },
+    {
+      "variety": "Hojiblanca de Navarrés",
+      "group": "Variedades locales",
+      "distribution": "En la comarca de la Canal de Navarrés (Valencia)."
+    },
+    {
+      "variety": "Llimonenca",
+      "group": "Variedades locales",
+      "distribution": "En la localidad valenciana de Fontanars (Valle de Albaida)."
+    },
+    {
+      "variety": "Lloma",
+      "group": "Variedades locales",
+      "distribution": "Es común en la localidad de Traiguera."
+    },
+    {
+      "variety": "Manzanilla de Caudiel",
+      "group": "Variedades locales",
+      "distribution": "En la comarca castellonense del Alto Palancia, sobre todo en Caudiel, donde es conocida como Manzanilla."
+    },
+    {
+      "variety": "Morona de Castellón",
+      "group": "Variedades locales",
+      "distribution": "Se distribuye por la comarca castellonense del Baix Maestrat."
+    },
+    {
+      "variety": "Morruda de Salinas",
+      "group": "Variedades locales",
+      "distribution": "En el municipio alicantino de Salinas (Alt Vinalopó)."
+    },
+    {
+      "variety": "Morrut de Benlloch",
+      "group": "Variedades locales",
+      "distribution": "En la Plana Alta."
+    },
+    {
+      "variety": "Pico de Limón",
+      "group": "Variedades locales",
+      "distribution": "Originaria de la Sierra Norte de Sevilla. Se localizan algunas plantaciones en el Alt Vinalopó (Alicante)."
+    },
+    {
+      "variety": "Racimo",
+      "group": "Variedades locales",
+      "distribution": "En la localidad valenciana de Chelva en la comarca de Serranos."
+    },
+    {
+      "variety": "Rufina",
+      "group": "Variedades locales",
+      "distribution": "En la localidad castellonense de Santa Magdalena de Polpis."
+    },
+    {
+      "variety": "Santiaga",
+      "group": "Variedades locales",
+      "distribution": "En la localidad valenciana de Cortes de Pallás (Valle de Ayora)."
+    },
+    {
+      "variety": "Sepriana",
+      "group": "Variedades locales",
+      "distribution": "En la comarca del Alacantí (Alacant);"
+    },
+    {
+      "variety": "Solà",
+      "group": "Variedades locales",
+      "distribution": "Al norte de la provincia de Castellón y sur de la de Tarragona"
+    },
+    {
+      "variety": "Tío Blas",
+      "group": "Variedades locales",
+      "distribution": "En el municipio valenciano de Xalans en la comarca del Valle de Ayora."
+    },
+    {
+      "variety": "Valentins",
+      "group": "Variedades locales",
+      "distribution": "Al norte de la provincia de Castellón y sur de la de Tarragona"
+    },
+    {
+      "variety": "Vera",
+      "group": "Variedades locales",
+      "distribution": "En la comarca valenciana de los Serranos y en menor medida en la Plana de Requena-Utiel y en el Rincón de Ademuz."
+    },
+    {
+      "variety": "Vilar",
+      "group": "Variedades locales",
+      "distribution": "Se localiza en el municipio valenciano de Genovés en la comarca de la Costera."
+    }
+  ],
+  "meta": {
+    "title": "Variedades de oliva de la Comunidad Valenciana - Free Download",
+    "description": "Variedades de olivo cultivadas en la Comunidad Valenciana clasificadas en principales, secundarias, difundidas y locales, con su zona de distribución. Contains 56 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Variedades de oliva de la Comunidad Valenciana | ListBase",
+    "seo_description": "Download Variedades de oliva de la Comunidad Valenciana — 56 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 56 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Variedades_de_oliva_de_la_Comunidad_Valenciana"
+    ]
+  }
+}
