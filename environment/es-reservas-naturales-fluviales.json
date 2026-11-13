@@ -1,0 +1,1276 @@
+{
+  "id": "es-reservas-naturales-fluviales",
+  "name": "Reservas naturales fluviales de España",
+  "title": "Reservas naturales fluviales de España",
+  "description": "Reservas naturales fluviales declaradas en España por demarcación hidrográfica: código, provincia, coordenadas del punto final y longitud del tramo protegido.",
+  "category": "environment",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Reservas_naturales_fluviales_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Reservas_naturales_fluviales_de_España",
+  "updated": "2026-11",
+  "record_count": 135,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "river_basin_district",
+      "label": "River Basin District",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "length_km",
+      "label": "Length Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "RNF Río Burbia I",
+      "code": "ES010RNF001",
+      "river_basin_district": "Miño-Sil",
+      "province": "León",
+      "latitude": 42.716985,
+      "longitude": -6.781302,
+      "length_km": 28.98
+    },
+    {
+      "name": "RNF Río Bibey I",
+      "code": "ES010RNF002",
+      "river_basin_district": "Miño-Sil",
+      "province": "Zamora",
+      "latitude": 42.166747,
+      "longitude": -6.894425,
+      "length_km": 15.98
+    },
+    {
+      "name": "RNF Río Rego da Ribeira Grande",
+      "code": "ES010RNF003",
+      "river_basin_district": "Miño-Sil",
+      "province": "Orense",
+      "latitude": 42.118378,
+      "longitude": -7.292816,
+      "length_km": 8.96
+    },
+    {
+      "name": "RNF Laboreiro",
+      "code": "ES010RNF004",
+      "river_basin_district": "Miño-Sil",
+      "province": "Orense",
+      "latitude": 41.932868,
+      "longitude": -8.202099,
+      "length_km": 8.33
+    },
+    {
+      "name": "RNF Río Navea I",
+      "code": "ES010RNF005",
+      "river_basin_district": "Miño-Sil",
+      "province": "Orense",
+      "latitude": 42.233942,
+      "longitude": -7.432794,
+      "length_km": 15.18
+    },
+    {
+      "name": "RNF Río Lor I",
+      "code": "ES010RNF006",
+      "river_basin_district": "Miño-Sil",
+      "province": "Lugo",
+      "latitude": 42.636388,
+      "longitude": -7.153895,
+      "length_km": 19.62
+    },
+    {
+      "name": "RNF Río Trancoso",
+      "code": "ES010RNF007",
+      "river_basin_district": "Miño-Sil",
+      "province": "Orense",
+      "latitude": 42.154112,
+      "longitude": -8.198116,
+      "length_km": 9.64
+    },
+    {
+      "name": "RNF Tramo medio del río Agüeira",
+      "code": "ES016RNF014",
+      "river_basin_district": "Cantábrico occidental",
+      "province": "Asturias",
+      "latitude": 43.292422,
+      "longitude": -6.852206,
+      "length_km": 21.49
+    },
+    {
+      "name": "RNF Cabecera del río Ponga",
+      "code": "ES016RNF015",
+      "river_basin_district": "Cantábrico occidental",
+      "province": "Asturias",
+      "latitude": 43.231777,
+      "longitude": -5.209035,
+      "length_km": 16.57
+    },
+    {
+      "name": "RNF Río Porcía",
+      "code": "ES016RNF016",
+      "river_basin_district": "Cantábrico occidental",
+      "province": "Asturias",
+      "latitude": 43.561845,
+      "longitude": -6.876433,
+      "length_km": 51.6
+    },
+    {
+      "name": "RNF Cabecera del río Cibea y Arroyo de la Serratina",
+      "code": "ES016RNF017",
+      "river_basin_district": "Cantábrico occidental",
+      "province": "Asturias",
+      "latitude": 43.071276,
+      "longitude": -6.454399,
+      "length_km": 10.62
+    },
+    {
+      "name": "RNF Nacimiento del río Naviego",
+      "code": "ES016RNF018",
+      "river_basin_district": "Cantábrico occidental",
+      "province": "Asturias",
+      "latitude": 43.056796,
+      "longitude": -6.494937,
+      "length_km": 9.64
+    },
+    {
+      "name": "RNF Cabecera del río Somiedo y río Saliencia",
+      "code": "ES016RNF019",
+      "river_basin_district": "Cantábrico occidental",
+      "province": "Asturias",
+      "latitude": 43.118302,
+      "longitude": -6.251246,
+      "length_km": 34.88
+    },
+    {
+      "name": "RNF Río Bullón",
+      "code": "ES016RNF020",
+      "river_basin_district": "Cantábrico occidental",
+      "province": "Cantabria",
+      "latitude": 43.149602,
+      "longitude": -4.560351,
+      "length_km": 12.06
+    },
+    {
+      "name": "RNF Nacimiento del río Nansa",
+      "code": "ES016RNF021",
+      "river_basin_district": "Cantábrico occidental",
+      "province": "Cantabria",
+      "latitude": 43.108886,
+      "longitude": -4.405807,
+      "length_km": 15.25
+    },
+    {
+      "name": "RNF Cabecera del Saja",
+      "code": "ES016RNF022",
+      "river_basin_district": "Cantábrico occidental",
+      "province": "Cantabria",
+      "latitude": 43.110306,
+      "longitude": -4.291545,
+      "length_km": 9.78
+    },
+    {
+      "name": "RNF Río Argonza y Río Queriendo",
+      "code": "ES016RNF023",
+      "river_basin_district": "Cantábrico occidental",
+      "province": "Cantabria",
+      "latitude": 43.135711,
+      "longitude": -4.187749,
+      "length_km": 18.43
+    },
+    {
+      "name": "RNF Arroyo de Viaña",
+      "code": "ES016RNF024",
+      "river_basin_district": "Cantábrico occidental",
+      "province": "Cantabria",
+      "latitude": 43.203304,
+      "longitude": -4.298711,
+      "length_km": 7.86
+    },
+    {
+      "name": "RNF Río de Ortigal",
+      "code": "ES016RNF026",
+      "river_basin_district": "Cantábrico occidental",
+      "province": "Lugo",
+      "latitude": 42.8472,
+      "longitude": -6.913921,
+      "length_km": 6.72
+    },
+    {
+      "name": "RNF Río de Murias",
+      "code": "ES016RNF027",
+      "river_basin_district": "Cantábrico occidental",
+      "province": "Lugo",
+      "latitude": 42.932741,
+      "longitude": -6.874353,
+      "length_km": 6.95
+    },
+    {
+      "name": "RNF Río Moia",
+      "code": "ES016RNF028",
+      "river_basin_district": "Cantábrico occidental",
+      "province": "Lugo",
+      "latitude": 42.926768,
+      "longitude": -6.942975,
+      "length_km": 5.98
+    },
+    {
+      "name": "RNF Río Negro y afluentes",
+      "code": "ES020RNF029",
+      "river_basin_district": "Duero",
+      "province": "Zamora",
+      "latitude": 42.001678,
+      "longitude": -6.219086,
+      "length_km": 112.16
+    },
+    {
+      "name": "RNF Cabecera del río Pedroso",
+      "code": "ES020RNF030",
+      "river_basin_district": "Duero",
+      "province": "Burgos La Rioja",
+      "latitude": 42.142393,
+      "longitude": -3.183052,
+      "length_km": 25.62
+    },
+    {
+      "name": "RNF Alto Omaña",
+      "code": "ES020RNF031",
+      "river_basin_district": "Duero",
+      "province": "León",
+      "latitude": 42.781111,
+      "longitude": -5.996024,
+      "length_km": 40.11
+    },
+    {
+      "name": "RNF Alto Duerna",
+      "code": "ES020RNF032",
+      "river_basin_district": "Duero",
+      "province": "León",
+      "latitude": 42.339171,
+      "longitude": -6.197345,
+      "length_km": 26.56
+    },
+    {
+      "name": "RNF Alto Eresma",
+      "code": "ES020RNF033",
+      "river_basin_district": "Duero",
+      "province": "Segovia",
+      "latitude": 40.868308,
+      "longitude": -4.02669,
+      "length_km": 11.24
+    },
+    {
+      "name": "RNF Alto Carrión",
+      "code": "ES020RNF034",
+      "river_basin_district": "Duero",
+      "province": "Palencia",
+      "latitude": 42.941825,
+      "longitude": -4.666099,
+      "length_km": 26
+    },
+    {
+      "name": "RNF Alto Arlanza",
+      "code": "ES020RNF035",
+      "river_basin_district": "Duero",
+      "province": "Burgos",
+      "latitude": 41.983732,
+      "longitude": -3.028748,
+      "length_km": 6.17
+    },
+    {
+      "name": "RNF Alto Duero",
+      "code": "ES020RNF036",
+      "river_basin_district": "Duero",
+      "province": "Soria",
+      "latitude": 41.949983,
+      "longitude": -2.932825,
+      "length_km": 8.3
+    },
+    {
+      "name": "RNF Alto Agadón",
+      "code": "ES020RNF037",
+      "river_basin_district": "Duero",
+      "province": "Salamanca",
+      "latitude": 40.491566,
+      "longitude": -6.31474,
+      "length_km": 12.44
+    },
+    {
+      "name": "RNF Alto Arlanzón",
+      "code": "ES020RNF038",
+      "river_basin_district": "Duero",
+      "province": "Burgos",
+      "latitude": 42.241601,
+      "longitude": -3.321372,
+      "length_km": 14.08
+    },
+    {
+      "name": "RNF Alto Porma y río Isoba",
+      "code": "ES020RNF039",
+      "river_basin_district": "Duero",
+      "province": "León",
+      "latitude": 42.994992,
+      "longitude": -5.262975,
+      "length_km": 16.99
+    },
+    {
+      "name": "RNF Alto Razón",
+      "code": "ES020RNF040",
+      "river_basin_district": "Duero",
+      "province": "Soria",
+      "latitude": 41.928647,
+      "longitude": -2.577833,
+      "length_km": 25.88
+    },
+    {
+      "name": "RNF Fluvioglaciares de Cardaño de Arriba",
+      "code": "ES020RNF041",
+      "river_basin_district": "Duero",
+      "province": "Palencia",
+      "latitude": 42.928262,
+      "longitude": -4.758486,
+      "length_km": 8.36
+    },
+    {
+      "name": "RNF Hoces de Muriel de la Fuente",
+      "code": "ES020RNF042",
+      "river_basin_district": "Duero",
+      "province": "Soria",
+      "latitude": 41.711072,
+      "longitude": -2.857255,
+      "length_km": 7.59
+    },
+    {
+      "name": "RNF Río Mataviejas",
+      "code": "ES020RNF043",
+      "river_basin_district": "Duero",
+      "province": "Burgos",
+      "latitude": 42.035148,
+      "longitude": -3.585218,
+      "length_km": 28.63
+    },
+    {
+      "name": "RNF Arroyo Rebedul",
+      "code": "ES020RNF044",
+      "river_basin_district": "Duero",
+      "province": "Palencia León",
+      "latitude": 42.669305,
+      "longitude": -5.027389,
+      "length_km": 15.71
+    },
+    {
+      "name": "RNF Arroyo de Riocamba",
+      "code": "ES020RNF045",
+      "river_basin_district": "Duero",
+      "province": "León",
+      "latitude": 42.61396,
+      "longitude": -5.037933,
+      "length_km": 7.89
+    },
+    {
+      "name": "RNF Río Lechada",
+      "code": "ES020RNF046",
+      "river_basin_district": "Duero",
+      "province": "León",
+      "latitude": 43.034114,
+      "longitude": -4.854059,
+      "length_km": 6.23
+    },
+    {
+      "name": "RNF Alto Pisuerga",
+      "code": "ES020RNF047",
+      "river_basin_district": "Duero",
+      "province": "Palencia",
+      "latitude": 42.94735,
+      "longitude": -4.491826,
+      "length_km": 34.26
+    },
+    {
+      "name": "RNF Arroyo Resoba",
+      "code": "ES020RNF048",
+      "river_basin_district": "Duero",
+      "province": "Palencia",
+      "latitude": 42.901276,
+      "longitude": -4.557854,
+      "length_km": 3.19
+    },
+    {
+      "name": "RNF Río Riosequino",
+      "code": "ES020RNF049",
+      "river_basin_district": "Duero",
+      "province": "León",
+      "latitude": 42.670356,
+      "longitude": -5.528022,
+      "length_km": 10.5
+    },
+    {
+      "name": "RNF Alto Rubagón",
+      "code": "ES020RNF050",
+      "river_basin_district": "Duero",
+      "province": "Palencia",
+      "latitude": 42.920425,
+      "longitude": -4.29236,
+      "length_km": 5.71
+    },
+    {
+      "name": "RNF Alto Turienzo",
+      "code": "ES020RNF051",
+      "river_basin_district": "Duero",
+      "province": "León",
+      "latitude": 42.437173,
+      "longitude": -6.177895,
+      "length_km": 34.73
+    },
+    {
+      "name": "RNF Río Corneja",
+      "code": "ES020RNF052",
+      "river_basin_district": "Duero",
+      "province": "Ávila",
+      "latitude": 40.500714,
+      "longitude": -5.23334,
+      "length_km": 13.11
+    },
+    {
+      "name": "RNF Ríos Urrizate-Aritzacun",
+      "code": "ES017RNF008",
+      "river_basin_district": "Cantábrico oriental",
+      "province": "Navarra",
+      "latitude": 43.258881,
+      "longitude": -1.389715,
+      "length_km": 10.85
+    },
+    {
+      "name": "RNF Cabecera del río Añarbe",
+      "code": "ES017RNF009",
+      "river_basin_district": "Cantábrico oriental",
+      "province": "Guipúzcoa Navarra",
+      "latitude": 43.225282,
+      "longitude": -1.85265,
+      "length_km": 13.14
+    },
+    {
+      "name": "RNF Cabecera del río Altube",
+      "code": "ES017RNF010",
+      "river_basin_district": "Cantábrico oriental",
+      "province": "Álava",
+      "latitude": 43.000847,
+      "longitude": -2.896421,
+      "length_km": 3.98
+    },
+    {
+      "name": "RNF Río Tirón desde su nacimiento hasta la población de Fresneda de la Sierra",
+      "code": "ES091RNF110",
+      "river_basin_district": "Ebro",
+      "province": "Burgos",
+      "latitude": 42.314761,
+      "longitude": -3.132227,
+      "length_km": 10.2
+    },
+    {
+      "name": "RNF Río Najerilla",
+      "code": "ES091RNF111",
+      "river_basin_district": "Ebro",
+      "province": "La Rioja",
+      "latitude": 42.130879,
+      "longitude": -2.98417,
+      "length_km": 9.45
+    },
+    {
+      "name": "RNF Río Gatón",
+      "code": "ES091RNF112",
+      "river_basin_district": "Ebro",
+      "province": "La Rioja",
+      "latitude": 42.151848,
+      "longitude": -2.956105,
+      "length_km": 10.37
+    },
+    {
+      "name": "RNF Río Cambrones",
+      "code": "ES091RNF113",
+      "river_basin_district": "Ebro",
+      "province": "La Rioja",
+      "latitude": 42.159244,
+      "longitude": -2.946707,
+      "length_km": 5.71
+    },
+    {
+      "name": "RNF Río Calamantio",
+      "code": "ES091RNF114",
+      "river_basin_district": "Ebro",
+      "province": "La Rioja",
+      "latitude": 42.164204,
+      "longitude": -2.900744,
+      "length_km": 11.42
+    },
+    {
+      "name": "RNF Río Urbión",
+      "code": "ES091RNF115",
+      "river_basin_district": "Ebro",
+      "province": "La Rioja",
+      "latitude": 42.173754,
+      "longitude": -2.884472,
+      "length_km": 28.7
+    },
+    {
+      "name": "RNF Río Iregua",
+      "code": "ES091RNF116",
+      "river_basin_district": "Ebro",
+      "province": "La Rioja",
+      "latitude": 42.118845,
+      "longitude": -2.661798,
+      "length_km": 27.71
+    },
+    {
+      "name": "RNF Río Rudrón",
+      "code": "ES091RNF117",
+      "river_basin_district": "Ebro",
+      "province": "Burgos",
+      "latitude": 42.687268,
+      "longitude": -3.876755,
+      "length_km": 12.88
+    },
+    {
+      "name": "RNF Río Arba de Luesia",
+      "code": "ES091RNF118",
+      "river_basin_district": "Ebro",
+      "province": "Zaragoza",
+      "latitude": 42.374851,
+      "longitude": -1.042825,
+      "length_km": 17.85
+    },
+    {
+      "name": "RNF Río Ulldemó",
+      "code": "ES091RNF119",
+      "river_basin_district": "Ebro",
+      "province": "Teruel",
+      "latitude": 40.8376,
+      "longitude": 0.205772,
+      "length_km": 14.97
+    },
+    {
+      "name": "RNF Río Estarrún",
+      "code": "ES091RNF120",
+      "river_basin_district": "Ebro",
+      "province": "Huesca",
+      "latitude": 42.717459,
+      "longitude": -0.602017,
+      "length_km": 4.67
+    },
+    {
+      "name": "RNF Río Arga",
+      "code": "ES091RNF121",
+      "river_basin_district": "Ebro",
+      "province": "Navarra",
+      "latitude": 43.017031,
+      "longitude": -1.494793,
+      "length_km": 4.98
+    },
+    {
+      "name": "RNF Río Vallfarrera",
+      "code": "ES091RNF122",
+      "river_basin_district": "Ebro",
+      "province": "Lleida",
+      "latitude": 42.554086,
+      "longitude": 1.326601,
+      "length_km": 19.43
+    },
+    {
+      "name": "RNF Río Irués y afluente Garona",
+      "code": "ES091RNF123",
+      "river_basin_district": "Ebro",
+      "province": "Huesca",
+      "latitude": 42.534728,
+      "longitude": 0.203474,
+      "length_km": 21.86
+    },
+    {
+      "name": "RNF Río Vellós",
+      "code": "ES091RNF124",
+      "river_basin_district": "Ebro",
+      "province": "Huesca",
+      "latitude": 42.560693,
+      "longitude": 0.050322,
+      "length_km": 11.42
+    },
+    {
+      "name": "RNF Río Ara",
+      "code": "ES091RNF125",
+      "river_basin_district": "Ebro",
+      "province": "Huesca",
+      "latitude": 42.651119,
+      "longitude": -0.104182,
+      "length_km": 33.25
+    },
+    {
+      "name": "RNF Río Santa Engracia",
+      "code": "ES091RNF126",
+      "river_basin_district": "Ebro",
+      "province": "Vizcaya",
+      "latitude": 43.021912,
+      "longitude": -2.690749,
+      "length_km": 5.79
+    },
+    {
+      "name": "RNF Río Matarraña",
+      "code": "ES091RNF127",
+      "river_basin_district": "Ebro",
+      "province": "Tarragona Teruel",
+      "latitude": 40.79819,
+      "longitude": 0.202148,
+      "length_km": 9.55
+    },
+    {
+      "name": "RNF Río Urbelcha",
+      "code": "ES091RNF128",
+      "river_basin_district": "Ebro",
+      "province": "Navarra",
+      "latitude": 42.985121,
+      "longitude": -1.13421,
+      "length_km": 17.28
+    },
+    {
+      "name": "RNF Río Noguera Ribagorzana",
+      "code": "ES091RNF129",
+      "river_basin_district": "Ebro",
+      "province": "Lleida Huesca",
+      "latitude": 42.596743,
+      "longitude": 0.762826,
+      "length_km": 12.26
+    },
+    {
+      "name": "RNF Río Salenca",
+      "code": "ES091RNF130",
+      "river_basin_district": "Ebro",
+      "province": "Huesca",
+      "latitude": 42.596249,
+      "longitude": 0.758973,
+      "length_km": 6.13
+    },
+    {
+      "name": "RNF Río Vallibierna",
+      "code": "ES091RNF131",
+      "river_basin_district": "Ebro",
+      "province": "Huesca",
+      "latitude": 42.638208,
+      "longitude": 0.560974,
+      "length_km": 9.24
+    },
+    {
+      "name": "RNF Río Isuala",
+      "code": "ES091RNF132",
+      "river_basin_district": "Ebro",
+      "province": "Huesca",
+      "latitude": 42.152652,
+      "longitude": -0.106584,
+      "length_km": 40.87
+    },
+    {
+      "name": "RNF Río Veral",
+      "code": "ES091RNF133",
+      "river_basin_district": "Ebro",
+      "province": "Huesca",
+      "latitude": 42.611059,
+      "longitude": -0.904397,
+      "length_km": 26.79
+    },
+    {
+      "name": "RNF Río Tor",
+      "code": "ES091RNF134",
+      "river_basin_district": "Ebro",
+      "province": "Lleida",
+      "latitude": 42.553903,
+      "longitude": 1.32667,
+      "length_km": 12.62
+    },
+    {
+      "name": "RNF Río Jaramilla",
+      "code": "ES030RNF054",
+      "river_basin_district": "Tajo",
+      "province": "Guadalajara",
+      "latitude": 41.066901,
+      "longitude": -3.349579,
+      "length_km": 23.32
+    },
+    {
+      "name": "RNF Río Jarama",
+      "code": "ES030RNF055",
+      "river_basin_district": "Tajo",
+      "province": "Madrid Guadalajara",
+      "latitude": 41.066848,
+      "longitude": -3.349637,
+      "length_km": 27.99
+    },
+    {
+      "name": "RNF Arroyo Vallosera",
+      "code": "ES030RNF057",
+      "river_basin_district": "Tajo",
+      "province": "Guadalajara",
+      "latitude": 41.019278,
+      "longitude": -3.347968,
+      "length_km": 8.56
+    },
+    {
+      "name": "RNF Río Dulce",
+      "code": "ES030RNF058",
+      "river_basin_district": "Tajo",
+      "province": "Guadalajara",
+      "latitude": 41.012894,
+      "longitude": -2.641661,
+      "length_km": 14.74
+    },
+    {
+      "name": "RNF Ríos Riato y Puebla",
+      "code": "ES030RNF059",
+      "river_basin_district": "Tajo",
+      "province": "Madrid",
+      "latitude": 40.962853,
+      "longitude": -3.484319,
+      "length_km": 20.03
+    },
+    {
+      "name": "RNF Río Manzanares",
+      "code": "ES030RNF061",
+      "river_basin_district": "Tajo",
+      "province": "Madrid",
+      "latitude": 40.738766,
+      "longitude": -3.878558,
+      "length_km": 10.3
+    },
+    {
+      "name": "RNF Río Tajo",
+      "code": "ES030RNF063",
+      "river_basin_district": "Tajo",
+      "province": "Cuenca Teruel",
+      "latitude": 40.581471,
+      "longitude": -1.915934,
+      "length_km": 48.31
+    },
+    {
+      "name": "RNF Arroyo Ompolveda",
+      "code": "ES030RNF064",
+      "river_basin_district": "Tajo",
+      "province": "Guadalajara",
+      "latitude": 40.552791,
+      "longitude": -2.646908,
+      "length_km": 7.6
+    },
+    {
+      "name": "RNF Río Francia",
+      "code": "ES030RNF065",
+      "river_basin_district": "Tajo",
+      "province": "Salamanca",
+      "latitude": 40.485445,
+      "longitude": -6.00663,
+      "length_km": 13.93
+    },
+    {
+      "name": "RNF Río Hozseca",
+      "code": "ES030RNF066",
+      "river_basin_district": "Tajo",
+      "province": "Guadalajara",
+      "latitude": 40.530553,
+      "longitude": -1.886682,
+      "length_km": 18.7
+    },
+    {
+      "name": "RNF Río Batuecas",
+      "code": "ES030RNF067",
+      "river_basin_district": "Tajo",
+      "province": "Salamanca Cáceres",
+      "latitude": 40.426393,
+      "longitude": -6.148165,
+      "length_km": 10.48
+    },
+    {
+      "name": "RNF Rambla de la Sarguilla",
+      "code": "ES030RNF068",
+      "river_basin_district": "Tajo",
+      "province": "Guadalajara",
+      "latitude": 40.517639,
+      "longitude": -1.817378,
+      "length_km": 4.4
+    },
+    {
+      "name": "RNF Río Cuervo",
+      "code": "ES030RNF069",
+      "river_basin_district": "Tajo",
+      "province": "Cuenca",
+      "latitude": 40.501956,
+      "longitude": -2.039837,
+      "length_km": 23.26
+    },
+    {
+      "name": "RNF Arroyo los Huecos",
+      "code": "ES030RNF070",
+      "river_basin_district": "Tajo",
+      "province": "Guadalajara",
+      "latitude": 40.473823,
+      "longitude": -1.871503,
+      "length_km": 14.29
+    },
+    {
+      "name": "RNF Río Escabas",
+      "code": "ES030RNF072",
+      "river_basin_district": "Tajo",
+      "province": "Cuenca",
+      "latitude": 40.414894,
+      "longitude": -2.045242,
+      "length_km": 34.54
+    },
+    {
+      "name": "RNF Garganta Iruelas",
+      "code": "ES030RNF074",
+      "river_basin_district": "Tajo",
+      "province": "Ávila",
+      "latitude": 40.405184,
+      "longitude": -4.568841,
+      "length_km": 4.41
+    },
+    {
+      "name": "RNF Río Navahondilla",
+      "code": "ES030RNF075",
+      "river_basin_district": "Tajo",
+      "province": "Ávila",
+      "latitude": 40.390277,
+      "longitude": -4.862505,
+      "length_km": 10.28
+    },
+    {
+      "name": "RNF Garganta de los Infiernos",
+      "code": "ES030RNF078",
+      "river_basin_district": "Tajo",
+      "province": "Cáceres",
+      "latitude": 40.205261,
+      "longitude": -5.781613,
+      "length_km": 10.36
+    },
+    {
+      "name": "RNF Río Arbillas",
+      "code": "ES030RNF079",
+      "river_basin_district": "Tajo",
+      "province": "Ávila",
+      "latitude": 40.130074,
+      "longitude": -5.193815,
+      "length_km": 15.6
+    },
+    {
+      "name": "RNF Río Muelas",
+      "code": "ES030RNF080",
+      "river_basin_district": "Tajo",
+      "province": "Ávila",
+      "latitude": 40.130076,
+      "longitude": -5.193813,
+      "length_km": 8.39
+    },
+    {
+      "name": "RNF Garganta Mayor",
+      "code": "ES030RNF081",
+      "river_basin_district": "Tajo",
+      "province": "Cáceres",
+      "latitude": 40.094075,
+      "longitude": -5.767433,
+      "length_km": 6.11
+    },
+    {
+      "name": "RNF Río Barbaón",
+      "code": "ES030RNF082",
+      "river_basin_district": "Tajo",
+      "province": "Cáceres",
+      "latitude": 39.855336,
+      "longitude": -6.062494,
+      "length_km": 32.9
+    },
+    {
+      "name": "RNF Río Malvecino",
+      "code": "ES030RNF083",
+      "river_basin_district": "Tajo",
+      "province": "Cáceres",
+      "latitude": 39.842205,
+      "longitude": -6.048631,
+      "length_km": 4.69
+    },
+    {
+      "name": "RNF Río Almonte",
+      "code": "ES030RNF084",
+      "river_basin_district": "Tajo",
+      "province": "Cáceres",
+      "latitude": 39.609684,
+      "longitude": -6.19062,
+      "length_km": 89.63
+    },
+    {
+      "name": "RNF Río Gévalo",
+      "code": "ES030RNF085",
+      "river_basin_district": "Tajo",
+      "province": "Toledo",
+      "latitude": 39.692133,
+      "longitude": -4.861477,
+      "length_km": 19.25
+    },
+    {
+      "name": "RNF Río Gualija",
+      "code": "ES030RNF086",
+      "river_basin_district": "Tajo",
+      "province": "Cáceres",
+      "latitude": 39.641258,
+      "longitude": -5.301159,
+      "length_km": 11.81
+    },
+    {
+      "name": "RNF Río Viejas",
+      "code": "ES030RNF087",
+      "river_basin_district": "Tajo",
+      "province": "Cáceres",
+      "latitude": 39.604678,
+      "longitude": -5.460059,
+      "length_km": 12.04
+    },
+    {
+      "name": "RNF Río Mesto",
+      "code": "ES030RNF088",
+      "river_basin_district": "Tajo",
+      "province": "Cáceres",
+      "latitude": 39.641183,
+      "longitude": -5.301138,
+      "length_km": 16.86
+    },
+    {
+      "name": "RNF Arroyo Cabrera",
+      "code": "ES030RNF089",
+      "river_basin_district": "Tajo",
+      "province": "Toledo",
+      "latitude": 39.604829,
+      "longitude": -4.699831,
+      "length_km": 8.37
+    },
+    {
+      "name": "Garganta de las Lanchas",
+      "code": "ES030RNF090",
+      "river_basin_district": "Tajo",
+      "province": "Toledo",
+      "latitude": 39.603249,
+      "longitude": -4.878391,
+      "length_km": 5.89
+    },
+    {
+      "name": "RNF Río Pelagallinas",
+      "code": "ES030RNF092",
+      "river_basin_district": "Tajo",
+      "province": "Guadalajara",
+      "latitude": 41.162941,
+      "longitude": -2.98569,
+      "length_km": 21.14
+    },
+    {
+      "name": "RNF Río Guadarranque",
+      "code": "ES040RNF093",
+      "river_basin_district": "Guadiana",
+      "province": "Cáceres",
+      "latitude": 39.50453,
+      "longitude": -5.164288,
+      "length_km": 15.13
+    },
+    {
+      "name": "RNF Riveras de Albarragena, del Fraile y del Alcorneo hasta el río Gévora",
+      "code": "ES040RNF137",
+      "river_basin_district": "Guadiana",
+      "province": "Cáceres Badajoz",
+      "latitude": 39.22281,
+      "longitude": -6.849226,
+      "length_km": 87.02
+    },
+    {
+      "name": "RNF Gargáligas alto",
+      "code": "ES040RNF139",
+      "river_basin_district": "Guadiana",
+      "province": "Badajoz",
+      "latitude": 39.206863,
+      "longitude": -5.315618,
+      "length_km": 25.94
+    },
+    {
+      "name": "RNF Ríos Estena, Estenilla y Estomiza",
+      "code": "ES040RNF140",
+      "river_basin_district": "Guadiana",
+      "province": "Ciudad Real Toledo Badajoz",
+      "latitude": 39.368233,
+      "longitude": -4.81734,
+      "length_km": 112.48
+    },
+    {
+      "name": "RNF Río Milagro",
+      "code": "ES040RNF141",
+      "river_basin_district": "Guadiana",
+      "province": "Ciudad Real",
+      "latitude": 39.40346,
+      "longitude": -4.210497,
+      "length_km": 22.06
+    },
+    {
+      "name": "RNF Rivera Grande de la Golondrina",
+      "code": "ES040RNF142",
+      "river_basin_district": "Guadiana",
+      "province": "Huelva",
+      "latitude": 37.454321,
+      "longitude": -7.456031,
+      "length_km": 20.18
+    },
+    {
+      "name": "RNF Rivera de Huelva",
+      "code": "ES050RNF094",
+      "river_basin_district": "Guadalquivir",
+      "province": "Huelva",
+      "latitude": 37.955579,
+      "longitude": -6.536059,
+      "length_km": 47.95
+    },
+    {
+      "name": "RNF Río Guadalora",
+      "code": "ES050RNF095",
+      "river_basin_district": "Guadalquivir",
+      "province": "Córdoba",
+      "latitude": 37.837105,
+      "longitude": -5.311584,
+      "length_km": 29.28
+    },
+    {
+      "name": "RNF Nacimiento del Genil",
+      "code": "ES050RNF096",
+      "river_basin_district": "Guadalquivir",
+      "province": "Granada",
+      "latitude": 37.154221,
+      "longitude": -3.435287,
+      "length_km": 56.12
+    },
+    {
+      "name": "RNF Arroyo Bejarano",
+      "code": "ES050RNF097",
+      "river_basin_district": "Guadalquivir",
+      "province": "Córdoba",
+      "latitude": 37.941911,
+      "longitude": -4.891506,
+      "length_km": 10.22
+    },
+    {
+      "name": "RNF Cabecera de los ríos Salobre y Arjonilla (o Angorrilla)",
+      "code": "ES050RNF098",
+      "river_basin_district": "Guadalquivir",
+      "province": "Albacete",
+      "latitude": 38.614796,
+      "longitude": -2.652108,
+      "length_km": 36.62
+    },
+    {
+      "name": "RNF Río Montoro",
+      "code": "ES050RNF099",
+      "river_basin_district": "Guadalquivir",
+      "province": "Ciudad Real",
+      "latitude": 38.529603,
+      "longitude": -4.153356,
+      "length_km": 31.65
+    },
+    {
+      "name": "RNF Río Guadalentín",
+      "code": "ES050RNF100",
+      "river_basin_district": "Guadalquivir",
+      "province": "Jaén",
+      "latitude": 37.816425,
+      "longitude": -2.904754,
+      "length_km": 30.95
+    },
+    {
+      "name": "RNF Río Cenia",
+      "code": "ES010RNF102",
+      "river_basin_district": "Júcar",
+      "province": "Castellón",
+      "latitude": 40.668289,
+      "longitude": 0.214596,
+      "length_km": 2.7
+    },
+    {
+      "name": "Río Mijares",
+      "code": "ES010RNF103",
+      "river_basin_district": "Júcar",
+      "province": "Teruel",
+      "latitude": 40.386527,
+      "longitude": -0.875047,
+      "length_km": 18.16
+    },
+    {
+      "name": "RNF Río Villahermosa",
+      "code": "ES010RNF104",
+      "river_basin_district": "Júcar",
+      "province": "Teruel",
+      "latitude": 40.245027,
+      "longitude": -0.476791,
+      "length_km": 18.16
+    },
+    {
+      "name": "RNF Río Alfambra",
+      "code": "ES010RNF105",
+      "river_basin_district": "Júcar",
+      "province": "Teruel",
+      "latitude": 40.485752,
+      "longitude": -0.7421,
+      "length_km": 18.04
+    },
+    {
+      "name": "RNF Río Guadalaviar",
+      "code": "ES010RNF106",
+      "river_basin_district": "Júcar",
+      "province": "Teruel",
+      "latitude": 40.432275,
+      "longitude": -1.425249,
+      "length_km": 40.2
+    },
+    {
+      "name": "RNF Arroyo de Almagrero",
+      "code": "ES010RNF107",
+      "river_basin_district": "Júcar",
+      "province": "Cuenca",
+      "latitude": 40.325279,
+      "longitude": -1.795326,
+      "length_km": 9.96
+    },
+    {
+      "name": "RNF Cabriel",
+      "code": "ES010RNF108",
+      "river_basin_district": "Júcar",
+      "province": "Cuenca Teruel",
+      "latitude": 40.128043,
+      "longitude": -1.50333,
+      "length_km": 34.17
+    },
+    {
+      "name": "RNF Río Jalón",
+      "code": "ES010RNF109",
+      "river_basin_district": "Júcar",
+      "province": "Alicante",
+      "latitude": 38.754273,
+      "longitude": -0.149393,
+      "length_km": 1.82
+    },
+    {
+      "name": "RNF Río Ebrón",
+      "code": "ES010RNF150",
+      "river_basin_district": "Júcar",
+      "province": "Teruel",
+      "latitude": 40.295941,
+      "longitude": -1.403184,
+      "length_km": 21.85
+    },
+    {
+      "name": "RNF Río Noguera",
+      "code": "ES010RNF151",
+      "river_basin_district": "Júcar",
+      "province": "Teruel",
+      "latitude": 40.428564,
+      "longitude": -1.57136,
+      "length_km": 2.73
+    },
+    {
+      "name": "RNF Río Segura desde cabecera hasta embalse de Anchuricas",
+      "code": "ES070RNF101",
+      "river_basin_district": "Segura",
+      "province": "Jaén",
+      "latitude": 38.183944,
+      "longitude": -2.561863,
+      "length_km": 47.84
+    },
+    {
+      "name": "RNF Río Tus",
+      "code": "ES070RNF143",
+      "river_basin_district": "Segura",
+      "province": "Jaén Albacete",
+      "latitude": 38.369878,
+      "longitude": -2.417777,
+      "length_km": 38.2
+    },
+    {
+      "name": "RNF Arroyo de Los Collados y arroyo Escudero",
+      "code": "ES070RNF144",
+      "river_basin_district": "Segura",
+      "province": "Albacete",
+      "latitude": 38.420552,
+      "longitude": -2.287103,
+      "length_km": 9.5
+    },
+    {
+      "name": "RNF Zumeta",
+      "code": "ES070RNF145",
+      "river_basin_district": "Segura",
+      "province": "Albacete Jaén",
+      "latitude": 38.173391,
+      "longitude": -2.463212,
+      "length_km": 38.19
+    },
+    {
+      "name": "RNF Arroyos de los Endrinales y de Las Hoyas",
+      "code": "ES070RNF146",
+      "river_basin_district": "Segura",
+      "province": "Albacete",
+      "latitude": 38.573453,
+      "longitude": -2.328994,
+      "length_km": 22.61
+    },
+    {
+      "name": "RNF Arroyo de la Espinea",
+      "code": "ES070RNF147",
+      "river_basin_district": "Segura",
+      "province": "Jaén",
+      "latitude": 38.272214,
+      "longitude": -2.435602,
+      "length_km": 10.15
+    },
+    {
+      "name": "RNF Arroyo del Puerto",
+      "code": "ES070RNF148",
+      "river_basin_district": "Segura",
+      "province": "Albacete",
+      "latitude": 38.408495,
+      "longitude": -2.326153,
+      "length_km": 8.75
+    },
+    {
+      "name": "RNF Río Chícamo",
+      "code": "ES070RNF149",
+      "river_basin_district": "Segura",
+      "province": "Murcia",
+      "latitude": 38.240866,
+      "longitude": -1.03389,
+      "length_km": 9.37
+    }
+  ],
+  "meta": {
+    "title": "Reservas naturales fluviales de España - Free Download",
+    "description": "Reservas naturales fluviales declaradas en España por demarcación hidrográfica: código, provincia, coordenadas del punto final y longitud del tramo protegido. Contains 135 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Reservas naturales fluviales de España | ListBase",
+    "seo_description": "Download Reservas naturales fluviales de España — 135 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 135 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Reservas_naturales_fluviales_de_España"
+    ]
+  }
+}

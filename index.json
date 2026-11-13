@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-13T02:19:30.999Z",
-  "total_datasets": 562,
-  "total_records": 434070,
+  "generated": "2026-11-13T02:19:39.421Z",
+  "total_datasets": 563,
+  "total_records": 434205,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -1073,6 +1073,34 @@
         "xlsx": {
           "name": "es-reservas-biosfera_ES.xlsx",
           "size": 12313
+        }
+      }
+    },
+    {
+      "id": "es-reservas-naturales-fluviales",
+      "name": "Reservas naturales fluviales de España",
+      "category": "environment",
+      "record_count": 135,
+      "columns": [
+        "name",
+        "code",
+        "river_basin_district",
+        "province",
+        "latitude",
+        "longitude",
+        "length_km"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Reservas_naturales_fluviales_de_España",
+      "updated": "2026-11",
+      "size": 33933,
+      "files": {
+        "csv": {
+          "name": "es-reservas-naturales-fluviales_ES.csv",
+          "size": 12408
+        },
+        "xlsx": {
+          "name": "es-reservas-naturales-fluviales_ES.xlsx",
+          "size": 14750
         }
       }
     },
