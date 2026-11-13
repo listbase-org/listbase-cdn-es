@@ -1,0 +1,656 @@
+{
+  "id": "es-ministros-de-trabajo",
+  "name": "Ministros de Trabajo de España",
+  "title": "Ministros de Trabajo de España",
+  "description": "Titulares del Ministerio de Trabajo de España desde su creación en 1920: nombre, inicio y fin del mandato, partido político y gobierno.",
+  "category": "economy",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Ministros_de_Trabajo_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Ministros_de_Trabajo_de_España",
+  "updated": "2026-11",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Carlos Cañal y Migolla",
+      "start": "8 de mayo de 1920",
+      "end": "13 de marzo de 1921",
+      "party": "Conservador",
+      "government": "Eduardo Dato Iradier",
+      "period": "Alfonso XIII"
+    },
+    {
+      "name": "Carlos Cañal y Migolla",
+      "start": "8 de mayo de 1920",
+      "end": "13 de marzo de 1921",
+      "party": "Conservador",
+      "government": "Gabino Bugallal ​",
+      "period": "Alfonso XIII"
+    },
+    {
+      "name": "Eduardo Sanz y Escartín",
+      "start": "13 de marzo de 1921",
+      "end": "14 de agosto de 1921",
+      "party": "Conservador",
+      "government": "Manuel Allendesalazar",
+      "period": "Alfonso XIII"
+    },
+    {
+      "name": "Leopoldo Matos y Massieu",
+      "start": "14 de agosto de 1921",
+      "end": "8 de marzo de 1922",
+      "party": "Conservador",
+      "government": "Antonio Maura Gobierno de concentración",
+      "period": "Alfonso XIII"
+    },
+    {
+      "name": "Abilio Calderón Rojo",
+      "start": "8 de marzo de 1922",
+      "end": "7 de diciembre de 1922",
+      "party": "Conservador",
+      "government": "José Sánchez Guerra",
+      "period": "Alfonso XIII"
+    },
+    {
+      "name": "Joaquín Chapaprieta Torregrosa",
+      "start": "7 de diciembre de 1922",
+      "end": "3 de septiembre de 1923",
+      "party": "Liberal",
+      "government": "Manuel García Prieto",
+      "period": "Alfonso XIII"
+    },
+    {
+      "name": "Luis Armiñán Pérez",
+      "start": "3 de septiembre de 1923",
+      "end": "15 de septiembre de 1923",
+      "party": "Liberal",
+      "government": "Manuel García Prieto",
+      "period": "Alfonso XIII"
+    },
+    {
+      "name": "Alejandro García Martín (12) ​",
+      "start": "15 de septiembre de 1923",
+      "end": "3 de diciembre de 1925",
+      "party": "",
+      "government": "Miguel Primo de Rivera Directorio Militar",
+      "period": "Alfonso XIII"
+    },
+    {
+      "name": "Juan Flórez Posada (12) ​",
+      "start": "15 de septiembre de 1923",
+      "end": "21 de diciembre de 1923",
+      "party": "",
+      "government": "Miguel Primo de Rivera Directorio Militar",
+      "period": "Alfonso XIII"
+    },
+    {
+      "name": "Eduardo Aunós Pérez (12) ​",
+      "start": "15 de septiembre de 1923",
+      "end": "30 de enero de 1930",
+      "party": "Unión Patriótica",
+      "government": "Miguel Primo de Rivera Directorio Militar",
+      "period": "Alfonso XIII"
+    },
+    {
+      "name": "Eduardo Aunós Pérez (12) ​",
+      "start": "15 de septiembre de 1923",
+      "end": "30 de enero de 1930",
+      "party": "Unión Patriótica",
+      "government": "Miguel Primo de Rivera Directorio Civil",
+      "period": "Alfonso XIII"
+    },
+    {
+      "name": "Pedro Sangro y Ros de Olano",
+      "start": "30 de enero de 1930",
+      "end": "18 de febrero de 1931",
+      "party": "",
+      "government": "Dámaso Berenguer Dictadura 1930-1931",
+      "period": "Alfonso XIII"
+    },
+    {
+      "name": "Gabriel Maura y Gamazo",
+      "start": "18 de febrero de 1931",
+      "end": "14 de abril de 1931",
+      "party": "Monárquicos",
+      "government": "Juan Bautista Aznar-Cabañas",
+      "period": "Alfonso XIII"
+    },
+    {
+      "name": "Francisco Largo Caballero",
+      "start": "14 de abril de 1931",
+      "end": "12 de septiembre de 1933",
+      "party": "PSOE",
+      "government": "Niceto Alcalá Zamora 1.º Gobierno Provisional",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Francisco Largo Caballero",
+      "start": "14 de abril de 1931",
+      "end": "12 de septiembre de 1933",
+      "party": "PSOE",
+      "government": "Manuel Azaña 2.º Gobierno Provisional",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Francisco Largo Caballero",
+      "start": "14 de abril de 1931",
+      "end": "12 de septiembre de 1933",
+      "party": "PSOE",
+      "government": "Manuel Azaña",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Ricardo Samper Ibáñez",
+      "start": "12 de septiembre de 1933",
+      "end": "9 de octubre de 1933",
+      "party": "PRR",
+      "government": "Alejandro Lerroux",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Carles Pi i Sunyer",
+      "start": "9 de octubre de 1933",
+      "end": "16 de diciembre de 1933",
+      "party": "ERC",
+      "government": "Diego Martínez Barrio",
+      "period": "Segunda República"
+    },
+    {
+      "name": "José Estadella Arnó (1) (2) ​",
+      "start": "16 de diciembre de 1933",
+      "end": "4 de octubre de 1934",
+      "party": "PRR",
+      "government": "Alejandro Lerroux",
+      "period": "Segunda República"
+    },
+    {
+      "name": "José Estadella Arnó (1) (2) ​",
+      "start": "16 de diciembre de 1933",
+      "end": "4 de octubre de 1934",
+      "party": "PRR",
+      "government": "Ricardo Samper Ibáñez",
+      "period": "Segunda República"
+    },
+    {
+      "name": "José Oriol Anguera de Sojo",
+      "start": "4 de octubre de 1934",
+      "end": "3 de abril de 1935",
+      "party": "CEDA",
+      "government": "Alejandro Lerroux",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Eloy Vaquero Cantillo",
+      "start": "3 de abril de 1935",
+      "end": "6 de mayo de 1935",
+      "party": "PRR",
+      "government": "Alejandro Lerroux",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Federico Salmón Amorín (2) (3) ​",
+      "start": "6 de mayo de 1935",
+      "end": "14 de diciembre de 1935",
+      "party": "CEDA",
+      "government": "Alejandro Lerroux",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Federico Salmón Amorín (2) (3) ​",
+      "start": "6 de mayo de 1935",
+      "end": "14 de diciembre de 1935",
+      "party": "CEDA",
+      "government": "Joaquín Chapaprieta",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Alfredo Martínez García-Argüelles",
+      "start": "14 de diciembre de 1935",
+      "end": "30 de diciembre de 1935",
+      "party": "PRLD",
+      "government": "Manuel Portela Valladares",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Manuel Becerra Fernández",
+      "start": "30 de diciembre de 1935",
+      "end": "19 de febrero de 1936",
+      "party": "Centrista",
+      "government": "Manuel Portela Valladares",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Enrique Ramos Ramos",
+      "start": "19 de febrero de 1936",
+      "end": "13 de mayo de 1936",
+      "party": "IR",
+      "government": "Manuel Azaña",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Enrique Ramos Ramos",
+      "start": "19 de febrero de 1936",
+      "end": "13 de mayo de 1936",
+      "party": "IR",
+      "government": "Augusto Barcia Trelles ​",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Juan Lluhí",
+      "start": "13 de mayo de 1936",
+      "end": "19 de julio de 1936",
+      "party": "ERC",
+      "government": "Santiago Casares Quiroga",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Bernardo Giner de los Ríos",
+      "start": "19 de julio de 1936",
+      "end": "19 de julio de 1936",
+      "party": "UR",
+      "government": "Diego Martínez Barrio",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Juan Lluhí",
+      "start": "19 de julio de 1936",
+      "end": "4 de septiembre de 1936",
+      "party": "ERC",
+      "government": "José Giral",
+      "period": "Segunda República"
+    },
+    {
+      "name": "José Tomás Piera",
+      "start": "4 de septiembre de 1936",
+      "end": "4 de noviembre de 1936",
+      "party": "ERC",
+      "government": "Francisco Largo Caballero",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Anastasio de Gracia Villarrubia",
+      "start": "4 de septiembre de 1936",
+      "end": "17 de mayo de 1937",
+      "party": "PSOE",
+      "government": "Francisco Largo Caballero",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Jaume Aiguadé Miró",
+      "start": "17 de mayo de 1937",
+      "end": "6 de agosto de 1938",
+      "party": "ERC",
+      "government": "Juan Negrín",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Josep Moix i Regàs",
+      "start": "6 de agosto de 1938",
+      "end": "5 de marzo de 1939",
+      "party": "PSUC",
+      "government": "Juan Negrín",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Antonio Pérez García (6) ​",
+      "start": "6 de marzo de 1939",
+      "end": "26 de marzo de 1939",
+      "party": "Sindicalista de UGT",
+      "government": "Consejo Nacional de Defensa",
+      "period": "Segunda República"
+    },
+    {
+      "name": "Alejandro Gallo Artacho",
+      "start": "3 de octubre de 1936",
+      "end": "31 de enero de 1938",
+      "party": "",
+      "government": "Junta Técnica del Estado (Guerra civil española 1936-1939)",
+      "period": "Dictadura franquista"
+    },
+    {
+      "name": "Pedro González Bueno",
+      "start": "31 de enero de 1938",
+      "end": "9 de agosto de 1939 ​",
+      "party": "",
+      "government": "I Gobierno de Francisco Franco",
+      "period": "Dictadura franquista"
+    },
+    {
+      "name": "Joaquín Benjumea Burín",
+      "start": "9 de agosto de 1939",
+      "end": "19 de mayo de 1941",
+      "party": "Movimiento Nacional",
+      "government": "II Gobierno de Francisco Franco",
+      "period": "Dictadura franquista"
+    },
+    {
+      "name": "José Antonio Girón de Velasco",
+      "start": "19 de mayo de 1941",
+      "end": "25 de febrero de 1957",
+      "party": "Movimiento Nacional",
+      "government": "II Gobierno de Francisco Franco",
+      "period": "Dictadura franquista"
+    },
+    {
+      "name": "José Antonio Girón de Velasco",
+      "start": "19 de mayo de 1941",
+      "end": "25 de febrero de 1957",
+      "party": "Movimiento Nacional",
+      "government": "III Gobierno de Francisco Franco",
+      "period": "Dictadura franquista"
+    },
+    {
+      "name": "José Antonio Girón de Velasco",
+      "start": "19 de mayo de 1941",
+      "end": "25 de febrero de 1957",
+      "party": "Movimiento Nacional",
+      "government": "IV Gobierno de Francisco Franco",
+      "period": "Dictadura franquista"
+    },
+    {
+      "name": "Fermín Sanz-Orrio y Sanz",
+      "start": "25 de febrero de 1957",
+      "end": "10 de julio de 1962",
+      "party": "Movimiento Nacional",
+      "government": "V Gobierno de Francisco Franco",
+      "period": "Dictadura franquista"
+    },
+    {
+      "name": "Jesús Romeo Gorría",
+      "start": "10 de julio de 1962",
+      "end": "29 de octubre de 1969",
+      "party": "Movimiento Nacional",
+      "government": "VI Gobierno de Francisco Franco",
+      "period": "Dictadura franquista"
+    },
+    {
+      "name": "Jesús Romeo Gorría",
+      "start": "10 de julio de 1962",
+      "end": "29 de octubre de 1969",
+      "party": "Movimiento Nacional",
+      "government": "VII Gobierno de Francisco Franco",
+      "period": "Dictadura franquista"
+    },
+    {
+      "name": "Licinio de la Fuente y de la Fuente",
+      "start": "29 de octubre de 1969",
+      "end": "4 de marzo de 1975",
+      "party": "Movimiento Nacional",
+      "government": "VIII Gobierno de Francisco Franco",
+      "period": "Dictadura franquista"
+    },
+    {
+      "name": "Licinio de la Fuente y de la Fuente",
+      "start": "29 de octubre de 1969",
+      "end": "4 de marzo de 1975",
+      "party": "Movimiento Nacional",
+      "government": "Luis Carrero Blanco",
+      "period": "Dictadura franquista"
+    },
+    {
+      "name": "Licinio de la Fuente y de la Fuente",
+      "start": "29 de octubre de 1969",
+      "end": "4 de marzo de 1975",
+      "party": "Movimiento Nacional",
+      "government": "Torcuato Fernández-Miranda ​",
+      "period": "Dictadura franquista"
+    },
+    {
+      "name": "Licinio de la Fuente y de la Fuente",
+      "start": "29 de octubre de 1969",
+      "end": "4 de marzo de 1975",
+      "party": "Movimiento Nacional",
+      "government": "Carlos Arias Navarro ​",
+      "period": "Dictadura franquista"
+    },
+    {
+      "name": "Licinio de la Fuente y de la Fuente",
+      "start": "29 de octubre de 1969",
+      "end": "4 de marzo de 1975",
+      "party": "Movimiento Nacional",
+      "government": "Carlos Arias Navarro",
+      "period": "Dictadura franquista"
+    },
+    {
+      "name": "Fernando Suárez González",
+      "start": "4 de marzo de 1975",
+      "end": "11 de diciembre de 1975",
+      "party": "Movimiento Nacional",
+      "government": "Carlos Arias Navarro",
+      "period": "Dictadura franquista"
+    },
+    {
+      "name": "José Solís Ruiz",
+      "start": "11 de diciembre de 1975",
+      "end": "5 de julio de 1976",
+      "party": "Movimiento Nacional",
+      "government": "Carlos Arias Navarro",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Álvaro Rengifo Calderón",
+      "start": "5 de julio de 1976",
+      "end": "4 de julio de 1977",
+      "party": "Movimiento Nacional",
+      "government": "Adolfo Suárez González",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Manuel Jiménez de Parga",
+      "start": "4 de julio de 1977",
+      "end": "24 de febrero de 1978",
+      "party": "UCD",
+      "government": "Adolfo Suárez González",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Rafael Calvo Ortega",
+      "start": "24 de febrero de 1978",
+      "end": "3 de mayo de 1980",
+      "party": "UCD",
+      "government": "Adolfo Suárez González",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Salvador Sánchez-Terán Hernández",
+      "start": "3 de mayo de 1980",
+      "end": "9 de septiembre de 1980",
+      "party": "UCD",
+      "government": "Adolfo Suárez González",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Félix Manuel Pérez Miyares",
+      "start": "9 de septiembre de 1980",
+      "end": "26 de febrero de 1981",
+      "party": "UCD",
+      "government": "Adolfo Suárez González",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Jesús Sancho Rof",
+      "start": "26 de febrero de 1981",
+      "end": "2 de diciembre de 1981",
+      "party": "UCD",
+      "government": "Leopoldo Calvo Sotelo",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Santiago Rodríguez-Miranda",
+      "start": "2 de diciembre de 1981",
+      "end": "2 de diciembre de 1982",
+      "party": "UCD",
+      "government": "Leopoldo Calvo Sotelo",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Joaquín Almunia Amann",
+      "start": "2 de diciembre de 1982",
+      "end": "25 de julio de 1986",
+      "party": "PSOE",
+      "government": "Gobiernos de Felipe González",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Manuel Chaves González",
+      "start": "25 de julio de 1986",
+      "end": "2 de mayo de 1990",
+      "party": "PSOE",
+      "government": "Gobiernos de Felipe González",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Luis Martínez Noval",
+      "start": "2 de mayo de 1990",
+      "end": "13 de julio de 1993",
+      "party": "PSOE",
+      "government": "Gobiernos de Felipe González",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "José Antonio Griñán Martínez",
+      "start": "13 de julio de 1993",
+      "end": "5 de mayo de 1996",
+      "party": "PSOE",
+      "government": "Gobiernos de Felipe González",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Javier Arenas Bocanegra",
+      "start": "5 de mayo de 1996",
+      "end": "20 de enero de 1999",
+      "party": "PP",
+      "government": "Gobiernos de José María Aznar",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Manuel Pimentel",
+      "start": "20 de enero de 1999",
+      "end": "21 de febrero de 2000",
+      "party": "PP",
+      "government": "Gobiernos de José María Aznar",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Juan Carlos Aparicio Pérez",
+      "start": "21 de febrero de 2000",
+      "end": "10 de julio de 2002",
+      "party": "PP",
+      "government": "Gobiernos de José María Aznar",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Eduardo Zaplana",
+      "start": "10 de julio de 2002",
+      "end": "17 de abril de 2004",
+      "party": "PP",
+      "government": "Gobiernos de José María Aznar",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Jesús Caldera",
+      "start": "17 de abril de 2004",
+      "end": "14 de abril de 2008",
+      "party": "PSOE",
+      "government": "Gobiernos de Rodríguez Zapatero",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Celestino Corbacho",
+      "start": "14 de abril de 2008",
+      "end": "21 de octubre de 2010",
+      "party": "PSOE",
+      "government": "Gobiernos de Rodríguez Zapatero",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Valeriano Gómez",
+      "start": "21 de octubre de 2010",
+      "end": "21 de diciembre de 2011",
+      "party": "PSOE",
+      "government": "Gobiernos de Rodríguez Zapatero",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Fátima Báñez",
+      "start": "21 de diciembre de 2011",
+      "end": "20 de diciembre de 2015 (en funciones)",
+      "party": "PP",
+      "government": "1.º Gobierno de Mariano Rajoy",
+      "period": "Juan Carlos I"
+    },
+    {
+      "name": "Fátima Báñez",
+      "start": "21 de diciembre de 2011",
+      "end": "7 de junio de 2018",
+      "party": "PP",
+      "government": "2.º Gobierno de Mariano Rajoy",
+      "period": "Felipe VI"
+    },
+    {
+      "name": "Magdalena Valerio",
+      "start": "7 de junio de 2018",
+      "end": "13 de enero de 2020",
+      "party": "PSOE",
+      "government": "1.º Gobierno de Pedro Sánchez",
+      "period": "Felipe VI"
+    },
+    {
+      "name": "Yolanda Díaz",
+      "start": "13 de enero de 2020",
+      "end": "21 de noviembre de 2023",
+      "party": "PCE / UP",
+      "government": "2.º Gobierno de Pedro Sánchez",
+      "period": "Felipe VI"
+    },
+    {
+      "name": "Yolanda Díaz",
+      "start": "21 de noviembre de 2023",
+      "end": "En el cargo",
+      "party": "Sumar",
+      "government": "3.º Gobierno de Pedro Sánchez",
+      "period": "Felipe VI"
+    }
+  ],
+  "meta": {
+    "title": "Ministros de Trabajo de España - Free Download",
+    "description": "Titulares del Ministerio de Trabajo de España desde su creación en 1920: nombre, inicio y fin del mandato, partido político y gobierno. Contains 75 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministros de Trabajo de España | ListBase",
+    "seo_description": "Download Ministros de Trabajo de España — 75 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 75 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Ministros_de_Trabajo_de_España"
+    ]
+  }
+}

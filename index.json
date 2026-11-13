@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-13T02:19:22.168Z",
-  "total_datasets": 561,
-  "total_records": 433995,
+  "generated": "2026-11-13T02:19:30.999Z",
+  "total_datasets": 562,
+  "total_records": 434070,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -531,6 +531,33 @@
         "xlsx": {
           "name": "es-mexico-zonas-metropolitanas-pib_ES.xlsx",
           "size": 9385
+        }
+      }
+    },
+    {
+      "id": "es-ministros-de-trabajo",
+      "name": "Ministros de Trabajo de España",
+      "category": "economy",
+      "record_count": 75,
+      "columns": [
+        "name",
+        "start",
+        "end",
+        "party",
+        "government",
+        "period"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Ministros_de_Trabajo_de_España",
+      "updated": "2026-11",
+      "size": 20060,
+      "files": {
+        "csv": {
+          "name": "es-ministros-de-trabajo_ES.csv",
+          "size": 10011
+        },
+        "xlsx": {
+          "name": "es-ministros-de-trabajo_ES.xlsx",
+          "size": 10683
         }
       }
     },
