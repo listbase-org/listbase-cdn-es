@@ -1,12 +1,12 @@
 {
   "lang": "es",
-  "generated": "2026-11-12T02:22:28.145Z",
-  "total_datasets": 560,
-  "total_records": 433944,
+  "generated": "2026-11-13T02:19:22.168Z",
+  "total_datasets": 561,
+  "total_records": 433995,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -125,6 +125,32 @@
         "xlsx": {
           "name": "es-alimentos-protegidos-andalucia_ES.xlsx",
           "size": 9255
+        }
+      }
+    },
+    {
+      "id": "es-alimentos-protegidos-castilla-y-leon",
+      "name": "Alimentos con calidad diferenciada de Castilla y León",
+      "category": "agriculture",
+      "record_count": 51,
+      "columns": [
+        "product",
+        "food_group",
+        "protection",
+        "year",
+        "regulatory_council_seat"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Alimentos_protegidos_de_Castilla_y_León",
+      "updated": "2026-11",
+      "size": 12912,
+      "files": {
+        "csv": {
+          "name": "es-alimentos-protegidos-castilla-y-leon_ES.csv",
+          "size": 4857
+        },
+        "xlsx": {
+          "name": "es-alimentos-protegidos-castilla-y-leon_ES.xlsx",
+          "size": 8989
         }
       }
     },

@@ -1,0 +1,408 @@
+{
+  "id": "es-alimentos-protegidos-castilla-y-leon",
+  "name": "Alimentos con calidad diferenciada de Castilla y León",
+  "title": "Alimentos con calidad diferenciada de Castilla y León",
+  "description": "Productos agroalimentarios de Castilla y León con denominación de origen, indicación geográfica o marca de garantía: grupo de alimento, figura de protección, año de obtención y sede del consejo regulador.",
+  "category": "agriculture",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Alimentos_protegidos_de_Castilla_y_León",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Alimentos_protegidos_de_Castilla_y_León",
+  "updated": "2026-11",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "product",
+      "label": "Product",
+      "type": "string"
+    },
+    {
+      "key": "food_group",
+      "label": "Food Group",
+      "type": "string"
+    },
+    {
+      "key": "protection",
+      "label": "Protection",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "regulatory_council_seat",
+      "label": "Regulatory Council Seat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "product": "Carne de Ávila",
+      "food_group": "Carnes frescas",
+      "protection": "Indicación Geográfica",
+      "year": 1988,
+      "regulatory_council_seat": "Ávila"
+    },
+    {
+      "product": "Carne de Cervera y Montaña Palentina",
+      "food_group": "Carnes frescas",
+      "protection": "Marca de Garantía",
+      "year": 1998,
+      "regulatory_council_seat": "Cervera de Pisuerga (Palencia)"
+    },
+    {
+      "product": "Carne de las Merindades",
+      "food_group": "Carnes frescas",
+      "protection": "Marca de Garantía",
+      "year": 2000,
+      "regulatory_council_seat": "Villarcayo (Burgos)"
+    },
+    {
+      "product": "Carne de morucha de Salamanca",
+      "food_group": "Carnes frescas",
+      "protection": "Indicación Geográfica",
+      "year": 1995,
+      "regulatory_council_seat": "Salamanca"
+    },
+    {
+      "product": "Carne de Pinares-El Valle Carpival",
+      "food_group": "Carnes frescas",
+      "protection": "Marca de Garantía",
+      "year": 2001,
+      "regulatory_council_seat": "Abejar (Soria)"
+    },
+    {
+      "product": "Carne de vacuno Montañas del Teleno",
+      "food_group": "Carnes frescas",
+      "protection": "Marca de Garantía",
+      "year": 2000,
+      "regulatory_council_seat": "Val de San Lorenzo (León)"
+    },
+    {
+      "product": "Cochinillo de Segovia",
+      "food_group": "Carnes frescas",
+      "protection": "Marca de Garantía",
+      "year": 2002,
+      "regulatory_council_seat": "Segovia"
+    },
+    {
+      "product": "Lechazo de Castilla y León",
+      "food_group": "Carnes frescas",
+      "protection": "Indicación Geográfica",
+      "year": 1997,
+      "regulatory_council_seat": "Aranda de Duero (Burgos)"
+    },
+    {
+      "product": "Lechazo Montañas del Teleno",
+      "food_group": "Carnes frescas",
+      "protection": "Marca de Garantía",
+      "year": 1999,
+      "regulatory_council_seat": "Val de San Lorenzo (León)"
+    },
+    {
+      "product": "Ternera de Aliste",
+      "food_group": "Carnes frescas",
+      "protection": "Marca de Garantía",
+      "year": 1999,
+      "regulatory_council_seat": "Alcañices (Zamora)"
+    },
+    {
+      "product": "Ternera charra",
+      "food_group": "Carnes frescas",
+      "protection": "Marca de Garantía",
+      "year": 2000,
+      "regulatory_council_seat": "Salamanca"
+    },
+    {
+      "product": "Botillo del Bierzo",
+      "food_group": "Embutidos y carnes curadas",
+      "protection": "Indicación Geográfica",
+      "year": 2000,
+      "regulatory_council_seat": "Ponferrada (León)"
+    },
+    {
+      "product": "Cecina de chivo de Vegacervera",
+      "food_group": "Embutidos y carnes curadas",
+      "protection": "Marca de Garantía",
+      "year": 2005,
+      "regulatory_council_seat": "Vegacervera (León)"
+    },
+    {
+      "product": "Cecina de León",
+      "food_group": "Embutidos y carnes curadas",
+      "protection": "Indicación Geográfica",
+      "year": 1994,
+      "regulatory_council_seat": "Astorga (León)"
+    },
+    {
+      "product": "Chorizo de León",
+      "food_group": "Embutidos y carnes curadas",
+      "protection": "Marca de Garantía",
+      "year": 2012,
+      "regulatory_council_seat": "León"
+    },
+    {
+      "product": "Chorizo de Cantimpalos",
+      "food_group": "Embutidos y carnes curadas",
+      "protection": "Indicación Geográfica",
+      "year": 2008,
+      "regulatory_council_seat": "Cantimpalos (Segovia)"
+    },
+    {
+      "product": "Chorizo zamorano",
+      "food_group": "Embutidos y carnes curadas",
+      "protection": "Marca de Garantía",
+      "year": 2005,
+      "regulatory_council_seat": "Zamora"
+    },
+    {
+      "product": "Jamón de Guijuelo",
+      "food_group": "Embutidos y carnes curadas",
+      "protection": "Denominación de Origen",
+      "year": 1986,
+      "regulatory_council_seat": "Guijuelo (Salamanca)"
+    },
+    {
+      "product": "Queso Arribes de Salamanca",
+      "food_group": "Quesos y lácteos",
+      "protection": "Marca de Garantía",
+      "year": 2002,
+      "regulatory_council_seat": "Vitigudino (Salamanca)"
+    },
+    {
+      "product": "Queso Región del Duero",
+      "food_group": "Quesos y lácteos",
+      "protection": "Marca de Garantía",
+      "year": 2002,
+      "regulatory_council_seat": "Valladolid"
+    },
+    {
+      "product": "Queso de Valdeón",
+      "food_group": "Quesos y lácteos",
+      "protection": "Indicación Geográfica",
+      "year": 1996,
+      "regulatory_council_seat": "Posada de Valdeón (León)"
+    },
+    {
+      "product": "Queso zamorano",
+      "food_group": "Quesos y lácteos",
+      "protection": "Denominación de Origen",
+      "year": 1993,
+      "regulatory_council_seat": "Zamora"
+    },
+    {
+      "product": "Mantequilla de Soria",
+      "food_group": "Quesos y lácteos",
+      "protection": "Denominación de Origen",
+      "year": 2004,
+      "regulatory_council_seat": "Soria"
+    },
+    {
+      "product": "Alubia de La Bañeza",
+      "food_group": "Legumbres",
+      "protection": "Indicación Geográfica",
+      "year": 2005,
+      "regulatory_council_seat": "La Bañeza (León)"
+    },
+    {
+      "product": "Garbanzo de Fuentesaúco",
+      "food_group": "Legumbres",
+      "protection": "Indicación Geográfica",
+      "year": 2003,
+      "regulatory_council_seat": "Villares de la Reina (Salamanca)"
+    },
+    {
+      "product": "Judías de El Barco de Ávila",
+      "food_group": "Legumbres",
+      "protection": "Indicación Geográfica",
+      "year": 1989,
+      "regulatory_council_seat": "El Barco de Ávila (Ávila)"
+    },
+    {
+      "product": "Lenteja de la Armuña",
+      "food_group": "Legumbres",
+      "protection": "Indicación Geográfica",
+      "year": 1993,
+      "regulatory_council_seat": "Villares de la Reina (Salamanca)"
+    },
+    {
+      "product": "Lenteja pardina de Tierra de Campos",
+      "food_group": "Legumbres",
+      "protection": "Indicación Geográfica",
+      "year": 2004,
+      "regulatory_council_seat": "Mayorga (Valladolid)"
+    },
+    {
+      "product": "Cereza de las Caderechas",
+      "food_group": "Frutas y verduras",
+      "protection": "Marca de Garantía",
+      "year": 2004,
+      "regulatory_council_seat": "Salas de Bureba (Burgos)"
+    },
+    {
+      "product": "Cereza de la Sierra de Francia",
+      "food_group": "Frutas y verduras",
+      "protection": "Marca de Garantía",
+      "year": 2007,
+      "regulatory_council_seat": "Madroñal (Salamanca)"
+    },
+    {
+      "product": "Manzana reineta del Bierzo",
+      "food_group": "Frutas y verduras",
+      "protection": "Denominación de Origen",
+      "year": 1999,
+      "regulatory_council_seat": "Carracedelo (León)"
+    },
+    {
+      "product": "Manzana reineta de las Caderechas",
+      "food_group": "Frutas y verduras",
+      "protection": "Marca de Garantía",
+      "year": 2004,
+      "regulatory_council_seat": "Salas de Bureba (Burgos)"
+    },
+    {
+      "product": "Pera conferencia del Bierzo",
+      "food_group": "Frutas y verduras",
+      "protection": "Marca de Garantía",
+      "year": 2004,
+      "regulatory_council_seat": "Carracedelo (León)"
+    },
+    {
+      "product": "Pimiento asado del Bierzo",
+      "food_group": "Frutas y verduras",
+      "protection": "Indicación Geográfica",
+      "year": 2004,
+      "regulatory_council_seat": "Ponferrada (León)"
+    },
+    {
+      "product": "Pimiento de Fresno y Benavente",
+      "food_group": "Frutas y verduras",
+      "protection": "Indicación Geográfica",
+      "year": 2008,
+      "regulatory_council_seat": "Fresno de la Vega (León)"
+    },
+    {
+      "product": "Harina tradicional zamorana",
+      "food_group": "Panadería y repostería",
+      "protection": "Marca de Garantía",
+      "year": 2002,
+      "regulatory_council_seat": "Zamora"
+    },
+    {
+      "product": "Mantecadas de Astorga",
+      "food_group": "Panadería y repostería",
+      "protection": "Indicación Geográfica",
+      "year": 2004,
+      "regulatory_council_seat": "Astorga (León)"
+    },
+    {
+      "product": "Pan de Valladolid",
+      "food_group": "Panadería y repostería",
+      "protection": "Marca de Garantía",
+      "year": 2004,
+      "regulatory_council_seat": "Valladolid"
+    },
+    {
+      "product": "Arlanza",
+      "food_group": "Vinos",
+      "protection": "Denominación de Origen",
+      "year": 2007,
+      "regulatory_council_seat": "Lerma (Burgos)"
+    },
+    {
+      "product": "Arribes",
+      "food_group": "Vinos",
+      "protection": "Denominación de Origen",
+      "year": 2007,
+      "regulatory_council_seat": "Pereña de la Ribera (Salamanca)"
+    },
+    {
+      "product": "Bierzo",
+      "food_group": "Vinos",
+      "protection": "Denominación de Origen",
+      "year": 1989,
+      "regulatory_council_seat": "Cacabelos (León)"
+    },
+    {
+      "product": "Cigales",
+      "food_group": "Vinos",
+      "protection": "Denominación de Origen",
+      "year": 1991,
+      "regulatory_council_seat": "Cigales (Valladolid)"
+    },
+    {
+      "product": "Ribera del Duero",
+      "food_group": "Vinos",
+      "protection": "Denominación de Origen",
+      "year": 1982,
+      "regulatory_council_seat": "Roa (Burgos)"
+    },
+    {
+      "product": "Rueda",
+      "food_group": "Vinos",
+      "protection": "Denominación de Origen",
+      "year": 1989,
+      "regulatory_council_seat": "Rueda (Valladolid)"
+    },
+    {
+      "product": "Tierra del Vino de Zamora",
+      "food_group": "Vinos",
+      "protection": "Denominación de Origen",
+      "year": 2007,
+      "regulatory_council_seat": "Villanueva de Campeán (Zamora)"
+    },
+    {
+      "product": "Tierra de León",
+      "food_group": "Vinos",
+      "protection": "Denominación de Origen",
+      "year": 2007,
+      "regulatory_council_seat": "Valencia de Don Juan (León)"
+    },
+    {
+      "product": "Toro",
+      "food_group": "Vinos",
+      "protection": "Denominación de Origen",
+      "year": 1989,
+      "regulatory_council_seat": "Toro (Zamora)"
+    },
+    {
+      "product": "Valles de Benavente",
+      "food_group": "Vinos",
+      "protection": "Indicación Geográfica (VC)",
+      "year": 2004,
+      "regulatory_council_seat": "Brime de Urz (Zamora)"
+    },
+    {
+      "product": "Vino de la Tierra de Castilla y León",
+      "food_group": "Vinos",
+      "protection": "Vino de la Tierra",
+      "year": 2000,
+      "regulatory_council_seat": "Valladolid"
+    },
+    {
+      "product": "Vino de Valtiendas",
+      "food_group": "Vinos",
+      "protection": "Indicación Geográfica (VC)",
+      "year": 2007,
+      "regulatory_council_seat": "Valtiendas (Segovia)"
+    },
+    {
+      "product": "Vinos de Cebreros",
+      "food_group": "Vinos",
+      "protection": "Denominación de Origen",
+      "year": 2018,
+      "regulatory_council_seat": "Cebreros (Ávila)"
+    }
+  ],
+  "meta": {
+    "title": "Alimentos con calidad diferenciada de Castilla y León - Free Download",
+    "description": "Productos agroalimentarios de Castilla y León con denominación de origen, indicación geográfica o marca de garantía: grupo de alimento, figura de protección, año de obtención y sede del consejo regulador. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Alimentos con calidad diferenciada de Castilla y León | ListBase",
+    "seo_description": "Download Alimentos con calidad diferenciada de Castilla y León — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Alimentos_protegidos_de_Castilla_y_León"
+    ]
+  }
+}
