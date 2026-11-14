@@ -1,0 +1,254 @@
+{
+  "id": "es-fiestas-tradicionales-del-peru",
+  "name": "Fiestas tradicionales del Perú",
+  "title": "Fiestas tradicionales del Perú",
+  "description": "Principales fiestas patronales, costumbristas y conmemorativas del Perú con fecha, localidad, departamento y descripción.",
+  "category": "culture",
+  "source": "https://es.wikipedia.org/wiki/Fiestas_del_Perú",
+  "source_url": "https://es.wikipedia.org/wiki/Fiestas_del_Perú",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "fecha",
+      "label": "Fecha",
+      "type": "string"
+    },
+    {
+      "key": "fiesta",
+      "label": "Fiesta",
+      "type": "string"
+    },
+    {
+      "key": "localidad",
+      "label": "Localidad",
+      "type": "string"
+    },
+    {
+      "key": "departamento",
+      "label": "Departamento",
+      "type": "string"
+    },
+    {
+      "key": "notas",
+      "label": "Notas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "fecha": "1 al 6 de enero",
+      "fiesta": "Fiesta de San Esteban y la Purísima",
+      "localidad": "Chetilla",
+      "departamento": "Cajamarca",
+      "notas": "Fiesta patronal costumbrista que moviliza gran cantidad de fieles en la sierra norte del Perú."
+    },
+    {
+      "fecha": "18 de enero",
+      "fiesta": "Aniversario de Lima",
+      "localidad": "Lima",
+      "departamento": "Lima",
+      "notas": "Se conmemora el día de la fundación española de la ciudad, en el centro de la ciudad (Centro histórico) se llevan a cabo diferentes actividades turísticas."
+    },
+    {
+      "fecha": "25 de enero - 8 de febrero",
+      "fiesta": "Fiesta de la Virgen de la Candelaria",
+      "localidad": "Puno",
+      "departamento": "Puno",
+      "notas": "Durante 18 días fieles y danzantes veneran a la virgen de la Candelaria en la Iglesia de San Juan. El culto posiblemente esté asociado con el rito vital prehispánico a la Pachamama o Madre Tierra. Los orígenes católicos de esta muestra de fe andina, se remontan al siglo XVI. La fiesta se inicia nueve días antes (novena), cuando los mayordomos arreglan el templo y organizan tres misas con banquetes y juegos pirotécnicos. El día central, 2 de febrero, la Virgen de la Candelaria deja el templo para recorrer las calles en un marco inimaginable de demostraciones folklóricas. También se festeja en el Valle del Colca."
+    },
+    {
+      "fecha": "20 al 30 de enero",
+      "fiesta": "Concurso Nacional de Marinera",
+      "localidad": "Trujillo",
+      "departamento": "La Libertad",
+      "notas": "Concurso de marinera, baile nacional patrimonio cultural peruano, organizado desde 1960 por el centenario del Club Libertad de Trujillo."
+    },
+    {
+      "fecha": "2 de febrero",
+      "fiesta": "Señor de la Buena Muerte de Chocán",
+      "localidad": "Piura, Sullana y Querecotillo",
+      "departamento": "Piura",
+      "notas": "La imagen es representada por un Cristo crucificado tallado en madera, devoción iniciada durante la época de Francisco Pizarro. La efigie se venera y sale en procesión desde la Parroquia San Francisco Javier en el distrito de Querecotillo en el Departamento de Piura."
+    },
+    {
+      "fecha": "12 y 17 de febrero",
+      "fiesta": "Festival Internacional de la Tuna, Cochinilla y Plantas Nativas",
+      "localidad": "Ayacucho",
+      "departamento": "Ayacucho",
+      "notas": "Se desarrolla la exposición y venta de la tuna, cochinilla y derivados, así como de plantas nativas procedentes de la biodiversidad del Departamento de Ayacucho. También se cuenta con la participación de países invitados productores de dichos productos naturales."
+    },
+    {
+      "fecha": "Febrero",
+      "fiesta": "Verano Negro",
+      "localidad": "Chincha Alta",
+      "departamento": "Ica",
+      "notas": "Se aprecian danzas afroperuanas durante el concurso de baile realizado en el Coliseo Cerrado."
+    },
+    {
+      "fecha": "2 al 10 de marzo",
+      "fiesta": "Festival Internacional de la Vendimia",
+      "localidad": "Ica",
+      "departamento": "Ica",
+      "notas": "Evento que se realiza desde 1958 para promocionar la actividad vitivinícola de la zona, dando prioridad a la producción del pisco."
+    },
+    {
+      "fecha": "5 de marzo",
+      "fiesta": "Aniversario de la Fundación de Trujillo",
+      "localidad": "Trujillo",
+      "departamento": "La Libertad",
+      "notas": "Trujillo fue fundado el 6 de diciembre de 1534 por Diego de Almagro con el nombre de Trujillo de Nueva Castilla en honor al nombre de la ciudad de nacimiento del conquistador de Perú Francisco Pizarro, no obstante Pizarro oficializó la fundación de la ciudad el 5 de marzo de 1535."
+    },
+    {
+      "fecha": "Entre marzo y abril",
+      "fiesta": "Señor de los Temblores",
+      "localidad": "Cuzco",
+      "departamento": "Cuzco",
+      "notas": "Fiesta declarada Patrimonio cultural de la nación en 2007."
+    },
+    {
+      "fecha": "Marzo",
+      "fiesta": "Señor Nazareno Cautivo",
+      "localidad": "Monsefú",
+      "departamento": "Lambayeque",
+      "notas": "Fiesta patronal, comercial, cuya antigüedad se remonta al año 1947, rindiéndose devoción y recogimiento al santo Cristo, patrón de Monsefú, desarrollándose importantes eventos folklóricos y populares."
+    },
+    {
+      "fecha": "1 de abril al 31 de mayo",
+      "fiesta": "Virgen de Chapi",
+      "localidad": "Arequipa",
+      "departamento": "Arequipa",
+      "notas": "Peregrinación que atraviesa el desierto arequipeño para venerar a la Virgen de la Purificación o Virgen de Chapi. Los peregrinos cargan piedras de distintos tamaño que dejan antes de Chapi, formando las llamadas apachetas, que simbolizan los pecados de los devotos. Por las noches, se vela con infinidad de cirios la imagen de la Virgen que saldrá en procesión. También hay espectáculos de fuegos artificiales y se ofrecen viandas típicas."
+    },
+    {
+      "fecha": "3 de mayo",
+      "fiesta": "Señor de Muruhuay",
+      "localidad": "Acobamba",
+      "departamento": "Junín",
+      "notas": "Durante todo el mes de mayo se organizan misas en honor al Señor de Muruhuay, después las cuadrillas de feligreses empiezan a danzar \"la chonguinada \", \"los negritos\" o \"los Huatrilas\", por último se sirven viandas típicas. La imagen del Señor Crucificado, pintada en las faldas del cerro Shalacoto, recibe en esta fecha la veneración de miles de peregrinos. En esta celebración perviven antiguos ritos al agua, la tierra y la piedra."
+    },
+    {
+      "fecha": "Junio",
+      "fiesta": "Corpus Christi en Cuzco",
+      "localidad": "Cuzco",
+      "departamento": "Cuzco",
+      "notas": "Es la fiesta religiosa más importante del Cusco destinada a celebrar la Eucaristía. Son 2 semanas de procesiones, eventos religiosos y fiestas. Quince santos y vírgenes de los distritos del Cusco llegan en procesión a la Catedral para saludar al cuerpo de Cristo, es decir, a la hostia consagrada en la custodia de oro macizo de 26 kilos. Durante la vigilia de la noche anterior se sirven platos típicos."
+    },
+    {
+      "fecha": "Junio",
+      "fiesta": "Fiesta de San Juan",
+      "localidad": "Selva peruana",
+      "departamento": "Selva peruana",
+      "notas": "La fiesta más importante de la Amazonía peruana simboliza la renovación de la fe con la figura de San Juan Bautista y el poder del agua, elemento vital en la región. Por eso, en Moyobamba, Iquitos y Pucallpa (Yarinacocha), los pobladores se purifican en las aguas de los ríos o lagos. En la fecha también se realizan festivales de música y danzas típicas, ferias agroindustriales y artesanales y se preparan platos de la región, como los famosos juanes (tamales de arroz) que representan la cabeza del santo. Iquitos: Del 2 al 26 de junio Moyobamba: Del 22 al 30 de junio Tingo María: Del 12 al 24 de junio Ucayali: Del 19 al 24 de junio"
+    },
+    {
+      "fecha": "24 de junio",
+      "fiesta": "Inti Raymi",
+      "localidad": "Cuzco",
+      "departamento": "Cuzco",
+      "notas": "Fiesta del Sol, que coincide con el solsticio de invierno y las cosechas. En la fortaleza de Sacsayhuamán se escenifica el ceremonial, siguiendo un elaborado guion que incluye el sacrificio de dos llamas para vaticinar el futuro. El Inca, quien ha instado a las autoridades en la plaza mayor del Cusco a realizar un buen gobierno, preside la ceremonia. Al atardecer, el Inca ordena el fin y se genera una fiesta grandiosa."
+    },
+    {
+      "fecha": "Entre mayo y junio",
+      "fiesta": "Qoyllur Rit'i",
+      "localidad": "Cuzco",
+      "departamento": "Cuzco",
+      "notas": "Es la peregrinación de naciones indígenas más grande de América. Más de 10 mil personas llegan a Sinakara, al pie del nevado Ausangate (6362 m s. n. m.), para rendir culto a una pintura del Niño Jesús. Es muy simbólico el ascenso de un grupo de fuertes Queros a las cumbres del nevado para buscar la Estrella de la Nieve (Qoyllur Ritt’i), que se encuentra encerrada en sus entrañas. De regreso a sus comunidades quechuas, ellos llevarán sobre sus espaldas grandes bloques de hielo para regar sus tierras con el agua sagrada."
+    },
+    {
+      "fecha": "Última semana de junio",
+      "fiesta": "Fiesta Patronal de San Pedrito",
+      "localidad": "Chimbote",
+      "departamento": "Áncash",
+      "notas": "La Fiesta Patronal de San Pedrito es la celebración religiosa más importante de todos los puertos y caletas del Perú, pero se desarrolla con mayor efusividad en la ciudad portuaria de Chimbote. Se sigue un programa especial que suele empezar desde el 19 de junio (con actividades institucionales) hasta el 2 de julio con una misa de acción de gracias; el día central es el 29 de junio donde la Diócesis de Chimbote realiza la Peregrinación en el Mar en la cual cientos de chimbotanos y visitantes abarrotan el muelle Gildemeister para subir a las embarcaciones que devotas, acompañan al patrón San Pedrito a su tradicional recorrido pesquero por la bahía e islas."
+    },
+    {
+      "fecha": "15 al 18 de julio",
+      "fiesta": "Fiesta de la Virgen del Carmen de Paucartambo",
+      "localidad": "Paucartambo",
+      "departamento": "Cuzco",
+      "notas": "Culto a la Patrona de los Mestizos, es decir, la Virgen del Carmen o Mamacha Carmen."
+    },
+    {
+      "fecha": "15 de agosto",
+      "fiesta": "Aniversario de Arequipa",
+      "localidad": "Arequipa",
+      "departamento": "Arequipa",
+      "notas": "Arequipa fue fundada el 15 de agosto de 1540 por Garcí Manuel de Carbajal en el valle del río Chili como la \"Villa de la Asunción de Nuestra Señora del Valle Hermoso de Arequipa\", en un área ocupada por algunos poblados indígenas."
+    },
+    {
+      "fecha": "Primera semana de agosto",
+      "fiesta": "Cruz de Chalpón",
+      "localidad": "Motupe",
+      "departamento": "Lambayeque",
+      "notas": "Esta devoción se inicia en el siglo XVII, cuando una cruz de madera, erigida por un anacoreta, obró el prodigio de librar al pueblo de una inminente inundación. Desde entonces, el milagroso lugar es centro de peregrinación de miles de creyentes que llegan para agradecer por los favores concedidos. En esta fecha también se realizan la exhibición de caballos de paso, el concurso de bandas de músicos y la degustación de platos típicos."
+    },
+    {
+      "fecha": "1 de septiembre al 30 de octubre",
+      "fiesta": "Festival Internacional de la Primavera",
+      "localidad": "Trujillo",
+      "departamento": "La Libertad",
+      "notas": "Las calles y las casas de la colonial ciudad de Trujillo se adornan para presenciar el desfile de carros alegóricos, que es encabezado por la Reina de la Primavera, a quien siguen las bellezas extranjeras y nacionales. También concitan el sumo interés las habilidosas demostraciones de las waripoleras llegadas de otros países."
+    },
+    {
+      "fecha": "24 de septiembre",
+      "fiesta": "Festividad de la Virgen de las Mercedes de Paita",
+      "localidad": "Paita",
+      "departamento": "Piura",
+      "notas": "Festividad donde se venera a la Virgen de La Mercedes, que fue llamada por el Papa Juan Pablo II en su primera visita al Perú en 1985, “La Estrella de la Fe y de la Evangelización”."
+    },
+    {
+      "fecha": "Primer jueves al tercer lunes de octubre",
+      "fiesta": "Señor de Luren",
+      "localidad": "Ica",
+      "departamento": "Ica",
+      "notas": "El origen de la devoción a la imagen del Señor de Luren, patrono de la ciudad de Ica, se remonta a 1570, cuando misteriosamente se extravió en el desierto para aparecer en un paraje desolado denominado Luren, donde se levantó un pequeño templo y un hospital para indios. El día central la agónica imagen de madera, acompañada de la Virgen María y la Magdalena, sale en procesión para recorrer la ciudad durante toda la noche y el amanecer."
+    },
+    {
+      "fecha": "6 al 9 de octubre",
+      "fiesta": "Fiesta de la Virgen de Rosario de Huallhua - San Salvador",
+      "localidad": "Calca",
+      "departamento": "Cuzco",
+      "notas": "Hermoso paraje donde familias enteras se dan cita para rendir sus plegarias a la \"Mamacha del Rosario\", milagrosa imagen que hizo su aparición en la época de la colonia en una pared de adobe. \"San Salvador\" es considerado como la \"Cuna del Folclore del Valle Sagrado de los Incas\", y debido al colorido y majestuosidad de su folclore muchos pueblos han imitado sus danzas, según historiadores cusqueños, la provincia de Paucartambo sería una de ellas. Durante la festividad se realizan misas en quechua y castellano, donde se interpreta música religiosa del estilo andino y se cumple la procesión de la venerada imagen con la participación de fieles y danzantes. En los cuatro días se puede apreciar el despliegue de 14 bailes típicos de la zona, tales como: Qhapaq Chuncho, Saqra, Negrillos, Siqlla, Qhapaq Negro, Kachampa, Qoyacha, Majeño, Chunchacha, QhapaqQolla, entre otras.\""
+    },
+    {
+      "fecha": "15 al 31 de octubre",
+      "fiesta": "Señor Cautivo de Ayabaca",
+      "localidad": "Ayabaca",
+      "departamento": "Piura",
+      "notas": "Miles de peregrinos del norte del Perú y del sur de Ecuador llegan a Ayabaca para cumplir con sus votos de fidelidad al Cristo Cautivo. Las calles del pueblo, alfombradas con flores, ven pasar la procesión con la imagen tallada en 1751 y a los penitentes. En el mismo lugar se ofrendaba en tiempos prehispánicos pagos a los centros de culto de Aypate y La Huaca."
+    },
+    {
+      "fecha": "3 de noviembre",
+      "fiesta": "San Martín de Porres",
+      "localidad": "Lima Metropolitana",
+      "departamento": "Lima",
+      "notas": "Se venera al primer santo mulato de América."
+    },
+    {
+      "fecha": "12 al 15 de diciembre",
+      "fiesta": "Virgen de la Puerta",
+      "localidad": "Otuzco",
+      "departamento": "La Libertad",
+      "notas": "La Mamita de la Puerta está asociada con la ayuda a los enfermos y desvalidos. Su salida de la iglesia es todo un espectáculo: desciende desde lo alto del templo por un ingenioso artificio para luego ser cargada en procesión por los cofrades. La imagen lleva una larga túnica engastada con joyas y se sustenta sobre una media luna de plata y metales preciosos."
+    },
+    {
+      "fecha": "29 de diciembre",
+      "fiesta": "Aniversario de la Independencia de Trujillo",
+      "localidad": "Trujillo",
+      "departamento": "La Libertad",
+      "notas": "Feriado oficial en Trujillo. El intendente de la ciudad de Trujillo, José Bernardo de Torre Tagle, lideró un movimiento independentista que culminó con la declaración de la independencia de Trujillo, ante un cabildo abierto reunido en la Plaza de Armas de la ciudad. Para esta proclamación se confeccionó una de las primeras banderas peruanas según el modelo ideado por San Martín, que fue velada la noche anterior en la histórica Casa del Marqués de Facalá. De esta manera, el 29 de diciembre de 1820 se proclamó la independencia de Trujillo."
+    }
+  ],
+  "meta": {
+    "title": "Fiestas tradicionales del Perú - Free Download",
+    "description": "Principales fiestas patronales, costumbristas y conmemorativas del Perú con fecha, localidad, departamento y descripción. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fiestas tradicionales del Perú | ListBase",
+    "seo_description": "Download Fiestas tradicionales del Perú — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Fiestas_del_Perú"
+    ]
+  }
+}
