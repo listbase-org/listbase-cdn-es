@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-14T02:11:38.336Z",
-  "total_datasets": 565,
-  "total_records": 434290,
+  "generated": "2026-11-14T02:11:47.106Z",
+  "total_datasets": 566,
+  "total_records": 434316,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -3512,6 +3512,31 @@
         "xlsx": {
           "name": "es-festival-vina-del-mar-ganadores_ES.xlsx",
           "size": 11528
+        }
+      }
+    },
+    {
+      "id": "es-grammy-latino-grabacion-del-ano",
+      "name": "Premio Grammy Latino a la grabación del año",
+      "category": "music",
+      "record_count": 26,
+      "columns": [
+        "ano",
+        "artista",
+        "cancion",
+        "creditos"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Premio_Grammy_Latino_por_grabación_del_año",
+      "updated": "2026-11",
+      "size": 8817,
+      "files": {
+        "csv": {
+          "name": "es-grammy-latino-grabacion-del-ano_ES.csv",
+          "size": 5107
+        },
+        "xlsx": {
+          "name": "es-grammy-latino-grabacion-del-ano_ES.xlsx",
+          "size": 9215
         }
       }
     },

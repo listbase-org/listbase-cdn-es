@@ -1,0 +1,202 @@
+{
+  "id": "es-grammy-latino-grabacion-del-ano",
+  "name": "Premio Grammy Latino a la grabación del año",
+  "title": "Premio Grammy Latino a la grabación del año",
+  "description": "Ganadores del Grammy Latino a la grabación del año desde el año 2000: artista, canción y créditos de producción.",
+  "category": "music",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Premio_Grammy_Latino_por_grabación_del_año",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Premio_Grammy_Latino_por_grabación_del_año",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "ano",
+      "label": "Ano",
+      "type": "number"
+    },
+    {
+      "key": "artista",
+      "label": "Artista",
+      "type": "string"
+    },
+    {
+      "key": "cancion",
+      "label": "Cancion",
+      "type": "string"
+    },
+    {
+      "key": "creditos",
+      "label": "Creditos",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ano": 2000,
+      "artista": "Santana con Maná",
+      "cancion": "Corazón espinado",
+      "creditos": "Fernando Olvera and K. C. Porter, productores Benny Faccone, ingeniero/mezcla"
+    },
+    {
+      "ano": 2001,
+      "artista": "Alejandro Sanz",
+      "cancion": "El alma al aire",
+      "creditos": "Emanuele Ruffinengo, productor Roberto Cantele and Roberto Maccagno, ingenieros/mezcla"
+    },
+    {
+      "ano": 2002,
+      "artista": "Alejandro Sanz",
+      "cancion": "Y solo se me ocurre amarte",
+      "creditos": "Humberto Gatica, productor Chris Brook and Eric Schilling, ingenieros/mezcla"
+    },
+    {
+      "ano": 2003,
+      "artista": "Juanes",
+      "cancion": "Es por ti",
+      "creditos": "Gustavo Santaolalla, productor Aníbal Kerpel & Thom Russo, ingenieros"
+    },
+    {
+      "ano": 2004,
+      "artista": "Alejandro Sanz",
+      "cancion": "No es lo mismo",
+      "creditos": "Lulo Pérez, productor Mick Guzauski & Rafa Sardina, ingenieros/mezcla"
+    },
+    {
+      "ano": 2005,
+      "artista": "Alejandro Sanz",
+      "cancion": "Tú no tienes alma",
+      "creditos": "Lulo Pérez, productor Carlos Álvarez, Oscar Vinader & Rafa Sardina, ingenieros/mezcla"
+    },
+    {
+      "ano": 2006,
+      "artista": "Shakira & Alejandro Sanz",
+      "cancion": "La tortura",
+      "creditos": "Léster Méndez & Shakira, productores Gustavo Celis, Kevin Killen & Ron Jabobs, ingenieros/mezcla"
+    },
+    {
+      "ano": 2007,
+      "artista": "Juan Luis Guerra 440",
+      "cancion": "La llave de mi corazón",
+      "creditos": "Allan Leschhorn, productor Luis Mansilla & Ronnie Torres, ingenieros/mezcla"
+    },
+    {
+      "ano": 2008,
+      "artista": "Juanes",
+      "cancion": "Me enamora",
+      "creditos": "(*) Gustavo Santaolalla, productor Jorge Da Silva & Thom Russo, ingenieros/mezcla"
+    },
+    {
+      "ano": 2009,
+      "artista": "Calle 13 featuring Café Tacuba",
+      "cancion": "No hay nadie como tú",
+      "creditos": "Eduardo Cabra & René Pérez, productores Ivan Gutierrez, Ramon Martínez, Edgardo Matta & Carlos Velasquez, ingenieros/mezcla."
+    },
+    {
+      "ano": 2010,
+      "artista": "Camila",
+      "cancion": "Mientes",
+      "creditos": "Mario Domm, productor Gabriel Castañón, Benny Faccone & Peter Mokran, ingenieros/mezcla"
+    },
+    {
+      "ano": 2011,
+      "artista": "Calle 13 con Susana Baca, Totó la Momposina y Maria Rita",
+      "cancion": "Latinoamérica",
+      "creditos": "(*) Rafa Arcaute & Calle 13, productores Felipe Álvarez, Rafa Arcaute, Eduardo Cabra, David Cárdenas, Iván Gutiérrez, Ramón Martínez, Edgardo Matta, Daniel Ovie & Carlos Velázquez, ingenieros/mezcla"
+    },
+    {
+      "ano": 2012,
+      "artista": "Jesse & Joy",
+      "cancion": "¡Corre!",
+      "creditos": "(*) Martin Terefe, productor Ainsley Adams, Dyre Gormsen & Thomas Juth, ingenieros/mezcladores"
+    },
+    {
+      "ano": 2013,
+      "artista": "Marc Anthony",
+      "cancion": "Vivir mi vida",
+      "creditos": "Marc Anthony, Sergio George & Julio Reyes Copello, productores Juan Mario Aracil, Julio Reyes Copello, Carlos Álvarez & Sergio George, ingenieros/mezcladores Tom Coyne, máster"
+    },
+    {
+      "ano": 2014,
+      "artista": "Jorge Drexler con Ana Tijoux",
+      "cancion": "Universos paralelos",
+      "creditos": "Carles Campi Campón, Jorge Drexler, Mario Galeano & Sebastián Merlín, productores Carlos Barros, Carles Campi Campón, Néstor Cifuentes, Héctor Quídea, José María Rosillo, Simón Vélez, ingenieros/mezcladores Bori Alarcón, máster"
+    },
+    {
+      "ano": 2015,
+      "artista": "Natalia Lafourcade",
+      "cancion": "Hasta la raíz",
+      "creditos": "(*) Natalia Lafourcade & Cachorro López, productores Andrés Borda, Eduardo Del Águila, Demián Nava, Alan Ortiz Grande, Alan Saucedo, Sebastián Schon & Cesar Sogbe, ingenieros/mezcladores José Blanco, máster"
+    },
+    {
+      "ano": 2016,
+      "artista": "Carlos Vives & Shakira",
+      "cancion": "La bicicleta",
+      "creditos": "Andrés Castro, Luis Fernando Ochoa, Shakira & Carlos Vives, productores Carlos Hernández Carbonell, Andrés Castro, Gustavo Celis, Luis Barrera Jr., Andre Nascimbeni & Dave Clauss, ingenieros de grabación/mezcladores Adam Ayan, mastering"
+    },
+    {
+      "ano": 2017,
+      "artista": "Luis Fonsi con Daddy Yankee",
+      "cancion": "Despacito",
+      "creditos": "Mauricio Rengifo & Andrés Torres, productores Gaby Music, Mauricio Rengifo, Luis Saldarriaga & Andrés Torres, ingenieros de grabación Jaycen Joshua, mezclador Dave Kutch, mastering"
+    },
+    {
+      "ano": 2018,
+      "artista": "Jorge Drexler",
+      "cancion": "Telefonía",
+      "creditos": "Carles Campi Campón & Jorge Drexler, productores Carles Campi Campón & Ernesto García, ingenieros de grabación Matías Cella, mezclador Fred Kevorkian, máster"
+    },
+    {
+      "ano": 2019,
+      "artista": "Alejandro Sanz con Camila Cabello",
+      "cancion": "Mi persona favorita",
+      "creditos": "Alfonso Pérez, Julio Reyes Copello & Alejandro Sanz, productores Nicolás De La Espriella, Carlos Fernando López, Alfonso Pérez, Natalia Ramírez, Nicolás Ramírez & Julio Reyes Copello, ingenieros de grabación Trevor Lyle Muzzy, mezclador Gene Grimaldi, máster"
+    },
+    {
+      "ano": 2020,
+      "artista": "Alejandro Sanz",
+      "cancion": "Contigo",
+      "creditos": "Julio Reyes Copello & Rafa Sardina, productores James Fitzpatick, Jan Holzner, Nicolás Ramírez, Julio Reyes Copello & Rafa Sardina, ingenieros de grabación Nicolás Ramírez, mezcla Carlos Hernández Carbonell, máster"
+    },
+    {
+      "ano": 2021,
+      "artista": "Caetano Veloso & Tom Veloso",
+      "cancion": "Talvez",
+      "creditos": "Mário Adnet & Cézar Mendes, productores Lucas Ariel & Lucas Nunes, ingenieros de grabación Daniel Carvalho, mezclador e ingeniero de masterización"
+    },
+    {
+      "ano": 2022,
+      "artista": "Jorge Drexler & C. Tangana",
+      "cancion": "Tocarte",
+      "creditos": "Carles Campi Campón, Jorge Drexler, Víctor Martínez, Pablopablo & C. Tangana, productores Carles Campi Campón, ingeniero de grabación y mezclador Fred Kevorkian, ingeniero de masterización"
+    },
+    {
+      "ano": 2023,
+      "artista": "Natalia Lafourcade",
+      "cancion": "De todas las flores",
+      "creditos": "Adan Jodorowsky y Natalia Lafourcade, productores Gerardo Ordoñez, ingeniero de grabación y mezclador Bernie Grundman, ingeniero de masterización"
+    },
+    {
+      "ano": 2024,
+      "artista": "Juan Luis Guerra",
+      "cancion": "Mambo 23",
+      "creditos": "Juan Luis Guerra & Janina Rosado, productores Allan Leschhorn, ingeniero de grabación Allan Leschhorn, mezclador Adam Ayan, ingeniero de masterización"
+    },
+    {
+      "ano": 2025,
+      "artista": "Alejandro Sanz",
+      "cancion": "Palmeras en el Jardín",
+      "creditos": "Alejandro Sanz (Luis Miguel Gómez Castaño & Manuel Lorente Freire, record producers; Frank Lozano, Alfonso Pérez & Felipe Trujillo, recording engineers; Lewis Pickett, mixer; David Kutch, mastering engineer)"
+    }
+  ],
+  "meta": {
+    "title": "Premio Grammy Latino a la grabación del año - Free Download",
+    "description": "Ganadores del Grammy Latino a la grabación del año desde el año 2000: artista, canción y créditos de producción. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Premio Grammy Latino a la grabación del año | ListBase",
+    "seo_description": "Download Premio Grammy Latino a la grabación del año — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Premio_Grammy_Latino_por_grabación_del_año"
+    ]
+  }
+}
