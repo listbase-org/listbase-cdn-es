@@ -1,0 +1,331 @@
+{
+  "id": "es-monarcas-de-castilla",
+  "name": "Condes y reyes de Castilla",
+  "title": "Condes y reyes de Castilla",
+  "description": "Lista de los condes y monarcas de Castilla desde Fernán González hasta Carlos I, con sobrenombre, nacimiento, años de reinado, dinastía/periodo y comentarios.",
+  "category": "history",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Monarcas_de_Castilla",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Monarcas_de_Castilla",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "sobrenombre",
+      "label": "Sobrenombre",
+      "type": "string"
+    },
+    {
+      "key": "nacimiento",
+      "label": "Nacimiento",
+      "type": "string"
+    },
+    {
+      "key": "inicio",
+      "label": "Inicio",
+      "type": "number"
+    },
+    {
+      "key": "fin",
+      "label": "Fin",
+      "type": "number"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    },
+    {
+      "key": "comentarios",
+      "label": "Comentarios",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nombre": "Fernán González",
+      "sobrenombre": "",
+      "nacimiento": "c.910",
+      "inicio": "931",
+      "fin": "944",
+      "periodo": "Dinastía de los Lara",
+      "comentarios": "Unifica todos los condados de la Castilla fragmentada en el año 931 y se convierte en primer conde de Castilla unificada. Vuelve hereditario el Condado de Castilla."
+    },
+    {
+      "nombre": "Fernán González",
+      "sobrenombre": "",
+      "nacimiento": "c.910",
+      "inicio": "945",
+      "fin": "970",
+      "periodo": "Dinastía de los Lara",
+      "comentarios": "Unifica todos los condados de la Castilla fragmentada en el año 931 y se convierte en primer conde de Castilla unificada. Vuelve hereditario el Condado de Castilla."
+    },
+    {
+      "nombre": "Ansur Fernández",
+      "sobrenombre": "",
+      "nacimiento": "?",
+      "inicio": "944",
+      "fin": "945",
+      "periodo": "Dinastía de los Lara",
+      "comentarios": "Nombrado por el rey Ramiro II de León en contraposición de Fernán González y el conde de Saldaña que trataron de independizar Castilla."
+    },
+    {
+      "nombre": "García Fernández el de las Manos Blancas",
+      "sobrenombre": "",
+      "nacimiento": "c.938",
+      "inicio": "970",
+      "fin": "995",
+      "periodo": "Dinastía de los Lara",
+      "comentarios": "Hijo de Fernán González, hereda el condado de su padre. Su hijo Sancho García se rebela contra él y acaba convirtiéndose en conde."
+    },
+    {
+      "nombre": "Sancho García el de los Buenos Fueros",
+      "sobrenombre": "",
+      "nacimiento": "c.965 / c.967",
+      "inicio": "995",
+      "fin": "1017",
+      "periodo": "Dinastía de los Lara",
+      "comentarios": ""
+    },
+    {
+      "nombre": "García Sánchez el Infante",
+      "sobrenombre": "",
+      "nacimiento": "c.1009",
+      "inicio": "1017",
+      "fin": "1029",
+      "periodo": "Dinastía de los Lara",
+      "comentarios": "Asesinado en 1029 el día de sus nupcias con Sancha de León, se cree que por miembros de la familia Vela. Con su muerte, el esposo de su hermana, Sancho Garcés III reclama el condado y designa como conde a su hijo Fernando, incorporando Castilla al Reino de Pamplona hasta que Fernando se convirtió en rey de León en 1037."
+    },
+    {
+      "nombre": "Fernando I de León el Magno",
+      "sobrenombre": "",
+      "nacimiento": "c.1016",
+      "inicio": "1029",
+      "fin": "1065",
+      "periodo": "Casa de Navarra o Dinastía Jimena",
+      "comentarios": "Rey de León (1037-1065). Como rey de León, se reservó el territorio de Castilla personalmente, siendo administrado por oficiales."
+    },
+    {
+      "nombre": "Sancho II",
+      "sobrenombre": "",
+      "nacimiento": "c.1037",
+      "inicio": "1065",
+      "fin": "1072",
+      "periodo": "Dinastía Jimena",
+      "comentarios": "Rey de Galicia (1071-1072) Rey de León (1072)"
+    },
+    {
+      "nombre": "Sancho III",
+      "sobrenombre": "el Deseado",
+      "nacimiento": "Toledo, 1134",
+      "inicio": "1157",
+      "fin": "1158",
+      "periodo": "Casa de Borgoña",
+      "comentarios": "Hermano de Fernando II de León"
+    },
+    {
+      "nombre": "Alfonso VIII",
+      "sobrenombre": "el Noble, el de las Navas",
+      "nacimiento": "Soria, 11 de noviembre de 1155",
+      "inicio": "1158",
+      "fin": "1214",
+      "periodo": "Casa de Borgoña",
+      "comentarios": "Regencias de: Manrique Pérez de Lara (1158-1164) Nuño Pérez de Lara (1164-1169)"
+    },
+    {
+      "nombre": "Enrique I",
+      "sobrenombre": "",
+      "nacimiento": "Valladolid, 14 de abril de 1204",
+      "inicio": "1214",
+      "fin": "6 de junio de 1217",
+      "periodo": "Casa de Borgoña",
+      "comentarios": "Regencias de: Leonor Plantagenet (1214) Berenguela de Castilla (1214-1215) Álvaro Núñez de Lara (1215-1217)"
+    },
+    {
+      "nombre": "Berenguela I",
+      "sobrenombre": "la Grande",
+      "nacimiento": "Segovia, 1 de junio de 1180",
+      "inicio": "6 de junio de 1217",
+      "fin": "1 de julio de 1217",
+      "periodo": "Casa de Borgoña",
+      "comentarios": "Se casó con Alfonso IX de León. Abdicó en su hijo Fernando."
+    },
+    {
+      "nombre": "Fernando III",
+      "sobrenombre": "el Santo",
+      "nacimiento": "Peleas de Arriba (Zamora), 5 de agosto de 1199",
+      "inicio": "1217",
+      "fin": "1252",
+      "periodo": "Casa de Borgoña",
+      "comentarios": "Rey de León a partir de 1231."
+    },
+    {
+      "nombre": "Alfonso X",
+      "sobrenombre": "el Sabio",
+      "nacimiento": "Toledo, 23 de noviembre de 1221",
+      "inicio": "1252",
+      "fin": "1284",
+      "periodo": "Casa de Borgoña",
+      "comentarios": "Depuesto en el gobierno por su hijo Sancho. Guerra civil (1282-1284)"
+    },
+    {
+      "nombre": "Sancho IV",
+      "sobrenombre": "el Bravo",
+      "nacimiento": "Valladolid, 12 de mayo de 1258",
+      "inicio": "1284",
+      "fin": "1295",
+      "periodo": "Casa de Borgoña",
+      "comentarios": "Alfonso de la Cerda, pretendiente al trono. Con apoyo de Alfonso III de Aragón, fue proclamado rey de Castilla en Jaca en 1288; pero sus aspiraciones fueron aparcadas en el Tratado de Monteagudo (1291)."
+    },
+    {
+      "nombre": "Fernando IV",
+      "sobrenombre": "el Emplazado",
+      "nacimiento": "Sevilla, 6 de diciembre de 1285",
+      "inicio": "1295",
+      "fin": "1312",
+      "periodo": "Casa de Borgoña",
+      "comentarios": "Regencia de María de Molina (1295) Regencia de Enrique de Castilla (1295-1301) Alfonso de la Cerda, rey rival de Castilla (1296-1304) proclamado en Sahagún, pero no lo fue de León, donde se hizo proclamar como rey frente a Fernando IV, el infante Juan de Castilla el de Tarifa. En guerra civil (1296-1304) contra Fernando IV. La sentencia arbitral de Torrellas significó el cese de sus pretensiones castellanas."
+    },
+    {
+      "nombre": "Alfonso XI",
+      "sobrenombre": "el Justiciero",
+      "nacimiento": "Salamanca, 13 de agosto de 1311",
+      "inicio": "1312",
+      "fin": "1350",
+      "periodo": "Casa de Borgoña",
+      "comentarios": "Regencia de Pedro de Castilla y Juan de Castilla (1313-1319). Regencia disputada de María de Molina (1319-1321). Regencia disputada de Felipe de Castilla (1321-1325)."
+    },
+    {
+      "nombre": "Pedro I",
+      "sobrenombre": "el Cruel, el Justo",
+      "nacimiento": "Burgos, 30 de agosto de 1334",
+      "inicio": "1350",
+      "fin": "1366",
+      "periodo": "Casa de Borgoña",
+      "comentarios": "En guerra civil contra Enrique II, rey rival."
+    },
+    {
+      "nombre": "Enrique II",
+      "sobrenombre": "el Fratricida",
+      "nacimiento": "Sevilla, 13 de enero de 1333",
+      "inicio": "1366",
+      "fin": "1367",
+      "periodo": "Casa de Borgoña",
+      "comentarios": "De la Casa de Trastámara"
+    },
+    {
+      "nombre": "Enrique II",
+      "sobrenombre": "el Fratricida",
+      "nacimiento": "Sevilla, 13 de enero de 1333",
+      "inicio": "1367",
+      "fin": "1379",
+      "periodo": "Casa de Trastámara",
+      "comentarios": "En guerra civil (1367-1369) contra Pedro I En Montiel (marzo de 1369) Enrique II mató en un cuerpo a cuerpo a Pedro I"
+    },
+    {
+      "nombre": "Juan I",
+      "sobrenombre": "",
+      "nacimiento": "Épila (Zaragoza) o Tamarite de Litera (Huesca), 1358",
+      "inicio": "1379",
+      "fin": "1390",
+      "periodo": "Casa de Trastámara",
+      "comentarios": "Rey rival de Portugal (1383-1385) Consejo de regencia (diciembre de 1383-septiembre de 1384) durante la campaña del rey en Portugal. Campaña (1386-1388) de Juan de Gante y Constanza de Castilla, pretendientes al trono."
+    },
+    {
+      "nombre": "Enrique III",
+      "sobrenombre": "el Doliente",
+      "nacimiento": "Burgos, 4 de octubre de 1379",
+      "inicio": "1390",
+      "fin": "1406",
+      "periodo": "Casa de Trastámara",
+      "comentarios": "Consejo de Regencia aprobado en las Cortes de Madrid (1391-1392) Consejo de Regencia aprobado en las Cortes de Burgos (1392-1393)"
+    },
+    {
+      "nombre": "Juan II",
+      "sobrenombre": "",
+      "nacimiento": "Toro (Zamora), 6 de marzo de 1405",
+      "inicio": "1406",
+      "fin": "1454",
+      "periodo": "Casa de Trastámara",
+      "comentarios": "Regencia de Catalina de Lancáster (1406-1418) y Fernando de Antequera (1406-1416). Con la muerte de Catalina de Lancáster, el Consejo Real se constituyó en Consejo de Regencia (1418-1419)."
+    },
+    {
+      "nombre": "Enrique IV",
+      "sobrenombre": "el Impotente",
+      "nacimiento": "Valladolid, 25 de enero de 1425",
+      "inicio": "1454",
+      "fin": "1474",
+      "periodo": "Casa de Trastámara",
+      "comentarios": "En guerra civil (1465-1468) contra Alfonso de Castilla rey rival."
+    },
+    {
+      "nombre": "Alfonso de Castilla",
+      "sobrenombre": "",
+      "nacimiento": "Tordesillas (Valladolid), 17 de noviembre de 1453",
+      "inicio": "1465",
+      "fin": "1468",
+      "periodo": "Casa de Trastámara",
+      "comentarios": "Rey rival de Castilla proclamado en Ávila En guerra civil (1465-1468) contra Enrique IV de Castilla."
+    },
+    {
+      "nombre": "Isabel I",
+      "sobrenombre": "la Católica",
+      "nacimiento": "Madrigal de las Altas Torres (Ávila), 22 de abril de 1451",
+      "inicio": "1474",
+      "fin": "1504",
+      "periodo": "Casa de Trastámara",
+      "comentarios": "Alfonso V de Portugal y Juana la Beltraneja pretendientes al trono, proclamados en Plasencia, y en guerra (1475-1479)."
+    },
+    {
+      "nombre": "Fernando V",
+      "sobrenombre": "el Católico",
+      "nacimiento": "Sos del Rey Católico (Zaragoza), 10 de marzo de 1452",
+      "inicio": "1475",
+      "fin": "1504",
+      "periodo": "Casa de Trastámara",
+      "comentarios": "Alfonso V de Portugal y Juana la Beltraneja pretendientes al trono, proclamados en Plasencia, y en guerra (1475-1479)."
+    },
+    {
+      "nombre": "Juana I",
+      "sobrenombre": "la Loca",
+      "nacimiento": "Toledo, 6 de noviembre de 1479",
+      "inicio": "Junto con su marido Felipe (1506) Bajo la regencia de su padre Fernando V (1504-1506 y 1507-1516) Bajo la regencia del cardenal Cisneros (1506-1507 y 1516-1517) Junto a su hijo Carlos I desde 1516",
+      "fin": "12 de abril de 1555 Tordesillas (75 años)",
+      "periodo": "Casa de Trastámara",
+      "comentarios": "Reina nominal de Aragón, Valencia, Mallorca, Sicilia, Cerdeña y condesa de Barcelona (1516-1555) Reina de Navarra (1515-1555)"
+    },
+    {
+      "nombre": "Felipe I",
+      "sobrenombre": "el Hermoso",
+      "nacimiento": "Brujas (Flandes), 22 de julio de 1478",
+      "inicio": "Rey consorte de Castilla 26 de (noviembre1504-12 de julio de 1506) Rey de Castilla iure uxoris junto a Juana I",
+      "fin": "25 de septiembre de 1506 (28 años)",
+      "periodo": "Casa de Trastámara",
+      "comentarios": "Duque titular de Borgoña (27 de marzo de 1482-25 de septiembre de 1506) De la casa de Austria Rey de Castilla de iure uxoris"
+    },
+    {
+      "nombre": "Carlos I",
+      "sobrenombre": "",
+      "nacimiento": "Gante (Flandes), 24 de febrero de 1500",
+      "inicio": "1516",
+      "fin": "1556",
+      "periodo": "Casa de Austria o casa de Habsburgo",
+      "comentarios": "Rey junto a su madre Juana Rey de Aragón (1516-1555)"
+    }
+  ],
+  "meta": {
+    "title": "Condes y reyes de Castilla - Free Download",
+    "description": "Lista de los condes y monarcas de Castilla desde Fernán González hasta Carlos I, con sobrenombre, nacimiento, años de reinado, dinastía/periodo y comentarios. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Condes y reyes de Castilla | ListBase",
+    "seo_description": "Download Condes y reyes de Castilla — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Monarcas_de_Castilla"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-14T02:11:55.920Z",
-  "total_datasets": 567,
-  "total_records": 434338,
+  "generated": "2026-11-14T02:12:05.249Z",
+  "total_datasets": 568,
+  "total_records": 434368,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -3043,6 +3043,34 @@
         "xlsx": {
           "name": "es-incas-del-tahuantinsuyo_ES.xlsx",
           "size": 7610
+        }
+      }
+    },
+    {
+      "id": "es-monarcas-de-castilla",
+      "name": "Condes y reyes de Castilla",
+      "category": "history",
+      "record_count": 30,
+      "columns": [
+        "nombre",
+        "sobrenombre",
+        "nacimiento",
+        "inicio",
+        "fin",
+        "periodo",
+        "comentarios"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Monarcas_de_Castilla",
+      "updated": "2026-11",
+      "size": 13150,
+      "files": {
+        "csv": {
+          "name": "es-monarcas-de-castilla_ES.csv",
+          "size": 7056
+        },
+        "xlsx": {
+          "name": "es-monarcas-de-castilla_ES.xlsx",
+          "size": 10253
         }
       }
     },
