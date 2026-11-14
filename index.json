@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-14T02:11:47.106Z",
-  "total_datasets": 566,
-  "total_records": 434316,
+  "generated": "2026-11-14T02:11:55.920Z",
+  "total_datasets": 567,
+  "total_records": 434338,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -3018,6 +3018,31 @@
         "xlsx": {
           "name": "es-guerras-de-espana_ES.xlsx",
           "size": 19490
+        }
+      }
+    },
+    {
+      "id": "es-incas-del-tahuantinsuyo",
+      "name": "Incas del Tahuantinsuyo",
+      "category": "history",
+      "record_count": 22,
+      "columns": [
+        "nombre",
+        "reinado",
+        "periodo",
+        "rey_de_espana"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Incas_del_Tahuantinsuyo",
+      "updated": "2026-11",
+      "size": 5105,
+      "files": {
+        "csv": {
+          "name": "es-incas-del-tahuantinsuyo_ES.csv",
+          "size": 1604
+        },
+        "xlsx": {
+          "name": "es-incas-del-tahuantinsuyo_ES.xlsx",
+          "size": 7610
         }
       }
     },

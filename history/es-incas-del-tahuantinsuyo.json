@@ -1,0 +1,178 @@
+{
+  "id": "es-incas-del-tahuantinsuyo",
+  "name": "Incas del Tahuantinsuyo",
+  "title": "Incas del Tahuantinsuyo",
+  "description": "Lista de los soberanos incas del Cusco y del Tahuantinsuyo, desde Manco Cápac hasta los incas de Vilcabamba, con su periodo aproximado de reinado.",
+  "category": "history",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Incas_del_Tahuantinsuyo",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Incas_del_Tahuantinsuyo",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "reinado",
+      "label": "Reinado",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    },
+    {
+      "key": "rey_de_espana",
+      "label": "Rey De Espana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nombre": "Manco Cápac",
+      "reinado": "~1200 - ~1230",
+      "periodo": "Dinastía Hurin Cuzco",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Sinchi Roca",
+      "reinado": "~1230 - ~1260",
+      "periodo": "Dinastía Hurin Cuzco",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Lloque Yupanqui",
+      "reinado": "~1260 - ~1290",
+      "periodo": "Dinastía Hurin Cuzco",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Mayta Cápac",
+      "reinado": "~1290 - ~1320",
+      "periodo": "Dinastía Hurin Cuzco",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Tarco Huaman",
+      "reinado": "~1320 (derrocado en un golpe de Estado)",
+      "periodo": "Dinastía Hurin Cuzco",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Cápac Yupanqui",
+      "reinado": "~1320 - ~1350 (asesinado en un golpe de Estado)",
+      "periodo": "Dinastía Hurin Cuzco",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Inca Roca",
+      "reinado": "~1350 - ~1380",
+      "periodo": "Dinastía Hanan Cuzco",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Yáhuar Huácac",
+      "reinado": "~1380 - ~1400",
+      "periodo": "Dinastía Hanan Cuzco",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Huiracocha Inca",
+      "reinado": "~1400 - 1438",
+      "periodo": "Dinastía Hanan Cuzco",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Inca Urco",
+      "reinado": "1438 (reemplazado por Pachacútec tras huir ante el avance de los chancas)",
+      "periodo": "Dinastía Hanan Cuzco",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Pachacútec",
+      "reinado": "1438 - 1471",
+      "periodo": "Dinastía Hanan Cuzco",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Túpac Yupanqui",
+      "reinado": "1471 - 1493",
+      "periodo": "Dinastía Hanan Cuzco",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Huayna Cápac",
+      "reinado": "1493 - 1527",
+      "periodo": "Dinastía Hanan Cuzco",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Huáscar",
+      "reinado": "1527 - 1532",
+      "periodo": "Dinastía Hanan Cuzco",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Atahualpa",
+      "reinado": "1532 - 1533",
+      "periodo": "Dinastía Hanan Cuzco",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Túpac Hualpa",
+      "reinado": "1533",
+      "periodo": "Sapas Incas bajo el gobierno español",
+      "rey_de_espana": "Carlos I de España (1516-1556)"
+    },
+    {
+      "nombre": "Manco Inca",
+      "reinado": "1533 - 1536",
+      "periodo": "Sapas Incas bajo el gobierno español",
+      "rey_de_espana": "Carlos I de España (1516-1556)"
+    },
+    {
+      "nombre": "Paullu Inca",
+      "reinado": "1537 - 1549",
+      "periodo": "Sapas Incas bajo el gobierno español",
+      "rey_de_espana": "Carlos I de España (1516-1556)"
+    },
+    {
+      "nombre": "Manco Inca",
+      "reinado": "1536 - 1545",
+      "periodo": "Incas de Vilcabamba (Hanan Cuzco)",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Sayri Túpac",
+      "reinado": "1545 - 1561",
+      "periodo": "Incas de Vilcabamba (Hanan Cuzco)",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Titu Cusi Yupanqui",
+      "reinado": "1561 - 1570",
+      "periodo": "Incas de Vilcabamba (Hanan Cuzco)",
+      "rey_de_espana": ""
+    },
+    {
+      "nombre": "Túpac Amaru",
+      "reinado": "1570 - 1572",
+      "periodo": "Incas de Vilcabamba (Hanan Cuzco)",
+      "rey_de_espana": ""
+    }
+  ],
+  "meta": {
+    "title": "Incas del Tahuantinsuyo - Free Download",
+    "description": "Lista de los soberanos incas del Cusco y del Tahuantinsuyo, desde Manco Cápac hasta los incas de Vilcabamba, con su periodo aproximado de reinado. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Incas del Tahuantinsuyo | ListBase",
+    "seo_description": "Download Incas del Tahuantinsuyo — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Incas_del_Tahuantinsuyo"
+    ]
+  }
+}
