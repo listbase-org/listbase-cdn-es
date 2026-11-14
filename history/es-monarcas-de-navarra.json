@@ -1,0 +1,534 @@
+{
+  "id": "es-monarcas-de-navarra",
+  "name": "Reyes de Pamplona y Navarra",
+  "title": "Reyes de Pamplona y Navarra",
+  "description": "Lista de los monarcas de Pamplona y Navarra desde el siglo VIII, con inicio y fin del reinado, dinastía o casa y comentarios, incluidos los reyes titulares de la Baja Navarra.",
+  "category": "history",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Monarcas_de_Navarra",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Monarcas_de_Navarra",
+  "updated": "2026-11",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "inicio",
+      "label": "Inicio",
+      "type": "number"
+    },
+    {
+      "key": "fin",
+      "label": "Fin",
+      "type": "number"
+    },
+    {
+      "key": "dinastia",
+      "label": "Dinastia",
+      "type": "string"
+    },
+    {
+      "key": "comentarios",
+      "label": "Comentarios",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nombre": "García Jiménez",
+      "inicio": "716",
+      "fin": "758",
+      "dinastia": "Dinastía Arista-Íñiga (816-905)",
+      "comentarios": "Hermilio de Olóriz, en 1887, lo remarca como señor de Abárzuza y Améscoa y apunta al valle de la Burunda como lugar de coronación aunque sin aportar fuente alguna."
+    },
+    {
+      "nombre": "Íñigo Arista (c. 770-851/852) Primer rey",
+      "inicio": "816",
+      "fin": "851/852",
+      "dinastia": "Dinastía Arista-Íñiga (816-905)",
+      "comentarios": "«Caudillo que dirigió el núcleo pamplonés», supuesto primer rey de Pamplona A finales del siglo XIX, según recoge Hermilio de Olóriz, se le denominaba Íñigo García, hijo de García Jiménez y Jimena y retrotrae su reinado al 778 afirmando su presencia en la primera batalla de Roncesvalles en ese año. Igualmente afirma que su reinado finalizó antes pues ya en el 785 le sucedió su hermano Fortuño García."
+    },
+    {
+      "nombre": "Fortuño García",
+      "inicio": "",
+      "fin": "",
+      "dinastia": "Dinastía Arista-Íñiga (816-905)",
+      "comentarios": "Este monarca habría sido hermano del anterior. Según Olóriz este monarca habría estado en la legendaria batalla de Oloast habida en esa fecha."
+    },
+    {
+      "nombre": "Sancho I [Fortuñez]",
+      "inicio": "804",
+      "fin": "826",
+      "dinastia": "Dinastía Arista-Íñiga (816-905)",
+      "comentarios": "También es Olóriz la fuente sobre este supuesto reinado. Este personaje, hijo del anterior, fue según este historiador «el primero de los de su nombre, sin que se sepa en qué año acaeció el fallecimiento de D. Fortuño, ni el advenimiento al trono del nuevo monarca». NOTA.- En su ordinal hay que radicar la razón de que durante mucho tiempo los siguientes reyes llamados Sancho presentarán una posición mayor en su numeración hasta que se revisó a mediados del siglo XX."
+    },
+    {
+      "nombre": "Jimeno Íñiguez",
+      "inicio": "826",
+      "fin": "836",
+      "dinastia": "Dinastía Arista-Íñiga (816-905)",
+      "comentarios": "El archivero y cronista Hermilio de Olóriz afirma que sucedió a Sancho Fortuñez durante los diez años siguientes dejando a dos hijos como sucesores. Quizá fuera el mismo Jimeno el Fuerte mencionado en fuentes árabes. Sería el iniciador del linaje de los Jimenos que tuvo como primer monarca constatado a Sancho Garcés I (905-925)"
+    },
+    {
+      "nombre": "Íñigo [II] Jiménez",
+      "inicio": "836",
+      "fin": "859",
+      "dinastia": "Dinastía Arista-Íñiga (816-905)",
+      "comentarios": "Hijo del anterior, Jimeno, durante su gobierno se habría ganado la plaza de Nájera. Sería el segundo de los monarcas con tal nombre y durante esta etapa se produjo la visita de San Eulogio de Córdoba a los cenobios pirenaicos. Su fallecimiento se habría producido en Lumbier."
+    },
+    {
+      "nombre": "García Jiménez",
+      "inicio": "859",
+      "fin": "867",
+      "dinastia": "Dinastía Arista-Íñiga (816-905)",
+      "comentarios": "Olóriz lo distingue como hermano del anterior, Íñigo II. El sucesor, su sobrino García Íñiguez, sería hijo del tal Íñigo II. Un personaje con este nombre es citado en las Genealogías de Roda como hermano de Íñigo Jiménez (Enneco Scemenonis), siendo ambos hijos de Jimeno que quizá sea el Jimeno el Fuerte mencionado por las fuentes árabes en 781."
+    },
+    {
+      "nombre": "García Íñiguez (c. 810-882) Sobrino del anterior e hijo de Íñigo ll",
+      "inicio": "851/852",
+      "fin": "882",
+      "dinastia": "Dinastía Arista-Íñiga (816-905)",
+      "comentarios": "«Caudillo que dirigió el núcleo pamplonés», también denominado como García I Íñiguez. En la relación de Olóriz no se le menciona pasando directamente al que llamado por él como Fortuño García, hermano de Íñigo. Un hijo de este caudillo, Sancho Garcés, supuestamente casó con una hija del conde de Aragón. Esta figura, señor de Larráun, tuvo una hija llamada Toda que casó con Sancho Garcés I, mientras que otra hija, Sancha, habría casado a su vez con Jimeno, hermano de Sancho Garcés I."
+    },
+    {
+      "nombre": "Fortún Garcés (c. 825- c. 905) Hijo del anterior",
+      "inicio": "882",
+      "fin": "905",
+      "dinastia": "Dinastía Arista-Íñiga (816-905)",
+      "comentarios": "«Caudillo que dirigió el núcleo pamplonés». Abdicó, retirándose a un convento. A este monarca Olóriz denomina como Fortuño II el Monje y lo considera hermano de su sucesor Sancho García II (Sancho Garcés I)."
+    },
+    {
+      "nombre": "Sancho Garcés I (c. 860/865-925) Nieto político del anterior",
+      "inicio": "905",
+      "fin": "925",
+      "dinastia": "Dinastía Jimena (905-1234)",
+      "comentarios": "Primer rey de Pamplona documentalmente confirmado. También denominado como Sancho I Garcés. Llegó al trono al hacer valer los derechos de su esposa Toda, nieta de Fortún Garcés."
+    },
+    {
+      "nombre": "García Sánchez I (c. 919-970) Hijo del anterior",
+      "inicio": "925",
+      "fin": "970",
+      "dinastia": "Dinastía Jimena (905-1234)",
+      "comentarios": "También denominado como García II Sánchez Entre 925-931, Jimeno Garcés, hermano de Sancho Garcés I, ejerció como regente la potestas regia con diversos títulos como rey, ayo, tutor o baiulus de su sobrino García Sánchez. Entre 931-933, Íñigo Garcés, hermanastro de Sancho Garcés I, trató de ocupar la regencia o el trono, enfrentado a la reina madre Toda, quien acabó haciéndose con la regencia hasta que, en el 934, García Sánchez fue declarado mayor de edad."
+    },
+    {
+      "nombre": "Sancho Garcés II Abarca (938-994) Hijo del anterior",
+      "inicio": "970",
+      "fin": "994",
+      "dinastia": "Dinastía Jimena (905-1234)",
+      "comentarios": "También denominado como Sancho II Garcés Incorporó el condado de Aragón"
+    },
+    {
+      "nombre": "García Sánchez II El Temblón (964-1000) Hijo del anterior",
+      "inicio": "994",
+      "fin": "1000",
+      "dinastia": "Dinastía Jimena (905-1234)",
+      "comentarios": "También denominado como García III Sánchez"
+    },
+    {
+      "nombre": "Sancho Garcés III El Mayor o el Grande (c. 990/992-1035) Hijo del anterior",
+      "inicio": "1004",
+      "fin": "1035",
+      "dinastia": "Dinastía Jimena (905-1234)",
+      "comentarios": "También denominado como Sancho III Garcés"
+    },
+    {
+      "nombre": "García Sánchez III El de Nájera (c. 1012/1016-1054) Hijo del anterior",
+      "inicio": "1035",
+      "fin": "1054",
+      "dinastia": "Dinastía Jimena (905-1234)",
+      "comentarios": "También denominado como García IV Sánchez."
+    },
+    {
+      "nombre": "Sancho Garcés IV El de Peñalén (c. 1039- 1076) Hijo del anterior",
+      "inicio": "1054",
+      "fin": "1076",
+      "dinastia": "Dinastía Jimena (905-1234)",
+      "comentarios": "También denominado como Sancho IV Garcés"
+    },
+    {
+      "nombre": "Sancho Ramírez V (c. 1043-1094) Nieto de Sancho Garcés III",
+      "inicio": "1076",
+      "fin": "1094",
+      "dinastia": "Dinastía Jimena (905-1234)",
+      "comentarios": "También denominado como Sancho V Ramírez. Rey de Aragón como Sancho I Proclamado rey por los pamploneses tras el asesinato de su primo Sancho Garcés IV por parte de sus propios hermanos."
+    },
+    {
+      "nombre": "Pedro I (c. 1068-1104) Hijo del anterior",
+      "inicio": "1094",
+      "fin": "1104",
+      "dinastia": "Dinastía Jimena (905-1234)",
+      "comentarios": "Rey de Aragón como Pedro I."
+    },
+    {
+      "nombre": "Alfonso I El Batallador (1073/1074-1134) Hermano del anterior",
+      "inicio": "1104",
+      "fin": "1134",
+      "dinastia": "Dinastía Jimena (905-1234)",
+      "comentarios": "Rey de Aragón como Alfonso I. En su testamento legó el reino a las Órdenes militares de los Templarios, de los Hospitalarios y del Santo Sepulcro de Jerusalén"
+    },
+    {
+      "nombre": "García Ramírez El Restaurador (c. 1112-1150) Bisnieto de García Sánchez III",
+      "inicio": "1134",
+      "fin": "1150",
+      "dinastia": "Dinastía Jimena (905-1234)",
+      "comentarios": "Elegido rey al no aceptar los navarros el testamento de Alfonso I También denominado como García V Ramírez"
+    },
+    {
+      "nombre": "Sancho VI El Sabio (1132/1133-1194) Hijo del anterior",
+      "inicio": "1150",
+      "fin": "1194",
+      "dinastia": "Dinastía Jimena (905-1234)",
+      "comentarios": "En 1162 cambió su titulación como rey de Pamplona por la de rey de Navarra. Pero usa el título sin el preceptivo reconocimiento papal."
+    },
+    {
+      "nombre": "Sancho VII El Fuerte (1160-1234) Hijo del anterior",
+      "inicio": "1194",
+      "fin": "1234",
+      "dinastia": "Dinastía Jimena (905-1234)",
+      "comentarios": "En 1196 obtiene del papa Celestino III la bula de reconocimiento oficial del título \"Rex Navarre\". Firmó un tratado de prohijamiento con Jaime I de Aragón, por el que si un monarca fallecía antes que el otro, este heredaría el reino del fallecido."
+    },
+    {
+      "nombre": "Teobaldo I Sobrino del anterior",
+      "inicio": "1234",
+      "fin": "1253",
+      "dinastia": "Casa de Champaña (1234-1305)",
+      "comentarios": "Conde de Champaña desde 1201. Los navarros no aceptaron el testamento de Sancho VII y eligieron rey a su sobrino Teobaldo."
+    },
+    {
+      "nombre": "Teobaldo II Hijo del anterior",
+      "inicio": "1253",
+      "fin": "1270",
+      "dinastia": "Casa de Champaña (1234-1305)",
+      "comentarios": "Conde de Champaña. Cuando en 1270 partió a la cruzada dejó a su hermano Enrique como gobernador del reino."
+    },
+    {
+      "nombre": "Enrique I Hermano del anterior",
+      "inicio": "1271",
+      "fin": "1274",
+      "dinastia": "Casa de Champaña (1234-1305)",
+      "comentarios": "Cuando recibió las noticias del fallecimiento de su hermano Teobaldo se proclamó rey."
+    },
+    {
+      "nombre": "Juana I Hija del anterior",
+      "inicio": "1274",
+      "fin": "1305",
+      "dinastia": "Casa de Champaña (1234-1305)",
+      "comentarios": "Junto con su marido Felipe IV, el Hermoso. Reina consorte de Francia."
+    },
+    {
+      "nombre": "Felipe I Esposo e hijo del primo tercero de la anterior",
+      "inicio": "1284",
+      "fin": "1305",
+      "dinastia": "Dinastía Capeta (1284-1349)",
+      "comentarios": "Rey iure uxoris, junto a su esposa Juana I. Rey de Francia."
+    },
+    {
+      "nombre": "Luis I, el Obstinado. Hijo de los dos anteriores",
+      "inicio": "1305",
+      "fin": "1316",
+      "dinastia": "Dinastía Capeta (1284-1349)",
+      "comentarios": "Rey de Francia desde 1314. Regente Felipe de Poitiers (1316) a la muerte del rey."
+    },
+    {
+      "nombre": "Juan I, el Póstumo. Hijo del anterior",
+      "inicio": "1316",
+      "fin": "1316",
+      "dinastia": "Dinastía Capeta (1284-1349)",
+      "comentarios": "Rey de Francia Regente Felipe de Poitiers (1316) Reinó del 15 al 19 de noviembre de 1316."
+    },
+    {
+      "nombre": "Felipe II Tío del anterior",
+      "inicio": "1316",
+      "fin": "1322",
+      "dinastia": "Dinastía Capeta (1284-1349)",
+      "comentarios": "Regente de Francia desde la muerte de Juan I y Rey desde su consagración y coronación el 6 de enero de 1317"
+    },
+    {
+      "nombre": "Carlos I Hermano del anterior",
+      "inicio": "1322",
+      "fin": "1328",
+      "dinastia": "Dinastía Capeta (1284-1349)",
+      "comentarios": "Rey de Francia Felipe de Valois regente de Navarra desde la muerte de Carlos I, hasta la destitución del gobernador francés el 13 de marzo de 1328."
+    },
+    {
+      "nombre": "Juana II Sobrina del anterior",
+      "inicio": "1328",
+      "fin": "1349",
+      "dinastia": "Dinastía Capeta (1284-1349)",
+      "comentarios": "Regentes Juan Corbarán de Lehet y Juan Martínez de Medrano, entre 13 de marzo de 1328, asamblea de Puente la Reina, y 27 de febrero de 1329, Cortes de Larrasoaña. Junto con su marido Felipe III"
+    },
+    {
+      "nombre": "Felipe III Marido de Juana II",
+      "inicio": "1328",
+      "fin": "1343",
+      "dinastia": "Dinastía Évreux (1328-1441)",
+      "comentarios": "Junto con su esposa Juana II"
+    },
+    {
+      "nombre": "Carlos II, el Malo. Hijo del anterior",
+      "inicio": "1349",
+      "fin": "1387",
+      "dinastia": "Dinastía Évreux (1328-1441)",
+      "comentarios": ""
+    },
+    {
+      "nombre": "Carlos III, el Noble. Hijo del anterior",
+      "inicio": "1387",
+      "fin": "1425",
+      "dinastia": "Dinastía Évreux (1328-1441)",
+      "comentarios": ""
+    },
+    {
+      "nombre": "Blanca Hija del anterior",
+      "inicio": "1425",
+      "fin": "1441",
+      "dinastia": "Dinastía Évreux (1328-1441)",
+      "comentarios": "Junto a su marido Juan II"
+    },
+    {
+      "nombre": "Juan II Marido de Blanca",
+      "inicio": "1425",
+      "fin": "1479",
+      "dinastia": "Casa de Trastámara (1425-1479)",
+      "comentarios": "Rey iure uxoris, junto a su esposa Blanca (1425-1441) Rey de Aragón y Conde de Barcelona (1458-1479) Guerra Civil de Navarra (1451-1464)"
+    },
+    {
+      "nombre": "Leonor Hija del anterior",
+      "inicio": "1479",
+      "fin": "1479",
+      "dinastia": "Casa de Trastámara (1425-1479)",
+      "comentarios": "Reina del 28 de enero al 12 de febrero de 1479."
+    },
+    {
+      "nombre": "Francisco Febo. Nieto de la anterior",
+      "inicio": "1479",
+      "fin": "1483",
+      "dinastia": "Casa de Foix (1479-1512)",
+      "comentarios": ""
+    },
+    {
+      "nombre": "Catalina Hermana del anterior",
+      "inicio": "1483",
+      "fin": "1512",
+      "dinastia": "Casa de Foix (1479-1512)",
+      "comentarios": "Junto a su marido Juan III Reina titular desde 1512 hasta 1517."
+    },
+    {
+      "nombre": "Juan III Marido de Catalina",
+      "inicio": "1484",
+      "fin": "1512",
+      "dinastia": "Casa de Albret (1484-1512)",
+      "comentarios": "Rey iure uxoris, junto a su esposa Catalina Rey titular desde 1512 hasta 1516."
+    },
+    {
+      "nombre": "Fernando I, el Católico.",
+      "inicio": "1513",
+      "fin": "1516",
+      "dinastia": "Casa de Trastámara",
+      "comentarios": "Rey de Castilla (1475-1504) y de Aragón (1479-1516) En su testamento dejó el reino de Navarra a su hija Juana, desde entonces los reyes de España incluyen entre sus títulos el de rey de Navarra."
+    },
+    {
+      "nombre": "Juana III, la Loca.",
+      "inicio": "1516",
+      "fin": "1555",
+      "dinastia": "Casa de Trastámara",
+      "comentarios": "Junto con su hijo Carlos IV como Juana I de España Desde 1530 solo en el territorio de Alta Navarra."
+    },
+    {
+      "nombre": "Carlos IV",
+      "inicio": "1516",
+      "fin": "1556",
+      "dinastia": "Casa de Austria",
+      "comentarios": "Junto con su madre Juana III (1516-1555) Desde 1530 solo en el territorio de Alta Navarra. Como Carlos I de España Emperador del Sacro Imperio (1520-1558)"
+    },
+    {
+      "nombre": "Felipe IV",
+      "inicio": "1556",
+      "fin": "1598",
+      "dinastia": "Casa de Austria",
+      "comentarios": "Como Felipe II de España Rey iure uxoris de Inglaterra e Irlanda (1554–1558)"
+    },
+    {
+      "nombre": "Felipe V",
+      "inicio": "1598",
+      "fin": "1621",
+      "dinastia": "Casa de Austria",
+      "comentarios": "Como Felipe III de España"
+    },
+    {
+      "nombre": "Felipe VI",
+      "inicio": "1621",
+      "fin": "1665",
+      "dinastia": "Casa de Austria",
+      "comentarios": "Como Felipe IV de España"
+    },
+    {
+      "nombre": "Carlos V",
+      "inicio": "1665",
+      "fin": "1700",
+      "dinastia": "Casa de Austria",
+      "comentarios": "Como Carlos II de España"
+    },
+    {
+      "nombre": "Felipe VII",
+      "inicio": "1700",
+      "fin": "1724",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Felipe V de España"
+    },
+    {
+      "nombre": "Luis II",
+      "inicio": "14 de enero de 1724",
+      "fin": "31 de agosto de 1724",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Luis I de España"
+    },
+    {
+      "nombre": "Felipe VII",
+      "inicio": "1724",
+      "fin": "1746",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Felipe V de España"
+    },
+    {
+      "nombre": "Fernando II",
+      "inicio": "1746",
+      "fin": "1759",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Fernando VI de España"
+    },
+    {
+      "nombre": "Carlos VI",
+      "inicio": "1759",
+      "fin": "1788",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Carlos III de España"
+    },
+    {
+      "nombre": "Carlos VII",
+      "inicio": "1788",
+      "fin": "1808",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Carlos IV de España"
+    },
+    {
+      "nombre": "Fernando III",
+      "inicio": "19 de marzo de 1808",
+      "fin": "6 de mayo de 1808",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Fernando VII de España"
+    },
+    {
+      "nombre": "José I",
+      "inicio": "1808",
+      "fin": "1810",
+      "dinastia": "Casa de Bonaparte",
+      "comentarios": ""
+    },
+    {
+      "nombre": "Fernando III",
+      "inicio": "1814",
+      "fin": "1822",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Fernando VII de España"
+    },
+    {
+      "nombre": "Fernando III",
+      "inicio": "1823",
+      "fin": "1833",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Fernando VII de España"
+    },
+    {
+      "nombre": "Isabel I",
+      "inicio": "1833",
+      "fin": "1841",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Isabel II de España Durante la primera guerra carlista (1833-1839) el bando carlista reconoció como rey de Navarra a Carlos VIII."
+    },
+    {
+      "nombre": "Enrique II",
+      "inicio": "1530",
+      "fin": "1555",
+      "dinastia": "Casa de Albret",
+      "comentarios": "Rey titular (1517-1530)"
+    },
+    {
+      "nombre": "Juana III",
+      "inicio": "1555",
+      "fin": "1572",
+      "dinastia": "Casa de Albret",
+      "comentarios": "Junto a su marido Antonio I"
+    },
+    {
+      "nombre": "Antonio",
+      "inicio": "1555",
+      "fin": "1562",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Rey iure uxoris, junto con su esposa Juana III"
+    },
+    {
+      "nombre": "Enrique III",
+      "inicio": "1572",
+      "fin": "1610",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Enrique IV de Francia (1589-1610)"
+    },
+    {
+      "nombre": "Luis II",
+      "inicio": "1610",
+      "fin": "1643",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Luis XIII de Francia El 20 de octubre de 1620, Luis XIII proclamó el Edicto de Unión, por el que el reino de Navarra se incorporaba a la Corona francesa conservando sus instituciones."
+    },
+    {
+      "nombre": "Luis III",
+      "inicio": "1643",
+      "fin": "1715",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Luis XIV de Francia"
+    },
+    {
+      "nombre": "Luis IV",
+      "inicio": "1715",
+      "fin": "1774",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Luis XV de Francia"
+    },
+    {
+      "nombre": "Luis V",
+      "inicio": "1774",
+      "fin": "1789",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Luis XVI de Francia"
+    },
+    {
+      "nombre": "Luis VII",
+      "inicio": "1814",
+      "fin": "1824",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Luis XVIII de Francia"
+    },
+    {
+      "nombre": "Carlos IV",
+      "inicio": "1824",
+      "fin": "1830",
+      "dinastia": "Casa de Borbón",
+      "comentarios": "Como Carlos X de Francia"
+    }
+  ],
+  "meta": {
+    "title": "Reyes de Pamplona y Navarra - Free Download",
+    "description": "Lista de los monarcas de Pamplona y Navarra desde el siglo VIII, con inicio y fin del reinado, dinastía o casa y comentarios, incluidos los reyes titulares de la Baja Navarra. Contains 69 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Reyes de Pamplona y Navarra | ListBase",
+    "seo_description": "Download Reyes de Pamplona y Navarra — 69 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 69 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Monarcas_de_Navarra"
+    ]
+  }
+}

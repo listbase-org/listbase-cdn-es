@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-14T02:12:05.249Z",
-  "total_datasets": 568,
-  "total_records": 434368,
+  "generated": "2026-11-14T02:12:13.242Z",
+  "total_datasets": 569,
+  "total_records": 434437,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -3071,6 +3071,32 @@
         "xlsx": {
           "name": "es-monarcas-de-castilla_ES.xlsx",
           "size": 10253
+        }
+      }
+    },
+    {
+      "id": "es-monarcas-de-navarra",
+      "name": "Reyes de Pamplona y Navarra",
+      "category": "history",
+      "record_count": 69,
+      "columns": [
+        "nombre",
+        "inicio",
+        "fin",
+        "dinastia",
+        "comentarios"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Monarcas_de_Navarra",
+      "updated": "2026-11",
+      "size": 21463,
+      "files": {
+        "csv": {
+          "name": "es-monarcas-de-navarra_ES.csv",
+          "size": 12819
+        },
+        "xlsx": {
+          "name": "es-monarcas-de-navarra_ES.xlsx",
+          "size": 12509
         }
       }
     },
