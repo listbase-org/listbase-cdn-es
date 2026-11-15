@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-15T02:15:22.670Z",
-  "total_datasets": 570,
-  "total_records": 434458,
+  "generated": "2026-11-15T02:15:32.594Z",
+  "total_datasets": 571,
+  "total_records": 434695,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -17455,6 +17455,35 @@
         "xlsx": {
           "name": "es-parques-nacionales_ES.xlsx",
           "size": 8731
+        }
+      }
+    },
+    {
+      "id": "es-playas-de-asturias",
+      "name": "Playas de Asturias",
+      "category": "tourism",
+      "record_count": 237,
+      "columns": [
+        "beach",
+        "council",
+        "locality",
+        "environment",
+        "surface",
+        "length_x_width_m",
+        "lat",
+        "lon"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Playas_de_Asturias",
+      "updated": "2026-11",
+      "size": 78997,
+      "files": {
+        "csv": {
+          "name": "es-playas-de-asturias_ES.csv",
+          "size": 40244
+        },
+        "xlsx": {
+          "name": "es-playas-de-asturias_ES.xlsx",
+          "size": 22861
         }
       }
     },

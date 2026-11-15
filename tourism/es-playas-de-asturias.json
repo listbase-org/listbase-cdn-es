@@ -1,0 +1,2436 @@
+{
+  "id": "es-playas-de-asturias",
+  "name": "Playas de Asturias",
+  "title": "Playas de Asturias",
+  "description": "Playas del litoral asturiano por concejo, con localidad, aspectos medioambientales, tipo de arena y entorno, dimensiones y coordenadas.",
+  "category": "tourism",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Playas_de_Asturias",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Playas_de_Asturias",
+  "updated": "2026-11",
+  "record_count": 237,
+  "columns": [
+    {
+      "key": "beach",
+      "label": "Beach",
+      "type": "string"
+    },
+    {
+      "key": "council",
+      "label": "Council",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "environment",
+      "label": "Environment",
+      "type": "string"
+    },
+    {
+      "key": "surface",
+      "label": "Surface",
+      "type": "string"
+    },
+    {
+      "key": "length_x_width_m",
+      "label": "Length X Width M",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "beach": "Playa de Penarronda",
+      "council": "Castropol",
+      "locality": "Barres",
+      "environment": "Sin vegetación",
+      "surface": "Arena de grano fino y dorado",
+      "length_x_width_m": "815 x 310",
+      "lat": 43.55155,
+      "lon": -6.99636
+    },
+    {
+      "beach": "Playa de las Acías",
+      "council": "Castropol",
+      "locality": "Figueras (Castropol)",
+      "environment": "Vegetación en la playa. Reserva natural parcial de la Ría del Eo",
+      "surface": "Arena de grano fino y dorado. Semiurbana",
+      "length_x_width_m": "400 x 30",
+      "lat": 43.533056,
+      "lon": -7.014771
+    },
+    {
+      "beach": "Playa de Figueras",
+      "council": "Castropol",
+      "locality": "Figueras (Castropol)",
+      "environment": "Vegetación en la playa. Reserva natural parcial de la Ría del Eo",
+      "surface": "Arena de grano fino y blanco. Urbana",
+      "length_x_width_m": "290 x 20",
+      "lat": 43.538998,
+      "lon": -7.025886
+    },
+    {
+      "beach": "Playa de Arnao",
+      "council": "Castropol",
+      "locality": "Figueras (Castropol)",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y dorado, con presencia de afloramientos rocosos. Semiurbana",
+      "length_x_width_m": "450 x 30",
+      "lat": 43.5348735,
+      "lon": -7.021379
+    },
+    {
+      "beach": "Playa de El Tesón",
+      "council": "Castropol",
+      "locality": "Figueras (Castropol)",
+      "environment": "Sin vegetación. Protección LIC",
+      "surface": "Arena de grano fino y dorado en bajamar.",
+      "length_x_width_m": "500 x 200",
+      "lat": 43.535964,
+      "lon": -7.025964
+    },
+    {
+      "beach": "Playa de El Figo",
+      "council": "Tapia de Casariego",
+      "locality": "Salave",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arena oscura de grano medio. Rural",
+      "length_x_width_m": "200 x 10",
+      "lat": 43.566244,
+      "lon": -6.907654
+    },
+    {
+      "beach": "Playa de Las Poleas",
+      "council": "Tapia de Casariego",
+      "locality": "San Antonio",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arena oscura de grano grueso y rocas. Rural",
+      "length_x_width_m": "120 x 12",
+      "lat": 43.570784,
+      "lon": -6.924305
+    },
+    {
+      "beach": "Playa de Represas",
+      "council": "Tapia de Casariego",
+      "locality": "Tapia de Casariego",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Escasas arenas tostadas de grano grueso y rocas. Rural",
+      "length_x_width_m": "300 x 28",
+      "lat": 43.569975,
+      "lon": -6.939325
+    },
+    {
+      "beach": "Playas de Anguileiro, La Furada y San Blas",
+      "council": "Tapia de Casariego",
+      "locality": "Tapia de Casariego",
+      "environment": "Conn vegetación. Protegida",
+      "surface": "Arenas finas de color claro.Rural",
+      "length_x_width_m": "410 x 400",
+      "lat": 43.563943,
+      "lon": -6.948509
+    },
+    {
+      "beach": "Playas de El Murallón",
+      "council": "Tapia de Casariego",
+      "locality": "Tapia de Casariego",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arenas finas de color claro. Urbana",
+      "length_x_width_m": "75 x 40",
+      "lat": 43.568308,
+      "lon": -6.948124
+    },
+    {
+      "beach": "Playa de la Reburdia",
+      "council": "Tapia de Casariego",
+      "locality": "Tapia de Casariego",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arenas finas de doradas.Rural",
+      "length_x_width_m": "75 x 45",
+      "lat": 43.566679,
+      "lon": -6.953144
+    },
+    {
+      "beach": "Playa de la Paloma",
+      "council": "Tapia de Casariego",
+      "locality": "Tapia de Casariego",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arenas finas de color claro.Rural",
+      "length_x_width_m": "200 x 45",
+      "lat": 43.561859,
+      "lon": -6.957049
+    },
+    {
+      "beach": "Playa de El Calambre",
+      "council": "Tapia de Casariego",
+      "locality": "El Calambre",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Rocas con algo de arena oscura. Rural",
+      "length_x_width_m": "110 x 10",
+      "lat": 43.560025,
+      "lon": -6.964216
+    },
+    {
+      "beach": "Playa de Serantes",
+      "council": "Tapia de Casariego",
+      "locality": "Serantes",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arenas tostadas de grano medio y rocas. Rural",
+      "length_x_width_m": "240 x 155",
+      "lat": 43.555266,
+      "lon": -6.974559
+    },
+    {
+      "beach": "Playa de Mexota",
+      "council": "Tapia de Casariego",
+      "locality": "Santa Gadea",
+      "environment": "Con vegetación. Protegida",
+      "surface": "Arenas finas blancas. Aislada",
+      "length_x_width_m": "240 x 60",
+      "lat": 43.557972,
+      "lon": -6.981769
+    },
+    {
+      "beach": "Playa de Santa Gadea, Pantorga o Ribeiría",
+      "council": "Tapia de Casariego",
+      "locality": "Santa Gadea",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arena tostada oscura de grano medio a grueso. Rural",
+      "length_x_width_m": "200 x 50",
+      "lat": 43.555546,
+      "lon": -6.988785
+    },
+    {
+      "beach": "Playa de Castello",
+      "council": "El Franco",
+      "locality": "La Caridad",
+      "environment": "Vegetación en acantilado. Protegida",
+      "surface": "Arenas cuarcíticas de grano medio. Rural",
+      "length_x_width_m": "400 x 40",
+      "lat": 43.554193,
+      "lon": -6.811395
+    },
+    {
+      "beach": "Playa de Cambaredo",
+      "council": "El Franco",
+      "locality": "La Caridad",
+      "environment": "Sin vegetación. Protegida.",
+      "surface": "Arena gris de tamaño grueso y rocas. Rural",
+      "length_x_width_m": "210 x 20",
+      "lat": 43.556168,
+      "lon": -6.818175
+    },
+    {
+      "beach": "Playa de Riboira",
+      "council": "El Franco",
+      "locality": "La Caridad",
+      "environment": "Sin vegetación. Protegida.",
+      "surface": "cantos rodados y poca arena gris. Rural",
+      "length_x_width_m": "280 x 15",
+      "lat": 43.559605,
+      "lon": -6.820085
+    },
+    {
+      "beach": "Playa de La Calina",
+      "council": "El Franco",
+      "locality": "La Caridad",
+      "environment": "Sin vegetación. Protegida.",
+      "surface": "Arena gris y cantos rodados.Rural",
+      "length_x_width_m": "10 x 5",
+      "lat": 43.56371,
+      "lon": -6.825235
+    },
+    {
+      "beach": "Playa de Pormenande",
+      "council": "El Franco",
+      "locality": "La Caridad",
+      "environment": "Sin vegetación. Protegida.",
+      "surface": "Arena gris y cantos rodados. Rural",
+      "length_x_width_m": "205 x 7",
+      "lat": 43.563896,
+      "lon": -6.82708
+    },
+    {
+      "beach": "Playa de Viavélez",
+      "council": "El Franco",
+      "locality": "Viavélez",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arena oscura de grano medio. Urbana",
+      "length_x_width_m": "90 x 3",
+      "lat": 43.564487,
+      "lon": -6.839032
+    },
+    {
+      "beach": "Playa de Monellos",
+      "council": "El Franco",
+      "locality": "San Pelayo",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Lecho de piedras. Rural",
+      "length_x_width_m": "105 x 20",
+      "lat": 43.562357,
+      "lon": -6.852379
+    },
+    {
+      "beach": "Playa de Torbas",
+      "council": "El Franco",
+      "locality": "Valdepares",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arena oscura de grano medio. Rural",
+      "length_x_width_m": "105 x 30",
+      "lat": 43.564285,
+      "lon": -6.85298
+    },
+    {
+      "beach": "Playa de Porcía",
+      "council": "El Franco",
+      "locality": "El Franco",
+      "environment": "Poca vegetación. Protegida",
+      "surface": "Arena clara de grano fino. Rural",
+      "length_x_width_m": "210 x 25",
+      "lat": 43.561937,
+      "lon": -6.876047
+    },
+    {
+      "beach": "Playa de Foxos o Barra",
+      "council": "Coaña",
+      "locality": "Mohías",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Lecho mixto, arena de grano grueso y oscuro; con una pequeña escollera.",
+      "length_x_width_m": "220 x 20",
+      "lat": 43.556137,
+      "lon": -6.726809
+    },
+    {
+      "beach": "Playa de Arnielles",
+      "council": "Coaña",
+      "locality": "Foxos",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Cantos rodados y arena fina y tostada",
+      "length_x_width_m": "150 x 40",
+      "lat": 43.559931,
+      "lon": -6.732302
+    },
+    {
+      "beach": "Playa de Ortiguera",
+      "council": "Coaña",
+      "locality": "Ortiguera",
+      "environment": "Poca vegetación y sin protección",
+      "surface": "Pedregal",
+      "length_x_width_m": "50 x 8",
+      "lat": 43.560553,
+      "lon": -6.741142
+    },
+    {
+      "beach": "Playas de Amarelle y La Isla",
+      "council": "Coaña",
+      "locality": "Medal",
+      "environment": "Poca vegetación y sin protección",
+      "surface": "Arena de grano medio y gris.",
+      "length_x_width_m": "50 x 20",
+      "lat": 43.563228,
+      "lon": -6.754017
+    },
+    {
+      "beach": "Playa de Figueira",
+      "council": "Coaña",
+      "locality": "Medal",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Roca, grava y escasa arena oscura",
+      "length_x_width_m": "250 x 40",
+      "lat": 43.561237,
+      "lon": -6.75951
+    },
+    {
+      "beach": "Playa de la Coba",
+      "council": "Coaña",
+      "locality": "Villalocay",
+      "environment": "Vegetación en la playa",
+      "surface": "Arena gris de grano medio",
+      "length_x_width_m": "105 x 10",
+      "lat": 43.562855,
+      "lon": -6.763029
+    },
+    {
+      "beach": "Playa de Pedreyada",
+      "council": "Coaña",
+      "locality": "Villalocay",
+      "environment": "Vegetación en la playa",
+      "surface": "Arena de grano medio y gris.",
+      "length_x_width_m": "200 x 10",
+      "lat": 43.5664409,
+      "lon": -6.76466
+    },
+    {
+      "beach": "Playa de Collé",
+      "council": "Coaña",
+      "locality": "Loza",
+      "environment": "Vegetación en la playa",
+      "surface": "Arena de grano medio y gris.",
+      "length_x_width_m": "135 x 10",
+      "lat": 43.566926,
+      "lon": -6.771097
+    },
+    {
+      "beach": "Playa de Aguiyón",
+      "council": "Coaña",
+      "locality": "Loza",
+      "environment": "Sin vegetación, ni protección",
+      "surface": "Arena de grano medio y gris",
+      "length_x_width_m": "375 x 20",
+      "lat": 43.564472,
+      "lon": -6.778564
+    },
+    {
+      "beach": "Playas de Cartavio y Torbas",
+      "council": "Coaña",
+      "locality": "Cartavio",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Cantos rodados y arena de grano medio y gris",
+      "length_x_width_m": "(110+650)x20",
+      "lat": 43.55564,
+      "lon": -6.789207
+    },
+    {
+      "beach": "Playas de Armazá y El Barco",
+      "council": "Coaña",
+      "locality": "Cartavio",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Bolos y grava, con muy escasa arena gris",
+      "length_x_width_m": "415 x 35",
+      "lat": 43.555204,
+      "lon": -6.79925
+    },
+    {
+      "beach": "Playas de Puerto Chico y la Romanela",
+      "council": "Navia",
+      "locality": "Vigo, La Romanela",
+      "environment": "Sin vegetación. Protegida. Rural",
+      "surface": "Rocas sin arena",
+      "length_x_width_m": "30 x 6",
+      "lat": 43.571437,
+      "lon": -6.626816
+    },
+    {
+      "beach": "Playas de Asteiro, Canares y El Pariso",
+      "council": "Navia",
+      "locality": "Vigo",
+      "environment": "Sin vegetación. Protegida. Rural",
+      "surface": "Rocas sin arena",
+      "length_x_width_m": "25 x 6",
+      "lat": 43.568048,
+      "lon": -6.632051
+    },
+    {
+      "beach": "Playas de El Castillo, El Mantecón y La Isla",
+      "council": "Navia",
+      "locality": "Santa Marina",
+      "environment": "Sin vegetación. Protegida. Rural",
+      "surface": "Rocas sin arena",
+      "length_x_width_m": "55 x 5",
+      "lat": 43.568638,
+      "lon": -6.64072
+    },
+    {
+      "beach": "Playa de Las Loseras y La Friera",
+      "council": "Navia",
+      "locality": "Santa Marina",
+      "environment": "Sin vegetación. Protección ZEPA, LIC Rural",
+      "surface": "Rocas sin arena",
+      "length_x_width_m": "190 x 5",
+      "lat": 43.566244,
+      "lon": -6.653552
+    },
+    {
+      "beach": "Playa de El Picón",
+      "council": "Navia",
+      "locality": "Santa Marina",
+      "environment": "Algo de vegetación. Protegida. Rural",
+      "surface": "Arena oscura y grano grueso.",
+      "length_x_width_m": "25 x 10",
+      "lat": 43.56612,
+      "lon": -6.65617
+    },
+    {
+      "beach": "Playa de la Isla (Navia)",
+      "council": "Navia",
+      "locality": "Santa Marina",
+      "environment": "Algo de vegetación. Protegida. Virgen. Rural",
+      "surface": "Rocas sin arena",
+      "length_x_width_m": "290 x 10",
+      "lat": 43.566866,
+      "lon": -6.659346
+    },
+    {
+      "beach": "Playas de El Castiel y Gamonedo",
+      "council": "Navia",
+      "locality": "Soriana",
+      "environment": "Algo de vegetación. Protegida. Rural",
+      "surface": "Lecho rocoso carente de arena",
+      "length_x_width_m": "300 x 10; 145 x 5",
+      "lat": 43.563197,
+      "lon": -6.669474
+    },
+    {
+      "beach": "Playa de Frejulfe",
+      "council": "Navia",
+      "locality": "Frejulfe",
+      "environment": "Vegetación. Protección monumento natural, ZEPA, LIC",
+      "surface": "Arena de grano fino y tostado. Rural",
+      "length_x_width_m": "840 x 75",
+      "lat": 43.559185,
+      "lon": -6.674495
+    },
+    {
+      "beach": "Playa de Fabal",
+      "council": "Navia",
+      "locality": "Teifaros",
+      "environment": "Poca vegetación. Protección ZEPA, LIC Rural",
+      "surface": "Arena de grano medio y tostado",
+      "length_x_width_m": "440 x 30",
+      "lat": 43.559714,
+      "lon": -6.691275
+    },
+    {
+      "beach": "Playa de Teifaros",
+      "council": "Navia",
+      "locality": "Teifaros",
+      "environment": "Vegetación en la playa",
+      "surface": "Rocas sin arena. Rural",
+      "length_x_width_m": "450 x 55",
+      "lat": 43.561237,
+      "lon": -6.693935
+    },
+    {
+      "beach": "Playa de Coedo",
+      "council": "Navia",
+      "locality": "Las Cortinas",
+      "environment": "Vegetación en la playa.Protección ZEPA, LIC",
+      "surface": "Arena oscura y grano grueso. Rural",
+      "length_x_width_m": "50 xc 30",
+      "lat": 43.560429,
+      "lon": -6.698399
+    },
+    {
+      "beach": "Playas de las Cascareiras, El Barroso y las Rubias",
+      "council": "Navia",
+      "locality": "Navia",
+      "environment": "Vegetación escasa en la playa, abundante en los alrededores",
+      "surface": "Escasa arena, roca y cantos rodados",
+      "length_x_width_m": "(350, 225, 225) x 25",
+      "lat": 43.560833,
+      "lon": -6.714492
+    },
+    {
+      "beach": "Playa del Moro",
+      "council": "Navia",
+      "locality": "Navia",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena oscura y grano grueso de pizarra y sílice. Rural",
+      "length_x_width_m": "100 x 25",
+      "lat": 43.558065,
+      "lon": -6.717668
+    },
+    {
+      "beach": "Playa de Navia",
+      "council": "Navia",
+      "locality": "Navia",
+      "environment": "vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena oscura y grano grueso. Urbana",
+      "length_x_width_m": "350 x 135",
+      "lat": 43.555173,
+      "lon": -6.722174
+    },
+    {
+      "beach": "Playa de Tablizo",
+      "council": "Valdés",
+      "locality": "Tablizo",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arenas feldespáticas tostadas de grano medio y pizarras. Rural",
+      "length_x_width_m": "690 x 18",
+      "lat": 43.550725,
+      "lon": -6.357393
+    },
+    {
+      "beach": "Playa de Ribón",
+      "council": "Valdés",
+      "locality": "Ribón",
+      "environment": "Poca vegetación. Protegida",
+      "surface": "Arenas tostadas de grano medio. Rural",
+      "length_x_width_m": "140 x 20",
+      "lat": 43.551285,
+      "lon": -6.36692
+    },
+    {
+      "beach": "Playa de Cadavedo",
+      "council": "Valdés",
+      "locality": "Cadavedo",
+      "environment": "Con vegetación. Protegida",
+      "surface": "Arenas claras de grano medio. Rural",
+      "length_x_width_m": "460 x 55",
+      "lat": 43.551472,
+      "lon": -6.371727
+    },
+    {
+      "beach": "Playa de Los Castros",
+      "council": "Valdés",
+      "locality": "Cadavedo",
+      "environment": "Poca vegetación. Protegida",
+      "surface": "Grava. Rural",
+      "length_x_width_m": "210 x 25",
+      "lat": 43.555615,
+      "lon": -6.370268
+    },
+    {
+      "beach": "Playa de Churín",
+      "council": "Valdés",
+      "locality": "Cadavedo",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "cantos rodados y poca arena gris. Rural",
+      "length_x_width_m": "540 x 25",
+      "lat": 43.554396,
+      "lon": -6.375074
+    },
+    {
+      "beach": "Playa de Fontaniecha",
+      "council": "Valdés",
+      "locality": "Cadavedo",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "cantos rodados y poca arena gris. Rural",
+      "length_x_width_m": "150 x 35",
+      "lat": 43.556324,
+      "lon": -6.386061
+    },
+    {
+      "beach": "Playa de Campiechos",
+      "council": "Valdés",
+      "locality": "Cadavedo",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "cantos rodados y escasas arenas grises. Rural",
+      "length_x_width_m": "370 x35",
+      "lat": 43.558376,
+      "lon": -6.393957
+    },
+    {
+      "beach": "Playa de Quintana",
+      "council": "Valdés",
+      "locality": "Quintana",
+      "environment": "Poca vegetación. Protegida. Virgen",
+      "surface": "Rocas con arenas oscuras de grano grueso. Rural",
+      "length_x_width_m": "890 x 35",
+      "lat": 43.555764,
+      "lon": -6.404686
+    },
+    {
+      "beach": "Playa de La Estaca",
+      "council": "Valdés",
+      "locality": "San Cristóbal",
+      "environment": "Poca vegetación. Protegida",
+      "surface": "Arenas oscuras de grano grueso. Rural",
+      "length_x_width_m": "520 x 30",
+      "lat": 43.553587,
+      "lon": -6.420565
+    },
+    {
+      "beach": "Playas de Cutín y Los Molinos",
+      "council": "Valdés",
+      "locality": "Querúas",
+      "environment": "Con vegetación. Protegida",
+      "surface": "Arenas oscuras de grano grueso. Rural",
+      "length_x_width_m": "980 x 20",
+      "lat": 43.553773,
+      "lon": -6.432796
+    },
+    {
+      "beach": "Playa de Santa Ana",
+      "council": "Valdés",
+      "locality": "Querúas",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arenas oscuras de grano grueso y pizarras. Rural",
+      "length_x_width_m": "150 x 35",
+      "lat": 43.556013,
+      "lon": -6.439233
+    },
+    {
+      "beach": "Playa de Chouréu",
+      "council": "Valdés",
+      "locality": "Querúas",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Roca y piedras sueltas de buen tamaño. Rural",
+      "length_x_width_m": "660 x 28",
+      "lat": 43.558967,
+      "lon": -6.443524
+    },
+    {
+      "beach": "Playa de Punxéu",
+      "council": "Valdés",
+      "locality": "Querúas",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arenas oscuras de grano grueso.Rural",
+      "length_x_width_m": "800 x 18",
+      "lat": 43.56046,
+      "lon": -6.448374
+    },
+    {
+      "beach": "Playa de Barchinas",
+      "council": "Valdés",
+      "locality": "Canero (Valdés)",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "cantos rodados y afloramientos rocosos. Rural",
+      "length_x_width_m": "310 x 20",
+      "lat": 43.563632,
+      "lon": -6.458759
+    },
+    {
+      "beach": "Playa del Serrón",
+      "council": "Valdés",
+      "locality": "Busto",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Todo el lecho es de cantos rodados. Rural",
+      "length_x_width_m": "450 x 25",
+      "lat": 43.568576,
+      "lon": -6.463952
+    },
+    {
+      "beach": "Playa del Cabo",
+      "council": "Valdés",
+      "locality": "Busto",
+      "environment": "Poca vegetación. Protegida",
+      "surface": "cantos rodadoscon arena clara y gruesa. Rural",
+      "length_x_width_m": "210 x 38",
+      "lat": 43.569105,
+      "lon": -6.471033
+    },
+    {
+      "beach": "Playa del Bozo",
+      "council": "Valdés",
+      "locality": "Busto",
+      "environment": "Poca vegetación. Protegida",
+      "surface": "cantos rodadoscon arena oscura y gruesa. Rural",
+      "length_x_width_m": "215 x 38",
+      "lat": 43.563943,
+      "lon": -6.472621
+    },
+    {
+      "beach": "Playa de El Cuerno",
+      "council": "Valdés",
+      "locality": "Busto",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arenas tostadas y piedras. Rural",
+      "length_x_width_m": "80 x 10",
+      "lat": 43.561611,
+      "lon": -6.47378
+    },
+    {
+      "beach": "Playa de La Herbosa",
+      "council": "Valdés",
+      "locality": "Busto",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Piedras y arenas oscuras de grano grueso: Rural",
+      "length_x_width_m": "390 x 8",
+      "lat": 43.559434,
+      "lon": -6.473608
+    },
+    {
+      "beach": "Playa de Las Imeas y Los Cantones",
+      "council": "Valdés",
+      "locality": "Busto",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "cantos rodadoscon arena tostada y gruesa. Rural",
+      "length_x_width_m": "50 x 10",
+      "lat": 43.554302,
+      "lon": -6.472578
+    },
+    {
+      "beach": "Playa de Cueva",
+      "council": "Valdés",
+      "locality": "Cueva",
+      "environment": "Con vegetación. Protegida",
+      "surface": "cantos rodadoscon arena tostada y gruesa. Rural",
+      "length_x_width_m": "540 x 85",
+      "lat": 43.549917,
+      "lon": -6.47275
+    },
+    {
+      "beach": "Playa de Picón",
+      "council": "Valdés",
+      "locality": "Caroyas",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "cantos rodados y arena tostada de grano medio. Rural",
+      "length_x_width_m": "95 x 15",
+      "lat": 43.552249,
+      "lon": -6.482792
+    },
+    {
+      "beach": "Playa de Los Molinos de Barcia",
+      "council": "Valdés",
+      "locality": "Barcia",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "cantos rodados pequeños con arena oscura y gruesa. Rural",
+      "length_x_width_m": "240 x 25",
+      "lat": 43.548766,
+      "lon": -6.488585
+    },
+    {
+      "beach": "Playa de La Polea",
+      "council": "Valdés",
+      "locality": "Barcia",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "cantos rodados pequeños con arena oscura y gruesa. Rural.",
+      "length_x_width_m": "240 x 30",
+      "lat": 43.549264,
+      "lon": -6.504679
+    },
+    {
+      "beach": "Playa de La Escaladina",
+      "council": "Valdés",
+      "locality": "Barcia",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "cantos rodados y afloramiento de rocas.Rural",
+      "length_x_width_m": "190 x 18",
+      "lat": 43.549575,
+      "lon": -6.50794
+    },
+    {
+      "beach": "Playa de Portizuelo",
+      "council": "Valdés",
+      "locality": "Villar",
+      "environment": "Algo de vegetación. Protegida",
+      "surface": "cantos rodados cuarcíticos. Rural",
+      "length_x_width_m": "190 x 15",
+      "lat": 43.547895,
+      "lon": -6.518197
+    },
+    {
+      "beach": "Playa de la Llosera",
+      "council": "Valdés",
+      "locality": "Villar",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "cantos rodados con arena oscura y gruesa y rocas. Rural.",
+      "length_x_width_m": "195 x 25",
+      "lat": 43.55001,
+      "lon": -6.523261
+    },
+    {
+      "beach": "Playa del Enguilo",
+      "council": "Valdés",
+      "locality": "Villar",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arena oscura y gruesa. Rural",
+      "length_x_width_m": "155 x 15",
+      "lat": 43.549295,
+      "lon": -6.527038
+    },
+    {
+      "beach": "Playa de Las Arreas",
+      "council": "Valdés",
+      "locality": "Luarca",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arena oscura y grano medio. Rural",
+      "length_x_width_m": "140 x 38",
+      "lat": 43.547926,
+      "lon": -6.531501
+    },
+    {
+      "beach": "Playa de Luarca",
+      "council": "Valdés",
+      "locality": "Luarca",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arena oscura y fina. Residencial",
+      "length_x_width_m": "460 x 85",
+      "lat": 43.545812,
+      "lon": -6.536608
+    },
+    {
+      "beach": "Playa de Salinas o tercera de Luarca",
+      "council": "Valdés",
+      "locality": "Luarca",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arena oscura y fina. Residencial",
+      "length_x_width_m": "220 x 75",
+      "lat": 43.548851,
+      "lon": -6.532596
+    },
+    {
+      "beach": "Playa del Castiel",
+      "council": "Valdés",
+      "locality": "El Chano",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Lecho de rocas sin arena. Rural",
+      "length_x_width_m": "50 x 18",
+      "lat": 43.551783,
+      "lon": -6.542358
+    },
+    {
+      "beach": "Playa de Taurán",
+      "council": "Valdés",
+      "locality": "San Martín",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arena oscura y gruesa. Rural",
+      "length_x_width_m": "75 x 45",
+      "lat": 43.550259,
+      "lon": -6.557851
+    },
+    {
+      "beach": "Playa de Turbeiriza",
+      "council": "Valdés",
+      "locality": "La Caleya",
+      "environment": "Poca vegetación. Protegida",
+      "surface": "Rocas sin arena. Rural",
+      "length_x_width_m": "30 x 6/12",
+      "lat": 43.553151,
+      "lon": -6.591196
+    },
+    {
+      "beach": "Playa de Otur",
+      "council": "Valdés",
+      "locality": "Otur",
+      "environment": "Algo de vegetación. Protegida",
+      "surface": "Arena oscura y grano medio. Semirrural",
+      "length_x_width_m": "590 x 85",
+      "lat": 43.552343,
+      "lon": -6.597548
+    },
+    {
+      "beach": "Playa de Sabugo",
+      "council": "Valdés",
+      "locality": "Sabugo (Valdés)",
+      "environment": "Sin vegetación. Protegida.",
+      "surface": "Arena oscura y grano medio. Rural",
+      "length_x_width_m": "245 x 20",
+      "lat": 43.556075,
+      "lon": -6.603212
+    },
+    {
+      "beach": "Playa de Barayo",
+      "council": "Valdés",
+      "locality": "Vigo",
+      "environment": "Algo de vegetación. Protegida. Virgen",
+      "surface": "Arena oscura y grano fino. Rural",
+      "length_x_width_m": "680 x 75",
+      "lat": 43.561548,
+      "lon": -6.615143
+    },
+    {
+      "beach": "Playa de La Conchiquina",
+      "council": "Cudillero",
+      "locality": "Aronces",
+      "environment": "Vegetación en la playa. Protección",
+      "surface": "Grava,roca y poca arena gris de grano medio. Rural",
+      "length_x_width_m": "105 x 17",
+      "lat": 43.558936,
+      "lon": -6.133804
+    },
+    {
+      "beach": "Playa de La Corvera",
+      "council": "Cudillero",
+      "locality": "Villademar",
+      "environment": "Vegetación en playa. Paisaje protegido, ZEPA y LIC",
+      "surface": "Cantos rodados y poca arena gris de grano medio. Rural",
+      "length_x_width_m": "250 x 20",
+      "lat": 43.566928,
+      "lon": -6.160626
+    },
+    {
+      "beach": "Playa de Las Rubias",
+      "council": "Cudillero",
+      "locality": "Villademar",
+      "environment": "Vegetación en la playa. Paisaje protegido, ZEPA y LIC",
+      "surface": "Arenas feldespáticas de grano medio. Rural",
+      "length_x_width_m": "475 x 25",
+      "lat": 43.567208,
+      "lon": -6.165948
+    },
+    {
+      "beach": "Playas de El Pomar, Cerrón y La Olla",
+      "council": "Cudillero",
+      "locality": "El Reyallo",
+      "environment": "Sin vegetación en la playa. Protegida",
+      "surface": "Roca y pocas arenas. Casi virgen",
+      "length_x_width_m": "230 x15",
+      "lat": 43.566026,
+      "lon": -6.175776
+    },
+    {
+      "beach": "Playa de La Concha de Artedo",
+      "council": "Cudillero",
+      "locality": "Soto de Luiña",
+      "environment": "Vegetación en la playa. Paisaje protegido, ZEPA y LIC",
+      "surface": "Arenas doradas finas y zona de canto rodado. Rural pero muy visitada",
+      "length_x_width_m": "750 x 50",
+      "lat": 43.562699,
+      "lon": -6.185861
+    },
+    {
+      "beach": "Playas de El Rebeón y de Castro",
+      "council": "Cudillero",
+      "locality": "Lamuño",
+      "environment": "Sin vegetación en la playa. Protegida",
+      "surface": "Pedrero, arena escasa y roca. Rural",
+      "length_x_width_m": "75x15+75x15",
+      "lat": 43.580018,
+      "lon": -6.193242
+    },
+    {
+      "beach": "Playas de Oleiros y Los Botes",
+      "council": "Cudillero",
+      "locality": "Salamir",
+      "environment": "Vegetación en la playa. Protegida",
+      "surface": "canto rodado, arena dorada y gruesa. Rural",
+      "length_x_width_m": "675x30+700x35",
+      "lat": 43.572307,
+      "lon": -6.202769
+    },
+    {
+      "beach": "Playa de San Pedro de La Ribera",
+      "council": "Cudillero",
+      "locality": "Soto de Luiña",
+      "environment": "Vegetación en la playa. Protegida",
+      "surface": "Finas arenas doradas y canto rodado. Aislada",
+      "length_x_width_m": "440 x 175",
+      "lat": 43.578526,
+      "lon": -6.221523
+    },
+    {
+      "beach": "Playa de El Castrillón",
+      "council": "Cudillero",
+      "locality": "Oviñana",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "cantos rodados entre arenas oscuras de grano grueso. Rural",
+      "length_x_width_m": "290x25",
+      "lat": 43.582754,
+      "lon": -6.225557
+    },
+    {
+      "beach": "Playas de Portiella y Puertochico",
+      "council": "Cudillero",
+      "locality": "Oviñana",
+      "environment": "Sin vegetación. Protegidas",
+      "surface": "Escasas arenas claras de grano medio. Rural",
+      "length_x_width_m": "60x20+55x40",
+      "lat": 43.586111,
+      "lon": -6.226201
+    },
+    {
+      "beach": "Playa de San Cidiello",
+      "council": "Cudillero",
+      "locality": "Oviñana",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Cantos rodados, pizarras, cuarcitas y escasas arenas oscuras. Rural",
+      "length_x_width_m": "450 x 20",
+      "lat": 43.587852,
+      "lon": -6.231394
+    },
+    {
+      "beach": "Playa de Mariayu",
+      "council": "Cudillero",
+      "locality": "Oviñana",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "cantos rodados entre arenas oscuras de grano grueso. Rural",
+      "length_x_width_m": "175 x 18",
+      "lat": 43.5904,
+      "lon": -6.235728
+    },
+    {
+      "beach": "Playa de Gradas",
+      "council": "Cudillero",
+      "locality": "Oviñana",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arenas oscuras de grano medio. Rural",
+      "length_x_width_m": "290 x 20",
+      "lat": 43.592141,
+      "lon": -6.240749
+    },
+    {
+      "beach": "Playa de Peña Doria",
+      "council": "Cudillero",
+      "locality": "Oviñana",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arenas doradas de grano medio. Rural",
+      "length_x_width_m": "325 x 18",
+      "lat": 43.58838,
+      "lon": -6.242552
+    },
+    {
+      "beach": "Playa de La Cueva",
+      "council": "Cudillero",
+      "locality": "Oviñana",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Arenas tostadas de grano medio. Rural",
+      "length_x_width_m": "350 x 30",
+      "lat": 43.5835,
+      "lon": -6.245813
+    },
+    {
+      "beach": "Playa de La Vallina",
+      "council": "Cudillero",
+      "locality": "Valdredo",
+      "environment": "Zona Virgen. Protegida",
+      "surface": "Arenas doradas de grano medio. Rural",
+      "length_x_width_m": "1280 x 20",
+      "lat": 43.578899,
+      "lon": -6.252766
+    },
+    {
+      "beach": "Playas de Los Campizales y El Carreiro",
+      "council": "Cudillero",
+      "locality": "Albuerne",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Rocas y arenas blancas y finas. Rural",
+      "length_x_width_m": "440x30+75x30",
+      "lat": 43.576722,
+      "lon": -6.269073
+    },
+    {
+      "beach": "Playa de Albuerne",
+      "council": "Cudillero",
+      "locality": "Albuerne",
+      "environment": "Poca vegetación. Paisaje protegido, ZEPA y LIC",
+      "surface": "Piedras y arenas blancas de grano medio. Rural",
+      "length_x_width_m": "50 x 25",
+      "lat": 43.573022,
+      "lon": -6.274867
+    },
+    {
+      "beach": "Playa de Salencia",
+      "council": "Cudillero",
+      "locality": "Novellana",
+      "environment": "Poca vegetación. Protegida",
+      "surface": "canto rodado y arena claras de grano grueso. Rural",
+      "length_x_width_m": "150 x 30",
+      "lat": 43.572494,
+      "lon": -6.278901
+    },
+    {
+      "beach": "Playa de L'Airín",
+      "council": "Cudillero",
+      "locality": "Novellana",
+      "environment": "Poca vegetación. Protegida",
+      "surface": "canto rodado, roca y arena claras de grano grueso. Rural",
+      "length_x_width_m": "640 x 23",
+      "lat": 43.569509,
+      "lon": -6.28581
+    },
+    {
+      "beach": "Playas de El Riego y La Barquera",
+      "council": "Cudillero",
+      "locality": "Novellana",
+      "environment": "Poca vegetación. Virgen. Protegida",
+      "surface": "canto rodado pequeño y poca arena oscura de grano grueso. Rural",
+      "length_x_width_m": "25x5+240x18",
+      "lat": 43.56954,
+      "lon": -6.294994
+    },
+    {
+      "beach": "Playa del Silencio",
+      "council": "Cudillero",
+      "locality": "Castañeras",
+      "environment": "Poca vegetación. Protegida",
+      "surface": "Arenas oscuras de grano grueso. Rural",
+      "length_x_width_m": "390 x 30",
+      "lat": 43.566493,
+      "lon": -6.295123
+    },
+    {
+      "beach": "Playa de La Ribera del Molín",
+      "council": "Cudillero",
+      "locality": "Castañera",
+      "environment": "Poca vegetación. Protegida",
+      "surface": "Escasas arenas claras de grano medio. Rural",
+      "length_x_width_m": "200x25",
+      "lat": 43.564565,
+      "lon": -6.300316
+    },
+    {
+      "beach": "Playas de Calabón y El Castro",
+      "council": "Cudillero",
+      "locality": "Santa Marina",
+      "environment": "Vegetación escasa. Paisaje protegido, ZEPA y LIC",
+      "surface": "canto rodado y arena doradas de grano grueso. Rural",
+      "length_x_width_m": "120x45+390x25",
+      "lat": 43.562855,
+      "lon": -6.30744
+    },
+    {
+      "beach": "Playa de La Gueirúa",
+      "council": "Cudillero",
+      "locality": "Santa Marina",
+      "environment": "Poca vegetación. Protegida",
+      "surface": "canto rodado. Rural",
+      "length_x_width_m": "200 x 60",
+      "lat": 43.563321,
+      "lon": -6.311603
+    },
+    {
+      "beach": "Playa de Pumarín",
+      "council": "Cudillero",
+      "locality": "Santa Marina",
+      "environment": "Poca vegetación. Protegida",
+      "surface": "Rocas y arena claras de grano medio. Rural",
+      "length_x_width_m": "173 x 38",
+      "lat": 43.56301,
+      "lon": -6.317697
+    },
+    {
+      "beach": "Playa de Ribera l'Ouca",
+      "council": "Cudillero",
+      "locality": "Santa Marina",
+      "environment": "Vegetación escasa. Protegida",
+      "surface": "canto rodado y escasas arena claras de grano medio. Rural",
+      "length_x_width_m": "130 x 35",
+      "lat": 43.561331,
+      "lon": -6.321173
+    },
+    {
+      "beach": "Playa de Feduriento",
+      "council": "Cudillero",
+      "locality": "Ballota",
+      "environment": "Poca vegetación. Protegida",
+      "surface": "Arenas claras de grano medio. Rural",
+      "length_x_width_m": "195 x 23",
+      "lat": 43.561673,
+      "lon": -6.32566
+    },
+    {
+      "beach": "Playa de Sienra",
+      "council": "Cudillero",
+      "locality": "Ballota",
+      "environment": "Poca vegetación. Protegida",
+      "surface": "canto rodado y arenas blanquecinas de grano medio. Rural",
+      "length_x_width_m": "205 x 20",
+      "lat": 43.560398,
+      "lon": -6.328983
+    },
+    {
+      "beach": "Playa de El Destillo",
+      "council": "Cudillero",
+      "locality": "Ballota",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "canto rodado y arenas claras de grano medio. Rural",
+      "length_x_width_m": "255 x 20",
+      "lat": 43.559465,
+      "lon": -6.33276
+    },
+    {
+      "beach": "Playa de Las Cabrilleras",
+      "council": "Cudillero",
+      "locality": "Ballota",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "Roca y arenas blancas de grano medio. Rural",
+      "length_x_width_m": "310 x 25",
+      "lat": 43.557848,
+      "lon": -6.336236
+    },
+    {
+      "beach": "Playa de Ballota",
+      "council": "Cudillero",
+      "locality": "Ballota",
+      "environment": "Sin vegetación. Protegida",
+      "surface": "canto rodado y arena tostada de grano medio. Rural",
+      "length_x_width_m": "735 x 20",
+      "lat": 43.553836,
+      "lon": -6.344478
+    },
+    {
+      "beach": "Playas de Campofrío y Aguilar",
+      "council": "Muros de Nalón",
+      "locality": "Muros de Nalón (parroquia)",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Dorada y fina con algunos afloramientos rocosos. Semiurbana",
+      "length_x_width_m": "250 x 23 para Campofrío; 500 x 70 para Aguilar",
+      "lat": 43.555391,
+      "lon": -6.121531
+    },
+    {
+      "beach": "Playa de Xilo",
+      "council": "Muros de Nalón",
+      "locality": "Muros de Nalón (parroquia)",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Bolos y arena de grano fino y dorado. Semiurbana",
+      "length_x_width_m": "100 x 24",
+      "lat": 43.554613,
+      "lon": -6.113505
+    },
+    {
+      "beach": "Playas de Xan-Xún y Las Llanas",
+      "council": "Muros de Nalón",
+      "locality": "Muros de Nalón (parroquia)",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Bolos y arena de grano fino y dorado. Semiurbana",
+      "length_x_width_m": "100 x 24; 400 x 30",
+      "lat": 43.556666,
+      "lon": -6.109815
+    },
+    {
+      "beach": "Playa de Los Botes",
+      "council": "Muros de Nalón",
+      "locality": "Llodreda",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena escasa de grano grueso y gris y con afloramientos rocosos. Semiurbana",
+      "length_x_width_m": "250 x 18",
+      "lat": 43.559994,
+      "lon": -6.102304
+    },
+    {
+      "beach": "Playa de Cazonera",
+      "council": "Muros de Nalón",
+      "locality": "El Monte",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Bolos y roca con escasa arena de grano grueso y gris. Aislada",
+      "length_x_width_m": "350 x 30",
+      "lat": 43.558283,
+      "lon": -6.095223
+    },
+    {
+      "beach": "Playas de L'Atalaya y Focarón",
+      "council": "Muros de Nalón",
+      "locality": "El Monte y San Esteban de Pravia",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Bolos, grava y escasa asrena de grano grueso y gris. Aislada",
+      "length_x_width_m": "720 x 30; 50 x 18",
+      "lat": 43.562575,
+      "lon": -6.088185
+    },
+    {
+      "beach": "Playas de Garruncho y La Guardada",
+      "council": "Muros de Nalón",
+      "locality": "San Esteban de Pravia",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Bolos, roca y escasa arena de grano fino y gris. Aislada; Semiurbana",
+      "length_x_width_m": "50 x 20; 60 x 5",
+      "lat": 43.564254,
+      "lon": -6.082306
+    },
+    {
+      "beach": "Playa de los Quebrantos",
+      "council": "Soto del Barco",
+      "locality": "San Juan de la Arena",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano medio y gris oscuro. Aislada; Semiurbana",
+      "length_x_width_m": "810 x 100",
+      "lat": 43.564596,
+      "lon": -6.064582
+    },
+    {
+      "beach": "Playa de Bayas",
+      "council": "Castrillón",
+      "locality": "La Roza",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC, monumento natural",
+      "surface": "Arena de grano medio y gris oscuro. Aislada",
+      "length_x_width_m": "2800 x 90",
+      "lat": 43.574733,
+      "lon": -6.042395
+    },
+    {
+      "beach": "Playa de la Barca",
+      "council": "Castrillón",
+      "locality": "Bayas",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC, monumento natural",
+      "surface": "Cantos rodados. Aislada",
+      "length_x_width_m": "200 x 15",
+      "lat": 43.583624,
+      "lon": -6.033726
+    },
+    {
+      "beach": "Playa de Malabajada",
+      "council": "Castrillón",
+      "locality": "Bayas",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC, monumento natural",
+      "surface": "Cantos rodados y escasa arena de grano medio y claro. Aislada",
+      "length_x_width_m": "250 x 2",
+      "lat": 43.585147,
+      "lon": -6.026516
+    },
+    {
+      "beach": "Playa de El Reguero",
+      "council": "Castrillón",
+      "locality": "Bayas",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano grueso y oscuro con afloramientos rocosos. Aislada",
+      "length_x_width_m": "300 x 15",
+      "lat": 43.582598,
+      "lon": -6.017675
+    },
+    {
+      "beach": "Playa de Munielles",
+      "council": "Castrillón",
+      "locality": "Bayas",
+      "environment": "Sin vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y gris con afloramientos rocosos. Semiurbana",
+      "length_x_width_m": "210 x 30",
+      "lat": 43.579551,
+      "lon": -6.012139
+    },
+    {
+      "beach": "Playa de Bahínas",
+      "council": "Castrillón",
+      "locality": "Linares (Castrillón)",
+      "environment": "Sin vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y dorado con afloramientos rocosos. Semiurbana",
+      "length_x_width_m": "210 x 30",
+      "lat": 43.578277,
+      "lon": -6.00626
+    },
+    {
+      "beach": "Playa de Santa María del Mar (Castrillón)",
+      "council": "Castrillón",
+      "locality": "Santa María del Mar (Castrillón)",
+      "environment": "Con vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y dorado con afloramientos rocosos. Urbana",
+      "length_x_width_m": "300 x 150",
+      "lat": 43.573365,
+      "lon": -5.997291
+    },
+    {
+      "beach": "Playa de Arnao",
+      "council": "Castrillón",
+      "locality": "Arnao",
+      "environment": "Con vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y tostado con afloramientos rocosos. Urbana",
+      "length_x_width_m": "300 x 25",
+      "lat": 43.533056,
+      "lon": -7.014771
+    },
+    {
+      "beach": "Playa de El Pedrero",
+      "council": "Castrillón",
+      "locality": "San Martín de Laspra",
+      "environment": "Sin vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Rocas y escasa arena de grano medio y oscuro. Aislada",
+      "length_x_width_m": "100 x 30",
+      "lat": 43.578401,
+      "lon": -5.977678
+    },
+    {
+      "beach": "Playa de El Dólar",
+      "council": "Castrillón",
+      "locality": "Arnao",
+      "environment": "Sin vegetación en la playa.",
+      "surface": "Arena de grano medio y oscuro con afloramientos rocosos. Semiurbana",
+      "length_x_width_m": "200 x 15",
+      "lat": 43.579769,
+      "lon": -5.972786
+    },
+    {
+      "beach": "Playa de Salinas",
+      "council": "Castrillón",
+      "locality": "Salinas (Castrillón)",
+      "environment": "Sin vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y doradas. Urbana",
+      "length_x_width_m": "2100 x 110",
+      "lat": 43.577406,
+      "lon": -5.962143
+    },
+    {
+      "beach": "Playa de El Cuerno (Castrillón)",
+      "council": "Castrillón",
+      "locality": "San Martín de Laspra",
+      "environment": "Sin vegetación en la playa.",
+      "surface": "Grava y arena de grano grueso y oscuro. Semiurbana",
+      "length_x_width_m": "100 x 25",
+      "lat": 43.580049,
+      "lon": -5.969009
+    },
+    {
+      "beach": "Playa de San Juan de Nieva",
+      "council": "Castrillón",
+      "locality": "San Juan de Nieva",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC, monumento natural",
+      "surface": "Arena de grano fino y dorado. Semiurbana",
+      "length_x_width_m": "500 x 60",
+      "lat": 43.58726056,
+      "lon": -5.939101389
+    },
+    {
+      "beach": "Playa de San Balandrán",
+      "council": "Avilés",
+      "locality": "Zeluán",
+      "environment": "Sin vegetación en la playa.",
+      "surface": "Arena de grano fino y dorado. Semiurbana",
+      "length_x_width_m": "150 x 50",
+      "lat": 43.594845,
+      "lon": -5.939226
+    },
+    {
+      "beach": "Playa de El Embayo",
+      "council": "Avilés",
+      "locality": "Nieva",
+      "environment": "Sin vegetación en la playa.",
+      "surface": "Arena de grano medio y oscuro, con frecuentes cantos rodados. Industrial",
+      "length_x_width_m": "150 x 30",
+      "lat": 43.593944,
+      "lon": -5.931158
+    },
+    {
+      "beach": "Playa de Arañón",
+      "council": "Avilés",
+      "locality": "Nieva",
+      "environment": "Sin vegetación en la playa.",
+      "surface": "Arena de grano fino y dorado, con algunos cantos rodados. Semiurbana",
+      "length_x_width_m": "150 x 30",
+      "lat": 43.589499,
+      "lon": -5.91794
+    },
+    {
+      "beach": "Playa de Xagó",
+      "council": "Gozón",
+      "locality": "Lloredo",
+      "environment": "Vegetación en la playa. Paisaje protegido",
+      "surface": "Arena de grano fino y dorado.Semiurbana",
+      "length_x_width_m": "1500 x 120",
+      "lat": 43.60560028,
+      "lon": -5.914726944
+    },
+    {
+      "beach": "Playa de Aguilera",
+      "council": "Gozón",
+      "locality": "San Martín de Podes",
+      "environment": "Vegetación en la playa. Paisaje protegido, LIC, ZEPA",
+      "surface": "Arena de grano medio y dorado. Aislada",
+      "length_x_width_m": "380 x 65",
+      "lat": 43.622905,
+      "lon": -5.886054
+    },
+    {
+      "beach": "Playa de Carniciega",
+      "council": "Gozón",
+      "locality": "La Granda",
+      "environment": "Vegetación en la playa. Paisaje protegido",
+      "surface": "Arena de grano fino y dorado. Aislada",
+      "length_x_width_m": "340 x 70",
+      "lat": 43.623495,
+      "lon": -5.881076
+    },
+    {
+      "beach": "Playa de Verdicio",
+      "council": "Gozón",
+      "locality": "Verdicio",
+      "environment": "Vegetación en la playa. Paisaje protegido",
+      "surface": "Arena de grano fino y tostado. Urbana",
+      "length_x_width_m": "330 x 80",
+      "lat": 43.626322,
+      "lon": -5.876741
+    },
+    {
+      "beach": "Playa de Bañugues",
+      "council": "Gozón",
+      "locality": "Bañugues",
+      "environment": "Vegetación en la playa. Paisaje protegido",
+      "surface": "Arena de grano medio y dorado. Urbana",
+      "length_x_width_m": "131 x 90",
+      "lat": 43.62830472,
+      "lon": -5.810255
+    },
+    {
+      "beach": "Playa de La Cabaña",
+      "council": "Gozón",
+      "locality": "Verdicio",
+      "environment": "Vegetación en la playa. Paisaje protegido",
+      "surface": "Arena de grano medio y gris; cantos rodados. Aislada",
+      "length_x_width_m": "95 x 10",
+      "lat": 43.631323,
+      "lon": -5.866055
+    },
+    {
+      "beach": "Playas de Pachón y El Sabín",
+      "council": "Gozón",
+      "locality": "Ferrero",
+      "environment": "Vegetación en la playa. Paisaje protegido",
+      "surface": "Arena de grano grueso y oscuro; afloramientos rocosos. Aislada",
+      "length_x_width_m": "25 x 5; 75 x 5",
+      "lat": 43.655888,
+      "lon": -5.856357
+    },
+    {
+      "beach": "Playa de Viodo",
+      "council": "Gozón",
+      "locality": "Viodo",
+      "environment": "Vegetación en la playa. Paisaje protegido",
+      "surface": "Arena de grano fino y tostado. Aislada",
+      "length_x_width_m": "60 x 25",
+      "lat": 43.64474,
+      "lon": -5.836272
+    },
+    {
+      "beach": "Playa de Aramar",
+      "council": "Gozón",
+      "locality": "Aramar",
+      "environment": "Vegetación en la playa.",
+      "surface": "Arena de grano medio y oscuro. Semiurbana",
+      "length_x_width_m": "190 x 17",
+      "lat": 43.608674,
+      "lon": -5.783057
+    },
+    {
+      "beach": "Playa de El Dique",
+      "council": "Gozón",
+      "locality": "Aramar",
+      "environment": "Vegetación en la playa.",
+      "surface": "Arena de grano medio y oscuro. Semiurbana",
+      "length_x_width_m": "180 x 25",
+      "lat": 43.610135,
+      "lon": -5.786533
+    },
+    {
+      "beach": "Playa de Llumeres",
+      "council": "Gozón",
+      "locality": "Bañugues",
+      "environment": "Vegetación en la playa. Paisaje protegido",
+      "surface": "Grava y arena de grano medio y oscuro. Aislada",
+      "length_x_width_m": "450 x 20",
+      "lat": 43.641013,
+      "lon": -5.831294
+    },
+    {
+      "beach": "Playa de Moniello",
+      "council": "Gozón",
+      "locality": "Moniello",
+      "environment": "Vegetación en la playa. Paisaje protegido",
+      "surface": "Cantos rodados y escasísima arena de grano grueso y tostado. Semiurbana",
+      "length_x_width_m": "80 x 20",
+      "lat": 43.62918,
+      "lon": -5.794601
+    },
+    {
+      "beach": "Playa de Luanco",
+      "council": "Gozón",
+      "locality": "Luanco",
+      "environment": "Vegetación en la playa.",
+      "surface": "Arena de grano medio y dorado. Urbana",
+      "length_x_width_m": "280 x 90",
+      "lat": 43.618027,
+      "lon": -5.787778
+    },
+    {
+      "beach": "Playa de La Ribera",
+      "council": "Gozón",
+      "locality": "Luanco",
+      "environment": "Sin vegetación en la playa.",
+      "surface": "Arena de grano grueso y oscuro. Urbana",
+      "length_x_width_m": "200 x 35",
+      "lat": 43.613926,
+      "lon": -5.791726
+    },
+    {
+      "beach": "Playa de Gargantera",
+      "council": "Gozón",
+      "locality": "Antromero",
+      "environment": "Sin vegetación en la playa.",
+      "surface": "Afloramientos rocosos, grava y arena de grano medio y dorado. Aislada",
+      "length_x_width_m": "200 x 17",
+      "lat": 43.606406,
+      "lon": -5.776534
+    },
+    {
+      "beach": "Playa de San Pedro de Antromero",
+      "council": "Gozón",
+      "locality": "Antromero",
+      "environment": "Vegetación en la playa.",
+      "surface": "Arena de grano fino y dorado, con afloramientos rocosos. Semiurbana",
+      "length_x_width_m": "390 x 50",
+      "lat": 43.601745,
+      "lon": -5.772114
+    },
+    {
+      "beach": "Playa de Los Cristales",
+      "council": "Gozón",
+      "locality": "Antromero",
+      "environment": "Vegetación en la playa.",
+      "surface": "Arena escasa de grano medio y dorado, con afloramientos rocosos. Aislada",
+      "length_x_width_m": "160 x 20",
+      "lat": 43.60594,
+      "lon": -5.772629
+    },
+    {
+      "beach": "Playa de Candás",
+      "council": "Carreño",
+      "locality": "Candás",
+      "environment": "Ni vegetación ni protección",
+      "surface": "arena de grano fino y dorado. Urbana",
+      "length_x_width_m": "240x 65",
+      "lat": 43.589639,
+      "lon": -5.763123
+    },
+    {
+      "beach": "Playa de La Palmera",
+      "council": "Carreño",
+      "locality": "Candás",
+      "environment": "Ni vegetación ni protección",
+      "surface": "arena de grano fino y dorado. Urbana",
+      "length_x_width_m": "240x 40",
+      "lat": 43.587525,
+      "lon": -5.761127
+    },
+    {
+      "beach": "Playa de Huelgues",
+      "council": "Carreño",
+      "locality": "Perlora",
+      "environment": "Con vegetación en la playa pero sin protección",
+      "surface": "Rocas y arena. Semiurbana",
+      "length_x_width_m": "120 x 30",
+      "lat": 43.58246,
+      "lon": -5.75177
+    },
+    {
+      "beach": "Playa de Carranques",
+      "council": "Carreño",
+      "locality": "Perlora",
+      "environment": "Con vegetación en la playa pero sin protección",
+      "surface": "Arena de grano mediano y tostado. Urbana",
+      "length_x_width_m": "210 x 40",
+      "lat": 43.580919,
+      "lon": -5.744669
+    },
+    {
+      "beach": "Playa de La Isla (Perlora)",
+      "council": "Carreño",
+      "locality": "Perlora",
+      "environment": "Con vegetación en la playa pero sin protección",
+      "surface": "Arena de grano medio y tostado. Urbana",
+      "length_x_width_m": "15 x 5",
+      "lat": 43.580919,
+      "lon": -5.744669
+    },
+    {
+      "beach": "Playa de El Tranquero",
+      "council": "Carreño",
+      "locality": "Albandi",
+      "environment": "Con vegetación en la playa pero sin protección",
+      "surface": "Arena de grano mediano y dorado. Aislada",
+      "length_x_width_m": "250 x 20",
+      "lat": 43.575681,
+      "lon": -5.738361
+    },
+    {
+      "beach": "Playa de La Taluxa",
+      "council": "Carreño",
+      "locality": "Candás",
+      "environment": "Con vegetación en la playa pero sin protección",
+      "surface": "Arena de grano mediano y dorado, y grava. Aislada",
+      "length_x_width_m": "60 x 20",
+      "lat": 43.598761,
+      "lon": -5.770011
+    },
+    {
+      "beach": "Playa de Rebolleres",
+      "council": "Carreño",
+      "locality": "Candás",
+      "environment": "Con vegetación en la playa pero sin protección",
+      "surface": "Bolos y escasa arena. Semiurbana",
+      "length_x_width_m": "120 x 20",
+      "lat": 43.595156,
+      "lon": -5.767608
+    },
+    {
+      "beach": "Playas de Xivares, Peña María y Aboño",
+      "council": "Carreño",
+      "locality": "Albandi",
+      "environment": "Con vegetación en la playa pero sin protección",
+      "surface": "Arena de grano fino y dorado. Semiurbana",
+      "length_x_width_m": "800 x 75",
+      "lat": 43.569385,
+      "lon": -5.721753
+    },
+    {
+      "beach": "Playa de Estaño",
+      "council": "Gijón",
+      "locality": "Somió",
+      "environment": "Vegetación en la playa. Protección LIC",
+      "surface": "Grava y arena de grano fino y dorado. Semiurbano",
+      "length_x_width_m": "300 x 17",
+      "lat": 43.547895,
+      "lon": -5.59865
+    },
+    {
+      "beach": "Playas de Serín y La Cagonera",
+      "council": "Gijón",
+      "locality": "Somió",
+      "environment": "Vegetación en la playa. Protección LIC",
+      "surface": "bolos y arena de grano grueso y tostado. Aislada",
+      "length_x_width_m": "450 x 25; 75 x 25",
+      "lat": 43.550539,
+      "lon": -5.611439
+    },
+    {
+      "beach": "Playa de Poniente (Gijón)",
+      "council": "Gijón",
+      "locality": "Gijón",
+      "environment": "Ni vegetación ni protección",
+      "surface": "Arena de grano grueso y tostado. Urbana",
+      "length_x_width_m": "500 x 70",
+      "lat": 43.541642,
+      "lon": -5.673923
+    },
+    {
+      "beach": "Playa del Arbeyal",
+      "council": "Gijón",
+      "locality": "Gijón",
+      "environment": "Ni vegetación ni protección",
+      "surface": "Arena de grano grueso y tostado. Urbana",
+      "length_x_width_m": "110 x 35",
+      "lat": 43.54326,
+      "lon": -5.693579
+    },
+    {
+      "beach": "Playa de San Lorenzo",
+      "council": "Gijón",
+      "locality": "Gijón",
+      "environment": "Ni vegetación ni protección",
+      "surface": "Arena de grano fino y tostado. Urbana",
+      "length_x_width_m": "1500 x 110",
+      "lat": 43.54046,
+      "lon": -5.654869
+    },
+    {
+      "beach": "Playa de El Rinconín",
+      "council": "Gijón",
+      "locality": "Somió",
+      "environment": "Ni vegetación ni protección",
+      "surface": "Grava/Rocas y arena de grano grueso y tostado. Urbana",
+      "length_x_width_m": "450 x 110",
+      "lat": 43.543758,
+      "lon": -5.64414
+    },
+    {
+      "beach": "Playa de Peñarrubia",
+      "council": "Gijón",
+      "locality": "Somió",
+      "environment": "Ni vegetación ni protección",
+      "surface": "Grava y arena de grano fino y tostado. Semiurbana",
+      "length_x_width_m": "550x 15",
+      "lat": 43.550477,
+      "lon": -5.626287
+    },
+    {
+      "beach": "Playa de la Ñora",
+      "council": "Villaviciosa",
+      "locality": "Quintueles",
+      "environment": "Vegetación en la playa. LIC",
+      "surface": "Arena de grano fino y tostado. Semiurbana",
+      "length_x_width_m": "250 x 70",
+      "lat": 43.547117,
+      "lon": -5.590024
+    },
+    {
+      "beach": "Playa España",
+      "council": "Villaviciosa",
+      "locality": "Quintes",
+      "environment": "Vegetación en la playa. LIC",
+      "surface": "Bolos/Grava y arena de grano fino y tostado. Semiurbana",
+      "length_x_width_m": "440 x 74",
+      "lat": 43.544442,
+      "lon": -5.59342
+    },
+    {
+      "beach": "Playa de Merón (Villaviciosa)",
+      "council": "Villaviciosa",
+      "locality": "Argüero",
+      "environment": "Vegetación en la playa. LIC",
+      "surface": "Grava y arena de grano fino y tostado. Aislada",
+      "length_x_width_m": "200 x 90",
+      "lat": 43.543649,
+      "lon": -5.494323
+    },
+    {
+      "beach": "Playa de Tazones",
+      "council": "Villaviciosa",
+      "locality": "Tazones",
+      "environment": "Vegetación en la playa. LIC",
+      "surface": "Bolos y arena de grano fino y oscuro. Urbana",
+      "length_x_width_m": "180 x 30",
+      "lat": 43.544644,
+      "lon": -5.399909
+    },
+    {
+      "beach": "Playa de El Puntal (Asturias)",
+      "council": "Villaviciosa",
+      "locality": "San Martín del Mar",
+      "environment": "Vegetación en la playa. Reserva natural, Protección ZEPA, LIC",
+      "surface": "Rocas/Arena de grano fino y tostado. Semiurbana",
+      "length_x_width_m": "150 x 30",
+      "lat": 43.529338,
+      "lon": -5.388
+    },
+    {
+      "beach": "Playa de Misiego",
+      "council": "Villaviciosa",
+      "locality": "Selorio",
+      "environment": "Vegetación en la playa. Reserva natural, Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y oscuro. Semiurbana",
+      "length_x_width_m": "1100 x 155",
+      "lat": 43.521637,
+      "lon": -5.382185
+    },
+    {
+      "beach": "Playa de Rodiles",
+      "council": "Villaviciosa",
+      "locality": "Selorio",
+      "environment": "Vegetación en la playa. Reserva natural, Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y tostado. Semiurbana",
+      "length_x_width_m": "1000 x 295",
+      "lat": 43.532527,
+      "lon": -5.382442
+    },
+    {
+      "beach": "Playa de Conejera",
+      "council": "Villaviciosa",
+      "locality": "Selorio",
+      "environment": "Vegetación en la playa. LIC",
+      "surface": "Bolos/Arena de grano fino y oscuro. Aislada",
+      "length_x_width_m": "175 x 10",
+      "lat": 43.532963,
+      "lon": -5.36665
+    },
+    {
+      "beach": "Playa de Bonome",
+      "council": "Villaviciosa",
+      "locality": "Villaviciosa (parroquia)",
+      "environment": "Vegetación en la playa. Reserva natural, Protección ZEPA, LIC",
+      "surface": "Sedimentos/Arena de grano fino y oscuro. Semiurbana",
+      "length_x_width_m": "100 x 50",
+      "lat": 43.529338,
+      "lon": -5.388
+    },
+    {
+      "beach": "Playa de El Escanu",
+      "council": "Colunga",
+      "locality": "Lastres",
+      "environment": "No tiene ningún tipo de protección",
+      "surface": "Arena de grano fino y tostado. Urbana",
+      "length_x_width_m": "100 x 10",
+      "lat": 43.515008,
+      "lon": -5.268459
+    },
+    {
+      "beach": "Playa de Lastres",
+      "council": "Colunga",
+      "locality": "Lastres",
+      "environment": "Vegetación en la playa. LIC",
+      "surface": "Bolos/Grava y arena de grano fino y dorado. Semiurbana",
+      "length_x_width_m": "300 x 27",
+      "lat": 43.507227,
+      "lon": -5.27082
+    },
+    {
+      "beach": "Playa de La Griega",
+      "council": "Colunga",
+      "locality": "Colunga",
+      "environment": "Vegetación en la playa. Monumento natural. LIC",
+      "surface": "Arena de grano grueso y dorado. Semiurbana",
+      "length_x_width_m": "820 x 82",
+      "lat": 43.500317,
+      "lon": -5.261936
+    },
+    {
+      "beach": "Playa de La Isla",
+      "council": "Colunga",
+      "locality": "La Isla",
+      "environment": "Vegetación en la playa.",
+      "surface": "Arena de grano grueso y Dorado con afloramientos rocosos. Urbana",
+      "length_x_width_m": "80 x 50",
+      "lat": 43.479643,
+      "lon": -5.225286
+    },
+    {
+      "beach": "Playa de El Barrigón",
+      "council": "Colunga",
+      "locality": "La Isla",
+      "environment": "Vegetación en la playa.",
+      "surface": "Arena de grano grueso y tostado. Semiurbana",
+      "length_x_width_m": "50 x 25",
+      "lat": 43.479643,
+      "lon": -5.225286
+    },
+    {
+      "beach": "Playa de La Espasa",
+      "council": "Caravia",
+      "locality": "lugar de La Espasa, Caravia Baja",
+      "environment": "Vegetación en la playa.",
+      "surface": "Arena de grano fino y dorado. Semiurbana",
+      "length_x_width_m": "1200 x 60",
+      "lat": 43.473788,
+      "lon": -5.215459
+    },
+    {
+      "beach": "Playa de El Pozo de las Pipas",
+      "council": "Caravia",
+      "locality": "lugar de La Espasa, Caravia Baja",
+      "environment": "Vegetación en la playa.",
+      "surface": "Arena de grano fino y tostado. Semiurbana",
+      "length_x_width_m": "75 x 50",
+      "lat": 43.473788,
+      "lon": -5.215459
+    },
+    {
+      "beach": "Playa de El Viso",
+      "council": "Caravia",
+      "locality": "lugar de Duesos, Caravia Baja",
+      "environment": "Vegetación en la playa.",
+      "surface": "Rocas y arena de grano fino y tostado. Semiurbana",
+      "length_x_width_m": "275 x 50",
+      "lat": 43.475408,
+      "lon": -5.199451
+    },
+    {
+      "beach": "Playa de Beciella",
+      "council": "Caravia",
+      "locality": "lugar de Duesos, Caravia Baja",
+      "environment": "Vegetación en la playa.",
+      "surface": "Bolos y arena de grano fino y tostado. Aislada",
+      "length_x_width_m": "170 x 52",
+      "lat": 43.475408,
+      "lon": -5.199451
+    },
+    {
+      "beach": "Playa Arenal de Morís",
+      "council": "Caravia",
+      "locality": "lugar de Prado, Caravia Baja",
+      "environment": "Vegetación en la playa.",
+      "surface": "Arena de grano fino y tostado. Semiurbana",
+      "length_x_width_m": "770 x 65",
+      "lat": 43.474287,
+      "lon": -5.176449
+    },
+    {
+      "beach": "Playa de El Portiello",
+      "council": "Ribadesella",
+      "locality": "Berbes",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Bolos y rocas. Aislada",
+      "length_x_width_m": "25 x 9",
+      "lat": 43.477027,
+      "lon": -5.162072
+    },
+    {
+      "beach": "Playas de Berbes, Vega y La Sierra",
+      "council": "Ribadesella",
+      "locality": "Berbes",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Bolos y arena, de grano fino y tostado. Semiurbana",
+      "length_x_width_m": "400 x 25, 1200 x 15, 200x 40",
+      "lat": 43.477737,
+      "lon": -5.149455
+    },
+    {
+      "beach": "Playa de Tereñes",
+      "council": "Ribadesella",
+      "locality": "Leces",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Bolos y rocas y arena de grano grueso y oscuro. Aislada",
+      "length_x_width_m": "750 x 75",
+      "lat": 43.474256,
+      "lon": -5.101132
+    },
+    {
+      "beach": "Playa de Santa Marina",
+      "council": "Ribadesella",
+      "locality": "Ribadesella (parroquia)",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y tostado. Urbana",
+      "length_x_width_m": "1150 x 63",
+      "lat": 43.465255,
+      "lon": -5.07062
+    },
+    {
+      "beach": "Playa de La Atalaya",
+      "council": "Ribadesella",
+      "locality": "Ribadesella (parroquia)",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Bolos y arena de grano fino y tostado. Urbana",
+      "length_x_width_m": "100 x 35",
+      "lat": 43.463822,
+      "lon": -5.055513
+    },
+    {
+      "beach": "Playa de Aberdil",
+      "council": "Ribadesella",
+      "locality": "Ribadesella (parroquia)",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Bolos, roca y escasa arena de grano medio y tostado. Aislada",
+      "length_x_width_m": "300 x 15",
+      "lat": 43.461268,
+      "lon": -5.044999
+    },
+    {
+      "beach": "Playa de Arra",
+      "council": "Ribadesella",
+      "locality": "Collera",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Bolos/Rocas y arena de grano grueso y tostado. Aislada",
+      "length_x_width_m": "320 x 12",
+      "lat": 43.461143,
+      "lon": -5.039291
+    },
+    {
+      "beach": "Playa de Villanueva",
+      "council": "Llanes",
+      "locality": "Villanueva de Pría",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano medio y dorado, y afloramientos rocosos. Aislada",
+      "length_x_width_m": "20 x 50",
+      "lat": 43.458776,
+      "lon": -4.945049
+    },
+    {
+      "beach": "Playa de Cuevas del Mar",
+      "council": "Llanes",
+      "locality": "",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco, y presencia de cantos rodados. Semiurbana",
+      "length_x_width_m": "125 x 47",
+      "lat": 43.456252,
+      "lon": -4.93784
+    },
+    {
+      "beach": "Playa de San Antonio (Picones)",
+      "council": "Llanes",
+      "locality": "Nueva (Llanes)",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y dorado. Semiurbana",
+      "length_x_width_m": "70 x 47",
+      "lat": 43.451797,
+      "lon": -4.904966
+    },
+    {
+      "beach": "Playa La Huelga y Playa de la Canalina",
+      "council": "Llanes",
+      "locality": "Hontoria",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Bolos/Roca/Arena en la Huelga; y roca y arena fina y blanca en La Canalina. Aislada",
+      "length_x_width_m": "62 x 180",
+      "lat": 43.448433,
+      "lon": -4.895868
+    },
+    {
+      "beach": "Playa de Gulpiyuri",
+      "council": "Llanes",
+      "locality": "Naves",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Semiurbana",
+      "length_x_width_m": "40 x 15",
+      "lat": 43.441724,
+      "lon": -4.886856
+    },
+    {
+      "beach": "Playa de San Antolín",
+      "council": "Llanes",
+      "locality": "Naves",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano medio y blanco, con algún canto rodado. Semiurbana",
+      "length_x_width_m": "1200 x 60",
+      "lat": 43.442762,
+      "lon": -4.868445
+    },
+    {
+      "beach": "Playa de Torimbia",
+      "council": "Llanes",
+      "locality": "Niembro",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena blanca y fina y bolos. Aislada",
+      "length_x_width_m": "500 x 100",
+      "lat": 43.441329,
+      "lon": -4.852438
+    },
+    {
+      "beach": "Playa de Pestaña",
+      "council": "Llanes",
+      "locality": "Llames de Pría",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena blanca de grano grueso. Aislada",
+      "length_x_width_m": "100 x 50",
+      "lat": 43.44351,
+      "lon": -4.860635
+    },
+    {
+      "beach": "Playa de Guadamía",
+      "council": "Llanes",
+      "locality": "Llames de Pría",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Bolos y arena blanca y fina. Semiurbana",
+      "length_x_width_m": "80 x 120",
+      "lat": 43.45619,
+      "lon": -4.98157
+    },
+    {
+      "beach": "Playas de Sovalle, Valle y Niembro",
+      "council": "Llanes",
+      "locality": "Llames de Pría",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Roca/Grava/Arena blanca. Semiurbana",
+      "length_x_width_m": "300 x 100/120 x 25/160x25",
+      "lat": 43.4446,
+      "lon": -4.840593
+    },
+    {
+      "beach": "Playas de Xiglú, Sorraos y Barro",
+      "council": "Llanes",
+      "locality": "Barro",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Roca/Arena, presentando en Xiglu también bolos, de grano fino y blanco.Barro urbana; Sorraos semiurbana; Xiglu urbana",
+      "length_x_width_m": "250 x 60/100 x 41/30 x 12",
+      "lat": 43.435844,
+      "lon": -4.825702
+    },
+    {
+      "beach": "Playa de Troenzo (Llanes)",
+      "council": "Llanes",
+      "locality": "Celorio",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Semiurbana",
+      "length_x_width_m": "120 x 65",
+      "lat": 43.43547,
+      "lon": -4.818535
+    },
+    {
+      "beach": "Playa de Borizu",
+      "council": "Llanes",
+      "locality": "Celorio",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Semiurbana",
+      "length_x_width_m": "400 x 67",
+      "lat": 43.434379,
+      "lon": -4.814544
+    },
+    {
+      "beach": "Playa de Palombina",
+      "council": "Llanes",
+      "locality": "Celorio",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Urbana",
+      "length_x_width_m": "300 x 84",
+      "lat": 43.432323,
+      "lon": -4.810295
+    },
+    {
+      "beach": "Playas de Las Cámaras y Los Curas",
+      "council": "Llanes",
+      "locality": "Celorio",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Urbana",
+      "length_x_width_m": "100 x 65",
+      "lat": 43.430827,
+      "lon": -4.808536
+    },
+    {
+      "beach": "Playa de San Martín",
+      "council": "Llanes",
+      "locality": "Celorio",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y tostado. Aislada",
+      "length_x_width_m": "750 x 52",
+      "lat": 43.430453,
+      "lon": -4.792228
+    },
+    {
+      "beach": "Playa de Portiello",
+      "council": "Llanes",
+      "locality": "Celorio",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Aislada",
+      "length_x_width_m": "35 x 25",
+      "lat": 43.414494,
+      "lon": -4.740944
+    },
+    {
+      "beach": "Playa de la Tayada",
+      "council": "Llanes",
+      "locality": "Celorio",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Aislada",
+      "length_x_width_m": "100 x 45",
+      "lat": 43.437371,
+      "lon": -4.781566
+    },
+    {
+      "beach": "Playa de Poo",
+      "council": "Llanes",
+      "locality": "Llanes",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y dorado. Semiurbana",
+      "length_x_width_m": "150 x 100",
+      "lat": 43.428333,
+      "lon": -4.784074
+    },
+    {
+      "beach": "Playa de El Sablón",
+      "council": "Llanes",
+      "locality": "Llanes",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Urbana",
+      "length_x_width_m": "100 x 42",
+      "lat": 43.42238,
+      "lon": -4.753904
+    },
+    {
+      "beach": "Playa de Puerto Chico",
+      "council": "Llanes",
+      "locality": "Llanes",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Urbana",
+      "length_x_width_m": "150 x 22",
+      "lat": 43.418577,
+      "lon": -4.748325
+    },
+    {
+      "beach": "Playa de Toró",
+      "council": "Llanes",
+      "locality": "Llanes",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Semiurbana",
+      "length_x_width_m": "220 x 40",
+      "lat": 43.415772,
+      "lon": -4.744592
+    },
+    {
+      "beach": "Playa de Cue o de Antilles",
+      "council": "Llanes",
+      "locality": "Cue",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Semiurbana",
+      "length_x_width_m": "380 x 40",
+      "lat": 43.415772,
+      "lon": -4.731073
+    },
+    {
+      "beach": "Playa de Ballota (Llanes)",
+      "council": "Llanes",
+      "locality": "Ballota",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano medio y dorado. Semiurbana",
+      "length_x_width_m": "350 x 62",
+      "lat": 43.411065,
+      "lon": -4.713864
+    },
+    {
+      "beach": "Playa de Andrín",
+      "council": "Llanes",
+      "locality": "Andrín",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Semiurbana",
+      "length_x_width_m": "240 x 62",
+      "lat": 43.409631,
+      "lon": -4.708886
+    },
+    {
+      "beach": "Playa de Vidiago",
+      "council": "Llanes",
+      "locality": "Vidiago",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y dorado. Semiurbana",
+      "length_x_width_m": "200 x 52",
+      "lat": 43.400495,
+      "lon": -4.652452
+    },
+    {
+      "beach": "Playa de Pendueles",
+      "council": "Llanes",
+      "locality": "Pendueles",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano medio y oscuro. Aislada",
+      "length_x_width_m": "150 x 25",
+      "lat": 43.398172,
+      "lon": -4.630394
+    },
+    {
+      "beach": "playa de Buelna",
+      "council": "Llanes",
+      "locality": "Buelna",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Semiurbana",
+      "length_x_width_m": "50 x 20/30 x 12",
+      "lat": 43.396239,
+      "lon": -4.619343
+    },
+    {
+      "beach": "Playa de Cobijero",
+      "council": "Llanes",
+      "locality": "Buelna",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Aislada",
+      "length_x_width_m": "30 x 17",
+      "lat": 43.395709,
+      "lon": -4.609966
+    },
+    {
+      "beach": "Playa la Presa",
+      "council": "Llanes",
+      "locality": "Buelna",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Aislada",
+      "length_x_width_m": "30 x 17",
+      "lat": 43.395865,
+      "lon": -4.612048
+    },
+    {
+      "beach": "Playa de La Acacia",
+      "council": "Llanes",
+      "locality": "Santiuste",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Aislada",
+      "length_x_width_m": "100 x 35",
+      "lat": 43.396005,
+      "lon": -4.579217
+    },
+    {
+      "beach": "Playa de La Franca",
+      "council": "Ribadedeva",
+      "locality": "La Franca",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Semiurbano",
+      "length_x_width_m": "260 x 141",
+      "lat": 43.391951,
+      "lon": -4.578038
+    },
+    {
+      "beach": "Playa Mendía",
+      "council": "Ribadedeva",
+      "locality": "Pimiango",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Aislada",
+      "length_x_width_m": "480 x 20",
+      "lat": 43.3996283,
+      "lon": -4.54519944
+    },
+    {
+      "beach": "Playa El Oso",
+      "council": "Ribadedeva",
+      "locality": "La Franca",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco. Aislada",
+      "length_x_width_m": "100 x 20",
+      "lat": 43.391951,
+      "lon": -4.578038
+    },
+    {
+      "beach": "Playa El Vivero",
+      "council": "Ribadedeva",
+      "locality": "Pimiango",
+      "environment": "Vegetación en la playa. Protección ZEPA, LIC",
+      "surface": "Arena de grano fino y blanco, y afloramientos rocosos. Aislada",
+      "length_x_width_m": "200 x 25",
+      "lat": 43.39356,
+      "lon": -4.5671
+    }
+  ],
+  "meta": {
+    "title": "Playas de Asturias - Free Download",
+    "description": "Playas del litoral asturiano por concejo, con localidad, aspectos medioambientales, tipo de arena y entorno, dimensiones y coordenadas. Contains 237 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Playas de Asturias | ListBase",
+    "seo_description": "Download Playas de Asturias — 237 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 237 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Playas_de_Asturias"
+    ]
+  }
+}
