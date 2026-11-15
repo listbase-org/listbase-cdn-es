@@ -1,0 +1,250 @@
+{
+  "id": "es-dias-feriados-uruguay",
+  "name": "Días feriados de Uruguay",
+  "title": "Días feriados de Uruguay",
+  "description": "Feriados y días festivos de Uruguay con fecha, tipo, remuneración, si son laborables o no, movilidad y descripción, según la legislación uruguaya.",
+  "category": "time",
+  "source": "https://es.wikipedia.org/wiki/Días_feriados_de_Uruguay",
+  "source_url": "https://es.wikipedia.org/wiki/Días_feriados_de_Uruguay",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "pay",
+      "label": "Pay",
+      "type": "string"
+    },
+    {
+      "key": "work",
+      "label": "Work",
+      "type": "string"
+    },
+    {
+      "key": "mobility",
+      "label": "Mobility",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "1 de enero",
+      "name": "Año Nuevo",
+      "type": "Feriados regulares nacionales",
+      "pay": "Pago",
+      "work": "No laborable",
+      "mobility": "Inamovible",
+      "description": ""
+    },
+    {
+      "date": "6 de enero",
+      "name": "Día de los Niños",
+      "type": "Feriados regulares nacionales",
+      "pay": "Simple",
+      "work": "Laborable",
+      "mobility": "Inamovible",
+      "description": "También conocido por su nombre original religioso « Día de Reyes »."
+    },
+    {
+      "date": "fecha variable (en febrero o marzo)",
+      "name": "Carnaval",
+      "type": "Feriados regulares nacionales",
+      "pay": "Simple",
+      "work": "Laborable",
+      "mobility": "Inamovible",
+      "description": "Ocurre 40 días antes de la Semana de Turismo."
+    },
+    {
+      "date": "fecha variable (en marzo o abril)",
+      "name": "Semana de Turismo",
+      "type": "Feriados regulares nacionales",
+      "pay": "Simple",
+      "work": "Laborable",
+      "mobility": "Inamovible",
+      "description": "También conocida por su versión cristiana « Semana Santa »."
+    },
+    {
+      "date": "19 de abril",
+      "name": "Desembarco de los Treinta y Tres Orientales",
+      "type": "Feriados regulares nacionales",
+      "pay": "Simple",
+      "work": "Laborable",
+      "mobility": "Movible",
+      "description": ""
+    },
+    {
+      "date": "1 de mayo",
+      "name": "Día de los Trabajadores",
+      "type": "Feriados regulares nacionales",
+      "pay": "Pago",
+      "work": "No laborable",
+      "mobility": "Inamovible",
+      "description": ""
+    },
+    {
+      "date": "18 de mayo",
+      "name": "Batalla de Las Piedras",
+      "type": "Feriados regulares nacionales",
+      "pay": "Simple",
+      "work": "Laborable",
+      "mobility": "Movible",
+      "description": ""
+    },
+    {
+      "date": "19 de junio",
+      "name": "Natalicio de Artigas",
+      "type": "Feriados regulares nacionales",
+      "pay": "Simple",
+      "work": "Laborable",
+      "mobility": "Inamovible",
+      "description": ""
+    },
+    {
+      "date": "18 de julio",
+      "name": "Jura de la Constitución",
+      "type": "Feriados regulares nacionales",
+      "pay": "Pago",
+      "work": "No laborable",
+      "mobility": "Inamovible",
+      "description": ""
+    },
+    {
+      "date": "25 de agosto",
+      "name": "Declaratoria de la Independencia",
+      "type": "Feriados regulares nacionales",
+      "pay": "Pago",
+      "work": "No laborable",
+      "mobility": "Inamovible",
+      "description": ""
+    },
+    {
+      "date": "12 de octubre",
+      "name": "Día de la Raza",
+      "type": "Feriados regulares nacionales",
+      "pay": "Simple",
+      "work": "Laborable",
+      "mobility": "Movible",
+      "description": ""
+    },
+    {
+      "date": "2 de noviembre",
+      "name": "Día de los Difuntos",
+      "type": "Feriados regulares nacionales",
+      "pay": "Simple",
+      "work": "Laborable",
+      "mobility": "Inamovible",
+      "description": ""
+    },
+    {
+      "date": "25 de diciembre",
+      "name": "Día de la Familia",
+      "type": "Feriados regulares nacionales",
+      "pay": "Pago",
+      "work": "No laborable",
+      "mobility": "Inamovible",
+      "description": "Más conocido por su nombre religioso « Navidad »."
+    },
+    {
+      "date": "30 de abril",
+      "name": "Día del Trabajador Rural",
+      "type": "Feriados regulares específicos",
+      "pay": "Pago",
+      "work": "No laborable",
+      "mobility": "",
+      "description": "Solamente para trabajadores de la actividad rural."
+    },
+    {
+      "date": "15 de junio",
+      "name": "Día Nacional del Trabajador de la Enseñanza Privada",
+      "type": "Feriados regulares específicos",
+      "pay": "—",
+      "work": "No laborable",
+      "mobility": "",
+      "description": "A partir de 2019. Solamente para trabajadores de la enseñanza privada."
+    },
+    {
+      "date": "21 de julio",
+      "name": "Día del Trabajador Portuario",
+      "type": "Feriados regulares específicos",
+      "pay": "Pago",
+      "work": "—",
+      "mobility": "",
+      "description": "Para todos los trabajadores que desempeñan actividades en los puertos de Uruguay, sin importar el tipo de vínculo laboral."
+    },
+    {
+      "date": "17 de agosto",
+      "name": "Día del Trabajador Gastronómico, Barista y Hotelero",
+      "type": "Feriados regulares específicos",
+      "pay": "Pago",
+      "work": "No laborable",
+      "mobility": "",
+      "description": "Solamente para trabajadores del sector. Si cae viernes, sábado, domingo o lunes, se mueve al segundo miércoles de agosto."
+    },
+    {
+      "date": "23 de octubre",
+      "name": "Día del Periodista y del Trabajador de los Medios de Comunicación en todos sus ámbitos",
+      "type": "Feriados regulares específicos",
+      "pay": "Pago",
+      "work": "No laborable",
+      "mobility": "",
+      "description": "Solamente para los periodistas y demás trabajadores de los medios de comunicación."
+    },
+    {
+      "date": "11 de diciembre",
+      "name": "Día del Funcionario del CES",
+      "type": "Feriados regulares específicos",
+      "pay": "Pago",
+      "work": "No laborable",
+      "mobility": "",
+      "description": "Funcionarios Docentes y administrativos."
+    },
+    {
+      "date": "1 de marzo cada 5 años",
+      "name": "Traspaso del mando presidencial",
+      "type": "Feriados extraordinarios",
+      "pay": "Pago",
+      "work": "No laborable",
+      "mobility": "",
+      "description": "Solamente cuando el 1 de marzo coincida con la transmisión del mando del Presidente de la República, actualmente los años que terminan en cero o en cinco."
+    },
+    {
+      "date": "la fija el Poder Ejecutivo",
+      "name": "Día de realización del Censo de Población y Vivienda",
+      "type": "Feriados extraordinarios",
+      "pay": "Pago",
+      "work": "—",
+      "mobility": "",
+      "description": "Solamente cuando se realiza un censo nacional de población."
+    }
+  ],
+  "meta": {
+    "title": "Días feriados de Uruguay - Free Download",
+    "description": "Feriados y días festivos de Uruguay con fecha, tipo, remuneración, si son laborables o no, movilidad y descripción, según la legislación uruguaya. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Días feriados de Uruguay | ListBase",
+    "seo_description": "Download Días feriados de Uruguay — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Días_feriados_de_Uruguay"
+    ]
+  }
+}
