@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-15T02:15:42.536Z",
-  "total_datasets": 572,
-  "total_records": 434763,
+  "generated": "2026-11-15T02:15:52.491Z",
+  "total_datasets": 573,
+  "total_records": 434942,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "entertainment",
@@ -837,6 +837,32 @@
         "xlsx": {
           "name": "es-universidades-de-mexico_ES.xlsx",
           "size": 10411
+        }
+      }
+    },
+    {
+      "id": "es-universidades-del-peru",
+      "name": "Universidades del Perú",
+      "category": "education",
+      "record_count": 179,
+      "columns": [
+        "name",
+        "acronym",
+        "founded",
+        "city",
+        "type"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Universidades_del_Perú",
+      "updated": "2026-11",
+      "size": 35346,
+      "files": {
+        "csv": {
+          "name": "es-universidades-del-peru_ES.csv",
+          "size": 17487
+        },
+        "xlsx": {
+          "name": "es-universidades-del-peru_ES.xlsx",
+          "size": 14415
         }
       }
     },

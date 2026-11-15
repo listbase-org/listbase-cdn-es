@@ -1,0 +1,1304 @@
+{
+  "id": "es-universidades-del-peru",
+  "name": "Universidades del Perú",
+  "title": "Universidades del Perú",
+  "description": "Universidades públicas y privadas e instituciones con rango universitario del Perú, con acrónimo, año de fundación y sede.",
+  "category": "education",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Universidades_del_Perú",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Universidades_del_Perú",
+  "updated": "2026-11",
+  "record_count": 179,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "acronym",
+      "label": "Acronym",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Universidad Nacional Mayor de San Marcos",
+      "acronym": "UNMSM",
+      "founded": 1551,
+      "city": "Lima",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de San Cristóbal de Huamanga",
+      "acronym": "UNSCH",
+      "founded": 1677,
+      "city": "Ayacucho",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional San Antonio Abad del Cusco",
+      "acronym": "UNSAAC",
+      "founded": 1692,
+      "city": "Cuzco",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de Educación Enrique Guzmán y Valle",
+      "acronym": "UNE",
+      "founded": 1822,
+      "city": "Lima",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de Trujillo",
+      "acronym": "UNT",
+      "founded": 1824,
+      "city": "Trujillo",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de San Agustín",
+      "acronym": "UNSA",
+      "founded": 1828,
+      "city": "Arequipa",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional del Altiplano de Puno",
+      "acronym": "UNAP",
+      "founded": 1856,
+      "city": "Puno",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de Ingeniería",
+      "acronym": "UNI",
+      "founded": 1876,
+      "city": "Lima",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Agraria La Molina",
+      "acronym": "UNALM",
+      "founded": 1902,
+      "city": "Lima",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional San Luis Gonzaga",
+      "acronym": "UNICA",
+      "founded": 1955,
+      "city": "Ica",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional del Centro del Perú",
+      "acronym": "UNCP",
+      "founded": 1959,
+      "city": "Huancayo",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Daniel Alcides Carrión",
+      "acronym": "UNDAC",
+      "founded": 1961,
+      "city": "Cerro de Pasco",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Hermilio Valdizán",
+      "acronym": "UNHEVAL",
+      "founded": 1961,
+      "city": "Huánuco",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de la Amazonía Peruana",
+      "acronym": "UNAP",
+      "founded": 1961,
+      "city": "Iquitos",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de Piura",
+      "acronym": "UNP",
+      "founded": 1961,
+      "city": "Piura",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de Cajamarca",
+      "acronym": "UNC",
+      "founded": 1962,
+      "city": "Cajamarca",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Federico Villarreal",
+      "acronym": "UNFV",
+      "founded": 1963,
+      "city": "Lima",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Agraria de la Selva",
+      "acronym": "UNAS",
+      "founded": 1964,
+      "city": "Tingo María",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional del Callao",
+      "acronym": "UNAC",
+      "founded": 1966,
+      "city": "Callao",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional José Faustino Sánchez Carrión",
+      "acronym": "UNJFSC",
+      "founded": 1968,
+      "city": "Huacho",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Pedro Ruiz Gallo",
+      "acronym": "UNPRG",
+      "founded": 1970,
+      "city": "Lambayeque",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Jorge Basadre Grohmann",
+      "acronym": "UNJBG",
+      "founded": 1971,
+      "city": "Tacna",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Santiago Antúnez de Mayolo",
+      "acronym": "UNASAM",
+      "founded": 1976,
+      "city": "Huaraz",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de Ucayali",
+      "acronym": "UNU",
+      "founded": 1979,
+      "city": "Pucallpa",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de San Martín",
+      "acronym": "UNSM",
+      "founded": 1979,
+      "city": "Tarapoto",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional del Santa",
+      "acronym": "UNS",
+      "founded": 1984,
+      "city": "Chimbote",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de Tumbes",
+      "acronym": "UNT",
+      "founded": 1984,
+      "city": "Tumbes",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de Huancavelica",
+      "acronym": "UNH",
+      "founded": 1991,
+      "city": "Huancavelica",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Amazónica de Madre de Dios",
+      "acronym": "UNAMAD",
+      "founded": 2000,
+      "city": "Puerto Maldonado",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Intercultural de la Amazonía",
+      "acronym": "UNIA",
+      "founded": 2000,
+      "city": "Yarinacocha",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Micaela Bastidas de Apurímac",
+      "acronym": "UNAMBA",
+      "founded": 2000,
+      "city": "Abancay",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas",
+      "acronym": "UNTRMA",
+      "founded": 2000,
+      "city": "Chachapoyas",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Tecnológica de Lima Sur",
+      "acronym": "UNTELS",
+      "founded": 2001,
+      "city": "Lima",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional José María Arguedas",
+      "acronym": "UNAJMA",
+      "founded": 2004,
+      "city": "Andahuaylas",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de Moquegua",
+      "acronym": "UNM",
+      "founded": 2005,
+      "city": "Moquegua",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de Juliaca",
+      "acronym": "UNAJ",
+      "founded": 2007,
+      "city": "Juliaca",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de Jaén",
+      "acronym": "UNJ",
+      "founded": 2008,
+      "city": "Jaén",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Autónoma de Chota",
+      "acronym": "UNACh",
+      "founded": 2010,
+      "city": "Chota",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de Frontera",
+      "acronym": "UNFS",
+      "founded": 2010,
+      "city": "Sullana",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Intercultural de la Selva Central Juan Santos Atahualpa",
+      "acronym": "UNISCJSA",
+      "founded": 2010,
+      "city": "Chanchamayo",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Intercultural Fabiola Salazar Leguía de Bagua",
+      "acronym": "UNIBAGUA",
+      "founded": 2010,
+      "city": "Bagua",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de Barranca",
+      "acronym": "UNAB",
+      "founded": 2010,
+      "city": "Barranca",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Autónoma de Huanta",
+      "acronym": "UNAH",
+      "founded": 2011,
+      "city": "Huanta",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Autónoma Altoandina de Tarma",
+      "acronym": "UNAAT",
+      "founded": 2010,
+      "city": "Tarma",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Autónoma de Alto Amazonas",
+      "acronym": "UNAAA",
+      "founded": 2011,
+      "city": "Yurimaguas",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Ciro Alegría",
+      "acronym": "UNCA",
+      "founded": 2011,
+      "city": "Huamachuco",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo",
+      "acronym": "UNAT",
+      "founded": 2011,
+      "city": "Tayacaja",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional de Cañete",
+      "acronym": "UNDC",
+      "founded": 2013,
+      "city": "Cañete",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Intercultural de Quillabamba",
+      "acronym": "UNIQ",
+      "founded": 2019,
+      "city": "Quillabamba",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Universidad Nacional Tecnológica de Frontera San Ignacio de Loyola",
+      "acronym": "UNATEFSIL",
+      "founded": 2022,
+      "city": "San Ignacio",
+      "type": "Universidades públicas"
+    },
+    {
+      "name": "Pontificia Universidad Católica del Perú",
+      "acronym": "PUCP",
+      "founded": 1917,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Peruana Cayetano Heredia",
+      "acronym": "UPCH",
+      "founded": 1961,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Católica de Santa María",
+      "acronym": "UCSM",
+      "founded": 1961,
+      "city": "Arequipa",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad del Pacífico",
+      "acronym": "UP",
+      "founded": 1962,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad de Lima",
+      "acronym": "ULIMA",
+      "founded": 1962,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad de San Martín de Porres",
+      "acronym": "USMP",
+      "founded": 1962,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Femenina del Sagrado Corazón",
+      "acronym": "UNIFÉ",
+      "founded": 1962,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Inca Garcilaso de la Vega",
+      "acronym": "UIGV",
+      "founded": 1964,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Marcelino Champagnat",
+      "acronym": "UMCH",
+      "founded": 1968,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad de Piura",
+      "acronym": "UDEP",
+      "founded": 1969,
+      "city": "Piura",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Ricardo Palma",
+      "acronym": "URP",
+      "founded": 1969,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Andina del Cusco",
+      "acronym": "UAC",
+      "founded": 1979,
+      "city": "Cuzco",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Peruana Los Andes",
+      "acronym": "UPLA",
+      "founded": 1983,
+      "city": "Huancayo",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Peruana Unión",
+      "acronym": "UPeU",
+      "founded": 1983,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Tecnológica de los Andes",
+      "acronym": "UTEA",
+      "founded": 1984,
+      "city": "Abancay",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad de Huánuco",
+      "acronym": "UDH",
+      "founded": 1984,
+      "city": "Huánuco",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada de Tacna",
+      "acronym": "UPT",
+      "founded": 1985,
+      "city": "Tacna",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada Antenor Orrego",
+      "acronym": "UPAO",
+      "founded": 1988,
+      "city": "Trujillo",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Particular de Iquitos",
+      "acronym": "UPI",
+      "founded": 1990,
+      "city": "Iquitos",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad César Vallejo",
+      "acronym": "UCV",
+      "founded": 1991,
+      "city": "Trujillo",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada del Norte",
+      "acronym": "UPN",
+      "founded": 1993,
+      "city": "Trujillo",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Facultad de Teología Pontificia y Civil de Lima",
+      "acronym": "FTPCL",
+      "founded": 1994,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Peruana de Ciencias Aplicadas",
+      "acronym": "UPC",
+      "founded": 1994,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad San Ignacio de Loyola",
+      "acronym": "USIL",
+      "founded": 1995,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Católica Santo Toribio de Mogrovejo",
+      "acronym": "USAT",
+      "founded": 1996,
+      "city": "Chiclayo",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Norbert Wiener",
+      "acronym": "UW",
+      "founded": 1996,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Católica San Pablo",
+      "acronym": "UCSP",
+      "founded": 1997,
+      "city": "Arequipa",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada San Juan Bautista",
+      "acronym": "UPSBJ",
+      "founded": 1997,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Tecnológica del Perú",
+      "acronym": "UTP",
+      "founded": 1997,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Católica Sedes Sapientiae",
+      "acronym": "UCSS",
+      "founded": 1998,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Científica del Sur",
+      "acronym": "UCSur",
+      "founded": 1998,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Continental",
+      "acronym": "UC",
+      "founded": 1998,
+      "city": "Huancayo",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Escuela de Postgrado Gerens",
+      "acronym": "Gerens",
+      "founded": 1998,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Señor de Sipán",
+      "acronym": "USS",
+      "founded": 1999,
+      "city": "Chiclayo",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Cátólica de Trujillo Benedicto XVI",
+      "acronym": "UCT",
+      "founded": 2000,
+      "city": "Trujillo",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad para el Desarrollo Andino",
+      "acronym": "UDeA",
+      "founded": 2002,
+      "city": "Lircay",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Antonio Ruiz de Montoya",
+      "acronym": "UARM",
+      "founded": 2003,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad ESAN",
+      "acronym": "UE",
+      "founded": 2003,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Jaime Bausate y Meza",
+      "acronym": "UJBM",
+      "founded": 2003,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada de Trujillo",
+      "acronym": "UPRIT",
+      "founded": 2006,
+      "city": "Trujillo",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad de Ciencias y Humanidades",
+      "acronym": "UCH",
+      "founded": 2006,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Autónoma de Ica",
+      "acronym": "UAI",
+      "founded": 2006,
+      "city": "Ica",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Autónoma del Perú",
+      "acronym": "UA",
+      "founded": 2007,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad de Ciencias y Artes de América Latina",
+      "acronym": "UCAL",
+      "founded": 2010,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad La Salle",
+      "acronym": "Ulasalle",
+      "founded": 2010,
+      "city": "Arequipa",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada de Huancayo Franklin Roosevelt",
+      "acronym": "UPHFR",
+      "founded": 2010,
+      "city": "Huancayo",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad de Ingeniería y Tecnología",
+      "acronym": "UTEC",
+      "founded": 2011,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad María Auxiliadora",
+      "acronym": "UMA",
+      "founded": 2011,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada Peruano Alemana",
+      "acronym": "UPAL",
+      "founded": 2012,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Escuela de Postgrado Neumann Business School",
+      "acronym": "Neumann",
+      "founded": 2012,
+      "city": "Tacna",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Andina Néstor Cáceres Velásquez",
+      "acronym": "UANCV",
+      "founded": 1981,
+      "city": "Juliaca",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Particular de Chiclayo",
+      "acronym": "UDCH",
+      "founded": 1985,
+      "city": "Chiclayo",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad San Pedro",
+      "acronym": "USP",
+      "founded": 1988,
+      "city": "Chimbote",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Científica del Perú",
+      "acronym": "UCP",
+      "founded": 1990,
+      "city": "Iquitos",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad José Carlos Mariátegui",
+      "acronym": "UJCM",
+      "founded": 1989,
+      "city": "Moquegua",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada San Carlos",
+      "acronym": "UPSC",
+      "founded": 2004,
+      "city": "Puno",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada Antonio Guillermo Urrelo",
+      "acronym": "UPAGU",
+      "founded": 1992,
+      "city": "Cajamarca",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Peruana de Arte Orval",
+      "acronym": "ORVAL",
+      "founded": 1992,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada de Ica",
+      "acronym": "UPICA",
+      "founded": 1997,
+      "city": "Ica",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad de Lambayeque",
+      "acronym": "UDL",
+      "founded": 1999,
+      "city": "Chiclayo",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada Sergio Bernales",
+      "acronym": "UPSB",
+      "founded": 2002,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Peruana de Ciencias e Informática",
+      "acronym": "UPCI",
+      "founded": 2002,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Peruana de Las Américas",
+      "acronym": "Ulasamericas",
+      "founded": 2003,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada Telesup",
+      "acronym": "Utelesup",
+      "founded": 2004,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada de Pucallpa",
+      "acronym": "UPP",
+      "founded": 2005,
+      "city": "Pucallpa",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Peruana de Oriente",
+      "acronym": "UPO",
+      "founded": 2006,
+      "city": "San Juan Bautista",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Peruana Simón Bolívar",
+      "acronym": "USB",
+      "founded": 2007,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Peruana del Centro",
+      "acronym": "UPeCEN",
+      "founded": 2008,
+      "city": "Huancayo",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada de Juan Mejía Baca",
+      "acronym": "UMB",
+      "founded": 2008,
+      "city": "Chiclayo",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Peruana de Integración Global",
+      "acronym": "UPIG",
+      "founded": 2008,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada Arzobispo Loayza",
+      "acronym": "UAL",
+      "founded": 2009,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Autónoma San Francisco",
+      "acronym": "UAFS",
+      "founded": 2010,
+      "city": "Arequipa",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Interamericana para el Desarrollo",
+      "acronym": "UNID",
+      "founded": 2010,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Peruana Austral del Cusco",
+      "acronym": "UPAC",
+      "founded": 2010,
+      "city": "Cuzco",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Seminario Evangélico de Lima",
+      "acronym": "USEL",
+      "founded": 2010,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada Leonardo Da Vinci",
+      "acronym": "UPD",
+      "founded": 2010,
+      "city": "Trujillo",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Ciencias de la Salud",
+      "acronym": "UCS",
+      "founded": 2010,
+      "city": "Arequipa",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada de la Selva Peruana",
+      "acronym": "UPS",
+      "founded": 2010,
+      "city": "Iquitos",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad de Ayacucho Federico Froebel",
+      "acronym": "UDAFF",
+      "founded": 2010,
+      "city": "Ayacucho",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad San Andrés",
+      "acronym": "USAN",
+      "founded": 2010,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada Autónoma del Sur",
+      "acronym": "UPADS",
+      "founded": 2011,
+      "city": "Arequipa",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Peruana de Investigación y Negocios",
+      "acronym": "UPEIN",
+      "founded": 2011,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Latinoamericana CIMA",
+      "acronym": "ULC",
+      "founded": 2011,
+      "city": "Tacna",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada SISE",
+      "acronym": "USISE",
+      "founded": 2012,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Politécnica Amazónica",
+      "acronym": "UPA",
+      "founded": 2012,
+      "city": "Bagua Grande",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Privada Líder Peruana",
+      "acronym": "ULP",
+      "founded": 2012,
+      "city": "Quillabamba",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Santo Domingo de Guzmán",
+      "acronym": "USDG",
+      "founded": 2012,
+      "city": "Jicamarca",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Peruana Santo Tomás de Aquino de Ciencia e Integración",
+      "acronym": "UST",
+      "founded": 2012,
+      "city": "Huancayo",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Global del Cusco",
+      "acronym": "Uglobal",
+      "founded": 2012,
+      "city": "Cuzco",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Marítima del Perú",
+      "acronym": "UMP",
+      "founded": 2012,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Universidad Juan Pablo II",
+      "acronym": "UNIJP",
+      "founded": 2017,
+      "city": "Lima",
+      "type": "Universidades privadas"
+    },
+    {
+      "name": "Escuela Naval del Perú",
+      "acronym": "ENP",
+      "founded": 1821,
+      "city": "Callao",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Instituto Pedagógico Nacional Monterrico (Escuela Normal de Monterrico)",
+      "acronym": "IPNM",
+      "founded": 1876,
+      "city": "Lima",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Militar de Chorrillos",
+      "acronym": "EMCH",
+      "founded": 1898,
+      "city": "Lima",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Universidad Nacional de Música",
+      "acronym": "UNM",
+      "founded": 1908,
+      "city": "Lima",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela de Oficiales de la Fuerza Aérea del Perú",
+      "acronym": "EO FAP",
+      "founded": 1911,
+      "city": "Lima",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Nacional Superior Autónoma de Bellas Artes del Perú",
+      "acronym": "ENSABAP",
+      "founded": 1918,
+      "city": "Lima",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Universidad Alas Peruanas",
+      "acronym": "UAP",
+      "founded": 1996,
+      "city": "Lima",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela de Oficiales de la PNP",
+      "acronym": "EO PNP",
+      "founded": 1922,
+      "city": "Lima",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior de Música Ernesto López Mindreau",
+      "acronym": "-",
+      "founded": 1924,
+      "city": "Chiclayo",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior de Guerra Naval",
+      "acronym": "ESUP",
+      "founded": 1930,
+      "city": "Callao",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior Autónoma de Bellas Artes Diego Quizpe Tito",
+      "acronym": "ESABAC",
+      "founded": 1946,
+      "city": "Cuzco",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Nacional Superior de Arte Dramático",
+      "acronym": "ENSAD",
+      "founded": 1946,
+      "city": "Lima",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Nacional Superior de Folklore José María Arguedas",
+      "acronym": "ENSFJMA",
+      "founded": 1949,
+      "city": "Lima",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Instituto Superior de Música Público Leandro Alviña Miranda",
+      "acronym": "-",
+      "founded": 1950,
+      "city": "Cuzco",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Instituto Superior de Música Público Acolla",
+      "acronym": "-",
+      "founded": 1950,
+      "city": "Jauja",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Nacional de Arte Carlos Baca Flor",
+      "acronym": "ENACBF",
+      "founded": 1951,
+      "city": "Arequipa",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior de Música Pública José Valle Riestra",
+      "acronym": "-",
+      "founded": 1951,
+      "city": "Piura",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior de Formación Artística Pública Felipe Guamán Poma de Ayala",
+      "acronym": "-",
+      "founded": 1952,
+      "city": "Ayacucho",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior de Formación Artística Pública de Puno",
+      "acronym": "-",
+      "founded": 1954,
+      "city": "Puno",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior de Formación Artística Pública Pilcuyo-llave",
+      "acronym": "-",
+      "founded": 1954,
+      "city": "Puno",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior de Formación Artística Pública Condorcunca",
+      "acronym": "-",
+      "founded": 1957,
+      "city": "Ayacucho",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior de Arte Dramático Virgilio Rodríguez Nache",
+      "acronym": "-",
+      "founded": 1959,
+      "city": "Trujillo",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Instituto Superior de Música Público Daniel Alomía Robles",
+      "acronym": "IMDAR",
+      "founded": 1958,
+      "city": "Huánuco",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior de Arte Pública Ignacio Merino",
+      "acronym": "-",
+      "founded": 1958,
+      "city": "Piura",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior de Formación Artística Pública Macedonio de la Torre",
+      "acronym": "ESBAT",
+      "founded": 1962,
+      "city": "Trujillo",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior de Formación Artística Pública Sérvulo Gutiérrez Alarcón",
+      "acronym": "-",
+      "founded": 1965,
+      "city": "Ica",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior de Formación Artística Pública de Ancash",
+      "acronym": "-",
+      "founded": 1965,
+      "city": "Huaraz",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Conservatorio Regional de Música del Norte Público Carlos Valderrama",
+      "acronym": "-",
+      "founded": 1966,
+      "city": "Trujillo",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior de Formación Artística Pública de Juliaca",
+      "acronym": "-",
+      "founded": 1966,
+      "city": "Juliaca",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Nacional Superior de Ballet",
+      "acronym": "ENSB",
+      "founded": 1967,
+      "city": "Lima",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Nacional de Marina Mercante Almirante Miguel Grau",
+      "acronym": "ENAMM",
+      "founded": 1970,
+      "city": "Callao",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Conservatorio Regional de Música Luis Duncker Lavalle",
+      "acronym": "-",
+      "founded": 1986,
+      "city": "Arequipa",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior de Música Pública Francisco Pérez Janampa",
+      "acronym": "-",
+      "founded": 1986,
+      "city": "Ica",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior de Formación Artística Pública Francisco Laso",
+      "acronym": "-",
+      "founded": 1989,
+      "city": "Tacna",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela Superior de Formación Artística Conservatorio de Lima Josafat Roel Pineda",
+      "acronym": "-",
+      "founded": 1990,
+      "city": "Lima",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela de Educación Superior Tecnológica Zegel Ipae",
+      "acronym": "ZEGEL IPAE",
+      "founded": 1959,
+      "city": "Lima",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela de Educación Superior Tecnológica Toulouse Lautrec",
+      "acronym": "TLS",
+      "founded": 1983,
+      "city": "Lima",
+      "type": "Escuelas e instituciones de rango universitario"
+    },
+    {
+      "name": "Escuela de Educación Superior Tecnológica ISIL",
+      "acronym": "ISIL",
+      "founded": 1983,
+      "city": "Lima",
+      "type": "Escuelas e instituciones de rango universitario"
+    }
+  ],
+  "meta": {
+    "title": "Universidades del Perú - Free Download",
+    "description": "Universidades públicas y privadas e instituciones con rango universitario del Perú, con acrónimo, año de fundación y sede. Contains 179 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Universidades del Perú | ListBase",
+    "seo_description": "Download Universidades del Perú — 179 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 179 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Universidades_del_Perú"
+    ]
+  }
+}
