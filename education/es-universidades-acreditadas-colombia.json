@@ -1,0 +1,600 @@
+{
+  "id": "es-universidades-acreditadas-colombia",
+  "name": "Universidades acreditadas en alta calidad en Colombia",
+  "title": "Universidades acreditadas en alta calidad en Colombia",
+  "description": "Universidades colombianas con acreditación institucional de alta calidad: ciudades/sedes, año de fundación, vigencia de la acreditación, carácter (pública/privada) y sitio web.",
+  "category": "education",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Universidades_e_instituciones_de_educación_superior_en_Colombia",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Universidades_e_instituciones_de_educación_superior_en_Colombia",
+  "updated": "2026-11",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "cities",
+      "label": "Cities",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "accreditation",
+      "label": "Accreditation",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Universidad Nacional de Colombia",
+      "cities": "Bogotá D.C., Medellín, Manizales, Palmira, Leticia, Arauca, San Andrés Islas, Tumaco, La Paz",
+      "founded": 1867,
+      "accreditation": "10 Años",
+      "type": "Pública",
+      "website": "unal.edu.co"
+    },
+    {
+      "name": "Universidad del Valle",
+      "cities": "Cali, Buenaventura, Palmira, Tuluá, Santander de Quilichao, Yumbo, Cartago, Buga, Zarzal, Caicedonia",
+      "founded": 1945,
+      "accreditation": "10 Años",
+      "type": "Pública",
+      "website": "univalle.edu.co"
+    },
+    {
+      "name": "Universidad de Antioquia",
+      "cities": "Medellín, Santafe de Antioquia, Envigado, Yarumal, Puerto Berrío, Apartadó, Caucasia, Turbo, Amalfi, Andes, Segovia",
+      "founded": 1803,
+      "accreditation": "10 Años",
+      "type": "Pública",
+      "website": "udea.edu.co"
+    },
+    {
+      "name": "Universidad de los Andes",
+      "cities": "Bogotá D.C.",
+      "founded": 1948,
+      "accreditation": "10 Años",
+      "type": "Privada",
+      "website": "uniandes.edu.co"
+    },
+    {
+      "name": "Pontificia Universidad Javeriana",
+      "cities": "Bogotá D.C., Cali",
+      "founded": 1604,
+      "accreditation": "10 Años",
+      "type": "Privada y religiosa",
+      "website": "javeriana.edu.co"
+    },
+    {
+      "name": "Universidad Industrial de Santander",
+      "cities": "Bucaramanga, Barrancabermeja, Málaga, Barbosa, El Socorro",
+      "founded": 1948,
+      "accreditation": "10 Años",
+      "type": "Pública",
+      "website": "uis.edu.co"
+    },
+    {
+      "name": "Universidad Tecnológica de Pereira",
+      "cities": "Pereira",
+      "founded": 1958,
+      "accreditation": "10 Años",
+      "type": "Pública",
+      "website": "utp.edu.co"
+    },
+    {
+      "name": "Universidad de la Sabana",
+      "cities": "Chía (Cundinamarca)",
+      "founded": 1979,
+      "accreditation": "10 Años",
+      "type": "Privada y religiosa",
+      "website": "unisabana.edu.co"
+    },
+    {
+      "name": "Universidad EAFIT",
+      "cities": "Medellín, Pereira",
+      "founded": 1960,
+      "accreditation": "10 Años",
+      "type": "Privada",
+      "website": "eafit.edu.co"
+    },
+    {
+      "name": "Universidad Externado de Colombia",
+      "cities": "Bogotá D.C.",
+      "founded": 1886,
+      "accreditation": "8 Años",
+      "type": "Privada",
+      "website": "uexternado.edu.co"
+    },
+    {
+      "name": "Universidad del Norte",
+      "cities": "Barranquilla",
+      "founded": 1966,
+      "accreditation": "8 Años",
+      "type": "Privada",
+      "website": "uninorte.edu.co"
+    },
+    {
+      "name": "Universidad del Rosario",
+      "cities": "Bogotá D.C.",
+      "founded": 1653,
+      "accreditation": "8 Años",
+      "type": "Privada",
+      "website": "urosario.edu.co"
+    },
+    {
+      "name": "Universidad Militar Nueva Granada",
+      "cities": "Bogotá D.C., Cajicá",
+      "founded": 1982,
+      "accreditation": "8 Años",
+      "type": "Pública Acreditación Multicampus",
+      "website": "umng.edu.co"
+    },
+    {
+      "name": "Universidad del Cauca",
+      "cities": "Popayán, Santander de Quilichao, Miranda, Bolívar, Guapí, Piendamó",
+      "founded": 1827,
+      "accreditation": "8 Años",
+      "type": "Pública",
+      "website": "unicauca.edu.co"
+    },
+    {
+      "name": "Universidad Santo Tomás",
+      "cities": "Bogotá D.C., Medellín, Bucaramanga, Tunja, Villavicencio",
+      "founded": 1580,
+      "accreditation": "8 Años",
+      "type": "Privada y religiosa - Acreditación Multicampus",
+      "website": "usta.edu.co"
+    },
+    {
+      "name": "Universidad de Manizales",
+      "cities": "Manizales",
+      "founded": 1972,
+      "accreditation": "8 Años",
+      "type": "Privada",
+      "website": "umanizales.edu.co"
+    },
+    {
+      "name": "Universidad Pontificia Bolivariana",
+      "cities": "Medellín, Bucaramanga, Montería, Palmira",
+      "founded": 1936,
+      "accreditation": "8 Años",
+      "type": "Privada y religiosa",
+      "website": "upb.edu.co"
+    },
+    {
+      "name": "Escuela Colombiana de Ingeniería Julio Garavito",
+      "cities": "Bogotá D.C.",
+      "founded": 1972,
+      "accreditation": "8 Años",
+      "type": "Privada",
+      "website": "escuelaing.edu.co"
+    },
+    {
+      "name": "Universidad de Caldas",
+      "cities": "Manizales",
+      "founded": 1943,
+      "accreditation": "8 Años",
+      "type": "Pública",
+      "website": "ucaldas.edu.co"
+    },
+    {
+      "name": "Universidad de La Salle",
+      "cities": "Bogotá D.C.",
+      "founded": 1964,
+      "accreditation": "8 Años",
+      "type": "Privada y religiosa",
+      "website": "lasalle.edu.co"
+    },
+    {
+      "name": "Colegio de Estudios Superiores de Administración",
+      "cities": "Bogotá D.C.",
+      "founded": 1975,
+      "accreditation": "8 Años",
+      "type": "Privada",
+      "website": "cesa.edu.co/"
+    },
+    {
+      "name": "Universidad Distrital Francisco José de Caldas",
+      "cities": "Bogotá D.C.",
+      "founded": 1948,
+      "accreditation": "8 Años",
+      "type": "Pública",
+      "website": "udistrital.edu.co"
+    },
+    {
+      "name": "Universidad Autónoma de Manizales",
+      "cities": "Manizales",
+      "founded": 1979,
+      "accreditation": "8 Años",
+      "type": "Privada",
+      "website": "autonoma.edu.co"
+    },
+    {
+      "name": "Universidad El Bosque",
+      "cities": "Bogotá D.C",
+      "founded": 1977,
+      "accreditation": "8 Años",
+      "type": "Privada",
+      "website": "unbosque.edu.co/"
+    },
+    {
+      "name": "Universidad Simón Bolívar",
+      "cities": "Barranquilla",
+      "founded": 1972,
+      "accreditation": "8 Años",
+      "type": "Privada",
+      "website": "unisimon.edu.co"
+    },
+    {
+      "name": "Universidad Pedagógica Nacional",
+      "cities": "Bogotá D.C",
+      "founded": 1962,
+      "accreditation": "6 Años",
+      "type": "Pública",
+      "website": "upn.edu.co"
+    },
+    {
+      "name": "Universidad Sergio Arboleda",
+      "cities": "Bogotá D.C., Santa Marta, Barranquilla",
+      "founded": 1984,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "usergioarboleda.edu.co"
+    },
+    {
+      "name": "Universidad de Nariño",
+      "cities": "Pasto, Tumaco, Ipiales, Túquerres, Cumbal",
+      "founded": 1904,
+      "accreditation": "6 Años",
+      "type": "Pública",
+      "website": "udenar.edu.co"
+    },
+    {
+      "name": "Universidad Pedagógica y Tecnológica de Colombia",
+      "cities": "Tunja, Sogamoso, Duitama, Chiquinquirá, Bogotá",
+      "founded": 1953,
+      "accreditation": "6 Años",
+      "type": "Pública",
+      "website": "uptc.edu.co"
+    },
+    {
+      "name": "Universidad de Medellín",
+      "cities": "Medellín",
+      "founded": 1950,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "udem.edu.co"
+    },
+    {
+      "name": "Universidad CES",
+      "cities": "Medellín",
+      "founded": 1977,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "ces.edu.co"
+    },
+    {
+      "name": "Instituto Tecnológico Metropolitano",
+      "cities": "Medellín",
+      "founded": 1949,
+      "accreditation": "6 Años",
+      "type": "Pública",
+      "website": "itm.edu.co"
+    },
+    {
+      "name": "Universidad de Pamplona",
+      "cities": "Pamplona (Colombia), Villa del Rosario (Norte de Santander)",
+      "founded": 1960,
+      "accreditation": "6 Años",
+      "type": "Pública",
+      "website": "unipamplona.edu.co/"
+    },
+    {
+      "name": "Universidad EIA",
+      "cities": "Medellín",
+      "founded": 1978,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "eia.edu.co"
+    },
+    {
+      "name": "Universidad Piloto de Colombia",
+      "cities": "Bogotá D.C., Girardot",
+      "founded": 1962,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "unipiloto.edu.co/"
+    },
+    {
+      "name": "Universidad Colegio Mayor de Cundinamarca",
+      "cities": "Bogotá D.C",
+      "founded": 1945,
+      "accreditation": "6 Años",
+      "type": "Pública",
+      "website": "universidadmayor.edu.co"
+    },
+    {
+      "name": "Universidad de Sucre",
+      "cities": "Sincelejo",
+      "founded": 1977,
+      "accreditation": "6 Años",
+      "type": "Pública",
+      "website": "unisucre.edu.co/"
+    },
+    {
+      "name": "Universidad ICESI",
+      "cities": "Cali",
+      "founded": 1979,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "icesi.edu.co"
+    },
+    {
+      "name": "Universidad de Cartagena",
+      "cities": "Cartagena de Indias",
+      "founded": 1827,
+      "accreditation": "6 Años",
+      "type": "Pública",
+      "website": "unicartagena.edu.co"
+    },
+    {
+      "name": "Universidad de San Buenaventura",
+      "cities": "Bogotá D.C., Cartagena de Indias, Cali, Medellín",
+      "founded": 1708,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "usbbog.edu.co/"
+    },
+    {
+      "name": "Universidad de Bogotá Jorge Tadeo Lozano",
+      "cities": "Bogotá D.C.",
+      "founded": 1954,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "utadeo.edu.co"
+    },
+    {
+      "name": "Universidad de Ibagué",
+      "cities": "Ibagué",
+      "founded": 1980,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "unibague.edu.co/"
+    },
+    {
+      "name": "Universidad Católica de Colombia",
+      "cities": "Bogotá D.C.",
+      "founded": 1970,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "ucatolica.edu.co"
+    },
+    {
+      "name": "Universidad EAN",
+      "cities": "Bogotá D.C.",
+      "founded": 1967,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "ean.edu.co"
+    },
+    {
+      "name": "Universidad de Córdoba (Colombia)",
+      "cities": "Montería, Ciénaga de Oro, Sahagún (Colombia), Planeta Rica, Santa Cruz de Lorica, Montelíbano",
+      "founded": 1962,
+      "accreditation": "6 Años",
+      "type": "Pública",
+      "website": "unicordoba.edu.co"
+    },
+    {
+      "name": "Universidad Autónoma de Bucaramanga",
+      "cities": "Bucaramanga",
+      "founded": 1952,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "unab.edu.co"
+    },
+    {
+      "name": "Universidad Tecnológica de Bolívar",
+      "cities": "Cartagena de Indias",
+      "founded": 1970,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "unitecnologica.edu.co"
+    },
+    {
+      "name": "Universidad Central",
+      "cities": "Bogotá D.C.",
+      "founded": 1966,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "ucentral.edu.co"
+    },
+    {
+      "name": "Universidad del Atlántico",
+      "cities": "Puerto Colombia, Barranquilla, Suan",
+      "founded": 1941,
+      "accreditation": "6 Años",
+      "type": "Pública",
+      "website": "uniatlantico.edu.co"
+    },
+    {
+      "name": "Universidad del Tolima",
+      "cities": "Ibagué",
+      "founded": 1945,
+      "accreditation": "6 Años",
+      "type": "Pública",
+      "website": "ut.edu.co"
+    },
+    {
+      "name": "Universidad Católica de Manizales",
+      "cities": "Manizales",
+      "founded": 1954,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "ucm.edu.co"
+    },
+    {
+      "name": "Universidad de la Costa",
+      "cities": "Barranquilla",
+      "founded": 1970,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "cuc.edu.co"
+    },
+    {
+      "name": "Fundación Universitaria del Área Andina",
+      "cities": "Bogotá, Pereira y Valledupar",
+      "founded": 1983,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "areandina.edu.co"
+    },
+    {
+      "name": "Institución Universitaria de Barranquilla",
+      "cities": "Barranquilla, Soledad (Atlántico)",
+      "founded": 1997,
+      "accreditation": "6 Años",
+      "type": "Pública",
+      "website": "unibarranquilla.edu.co"
+    },
+    {
+      "name": "Corporación Universitaria Iberoamericana",
+      "cities": "Bogotá D.C.",
+      "founded": 1979,
+      "accreditation": "6 Años",
+      "type": "Privada",
+      "website": "ibero.edu.co"
+    },
+    {
+      "name": "Universidad Surcolombiana",
+      "cities": "Neiva, Pitalito, Garzón, La Plata",
+      "founded": 1970,
+      "accreditation": "4 Años",
+      "type": "Pública",
+      "website": "usco.edu.co"
+    },
+    {
+      "name": "Universidad Manuela Beltrán",
+      "cities": "Bogotá D.C., Bucaramanga, Cajicá",
+      "founded": 1975,
+      "accreditation": "4 Años",
+      "type": "Privada",
+      "website": "umb.edu.co"
+    },
+    {
+      "name": "Universidad Libre",
+      "cities": "Bogotá D. C., Barranquilla, Cali, Cartagena, Cúcuta, El Socorro, Pereira,",
+      "founded": 1913,
+      "accreditation": "4 Años",
+      "type": "Privada",
+      "website": "unilibre.edu.co"
+    },
+    {
+      "name": "Dirección Nacional de Escuelas",
+      "cities": "Bogotá D.C.",
+      "founded": 1992,
+      "accreditation": "4 Años",
+      "type": "Pública (Policía)",
+      "website": "policia.gov.co"
+    },
+    {
+      "name": "Escuela de Suboficiales de la Fuerza Aérea Colombia Capitán Andrés M. Díaz",
+      "cities": "Madrid",
+      "founded": 1938,
+      "accreditation": "4 Años",
+      "type": "Pública (Fuerza Aérea)",
+      "website": "esufa.edu.co"
+    },
+    {
+      "name": "Escuela Naval de Suboficiales A.R.C. Barranquilla",
+      "cities": "Barranquilla",
+      "founded": 1934,
+      "accreditation": "4 Años",
+      "type": "Pública (Armada Naval)",
+      "website": "haztemarino.mil.co"
+    },
+    {
+      "name": "Universidad Autónoma de Occidente",
+      "cities": "Cali",
+      "founded": 1970,
+      "accreditation": "4 Años",
+      "type": "Privada",
+      "website": "uao.edu.co"
+    },
+    {
+      "name": "Fundación Tecnológica Antonio de Arévalo",
+      "cities": "Cartagena de Indias",
+      "founded": 1984,
+      "accreditation": "4 Años",
+      "type": "Privada",
+      "website": "tecnar.edu.co"
+    },
+    {
+      "name": "Universidad del Magdalena",
+      "cities": "Santa Marta",
+      "founded": 1962,
+      "accreditation": "4 Años",
+      "type": "Pública",
+      "website": "unimagdalena.edu.co"
+    },
+    {
+      "name": "Universidad Nacional Abierta y a Distancia - UNAD",
+      "cities": "Bogotá y otras 65 sedes en Colombia",
+      "founded": 1981,
+      "accreditation": "4 Años",
+      "type": "Pública",
+      "website": "unad.edu.co"
+    },
+    {
+      "name": "Fundación Universitaria Los Libertadores",
+      "cities": "Bogotá y Cartagena",
+      "founded": 1982,
+      "accreditation": "4 Años",
+      "type": "Privada",
+      "website": "ulibertadores.edu.co"
+    },
+    {
+      "name": "Universidad Mariana",
+      "cities": "Pasto (Colombia)",
+      "founded": 1967,
+      "accreditation": "4 Años",
+      "type": "Privada",
+      "website": "umariana.edu.co"
+    },
+    {
+      "name": "Universidad de Boyacá",
+      "cities": "Tunja, Sogamoso, Yopal",
+      "founded": 1979,
+      "accreditation": "4 Años",
+      "type": "Privada",
+      "website": "uniboyaca.edu.co"
+    }
+  ],
+  "meta": {
+    "title": "Universidades acreditadas en alta calidad en Colombia - Free Download",
+    "description": "Universidades colombianas con acreditación institucional de alta calidad: ciudades/sedes, año de fundación, vigencia de la acreditación, carácter (pública/privada) y sitio web. Contains 68 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Universidades acreditadas en alta calidad en Colombia | ListBase",
+    "seo_description": "Download Universidades acreditadas en alta calidad en Colombia — 68 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 68 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Universidades_e_instituciones_de_educación_superior_en_Colombia"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-15T02:15:32.594Z",
-  "total_datasets": 571,
-  "total_records": 434695,
+  "generated": "2026-11-15T02:15:42.536Z",
+  "total_datasets": 572,
+  "total_records": 434763,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -757,6 +757,33 @@
         "xlsx": {
           "name": "es-universidades_ES.xlsx",
           "size": 12298
+        }
+      }
+    },
+    {
+      "id": "es-universidades-acreditadas-colombia",
+      "name": "Universidades acreditadas en alta calidad en Colombia",
+      "category": "education",
+      "record_count": 68,
+      "columns": [
+        "name",
+        "cities",
+        "founded",
+        "accreditation",
+        "type",
+        "website"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Universidades_e_instituciones_de_educación_superior_en_Colombia",
+      "updated": "2026-11",
+      "size": 17469,
+      "files": {
+        "csv": {
+          "name": "es-universidades-acreditadas-colombia_ES.csv",
+          "size": 7468
+        },
+        "xlsx": {
+          "name": "es-universidades-acreditadas-colombia_ES.xlsx",
+          "size": 10622
         }
       }
     },
