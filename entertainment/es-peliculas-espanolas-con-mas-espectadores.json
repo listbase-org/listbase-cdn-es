@@ -1,0 +1,380 @@
+{
+  "id": "es-peliculas-espanolas-con-mas-espectadores",
+  "name": "Películas españolas con más espectadores",
+  "title": "Películas españolas con más espectadores",
+  "description": "Películas españolas con mayor número de espectadores en los cines de España, con director y año.",
+  "category": "entertainment",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Películas_con_las_mayores_recaudaciones_en_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Películas_con_las_mayores_recaudaciones_en_España",
+  "updated": "2026-11",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    },
+    {
+      "key": "admissions",
+      "label": "Admissions",
+      "type": "number"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "film": "Ocho apellidos vascos",
+      "director": "Emilio Martínez-Lázaro",
+      "admissions": 9397647,
+      "year": 2014
+    },
+    {
+      "rank": 2,
+      "film": "Los otros",
+      "director": "Alejandro Amenábar",
+      "admissions": 6410785,
+      "year": 2001
+    },
+    {
+      "rank": 3,
+      "film": "Lo imposible",
+      "director": "Juan Antonio Bayona",
+      "admissions": 6129976,
+      "year": 2012
+    },
+    {
+      "rank": 4,
+      "film": "Ocho apellidos catalanes",
+      "director": "Emilio Martínez-Lázaro",
+      "admissions": 5693198,
+      "year": 2015
+    },
+    {
+      "rank": 5,
+      "film": "Torrente 2: Misión en Marbella",
+      "director": "Santiago Segura",
+      "admissions": 5321969,
+      "year": 2001
+    },
+    {
+      "rank": 6,
+      "film": "La gran aventura de Mortadelo y Filemón",
+      "director": "Javier Fesser",
+      "admissions": 4985983,
+      "year": 2003
+    },
+    {
+      "rank": 7,
+      "film": "Un monstruo viene a verme",
+      "director": "Juan Antonio Bayona",
+      "admissions": 4613696,
+      "year": 2016
+    },
+    {
+      "rank": 8,
+      "film": "El orfanato",
+      "director": "Juan Antonio Bayona",
+      "admissions": 4420987,
+      "year": 2007
+    },
+    {
+      "rank": 9,
+      "film": "Mar adentro",
+      "director": "Alejandro Amenábar",
+      "admissions": 4099475,
+      "year": 2004
+    },
+    {
+      "rank": 10,
+      "film": "Pero... ¿en qué país vivimos?",
+      "director": "José Luis Sáenz de Heredia",
+      "admissions": 4054235,
+      "year": 1967
+    },
+    {
+      "rank": 11,
+      "film": "Furtivos",
+      "director": "José Luis Borau",
+      "admissions": 3581914,
+      "year": 1975
+    },
+    {
+      "rank": 12,
+      "film": "Torrente 3: El protector",
+      "director": "Santiago Segura",
+      "admissions": 3575759,
+      "year": 2005
+    },
+    {
+      "rank": 13,
+      "film": "La guerra de papá",
+      "director": "Antonio Mercero",
+      "admissions": 3524450,
+      "year": 1977
+    },
+    {
+      "rank": 14,
+      "film": "Ágora",
+      "director": "Alejandro Amenábar",
+      "admissions": 3492709,
+      "year": 2009
+    },
+    {
+      "rank": 15,
+      "film": "Mujeres al borde de un ataque de nervios",
+      "director": "Pedro Almodóvar",
+      "admissions": 3348457,
+      "year": 1988
+    },
+    {
+      "rank": 16,
+      "film": "Campeones",
+      "director": "Javier Fesser",
+      "admissions": 3324010,
+      "year": 2018
+    },
+    {
+      "rank": 17,
+      "film": "Perfectos desconocidos",
+      "director": "Álex de la Iglesia",
+      "admissions": 3284736,
+      "year": 2017
+    },
+    {
+      "rank": 18,
+      "film": "Tadeo Jones 2: El secreto del rey Midas",
+      "director": "Enrique Gato y David Alonso",
+      "admissions": 3190053,
+      "year": 2017
+    },
+    {
+      "rank": 19,
+      "film": "Alatriste",
+      "director": "Agustín Díaz Yanes",
+      "admissions": 3182656,
+      "year": 2006
+    },
+    {
+      "rank": 20,
+      "film": "El padre Manolo",
+      "director": "Ramón Torrado",
+      "admissions": 3031369,
+      "year": 1967
+    },
+    {
+      "rank": 21,
+      "film": "Torrente, el brazo tonto de la ley",
+      "director": "Santiago Segura",
+      "admissions": 3010736,
+      "year": 1998
+    },
+    {
+      "rank": 22,
+      "film": "La residencia",
+      "director": "Narciso Ibáñez Serrador",
+      "admissions": 2924857,
+      "year": 1969
+    },
+    {
+      "rank": 23,
+      "film": "Las adolescentes",
+      "director": "Pedro Masó",
+      "admissions": 2917146,
+      "year": 1975
+    },
+    {
+      "rank": 24,
+      "film": "Cuando tú no estás",
+      "director": "Mario Camus",
+      "admissions": 2863471,
+      "year": 1966
+    },
+    {
+      "rank": 25,
+      "film": "Relaciones casi públicas",
+      "director": "José Luis Sáenz de Heredia",
+      "admissions": 2860334,
+      "year": 1968
+    },
+    {
+      "rank": 26,
+      "film": "La Celestina",
+      "director": "César Fernández Ardavín",
+      "admissions": 2845300,
+      "year": 1969
+    },
+    {
+      "rank": 27,
+      "film": "El otro lado de la cama",
+      "director": "Emilio Martínez-Lázaro",
+      "admissions": 2826452,
+      "year": 2002
+    },
+    {
+      "rank": 28,
+      "film": "Las que tienen que servir",
+      "director": "José María Forqué",
+      "admissions": 2801393,
+      "year": 1967
+    },
+    {
+      "rank": 29,
+      "film": "Las aventuras de Tadeo Jones",
+      "director": "Enrique Gato",
+      "admissions": 2763325,
+      "year": 2012
+    },
+    {
+      "rank": 30,
+      "film": "El Niño",
+      "director": "Daniel Monzón",
+      "admissions": 2757638,
+      "year": 2014
+    },
+    {
+      "rank": 31,
+      "film": "Estambul 65",
+      "director": "Antonio Isasi-Isasmendi",
+      "admissions": 2711723,
+      "year": 1965
+    },
+    {
+      "rank": 32,
+      "film": "Padre no hay más que uno 3",
+      "director": "Santiago Segura",
+      "admissions": 2707038,
+      "year": 2022
+    },
+    {
+      "rank": 33,
+      "film": "Palmeras en la nieve",
+      "director": "Fernando González Molina",
+      "admissions": 2706623,
+      "year": 2015
+    },
+    {
+      "rank": 34,
+      "film": "Las Vegas, 500 millones",
+      "director": "Antonio Isasi-Isasmendi",
+      "admissions": 2706134,
+      "year": 1968
+    },
+    {
+      "rank": 35,
+      "film": "Encrucijada para una monja",
+      "director": "Julio Buchs",
+      "admissions": 2673726,
+      "year": 1967
+    },
+    {
+      "rank": 36,
+      "film": "Experiencia prematrimonial",
+      "director": "Pedro Masó",
+      "admissions": 2655249,
+      "year": 1972
+    },
+    {
+      "rank": 37,
+      "film": "La trastienda",
+      "director": "Jorge Grau",
+      "admissions": 2642790,
+      "year": 1975
+    },
+    {
+      "rank": 38,
+      "film": "No somos de piedra",
+      "director": "Manuel Summers",
+      "admissions": 2637006,
+      "year": 1968
+    },
+    {
+      "rank": 39,
+      "film": "Torrente 4: Lethal Crisis",
+      "director": "Santiago Segura",
+      "admissions": 2632922,
+      "year": 2011
+    },
+    {
+      "rank": 40,
+      "film": "El crimen de Cuenca",
+      "director": "Pilar Miró",
+      "admissions": 2621614,
+      "year": 1980
+    },
+    {
+      "rank": 41,
+      "film": "Los chicos con las chicas",
+      "director": "Javier Aguirre",
+      "admissions": 2615337,
+      "year": 1967
+    },
+    {
+      "rank": 42,
+      "film": "Buenos días, condesita",
+      "director": "Luis César Amadori",
+      "admissions": 2603729,
+      "year": 1966
+    },
+    {
+      "rank": 43,
+      "film": "Todo sobre mi madre",
+      "director": "Pedro Almodóvar",
+      "admissions": 2590699,
+      "year": 1999
+    },
+    {
+      "rank": 44,
+      "film": "Días de fútbol",
+      "director": "David Serrano de la Peña",
+      "admissions": 2562233,
+      "year": 2003
+    },
+    {
+      "rank": 45,
+      "film": "Acompáñame",
+      "director": "Luis César Amadori",
+      "admissions": 2521976,
+      "year": 1966
+    },
+    {
+      "rank": 46,
+      "film": "El perro",
+      "director": "Antonio Isasi-Isasmendi",
+      "admissions": 2507074,
+      "year": 1977
+    },
+    {
+      "rank": 47,
+      "film": "Las cuatro bodas de Marisol",
+      "director": "Luis Lucia Mingarro",
+      "admissions": 2506841,
+      "year": 1967
+    }
+  ],
+  "meta": {
+    "title": "Películas españolas con más espectadores - Free Download",
+    "description": "Películas españolas con mayor número de espectadores en los cines de España, con director y año. Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Películas españolas con más espectadores | ListBase",
+    "seo_description": "Download Películas españolas con más espectadores — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Películas_con_las_mayores_recaudaciones_en_España"
+    ]
+  }
+}

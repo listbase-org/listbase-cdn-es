@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-16T02:19:27.963Z",
-  "total_datasets": 575,
-  "total_records": 435023,
+  "generated": "2026-11-16T02:19:35.903Z",
+  "total_datasets": 576,
+  "total_records": 435070,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -915,6 +915,32 @@
         "xlsx": {
           "name": "es-fotogramas-de-plata-mejor-pelicula_ES.xlsx",
           "size": 8579
+        }
+      }
+    },
+    {
+      "id": "es-peliculas-espanolas-con-mas-espectadores",
+      "name": "Películas españolas con más espectadores",
+      "category": "entertainment",
+      "record_count": 47,
+      "columns": [
+        "rank",
+        "film",
+        "director",
+        "admissions",
+        "year"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Películas_con_las_mayores_recaudaciones_en_España",
+      "updated": "2026-11",
+      "size": 9155,
+      "files": {
+        "csv": {
+          "name": "es-peliculas-espanolas-con-mas-espectadores_ES.csv",
+          "size": 3154
+        },
+        "xlsx": {
+          "name": "es-peliculas-espanolas-con-mas-espectadores_ES.xlsx",
+          "size": 9170
         }
       }
     },
