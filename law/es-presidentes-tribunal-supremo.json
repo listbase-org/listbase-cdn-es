@@ -1,0 +1,566 @@
+{
+  "id": "es-presidentes-tribunal-supremo",
+  "name": "Presidentes del Tribunal Supremo de España",
+  "title": "Presidentes del Tribunal Supremo de España",
+  "description": "Presidentes del Tribunal Supremo de España desde 1812, con mandato, duración, cargo anterior y jefe del Estado.",
+  "category": "law",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Presidentes_del_Tribunal_Supremo_(España)",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Presidentes_del_Tribunal_Supremo_(España)",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "number"
+    },
+    {
+      "key": "died",
+      "label": "Died",
+      "type": "number"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    },
+    {
+      "key": "duration",
+      "label": "Duration",
+      "type": "string"
+    },
+    {
+      "key": "previous_post",
+      "label": "Previous Post",
+      "type": "string"
+    },
+    {
+      "key": "head_of_state",
+      "label": "Head Of State",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "name": "Ramón Posada y Soto",
+      "born": 1746,
+      "died": 1815,
+      "term": "12 de junio de 1812 – 4 de mayo de 1814",
+      "duration": "1 año y 326 días",
+      "previous_post": "Consejero de Indias (1810-1812)",
+      "head_of_state": "Fernando VII (1808-1833)"
+    },
+    {
+      "no": "2",
+      "name": "Antonio Cano Manuel y Ramírez de Arellano",
+      "born": 1768,
+      "died": 1836,
+      "term": "27 de mayo de 1820 – 27 de mayo de 1823",
+      "duration": "3 años",
+      "previous_post": "Consejero de Estado (1820)",
+      "head_of_state": "Fernando VII (1808-1833)"
+    },
+    {
+      "no": "3",
+      "name": "José Hevia y Noriega",
+      "born": 1776,
+      "died": 1834,
+      "term": "1 de abril de 1834 – 23 de julio de 1834 (fallecido en el cargo)",
+      "duration": "113 días",
+      "previous_post": "Consejero de Estado (1833-1834)",
+      "head_of_state": "Isabel II (1833-1868)"
+    },
+    {
+      "no": "4",
+      "name": "Vicente Cano Manuel y Ramírez de Arellano",
+      "born": 1774,
+      "died": 1838,
+      "term": "29 de julio de 1834 – 9 de enero de 1838 (fallecido en el cargo)",
+      "duration": "3 años y 164 días",
+      "previous_post": "Ministro de Gracia y Justicia (1821-1822)",
+      "head_of_state": "Isabel II (1833-1868)"
+    },
+    {
+      "no": "5",
+      "name": "Francisco Fernández del Pino Burgos-León",
+      "born": 1768,
+      "died": 1843,
+      "term": "10 de febrero de 1838 – 2 de septiembre de 1840",
+      "duration": "2 años y 205 días",
+      "previous_post": "Presidente del Tribunal Supremo de Hacienda (1834-1835)",
+      "head_of_state": "Isabel II (1833-1868)"
+    },
+    {
+      "no": "6",
+      "name": "José María Calatrava y Peinado",
+      "born": 1781,
+      "died": 1846,
+      "term": "31 de octubre de 1840 – 29 de julio de 1843",
+      "duration": "2 años y 271 días",
+      "previous_post": "Presidente del Congreso de los Diputados (1839)",
+      "head_of_state": "Isabel II (1833-1868)"
+    },
+    {
+      "no": "7",
+      "name": "Nicolás María Garelli y Battifora",
+      "born": 1777,
+      "died": 1850,
+      "term": "15 de diciembre de 1843 – 12 de febrero de 1850 (fallecido en el cargo)",
+      "duration": "6 años y 59 días",
+      "previous_post": "Senador por Valencia (1843)",
+      "head_of_state": "Isabel II (1833-1868)"
+    },
+    {
+      "no": "8",
+      "name": "José María Manescau y Saborío",
+      "born": 1772,
+      "died": 1850,
+      "term": "22 de febrero de 1850 – 22 de diciembre de 1850 (fallecido en el cargo)",
+      "duration": "303 días",
+      "previous_post": "Senador vitalicio (1849-1850)",
+      "head_of_state": "Isabel II (1833-1868)"
+    },
+    {
+      "no": "9",
+      "name": "Lorenzo Arrazola y García",
+      "born": 1795,
+      "died": 1873,
+      "term": "23 de enero de 1851 – 9 de abril de 1853",
+      "duration": "2 años y 76 días",
+      "previous_post": "Ministro de Gracia y Justicia (1849-1851)",
+      "head_of_state": "Isabel II (1833-1868)"
+    },
+    {
+      "no": "10",
+      "name": "Francisco Olabarrieta y Urquijo",
+      "born": 1784,
+      "died": 1858,
+      "term": "3 de junio de 1853 – 8 de diciembre de 1854",
+      "duration": "1 año y 188 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1843-1853)",
+      "head_of_state": "Isabel II (1833-1868)"
+    },
+    {
+      "no": "11",
+      "name": "José Alonso Ruiz de Conejares",
+      "born": 1781,
+      "died": 1855,
+      "term": "8 de diciembre de 1854 – 13 de abril de 1855 (fallecido en el cargo)",
+      "duration": "126 días",
+      "previous_post": "Ministro de Gracia y Justicia (1854)",
+      "head_of_state": "Isabel II (1833-1868)"
+    },
+    {
+      "no": "12",
+      "name": "Claudio Antón de Luzuriaga",
+      "born": 1792,
+      "died": 1874,
+      "term": "19 de octubre de 1855 – 17 de octubre de 1856",
+      "duration": "364 días",
+      "previous_post": "Ministro de Estado (1854-1855)",
+      "head_of_state": "Isabel II (1833-1868)"
+    },
+    {
+      "no": "13",
+      "name": "Lorenzo Arrazola y García",
+      "born": 1795,
+      "died": 1873,
+      "term": "17 de octubre de 1856 – 16 de septiembre de 1864",
+      "duration": "7 años y 335 días",
+      "previous_post": "Presidente del Tribunal Supremo (1851-1853)",
+      "head_of_state": "Isabel II (1833-1868)"
+    },
+    {
+      "no": "14",
+      "name": "Ramón María López Vázquez",
+      "born": 1807,
+      "died": 1868,
+      "term": "30 de septiembre de 1864 – 13 de octubre de 1868 (por jubilación)",
+      "duration": "4 años y 13 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1856-1864)",
+      "head_of_state": "Isabel II (1833-1868)"
+    },
+    {
+      "no": "15",
+      "name": "Joaquín Aguirre de la Peña",
+      "born": 1807,
+      "died": 1869,
+      "term": "13 de octubre de 1868 – 19 de julio de 1869 (fallecido en el cargo)",
+      "duration": "279 días",
+      "previous_post": "Presidente de la Junta Provisional Revolucionaria (1868)",
+      "head_of_state": "Francisco Serrano (regente) (1869-1871)"
+    },
+    {
+      "no": "16",
+      "name": "Pedro Gómez de la Serna y Tully",
+      "born": 1806,
+      "died": 1871,
+      "term": "20 de julio de 1869 – 12 de diciembre de 1871 (fallecido en el cargo)",
+      "duration": "2 años y 145 días",
+      "previous_post": "Fiscal del Tribunal Supremo (1854-1856)",
+      "head_of_state": "Francisco Serrano (regente) (1869-1871) / Amadeo I (1871-1873)"
+    },
+    {
+      "no": "17",
+      "name": "Cirilo Álvarez Martínez de Velasco",
+      "born": 1807,
+      "died": 1878,
+      "term": "8 de enero de 1872 – 6 de noviembre de 1878 (fallecido en el cargo)",
+      "duration": "6 años y 302 días",
+      "previous_post": "Senador por Madrid (1872)",
+      "head_of_state": "Amadeo I (1871-1873) / Mire la lista de presidentes de la Primera República"
+    },
+    {
+      "no": "18",
+      "name": "Fernando Calderón de la Barca y Collantes",
+      "born": 1811,
+      "died": 1890,
+      "term": "6 de enero de 1879 – 23 de julio de 1882 (por jubilación)",
+      "duration": "3 años y 198 días",
+      "previous_post": "Ministro de Gracia y Justicia (1877-1879)",
+      "head_of_state": "Mire la lista de presidentes de la Primera República / Alfonso XII (1874-1885)"
+    },
+    {
+      "no": "19",
+      "name": "Eduardo Alonso Colmenares",
+      "born": 1820,
+      "died": 1888,
+      "term": "23 de julio de 1882 – 31 de marzo de 1888 (fallecido en el cargo)",
+      "duration": "5 años y 252 días",
+      "previous_post": "Senador vitalicio (1877-1882)",
+      "head_of_state": "Alfonso XII (1874-1885) / Alfonso XIII (1886-1931)"
+    },
+    {
+      "no": "20",
+      "name": "Eugenio Montero Ríos",
+      "born": 1832,
+      "died": 1914,
+      "term": "7 de mayo de 1888 – 10 de septiembre de 1888",
+      "duration": "126 días",
+      "previous_post": "Ministro de Fomento (1885-1886)",
+      "head_of_state": "Alfonso XIII (1886-1931)"
+    },
+    {
+      "no": "21",
+      "name": "Hilario Igón y del Royst",
+      "born": "",
+      "died": 1895,
+      "term": "8 de julio de 1889 – 16 de julio de 1892 (por jubilación)",
+      "duration": "3 años y 8 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1875-1889)",
+      "head_of_state": "Alfonso XIII (1886-1931)"
+    },
+    {
+      "no": "22",
+      "name": "Emilio Bravo y Romero",
+      "born": 1827,
+      "died": 1893,
+      "term": "29 de julio de 1892 – 24 de enero de 1893 (fallecido en el cargo)",
+      "duration": "179 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1874-1892)",
+      "head_of_state": "Alfonso XIII (1886-1931)"
+    },
+    {
+      "no": "23",
+      "name": "Juan Francisco Bustamante Martínez",
+      "born": 1824,
+      "died": 1898,
+      "term": "30 de marzo de 1894 – 10 de septiembre de 1895 (por jubilación)",
+      "duration": "1 año y 164 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1875-1889)",
+      "head_of_state": "Alfonso XIII (1886-1931)"
+    },
+    {
+      "no": "24",
+      "name": "Santos Isasa y Valseca",
+      "born": 1822,
+      "died": 1907,
+      "term": "10 de septiembre de 1895 – 5 de junio de 1901 (renuncia)",
+      "duration": "5 años y 268 días",
+      "previous_post": "Gobernador del Banco de España (1895)",
+      "head_of_state": "Alfonso XIII (1886-1931)"
+    },
+    {
+      "no": "25",
+      "name": "Eduardo Martínez del Campo y Acosta",
+      "born": 1840,
+      "died": 1911,
+      "term": "5 de junio de 1901 – 21 de octubre de 1909 (renuncia)",
+      "duration": "8 años y 138 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1891-1901)",
+      "head_of_state": "Alfonso XIII (1886-1931)"
+    },
+    {
+      "no": "26",
+      "name": "José Aldecoa y Villasante",
+      "born": 1838,
+      "died": 1917,
+      "term": "17 de enero de 1910 – 19 de junio de 1917 (fallecido en el cargo)",
+      "duration": "7 años y 153 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1883-1910)",
+      "head_of_state": "Alfonso XIII (1886-1931)"
+    },
+    {
+      "no": "27",
+      "name": "José Ciudad Aurioles",
+      "born": 1849,
+      "died": 1924,
+      "term": "15 de noviembre de 1917 – 5 de marzo de 1923 (por jubilación)",
+      "duration": "5 años y 110 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1903-1917)",
+      "head_of_state": "Alfonso XIII (1886-1931)"
+    },
+    {
+      "no": "28",
+      "name": "Buenaventura Muñoz Rodríguez",
+      "born": 1853,
+      "died": 1925,
+      "term": "5 de marzo de 1923 – 7 de febrero de 1924 (por jubilación)",
+      "duration": "339 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1910-1923)",
+      "head_of_state": "Alfonso XIII (1886-1931)"
+    },
+    {
+      "no": "29",
+      "name": "Andrés Tornos y Alonso",
+      "born": 1854,
+      "died": 1926,
+      "term": "7 de febrero de 1924 – 30 de noviembre de 1926 (fallecido en el cargo)",
+      "duration": "2 años y 296 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1912-1924)",
+      "head_of_state": "Alfonso XIII (1886-1931)"
+    },
+    {
+      "no": "30",
+      "name": "Rafael Bermejo Ceballos-Escalera",
+      "born": 1857,
+      "died": 1929,
+      "term": "7 de diciembre de 1926 – 28 de enero de 1929 (fallecido en el cargo)",
+      "duration": "2 años y 52 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1910-1926)",
+      "head_of_state": "Alfonso XIII (1886-1931)"
+    },
+    {
+      "no": "31",
+      "name": "Francisco García Goyena y Alzugaray",
+      "born": 1859,
+      "died": 1935,
+      "term": "4 de febrero de 1929 – 25 de abril de 1930 (por jubilación)",
+      "duration": "1 año y 80 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1904-1929)",
+      "head_of_state": "Alfonso XIII (1886-1931)"
+    },
+    {
+      "no": "32",
+      "name": "Antonio Marín de la Bárcena",
+      "born": 1858,
+      "died": 1930,
+      "term": "25 de abril de 1930 – 6 de octubre de 1930 (fallecido en el cargo)",
+      "duration": "164 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1909-1930)",
+      "head_of_state": "Alfonso XIII (1886-1931)"
+    },
+    {
+      "no": "33",
+      "name": "José María Ortega Morejón",
+      "born": 1860,
+      "died": 1948,
+      "term": "23 de octubre de 1930 – 20 de abril de 1931 (por jubilación)",
+      "duration": "179 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1918-1930)",
+      "head_of_state": "Alfonso XIII (1886-1931)"
+    },
+    {
+      "no": "34",
+      "name": "Diego Medina y García",
+      "born": 1866,
+      "died": 1942,
+      "term": "6 de mayo de 1931 – 21 de agosto de 1936 (por jubilación)",
+      "duration": "5 años y 107 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1930-1931)",
+      "head_of_state": "Mire la lista de presidentes de la Segunda República"
+    },
+    {
+      "no": "35",
+      "name": "Mariano Gómez González",
+      "born": 1883,
+      "died": 1951,
+      "term": "21 de agosto de 1936 – 1 de abril de 1939 (exiliado)",
+      "duration": "2 años y 223 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1932-1936)",
+      "head_of_state": "Mire la lista de presidentes de la Segunda República"
+    },
+    {
+      "no": "36",
+      "name": "Felipe Clemente de Diego y Gutiérrez",
+      "born": 1866,
+      "died": 1945,
+      "term": "27 de agosto de 1938 – 15 de agosto de 1945 (fallecido en el cargo)",
+      "duration": "6 años y 353 días",
+      "previous_post": "Miembro de la Comisión General de Codificación (1938)",
+      "head_of_state": "Francisco Franco (1939-1975)"
+    },
+    {
+      "no": "37",
+      "name": "José Castán Tobeñas",
+      "born": 1889,
+      "died": 1969,
+      "term": "12 de septiembre de 1945 – 2 de diciembre de 1967",
+      "duration": "22 años y 81 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1934-1945)",
+      "head_of_state": "Francisco Franco (1939-1975)"
+    },
+    {
+      "no": "38",
+      "name": "Francisco Ruiz-Jarabo Baquero",
+      "born": 1901,
+      "died": 1990,
+      "term": "12 de enero de 1968 – 12 de junio de 1973",
+      "duration": "5 años y 151 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1944-1945)",
+      "head_of_state": "Francisco Franco (1939-1975)"
+    },
+    {
+      "no": "39",
+      "name": "Valentín Silva Melero",
+      "born": 1905,
+      "died": 1982,
+      "term": "13 de julio de 1973 – 4 de agosto de 1977",
+      "duration": "4 años y 22 días",
+      "previous_post": "Procurador en Cortes (1949-1973)",
+      "head_of_state": "Francisco Franco (1939-1975) / Juan Carlos I (1975-2014)"
+    },
+    {
+      "no": "40",
+      "name": "Ángel Escudero del Corral",
+      "born": 1916,
+      "died": 2001,
+      "term": "4 de agosto de 1977 – 24 de octubre de 1980",
+      "duration": "3 años y 81 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1967-1977)",
+      "head_of_state": "Juan Carlos I (1975-2014)"
+    },
+    {
+      "no": "41",
+      "name": "Federico Carlos Sainz de Robles y Rodríguez",
+      "born": 1927,
+      "died": 2005,
+      "term": "24 de octubre de 1980 – 29 de octubre de 1985",
+      "duration": "5 años y 5 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1979-1980)",
+      "head_of_state": "Juan Carlos I (1975-2014)"
+    },
+    {
+      "no": "42",
+      "name": "Antonio Hernández Gil",
+      "born": 1915,
+      "died": 1994,
+      "term": "25 de octubre de 1985 – 8 de noviembre de 1990",
+      "duration": "5 años y 14 días",
+      "previous_post": "Presidente del Consejo de Estado (1982-1985)",
+      "head_of_state": "Juan Carlos I (1975-2014)"
+    },
+    {
+      "no": "43",
+      "name": "Pascual Sala Sánchez",
+      "born": 1935,
+      "died": "",
+      "term": "8 de noviembre de 1990 – 25 de julio de 1996",
+      "duration": "5 años y 260 días",
+      "previous_post": "Presidente del Tribunal de Cuentas (1988-1990)",
+      "head_of_state": "Juan Carlos I (1975-2014)"
+    },
+    {
+      "no": "44",
+      "name": "Javier Delgado Barrio",
+      "born": 1932,
+      "died": 2026,
+      "term": "25 de julio de 1996 – 8 de noviembre de 2001",
+      "duration": "5 años y 106 días",
+      "previous_post": "Magistrado del Tribunal Constitucional (1995-1996)",
+      "head_of_state": "Juan Carlos I (1975-2014)"
+    },
+    {
+      "no": "45",
+      "name": "Francisco José Hernando Santiago",
+      "born": 1936,
+      "died": 2013,
+      "term": "8 de noviembre de 2001 – 26 de septiembre de 2008",
+      "duration": "6 años y 323 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1986–2001)",
+      "head_of_state": "Juan Carlos I (1975-2014)"
+    },
+    {
+      "no": "46",
+      "name": "José Carlos Dívar Blanco",
+      "born": 1941,
+      "died": 2017,
+      "term": "26 de septiembre de 2008 – 30 de junio de 2012 (renuncia)",
+      "duration": "3 años y 278 días",
+      "previous_post": "Presidente de la Audiencia Nacional (2001–2008)",
+      "head_of_state": "Juan Carlos I (1975-2014)"
+    },
+    {
+      "no": "47",
+      "name": "Gonzalo Moliner Tamborero",
+      "born": 1944,
+      "died": "",
+      "term": "21 de julio de 2012 – 11 de diciembre de 2013",
+      "duration": "1 año y 143 días",
+      "previous_post": "Magistrado del Tribunal Supremo (1998–2008)",
+      "head_of_state": "Juan Carlos I (1975-2014)"
+    },
+    {
+      "no": "48",
+      "name": "Carlos Lesmes Serrano",
+      "born": 1958,
+      "died": "",
+      "term": "11 de diciembre de 2013 – 12 de octubre de 2022 (renuncia)",
+      "duration": "8 años y 305 días",
+      "previous_post": "Magistrado del Tribunal Supremo (2010–2013)",
+      "head_of_state": "Juan Carlos I (1975-2014) / Felipe VI (2014-presente)"
+    },
+    {
+      "no": "",
+      "name": "Francisco Marín Castán",
+      "born": 1952,
+      "died": "",
+      "term": "12 de octubre de 2022 – 4 de septiembre de 2024",
+      "duration": "1 año y 327 días",
+      "previous_post": "Magistrado del Tribunal Supremo (2000–2022)",
+      "head_of_state": "Felipe VI (2014-presente)"
+    },
+    {
+      "no": "49",
+      "name": "María Isabel Perelló Doménech",
+      "born": 1958,
+      "died": "",
+      "term": "4 de septiembre de 2024 – presente",
+      "duration": "2 años y 73 días",
+      "previous_post": "Magistrada del Tribunal Supremo (2009–2024)",
+      "head_of_state": "Felipe VI (2014-presente)"
+    }
+  ],
+  "meta": {
+    "title": "Presidentes del Tribunal Supremo de España - Free Download",
+    "description": "Presidentes del Tribunal Supremo de España desde 1812, con mandato, duración, cargo anterior y jefe del Estado. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidentes del Tribunal Supremo de España | ListBase",
+    "seo_description": "Download Presidentes del Tribunal Supremo de España — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Presidentes_del_Tribunal_Supremo_(España)"
+    ]
+  }
+}
