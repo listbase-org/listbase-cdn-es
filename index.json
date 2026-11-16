@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-15T02:15:52.491Z",
-  "total_datasets": 573,
-  "total_records": 434942,
+  "generated": "2026-11-16T02:19:19.067Z",
+  "total_datasets": 574,
+  "total_records": 435012,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -16734,6 +16734,32 @@
         "xlsx": {
           "name": "es-provincias-argentina-censo-2022_ES.xlsx",
           "size": 8598
+        }
+      }
+    },
+    {
+      "id": "es-campeones-liga-acb",
+      "name": "Campeones de la Liga Nacional y la Liga ACB de baloncesto",
+      "category": "sports",
+      "record_count": 70,
+      "columns": [
+        "season",
+        "champion",
+        "champion_title_no",
+        "final_result",
+        "runner_up"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Historial_de_la_Liga_ACB",
+      "updated": "2026-11",
+      "size": 14326,
+      "files": {
+        "csv": {
+          "name": "es-campeones-liga-acb_ES.csv",
+          "size": 4292
+        },
+        "xlsx": {
+          "name": "es-campeones-liga-acb_ES.xlsx",
+          "size": 9196
         }
       }
     },

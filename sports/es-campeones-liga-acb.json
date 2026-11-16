@@ -1,0 +1,541 @@
+{
+  "id": "es-campeones-liga-acb",
+  "name": "Campeones de la Liga Nacional y la Liga ACB de baloncesto",
+  "title": "Campeones de la Liga Nacional y la Liga ACB de baloncesto",
+  "description": "Historial de campeones y subcampeones de la máxima liga española de baloncesto (Liga Nacional desde 1956–57 y Liga ACB desde 1983–84), con el resultado de la final.",
+  "category": "sports",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Historial_de_la_Liga_ACB",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Historial_de_la_Liga_ACB",
+  "updated": "2026-11",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "string"
+    },
+    {
+      "key": "champion",
+      "label": "Champion",
+      "type": "string"
+    },
+    {
+      "key": "champion_title_no",
+      "label": "Champion Title No",
+      "type": "number"
+    },
+    {
+      "key": "final_result",
+      "label": "Final Result",
+      "type": "string"
+    },
+    {
+      "key": "runner_up",
+      "label": "Runner Up",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": "1956–57",
+      "champion": "Real Madrid",
+      "champion_title_no": 1,
+      "final_result": "",
+      "runner_up": "C. F. Barcelona"
+    },
+    {
+      "season": "1957–58",
+      "champion": "Real Madrid",
+      "champion_title_no": 2,
+      "final_result": "",
+      "runner_up": "Juventud de Badalona"
+    },
+    {
+      "season": "1958–59",
+      "champion": "C. F. Barcelona",
+      "champion_title_no": 1,
+      "final_result": "",
+      "runner_up": "Real Madrid"
+    },
+    {
+      "season": "1959–60",
+      "champion": "Real Madrid",
+      "champion_title_no": 3,
+      "final_result": "",
+      "runner_up": "Juventud de Badalona"
+    },
+    {
+      "season": "1960–61",
+      "champion": "Real Madrid",
+      "champion_title_no": 4,
+      "final_result": "",
+      "runner_up": "CB Orillo Verde Sabadell"
+    },
+    {
+      "season": "1961–62",
+      "champion": "Real Madrid",
+      "champion_title_no": 5,
+      "final_result": "",
+      "runner_up": "Juventud de Badalona"
+    },
+    {
+      "season": "1962–63",
+      "champion": "Real Madrid",
+      "champion_title_no": 6,
+      "final_result": "",
+      "runner_up": "C. B. Estudiantes"
+    },
+    {
+      "season": "1963–64",
+      "champion": "Real Madrid",
+      "champion_title_no": 7,
+      "final_result": "",
+      "runner_up": "Picadero Jockey Club"
+    },
+    {
+      "season": "1964–65",
+      "champion": "Real Madrid",
+      "champion_title_no": 8,
+      "final_result": "",
+      "runner_up": "Picadero Jockey Club"
+    },
+    {
+      "season": "1965–66",
+      "champion": "Real Madrid",
+      "champion_title_no": 9,
+      "final_result": "",
+      "runner_up": "Picadero Jockey Club"
+    },
+    {
+      "season": "1966–67",
+      "champion": "Juventud de Badalona",
+      "champion_title_no": 1,
+      "final_result": "",
+      "runner_up": "Real Madrid"
+    },
+    {
+      "season": "1967–68",
+      "champion": "Real Madrid",
+      "champion_title_no": 10,
+      "final_result": "",
+      "runner_up": "C. B. Estudiantes"
+    },
+    {
+      "season": "1968–69",
+      "champion": "Real Madrid",
+      "champion_title_no": 11,
+      "final_result": "",
+      "runner_up": "Juventud de Badalona"
+    },
+    {
+      "season": "1969–70",
+      "champion": "Real Madrid",
+      "champion_title_no": 12,
+      "final_result": "",
+      "runner_up": "Picadero Jockey Club"
+    },
+    {
+      "season": "1970–71",
+      "champion": "Real Madrid",
+      "champion_title_no": 13,
+      "final_result": "",
+      "runner_up": "Juventud de Badalona"
+    },
+    {
+      "season": "1971–72",
+      "champion": "Real Madrid",
+      "champion_title_no": 14,
+      "final_result": "",
+      "runner_up": "C. F. Barcelona"
+    },
+    {
+      "season": "1972–73",
+      "champion": "Real Madrid",
+      "champion_title_no": 15,
+      "final_result": "",
+      "runner_up": "Juventud de Badalona"
+    },
+    {
+      "season": "1973–74",
+      "champion": "Real Madrid",
+      "champion_title_no": 16,
+      "final_result": "",
+      "runner_up": "F. C. Barcelona"
+    },
+    {
+      "season": "1974–75",
+      "champion": "Real Madrid",
+      "champion_title_no": 17,
+      "final_result": "",
+      "runner_up": "F. C. Barcelona"
+    },
+    {
+      "season": "1975–76",
+      "champion": "Real Madrid",
+      "champion_title_no": 18,
+      "final_result": "",
+      "runner_up": "F. C. Barcelona"
+    },
+    {
+      "season": "1976–77",
+      "champion": "Real Madrid",
+      "champion_title_no": 19,
+      "final_result": "",
+      "runner_up": "F. C. Barcelona"
+    },
+    {
+      "season": "1977–78",
+      "champion": "Juventud de Badalona",
+      "champion_title_no": 2,
+      "final_result": "",
+      "runner_up": "Real Madrid"
+    },
+    {
+      "season": "1978–79",
+      "champion": "Real Madrid",
+      "champion_title_no": 20,
+      "final_result": "",
+      "runner_up": "F. C. Barcelona"
+    },
+    {
+      "season": "1979–80",
+      "champion": "Real Madrid",
+      "champion_title_no": 21,
+      "final_result": "",
+      "runner_up": "F. C. Barcelona"
+    },
+    {
+      "season": "1980–81",
+      "champion": "F. C. Barcelona",
+      "champion_title_no": 2,
+      "final_result": "",
+      "runner_up": "C. B. Estudiantes"
+    },
+    {
+      "season": "1981–82",
+      "champion": "Real Madrid",
+      "champion_title_no": 22,
+      "final_result": "",
+      "runner_up": "F. C. Barcelona"
+    },
+    {
+      "season": "1982–83",
+      "champion": "F. C. Barcelona",
+      "champion_title_no": 3,
+      "final_result": "",
+      "runner_up": "Real Madrid"
+    },
+    {
+      "season": "1983–84",
+      "champion": "Real Madrid",
+      "champion_title_no": 23,
+      "final_result": "2–1",
+      "runner_up": "F. C. Barcelona"
+    },
+    {
+      "season": "1984–85",
+      "champion": "Real Madrid",
+      "champion_title_no": 24,
+      "final_result": "2–1",
+      "runner_up": "Joventut Massana"
+    },
+    {
+      "season": "1985–86",
+      "champion": "Real Madrid",
+      "champion_title_no": 25,
+      "final_result": "2–0",
+      "runner_up": "F. C. Barcelona"
+    },
+    {
+      "season": "1986–87",
+      "champion": "F. C. Barcelona",
+      "champion_title_no": 4,
+      "final_result": "3–1",
+      "runner_up": "Ron Negrita Joventut"
+    },
+    {
+      "season": "1987–88",
+      "champion": "F. C. Barcelona",
+      "champion_title_no": 5,
+      "final_result": "3–2",
+      "runner_up": "Real Madrid"
+    },
+    {
+      "season": "1988–89",
+      "champion": "F. C. Barcelona",
+      "champion_title_no": 6,
+      "final_result": "3–2",
+      "runner_up": "Real Madrid"
+    },
+    {
+      "season": "1989–90",
+      "champion": "F. C. Barcelona",
+      "champion_title_no": 7,
+      "final_result": "3–0",
+      "runner_up": "Joventut de Badalona"
+    },
+    {
+      "season": "1990–91",
+      "champion": "Joventut de Badalona",
+      "champion_title_no": 3,
+      "final_result": "3–1",
+      "runner_up": "F. C. Barcelona"
+    },
+    {
+      "season": "1991–92",
+      "champion": "Joventut de Badalona",
+      "champion_title_no": 4,
+      "final_result": "3–2",
+      "runner_up": "Real Madrid Asegurator"
+    },
+    {
+      "season": "1992–93",
+      "champion": "Real Madrid Teka",
+      "champion_title_no": 26,
+      "final_result": "3–2",
+      "runner_up": "Joventut de Badalona"
+    },
+    {
+      "season": "1993–94",
+      "champion": "Real Madrid Teka",
+      "champion_title_no": 27,
+      "final_result": "3–0",
+      "runner_up": "F. C. Barcelona Banca Catalana"
+    },
+    {
+      "season": "1994–95",
+      "champion": "F. C. Barcelona Banca Catalana",
+      "champion_title_no": 8,
+      "final_result": "3–2",
+      "runner_up": "Unicaja Málaga"
+    },
+    {
+      "season": "1995–96",
+      "champion": "F. C. Barcelona Banca Catalana",
+      "champion_title_no": 9,
+      "final_result": "3–0",
+      "runner_up": "Caja San Fernando"
+    },
+    {
+      "season": "1996–97",
+      "champion": "F. C. Barcelona Banca Catalana",
+      "champion_title_no": 10,
+      "final_result": "3–2",
+      "runner_up": "Real Madrid Teka"
+    },
+    {
+      "season": "1997–98",
+      "champion": "TDK Manresa",
+      "champion_title_no": 1,
+      "final_result": "3–1",
+      "runner_up": "TAU Cerámica Baskonia"
+    },
+    {
+      "season": "1998–99",
+      "champion": "F. C. Barcelona",
+      "champion_title_no": 11,
+      "final_result": "3–0",
+      "runner_up": "Caja San Fernando"
+    },
+    {
+      "season": "1999–00",
+      "champion": "Real Madrid Teka",
+      "champion_title_no": 28,
+      "final_result": "3–2",
+      "runner_up": "F. C. Barcelona"
+    },
+    {
+      "season": "2000–01",
+      "champion": "F. C. Barcelona",
+      "champion_title_no": 12,
+      "final_result": "3–0",
+      "runner_up": "Real Madrid"
+    },
+    {
+      "season": "2001–02",
+      "champion": "TAU Cerámica Baskonia",
+      "champion_title_no": 1,
+      "final_result": "3–0",
+      "runner_up": "Unicaja Málaga"
+    },
+    {
+      "season": "2002–03",
+      "champion": "F. C. Barcelona",
+      "champion_title_no": 13,
+      "final_result": "3–0",
+      "runner_up": "Pamesa Valencia"
+    },
+    {
+      "season": "2003–04",
+      "champion": "F. C. Barcelona",
+      "champion_title_no": 14,
+      "final_result": "3–2",
+      "runner_up": "Adecco Estudiantes"
+    },
+    {
+      "season": "2004–05",
+      "champion": "Real Madrid",
+      "champion_title_no": 29,
+      "final_result": "3–2",
+      "runner_up": "TAU Cerámica Baskonia"
+    },
+    {
+      "season": "2005–06",
+      "champion": "Unicaja Málaga",
+      "champion_title_no": 1,
+      "final_result": "3–0",
+      "runner_up": "TAU Cerámica Baskonia"
+    },
+    {
+      "season": "2006–07",
+      "champion": "Real Madrid",
+      "champion_title_no": 30,
+      "final_result": "3–1",
+      "runner_up": "Winterthur F. C. Barcelona"
+    },
+    {
+      "season": "2007–08",
+      "champion": "TAU Cerámica Baskonia",
+      "champion_title_no": 2,
+      "final_result": "3–0",
+      "runner_up": "AXA F. C. Barcelona"
+    },
+    {
+      "season": "2008–09",
+      "champion": "Regal F. C. Barcelona",
+      "champion_title_no": 15,
+      "final_result": "3–1",
+      "runner_up": "TAU Cerámica Baskonia"
+    },
+    {
+      "season": "2009–10",
+      "champion": "Caja Laboral Baskonia",
+      "champion_title_no": 3,
+      "final_result": "3–0",
+      "runner_up": "Regal F. C. Barcelona"
+    },
+    {
+      "season": "2010–11",
+      "champion": "Regal F. C. Barcelona",
+      "champion_title_no": 16,
+      "final_result": "3–0",
+      "runner_up": "Bizkaia Bilbao Basket"
+    },
+    {
+      "season": "2011–12",
+      "champion": "Regal F. C. Barcelona",
+      "champion_title_no": 17,
+      "final_result": "3–2",
+      "runner_up": "Real Madrid"
+    },
+    {
+      "season": "2012–13",
+      "champion": "Real Madrid",
+      "champion_title_no": 31,
+      "final_result": "3–2",
+      "runner_up": "F. C. Barcelona Regal"
+    },
+    {
+      "season": "2013–14",
+      "champion": "F. C. Barcelona Regal",
+      "champion_title_no": 18,
+      "final_result": "3–1",
+      "runner_up": "Real Madrid"
+    },
+    {
+      "season": "2014–15",
+      "champion": "Real Madrid",
+      "champion_title_no": 32,
+      "final_result": "3–0",
+      "runner_up": "F. C. Barcelona Lassa"
+    },
+    {
+      "season": "2015–16",
+      "champion": "Real Madrid",
+      "champion_title_no": 33,
+      "final_result": "3–1",
+      "runner_up": "F. C. Barcelona Lassa"
+    },
+    {
+      "season": "2016–17",
+      "champion": "Valencia Basket",
+      "champion_title_no": 1,
+      "final_result": "3–1",
+      "runner_up": "Real Madrid"
+    },
+    {
+      "season": "2017–18",
+      "champion": "Real Madrid",
+      "champion_title_no": 34,
+      "final_result": "3–1",
+      "runner_up": "Kirolbet Baskonia"
+    },
+    {
+      "season": "2018–19",
+      "champion": "Real Madrid",
+      "champion_title_no": 35,
+      "final_result": "3–1",
+      "runner_up": "F. C. Barcelona Lassa"
+    },
+    {
+      "season": "2019–20",
+      "champion": "Kirolbet Baskonia",
+      "champion_title_no": 4,
+      "final_result": "69–67",
+      "runner_up": "F. C. Barcelona"
+    },
+    {
+      "season": "2020–21",
+      "champion": "F. C. Barcelona",
+      "champion_title_no": 19,
+      "final_result": "2–0",
+      "runner_up": "Real Madrid"
+    },
+    {
+      "season": "2021–22",
+      "champion": "Real Madrid",
+      "champion_title_no": 36,
+      "final_result": "3–1",
+      "runner_up": "F. C. Barcelona"
+    },
+    {
+      "season": "2022–23",
+      "champion": "F. C. Barcelona",
+      "champion_title_no": 20,
+      "final_result": "3–0",
+      "runner_up": "Real Madrid"
+    },
+    {
+      "season": "2023–24",
+      "champion": "Real Madrid",
+      "champion_title_no": 37,
+      "final_result": "3–0",
+      "runner_up": "UCAM Murcia C. B."
+    },
+    {
+      "season": "2024–25",
+      "champion": "Real Madrid",
+      "champion_title_no": 38,
+      "final_result": "3–0",
+      "runner_up": "Valencia Basket"
+    },
+    {
+      "season": "2025–26",
+      "champion": "Valencia Basket",
+      "champion_title_no": 2,
+      "final_result": "3–1",
+      "runner_up": "F. C. Barcelona"
+    }
+  ],
+  "meta": {
+    "title": "Campeones de la Liga Nacional y la Liga ACB de baloncesto - Free Download",
+    "description": "Historial de campeones y subcampeones de la máxima liga española de baloncesto (Liga Nacional desde 1956–57 y Liga ACB desde 1983–84), con el resultado de la final. Contains 70 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Campeones de la Liga Nacional y la Liga ACB de baloncesto | ListBase",
+    "seo_description": "Download Campeones de la Liga Nacional y la Liga ACB de baloncesto — 70 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 70 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Historial_de_la_Liga_ACB"
+    ]
+  }
+}
