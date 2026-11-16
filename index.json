@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-16T02:19:35.903Z",
-  "total_datasets": 576,
-  "total_records": 435070,
+  "generated": "2026-11-16T02:19:45.080Z",
+  "total_datasets": 577,
+  "total_records": 435138,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "environment",
@@ -941,6 +941,31 @@
         "xlsx": {
           "name": "es-peliculas-espanolas-con-mas-espectadores_ES.xlsx",
           "size": 9170
+        }
+      }
+    },
+    {
+      "id": "es-peliculas-mas-taquilleras-en-espana",
+      "name": "Películas más taquilleras en España",
+      "category": "entertainment",
+      "record_count": 68,
+      "columns": [
+        "rank",
+        "film",
+        "gross_eur",
+        "year"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Películas_con_las_mayores_recaudaciones_en_España",
+      "updated": "2026-11",
+      "size": 9735,
+      "files": {
+        "csv": {
+          "name": "es-peliculas-mas-taquilleras-en-espana_ES.csv",
+          "size": 3309
+        },
+        "xlsx": {
+          "name": "es-peliculas-mas-taquilleras-en-espana_ES.xlsx",
+          "size": 9381
         }
       }
     },

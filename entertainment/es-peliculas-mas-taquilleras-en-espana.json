@@ -1,0 +1,454 @@
+{
+  "id": "es-peliculas-mas-taquilleras-en-espana",
+  "name": "Películas más taquilleras en España",
+  "title": "Películas más taquilleras en España",
+  "description": "Películas con mayor recaudación en taquilla en España (en euros), con su año de estreno.",
+  "category": "entertainment",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Películas_con_las_mayores_recaudaciones_en_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Películas_con_las_mayores_recaudaciones_en_España",
+  "updated": "2026-11",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "gross_eur",
+      "label": "Gross Eur",
+      "type": "number"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "film": "Avatar",
+      "gross_eur": 80709634,
+      "year": 2009
+    },
+    {
+      "rank": 2,
+      "film": "Ocho apellidos vascos",
+      "gross_eur": 55379948,
+      "year": 2014
+    },
+    {
+      "rank": 3,
+      "film": "Avatar: El sentido del agua",
+      "gross_eur": 51049697,
+      "year": 2022
+    },
+    {
+      "rank": 4,
+      "film": "Del revés 2 (Inside Out 2)",
+      "gross_eur": 45513970,
+      "year": 2024
+    },
+    {
+      "rank": 5,
+      "film": "Titanic",
+      "gross_eur": 42758004,
+      "year": 1998
+    },
+    {
+      "rank": 6,
+      "film": "Lo imposible",
+      "gross_eur": 42415848,
+      "year": 2012
+    },
+    {
+      "rank": 7,
+      "film": "El rey león",
+      "gross_eur": 37218267,
+      "year": 2019
+    },
+    {
+      "rank": 8,
+      "film": "La bola negra",
+      "gross_eur": 36750000,
+      "year": 2026
+    },
+    {
+      "rank": 9,
+      "film": "Ocho apellidos catalanes",
+      "gross_eur": 36146627,
+      "year": 2015
+    },
+    {
+      "rank": 10,
+      "film": "El Señor de los Anillos: el retorno del Rey",
+      "gross_eur": 33760043,
+      "year": 2003
+    },
+    {
+      "rank": 11,
+      "film": "Barbie",
+      "gross_eur": 33717110,
+      "year": 2023
+    },
+    {
+      "rank": 12,
+      "film": "Star Wars: Episodio VII - El despertar de la fuerza",
+      "gross_eur": 32807373,
+      "year": 2015
+    },
+    {
+      "rank": 13,
+      "film": "El Señor de los Anillos: la Comunidad del Anillo",
+      "gross_eur": 32153799,
+      "year": 2001
+    },
+    {
+      "rank": 14,
+      "film": "Joker",
+      "gross_eur": 30592030,
+      "year": 2019
+    },
+    {
+      "rank": 15,
+      "film": "El Señor de los Anillos: las dos torres",
+      "gross_eur": 30554924,
+      "year": 2002
+    },
+    {
+      "rank": 16,
+      "film": "Vengadores: Endgame",
+      "gross_eur": 29212775,
+      "year": 2019
+    },
+    {
+      "rank": 17,
+      "film": "Spider-Man: No Way Home",
+      "gross_eur": 28763286,
+      "year": 2021
+    },
+    {
+      "rank": 18,
+      "film": "Harry Potter y la piedra filosofal",
+      "gross_eur": 28643699,
+      "year": 2001
+    },
+    {
+      "rank": 19,
+      "film": "Piratas del Caribe: El cofre del hombre muerto",
+      "gross_eur": 28278010,
+      "year": 2006
+    },
+    {
+      "rank": 20,
+      "film": "Shrek 2",
+      "gross_eur": 28207781,
+      "year": 2004
+    },
+    {
+      "rank": 21,
+      "film": "Torrente, presidente",
+      "gross_eur": 28132055,
+      "year": 2026
+    },
+    {
+      "rank": 22,
+      "film": "Bohemian Rhapsody",
+      "gross_eur": 27600041,
+      "year": 2018
+    },
+    {
+      "rank": 23,
+      "film": "Super Mario Bros.: la película",
+      "gross_eur": 27514993,
+      "year": 2023
+    },
+    {
+      "rank": 24,
+      "film": "Los otros",
+      "gross_eur": 27254881,
+      "year": 2001
+    },
+    {
+      "rank": 25,
+      "film": "El código Da Vinci",
+      "gross_eur": 26782541,
+      "year": 2006
+    },
+    {
+      "rank": 26,
+      "film": "El sexto sentido",
+      "gross_eur": 26557090,
+      "year": 1999
+    },
+    {
+      "rank": 27,
+      "film": "Un monstruo viene a verme",
+      "gross_eur": 26161766,
+      "year": 2016
+    },
+    {
+      "rank": 28,
+      "film": "Aladdín",
+      "gross_eur": 25365161,
+      "year": 2019
+    },
+    {
+      "rank": 29,
+      "film": "El orfanato",
+      "gross_eur": 25064300,
+      "year": 2007
+    },
+    {
+      "rank": 30,
+      "film": "Toy Story 3",
+      "gross_eur": 24985715,
+      "year": 2010
+    },
+    {
+      "rank": 31,
+      "film": "Up",
+      "gross_eur": 24922447,
+      "year": 2009
+    },
+    {
+      "rank": 32,
+      "film": "Star Wars: Episodio I - La amenaza fantasma",
+      "gross_eur": 24504383,
+      "year": 1999
+    },
+    {
+      "rank": 33,
+      "film": "Jurassic World: el reino caído",
+      "gross_eur": 24223178,
+      "year": 2018
+    },
+    {
+      "rank": 34,
+      "film": "Los Minions",
+      "gross_eur": 24069338,
+      "year": 2015
+    },
+    {
+      "rank": 35,
+      "film": "Deadpool y Lobezno",
+      "gross_eur": 23943702,
+      "year": 2024
+    },
+    {
+      "rank": 36,
+      "film": "Harry Potter y la cámara secreta",
+      "gross_eur": 23878004,
+      "year": 2002
+    },
+    {
+      "rank": 37,
+      "film": "Buscando a Nemo",
+      "gross_eur": 23814431,
+      "year": 2003
+    },
+    {
+      "rank": 38,
+      "film": "El hobbit: un viaje inesperado",
+      "gross_eur": 22866304,
+      "year": 2012
+    },
+    {
+      "rank": 39,
+      "film": "La gran aventura de Mortadelo y Filemón",
+      "gross_eur": 22847733,
+      "year": 2003
+    },
+    {
+      "rank": 40,
+      "film": "Piratas del Caribe: en el fin del mundo",
+      "gross_eur": 22831062,
+      "year": 2007
+    },
+    {
+      "rank": 41,
+      "film": "Alicia en el país de las maravillas",
+      "gross_eur": 22788784,
+      "year": 2010
+    },
+    {
+      "rank": 42,
+      "film": "Spider-Man",
+      "gross_eur": 22665013,
+      "year": 2002
+    },
+    {
+      "rank": 43,
+      "film": "La Saga Crepúsculo: Amanecer - Parte II",
+      "gross_eur": 22468735,
+      "year": 2012
+    },
+    {
+      "rank": 44,
+      "film": "Shrek tercero",
+      "gross_eur": 22289164,
+      "year": 2007
+    },
+    {
+      "rank": 45,
+      "film": "Piratas del Caribe: La maldición de la Perla Negra",
+      "gross_eur": 22273516,
+      "year": 2003
+    },
+    {
+      "rank": 46,
+      "film": "Torrente 2: Misión en Marbella",
+      "gross_eur": 22142173,
+      "year": 2001
+    },
+    {
+      "rank": 47,
+      "film": "Toy Story 4",
+      "gross_eur": 22118983,
+      "year": 2019
+    },
+    {
+      "rank": 48,
+      "film": "Jurassic World",
+      "gross_eur": 22027530,
+      "year": 2015
+    },
+    {
+      "rank": 49,
+      "film": "La bella y la bestia",
+      "gross_eur": 22014128,
+      "year": 2017
+    },
+    {
+      "rank": 50,
+      "film": "Del revés (Inside Out)",
+      "gross_eur": 21846380,
+      "year": 2015
+    },
+    {
+      "rank": 51,
+      "film": "Ice Age 3: El origen de los dinosaurios",
+      "gross_eur": 21800259,
+      "year": 2009
+    },
+    {
+      "rank": 52,
+      "film": "Star Wars: Episodio VIII - Los últimos Jedi",
+      "gross_eur": 21453386,
+      "year": 2017
+    },
+    {
+      "rank": 53,
+      "film": "Ágora",
+      "gross_eur": 21391761,
+      "year": 2009
+    },
+    {
+      "rank": 54,
+      "film": "Mascotas",
+      "gross_eur": 21320171,
+      "year": 2016
+    },
+    {
+      "rank": 55,
+      "film": "Oppenheimer",
+      "gross_eur": 21120174,
+      "year": 2023
+    },
+    {
+      "rank": 56,
+      "film": "Los Increíbles 2",
+      "gross_eur": 21091912,
+      "year": 2018
+    },
+    {
+      "rank": 57,
+      "film": "Gladiator II",
+      "gross_eur": 20939862,
+      "year": 2024
+    },
+    {
+      "rank": 58,
+      "film": "Perfectos desconocidos",
+      "gross_eur": 20935930,
+      "year": 2017
+    },
+    {
+      "rank": 59,
+      "film": "Indiana Jones y el reino de la calavera de cristal",
+      "gross_eur": 20933237,
+      "year": 2008
+    },
+    {
+      "rank": 60,
+      "film": "Mufasa: el rey león",
+      "gross_eur": 20829926,
+      "year": 2024
+    },
+    {
+      "rank": 61,
+      "film": "Frozen II",
+      "gross_eur": 20806821,
+      "year": 2019
+    },
+    {
+      "rank": 62,
+      "film": "Minions: el origen de Gru",
+      "gross_eur": 20748264,
+      "year": 2022
+    },
+    {
+      "rank": 63,
+      "film": "Gru 4: Mi villano favorito",
+      "gross_eur": 20730444,
+      "year": 2024
+    },
+    {
+      "rank": 64,
+      "film": "Gru 3: mi villano favorito",
+      "gross_eur": 20704924,
+      "year": 2017
+    },
+    {
+      "rank": 65,
+      "film": "Troya",
+      "gross_eur": 20535744,
+      "year": 2004
+    },
+    {
+      "rank": 66,
+      "film": "Vengadores: Infinity War",
+      "gross_eur": 20503973,
+      "year": 2018
+    },
+    {
+      "rank": 67,
+      "film": "El rey león",
+      "gross_eur": 20431921,
+      "year": 1994
+    },
+    {
+      "rank": 68,
+      "film": "Vaiana 2",
+      "gross_eur": 20081539,
+      "year": 2024
+    }
+  ],
+  "meta": {
+    "title": "Películas más taquilleras en España - Free Download",
+    "description": "Películas con mayor recaudación en taquilla en España (en euros), con su año de estreno. Contains 68 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Películas más taquilleras en España | ListBase",
+    "seo_description": "Download Películas más taquilleras en España — 68 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 68 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Películas_con_las_mayores_recaudaciones_en_España"
+    ]
+  }
+}
