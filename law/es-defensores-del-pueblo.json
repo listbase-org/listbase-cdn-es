@@ -1,0 +1,160 @@
+{
+  "id": "es-defensores-del-pueblo",
+  "name": "Defensores del Pueblo de España",
+  "title": "Defensores del Pueblo de España",
+  "description": "Titulares del Defensor del Pueblo de España desde 1982, incluidos los que ejercieron en funciones, con fechas de mandato.",
+  "category": "law",
+  "source": "https://es.wikipedia.org/wiki/Defensor_del_Pueblo_(España)",
+  "source_url": "https://es.wikipedia.org/wiki/Defensor_del_Pueblo_(España)",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "acting",
+      "label": "Acting",
+      "type": "string"
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "number"
+    },
+    {
+      "key": "died",
+      "label": "Died",
+      "type": "number"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1.º",
+      "name": "Joaquín Ruiz-Giménez",
+      "acting": "No",
+      "born": 1913,
+      "died": 2009,
+      "term_start": "30 de diciembre de 1982",
+      "term_end": "30 de diciembre de 1987"
+    },
+    {
+      "no": "",
+      "name": "Álvaro Gil-Robles",
+      "acting": "Sí",
+      "born": 1944,
+      "died": "",
+      "term_start": "30 de diciembre de 1987",
+      "term_end": "16 de marzo de 1988"
+    },
+    {
+      "no": "2.º",
+      "name": "Álvaro Gil-Robles",
+      "acting": "No",
+      "born": 1944,
+      "died": "",
+      "term_start": "16 de marzo de 1988",
+      "term_end": "16 de marzo de 1993"
+    },
+    {
+      "no": "",
+      "name": "Margarita Retuerto Buades",
+      "acting": "Sí",
+      "born": 1944,
+      "died": 2005,
+      "term_start": "16 de marzo de 1993",
+      "term_end": "1 de diciembre de 1994"
+    },
+    {
+      "no": "3.º",
+      "name": "Fernando Álvarez de Miranda",
+      "acting": "No",
+      "born": 1924,
+      "died": 2016,
+      "term_start": "1 de diciembre de 1994",
+      "term_end": "1 de diciembre de 1999"
+    },
+    {
+      "no": "",
+      "name": "Antonio Rovira Viñas",
+      "acting": "Sí",
+      "born": 1952,
+      "died": "",
+      "term_start": "1 de diciembre de 1999",
+      "term_end": "15 de junio de 2000"
+    },
+    {
+      "no": "4.º",
+      "name": "Enrique Múgica Herzog",
+      "acting": "No",
+      "born": 1924,
+      "died": 2020,
+      "term_start": "15 de junio de 2000",
+      "term_end": "30 de junio de 2010"
+    },
+    {
+      "no": "",
+      "name": "María Luisa Cava de Llano",
+      "acting": "Sí",
+      "born": 1948,
+      "died": "",
+      "term_start": "30 de junio de 2010",
+      "term_end": "21 de julio de 2012"
+    },
+    {
+      "no": "5.º",
+      "name": "Soledad Becerril",
+      "acting": "No",
+      "born": 1948,
+      "died": "",
+      "term_start": "21 de julio de 2012",
+      "term_end": "21 de julio de 2017"
+    },
+    {
+      "no": "",
+      "name": "Francisco Fernández Marugán",
+      "acting": "Sí",
+      "born": 1946,
+      "died": 2025,
+      "term_start": "21 de julio de 2017",
+      "term_end": "18 de noviembre de 2021"
+    },
+    {
+      "no": "6.º",
+      "name": "Ángel Gabilondo",
+      "acting": "No",
+      "born": 1949,
+      "died": "",
+      "term_start": "18 de noviembre de 2021",
+      "term_end": "presente"
+    }
+  ],
+  "meta": {
+    "title": "Defensores del Pueblo de España - Free Download",
+    "description": "Titulares del Defensor del Pueblo de España desde 1982, incluidos los que ejercieron en funciones, con fechas de mandato. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Defensores del Pueblo de España | ListBase",
+    "seo_description": "Download Defensores del Pueblo de España — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Defensor_del_Pueblo_(España)"
+    ]
+  }
+}

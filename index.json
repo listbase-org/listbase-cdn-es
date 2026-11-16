@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-16T02:19:19.067Z",
-  "total_datasets": 574,
-  "total_records": 435012,
+  "generated": "2026-11-16T02:19:27.963Z",
+  "total_datasets": 575,
+  "total_records": 435023,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -3429,6 +3429,34 @@
         "xlsx": {
           "name": "es-sistemas-de-escritura_ES.xlsx",
           "size": 10380
+        }
+      }
+    },
+    {
+      "id": "es-defensores-del-pueblo",
+      "name": "Defensores del Pueblo de España",
+      "category": "law",
+      "record_count": 11,
+      "columns": [
+        "no",
+        "name",
+        "acting",
+        "born",
+        "died",
+        "term_start",
+        "term_end"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Defensor_del_Pueblo_(España)",
+      "updated": "2026-11",
+      "size": 4196,
+      "files": {
+        "csv": {
+          "name": "es-defensores-del-pueblo_ES.csv",
+          "size": 1087
+        },
+        "xlsx": {
+          "name": "es-defensores-del-pueblo_ES.xlsx",
+          "size": 7441
         }
       }
     },
