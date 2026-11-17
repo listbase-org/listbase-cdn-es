@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-17T02:13:33.082Z",
-  "total_datasets": 580,
-  "total_records": 435602,
+  "generated": "2026-11-17T02:13:42.503Z",
+  "total_datasets": 581,
+  "total_records": 435654,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -16899,6 +16899,36 @@
         "xlsx": {
           "name": "es-provincias-argentina-censo-2022_ES.xlsx",
           "size": 8598
+        }
+      }
+    },
+    {
+      "id": "es-provincias-por-poblacion",
+      "name": "Provincias de España por población",
+      "category": "society",
+      "record_count": 52,
+      "columns": [
+        "rank",
+        "province",
+        "population",
+        "population_pct",
+        "density_per_km2",
+        "area_km2",
+        "capital",
+        "largest_city",
+        "autonomous_community"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Provincias_de_España_por_población",
+      "updated": "2026-11",
+      "size": 16973,
+      "files": {
+        "csv": {
+          "name": "es-provincias-por-poblacion_ES.csv",
+          "size": 4549
+        },
+        "xlsx": {
+          "name": "es-provincias-por-poblacion_ES.xlsx",
+          "size": 9910
         }
       }
     },

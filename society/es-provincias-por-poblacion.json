@@ -1,0 +1,643 @@
+{
+  "id": "es-provincias-por-poblacion",
+  "name": "Provincias de España por población",
+  "title": "Provincias de España por población",
+  "description": "Las 50 provincias españolas y las ciudades autónomas de Ceuta y Melilla ordenadas por población, con densidad, superficie, capital y comunidad autónoma.",
+  "category": "society",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Provincias_de_España_por_población",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Provincias_de_España_por_población",
+  "updated": "2026-11",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "population_pct",
+      "label": "Population Pct",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "largest_city",
+      "label": "Largest City",
+      "type": "string"
+    },
+    {
+      "key": "autonomous_community",
+      "label": "Autonomous Community",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "province": "Madrid",
+      "population": 7113886,
+      "population_pct": 14.48,
+      "density_per_km2": 886.13,
+      "area_km2": 8028,
+      "capital": "Madrid",
+      "largest_city": "Madrid",
+      "autonomous_community": "Comunidad de Madrid"
+    },
+    {
+      "rank": 2,
+      "province": "Barcelona",
+      "population": 5959941,
+      "population_pct": 12.13,
+      "density_per_km2": 771.21,
+      "area_km2": 7728,
+      "capital": "Barcelona",
+      "largest_city": "Barcelona",
+      "autonomous_community": "Cataluña"
+    },
+    {
+      "rank": 3,
+      "province": "Valencia",
+      "population": 2763996,
+      "population_pct": 5.63,
+      "density_per_km2": 256.5,
+      "area_km2": 10807,
+      "capital": "Valencia",
+      "largest_city": "Valencia",
+      "autonomous_community": "Comunidad Valenciana"
+    },
+    {
+      "rank": 4,
+      "province": "Alicante",
+      "population": 2033566,
+      "population_pct": 4.14,
+      "density_per_km2": 349.59,
+      "area_km2": 5817,
+      "capital": "Alicante",
+      "largest_city": "Alicante",
+      "autonomous_community": "Comunidad Valenciana"
+    },
+    {
+      "rank": 5,
+      "province": "Sevilla",
+      "population": 1977664,
+      "population_pct": 4.03,
+      "density_per_km2": 140.9,
+      "area_km2": 14036,
+      "capital": "Sevilla",
+      "largest_city": "Sevilla",
+      "autonomous_community": "Andalucía"
+    },
+    {
+      "rank": 6,
+      "province": "Málaga",
+      "population": 1791183,
+      "population_pct": 3.65,
+      "density_per_km2": 245.17,
+      "area_km2": 7306,
+      "capital": "Málaga",
+      "largest_city": "Málaga",
+      "autonomous_community": "Andalucía"
+    },
+    {
+      "rank": 7,
+      "province": "Murcia",
+      "population": 1586989,
+      "population_pct": 3.23,
+      "density_per_km2": 140.27,
+      "area_km2": 11314,
+      "capital": "Murcia",
+      "largest_city": "Murcia",
+      "autonomous_community": "Región de Murcia"
+    },
+    {
+      "rank": 8,
+      "province": "Cádiz",
+      "population": 1261420,
+      "population_pct": 2.57,
+      "density_per_km2": 169.55,
+      "area_km2": 7440,
+      "capital": "Cádiz",
+      "largest_city": "Jerez de la Frontera",
+      "autonomous_community": "Andalucía"
+    },
+    {
+      "rank": 9,
+      "province": "Islas Baleares",
+      "population": 1249844,
+      "population_pct": 2.54,
+      "density_per_km2": 250.37,
+      "area_km2": 4992,
+      "capital": "Palma",
+      "largest_city": "Palma",
+      "autonomous_community": "Islas Baleares"
+    },
+    {
+      "rank": 10,
+      "province": "Las Palmas",
+      "population": 1171547,
+      "population_pct": 2.38,
+      "density_per_km2": 288.13,
+      "area_km2": 4066,
+      "capital": "Las Palmas de Gran Canaria",
+      "largest_city": "Las Palmas de Gran Canaria",
+      "autonomous_community": "Canarias"
+    },
+    {
+      "rank": 11,
+      "province": "Vizcaya",
+      "population": 1167233,
+      "population_pct": 2.38,
+      "density_per_km2": 526.49,
+      "area_km2": 2217,
+      "capital": "Bilbao",
+      "largest_city": "Bilbao",
+      "autonomous_community": "País Vasco"
+    },
+    {
+      "rank": 12,
+      "province": "La Coruña",
+      "population": 1135623,
+      "population_pct": 2.31,
+      "density_per_km2": 142.83,
+      "area_km2": 7950,
+      "capital": "La Coruña",
+      "largest_city": "La Coruña",
+      "autonomous_community": "Galicia"
+    },
+    {
+      "rank": 13,
+      "province": "Santa Cruz de Tenerife",
+      "population": 1087319,
+      "population_pct": 2.21,
+      "density_per_km2": 321.6,
+      "area_km2": 3381,
+      "capital": "Santa Cruz de Tenerife",
+      "largest_city": "Santa Cruz de Tenerife",
+      "autonomous_community": "Canarias"
+    },
+    {
+      "rank": 14,
+      "province": "Asturias",
+      "population": 1015128,
+      "population_pct": 2.07,
+      "density_per_km2": 95.73,
+      "area_km2": 10604,
+      "capital": "Oviedo",
+      "largest_city": "Gijón",
+      "autonomous_community": "Asturias"
+    },
+    {
+      "rank": 15,
+      "province": "Zaragoza",
+      "population": 998443,
+      "population_pct": 2.03,
+      "density_per_km2": 57.8,
+      "area_km2": 17274,
+      "capital": "Zaragoza",
+      "largest_city": "Zaragoza",
+      "autonomous_community": "Aragón"
+    },
+    {
+      "rank": 16,
+      "province": "Pontevedra",
+      "population": 947818,
+      "population_pct": 1.93,
+      "density_per_km2": 210.86,
+      "area_km2": 4495,
+      "capital": "Pontevedra",
+      "largest_city": "Vigo",
+      "autonomous_community": "Galicia"
+    },
+    {
+      "rank": 17,
+      "province": "Granada",
+      "population": 945797,
+      "population_pct": 1.93,
+      "density_per_km2": 74.78,
+      "area_km2": 12647,
+      "capital": "Granada",
+      "largest_city": "Granada",
+      "autonomous_community": "Andalucía"
+    },
+    {
+      "rank": 18,
+      "province": "Tarragona",
+      "population": 875530,
+      "population_pct": 1.78,
+      "density_per_km2": 138.91,
+      "area_km2": 6303,
+      "capital": "Tarragona",
+      "largest_city": "Tarragona",
+      "autonomous_community": "Cataluña"
+    },
+    {
+      "rank": 19,
+      "province": "Gerona",
+      "population": 830429,
+      "population_pct": 1.69,
+      "density_per_km2": 140.51,
+      "area_km2": 5910,
+      "capital": "Gerona",
+      "largest_city": "Gerona",
+      "autonomous_community": "Cataluña"
+    },
+    {
+      "rank": 20,
+      "province": "Córdoba",
+      "population": 773163,
+      "population_pct": 1.57,
+      "density_per_km2": 56.14,
+      "area_km2": 13771,
+      "capital": "Córdoba",
+      "largest_city": "Córdoba",
+      "autonomous_community": "Andalucía"
+    },
+    {
+      "rank": 21,
+      "province": "Almería",
+      "population": 770554,
+      "population_pct": 1.57,
+      "density_per_km2": 87.81,
+      "area_km2": 8775,
+      "capital": "Almería",
+      "largest_city": "Almería",
+      "autonomous_community": "Andalucía"
+    },
+    {
+      "rank": 22,
+      "province": "Toledo",
+      "population": 755081,
+      "population_pct": 1.54,
+      "density_per_km2": 49.13,
+      "area_km2": 15370,
+      "capital": "Toledo",
+      "largest_city": "Toledo",
+      "autonomous_community": "Castilla-La Mancha"
+    },
+    {
+      "rank": 23,
+      "province": "Guipúzcoa",
+      "population": 733149,
+      "population_pct": 1.49,
+      "density_per_km2": 370.28,
+      "area_km2": 1980,
+      "capital": "San Sebastián",
+      "largest_city": "San Sebastián",
+      "autonomous_community": "País Vasco"
+    },
+    {
+      "rank": 24,
+      "province": "Navarra",
+      "population": 683854,
+      "population_pct": 1.39,
+      "density_per_km2": 65.81,
+      "area_km2": 10391,
+      "capital": "Pamplona",
+      "largest_city": "Pamplona",
+      "autonomous_community": "Navarra"
+    },
+    {
+      "rank": 25,
+      "province": "Badajoz",
+      "population": 665155,
+      "population_pct": 1.35,
+      "density_per_km2": 30.56,
+      "area_km2": 21766,
+      "capital": "Badajoz",
+      "largest_city": "Badajoz",
+      "autonomous_community": "Extremadura"
+    },
+    {
+      "rank": 26,
+      "province": "Castellón",
+      "population": 627620,
+      "population_pct": 1.28,
+      "density_per_km2": 94.21,
+      "area_km2": 6636,
+      "capital": "Castellón de la Plana",
+      "largest_city": "Castellón de la Plana",
+      "autonomous_community": "Comunidad Valenciana"
+    },
+    {
+      "rank": 27,
+      "province": "Jaén",
+      "population": 618143,
+      "population_pct": 1.26,
+      "density_per_km2": 45.8,
+      "area_km2": 13496,
+      "capital": "Jaén",
+      "largest_city": "Jaén",
+      "autonomous_community": "Andalucía"
+    },
+    {
+      "rank": 28,
+      "province": "Cantabria",
+      "population": 593623,
+      "population_pct": 1.21,
+      "density_per_km2": 111.56,
+      "area_km2": 5321,
+      "capital": "Santander",
+      "largest_city": "Santander",
+      "autonomous_community": "Cantabria"
+    },
+    {
+      "rank": 29,
+      "province": "Huelva",
+      "population": 538789,
+      "population_pct": 1.1,
+      "density_per_km2": 53.2,
+      "area_km2": 10128,
+      "capital": "Huelva",
+      "largest_city": "Huelva",
+      "autonomous_community": "Andalucía"
+    },
+    {
+      "rank": 30,
+      "province": "Valladolid",
+      "population": 528644,
+      "population_pct": 1.08,
+      "density_per_km2": 65.18,
+      "area_km2": 8110,
+      "capital": "Valladolid",
+      "largest_city": "Valladolid",
+      "autonomous_community": "Castilla y León"
+    },
+    {
+      "rank": 31,
+      "province": "Ciudad Real",
+      "population": 494848,
+      "population_pct": 1.01,
+      "density_per_km2": 24.98,
+      "area_km2": 19813,
+      "capital": "Ciudad Real",
+      "largest_city": "Ciudad Real",
+      "autonomous_community": "Castilla-La Mancha"
+    },
+    {
+      "rank": 32,
+      "province": "Lérida",
+      "population": 458226,
+      "population_pct": 0.93,
+      "density_per_km2": 37.65,
+      "area_km2": 12172,
+      "capital": "Lérida",
+      "largest_city": "Lérida",
+      "autonomous_community": "Cataluña"
+    },
+    {
+      "rank": 33,
+      "province": "León",
+      "population": 448030,
+      "population_pct": 0.91,
+      "density_per_km2": 28.75,
+      "area_km2": 15581,
+      "capital": "León",
+      "largest_city": "León",
+      "autonomous_community": "Castilla y León"
+    },
+    {
+      "rank": 34,
+      "province": "Albacete",
+      "population": 390751,
+      "population_pct": 0.8,
+      "density_per_km2": 26.18,
+      "area_km2": 14924,
+      "capital": "Albacete",
+      "largest_city": "Albacete",
+      "autonomous_community": "Castilla-La Mancha"
+    },
+    {
+      "rank": 35,
+      "province": "Cáceres",
+      "population": 388190,
+      "population_pct": 0.79,
+      "density_per_km2": 19.54,
+      "area_km2": 19868,
+      "capital": "Cáceres",
+      "largest_city": "Cáceres",
+      "autonomous_community": "Extremadura"
+    },
+    {
+      "rank": 36,
+      "province": "Burgos",
+      "population": 362663,
+      "population_pct": 0.74,
+      "density_per_km2": 25.38,
+      "area_km2": 14292,
+      "capital": "Burgos",
+      "largest_city": "Burgos",
+      "autonomous_community": "Castilla y León"
+    },
+    {
+      "rank": 37,
+      "province": "Álava",
+      "population": 341961,
+      "population_pct": 0.7,
+      "density_per_km2": 112.6,
+      "area_km2": 3037,
+      "capital": "Vitoria",
+      "largest_city": "Vitoria",
+      "autonomous_community": "País Vasco"
+    },
+    {
+      "rank": 38,
+      "province": "Salamanca",
+      "population": 328446,
+      "population_pct": 0.67,
+      "density_per_km2": 26.59,
+      "area_km2": 12350,
+      "capital": "Salamanca",
+      "largest_city": "Salamanca",
+      "autonomous_community": "Castilla y León"
+    },
+    {
+      "rank": 39,
+      "province": "La Rioja",
+      "population": 326803,
+      "population_pct": 0.67,
+      "density_per_km2": 64.78,
+      "area_km2": 5045,
+      "capital": "Logroño",
+      "largest_city": "Logroño",
+      "autonomous_community": "La Rioja"
+    },
+    {
+      "rank": 40,
+      "province": "Lugo",
+      "population": 326022,
+      "population_pct": 0.66,
+      "density_per_km2": 33.08,
+      "area_km2": 9856,
+      "capital": "Lugo",
+      "largest_city": "Lugo",
+      "autonomous_community": "Galicia"
+    },
+    {
+      "rank": 41,
+      "province": "Orense",
+      "population": 305278,
+      "population_pct": 0.62,
+      "density_per_km2": 41.97,
+      "area_km2": 7273,
+      "capital": "Orense",
+      "largest_city": "Orense",
+      "autonomous_community": "Galicia"
+    },
+    {
+      "rank": 42,
+      "province": "Guadalajara",
+      "population": 285839,
+      "population_pct": 0.58,
+      "density_per_km2": 23.4,
+      "area_km2": 12214,
+      "capital": "Guadalajara",
+      "largest_city": "Guadalajara",
+      "autonomous_community": "Castilla-La Mancha"
+    },
+    {
+      "rank": 43,
+      "province": "Huesca",
+      "population": 230087,
+      "population_pct": 0.47,
+      "density_per_km2": 14.72,
+      "area_km2": 15636,
+      "capital": "Huesca",
+      "largest_city": "Huesca",
+      "autonomous_community": "Aragón"
+    },
+    {
+      "rank": 44,
+      "province": "Cuenca",
+      "population": 199859,
+      "population_pct": 0.41,
+      "density_per_km2": 11.66,
+      "area_km2": 17140,
+      "capital": "Cuenca",
+      "largest_city": "Cuenca",
+      "autonomous_community": "Castilla-La Mancha"
+    },
+    {
+      "rank": 45,
+      "province": "Zamora",
+      "population": 165564,
+      "population_pct": 0.34,
+      "density_per_km2": 15.68,
+      "area_km2": 10561,
+      "capital": "Zamora",
+      "largest_city": "Zamora",
+      "autonomous_community": "Castilla y León"
+    },
+    {
+      "rank": 46,
+      "province": "Ávila",
+      "population": 160738,
+      "population_pct": 0.33,
+      "density_per_km2": 19.97,
+      "area_km2": 8050,
+      "capital": "Ávila",
+      "largest_city": "Ávila",
+      "autonomous_community": "Castilla y León"
+    },
+    {
+      "rank": 47,
+      "province": "Palencia",
+      "population": 158702,
+      "population_pct": 0.32,
+      "density_per_km2": 19.71,
+      "area_km2": 8052,
+      "capital": "Palencia",
+      "largest_city": "Palencia",
+      "autonomous_community": "Castilla y León"
+    },
+    {
+      "rank": 48,
+      "province": "Segovia",
+      "population": 158251,
+      "population_pct": 0.32,
+      "density_per_km2": 22.87,
+      "area_km2": 6921,
+      "capital": "Segovia",
+      "largest_city": "Segovia",
+      "autonomous_community": "Castilla y León"
+    },
+    {
+      "rank": 49,
+      "province": "Teruel",
+      "population": 136091,
+      "population_pct": 0.28,
+      "density_per_km2": 9.19,
+      "area_km2": 14810,
+      "capital": "Teruel",
+      "largest_city": "Teruel",
+      "autonomous_community": "Aragón"
+    },
+    {
+      "rank": 50,
+      "province": "Soria",
+      "population": 90183,
+      "population_pct": 0.18,
+      "density_per_km2": 8.75,
+      "area_km2": 10306,
+      "capital": "Soria",
+      "largest_city": "Soria",
+      "autonomous_community": "Castilla y León"
+    },
+    {
+      "rank": 51,
+      "province": "Melilla",
+      "population": 87067,
+      "population_pct": 0.18,
+      "density_per_km2": 7255.58,
+      "area_km2": 13,
+      "capital": "Melilla",
+      "largest_city": "Melilla",
+      "autonomous_community": "Melilla"
+    },
+    {
+      "rank": 52,
+      "province": "Ceuta",
+      "population": 83567,
+      "population_pct": 0.17,
+      "density_per_km2": 4178.35,
+      "area_km2": 19,
+      "capital": "Ceuta",
+      "largest_city": "Ceuta",
+      "autonomous_community": "Ceuta"
+    }
+  ],
+  "meta": {
+    "title": "Provincias de España por población - Free Download",
+    "description": "Las 50 provincias españolas y las ciudades autónomas de Ceuta y Melilla ordenadas por población, con densidad, superficie, capital y comunidad autónoma. Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Provincias de España por población | ListBase",
+    "seo_description": "Download Provincias de España por población — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Provincias_de_España_por_población"
+    ]
+  }
+}
