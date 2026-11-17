@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-16T02:19:54.742Z",
-  "total_datasets": 578,
-  "total_records": 435188,
+  "generated": "2026-11-17T02:13:24.609Z",
+  "total_datasets": 579,
+  "total_records": 435534,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -16698,6 +16698,35 @@
         "xlsx": {
           "name": "es-ciudades-de-mexico-por-poblacion_ES.xlsx",
           "size": 13687
+        }
+      }
+    },
+    {
+      "id": "es-comunas-de-chile",
+      "name": "Comunas de Chile: población, superficie e IDH",
+      "category": "society",
+      "record_count": 346,
+      "columns": [
+        "cut",
+        "commune",
+        "province",
+        "region",
+        "area_km2",
+        "population_2024",
+        "hdi_2005",
+        "hdi_level_2005"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Comunas_de_Chile",
+      "updated": "2026-11",
+      "size": 86273,
+      "files": {
+        "csv": {
+          "name": "es-comunas-de-chile_ES.csv",
+          "size": 27933
+        },
+        "xlsx": {
+          "name": "es-comunas-de-chile_ES.xlsx",
+          "size": 24616
         }
       }
     },

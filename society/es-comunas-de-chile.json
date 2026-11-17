@@ -1,0 +1,3526 @@
+{
+  "id": "es-comunas-de-chile",
+  "name": "Comunas de Chile: población, superficie e IDH",
+  "title": "Comunas de Chile: población, superficie e IDH",
+  "description": "Las 346 comunas de Chile con su código CUT, provincia, región, superficie, población del Censo 2024 e índice de desarrollo humano (2005).",
+  "category": "society",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Comunas_de_Chile",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Comunas_de_Chile",
+  "updated": "2026-11",
+  "record_count": 346,
+  "columns": [
+    {
+      "key": "cut",
+      "label": "Cut",
+      "type": "number"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "hdi_2005",
+      "label": "Hdi 2005",
+      "type": "number"
+    },
+    {
+      "key": "hdi_level_2005",
+      "label": "Hdi Level 2005",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "cut": "15101",
+      "commune": "Arica",
+      "province": "Arica",
+      "region": "Arica y Parinacota",
+      "area_km2": 4799.4,
+      "population_2024": 241653,
+      "hdi_2005": 0.866,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "15102",
+      "commune": "Camarones",
+      "province": "Arica",
+      "region": "Arica y Parinacota",
+      "area_km2": 3927,
+      "population_2024": 861,
+      "hdi_2005": 0.791,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "15201",
+      "commune": "Putre",
+      "province": "Parinacota",
+      "region": "Arica y Parinacota",
+      "area_km2": 5902.5,
+      "population_2024": 1547,
+      "hdi_2005": 0.817,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "15202",
+      "commune": "General Lagos",
+      "province": "Parinacota",
+      "region": "Arica y Parinacota",
+      "area_km2": 2244.4,
+      "population_2024": 508,
+      "hdi_2005": 0.773,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "01101",
+      "commune": "Iquique",
+      "province": "Iquique",
+      "region": "Tarapacá",
+      "area_km2": 2242.1,
+      "population_2024": 199587,
+      "hdi_2005": 0.826,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "01107",
+      "commune": "Alto Hospicio",
+      "province": "Iquique",
+      "region": "Tarapacá",
+      "area_km2": 572.9,
+      "population_2024": 142086,
+      "hdi_2005": 0.735,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "01401",
+      "commune": "Pozo Almonte",
+      "province": "Tamarugal",
+      "region": "Tarapacá",
+      "area_km2": 13765.8,
+      "population_2024": 16878,
+      "hdi_2005": 0.772,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "01402",
+      "commune": "Camiña",
+      "province": "Tamarugal",
+      "region": "Tarapacá",
+      "area_km2": 2200.2,
+      "population_2024": 1335,
+      "hdi_2005": 0.699,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "01403",
+      "commune": "Colchane",
+      "province": "Tamarugal",
+      "region": "Tarapacá",
+      "area_km2": 4015.6,
+      "population_2024": 790,
+      "hdi_2005": 0.683,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "01404",
+      "commune": "Huara",
+      "province": "Tamarugal",
+      "region": "Tarapacá",
+      "area_km2": 10474.6,
+      "population_2024": 2858,
+      "hdi_2005": 0.746,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "01405",
+      "commune": "Pica",
+      "province": "Tamarugal",
+      "region": "Tarapacá",
+      "area_km2": 8934.3,
+      "population_2024": 6272,
+      "hdi_2005": 0.823,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "02101",
+      "commune": "Antofagasta",
+      "province": "Antofagasta",
+      "region": "Antofagasta",
+      "area_km2": 30718.1,
+      "population_2024": 401096,
+      "hdi_2005": 0.854,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "02102",
+      "commune": "Mejillones",
+      "province": "Antofagasta",
+      "region": "Antofagasta",
+      "area_km2": 3803.9,
+      "population_2024": 14084,
+      "hdi_2005": 0.795,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "02103",
+      "commune": "Sierra Gorda",
+      "province": "Antofagasta",
+      "region": "Antofagasta",
+      "area_km2": 12886,
+      "population_2024": 1472,
+      "hdi_2005": 0.809,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "02104",
+      "commune": "Taltal",
+      "province": "Antofagasta",
+      "region": "Antofagasta",
+      "area_km2": 20405.1,
+      "population_2024": 12097,
+      "hdi_2005": 0.776,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "02201",
+      "commune": "Calama",
+      "province": "El Loa",
+      "region": "Antofagasta",
+      "area_km2": 15596.9,
+      "population_2024": 166334,
+      "hdi_2005": 0.857,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "02202",
+      "commune": "Ollagüe",
+      "province": "El Loa",
+      "region": "Antofagasta",
+      "area_km2": 2964,
+      "population_2024": 256,
+      "hdi_2005": 0.739,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "02203",
+      "commune": "San Pedro de Atacama",
+      "province": "El Loa",
+      "region": "Antofagasta",
+      "area_km2": 23439,
+      "population_2024": 9843,
+      "hdi_2005": 0.771,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "02301",
+      "commune": "Tocopilla",
+      "province": "Tocopilla",
+      "region": "Antofagasta",
+      "area_km2": 4038.8,
+      "population_2024": 25400,
+      "hdi_2005": 0.796,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "02302",
+      "commune": "María Elena",
+      "province": "Tocopilla",
+      "region": "Antofagasta",
+      "area_km2": 12197,
+      "population_2024": 4834,
+      "hdi_2005": 0.779,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "03101",
+      "commune": "Copiapó",
+      "province": "Copiapó",
+      "region": "Atacama",
+      "area_km2": 16681.3,
+      "population_2024": 168831,
+      "hdi_2005": 0.725,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "03102",
+      "commune": "Caldera",
+      "province": "Copiapó",
+      "region": "Atacama",
+      "area_km2": 4666.6,
+      "population_2024": 18805,
+      "hdi_2005": 0.741,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "03103",
+      "commune": "Tierra Amarilla",
+      "province": "Copiapó",
+      "region": "Atacama",
+      "area_km2": 11191,
+      "population_2024": 11846,
+      "hdi_2005": 0.686,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "03201",
+      "commune": "Chañaral",
+      "province": "Chañaral",
+      "region": "Atacama",
+      "area_km2": 5772,
+      "population_2024": 12345,
+      "hdi_2005": 0.714,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "03202",
+      "commune": "Diego de Almagro",
+      "province": "Chañaral",
+      "region": "Atacama",
+      "area_km2": 18664,
+      "population_2024": 11397,
+      "hdi_2005": 0.789,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "03301",
+      "commune": "Vallenar",
+      "province": "Huasco",
+      "region": "Atacama",
+      "area_km2": 7084,
+      "population_2024": 54222,
+      "hdi_2005": 0.731,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "03302",
+      "commune": "Alto del Carmen",
+      "province": "Huasco",
+      "region": "Atacama",
+      "area_km2": 5939,
+      "population_2024": 4788,
+      "hdi_2005": 0.664,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "03303",
+      "commune": "Freirina",
+      "province": "Huasco",
+      "region": "Atacama",
+      "area_km2": 3207.9,
+      "population_2024": 7577,
+      "hdi_2005": 0.693,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "03304",
+      "commune": "Huasco",
+      "province": "Huasco",
+      "region": "Atacama",
+      "area_km2": 1601.4,
+      "population_2024": 9369,
+      "hdi_2005": 0.695,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "04101",
+      "commune": "La Serena",
+      "province": "Elqui",
+      "region": "Coquimbo",
+      "area_km2": 1892.8,
+      "population_2024": 250141,
+      "hdi_2005": 0.781,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "04102",
+      "commune": "Coquimbo",
+      "province": "Elqui",
+      "region": "Coquimbo",
+      "area_km2": 1429,
+      "population_2024": 263719,
+      "hdi_2005": 0.731,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "04103",
+      "commune": "Andacollo",
+      "province": "Elqui",
+      "region": "Coquimbo",
+      "area_km2": 310,
+      "population_2024": 11566,
+      "hdi_2005": 0.675,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "04104",
+      "commune": "La Higuera",
+      "province": "Elqui",
+      "region": "Coquimbo",
+      "area_km2": 4158.2,
+      "population_2024": 4335,
+      "hdi_2005": 0.67,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "04105",
+      "commune": "Paihuano",
+      "province": "Elqui",
+      "region": "Coquimbo",
+      "area_km2": 1495,
+      "population_2024": 4649,
+      "hdi_2005": 0.734,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "04106",
+      "commune": "Vicuña",
+      "province": "Elqui",
+      "region": "Coquimbo",
+      "area_km2": 7610,
+      "population_2024": 28047,
+      "hdi_2005": 0.716,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "04201",
+      "commune": "Illapel",
+      "province": "Choapa",
+      "region": "Coquimbo",
+      "area_km2": 2629,
+      "population_2024": 32009,
+      "hdi_2005": 0.667,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "04202",
+      "commune": "Canela",
+      "province": "Choapa",
+      "region": "Coquimbo",
+      "area_km2": 2196.6,
+      "population_2024": 9639,
+      "hdi_2005": 0.644,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "04203",
+      "commune": "Los Vilos",
+      "province": "Choapa",
+      "region": "Coquimbo",
+      "area_km2": 1823.8,
+      "population_2024": 22879,
+      "hdi_2005": 0.675,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "04204",
+      "commune": "Salamanca",
+      "province": "Choapa",
+      "region": "Coquimbo",
+      "area_km2": 3445,
+      "population_2024": 27823,
+      "hdi_2005": 0.676,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "04301",
+      "commune": "Ovalle",
+      "province": "Limarí",
+      "region": "Coquimbo",
+      "area_km2": 3835,
+      "population_2024": 118696,
+      "hdi_2005": 0.725,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "04302",
+      "commune": "Combarbalá",
+      "province": "Limarí",
+      "region": "Coquimbo",
+      "area_km2": 2257.5,
+      "population_2024": 12954,
+      "hdi_2005": 0.661,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "04303",
+      "commune": "Monte Patria",
+      "province": "Limarí",
+      "region": "Coquimbo",
+      "area_km2": 4366.9,
+      "population_2024": 29997,
+      "hdi_2005": 0.653,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "04304",
+      "commune": "Punitaqui",
+      "province": "Limarí",
+      "region": "Coquimbo",
+      "area_km2": 1339,
+      "population_2024": 12076,
+      "hdi_2005": 0.653,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "04305",
+      "commune": "Río Hurtado",
+      "province": "Limarí",
+      "region": "Coquimbo",
+      "area_km2": 2180,
+      "population_2024": 4334,
+      "hdi_2005": 0.653,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "05101",
+      "commune": "Valparaíso",
+      "province": "Valparaíso",
+      "region": "Valparaíso",
+      "area_km2": 401.6,
+      "population_2024": 284938,
+      "hdi_2005": 0.701,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05102",
+      "commune": "Casablanca",
+      "province": "Valparaíso",
+      "region": "Valparaíso",
+      "area_km2": 953,
+      "population_2024": 29876,
+      "hdi_2005": 0.712,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05103",
+      "commune": "Concón",
+      "province": "Valparaíso",
+      "region": "Valparaíso",
+      "area_km2": 76,
+      "population_2024": 48294,
+      "hdi_2005": 0.781,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05104",
+      "commune": "Juan Fernández",
+      "province": "Valparaíso",
+      "region": "Valparaíso",
+      "area_km2": 149.4,
+      "population_2024": 904,
+      "hdi_2005": 0.744,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05105",
+      "commune": "Puchuncaví",
+      "province": "Valparaíso",
+      "region": "Valparaíso",
+      "area_km2": 300,
+      "population_2024": 22539,
+      "hdi_2005": 0.734,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05107",
+      "commune": "Quintero",
+      "province": "Valparaíso",
+      "region": "Valparaíso",
+      "area_km2": 148,
+      "population_2024": 35754,
+      "hdi_2005": 0.733,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05109",
+      "commune": "Viña del Mar",
+      "province": "Valparaíso",
+      "region": "Valparaíso",
+      "area_km2": 121.6,
+      "population_2024": 334871,
+      "hdi_2005": 0.766,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05201",
+      "commune": "Isla de Pascua",
+      "province": "Isla de Pascua",
+      "region": "Valparaíso",
+      "area_km2": 163.6,
+      "population_2024": 4800,
+      "hdi_2005": 0.715,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05301",
+      "commune": "Los Andes",
+      "province": "Los Andes",
+      "region": "Valparaíso",
+      "area_km2": 1248,
+      "population_2024": 63440,
+      "hdi_2005": 0.756,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05302",
+      "commune": "Calle Larga",
+      "province": "Los Andes",
+      "region": "Valparaíso",
+      "area_km2": 321.7,
+      "population_2024": 16597,
+      "hdi_2005": 0.706,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05303",
+      "commune": "Rinconada",
+      "province": "Los Andes",
+      "region": "Valparaíso",
+      "area_km2": 122.5,
+      "population_2024": 11855,
+      "hdi_2005": 0.691,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "05304",
+      "commune": "San Esteban",
+      "province": "Los Andes",
+      "region": "Valparaíso",
+      "area_km2": 1361.6,
+      "population_2024": 20112,
+      "hdi_2005": 0.732,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05401",
+      "commune": "La Ligua",
+      "province": "Petorca",
+      "region": "Valparaíso",
+      "area_km2": 1163,
+      "population_2024": 39270,
+      "hdi_2005": 0.708,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05402",
+      "commune": "Cabildo",
+      "province": "Petorca",
+      "region": "Valparaíso",
+      "area_km2": 1455,
+      "population_2024": 20015,
+      "hdi_2005": 0.671,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "05403",
+      "commune": "Papudo",
+      "province": "Petorca",
+      "region": "Valparaíso",
+      "area_km2": 64.3,
+      "population_2024": 7561,
+      "hdi_2005": 0.734,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05404",
+      "commune": "Petorca",
+      "province": "Petorca",
+      "region": "Valparaíso",
+      "area_km2": 1517,
+      "population_2024": 10206,
+      "hdi_2005": 0.696,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "05405",
+      "commune": "Zapallar",
+      "province": "Petorca",
+      "region": "Valparaíso",
+      "area_km2": 288,
+      "population_2024": 7980,
+      "hdi_2005": 0.743,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05501",
+      "commune": "Quillota",
+      "province": "Quillota",
+      "region": "Valparaíso",
+      "area_km2": 302,
+      "population_2024": 96753,
+      "hdi_2005": 0.726,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05502",
+      "commune": "La Calera",
+      "province": "Quillota",
+      "region": "Valparaíso",
+      "area_km2": 60.5,
+      "population_2024": 50631,
+      "hdi_2005": 0.7,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05503",
+      "commune": "Hijuelas",
+      "province": "Quillota",
+      "region": "Valparaíso",
+      "area_km2": 267,
+      "population_2024": 19286,
+      "hdi_2005": 0.672,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "05504",
+      "commune": "La Cruz",
+      "province": "Quillota",
+      "region": "Valparaíso",
+      "area_km2": 78,
+      "population_2024": 24939,
+      "hdi_2005": 0.763,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05506",
+      "commune": "Nogales",
+      "province": "Quillota",
+      "region": "Valparaíso",
+      "area_km2": 405,
+      "population_2024": 22136,
+      "hdi_2005": 0.689,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "05601",
+      "commune": "San Antonio",
+      "province": "San Antonio",
+      "region": "Valparaíso",
+      "area_km2": 405,
+      "population_2024": 96770,
+      "hdi_2005": 0.697,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "05602",
+      "commune": "Algarrobo",
+      "province": "San Antonio",
+      "region": "Valparaíso",
+      "area_km2": 176,
+      "population_2024": 16076,
+      "hdi_2005": "",
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05603",
+      "commune": "Cartagena",
+      "province": "San Antonio",
+      "region": "Valparaíso",
+      "area_km2": 246,
+      "population_2024": 24599,
+      "hdi_2005": 0.708,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05604",
+      "commune": "El Quisco",
+      "province": "San Antonio",
+      "region": "Valparaíso",
+      "area_km2": 51,
+      "population_2024": 18971,
+      "hdi_2005": 0.745,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05605",
+      "commune": "El Tabo",
+      "province": "San Antonio",
+      "region": "Valparaíso",
+      "area_km2": 99,
+      "population_2024": 16260,
+      "hdi_2005": 0.747,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05606",
+      "commune": "Santo Domingo",
+      "province": "San Antonio",
+      "region": "Valparaíso",
+      "area_km2": 536,
+      "population_2024": 13171,
+      "hdi_2005": 0.751,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05701",
+      "commune": "San Felipe",
+      "province": "San Felipe de Aconcagua",
+      "region": "Valparaíso",
+      "area_km2": 186,
+      "population_2024": 80413,
+      "hdi_2005": 0.73,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05702",
+      "commune": "Catemu",
+      "province": "San Felipe de Aconcagua",
+      "region": "Valparaíso",
+      "area_km2": 361.6,
+      "population_2024": 13760,
+      "hdi_2005": 0.669,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "05703",
+      "commune": "Llay-Llay",
+      "province": "San Felipe de Aconcagua",
+      "region": "Valparaíso",
+      "area_km2": 349.1,
+      "population_2024": 24484,
+      "hdi_2005": 0.676,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "05704",
+      "commune": "Panquehue",
+      "province": "San Felipe de Aconcagua",
+      "region": "Valparaíso",
+      "area_km2": 121.9,
+      "population_2024": 7269,
+      "hdi_2005": 0.696,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "05705",
+      "commune": "Putaendo",
+      "province": "San Felipe de Aconcagua",
+      "region": "Valparaíso",
+      "area_km2": 1474,
+      "population_2024": 17336,
+      "hdi_2005": 0.674,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "05706",
+      "commune": "Santa María",
+      "province": "San Felipe de Aconcagua",
+      "region": "Valparaíso",
+      "area_km2": 166.3,
+      "population_2024": 15134,
+      "hdi_2005": 0.699,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "05801",
+      "commune": "Quilpué",
+      "province": "Marga Marga",
+      "region": "Valparaíso",
+      "area_km2": 536.9,
+      "population_2024": 162559,
+      "hdi_2005": 0.752,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05802",
+      "commune": "Limache",
+      "province": "Marga Marga",
+      "region": "Valparaíso",
+      "area_km2": 294,
+      "population_2024": 56145,
+      "hdi_2005": 0.722,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05803",
+      "commune": "Olmué",
+      "province": "Marga Marga",
+      "region": "Valparaíso",
+      "area_km2": 232,
+      "population_2024": 19778,
+      "hdi_2005": 0.701,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "05804",
+      "commune": "Villa Alemana",
+      "province": "Marga Marga",
+      "region": "Valparaíso",
+      "area_km2": 97,
+      "population_2024": 139571,
+      "hdi_2005": 0.755,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "06101",
+      "commune": "Rancagua",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 260.3,
+      "population_2024": 257744,
+      "hdi_2005": 0.732,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "06102",
+      "commune": "Codegua",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 287,
+      "population_2024": 13955,
+      "hdi_2005": 0.706,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "06103",
+      "commune": "Coinco",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 98,
+      "population_2024": 7916,
+      "hdi_2005": 0.678,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06104",
+      "commune": "Coltauco",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 225,
+      "population_2024": 21373,
+      "hdi_2005": 0.644,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06105",
+      "commune": "Doñihue",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 78,
+      "population_2024": 21925,
+      "hdi_2005": 0.685,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06106",
+      "commune": "Graneros",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 113,
+      "population_2024": 35938,
+      "hdi_2005": 0.691,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06107",
+      "commune": "Las Cabras",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 749,
+      "population_2024": 27554,
+      "hdi_2005": 0.661,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06108",
+      "commune": "Machalí",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 2597,
+      "population_2024": 60875,
+      "hdi_2005": 0.73,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "06109",
+      "commune": "Malloa",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 113,
+      "population_2024": 13882,
+      "hdi_2005": 0.649,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06110",
+      "commune": "Mostazal",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 524,
+      "population_2024": 27394,
+      "hdi_2005": 0.691,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06111",
+      "commune": "Olivar",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 45,
+      "population_2024": 13901,
+      "hdi_2005": 0.661,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06112",
+      "commune": "Peumo",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 153.1,
+      "population_2024": 14243,
+      "hdi_2005": 0.674,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06113",
+      "commune": "Pichidegua",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 320,
+      "population_2024": 20363,
+      "hdi_2005": 0.652,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06114",
+      "commune": "Quinta de Tilcoco",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 93,
+      "population_2024": 13558,
+      "hdi_2005": 0.678,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06115",
+      "commune": "Rengo",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 755,
+      "population_2024": 63620,
+      "hdi_2005": 0.68,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06116",
+      "commune": "Requínoa",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 673,
+      "population_2024": 29508,
+      "hdi_2005": 0.668,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06117",
+      "commune": "San Vicente",
+      "province": "Cachapoal",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 497.8,
+      "population_2024": 49559,
+      "hdi_2005": 0.694,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06201",
+      "commune": "Pichilemu",
+      "province": "Cardenal Caro",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 749.1,
+      "population_2024": 19847,
+      "hdi_2005": 0.677,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06202",
+      "commune": "La Estrella",
+      "province": "Cardenal Caro",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 435,
+      "population_2024": 4609,
+      "hdi_2005": 0.696,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06203",
+      "commune": "Litueche",
+      "province": "Cardenal Caro",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 619,
+      "population_2024": 8852,
+      "hdi_2005": 0.645,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06204",
+      "commune": "Marchigüe",
+      "province": "Cardenal Caro",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 660,
+      "population_2024": 8715,
+      "hdi_2005": 0.67,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06205",
+      "commune": "Navidad",
+      "province": "Cardenal Caro",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 300,
+      "population_2024": 8885,
+      "hdi_2005": 0.651,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06206",
+      "commune": "Paredones",
+      "province": "Cardenal Caro",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 562,
+      "population_2024": 7228,
+      "hdi_2005": 0.628,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06301",
+      "commune": "San Fernando",
+      "province": "Colchagua",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 2441,
+      "population_2024": 75585,
+      "hdi_2005": 0.725,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "06302",
+      "commune": "Chépica",
+      "province": "Colchagua",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 503,
+      "population_2024": 15668,
+      "hdi_2005": 0.637,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06303",
+      "commune": "Chimbarongo",
+      "province": "Colchagua",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 498,
+      "population_2024": 37258,
+      "hdi_2005": 0.674,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06304",
+      "commune": "Lolol",
+      "province": "Colchagua",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 597,
+      "population_2024": 7791,
+      "hdi_2005": 0.628,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06305",
+      "commune": "Nancagua",
+      "province": "Colchagua",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 111,
+      "population_2024": 18723,
+      "hdi_2005": 0.665,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06306",
+      "commune": "Palmilla",
+      "province": "Colchagua",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 237,
+      "population_2024": 13060,
+      "hdi_2005": 0.676,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06307",
+      "commune": "Peralillo",
+      "province": "Colchagua",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 282.6,
+      "population_2024": 12493,
+      "hdi_2005": 0.653,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06308",
+      "commune": "Placilla",
+      "province": "Colchagua",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 146.9,
+      "population_2024": 9438,
+      "hdi_2005": 0.621,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06309",
+      "commune": "Pumanque",
+      "province": "Colchagua",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 441,
+      "population_2024": 4559,
+      "hdi_2005": 0.635,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "06310",
+      "commune": "Santa Cruz",
+      "province": "Colchagua",
+      "region": "Lib. Gral. Bernardo O'Higgins",
+      "area_km2": 419.5,
+      "population_2024": 41209,
+      "hdi_2005": 0.719,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "07101",
+      "commune": "Talca",
+      "province": "Talca",
+      "region": "Maule",
+      "area_km2": 232,
+      "population_2024": 232131,
+      "hdi_2005": 0.731,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "07102",
+      "commune": "Constitución",
+      "province": "Talca",
+      "region": "Maule",
+      "area_km2": 1344,
+      "population_2024": 47004,
+      "hdi_2005": 0.715,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "07103",
+      "commune": "Curepto",
+      "province": "Talca",
+      "region": "Maule",
+      "area_km2": 1073.8,
+      "population_2024": 9519,
+      "hdi_2005": 0.644,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07104",
+      "commune": "Empedrado",
+      "province": "Talca",
+      "region": "Maule",
+      "area_km2": 565,
+      "population_2024": 3990,
+      "hdi_2005": 0.637,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07105",
+      "commune": "Maule",
+      "province": "Talca",
+      "region": "Maule",
+      "area_km2": 190,
+      "population_2024": 61081,
+      "hdi_2005": 0.681,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07106",
+      "commune": "Pelarco",
+      "province": "Talca",
+      "region": "Maule",
+      "area_km2": 332,
+      "population_2024": 9229,
+      "hdi_2005": 0.653,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07107",
+      "commune": "Pencahue",
+      "province": "Talca",
+      "region": "Maule",
+      "area_km2": 956.8,
+      "population_2024": 9181,
+      "hdi_2005": 0.649,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07108",
+      "commune": "Río Claro",
+      "province": "Talca",
+      "region": "Maule",
+      "area_km2": 431,
+      "population_2024": 14276,
+      "hdi_2005": 0.671,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07109",
+      "commune": "San Clemente",
+      "province": "Talca",
+      "region": "Maule",
+      "area_km2": 4504,
+      "population_2024": 47380,
+      "hdi_2005": 0.659,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07110",
+      "commune": "San Rafael",
+      "province": "Talca",
+      "region": "Maule",
+      "area_km2": 263.5,
+      "population_2024": 11230,
+      "hdi_2005": 0.629,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07201",
+      "commune": "Cauquenes",
+      "province": "Cauquenes",
+      "region": "Maule",
+      "area_km2": 2216,
+      "population_2024": 42798,
+      "hdi_2005": 0.656,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07202",
+      "commune": "Chanco",
+      "province": "Cauquenes",
+      "region": "Maule",
+      "area_km2": 530,
+      "population_2024": 9446,
+      "hdi_2005": 0.612,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07203",
+      "commune": "Pelluhue",
+      "province": "Cauquenes",
+      "region": "Maule",
+      "area_km2": 371,
+      "population_2024": 8578,
+      "hdi_2005": 0.694,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07301",
+      "commune": "Curicó",
+      "province": "Curicó",
+      "region": "Maule",
+      "area_km2": 1328,
+      "population_2024": 159968,
+      "hdi_2005": 0.71,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "07302",
+      "commune": "Hualañé",
+      "province": "Curicó",
+      "region": "Maule",
+      "area_km2": 629,
+      "population_2024": 10775,
+      "hdi_2005": 0.631,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07303",
+      "commune": "Licantén",
+      "province": "Curicó",
+      "region": "Maule",
+      "area_km2": 273,
+      "population_2024": 6892,
+      "hdi_2005": 0.705,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "07304",
+      "commune": "Molina",
+      "province": "Curicó",
+      "region": "Maule",
+      "area_km2": 1552,
+      "population_2024": 48949,
+      "hdi_2005": 0.663,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07305",
+      "commune": "Rauco",
+      "province": "Curicó",
+      "region": "Maule",
+      "area_km2": 309,
+      "population_2024": 11266,
+      "hdi_2005": 0.659,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07306",
+      "commune": "Romeral",
+      "province": "Curicó",
+      "region": "Maule",
+      "area_km2": 1597,
+      "population_2024": 17233,
+      "hdi_2005": 0.668,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07307",
+      "commune": "Sagrada Familia",
+      "province": "Curicó",
+      "region": "Maule",
+      "area_km2": 548.8,
+      "population_2024": 19427,
+      "hdi_2005": 0.672,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07308",
+      "commune": "Teno",
+      "province": "Curicó",
+      "region": "Maule",
+      "area_km2": 618.4,
+      "population_2024": 30113,
+      "hdi_2005": 0.648,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07309",
+      "commune": "Vichuquén",
+      "province": "Curicó",
+      "region": "Maule",
+      "area_km2": 426,
+      "population_2024": 4716,
+      "hdi_2005": 0.678,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07401",
+      "commune": "Linares",
+      "province": "Linares",
+      "region": "Maule",
+      "area_km2": 1466,
+      "population_2024": 96744,
+      "hdi_2005": 0.71,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "07402",
+      "commune": "Colbún",
+      "province": "Linares",
+      "region": "Maule",
+      "area_km2": 2899.9,
+      "population_2024": 22637,
+      "hdi_2005": 0.638,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07403",
+      "commune": "Longaví",
+      "province": "Linares",
+      "region": "Maule",
+      "area_km2": 1454,
+      "population_2024": 33209,
+      "hdi_2005": 0.626,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07404",
+      "commune": "Parral",
+      "province": "Linares",
+      "region": "Maule",
+      "area_km2": 1638,
+      "population_2024": 45323,
+      "hdi_2005": 0.656,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07405",
+      "commune": "Retiro",
+      "province": "Linares",
+      "region": "Maule",
+      "area_km2": 827,
+      "population_2024": 22310,
+      "hdi_2005": 0.649,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07406",
+      "commune": "San Javier",
+      "province": "Linares",
+      "region": "Maule",
+      "area_km2": 1313,
+      "population_2024": 49559,
+      "hdi_2005": 0.654,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07407",
+      "commune": "Villa Alegre",
+      "province": "Linares",
+      "region": "Maule",
+      "area_km2": 190,
+      "population_2024": 17919,
+      "hdi_2005": 0.648,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "07408",
+      "commune": "Yerbas Buenas",
+      "province": "Linares",
+      "region": "Maule",
+      "area_km2": 262,
+      "population_2024": 20035,
+      "hdi_2005": 0.64,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "16101",
+      "commune": "Chillán",
+      "province": "Diguillín",
+      "region": "Ñuble",
+      "area_km2": 511.2,
+      "population_2024": 190382,
+      "hdi_2005": 0.714,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "16102",
+      "commune": "Bulnes",
+      "province": "Diguillín",
+      "region": "Ñuble",
+      "area_km2": 425.4,
+      "population_2024": 23863,
+      "hdi_2005": 0.626,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "16103",
+      "commune": "Chillán Viejo",
+      "province": "Diguillín",
+      "region": "Ñuble",
+      "area_km2": 291.8,
+      "population_2024": 32688,
+      "hdi_2005": 0.732,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "16104",
+      "commune": "El Carmen",
+      "province": "Diguillín",
+      "region": "Ñuble",
+      "area_km2": 664.3,
+      "population_2024": 13186,
+      "hdi_2005": 0.611,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "16105",
+      "commune": "Pemuco",
+      "province": "Diguillín",
+      "region": "Ñuble",
+      "area_km2": 562.7,
+      "population_2024": 8930,
+      "hdi_2005": 0.631,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "16106",
+      "commune": "Pinto",
+      "province": "Diguillín",
+      "region": "Ñuble",
+      "area_km2": 1164,
+      "population_2024": 12502,
+      "hdi_2005": 0.618,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "16107",
+      "commune": "Quillón",
+      "province": "Diguillín",
+      "region": "Ñuble",
+      "area_km2": 423,
+      "population_2024": 19165,
+      "hdi_2005": 0.59,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "16108",
+      "commune": "San Ignacio",
+      "province": "Diguillín",
+      "region": "Ñuble",
+      "area_km2": 363.6,
+      "population_2024": 17405,
+      "hdi_2005": 0.618,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "16109",
+      "commune": "Yungay",
+      "province": "Diguillín",
+      "region": "Ñuble",
+      "area_km2": 823.5,
+      "population_2024": 18680,
+      "hdi_2005": 0.669,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "16201",
+      "commune": "Quirihue",
+      "province": "Itata",
+      "region": "Ñuble",
+      "area_km2": 589,
+      "population_2024": 11746,
+      "hdi_2005": 0.594,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "16202",
+      "commune": "Cobquecura",
+      "province": "Itata",
+      "region": "Ñuble",
+      "area_km2": 570.3,
+      "population_2024": 5495,
+      "hdi_2005": 0.633,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "16203",
+      "commune": "Coelemu",
+      "province": "Itata",
+      "region": "Ñuble",
+      "area_km2": 342.3,
+      "population_2024": 15895,
+      "hdi_2005": 0.611,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "16204",
+      "commune": "Ninhue",
+      "province": "Itata",
+      "region": "Ñuble",
+      "area_km2": 401.2,
+      "population_2024": 5763,
+      "hdi_2005": 0.569,
+      "hdi_level_2005": "Bajo medio"
+    },
+    {
+      "cut": "16205",
+      "commune": "Portezuelo",
+      "province": "Itata",
+      "region": "Ñuble",
+      "area_km2": 282.3,
+      "population_2024": 5203,
+      "hdi_2005": 0.599,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "16206",
+      "commune": "Ránquil",
+      "province": "Itata",
+      "region": "Ñuble",
+      "area_km2": 248.3,
+      "population_2024": 6508,
+      "hdi_2005": 0.586,
+      "hdi_level_2005": "Bajo alto"
+    },
+    {
+      "cut": "16207",
+      "commune": "Treguaco",
+      "province": "Itata",
+      "region": "Ñuble",
+      "area_km2": 313.1,
+      "population_2024": 6124,
+      "hdi_2005": 0.562,
+      "hdi_level_2005": "Bajo medio"
+    },
+    {
+      "cut": "16301",
+      "commune": "San Carlos",
+      "province": "Punilla",
+      "region": "Ñuble",
+      "area_km2": 874,
+      "population_2024": 55847,
+      "hdi_2005": 0.653,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "16302",
+      "commune": "Coihueco",
+      "province": "Punilla",
+      "region": "Ñuble",
+      "area_km2": 1776.6,
+      "population_2024": 29766,
+      "hdi_2005": 0.639,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "16303",
+      "commune": "Ñiquén",
+      "province": "Punilla",
+      "region": "Ñuble",
+      "area_km2": 493.1,
+      "population_2024": 12797,
+      "hdi_2005": 0.629,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "16304",
+      "commune": "San Fabián",
+      "province": "Punilla",
+      "region": "Ñuble",
+      "area_km2": 1568.3,
+      "population_2024": 4245,
+      "hdi_2005": 0.618,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "16305",
+      "commune": "San Nicolás",
+      "province": "Punilla",
+      "region": "Ñuble",
+      "area_km2": 490.5,
+      "population_2024": 15099,
+      "hdi_2005": 0.625,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08101",
+      "commune": "Concepción",
+      "province": "Concepción",
+      "region": "Biobío",
+      "area_km2": 221.6,
+      "population_2024": 230375,
+      "hdi_2005": 0.757,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "08102",
+      "commune": "Coronel",
+      "province": "Concepción",
+      "region": "Biobío",
+      "area_km2": 279.4,
+      "population_2024": 123648,
+      "hdi_2005": 0.682,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08103",
+      "commune": "Chiguayante",
+      "province": "Concepción",
+      "region": "Biobío",
+      "area_km2": 71.5,
+      "population_2024": 85822,
+      "hdi_2005": 0.764,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "08104",
+      "commune": "Florida",
+      "province": "Concepción",
+      "region": "Biobío",
+      "area_km2": 608.6,
+      "population_2024": 12958,
+      "hdi_2005": 0.604,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08105",
+      "commune": "Hualqui",
+      "province": "Concepción",
+      "region": "Biobío",
+      "area_km2": 530.5,
+      "population_2024": 25798,
+      "hdi_2005": 0.666,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08106",
+      "commune": "Lota",
+      "province": "Concepción",
+      "region": "Biobío",
+      "area_km2": 135.8,
+      "population_2024": 39980,
+      "hdi_2005": 0.643,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08107",
+      "commune": "Penco",
+      "province": "Concepción",
+      "region": "Biobío",
+      "area_km2": 107.6,
+      "population_2024": 48971,
+      "hdi_2005": 0.689,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08108",
+      "commune": "San Pedro de La Paz",
+      "province": "Concepción",
+      "region": "Biobío",
+      "area_km2": 112.5,
+      "population_2024": 150992,
+      "hdi_2005": 0.787,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "08109",
+      "commune": "Santa Juana",
+      "province": "Concepción",
+      "region": "Biobío",
+      "area_km2": 731.2,
+      "population_2024": 14947,
+      "hdi_2005": 0.626,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08110",
+      "commune": "Talcahuano",
+      "province": "Concepción",
+      "region": "Biobío",
+      "area_km2": 92.3,
+      "population_2024": 147322,
+      "hdi_2005": 0.731,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "08111",
+      "commune": "Tomé",
+      "province": "Concepción",
+      "region": "Biobío",
+      "area_km2": 494.5,
+      "population_2024": 56907,
+      "hdi_2005": 0.668,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08112",
+      "commune": "Hualpén",
+      "province": "Concepción",
+      "region": "Biobío",
+      "area_km2": 53.5,
+      "population_2024": 87731,
+      "hdi_2005": 0.712,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "08201",
+      "commune": "Lebu",
+      "province": "Arauco",
+      "region": "Biobío",
+      "area_km2": 561.4,
+      "population_2024": 25247,
+      "hdi_2005": 0.633,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08202",
+      "commune": "Arauco",
+      "province": "Arauco",
+      "region": "Biobío",
+      "area_km2": 956.1,
+      "population_2024": 37173,
+      "hdi_2005": 0.704,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "08203",
+      "commune": "Cañete",
+      "province": "Arauco",
+      "region": "Biobío",
+      "area_km2": 1089.2,
+      "population_2024": 34640,
+      "hdi_2005": 0.641,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08204",
+      "commune": "Contulmo",
+      "province": "Arauco",
+      "region": "Biobío",
+      "area_km2": 638.8,
+      "population_2024": 5905,
+      "hdi_2005": 0.603,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08205",
+      "commune": "Curanilahue",
+      "province": "Arauco",
+      "region": "Biobío",
+      "area_km2": 994.3,
+      "population_2024": 31119,
+      "hdi_2005": 0.643,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08206",
+      "commune": "Los Álamos",
+      "province": "Arauco",
+      "region": "Biobío",
+      "area_km2": 599.1,
+      "population_2024": 21950,
+      "hdi_2005": 0.645,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08207",
+      "commune": "Tirúa",
+      "province": "Arauco",
+      "region": "Biobío",
+      "area_km2": 624.4,
+      "population_2024": 10208,
+      "hdi_2005": 0.584,
+      "hdi_level_2005": "Bajo alto"
+    },
+    {
+      "cut": "08301",
+      "commune": "Los Ángeles",
+      "province": "Biobío",
+      "region": "Biobío",
+      "area_km2": 1748.2,
+      "population_2024": 219441,
+      "hdi_2005": 0.696,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08302",
+      "commune": "Antuco",
+      "province": "Biobío",
+      "region": "Biobío",
+      "area_km2": 1884.1,
+      "population_2024": 4373,
+      "hdi_2005": 0.662,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08303",
+      "commune": "Cabrero",
+      "province": "Biobío",
+      "region": "Biobío",
+      "area_km2": 639.8,
+      "population_2024": 31256,
+      "hdi_2005": 0.635,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08304",
+      "commune": "Laja",
+      "province": "Biobío",
+      "region": "Biobío",
+      "area_km2": 339.8,
+      "population_2024": 23706,
+      "hdi_2005": 0.665,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08305",
+      "commune": "Mulchén",
+      "province": "Biobío",
+      "region": "Biobío",
+      "area_km2": 1925.3,
+      "population_2024": 29036,
+      "hdi_2005": 0.639,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08306",
+      "commune": "Nacimiento",
+      "province": "Biobío",
+      "region": "Biobío",
+      "area_km2": 934.9,
+      "population_2024": 26140,
+      "hdi_2005": 0.656,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08307",
+      "commune": "Negrete",
+      "province": "Biobío",
+      "region": "Biobío",
+      "area_km2": 156.5,
+      "population_2024": 10723,
+      "hdi_2005": 0.629,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08308",
+      "commune": "Quilaco",
+      "province": "Biobío",
+      "region": "Biobío",
+      "area_km2": 1123.7,
+      "population_2024": 4440,
+      "hdi_2005": 0.635,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08309",
+      "commune": "Quilleco",
+      "province": "Biobío",
+      "region": "Biobío",
+      "area_km2": 1121.8,
+      "population_2024": 9700,
+      "hdi_2005": 0.641,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08310",
+      "commune": "San Rosendo",
+      "province": "Biobío",
+      "region": "Biobío",
+      "area_km2": 92.4,
+      "population_2024": 3575,
+      "hdi_2005": 0.647,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08311",
+      "commune": "Santa Bárbara",
+      "province": "Biobío",
+      "region": "Biobío",
+      "area_km2": 1254.9,
+      "population_2024": 14075,
+      "hdi_2005": 0.637,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08312",
+      "commune": "Tucapel",
+      "province": "Biobío",
+      "region": "Biobío",
+      "area_km2": 914.9,
+      "population_2024": 15729,
+      "hdi_2005": 0.655,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "08313",
+      "commune": "Yumbel",
+      "province": "Biobío",
+      "region": "Biobío",
+      "area_km2": 727,
+      "population_2024": 23170,
+      "hdi_2005": 0.597,
+      "hdi_level_2005": "Bajo alto"
+    },
+    {
+      "cut": "08314",
+      "commune": "Alto Biobío",
+      "province": "Biobío",
+      "region": "Biobío",
+      "area_km2": 2124.6,
+      "population_2024": 6016,
+      "hdi_2005": "",
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09101",
+      "commune": "Temuco",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 464,
+      "population_2024": 292518,
+      "hdi_2005": 0.763,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "09102",
+      "commune": "Carahue",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 1340.6,
+      "population_2024": 24957,
+      "hdi_2005": 0.604,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09103",
+      "commune": "Cunco",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 1906.5,
+      "population_2024": 19177,
+      "hdi_2005": 0.659,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09104",
+      "commune": "Curarrehue",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 1170.7,
+      "population_2024": 7733,
+      "hdi_2005": 0.603,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09105",
+      "commune": "Freire",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 935.2,
+      "population_2024": 26164,
+      "hdi_2005": 0.614,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09106",
+      "commune": "Galvarino",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 568.2,
+      "population_2024": 12710,
+      "hdi_2005": 0.611,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09107",
+      "commune": "Gorbea",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 694.5,
+      "population_2024": 14148,
+      "hdi_2005": 0.644,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09108",
+      "commune": "Lautaro",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 901.1,
+      "population_2024": 41936,
+      "hdi_2005": 0.669,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09109",
+      "commune": "Loncoche",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 976.8,
+      "population_2024": 25158,
+      "hdi_2005": 0.652,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09110",
+      "commune": "Melipeuco",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 1107.3,
+      "population_2024": 6796,
+      "hdi_2005": 0.629,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09111",
+      "commune": "Nueva Imperial",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 732.5,
+      "population_2024": 33988,
+      "hdi_2005": 0.629,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09112",
+      "commune": "Padre Las Casas",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 400.7,
+      "population_2024": 80656,
+      "hdi_2005": 0.662,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09113",
+      "commune": "Perquenco",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 330.7,
+      "population_2024": 7438,
+      "hdi_2005": 0.63,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09114",
+      "commune": "Pitrufquén",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 580.7,
+      "population_2024": 27041,
+      "hdi_2005": 0.663,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09115",
+      "commune": "Pucón",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 1248.5,
+      "population_2024": 32321,
+      "hdi_2005": 0.767,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "09116",
+      "commune": "Saavedra",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 400.8,
+      "population_2024": 12877,
+      "hdi_2005": 0.574,
+      "hdi_level_2005": "Bajo medio"
+    },
+    {
+      "cut": "09117",
+      "commune": "Teodoro Schmidt",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 649.9,
+      "population_2024": 15639,
+      "hdi_2005": 0.607,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09118",
+      "commune": "Toltén",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 860.4,
+      "population_2024": 10041,
+      "hdi_2005": 0.617,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09119",
+      "commune": "Vilcún",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 1420.9,
+      "population_2024": 31575,
+      "hdi_2005": 0.643,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09120",
+      "commune": "Villarrica",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 1291.1,
+      "population_2024": 67737,
+      "hdi_2005": 0.698,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09121",
+      "commune": "Cholchol",
+      "province": "Cautín",
+      "region": "La Araucanía",
+      "area_km2": 427.9,
+      "population_2024": 13167,
+      "hdi_2005": "",
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "09201",
+      "commune": "Angol",
+      "province": "Malleco",
+      "region": "La Araucanía",
+      "area_km2": 1194.4,
+      "population_2024": 53022,
+      "hdi_2005": 0.707,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "09202",
+      "commune": "Collipulli",
+      "province": "Malleco",
+      "region": "La Araucanía",
+      "area_km2": 1295.9,
+      "population_2024": 24303,
+      "hdi_2005": 0.633,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09203",
+      "commune": "Curacautín",
+      "province": "Malleco",
+      "region": "La Araucanía",
+      "area_km2": 1664,
+      "population_2024": 18536,
+      "hdi_2005": 0.657,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09204",
+      "commune": "Ercilla",
+      "province": "Malleco",
+      "region": "La Araucanía",
+      "area_km2": 499.7,
+      "population_2024": 7730,
+      "hdi_2005": 0.609,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09205",
+      "commune": "Lonquimay",
+      "province": "Malleco",
+      "region": "La Araucanía",
+      "area_km2": 3914.2,
+      "population_2024": 10247,
+      "hdi_2005": 0.629,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09206",
+      "commune": "Los Sauces",
+      "province": "Malleco",
+      "region": "La Araucanía",
+      "area_km2": 849.8,
+      "population_2024": 7348,
+      "hdi_2005": 0.602,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09207",
+      "commune": "Lumaco",
+      "province": "Malleco",
+      "region": "La Araucanía",
+      "area_km2": 1119,
+      "population_2024": 9253,
+      "hdi_2005": 0.603,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09208",
+      "commune": "Purén",
+      "province": "Malleco",
+      "region": "La Araucanía",
+      "area_km2": 464.9,
+      "population_2024": 12184,
+      "hdi_2005": 0.594,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09209",
+      "commune": "Renaico",
+      "province": "Malleco",
+      "region": "La Araucanía",
+      "area_km2": 267.4,
+      "population_2024": 10686,
+      "hdi_2005": 0.615,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09210",
+      "commune": "Traiguén",
+      "province": "Malleco",
+      "region": "La Araucanía",
+      "area_km2": 908,
+      "population_2024": 18873,
+      "hdi_2005": 0.657,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "09211",
+      "commune": "Victoria",
+      "province": "Malleco",
+      "region": "La Araucanía",
+      "area_km2": 1256,
+      "population_2024": 34464,
+      "hdi_2005": 0.686,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "14101",
+      "commune": "Valdivia",
+      "province": "Valdivia",
+      "region": "Los Ríos",
+      "area_km2": 1016,
+      "population_2024": 170043,
+      "hdi_2005": 0.754,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "14102",
+      "commune": "Corral",
+      "province": "Valdivia",
+      "region": "Los Ríos",
+      "area_km2": 767,
+      "population_2024": 5501,
+      "hdi_2005": 0.658,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "14103",
+      "commune": "Lanco",
+      "province": "Valdivia",
+      "region": "Los Ríos",
+      "area_km2": 532.4,
+      "population_2024": 16876,
+      "hdi_2005": 0.648,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "14104",
+      "commune": "Los Lagos",
+      "province": "Valdivia",
+      "region": "Los Ríos",
+      "area_km2": 1791.2,
+      "population_2024": 21431,
+      "hdi_2005": 0.658,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "14105",
+      "commune": "Máfil",
+      "province": "Valdivia",
+      "region": "Los Ríos",
+      "area_km2": 583,
+      "population_2024": 8074,
+      "hdi_2005": 0.655,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "14106",
+      "commune": "Mariquina",
+      "province": "Valdivia",
+      "region": "Los Ríos",
+      "area_km2": 1320.5,
+      "population_2024": 22973,
+      "hdi_2005": 0.653,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "14107",
+      "commune": "Paillaco",
+      "province": "Valdivia",
+      "region": "Los Ríos",
+      "area_km2": 896,
+      "population_2024": 19802,
+      "hdi_2005": 0.647,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "14108",
+      "commune": "Panguipulli",
+      "province": "Valdivia",
+      "region": "Los Ríos",
+      "area_km2": 3292,
+      "population_2024": 35098,
+      "hdi_2005": 0.627,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "14201",
+      "commune": "La Unión",
+      "province": "Ranco",
+      "region": "Los Ríos",
+      "area_km2": 2137,
+      "population_2024": 38907,
+      "hdi_2005": 0.687,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "14202",
+      "commune": "Futrono",
+      "province": "Ranco",
+      "region": "Los Ríos",
+      "area_km2": 2267.5,
+      "population_2024": 15635,
+      "hdi_2005": 0.637,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "14203",
+      "commune": "Lago Ranco",
+      "province": "Ranco",
+      "region": "Los Ríos",
+      "area_km2": 1763.3,
+      "population_2024": 10527,
+      "hdi_2005": 0.606,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "14204",
+      "commune": "Río Bueno",
+      "province": "Ranco",
+      "region": "Los Ríos",
+      "area_km2": 2211.7,
+      "population_2024": 33363,
+      "hdi_2005": 0.624,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10101",
+      "commune": "Puerto Montt",
+      "province": "Llanquihue",
+      "region": "Los Lagos",
+      "area_km2": 1673,
+      "population_2024": 277040,
+      "hdi_2005": 0.718,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "10102",
+      "commune": "Calbuco",
+      "province": "Llanquihue",
+      "region": "Los Lagos",
+      "area_km2": 590.8,
+      "population_2024": 36474,
+      "hdi_2005": 0.642,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10103",
+      "commune": "Cochamó",
+      "province": "Llanquihue",
+      "region": "Los Lagos",
+      "area_km2": 3910.8,
+      "population_2024": 4199,
+      "hdi_2005": 0.69,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10104",
+      "commune": "Fresia",
+      "province": "Llanquihue",
+      "region": "Los Lagos",
+      "area_km2": 1278.1,
+      "population_2024": 12320,
+      "hdi_2005": 0.657,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10105",
+      "commune": "Frutillar",
+      "province": "Llanquihue",
+      "region": "Los Lagos",
+      "area_km2": 831.4,
+      "population_2024": 22554,
+      "hdi_2005": 0.669,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10106",
+      "commune": "Los Muermos",
+      "province": "Llanquihue",
+      "region": "Los Lagos",
+      "area_km2": 1245.8,
+      "population_2024": 17162,
+      "hdi_2005": 0.648,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10107",
+      "commune": "Llanquihue",
+      "province": "Llanquihue",
+      "region": "Los Lagos",
+      "area_km2": 420.8,
+      "population_2024": 18088,
+      "hdi_2005": 0.695,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10108",
+      "commune": "Maullín",
+      "province": "Llanquihue",
+      "region": "Los Lagos",
+      "area_km2": 860.8,
+      "population_2024": 15063,
+      "hdi_2005": 0.691,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10109",
+      "commune": "Puerto Varas",
+      "province": "Llanquihue",
+      "region": "Los Lagos",
+      "area_km2": 4064.9,
+      "population_2024": 52942,
+      "hdi_2005": 0.748,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "10201",
+      "commune": "Castro",
+      "province": "Chiloé",
+      "region": "Los Lagos",
+      "area_km2": 472.5,
+      "population_2024": 46997,
+      "hdi_2005": 0.72,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "10202",
+      "commune": "Ancud",
+      "province": "Chiloé",
+      "region": "Los Lagos",
+      "area_km2": 1752.4,
+      "population_2024": 40949,
+      "hdi_2005": 0.705,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "10203",
+      "commune": "Chonchi",
+      "province": "Chiloé",
+      "region": "Los Lagos",
+      "area_km2": 1362.1,
+      "population_2024": 16078,
+      "hdi_2005": 0.641,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10204",
+      "commune": "Curaco de Vélez",
+      "province": "Chiloé",
+      "region": "Los Lagos",
+      "area_km2": 80,
+      "population_2024": 3662,
+      "hdi_2005": 0.702,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "10205",
+      "commune": "Dalcahue",
+      "province": "Chiloé",
+      "region": "Los Lagos",
+      "area_km2": 1239.4,
+      "population_2024": 14894,
+      "hdi_2005": 0.69,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10206",
+      "commune": "Puqueldón",
+      "province": "Chiloé",
+      "region": "Los Lagos",
+      "area_km2": 97.3,
+      "population_2024": 4048,
+      "hdi_2005": 0.628,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10207",
+      "commune": "Queilén",
+      "province": "Chiloé",
+      "region": "Los Lagos",
+      "area_km2": 332.9,
+      "population_2024": 5690,
+      "hdi_2005": 0.646,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10208",
+      "commune": "Quellón",
+      "province": "Chiloé",
+      "region": "Los Lagos",
+      "area_km2": 3244,
+      "population_2024": 28460,
+      "hdi_2005": 0.67,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10209",
+      "commune": "Quemchi",
+      "province": "Chiloé",
+      "region": "Los Lagos",
+      "area_km2": 440.3,
+      "population_2024": 8409,
+      "hdi_2005": 0.656,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10210",
+      "commune": "Quinchao",
+      "province": "Chiloé",
+      "region": "Los Lagos",
+      "area_km2": 160.7,
+      "population_2024": 7678,
+      "hdi_2005": 0.648,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10301",
+      "commune": "Osorno",
+      "province": "Osorno",
+      "region": "Los Lagos",
+      "area_km2": 951,
+      "population_2024": 166455,
+      "hdi_2005": 0.7,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "10302",
+      "commune": "Puerto Octay",
+      "province": "Osorno",
+      "region": "Los Lagos",
+      "area_km2": 1795.7,
+      "population_2024": 8865,
+      "hdi_2005": 0.679,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10303",
+      "commune": "Purranque",
+      "province": "Osorno",
+      "region": "Los Lagos",
+      "area_km2": 1458.8,
+      "population_2024": 19542,
+      "hdi_2005": 0.627,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10304",
+      "commune": "Puyehue",
+      "province": "Osorno",
+      "region": "Los Lagos",
+      "area_km2": 1597.9,
+      "population_2024": 11712,
+      "hdi_2005": 0.675,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10305",
+      "commune": "Río Negro",
+      "province": "Osorno",
+      "region": "Los Lagos",
+      "area_km2": 1265.7,
+      "population_2024": 13874,
+      "hdi_2005": 0.633,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10306",
+      "commune": "San Juan de la Costa",
+      "province": "Osorno",
+      "region": "Los Lagos",
+      "area_km2": 1517,
+      "population_2024": 7776,
+      "hdi_2005": 0.51,
+      "hdi_level_2005": "Bajo"
+    },
+    {
+      "cut": "10307",
+      "commune": "San Pablo",
+      "province": "Osorno",
+      "region": "Los Lagos",
+      "area_km2": 637.3,
+      "population_2024": 10883,
+      "hdi_2005": 0.625,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10401",
+      "commune": "Chaitén",
+      "province": "Palena",
+      "region": "Los Lagos",
+      "area_km2": 8470.5,
+      "population_2024": 4025,
+      "hdi_2005": 0.704,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "10402",
+      "commune": "Futaleufú",
+      "province": "Palena",
+      "region": "Los Lagos",
+      "area_km2": 1280,
+      "population_2024": 3062,
+      "hdi_2005": 0.665,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10403",
+      "commune": "Hualaihué",
+      "province": "Palena",
+      "region": "Los Lagos",
+      "area_km2": 2787.7,
+      "population_2024": 9480,
+      "hdi_2005": 0.659,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "10404",
+      "commune": "Palena",
+      "province": "Palena",
+      "region": "Los Lagos",
+      "area_km2": 2763.7,
+      "population_2024": 1903,
+      "hdi_2005": 0.667,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "11101",
+      "commune": "Coyhaique",
+      "province": "Coyhaique",
+      "region": "Aysén del General Carlos Ibáñez del Campo",
+      "area_km2": 7290.2,
+      "population_2024": 57823,
+      "hdi_2005": 0.751,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "11102",
+      "commune": "Lago Verde",
+      "province": "Coyhaique",
+      "region": "Aysén del General Carlos Ibáñez del Campo",
+      "area_km2": 5422.3,
+      "population_2024": 779,
+      "hdi_2005": 0.637,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "11201",
+      "commune": "Aysén",
+      "province": "Aysén",
+      "region": "Aysén del General Carlos Ibáñez del Campo",
+      "area_km2": 29796.4,
+      "population_2024": 23170,
+      "hdi_2005": 0.674,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "11202",
+      "commune": "Cisnes",
+      "province": "Aysén",
+      "region": "Aysén del General Carlos Ibáñez del Campo",
+      "area_km2": 16093,
+      "population_2024": 5137,
+      "hdi_2005": 0.725,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "11203",
+      "commune": "Guaitecas",
+      "province": "Aysén",
+      "region": "Aysén del General Carlos Ibáñez del Campo",
+      "area_km2": 620.6,
+      "population_2024": 1598,
+      "hdi_2005": 0.654,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "11301",
+      "commune": "Cochrane",
+      "province": "Capitán Prat",
+      "region": "Aysén del General Carlos Ibáñez del Campo",
+      "area_km2": 8599.5,
+      "population_2024": 3458,
+      "hdi_2005": 0.668,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "11302",
+      "commune": "O'Higgins",
+      "province": "Capitán Prat",
+      "region": "Aysén del General Carlos Ibáñez del Campo",
+      "area_km2": 8182.5,
+      "population_2024": 647,
+      "hdi_2005": 0.572,
+      "hdi_level_2005": "Bajo medio"
+    },
+    {
+      "cut": "11303",
+      "commune": "Tortel",
+      "province": "Capitán Prat",
+      "region": "Aysén del General Carlos Ibáñez del Campo",
+      "area_km2": 19710.6,
+      "population_2024": 505,
+      "hdi_2005": 0.655,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "11401",
+      "commune": "Chile Chico",
+      "province": "General Carrera",
+      "region": "Aysén del General Carlos Ibáñez del Campo",
+      "area_km2": 5737.1,
+      "population_2024": 4905,
+      "hdi_2005": 0.707,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "11402",
+      "commune": "Río Ibáñez",
+      "province": "General Carrera",
+      "region": "Aysén del General Carlos Ibáñez del Campo",
+      "area_km2": 5997.2,
+      "population_2024": 2723,
+      "hdi_2005": 0.654,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "12101",
+      "commune": "Punta Arenas",
+      "province": "Magallanes",
+      "region": "Magallanes y Antártica Chilena",
+      "area_km2": 17846.3,
+      "population_2024": 132363,
+      "hdi_2005": 0.748,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "12102",
+      "commune": "Laguna Blanca",
+      "province": "Magallanes",
+      "region": "Magallanes y Antártica Chilena",
+      "area_km2": 3695.6,
+      "population_2024": 269,
+      "hdi_2005": 0.785,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "12103",
+      "commune": "Río Verde",
+      "province": "Magallanes",
+      "region": "Magallanes y Antártica Chilena",
+      "area_km2": 17248,
+      "population_2024": 102,
+      "hdi_2005": 0.784,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "12104",
+      "commune": "San Gregorio",
+      "province": "Magallanes",
+      "region": "Magallanes y Antártica Chilena",
+      "area_km2": 6883.7,
+      "population_2024": 241,
+      "hdi_2005": 0.823,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "12201",
+      "commune": "Cabo de Hornos",
+      "province": "Antártica Chilena",
+      "region": "Magallanes y Antártica Chilena",
+      "area_km2": 15578.7,
+      "population_2024": 1750,
+      "hdi_2005": 0.806,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "12202",
+      "commune": "Antártica",
+      "province": "Antártica Chilena",
+      "region": "Magallanes y Antártica Chilena",
+      "area_km2": 1250257.6,
+      "population_2024": 60,
+      "hdi_2005": "",
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "12301",
+      "commune": "Porvenir",
+      "province": "Tierra del Fuego",
+      "region": "Magallanes y Antártica Chilena",
+      "area_km2": 9707.4,
+      "population_2024": 6809,
+      "hdi_2005": 0.731,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "12302",
+      "commune": "Primavera",
+      "province": "Tierra del Fuego",
+      "region": "Magallanes y Antártica Chilena",
+      "area_km2": 4253.4,
+      "population_2024": 431,
+      "hdi_2005": 0.774,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "12303",
+      "commune": "Timaukel",
+      "province": "Tierra del Fuego",
+      "region": "Magallanes y Antártica Chilena",
+      "area_km2": 10758.9,
+      "population_2024": 157,
+      "hdi_2005": 0.717,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "12401",
+      "commune": "Natales",
+      "province": "Última Esperanza",
+      "region": "Magallanes y Antártica Chilena",
+      "area_km2": 49924.1,
+      "population_2024": 24152,
+      "hdi_2005": 0.699,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "12402",
+      "commune": "Torres del Paine",
+      "province": "Última Esperanza",
+      "region": "Magallanes y Antártica Chilena",
+      "area_km2": 6630,
+      "population_2024": 203,
+      "hdi_2005": 0.73,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13101",
+      "commune": "Santiago",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 23.2,
+      "population_2024": 438856,
+      "hdi_2005": 0.807,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "13102",
+      "commune": "Cerrillos",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 21,
+      "population_2024": 85041,
+      "hdi_2005": 0.743,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13103",
+      "commune": "Cerro Navia",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 11,
+      "population_2024": 127250,
+      "hdi_2005": 0.683,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "13104",
+      "commune": "Conchalí",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 10.7,
+      "population_2024": 121587,
+      "hdi_2005": 0.707,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13105",
+      "commune": "El Bosque",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 14.2,
+      "population_2024": 155257,
+      "hdi_2005": 0.711,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13106",
+      "commune": "Estación Central",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 15,
+      "population_2024": 181049,
+      "hdi_2005": 0.735,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13107",
+      "commune": "Huechuraba",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 44.8,
+      "population_2024": 101808,
+      "hdi_2005": 0.737,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13108",
+      "commune": "Independencia",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 7,
+      "population_2024": 116943,
+      "hdi_2005": 0.709,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13109",
+      "commune": "La Cisterna",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 10,
+      "population_2024": 103157,
+      "hdi_2005": 0.775,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13110",
+      "commune": "La Florida",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 70.2,
+      "population_2024": 374836,
+      "hdi_2005": 0.804,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "13111",
+      "commune": "La Granja",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 10,
+      "population_2024": 112022,
+      "hdi_2005": 0.689,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "13112",
+      "commune": "La Pintana",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 30.6,
+      "population_2024": 175421,
+      "hdi_2005": 0.679,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "13113",
+      "commune": "La Reina",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 23,
+      "population_2024": 89870,
+      "hdi_2005": 0.883,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "13114",
+      "commune": "Las Condes",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 99,
+      "population_2024": 296134,
+      "hdi_2005": 0.933,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "13115",
+      "commune": "Lo Barnechea",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 1024,
+      "population_2024": 112620,
+      "hdi_2005": 0.912,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "13116",
+      "commune": "Lo Espejo",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 7,
+      "population_2024": 87295,
+      "hdi_2005": 0.657,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "13117",
+      "commune": "Lo Prado",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 7,
+      "population_2024": 91290,
+      "hdi_2005": 0.715,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13118",
+      "commune": "Macul",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 12.9,
+      "population_2024": 123800,
+      "hdi_2005": 0.806,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "13119",
+      "commune": "Maipú",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 135.5,
+      "population_2024": 503635,
+      "hdi_2005": 0.802,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "13120",
+      "commune": "Ñuñoa",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 16.9,
+      "population_2024": 241467,
+      "hdi_2005": 0.86,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "13121",
+      "commune": "Pedro Aguirre Cerda",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 10,
+      "population_2024": 96062,
+      "hdi_2005": 0.708,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13122",
+      "commune": "Peñalolén",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 54,
+      "population_2024": 236478,
+      "hdi_2005": 0.743,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13123",
+      "commune": "Providencia",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 14.3,
+      "population_2024": 143974,
+      "hdi_2005": 0.911,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "13124",
+      "commune": "Pudahuel",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 197,
+      "population_2024": 227820,
+      "hdi_2005": 0.735,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13125",
+      "commune": "Quilicura",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 58,
+      "population_2024": 205624,
+      "hdi_2005": 0.782,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13126",
+      "commune": "Quinta Normal",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 13,
+      "population_2024": 129351,
+      "hdi_2005": 0.723,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13127",
+      "commune": "Recoleta",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 16,
+      "population_2024": 154615,
+      "hdi_2005": 0.697,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13128",
+      "commune": "Renca",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 24,
+      "population_2024": 143622,
+      "hdi_2005": 0.709,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13129",
+      "commune": "San Joaquín",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 9.7,
+      "population_2024": 95602,
+      "hdi_2005": 0.719,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13130",
+      "commune": "San Miguel",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 10,
+      "population_2024": 150829,
+      "hdi_2005": 0.765,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13131",
+      "commune": "San Ramón",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 7,
+      "population_2024": 76002,
+      "hdi_2005": 0.679,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "13132",
+      "commune": "Vitacura",
+      "province": "Santiago",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 28.3,
+      "population_2024": 86420,
+      "hdi_2005": 0.949,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "13201",
+      "commune": "Puente Alto",
+      "province": "Cordillera",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 88,
+      "population_2024": 568086,
+      "hdi_2005": 0.773,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13202",
+      "commune": "Pirque",
+      "province": "Cordillera",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 445.3,
+      "population_2024": 29060,
+      "hdi_2005": 0.807,
+      "hdi_level_2005": "Muy alto"
+    },
+    {
+      "cut": "13203",
+      "commune": "San José de Maipo",
+      "province": "Cordillera",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 4994.8,
+      "population_2024": 17441,
+      "hdi_2005": 0.759,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13301",
+      "commune": "Colina",
+      "province": "Chacabuco",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 971.2,
+      "population_2024": 173293,
+      "hdi_2005": 0.726,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13302",
+      "commune": "Lampa",
+      "province": "Chacabuco",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 452,
+      "population_2024": 145160,
+      "hdi_2005": 0.697,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "13303",
+      "commune": "Til Til",
+      "province": "Chacabuco",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 653,
+      "population_2024": 19742,
+      "hdi_2005": 0.709,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13401",
+      "commune": "San Bernardo",
+      "province": "Maipo",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 155,
+      "population_2024": 306371,
+      "hdi_2005": 0.712,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13402",
+      "commune": "Buin",
+      "province": "Maipo",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 214,
+      "population_2024": 116969,
+      "hdi_2005": 0.731,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13403",
+      "commune": "Calera de Tango",
+      "province": "Maipo",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 73.3,
+      "population_2024": 25491,
+      "hdi_2005": 0.792,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13404",
+      "commune": "Paine",
+      "province": "Maipo",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 820,
+      "population_2024": 78828,
+      "hdi_2005": 0.718,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13501",
+      "commune": "Melipilla",
+      "province": "Melipilla",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 1345,
+      "population_2024": 136325,
+      "hdi_2005": 0.735,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13502",
+      "commune": "Alhué",
+      "province": "Melipilla",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 845,
+      "population_2024": 7768,
+      "hdi_2005": 0.7,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13503",
+      "commune": "Curacaví",
+      "province": "Melipilla",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 693,
+      "population_2024": 35165,
+      "hdi_2005": 0.71,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13504",
+      "commune": "María Pinto",
+      "province": "Melipilla",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 393.5,
+      "population_2024": 15352,
+      "hdi_2005": 0.698,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "13505",
+      "commune": "San Pedro",
+      "province": "Melipilla",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 788,
+      "population_2024": 11108,
+      "hdi_2005": 0.701,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13601",
+      "commune": "Talagante",
+      "province": "Talagante",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 126,
+      "population_2024": 76429,
+      "hdi_2005": 0.749,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13602",
+      "commune": "El Monte",
+      "province": "Talagante",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 118,
+      "population_2024": 37497,
+      "hdi_2005": 0.688,
+      "hdi_level_2005": "Medio"
+    },
+    {
+      "cut": "13603",
+      "commune": "Isla de Maipo",
+      "province": "Talagante",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 189,
+      "population_2024": 39274,
+      "hdi_2005": 0.724,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13604",
+      "commune": "Padre Hurtado",
+      "province": "Talagante",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 80.8,
+      "population_2024": 81243,
+      "hdi_2005": 0.728,
+      "hdi_level_2005": "Alto"
+    },
+    {
+      "cut": "13605",
+      "commune": "Peñaflor",
+      "province": "Talagante",
+      "region": "Metropolitana de Santiago",
+      "area_km2": 69,
+      "population_2024": 94402,
+      "hdi_2005": 0.753,
+      "hdi_level_2005": "Alto"
+    }
+  ],
+  "meta": {
+    "title": "Comunas de Chile: población, superficie e IDH - Free Download",
+    "description": "Las 346 comunas de Chile con su código CUT, provincia, región, superficie, población del Censo 2024 e índice de desarrollo humano (2005). Contains 346 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Comunas de Chile: población, superficie e IDH | ListBase",
+    "seo_description": "Download Comunas de Chile: población, superficie e IDH — 346 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 346 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Comunas_de_Chile"
+    ]
+  }
+}
