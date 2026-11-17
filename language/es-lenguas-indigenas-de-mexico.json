@@ -1,0 +1,673 @@
+{
+  "id": "es-lenguas-indigenas-de-mexico",
+  "name": "Lenguas indígenas de México por número de hablantes",
+  "title": "Lenguas indígenas de México por número de hablantes",
+  "description": "Lenguas indígenas de México con su familia lingüística y número de hablantes en 2020, 2015, 2010 y 2005 (datos censales del INEGI).",
+  "category": "language",
+  "source": "https://es.wikipedia.org/wiki/Lenguas_de_México",
+  "source_url": "https://es.wikipedia.org/wiki/Lenguas_de_México",
+  "updated": "2026-11",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "family",
+      "label": "Family",
+      "type": "string"
+    },
+    {
+      "key": "speakers_2020",
+      "label": "Speakers 2020",
+      "type": "number"
+    },
+    {
+      "key": "speakers_2015",
+      "label": "Speakers 2015",
+      "type": "number"
+    },
+    {
+      "key": "speakers_2010",
+      "label": "Speakers 2010",
+      "type": "number"
+    },
+    {
+      "key": "speakers_2005",
+      "label": "Speakers 2005",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "language": "Náhuatl",
+      "family": "Yutonahua",
+      "speakers_2020": 1651958,
+      "speakers_2015": 1690089,
+      "speakers_2010": 1725620,
+      "speakers_2005": 1544568
+    },
+    {
+      "no": 2,
+      "language": "Maya Yucateco",
+      "family": "Mayense",
+      "speakers_2020": 774755,
+      "speakers_2015": 859607,
+      "speakers_2010": 786113,
+      "speakers_2005": 759000
+    },
+    {
+      "no": 3,
+      "language": "Tseltal",
+      "family": "Mayense",
+      "speakers_2020": 589144,
+      "speakers_2015": 556720,
+      "speakers_2010": 445856,
+      "speakers_2005": 371730
+    },
+    {
+      "no": 4,
+      "language": "Tsotsil",
+      "family": "Mayense",
+      "speakers_2020": 550274,
+      "speakers_2015": 487898,
+      "speakers_2010": 404704,
+      "speakers_2005": 329937
+    },
+    {
+      "no": 5,
+      "language": "Mixteco",
+      "family": "Otomangue",
+      "speakers_2020": 526595,
+      "speakers_2015": 517665,
+      "speakers_2010": 471710,
+      "speakers_2005": 423216
+    },
+    {
+      "no": 6,
+      "language": "Zapoteco",
+      "family": "Otomangue",
+      "speakers_2020": 490845,
+      "speakers_2015": 479474,
+      "speakers_2010": 425123,
+      "speakers_2005": 410901
+    },
+    {
+      "no": 7,
+      "language": "Otomí",
+      "family": "Otomangue",
+      "speakers_2020": 298861,
+      "speakers_2015": 307928,
+      "speakers_2010": 284992,
+      "speakers_2005": 239850
+    },
+    {
+      "no": 8,
+      "language": "Totonaco",
+      "family": "Totonaco-Tepehua",
+      "speakers_2020": 256344,
+      "speakers_2015": 267635,
+      "speakers_2010": 244033,
+      "speakers_2005": 230930
+    },
+    {
+      "no": 9,
+      "language": "Chol",
+      "family": "Mayense",
+      "speakers_2020": 254715,
+      "speakers_2015": 251809,
+      "speakers_2010": 212117,
+      "speakers_2005": 185299
+    },
+    {
+      "no": 10,
+      "language": "Mazateco",
+      "family": "Otomangue",
+      "speakers_2020": 237212,
+      "speakers_2015": 239078,
+      "speakers_2010": 223073,
+      "speakers_2005": 206559
+    },
+    {
+      "no": 11,
+      "language": "Huasteco",
+      "family": "Mayense",
+      "speakers_2020": 168729,
+      "speakers_2015": 173765,
+      "speakers_2010": 161120,
+      "speakers_2005": 149532
+    },
+    {
+      "no": 12,
+      "language": "Mazahua",
+      "family": "Otomangue",
+      "speakers_2020": 153797,
+      "speakers_2015": 147088,
+      "speakers_2010": 135897,
+      "speakers_2005": 111840
+    },
+    {
+      "no": 13,
+      "language": "Tlapaneco",
+      "family": "Otomangue",
+      "speakers_2020": 147432,
+      "speakers_2015": 134148,
+      "speakers_2010": 120072,
+      "speakers_2005": 98573
+    },
+    {
+      "no": 14,
+      "language": "Chinanteco",
+      "family": "Otomangue",
+      "speakers_2020": 144394,
+      "speakers_2015": 138741,
+      "speakers_2010": 131382,
+      "speakers_2005": 125706
+    },
+    {
+      "no": 15,
+      "language": "Purépecha",
+      "family": "Lengua aislada",
+      "speakers_2020": 142459,
+      "speakers_2015": 141177,
+      "speakers_2010": 124494,
+      "speakers_2005": 105556
+    },
+    {
+      "no": 16,
+      "language": "Mixe",
+      "family": "Mixe-Zoque",
+      "speakers_2020": 139760,
+      "speakers_2015": 133632,
+      "speakers_2010": 132759,
+      "speakers_2005": 115824
+    },
+    {
+      "no": 17,
+      "language": "Tarahumara",
+      "family": "Yutonahua",
+      "speakers_2020": 91554,
+      "speakers_2015": 73856,
+      "speakers_2010": 85018,
+      "speakers_2005": 75371
+    },
+    {
+      "no": 18,
+      "language": "Zoque",
+      "family": "Mixe-Zoque",
+      "speakers_2020": 74018,
+      "speakers_2015": 68157,
+      "speakers_2010": 63022,
+      "speakers_2005": 63000
+    },
+    {
+      "no": 19,
+      "language": "Tojolabal",
+      "family": "Mayense",
+      "speakers_2020": 66953,
+      "speakers_2015": 55442,
+      "speakers_2010": 51733,
+      "speakers_2005": 43169
+    },
+    {
+      "no": 20,
+      "language": "Chontal de Tabasco",
+      "family": "Mayense",
+      "speakers_2020": 60563,
+      "speakers_2015": 27666,
+      "speakers_2010": 36810,
+      "speakers_2005": 43850
+    },
+    {
+      "no": 21,
+      "language": "Huichol",
+      "family": "Yutonahua",
+      "speakers_2020": 60263,
+      "speakers_2015": 52483,
+      "speakers_2010": 44788,
+      "speakers_2005": 35724
+    },
+    {
+      "no": 22,
+      "language": "Amuzgo",
+      "family": "Otomangue",
+      "speakers_2020": 59884,
+      "speakers_2015": 57589,
+      "speakers_2010": 43364,
+      "speakers_2005": 43761
+    },
+    {
+      "no": 23,
+      "language": "Chatino",
+      "family": "Otomangue",
+      "speakers_2020": 52076,
+      "speakers_2015": 51612,
+      "speakers_2010": 45019,
+      "speakers_2005": 42791
+    },
+    {
+      "no": 24,
+      "language": "Tepehuano del Sur",
+      "family": "Yutonahua",
+      "speakers_2020": 44386,
+      "speakers_2015": 36543,
+      "speakers_2010": 29481,
+      "speakers_2005": 24782
+    },
+    {
+      "no": 25,
+      "language": "Mayo",
+      "family": "Yutonahua",
+      "speakers_2020": 38507,
+      "speakers_2015": 42601,
+      "speakers_2010": 39616,
+      "speakers_2005": 32702
+    },
+    {
+      "no": 26,
+      "language": "Popoluca de la Sierra",
+      "family": "Mixe-Zoque",
+      "speakers_2020": 36113,
+      "speakers_2015": 37707,
+      "speakers_2010": 35050,
+      "speakers_2005": 28194
+    },
+    {
+      "no": 27,
+      "language": "Cora",
+      "family": "Yutonahua",
+      "speakers_2020": 33226,
+      "speakers_2015": 28718,
+      "speakers_2010": 20078,
+      "speakers_2005": 17086
+    },
+    {
+      "no": 28,
+      "language": "Triqui",
+      "family": "Otomangue",
+      "speakers_2020": 29545,
+      "speakers_2015": 25674,
+      "speakers_2010": 25883,
+      "speakers_2005": 24491
+    },
+    {
+      "no": 29,
+      "language": "Yaqui",
+      "family": "Yutonahua",
+      "speakers_2020": 19376,
+      "speakers_2015": 20340,
+      "speakers_2010": 17116,
+      "speakers_2005": 14162
+    },
+    {
+      "no": 30,
+      "language": "Huave",
+      "family": "Lengua aislada",
+      "speakers_2020": 18827,
+      "speakers_2015": 18539,
+      "speakers_2010": 17554,
+      "speakers_2005": 15993
+    },
+    {
+      "no": 31,
+      "language": "Popoloca",
+      "family": "Otomangue",
+      "speakers_2020": 17274,
+      "speakers_2015": 18206,
+      "speakers_2010": 17964,
+      "speakers_2005": 18926
+    },
+    {
+      "no": 32,
+      "language": "Cuicateco",
+      "family": "Otomangue",
+      "speakers_2020": 12961,
+      "speakers_2015": 13318,
+      "speakers_2010": 12785,
+      "speakers_2005": 12610
+    },
+    {
+      "no": 33,
+      "language": "Pame",
+      "family": "Otomangue",
+      "speakers_2020": 11924,
+      "speakers_2015": 12232,
+      "speakers_2010": 11019,
+      "speakers_2005": 9768
+    },
+    {
+      "no": 34,
+      "language": "Mam",
+      "family": "Mayense",
+      "speakers_2020": 11369,
+      "speakers_2015": 11387,
+      "speakers_2010": 10374,
+      "speakers_2005": 8739
+    },
+    {
+      "no": 35,
+      "language": "Q'anjob'al",
+      "family": "Mayense",
+      "speakers_2020": 10851,
+      "speakers_2015": 8421,
+      "speakers_2010": 9324,
+      "speakers_2005": 10883
+    },
+    {
+      "no": 36,
+      "language": "Tepehuano del Norte",
+      "family": "Yutonahua",
+      "speakers_2020": 9855,
+      "speakers_2015": 9568,
+      "speakers_2010": 8424,
+      "speakers_2005": 6809
+    },
+    {
+      "no": 37,
+      "language": "Tepehua",
+      "family": "Totonaco-Tepehua",
+      "speakers_2020": 8884,
+      "speakers_2015": 10427,
+      "speakers_2010": 8868,
+      "speakers_2005": 10625
+    },
+    {
+      "no": 38,
+      "language": "Chontal de Oaxaca",
+      "family": "Tequistlateco-Chontal",
+      "speakers_2020": 5613,
+      "speakers_2015": 5064,
+      "speakers_2010": 4465,
+      "speakers_2005": 3453
+    },
+    {
+      "no": 39,
+      "language": "Sayulteco",
+      "family": "Mixe-Zoque",
+      "speakers_2020": 4765,
+      "speakers_2015": 4117,
+      "speakers_2010": 10,
+      "speakers_2005": 8
+    },
+    {
+      "no": 40,
+      "language": "Chuj",
+      "family": "Mayense",
+      "speakers_2020": 3516,
+      "speakers_2015": 2890,
+      "speakers_2010": 2503,
+      "speakers_2005": 2143
+    },
+    {
+      "no": 41,
+      "language": "Akateko",
+      "family": "Mayense",
+      "speakers_2020": 2894,
+      "speakers_2015": 101,
+      "speakers_2010": 457,
+      "speakers_2005": 532
+    },
+    {
+      "no": 42,
+      "language": "Chichimeca Jonaz",
+      "family": "Otomangue",
+      "speakers_2020": 2364,
+      "speakers_2015": 2134,
+      "speakers_2010": 2190,
+      "speakers_2005": 1987
+    },
+    {
+      "no": 43,
+      "language": "Tlahuica",
+      "family": "Otomangue",
+      "speakers_2020": 2238,
+      "speakers_2015": 90,
+      "speakers_2010": 737,
+      "speakers_2005": 522
+    },
+    {
+      "no": 44,
+      "language": "Guarijío",
+      "family": "Yutonahua",
+      "speakers_2020": 2139,
+      "speakers_2015": 2088,
+      "speakers_2010": 2136,
+      "speakers_2005": 1905
+    },
+    {
+      "no": 45,
+      "language": "Q'eqchi'",
+      "family": "Mayense",
+      "speakers_2020": 1599,
+      "speakers_2015": 1324,
+      "speakers_2010": 1248,
+      "speakers_2005": 835
+    },
+    {
+      "no": 46,
+      "language": "Matlatzinca",
+      "family": "Otomangue",
+      "speakers_2020": 1245,
+      "speakers_2015": 1568,
+      "speakers_2010": 1096,
+      "speakers_2005": 649
+    },
+    {
+      "no": 47,
+      "language": "Pima (Nevome)",
+      "family": "Yutonahua",
+      "speakers_2020": 1037,
+      "speakers_2015": 743,
+      "speakers_2010": 851,
+      "speakers_2005": 836
+    },
+    {
+      "no": 48,
+      "language": "Chocholteco",
+      "family": "Otomangue",
+      "speakers_2020": 847,
+      "speakers_2015": 729,
+      "speakers_2010": 814,
+      "speakers_2005": 1078
+    },
+    {
+      "no": 49,
+      "language": "Lacandón",
+      "family": "Mayense",
+      "speakers_2020": 771,
+      "speakers_2015": 998,
+      "speakers_2010": 20,
+      "speakers_2005": 731
+    },
+    {
+      "no": 50,
+      "language": "Seri",
+      "family": "Lengua aislada",
+      "speakers_2020": 723,
+      "speakers_2015": 754,
+      "speakers_2010": 764,
+      "speakers_2005": 518
+    },
+    {
+      "no": 51,
+      "language": "K'iche'",
+      "family": "Mayense",
+      "speakers_2020": 589,
+      "speakers_2015": 730,
+      "speakers_2010": 389,
+      "speakers_2005": 286
+    },
+    {
+      "no": 52,
+      "language": "Kumiai",
+      "family": "yumano-cochimí",
+      "speakers_2020": 495,
+      "speakers_2015": 486,
+      "speakers_2010": 289,
+      "speakers_2005": 185
+    },
+    {
+      "no": 53,
+      "language": "Jakalteko",
+      "family": "Mayense",
+      "speakers_2020": 481,
+      "speakers_2015": 527,
+      "speakers_2010": 590,
+      "speakers_2005": 584
+    },
+    {
+      "no": 54,
+      "language": "Texistepequeño",
+      "family": "Mixe-Zoque",
+      "speakers_2020": 368,
+      "speakers_2015": 455,
+      "speakers_2010": 326,
+      "speakers_2005": 238
+    },
+    {
+      "no": 55,
+      "language": "Paipái",
+      "family": "yumano-cochimí",
+      "speakers_2020": 231,
+      "speakers_2015": 216,
+      "speakers_2010": 199,
+      "speakers_2005": 221
+    },
+    {
+      "no": 56,
+      "language": "Pápago (O'odham)",
+      "family": "Yutonahua",
+      "speakers_2020": 203,
+      "speakers_2015": 112,
+      "speakers_2010": 161,
+      "speakers_2005": 153
+    },
+    {
+      "no": 57,
+      "language": "Ixcateco",
+      "family": "Otomangue",
+      "speakers_2020": 195,
+      "speakers_2015": 148,
+      "speakers_2010": 190,
+      "speakers_2005": 406
+    },
+    {
+      "no": 58,
+      "language": "Cucapá",
+      "family": "yumano-cochimí",
+      "speakers_2020": 176,
+      "speakers_2015": 278,
+      "speakers_2010": 145,
+      "speakers_2005": 206
+    },
+    {
+      "no": 59,
+      "language": "Kaqchikel",
+      "family": "Mayense",
+      "speakers_2020": 169,
+      "speakers_2015": 61,
+      "speakers_2010": 143,
+      "speakers_2005": 230
+    },
+    {
+      "no": 60,
+      "language": "Mocho",
+      "family": "Mayense",
+      "speakers_2020": 126,
+      "speakers_2015": 134,
+      "speakers_2010": 106,
+      "speakers_2005": 186
+    },
+    {
+      "no": 61,
+      "language": "Ixil",
+      "family": "Mayense",
+      "speakers_2020": 117,
+      "speakers_2015": 103,
+      "speakers_2010": 83,
+      "speakers_2005": 108
+    },
+    {
+      "no": 62,
+      "language": "Tectiteco",
+      "family": "Mayense",
+      "speakers_2020": 78,
+      "speakers_2015": 81,
+      "speakers_2010": 53,
+      "speakers_2005": 61
+    },
+    {
+      "no": 63,
+      "language": "Oluteco",
+      "family": "Mixe-Zoque",
+      "speakers_2020": 77,
+      "speakers_2015": 90,
+      "speakers_2010": 50,
+      "speakers_2005": 63
+    },
+    {
+      "no": 64,
+      "language": "Kiliwa",
+      "family": "yumano-cochimí",
+      "speakers_2020": 76,
+      "speakers_2015": 194,
+      "speakers_2010": 46,
+      "speakers_2005": 55
+    },
+    {
+      "no": 65,
+      "language": "Ayapaneco",
+      "family": "Mixe-Zoque",
+      "speakers_2020": 71,
+      "speakers_2015": 24,
+      "speakers_2010": 4,
+      "speakers_2005": 2
+    },
+    {
+      "no": 66,
+      "language": "Kickapoo",
+      "family": "Algica",
+      "speakers_2020": 63,
+      "speakers_2015": 124,
+      "speakers_2010": 423,
+      "speakers_2005": 144
+    },
+    {
+      "no": 67,
+      "language": "Awakateko",
+      "family": "Mayense",
+      "speakers_2020": 20,
+      "speakers_2015": 17,
+      "speakers_2010": 19,
+      "speakers_2005": 27
+    },
+    {
+      "no": 68,
+      "language": "Cochimí",
+      "family": "yumano-cochimí",
+      "speakers_2020": "",
+      "speakers_2015": "",
+      "speakers_2010": 88,
+      "speakers_2005": 96
+    }
+  ],
+  "meta": {
+    "title": "Lenguas indígenas de México por número de hablantes - Free Download",
+    "description": "Lenguas indígenas de México con su familia lingüística y número de hablantes en 2020, 2015, 2010 y 2005 (datos censales del INEGI). Contains 68 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lenguas indígenas de México por número de hablantes | ListBase",
+    "seo_description": "Download Lenguas indígenas de México por número de hablantes — 68 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 68 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Lenguas_de_México"
+    ]
+  }
+}

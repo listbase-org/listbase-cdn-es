@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-17T02:13:24.609Z",
-  "total_datasets": 579,
-  "total_records": 435534,
+  "generated": "2026-11-17T02:13:33.082Z",
+  "total_datasets": 580,
+  "total_records": 435602,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -3432,6 +3432,34 @@
         "xlsx": {
           "name": "es-hispanohablantes-por-pais_ES.xlsx",
           "size": 8035
+        }
+      }
+    },
+    {
+      "id": "es-lenguas-indigenas-de-mexico",
+      "name": "Lenguas indígenas de México por número de hablantes",
+      "category": "language",
+      "record_count": 68,
+      "columns": [
+        "no",
+        "language",
+        "family",
+        "speakers_2020",
+        "speakers_2015",
+        "speakers_2010",
+        "speakers_2005"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Lenguas_de_México",
+      "updated": "2026-11",
+      "size": 15927,
+      "files": {
+        "csv": {
+          "name": "es-lenguas-indigenas-de-mexico_ES.csv",
+          "size": 4037
+        },
+        "xlsx": {
+          "name": "es-lenguas-indigenas-de-mexico_ES.xlsx",
+          "size": 10005
         }
       }
     },
