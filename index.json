@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-17T02:13:42.503Z",
-  "total_datasets": 581,
-  "total_records": 435654,
+  "generated": "2026-11-17T02:13:51.962Z",
+  "total_datasets": 582,
+  "total_records": 435758,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -1980,6 +1980,31 @@
         "xlsx": {
           "name": "es-platos-tipicos-del-peru_ES.xlsx",
           "size": 19439
+        }
+      }
+    },
+    {
+      "id": "es-quesos-de-espana",
+      "name": "Quesos de España por comunidad autónoma",
+      "category": "food",
+      "record_count": 104,
+      "columns": [
+        "cheese",
+        "autonomous_community",
+        "quality_label",
+        "milk"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Quesos_de_España",
+      "updated": "2026-11",
+      "size": 19077,
+      "files": {
+        "csv": {
+          "name": "es-quesos-de-espana_ES.csv",
+          "size": 7220
+        },
+        "xlsx": {
+          "name": "es-quesos-de-espana_ES.xlsx",
+          "size": 9706
         }
       }
     },

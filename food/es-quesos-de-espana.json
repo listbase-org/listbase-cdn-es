@@ -1,0 +1,670 @@
+{
+  "id": "es-quesos-de-espana",
+  "name": "Quesos de España por comunidad autónoma",
+  "title": "Quesos de España por comunidad autónoma",
+  "description": "Quesos tradicionales de España agrupados por comunidad autónoma, con su sello de calidad (D.O.P., I.G.P.) y el tipo de leche.",
+  "category": "food",
+  "source": "https://es.wikipedia.org/wiki/Quesos_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Quesos_de_España",
+  "updated": "2026-11",
+  "record_count": 104,
+  "columns": [
+    {
+      "key": "cheese",
+      "label": "Cheese",
+      "type": "string"
+    },
+    {
+      "key": "autonomous_community",
+      "label": "Autonomous Community",
+      "type": "string"
+    },
+    {
+      "key": "quality_label",
+      "label": "Quality Label",
+      "type": "string"
+    },
+    {
+      "key": "milk",
+      "label": "Milk",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "cheese": "Queso Alhama de Granada",
+      "autonomous_community": "Andalucía",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de Andalucía de cabra",
+      "autonomous_community": "Andalucía",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de Aracena",
+      "autonomous_community": "Andalucía",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de Cádiz",
+      "autonomous_community": "Andalucía",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de Grazalema",
+      "autonomous_community": "Andalucía",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de La Calahorra",
+      "autonomous_community": "Andalucía",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso de Las Alpujarras",
+      "autonomous_community": "Andalucía",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de Los Pedroches",
+      "autonomous_community": "Andalucía",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso de Málaga",
+      "autonomous_community": "Andalucía",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de Sierra Morena",
+      "autonomous_community": "Andalucía",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso Ansó-Hecho",
+      "autonomous_community": "Aragón",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso de Benasque",
+      "autonomous_community": "Aragón",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de Teruel",
+      "autonomous_community": "Aragón",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso de Tronchón",
+      "autonomous_community": "Aragón",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Afuega'l Pitu",
+      "autonomous_community": "Principado de Asturias",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "Cabrales",
+      "autonomous_community": "Principado de Asturias",
+      "quality_label": "D.O.P.",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de Gamonedo",
+      "autonomous_community": "Principado de Asturias",
+      "quality_label": "D.O.P.",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso ahumado de Pría",
+      "autonomous_community": "Principado de Asturias",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso Casín",
+      "autonomous_community": "Principado de Asturias",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "Queso de Abredo",
+      "autonomous_community": "Principado de Asturias",
+      "quality_label": "Sin sello",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "Queso de Buelles",
+      "autonomous_community": "Principado de Asturias",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de La Peral",
+      "autonomous_community": "Principado de Asturias",
+      "quality_label": "Sin sello",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "Queso de Oscos",
+      "autonomous_community": "Principado de Asturias",
+      "quality_label": "Sin sello",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "Queso del Valle del Narcea",
+      "autonomous_community": "Principado de Asturias",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de Genestoso",
+      "autonomous_community": "Principado de Asturias",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de Los Beyos",
+      "autonomous_community": "Principado de Asturias",
+      "quality_label": "I.G.P.",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de Peñamellera",
+      "autonomous_community": "Principado de Asturias",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de Porrúa",
+      "autonomous_community": "Principado de Asturias",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso Urbiés",
+      "autonomous_community": "Principado de Asturias",
+      "quality_label": "Sin sello",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "Queso Vidiago",
+      "autonomous_community": "Principado de Asturias",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de Mahón-Menorca",
+      "autonomous_community": "Islas Baleares",
+      "quality_label": "D.O.P.",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de Mallorca",
+      "autonomous_community": "Islas Baleares",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de Gran Canaria",
+      "autonomous_community": "Canarias",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de La Gomera",
+      "autonomous_community": "Canarias",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de Lanzarote",
+      "autonomous_community": "Canarias",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de Tenerife",
+      "autonomous_community": "Canarias",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso flor de guía",
+      "autonomous_community": "Canarias",
+      "quality_label": "D.O.P.",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso herreño",
+      "autonomous_community": "Canarias",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso majorero",
+      "autonomous_community": "Canarias",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso palmero",
+      "autonomous_community": "Canarias",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Picón Bejes-Tresviso",
+      "autonomous_community": "Cantabria",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "Queso Campoo-Los Valles",
+      "autonomous_community": "Cantabria",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de Guriezo",
+      "autonomous_community": "Cantabria",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso nata de Cantabria",
+      "autonomous_community": "Cantabria",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "Queso Pasiego",
+      "autonomous_community": "Cantabria",
+      "quality_label": "Sin sello",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "Queso Pido",
+      "autonomous_community": "Cantabria",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Quesucos de Liébana",
+      "autonomous_community": "Cantabria",
+      "quality_label": "D.O.P.",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso Arribes de Salamanca",
+      "autonomous_community": "Castilla y León",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso Castellano",
+      "autonomous_community": "Castilla y León",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso de Babia y de Laciana",
+      "autonomous_community": "Castilla y León",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de Burgos",
+      "autonomous_community": "Castilla y León",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de La Adrada",
+      "autonomous_community": "Castilla y León",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de La Bureba",
+      "autonomous_community": "Castilla y León",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso de la Montaña de León",
+      "autonomous_community": "Castilla y León",
+      "quality_label": "Sin sello",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "Queso de Valdeón",
+      "autonomous_community": "Castilla y León",
+      "quality_label": "I.G.P.",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de Villalón",
+      "autonomous_community": "Castilla y León",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso del Tiétar",
+      "autonomous_community": "Castilla y León",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso Pata de mulo",
+      "autonomous_community": "Castilla y León",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso zamorano",
+      "autonomous_community": "Castilla y León",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso de Letur",
+      "autonomous_community": "Castilla-La Mancha",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de los Montes de Toledo",
+      "autonomous_community": "Castilla-La Mancha",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de Oropesa",
+      "autonomous_community": "Castilla-La Mancha",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso del Valle de Alcudia",
+      "autonomous_community": "Castilla-La Mancha",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso manchego",
+      "autonomous_community": "Castilla-La Mancha",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Mató",
+      "autonomous_community": "Cataluña",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de l'Alt Urgell y la Cerdanya",
+      "autonomous_community": "Cataluña",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "Queso de Ossera",
+      "autonomous_community": "Cataluña",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de Pastor (Formatge d'atura)",
+      "autonomous_community": "Cataluña",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de Trapo (Formatge de Drap)",
+      "autonomous_community": "Cataluña",
+      "quality_label": "Sin sello",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "Queso de tupí",
+      "autonomous_community": "Cataluña",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso Garrotxa",
+      "autonomous_community": "Cataluña",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso Montsec",
+      "autonomous_community": "Cataluña",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso Serrat",
+      "autonomous_community": "Cataluña",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Quesaílla",
+      "autonomous_community": "Extremadura",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de Acehúche",
+      "autonomous_community": "Extremadura",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de Barros",
+      "autonomous_community": "Extremadura",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso de Cáceres",
+      "autonomous_community": "Extremadura",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso de Gata-Hurdes",
+      "autonomous_community": "Extremadura",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de La Serena",
+      "autonomous_community": "Extremadura",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso de La Siberia",
+      "autonomous_community": "Extremadura",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de La Vera",
+      "autonomous_community": "Extremadura",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso Ibores",
+      "autonomous_community": "Extremadura",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Torta del Casar",
+      "autonomous_community": "Extremadura",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Arzúa-Ulloa",
+      "autonomous_community": "Galicia",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "Cebreiro",
+      "autonomous_community": "Galicia",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "Queso de tetilla",
+      "autonomous_community": "Galicia",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "Requeixo",
+      "autonomous_community": "Galicia",
+      "quality_label": "Sin sello",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "San Simón da Costa",
+      "autonomous_community": "Galicia",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de vaca"
+    },
+    {
+      "cheese": "Queso Camerano",
+      "autonomous_community": "La Rioja",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de Campo Real",
+      "autonomous_community": "Comunidad de Madrid",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso de Colmenar Viejo",
+      "autonomous_community": "Comunidad de Madrid",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de Fresnedillas de la Oliva",
+      "autonomous_community": "Comunidad de Madrid",
+      "quality_label": "Sin sello",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de Miraflores",
+      "autonomous_community": "Comunidad de Madrid",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de Torremocha de Jarama",
+      "autonomous_community": "Comunidad de Madrid",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de Murcia",
+      "autonomous_community": "Región de Murcia",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso de Murcia al vino",
+      "autonomous_community": "Región de Murcia",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de cabra"
+    },
+    {
+      "cheese": "Queso Roncal",
+      "autonomous_community": "Navarra",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso de cassoleta",
+      "autonomous_community": "Comunidad Valenciana",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de La Nucía",
+      "autonomous_community": "Comunidad Valenciana",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Queso de la Sierra de Espadán",
+      "autonomous_community": "Comunidad Valenciana",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Queso de servilleta",
+      "autonomous_community": "Comunidad Valenciana",
+      "quality_label": "Sin sello",
+      "milk": "Mezcla de alguna de ellas"
+    },
+    {
+      "cheese": "Gaztazarra",
+      "autonomous_community": "País Vasco",
+      "quality_label": "Sin sello",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Idiazábal",
+      "autonomous_community": "País Vasco",
+      "quality_label": "D.O.P.",
+      "milk": "Leche de oveja"
+    },
+    {
+      "cheese": "Fraisoro",
+      "autonomous_community": "País Vasco",
+      "quality_label": "Eusko Label",
+      "milk": "Leche de vaca"
+    }
+  ],
+  "meta": {
+    "title": "Quesos de España por comunidad autónoma - Free Download",
+    "description": "Quesos tradicionales de España agrupados por comunidad autónoma, con su sello de calidad (D.O.P., I.G.P.) y el tipo de leche. Contains 104 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Quesos de España por comunidad autónoma | ListBase",
+    "seo_description": "Download Quesos de España por comunidad autónoma — 104 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 104 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Quesos_de_España"
+    ]
+  }
+}
