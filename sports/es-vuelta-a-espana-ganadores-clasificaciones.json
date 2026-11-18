@@ -1,0 +1,790 @@
+{
+  "id": "es-vuelta-a-espana-ganadores-clasificaciones",
+  "name": "Ganadores de las clasificaciones de la Vuelta a España",
+  "title": "Ganadores de las clasificaciones de la Vuelta a España",
+  "description": "Ganadores de cada edición de la Vuelta a España desde 1935: clasificación general, montaña, regularidad/puntos, jóvenes y equipos.",
+  "category": "sports",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Ganadores_de_las_clasificaciones_de_la_Vuelta_a_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Ganadores_de_las_clasificaciones_de_la_Vuelta_a_España",
+  "updated": "2026-11",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "number"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "general",
+      "label": "General",
+      "type": "string"
+    },
+    {
+      "key": "mountains",
+      "label": "Mountains",
+      "type": "string"
+    },
+    {
+      "key": "points",
+      "label": "Points",
+      "type": "string"
+    },
+    {
+      "key": "intermediate_sprints",
+      "label": "Intermediate Sprints",
+      "type": "string"
+    },
+    {
+      "key": "team",
+      "label": "Team",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": 1,
+      "year": 1935,
+      "general": "Gustaaf Deloor",
+      "mountains": "Edoardo Molinar",
+      "points": "",
+      "intermediate_sprints": "",
+      "team": "Bélgica"
+    },
+    {
+      "edition": 2,
+      "year": 1936,
+      "general": "Gustaaf Deloor",
+      "mountains": "Salvador Molina",
+      "points": "",
+      "intermediate_sprints": "",
+      "team": "Bélgica"
+    },
+    {
+      "edition": 3,
+      "year": 1941,
+      "general": "Julián Berrendero",
+      "mountains": "Fermín Trueba",
+      "points": "",
+      "intermediate_sprints": "",
+      "team": "España"
+    },
+    {
+      "edition": 4,
+      "year": 1942,
+      "general": "Julián Berrendero",
+      "mountains": "Julián Berrendero",
+      "points": "",
+      "intermediate_sprints": "",
+      "team": "F. C. Barcelona"
+    },
+    {
+      "edition": 5,
+      "year": 1945,
+      "general": "Delio Rodríguez",
+      "mountains": "Julián Berrendero",
+      "points": "Delio Rodríguez",
+      "intermediate_sprints": "",
+      "team": "D. Cic. Manresano"
+    },
+    {
+      "edition": 6,
+      "year": 1946,
+      "general": "Dalmacio Langarica",
+      "mountains": "Emilio Rodríguez",
+      "points": "",
+      "intermediate_sprints": "",
+      "team": "España"
+    },
+    {
+      "edition": 7,
+      "year": 1947,
+      "general": "Edouard Van Dyck",
+      "mountains": "Emilio Rodríguez",
+      "points": "Delio Rodríguez",
+      "intermediate_sprints": "",
+      "team": "España"
+    },
+    {
+      "edition": 8,
+      "year": 1948,
+      "general": "Bernardo Ruiz",
+      "mountains": "Bernardo Ruiz",
+      "points": "",
+      "intermediate_sprints": "",
+      "team": "España"
+    },
+    {
+      "edition": 9,
+      "year": 1950,
+      "general": "Emilio Rodríguez",
+      "mountains": "Emilio Rodríguez",
+      "points": "",
+      "intermediate_sprints": "",
+      "team": "España"
+    },
+    {
+      "edition": 10,
+      "year": 1955,
+      "general": "Jean Dotto",
+      "mountains": "Giuseppe Buratti",
+      "points": "Fiorenzo Magni",
+      "intermediate_sprints": "",
+      "team": "Francia"
+    },
+    {
+      "edition": 11,
+      "year": 1956,
+      "general": "Angelo Conterno",
+      "mountains": "Nino Defilippis",
+      "points": "Rik Van Steenbergen",
+      "intermediate_sprints": "",
+      "team": "España"
+    },
+    {
+      "edition": 12,
+      "year": 1957,
+      "general": "Jesús Loroño",
+      "mountains": "Federico Martín Bahamontes",
+      "points": "Vicente Iturat",
+      "intermediate_sprints": "",
+      "team": "Pirenaico"
+    },
+    {
+      "edition": 13,
+      "year": 1958,
+      "general": "Jean Stablinski",
+      "mountains": "Federico Martín Bahamontes",
+      "points": "Salvador Botella",
+      "intermediate_sprints": "",
+      "team": "Bélgica"
+    },
+    {
+      "edition": 14,
+      "year": 1959,
+      "general": "Antonio Suárez",
+      "mountains": "Antonio Suárez",
+      "points": "Rik Van Looy",
+      "intermediate_sprints": "",
+      "team": "Faema"
+    },
+    {
+      "edition": 15,
+      "year": 1960,
+      "general": "Franz De Mulder",
+      "mountains": "Antonio Karmany",
+      "points": "Arthur De Cabooter",
+      "intermediate_sprints": "",
+      "team": "Groene Leeuw"
+    },
+    {
+      "edition": 16,
+      "year": 1961,
+      "general": "Angelino Soler",
+      "mountains": "Antonio Karmany",
+      "points": "Antonio Suárez",
+      "intermediate_sprints": "Vicente Iturat",
+      "team": "Faema"
+    },
+    {
+      "edition": 17,
+      "year": 1962,
+      "general": "Rudi Altig",
+      "mountains": "Antonio Karmany",
+      "points": "Rudi Altig",
+      "intermediate_sprints": "José Segú",
+      "team": "Helyett-Saint Raphael"
+    },
+    {
+      "edition": 18,
+      "year": 1963,
+      "general": "Jacques Anquetil",
+      "mountains": "Julio Jiménez Muñoz",
+      "points": "Bas Maliepaard",
+      "intermediate_sprints": "José Segú",
+      "team": "Saint Raphael"
+    },
+    {
+      "edition": 19,
+      "year": 1964,
+      "general": "Raymond Poulidor",
+      "mountains": "Julio Jiménez Muñoz",
+      "points": "José Pérez-Francés",
+      "intermediate_sprints": "Antonio Bertrán",
+      "team": "Kas"
+    },
+    {
+      "edition": 20,
+      "year": 1965,
+      "general": "Rolf Wolfshohl",
+      "mountains": "Julio Jiménez Muñoz",
+      "points": "Rik Van Looy",
+      "intermediate_sprints": "José Segú",
+      "team": "Mercier-BP"
+    },
+    {
+      "edition": 21,
+      "year": 1966,
+      "general": "Patxi Gabica",
+      "mountains": "Gregorio San Miguel",
+      "points": "Jos van der Vleuten",
+      "intermediate_sprints": "Domingo Perurena",
+      "team": "Kas"
+    },
+    {
+      "edition": 22,
+      "year": 1967,
+      "general": "Jan Janssen",
+      "mountains": "Mariano Díaz Díaz",
+      "points": "Jan Janssen",
+      "intermediate_sprints": "José Manuel López Rodríguez",
+      "team": "Kas"
+    },
+    {
+      "edition": 23,
+      "year": 1968,
+      "general": "Felice Gimondi",
+      "mountains": "Patxi Gabica",
+      "points": "Jan Janssen",
+      "intermediate_sprints": "Carlos Echeverría",
+      "team": "Kas"
+    },
+    {
+      "edition": 24,
+      "year": 1969,
+      "general": "Roger Pingeon",
+      "mountains": "Luis Ocaña",
+      "points": "Raymond Steegmans",
+      "intermediate_sprints": "Raymond Steegmans",
+      "team": "Bic"
+    },
+    {
+      "edition": 25,
+      "year": 1970,
+      "general": "Luis Ocaña",
+      "mountains": "Agustín Tamames",
+      "points": "Guido Reybrouck",
+      "intermediate_sprints": "Miguel María Lasa",
+      "team": "Werner"
+    },
+    {
+      "edition": 26,
+      "year": 1971,
+      "general": "Ferdinand Bracke",
+      "mountains": "Joop Zoetemelk",
+      "points": "Cyrille Guimard",
+      "intermediate_sprints": "Cyrille Guimard",
+      "team": "Werner"
+    },
+    {
+      "edition": 27,
+      "year": 1972,
+      "general": "José Manuel Fuente",
+      "mountains": "José Manuel Fuente",
+      "points": "Domingo Perurena",
+      "intermediate_sprints": "Ventura Díaz",
+      "team": "Kas"
+    },
+    {
+      "edition": 28,
+      "year": 1973,
+      "general": "Eddy Merckx",
+      "mountains": "José Luis Abilleira",
+      "points": "Eddy Merckx",
+      "intermediate_sprints": "Eddy Merckx",
+      "team": "La Casera"
+    },
+    {
+      "edition": 29,
+      "year": 1974,
+      "general": "José Manuel Fuente",
+      "mountains": "José Luis Abilleira",
+      "points": "Domingo Perurena",
+      "intermediate_sprints": "Javier Elorriaga",
+      "team": "Kas"
+    },
+    {
+      "edition": 30,
+      "year": 1975,
+      "general": "Agustín Tamames",
+      "mountains": "Andrés Oliva",
+      "points": "Miguel María Lasa",
+      "intermediate_sprints": "Fernando Mendes",
+      "team": "Kas"
+    },
+    {
+      "edition": 31,
+      "year": 1976,
+      "general": "José Pesarrodona",
+      "mountains": "Andrés Oliva",
+      "points": "Dietrich Thurau",
+      "intermediate_sprints": "Daniel Verplancke",
+      "team": "Kas-Campagnolo"
+    },
+    {
+      "edition": 32,
+      "year": 1977,
+      "general": "Freddy Maertens",
+      "mountains": "Pedro Torres",
+      "points": "Freddy Maertens",
+      "intermediate_sprints": "Freddy Maertens",
+      "team": "Teka"
+    },
+    {
+      "edition": 33,
+      "year": 1978,
+      "general": "Bernard Hinault",
+      "mountains": "Andrés Oliva",
+      "points": "Ferdi Van den Haute",
+      "intermediate_sprints": "Bernard Hinault",
+      "team": "Kas"
+    },
+    {
+      "edition": 34,
+      "year": 1979,
+      "general": "Joop Zoetemelk",
+      "mountains": "Felipe Yáñez",
+      "points": "Alfons De Wolf",
+      "intermediate_sprints": "Roger De Cnijf",
+      "team": "Kas"
+    },
+    {
+      "edition": 35,
+      "year": 1980,
+      "general": "Faustino Rupérez",
+      "mountains": "Juan Fernández Martín",
+      "points": "Sean Kelly",
+      "intermediate_sprints": "Sean Kelly",
+      "team": "Splendor"
+    },
+    {
+      "edition": 36,
+      "year": 1981,
+      "general": "Giovanni Battaglin",
+      "mountains": "José Luis Laguía",
+      "points": "Francisco Javier Cedena",
+      "intermediate_sprints": "Hugues Grodin",
+      "team": "Zor-Helios-Novostil"
+    },
+    {
+      "edition": 37,
+      "year": 1982,
+      "general": "Marino Lejarreta",
+      "mountains": "José Luis Laguía",
+      "points": "Stephan Mutter",
+      "intermediate_sprints": "Benny Schepmans",
+      "team": "Kelme"
+    },
+    {
+      "edition": 38,
+      "year": 1983,
+      "general": "Bernard Hinault",
+      "mountains": "José Luis Laguía",
+      "points": "Marino Lejarreta",
+      "intermediate_sprints": "Sabino Angoitia",
+      "team": "Zor"
+    },
+    {
+      "edition": 39,
+      "year": 1984,
+      "general": "Eric Caritoux",
+      "mountains": "Felipe Yáñez",
+      "points": "Guido Van Calster",
+      "intermediate_sprints": "Jozef Lieckens",
+      "team": "Teka"
+    },
+    {
+      "edition": 40,
+      "year": 1985,
+      "general": "Pedro Delgado",
+      "mountains": "José Luis Laguía",
+      "points": "Sean Kelly",
+      "intermediate_sprints": "Ronny Van Holen",
+      "team": "Zor-Gemeaz"
+    },
+    {
+      "edition": 41,
+      "year": 1986,
+      "general": "Álvaro Pino",
+      "mountains": "José Luis Laguía",
+      "points": "Sean Kelly",
+      "intermediate_sprints": "Benny Van Brabant",
+      "team": "Zor-BH"
+    },
+    {
+      "edition": 42,
+      "year": 1987,
+      "general": "Lucho Herrera",
+      "mountains": "Lucho Herrera",
+      "points": "Alfonso Gutiérrez",
+      "intermediate_sprints": "Miguel Ángel Iglesias",
+      "team": "Ryalcao-Manzana-Postobon"
+    },
+    {
+      "edition": 43,
+      "year": 1988,
+      "general": "Sean Kelly",
+      "mountains": "Álvaro Pino",
+      "points": "Sean Kelly",
+      "intermediate_sprints": "Miguel Ángel Iglesias",
+      "team": "BH"
+    },
+    {
+      "edition": 44,
+      "year": 1989,
+      "general": "Pedro Delgado",
+      "mountains": "Óscar de Jesús Vargas",
+      "points": "Malcolm Elliott",
+      "intermediate_sprints": "Miguel Ángel Iglesias",
+      "team": "Kelme"
+    },
+    {
+      "edition": 45,
+      "year": 1990,
+      "general": "Marco Giovannetti",
+      "mountains": "Martín Farfán",
+      "points": "Uwe Raab",
+      "intermediate_sprints": "Miguel Ángel Iglesias",
+      "team": "ONCE"
+    },
+    {
+      "edition": 46,
+      "year": 1991,
+      "general": "Melchor Mauri",
+      "mountains": "Lucho Herrera",
+      "points": "Uwe Raab",
+      "intermediate_sprints": "Miguel Ángel Iglesias",
+      "team": "ONCE"
+    },
+    {
+      "edition": 47,
+      "year": 1992,
+      "general": "Tony Rominger",
+      "mountains": "Carlos Hernández",
+      "points": "Djamolidine Abdoujaparov",
+      "intermediate_sprints": "Antonio Esparza",
+      "team": "Amaya Seguros"
+    },
+    {
+      "edition": 48,
+      "year": 1993,
+      "general": "Tony Rominger",
+      "mountains": "Tony Rominger",
+      "points": "Tony Rominger",
+      "intermediate_sprints": "Hendrik Redant",
+      "team": "Amaya Seguros"
+    },
+    {
+      "edition": 49,
+      "year": 1994,
+      "general": "Tony Rominger",
+      "mountains": "Luc Leblanc",
+      "points": "Laurent Jalabert",
+      "intermediate_sprints": "Mauro Radaelli",
+      "team": "Banesto"
+    },
+    {
+      "edition": 50,
+      "year": 1995,
+      "general": "Laurent Jalabert",
+      "mountains": "Laurent Jalabert",
+      "points": "Laurent Jalabert",
+      "intermediate_sprints": "Steffen Wesemann",
+      "team": "ONCE"
+    },
+    {
+      "edition": 51,
+      "year": 1996,
+      "general": "Alex Zülle",
+      "mountains": "Tony Rominger",
+      "points": "Laurent Jalabert",
+      "intermediate_sprints": "Jurgen Werner",
+      "team": "Polti"
+    },
+    {
+      "edition": 52,
+      "year": 1997,
+      "general": "Alex Zülle",
+      "mountains": "José María Jiménez",
+      "points": "Laurent Jalabert",
+      "intermediate_sprints": "Mauro Radaelli",
+      "team": "Kelme-Costa Blanca"
+    },
+    {
+      "edition": 53,
+      "year": 1998,
+      "general": "Abraham Olano",
+      "mountains": "José María Jiménez",
+      "points": "Fabrizio Guidi",
+      "intermediate_sprints": "Giancarlo Raimondi",
+      "team": "Banesto"
+    },
+    {
+      "edition": 54,
+      "year": 1999,
+      "general": "Jan Ullrich",
+      "mountains": "José María Jiménez",
+      "points": "Frank Vandenbroucke",
+      "intermediate_sprints": "Robert Hunter",
+      "team": "Banesto"
+    },
+    {
+      "edition": 55,
+      "year": 2000,
+      "general": "Roberto Heras",
+      "mountains": "Carlos Sastre",
+      "points": "Roberto Heras",
+      "intermediate_sprints": "Gianni Faresin",
+      "team": "Kelme-Costa Blanca"
+    },
+    {
+      "edition": 56,
+      "year": 2001,
+      "general": "Ángel Casero",
+      "mountains": "José María Jiménez",
+      "points": "José María Jiménez",
+      "intermediate_sprints": "César García Calvo",
+      "team": "iBanesto.com"
+    },
+    {
+      "edition": 57,
+      "year": 2002,
+      "general": "Aitor González",
+      "mountains": "Aitor Osa",
+      "points": "Erik Zabel",
+      "intermediate_sprints": "",
+      "team": "Kelme-Costa Blanca"
+    },
+    {
+      "edition": 58,
+      "year": 2003,
+      "general": "Roberto Heras",
+      "mountains": "Félix Cárdenas",
+      "points": "Erik Zabel",
+      "intermediate_sprints": "",
+      "team": "iBanesto.com"
+    },
+    {
+      "edition": 59,
+      "year": 2004,
+      "general": "Roberto Heras",
+      "mountains": "Félix Cárdenas",
+      "points": "Erik Zabel",
+      "intermediate_sprints": "",
+      "team": "Comunitat Valenciana-Kelme"
+    },
+    {
+      "edition": 60,
+      "year": 2005,
+      "general": "Roberto Heras",
+      "mountains": "Joaquim Rodríguez",
+      "points": "Alessandro Petacchi",
+      "intermediate_sprints": "",
+      "team": "Comunitat Valenciana"
+    },
+    {
+      "edition": 61,
+      "year": 2006,
+      "general": "Aleksandr Vinokúrov",
+      "mountains": "Egoi Martínez",
+      "points": "Thor Hushovd",
+      "intermediate_sprints": "",
+      "team": "Discovery Channel"
+    },
+    {
+      "edition": 62,
+      "year": 2007,
+      "general": "Denís Menshov",
+      "mountains": "Denís Menshov",
+      "points": "Daniele Bennati",
+      "intermediate_sprints": "",
+      "team": "Caisse d'Epargne"
+    },
+    {
+      "edition": 63,
+      "year": 2008,
+      "general": "Alberto Contador",
+      "mountains": "David Moncoutié",
+      "points": "Greg Van Avermaet",
+      "intermediate_sprints": "",
+      "team": "Caisse d'Epargne"
+    },
+    {
+      "edition": 64,
+      "year": 2009,
+      "general": "Alejandro Valverde",
+      "mountains": "David Moncoutié",
+      "points": "André Greipel",
+      "intermediate_sprints": "",
+      "team": "Xacobeo Galicia"
+    },
+    {
+      "edition": 65,
+      "year": 2010,
+      "general": "Vincenzo Nibali",
+      "mountains": "David Moncoutié",
+      "points": "Mark Cavendish",
+      "intermediate_sprints": "",
+      "team": "Katusha"
+    },
+    {
+      "edition": 66,
+      "year": 2011,
+      "general": "Chris Froome",
+      "mountains": "David Moncoutié",
+      "points": "Bauke Mollema",
+      "intermediate_sprints": "",
+      "team": "Geox-TMC"
+    },
+    {
+      "edition": 67,
+      "year": 2012,
+      "general": "Alberto Contador",
+      "mountains": "Simon Clarke",
+      "points": "Alejandro Valverde",
+      "intermediate_sprints": "",
+      "team": "Movistar"
+    },
+    {
+      "edition": 68,
+      "year": 2013,
+      "general": "Chris Horner",
+      "mountains": "Nicolas Edet",
+      "points": "Alejandro Valverde",
+      "intermediate_sprints": "",
+      "team": "Euskaltel Euskadi"
+    },
+    {
+      "edition": 69,
+      "year": 2014,
+      "general": "Alberto Contador",
+      "mountains": "Luis León Sánchez",
+      "points": "John Degenkolb",
+      "intermediate_sprints": "",
+      "team": "Katusha"
+    },
+    {
+      "edition": 70,
+      "year": 2015,
+      "general": "Fabio Aru",
+      "mountains": "Omar Fraile",
+      "points": "Alejandro Valverde",
+      "intermediate_sprints": "",
+      "team": "Movistar"
+    },
+    {
+      "edition": 71,
+      "year": 2016,
+      "general": "Nairo Quintana",
+      "mountains": "Omar Fraile",
+      "points": "Fabio Felline",
+      "intermediate_sprints": "",
+      "team": "BMC Racing Team"
+    },
+    {
+      "edition": 72,
+      "year": 2017,
+      "general": "Chris Froome",
+      "mountains": "Davide Villella",
+      "points": "Chris Froome",
+      "intermediate_sprints": "",
+      "team": "Astaná"
+    },
+    {
+      "edition": 73,
+      "year": 2018,
+      "general": "Simon Yates",
+      "mountains": "Thomas de Gendt",
+      "points": "Alejandro Valverde",
+      "intermediate_sprints": "",
+      "team": "Movistar"
+    },
+    {
+      "edition": 74,
+      "year": 2019,
+      "general": "Primož Roglič",
+      "mountains": "Geoffrey Bouchard",
+      "points": "Primož Roglič",
+      "intermediate_sprints": "",
+      "team": "Movistar"
+    },
+    {
+      "edition": 75,
+      "year": 2020,
+      "general": "Primož Roglič",
+      "mountains": "Guillaume Martin",
+      "points": "Primož Roglič",
+      "intermediate_sprints": "",
+      "team": "Movistar"
+    },
+    {
+      "edition": 76,
+      "year": 2021,
+      "general": "Primož Roglič",
+      "mountains": "Michael Storer",
+      "points": "Fabio Jakobsen",
+      "intermediate_sprints": "",
+      "team": "Team Bahrain Victorious"
+    },
+    {
+      "edition": 77,
+      "year": 2022,
+      "general": "Remco Evenepoel",
+      "mountains": "Richard Carapaz",
+      "points": "Mads Pedersen",
+      "intermediate_sprints": "",
+      "team": "UAE Team Emirates"
+    },
+    {
+      "edition": 78,
+      "year": 2023,
+      "general": "Sepp Kuss",
+      "mountains": "Remco Evenepoel",
+      "points": "Kaden Groves",
+      "intermediate_sprints": "",
+      "team": "Jumbo-Visma"
+    },
+    {
+      "edition": 79,
+      "year": 2024,
+      "general": "Primož Roglič",
+      "mountains": "Jay Vine",
+      "points": "Kaden Groves",
+      "intermediate_sprints": "",
+      "team": "UAE Team Emirates"
+    },
+    {
+      "edition": 80,
+      "year": 2025,
+      "general": "Jonas Vingegaard",
+      "mountains": "Jay Vine",
+      "points": "Mads Pedersen",
+      "intermediate_sprints": "",
+      "team": "UAE Team Emirates"
+    },
+    {
+      "edition": 81,
+      "year": 2026,
+      "general": "Enric Mas",
+      "mountains": "Santiago Buitrago",
+      "points": "Wout van Aert",
+      "intermediate_sprints": "",
+      "team": "Decathlon CMA CGM Team"
+    }
+  ],
+  "meta": {
+    "title": "Ganadores de las clasificaciones de la Vuelta a España - Free Download",
+    "description": "Ganadores de cada edición de la Vuelta a España desde 1935: clasificación general, montaña, regularidad/puntos, jóvenes y equipos. Contains 81 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ganadores de las clasificaciones de la Vuelta a España | ListBase",
+    "seo_description": "Download Ganadores de las clasificaciones de la Vuelta a España — 81 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 81 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Ganadores_de_las_clasificaciones_de_la_Vuelta_a_España"
+    ]
+  }
+}

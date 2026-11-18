@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-18T02:31:40.151Z",
-  "total_datasets": 583,
-  "total_records": 435786,
+  "generated": "2026-11-18T02:31:48.797Z",
+  "total_datasets": 584,
+  "total_records": 435867,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -17169,6 +17169,34 @@
         "xlsx": {
           "name": "es-records-de-espana-atletismo_ES.xlsx",
           "size": 15276
+        }
+      }
+    },
+    {
+      "id": "es-vuelta-a-espana-ganadores-clasificaciones",
+      "name": "Ganadores de las clasificaciones de la Vuelta a España",
+      "category": "sports",
+      "record_count": 81,
+      "columns": [
+        "edition",
+        "year",
+        "general",
+        "mountains",
+        "points",
+        "intermediate_sprints",
+        "team"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Ganadores_de_las_clasificaciones_de_la_Vuelta_a_España",
+      "updated": "2026-11",
+      "size": 20758,
+      "files": {
+        "csv": {
+          "name": "es-vuelta-a-espana-ganadores-clasificaciones_ES.csv",
+          "size": 7233
+        },
+        "xlsx": {
+          "name": "es-vuelta-a-espana-ganadores-clasificaciones_ES.xlsx",
+          "size": 11696
         }
       }
     },
