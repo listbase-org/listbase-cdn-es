@@ -1,0 +1,379 @@
+{
+  "id": "es-festival-oti-ganadores",
+  "name": "Ganadores del Festival OTI de la Canción",
+  "title": "Ganadores del Festival OTI de la Canción",
+  "description": "Canciones e intérpretes ganadores del Festival OTI de la Canción (1972-2000), con sede, fecha y países en segundo y tercer lugar (códigos ISO).",
+  "category": "music",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Ganadores_del_Festival_OTI_de_la_Canción",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Ganadores_del_Festival_OTI_de_la_Canción",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "host_city",
+      "label": "Host City",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "winner_country",
+      "label": "Winner Country",
+      "type": "string"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    },
+    {
+      "key": "performer",
+      "label": "Performer",
+      "type": "string"
+    },
+    {
+      "key": "second_place",
+      "label": "Second Place",
+      "type": "string"
+    },
+    {
+      "key": "third_place",
+      "label": "Third Place",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": "I",
+      "year": 1972,
+      "host_city": "Madrid",
+      "date": "25 de noviembre de 1972",
+      "winner_country": "BRA",
+      "song": "Diálogo",
+      "performer": "Cláudia Regina y Tobías",
+      "second_place": "PAN",
+      "third_place": "ESP"
+    },
+    {
+      "edition": "II",
+      "year": 1973,
+      "host_city": "Belo Horizonte",
+      "date": "10 de noviembre de 1973",
+      "winner_country": "MEX",
+      "song": "Qué alegre va María",
+      "performer": "Imelda Miller",
+      "second_place": "PER",
+      "third_place": "DOM"
+    },
+    {
+      "edition": "III",
+      "year": 1974,
+      "host_city": "Acapulco",
+      "date": "26 de octubre de 1974",
+      "winner_country": "PRI",
+      "song": "Hoy canto por cantar",
+      "performer": "Nydia Caro",
+      "second_place": "GTM",
+      "third_place": "VEN"
+    },
+    {
+      "edition": "IV",
+      "year": 1975,
+      "host_city": "San Juan",
+      "date": "15 de noviembre de 1975",
+      "winner_country": "MEX",
+      "song": "La felicidad",
+      "performer": "Gualberto Castro",
+      "second_place": "ESP",
+      "third_place": "COL VEN"
+    },
+    {
+      "edition": "V",
+      "year": 1976,
+      "host_city": "Acapulco",
+      "date": "30 de octubre de 1976",
+      "winner_country": "ESP",
+      "song": "Canta, cigarra",
+      "performer": "María Ostiz",
+      "second_place": "VEN",
+      "third_place": "CHL"
+    },
+    {
+      "edition": "VI",
+      "year": 1977,
+      "host_city": "Madrid",
+      "date": "12 de noviembre de 1977",
+      "winner_country": "NIC",
+      "song": "Quincho Barrilete» Eduardo «Guayo",
+      "performer": "González",
+      "second_place": "USA DOM",
+      "third_place": "ESP"
+    },
+    {
+      "edition": "VII",
+      "year": 1978,
+      "host_city": "Santiago",
+      "date": "2 de diciembre de 1978",
+      "winner_country": "BRA",
+      "song": "El amor... cosa tan rara",
+      "performer": "Denise de Kalafe",
+      "second_place": "USA",
+      "third_place": "MEX"
+    },
+    {
+      "edition": "VIII",
+      "year": 1979,
+      "host_city": "Caracas",
+      "date": "8 de diciembre de 1979",
+      "winner_country": "ARG",
+      "song": "Cuenta conmigo",
+      "performer": "Daniel Riolobos",
+      "second_place": "VEN",
+      "third_place": "PRT"
+    },
+    {
+      "edition": "IX",
+      "year": 1980,
+      "host_city": "Buenos Aires",
+      "date": "15 de noviembre de 1980",
+      "winner_country": "PRI",
+      "song": "Contigo, mujer",
+      "performer": "Rafael José",
+      "second_place": "ESP",
+      "third_place": "ARG"
+    },
+    {
+      "edition": "X",
+      "year": 1981,
+      "host_city": "Ciudad de México",
+      "date": "5 de diciembre de 1981",
+      "winner_country": "ESP",
+      "song": "Latino",
+      "performer": "Francisco",
+      "second_place": "ARG",
+      "third_place": "USA MEX"
+    },
+    {
+      "edition": "XI",
+      "year": 1982,
+      "host_city": "Lima",
+      "date": "27 de noviembre de 1982",
+      "winner_country": "VEN",
+      "song": "Puedes contar conmigo",
+      "performer": "Grupo Unicornio",
+      "second_place": "ESP",
+      "third_place": "USA"
+    },
+    {
+      "edition": "XII",
+      "year": 1983,
+      "host_city": "Washington D. C.",
+      "date": "29 de octubre de 1983",
+      "winner_country": "BRA",
+      "song": "Estrela de papel",
+      "performer": "Jessé",
+      "second_place": "DOM",
+      "third_place": "COL"
+    },
+    {
+      "edition": "XIII",
+      "year": 1984,
+      "host_city": "Ciudad de México",
+      "date": "10 de noviembre de 1984",
+      "winner_country": "CHL",
+      "song": "Agualuna",
+      "performer": "Fernando Ubiergo",
+      "second_place": "PRT",
+      "third_place": "MEX"
+    },
+    {
+      "edition": "XIV",
+      "year": 1985,
+      "host_city": "Sevilla",
+      "date": "21 de septiembre de 1985",
+      "winner_country": "MEX",
+      "song": "El fandango aquí",
+      "performer": "Eugenia León",
+      "second_place": "ARG ECU",
+      "third_place": "CHL"
+    },
+    {
+      "edition": "XV",
+      "year": 1986,
+      "host_city": "Santiago",
+      "date": "15 de noviembre de 1986",
+      "winner_country": "USA",
+      "song": "Todos",
+      "performer": "Damaris, Miguel Ángel Guerra y Eduardo Fabiani",
+      "second_place": "MEX",
+      "third_place": "ARG"
+    },
+    {
+      "edition": "XVI",
+      "year": 1987,
+      "host_city": "Lisboa",
+      "date": "24 de octubre de 1987",
+      "winner_country": "VEN",
+      "song": "La felicidad está en un rincón de tu corazón",
+      "performer": "Alfredo Alejandro",
+      "second_place": "ECU",
+      "third_place": "ESP MEX"
+    },
+    {
+      "edition": "XVII",
+      "year": 1988,
+      "host_city": "Buenos Aires",
+      "date": "19 de noviembre de 1988",
+      "winner_country": "ARG",
+      "song": "Todavía eres mi mujer",
+      "performer": "Guillermo Guido",
+      "second_place": "PRY",
+      "third_place": "PER DOM"
+    },
+    {
+      "edition": "XVIII",
+      "year": 1989,
+      "host_city": "Miami",
+      "date": "18 de noviembre de 1989",
+      "winner_country": "MEX",
+      "song": "Una canción no es suficiente",
+      "performer": "Analí",
+      "second_place": "ESP",
+      "third_place": "DOM"
+    },
+    {
+      "edition": "XIX",
+      "year": 1990,
+      "host_city": "Las Vegas",
+      "date": "1 de diciembre de 1990",
+      "winner_country": "MEX",
+      "song": "Un bolero",
+      "performer": "Carlos Cuevas",
+      "second_place": "NIC",
+      "third_place": "ESP"
+    },
+    {
+      "edition": "XX",
+      "year": 1991,
+      "host_city": "Acapulco",
+      "date": "14 de diciembre de 1991",
+      "winner_country": "ARG",
+      "song": "Adónde estás ahora",
+      "performer": "Claudia Brant",
+      "second_place": "COL",
+      "third_place": "MEX"
+    },
+    {
+      "edition": "XXI",
+      "year": 1992,
+      "host_city": "Valencia",
+      "date": "5 de diciembre de 1992",
+      "winner_country": "ESP",
+      "song": "A dónde voy sin ti",
+      "performer": "Francisco",
+      "second_place": "USA",
+      "third_place": "CHL"
+    },
+    {
+      "edition": "XXII",
+      "year": 1993,
+      "host_city": "Valencia",
+      "date": "9 de octubre de 1993",
+      "winner_country": "ESP",
+      "song": "Enamorarse",
+      "performer": "Ana Reverte",
+      "second_place": "MEX",
+      "third_place": "BRA PRT"
+    },
+    {
+      "edition": "XXIII",
+      "year": 1994,
+      "host_city": "Valencia",
+      "date": "15 de octubre de 1994",
+      "winner_country": "ARG",
+      "song": "Canción dispareja",
+      "performer": "Claudia Carenzio",
+      "second_place": "ESP",
+      "third_place": "VEN"
+    },
+    {
+      "edition": "XXIV",
+      "year": 1995,
+      "host_city": "San Bernardino",
+      "date": "11 de noviembre de 1995",
+      "winner_country": "ESP",
+      "song": "Eres mi debilidad",
+      "performer": "Marcos Llunas",
+      "second_place": "CHL",
+      "third_place": "CUB"
+    },
+    {
+      "edition": "XXV",
+      "year": 1996,
+      "host_city": "Quito",
+      "date": "14 de diciembre de 1996",
+      "winner_country": "ESP",
+      "song": "Manos",
+      "performer": "Anabel Russ",
+      "second_place": "ARG",
+      "third_place": "PER"
+    },
+    {
+      "edition": "XXVI",
+      "year": 1997,
+      "host_city": "Lima",
+      "date": "25 de octubre de 1997",
+      "winner_country": "MEX",
+      "song": "Se diga lo que se diga",
+      "performer": "Iridian",
+      "second_place": "CRI",
+      "third_place": "ESP"
+    },
+    {
+      "edition": "XXVII",
+      "year": 1998,
+      "host_city": "San José",
+      "date": "14 de noviembre de 1998",
+      "winner_country": "CHL",
+      "song": "Fin de siglo, este es el tiempo de inflamarse, deprimirse o transformarse",
+      "performer": "Florcita Motuda",
+      "second_place": "ARG",
+      "third_place": "PRT"
+    },
+    {
+      "edition": "XXVIII",
+      "year": 2000,
+      "host_city": "Acapulco",
+      "date": "20 de mayo de 2000",
+      "winner_country": "USA",
+      "song": "Hierba mala",
+      "performer": "Hermanas Chirino",
+      "second_place": "PRI",
+      "third_place": "MEX"
+    }
+  ],
+  "meta": {
+    "title": "Ganadores del Festival OTI de la Canción - Free Download",
+    "description": "Canciones e intérpretes ganadores del Festival OTI de la Canción (1972-2000), con sede, fecha y países en segundo y tercer lugar (códigos ISO). Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ganadores del Festival OTI de la Canción | ListBase",
+    "seo_description": "Download Ganadores del Festival OTI de la Canción — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Ganadores_del_Festival_OTI_de_la_Canción"
+    ]
+  }
+}

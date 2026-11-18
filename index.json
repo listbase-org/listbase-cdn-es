@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-17T02:13:51.962Z",
-  "total_datasets": 582,
-  "total_records": 435758,
+  "generated": "2026-11-18T02:31:40.151Z",
+  "total_datasets": 583,
+  "total_records": 435786,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -3777,6 +3777,36 @@
         "xlsx": {
           "name": "es-espana-en-eurovision_ES.xlsx",
           "size": 10478
+        }
+      }
+    },
+    {
+      "id": "es-festival-oti-ganadores",
+      "name": "Ganadores del Festival OTI de la Canción",
+      "category": "music",
+      "record_count": 28,
+      "columns": [
+        "edition",
+        "year",
+        "host_city",
+        "date",
+        "winner_country",
+        "song",
+        "performer",
+        "second_place",
+        "third_place"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Ganadores_del_Festival_OTI_de_la_Canción",
+      "updated": "2026-11",
+      "size": 10334,
+      "files": {
+        "csv": {
+          "name": "es-festival-oti-ganadores_ES.csv",
+          "size": 3140
+        },
+        "xlsx": {
+          "name": "es-festival-oti-ganadores_ES.xlsx",
+          "size": 9226
         }
       }
     },
