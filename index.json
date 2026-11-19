@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-18T02:31:48.797Z",
-  "total_datasets": 584,
-  "total_records": 435867,
+  "generated": "2026-11-19T02:19:16.463Z",
+  "total_datasets": 585,
+  "total_records": 435911,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -16726,6 +16726,34 @@
         "xlsx": {
           "name": "es-volcanes-de-chile_ES.xlsx",
           "size": 14440
+        }
+      }
+    },
+    {
+      "id": "es-volcanes-de-ecuador",
+      "name": "Volcanes de Ecuador",
+      "category": "science",
+      "record_count": 44,
+      "columns": [
+        "name",
+        "altitude_m",
+        "region",
+        "province",
+        "last_eruption",
+        "lat",
+        "lon"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Volcanes_de_Ecuador",
+      "updated": "2026-11",
+      "size": 10964,
+      "files": {
+        "csv": {
+          "name": "es-volcanes-de-ecuador_ES.csv",
+          "size": 3574
+        },
+        "xlsx": {
+          "name": "es-volcanes-de-ecuador_ES.xlsx",
+          "size": 9092
         }
       }
     },

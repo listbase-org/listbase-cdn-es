@@ -1,0 +1,457 @@
+{
+  "id": "es-volcanes-de-ecuador",
+  "name": "Volcanes de Ecuador",
+  "title": "Volcanes de Ecuador",
+  "description": "Volcanes del Ecuador continental y de las islas Galápagos con su altitud, provincia, última erupción y coordenadas.",
+  "category": "science",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Volcanes_de_Ecuador",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Volcanes_de_Ecuador",
+  "updated": "2026-11",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "altitude_m",
+      "label": "Altitude M",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "last_eruption",
+      "label": "Last Eruption",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Altar (El -)/Capacurco",
+      "altitude_m": 5319,
+      "region": "Ecuador continental",
+      "province": "Morona Santiago",
+      "last_eruption": "1490",
+      "lat": -1.6643,
+      "lon": -78.4113
+    },
+    {
+      "name": "Antisana",
+      "altitude_m": 5758,
+      "region": "Ecuador continental",
+      "province": "Napo",
+      "last_eruption": "1802",
+      "lat": -0.4844,
+      "lon": -78.1416
+    },
+    {
+      "name": "Atacazo",
+      "altitude_m": 4463,
+      "region": "Ecuador continental",
+      "province": "Pichincha",
+      "last_eruption": "-",
+      "lat": -0.35679,
+      "lon": -78.61899
+    },
+    {
+      "name": "Carihuairazo",
+      "altitude_m": 5018,
+      "region": "Ecuador continental",
+      "province": "Tungurahua",
+      "last_eruption": "-",
+      "lat": -1.4076,
+      "lon": -78.75139
+    },
+    {
+      "name": "Cayambe",
+      "altitude_m": 5790,
+      "region": "Ecuador continental",
+      "province": "Pichincha",
+      "last_eruption": "1786",
+      "lat": 0.025,
+      "lon": -77.9893
+    },
+    {
+      "name": "Chacana",
+      "altitude_m": 4643,
+      "region": "Ecuador continental",
+      "province": "Pichincha",
+      "last_eruption": "1773",
+      "lat": -0.2142,
+      "lon": -78.1858
+    },
+    {
+      "name": "Chiles",
+      "altitude_m": 4707,
+      "region": "Ecuador continental",
+      "province": "Carchi",
+      "last_eruption": "1936",
+      "lat": 0.8166,
+      "lon": -77.9372
+    },
+    {
+      "name": "Chimborazo",
+      "altitude_m": 6263,
+      "region": "Ecuador continental",
+      "province": "Chimborazo",
+      "last_eruption": "640 AD ± 500 años",
+      "lat": -1.46916,
+      "lon": -78.8172
+    },
+    {
+      "name": "Corazón",
+      "altitude_m": 4790,
+      "region": "Ecuador continental",
+      "province": "Pichincha",
+      "last_eruption": "Holoceno",
+      "lat": -0.5315,
+      "lon": -78.66
+    },
+    {
+      "name": "Cotopaxi",
+      "altitude_m": 5897,
+      "region": "Ecuador continental",
+      "province": "Cotopaxi",
+      "last_eruption": "2022",
+      "lat": -0.6805,
+      "lon": -78.4382
+    },
+    {
+      "name": "Cuicocha",
+      "altitude_m": 3500,
+      "region": "Ecuador continental",
+      "province": "Imbabura",
+      "last_eruption": "950 a. C.",
+      "lat": 0.3065,
+      "lon": -78.3484
+    },
+    {
+      "name": "Cusin",
+      "altitude_m": 4012,
+      "region": "Ecuador continental",
+      "province": "Imbabura",
+      "last_eruption": "-",
+      "lat": 0.1608,
+      "lon": -78.1471
+    },
+    {
+      "name": "Illiniza",
+      "altitude_m": 5245,
+      "region": "Ecuador continental",
+      "province": "Cotopaxi",
+      "last_eruption": "Holoceno",
+      "lat": -0.6624,
+      "lon": -78.716
+    },
+    {
+      "name": "Ilaló",
+      "altitude_m": 3186,
+      "region": "Ecuador continental",
+      "province": "Pichincha",
+      "last_eruption": "Holoceno",
+      "lat": -0.2628342,
+      "lon": -78.4194552
+    },
+    {
+      "name": "Imbabura",
+      "altitude_m": 4640,
+      "region": "Ecuador continental",
+      "province": "Imbabura",
+      "last_eruption": "Pleistoceno Superior",
+      "lat": 0.2608,
+      "lon": -78.1805
+    },
+    {
+      "name": "Licto/Tulabug",
+      "altitude_m": 3336,
+      "region": "Ecuador continental",
+      "province": "Chimborazo",
+      "last_eruption": "-",
+      "lat": -1.78385,
+      "lon": -78.61542
+    },
+    {
+      "name": "Mojanda",
+      "altitude_m": 4279,
+      "region": "Ecuador continental",
+      "province": "Imbabura",
+      "last_eruption": "Holoceno",
+      "lat": 0.1205,
+      "lon": -78.2593
+    },
+    {
+      "name": "Pan de Azúcar",
+      "altitude_m": 3482,
+      "region": "Ecuador continental",
+      "province": "Napo",
+      "last_eruption": "Holoceno",
+      "lat": -0.4325,
+      "lon": -77.719
+    },
+    {
+      "name": "Pasochoa",
+      "altitude_m": 4199,
+      "region": "Ecuador continental",
+      "province": "Pichincha",
+      "last_eruption": "-",
+      "lat": -0.467,
+      "lon": -78.4808
+    },
+    {
+      "name": "Pichincha (Guagua)",
+      "altitude_m": 4776,
+      "region": "Ecuador continental",
+      "province": "Pichincha",
+      "last_eruption": "1999",
+      "lat": -0.17726,
+      "lon": -78.59894
+    },
+    {
+      "name": "Pululahua",
+      "altitude_m": 3356,
+      "region": "Ecuador continental",
+      "province": "Pichincha",
+      "last_eruption": "-",
+      "lat": 0.035,
+      "lon": -78.4655
+    },
+    {
+      "name": "Quilotoa",
+      "altitude_m": 3930,
+      "region": "Ecuador continental",
+      "province": "Cotopaxi",
+      "last_eruption": "1797",
+      "lat": -0.8676,
+      "lon": -78.9155
+    },
+    {
+      "name": "Reventador",
+      "altitude_m": 3562,
+      "region": "Ecuador continental",
+      "province": "Sucumbíos",
+      "last_eruption": "2018",
+      "lat": -0.081,
+      "lon": -77.6586
+    },
+    {
+      "name": "Rumiñahui",
+      "altitude_m": 4722,
+      "region": "Ecuador continental",
+      "province": "Pichincha",
+      "last_eruption": "-",
+      "lat": -0.5816,
+      "lon": -78.5064
+    },
+    {
+      "name": "Sangay",
+      "altitude_m": 5260,
+      "region": "Ecuador continental",
+      "province": "Morona Santiago",
+      "last_eruption": "Activo",
+      "lat": -2.005,
+      "lon": -78.341
+    },
+    {
+      "name": "Sincholagua",
+      "altitude_m": 4899,
+      "region": "Ecuador continental",
+      "province": "Pichincha",
+      "last_eruption": "-",
+      "lat": -0.5383,
+      "lon": -78.3677
+    },
+    {
+      "name": "Soche",
+      "altitude_m": 3955,
+      "region": "Ecuador continental",
+      "province": "Sucumbíos",
+      "last_eruption": "-",
+      "lat": 0.551,
+      "lon": -77.582
+    },
+    {
+      "name": "Sumaco",
+      "altitude_m": 3990,
+      "region": "Ecuador continental",
+      "province": "Napo",
+      "last_eruption": "1933",
+      "lat": -0.541,
+      "lon": -77.627
+    },
+    {
+      "name": "Tungurahua",
+      "altitude_m": 5023,
+      "region": "Ecuador continental",
+      "province": "Tungurahua",
+      "last_eruption": "2016",
+      "lat": -1.47,
+      "lon": -78.4447
+    },
+    {
+      "name": "Alcedo",
+      "altitude_m": 1130,
+      "region": "Islas Galápagos",
+      "province": "Galápagos",
+      "last_eruption": "1993",
+      "lat": -0.43,
+      "lon": -91.12
+    },
+    {
+      "name": "Cerro Azul",
+      "altitude_m": 1640,
+      "region": "Islas Galápagos",
+      "province": "Galápagos",
+      "last_eruption": "2008",
+      "lat": -0.9,
+      "lon": -91.42
+    },
+    {
+      "name": "Darwin",
+      "altitude_m": 1330,
+      "region": "Islas Galápagos",
+      "province": "Galápagos",
+      "last_eruption": "1813",
+      "lat": -0.18,
+      "lon": -91.28
+    },
+    {
+      "name": "Ecuador",
+      "altitude_m": 790,
+      "region": "Islas Galápagos",
+      "province": "Galápagos",
+      "last_eruption": "1150",
+      "lat": -0.02,
+      "lon": -91.546
+    },
+    {
+      "name": "Isla Fernandina (La Cumbre)",
+      "altitude_m": 1495,
+      "region": "Islas Galápagos",
+      "province": "Galápagos",
+      "last_eruption": "2020",
+      "lat": -0.37,
+      "lon": -91.55
+    },
+    {
+      "name": "Isla Floreana (Cerro Pajas)",
+      "altitude_m": 640,
+      "region": "Islas Galápagos",
+      "province": "Galápagos",
+      "last_eruption": "-",
+      "lat": -1.3,
+      "lon": -90.45
+    },
+    {
+      "name": "Rift de Galápagos",
+      "altitude_m": -2430,
+      "region": "Islas Galápagos",
+      "province": "Galápagos",
+      "last_eruption": "1996",
+      "lat": 0.792,
+      "lon": -86.15
+    },
+    {
+      "name": "Genovesa",
+      "altitude_m": 64,
+      "region": "Islas Galápagos",
+      "province": "Galápagos",
+      "last_eruption": "-",
+      "lat": 0.32,
+      "lon": -89.958
+    },
+    {
+      "name": "Marchena",
+      "altitude_m": 343,
+      "region": "Islas Galápagos",
+      "province": "Galápagos",
+      "last_eruption": "1991",
+      "lat": -0.33,
+      "lon": -90.47
+    },
+    {
+      "name": "Pinta",
+      "altitude_m": 780,
+      "region": "Islas Galápagos",
+      "province": "Galápagos",
+      "last_eruption": "1928",
+      "lat": -0.58,
+      "lon": -90.75
+    },
+    {
+      "name": "San Cristóbal",
+      "altitude_m": 759,
+      "region": "Islas Galápagos",
+      "province": "Galápagos",
+      "last_eruption": "-",
+      "lat": -0.88,
+      "lon": -89.5
+    },
+    {
+      "name": "Santa Cruz",
+      "altitude_m": 964,
+      "region": "Islas Galápagos",
+      "province": "Galápagos",
+      "last_eruption": "-",
+      "lat": -0.62,
+      "lon": -90.33
+    },
+    {
+      "name": "Santiago",
+      "altitude_m": 920,
+      "region": "Islas Galápagos",
+      "province": "Galápagos",
+      "last_eruption": "1906",
+      "lat": -0.22,
+      "lon": -90.77
+    },
+    {
+      "name": "Sierra Negra",
+      "altitude_m": 1124,
+      "region": "Islas Galápagos",
+      "province": "Galápagos",
+      "last_eruption": "2018",
+      "lat": -0.83,
+      "lon": -91.17
+    },
+    {
+      "name": "Wolf",
+      "altitude_m": 1710,
+      "region": "Islas Galápagos",
+      "province": "Galápagos",
+      "last_eruption": "2015",
+      "lat": 0.02,
+      "lon": -91.35
+    }
+  ],
+  "meta": {
+    "title": "Volcanes de Ecuador - Free Download",
+    "description": "Volcanes del Ecuador continental y de las islas Galápagos con su altitud, provincia, última erupción y coordenadas. Contains 44 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Volcanes de Ecuador | ListBase",
+    "seo_description": "Download Volcanes de Ecuador — 44 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 44 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Volcanes_de_Ecuador"
+    ]
+  }
+}
