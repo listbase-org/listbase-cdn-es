@@ -1,0 +1,340 @@
+{
+  "id": "es-volcanes-de-colombia",
+  "name": "Volcanes de Colombia",
+  "title": "Volcanes de Colombia",
+  "description": "Volcanes de Colombia con su altura sobre el nivel del mar, tipo, última erupción conocida, departamento y coordenadas.",
+  "category": "science",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Volcanes_de_Colombia",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Volcanes_de_Colombia",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "altitude_m",
+      "label": "Altitude M",
+      "type": "number"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "last_eruption",
+      "label": "Last Eruption",
+      "type": "string"
+    },
+    {
+      "key": "department",
+      "label": "Department",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Volcán Azufral",
+      "altitude_m": 4070,
+      "type": "Estratovolcán",
+      "last_eruption": "930 a. C.",
+      "department": "Nariño",
+      "lat": 1.085083,
+      "lon": -77.718972
+    },
+    {
+      "name": "Cerro Bravo",
+      "altitude_m": 3985,
+      "type": "Estratovolcán",
+      "last_eruption": "1720 ± 150",
+      "department": "Tolima",
+      "lat": 5.090472,
+      "lon": -75.291611
+    },
+    {
+      "name": "Cerro Negro de Mayasquer",
+      "altitude_m": 4470,
+      "type": "Estratovolcán",
+      "last_eruption": "1936",
+      "department": "Nariño y Ecuador",
+      "lat": 0.824056,
+      "lon": -77.965694
+    },
+    {
+      "name": "Volcán Chiles",
+      "altitude_m": 4748,
+      "type": "Estratovolcán",
+      "last_eruption": "Pleistoceno",
+      "department": "Nariño y Ecuador",
+      "lat": 0.816778,
+      "lon": -77.937361
+    },
+    {
+      "name": "Volcán Cumbal",
+      "altitude_m": 4764,
+      "type": "Estratovolcán",
+      "last_eruption": "1926",
+      "department": "Nariño",
+      "lat": 0.949694,
+      "lon": -77.89625
+    },
+    {
+      "name": "Volcán Doña Juana",
+      "altitude_m": 4159,
+      "type": "Estratovolcán",
+      "last_eruption": "1906",
+      "department": "Nariño y Cauca",
+      "lat": 1.50025,
+      "lon": -76.93575
+    },
+    {
+      "name": "Nevado el Cisne",
+      "altitude_m": 4800,
+      "type": "Estratovolcán",
+      "last_eruption": "?",
+      "department": "Caldas",
+      "lat": 4.842528,
+      "lon": -75.345278
+    },
+    {
+      "name": "Volcán El Escondido",
+      "altitude_m": 1700,
+      "type": "Complejo anillo-domo",
+      "last_eruption": "30.000 años atrás",
+      "department": "Caldas",
+      "lat": 5.51675,
+      "lon": -75.047889
+    },
+    {
+      "name": "Volcán Galeras",
+      "altitude_m": 4256,
+      "type": "Estratovolcán",
+      "last_eruption": "2018",
+      "department": "Nariño",
+      "lat": 1.221417,
+      "lon": -77.359361
+    },
+    {
+      "name": "Nevado del Huila",
+      "altitude_m": 5364,
+      "type": "Estratovolcán y Volcán complejo",
+      "last_eruption": "2014",
+      "department": "Huila, Cauca y Tolima",
+      "lat": 2.923361,
+      "lon": -76.028139
+    },
+    {
+      "name": "Volcán Las Ánimas",
+      "altitude_m": 4180,
+      "type": "Estratovolcán",
+      "last_eruption": "?",
+      "department": "Nariño",
+      "lat": 1.565139,
+      "lon": -76.856944
+    },
+    {
+      "name": "Cerro Machín",
+      "altitude_m": 2750,
+      "type": "Estratovolcán",
+      "last_eruption": "1180 ± 150",
+      "department": "Tolima",
+      "lat": 4.485389,
+      "lon": -75.389361
+    },
+    {
+      "name": "Volcán Petacas",
+      "altitude_m": 4054,
+      "type": "Estratovolcán",
+      "last_eruption": "?",
+      "department": "Nariño y Cauca",
+      "lat": 1.675083,
+      "lon": -76.82
+    },
+    {
+      "name": "Volcán Puracé",
+      "altitude_m": 4646,
+      "type": "Estratovolcán",
+      "last_eruption": "1977",
+      "department": "Huila y Cauca",
+      "lat": 2.31325,
+      "lon": -76.395222
+    },
+    {
+      "name": "Nevado del Quindío",
+      "altitude_m": 4760,
+      "type": "Estratovolcán",
+      "last_eruption": "?",
+      "department": "Risaralda y Tolima",
+      "lat": 4.703778,
+      "lon": -75.383361
+    },
+    {
+      "name": "Volcán Romeral",
+      "altitude_m": 3858,
+      "type": "Estratovolcán",
+      "last_eruption": "5950 a. C",
+      "department": "Caldas",
+      "lat": 5.217639,
+      "lon": -75.368889
+    },
+    {
+      "name": "Nevado del Ruiz",
+      "altitude_m": 5321,
+      "type": "Estratovolcán",
+      "last_eruption": "2016",
+      "department": "Caldas y Tolima",
+      "lat": 4.892667,
+      "lon": -75.319583
+    },
+    {
+      "name": "Laguna San Diego",
+      "altitude_m": 850,
+      "type": "Maar y Estratovolcán",
+      "last_eruption": "10 000 años atrás",
+      "department": "Caldas",
+      "lat": 5.650222,
+      "lon": -74.960222
+    },
+    {
+      "name": "Nevado de Santa Isabel",
+      "altitude_m": 4965,
+      "type": "Estratovolcán",
+      "last_eruption": "1943",
+      "department": "Caldas, Risaralda y Tolima",
+      "lat": 4.817917,
+      "lon": -75.365444
+    },
+    {
+      "name": "Volcán Sotará",
+      "altitude_m": 4400,
+      "type": "Complejo volcánico",
+      "last_eruption": "?",
+      "department": "Cauca",
+      "lat": 2.107917,
+      "lon": -76.591139
+    },
+    {
+      "name": "Nevado del Tolima",
+      "altitude_m": 5261,
+      "type": "Estratovolcán",
+      "last_eruption": "2800 a. C",
+      "department": "Tolima",
+      "lat": 4.658611,
+      "lon": -75.330222
+    },
+    {
+      "name": "Volcán del Totumo",
+      "altitude_m": 7,
+      "type": "Caldera de lodo",
+      "last_eruption": "2000",
+      "department": "Bolívar",
+      "lat": 10.7445306,
+      "lon": -75.2411917
+    },
+    {
+      "name": "Volcán Alto de Mulatos",
+      "altitude_m": 387,
+      "type": "Caldera de lodo",
+      "last_eruption": "2024",
+      "department": "Antioquia",
+      "lat": 8.1358222,
+      "lon": -76.55035
+    },
+    {
+      "name": "Volcán Alto Mellizos",
+      "altitude_m": 2441,
+      "type": "Estratovolcán",
+      "last_eruption": "?",
+      "department": "Caldas",
+      "lat": 5.504194,
+      "lon": -75.661833
+    },
+    {
+      "name": "Volcán Arboletes",
+      "altitude_m": 10,
+      "type": "Caldera de lodo",
+      "last_eruption": "?",
+      "department": "Antioquia",
+      "lat": 8.8503667,
+      "lon": -76.432275
+    },
+    {
+      "name": "Volcán Bordoncillo",
+      "altitude_m": 3455,
+      "type": "Estratovolcán",
+      "last_eruption": "?",
+      "department": "Nariño y Putumayo",
+      "lat": 1.156056,
+      "lon": -77.098806
+    },
+    {
+      "name": "Volcán Paipa",
+      "altitude_m": 2825,
+      "type": "Domo de lava",
+      "last_eruption": "?",
+      "department": "Boyacá",
+      "lat": 5.693611,
+      "lon": -73.119861
+    },
+    {
+      "name": "Volcán Morasurco",
+      "altitude_m": 3550,
+      "type": "Estratovolcán",
+      "last_eruption": "",
+      "department": "Nariño",
+      "lat": 1.27056,
+      "lon": -77.24083
+    },
+    {
+      "name": "Volcán Patascoy",
+      "altitude_m": 3950,
+      "type": "Estratovolcán",
+      "last_eruption": "",
+      "department": "Nariño y Putumayo",
+      "lat": 0.96139,
+      "lon": -77.07194
+    },
+    {
+      "name": "Volcán Pan de Azúcar",
+      "altitude_m": 4445,
+      "type": "Estratovolcán",
+      "last_eruption": "",
+      "department": "Huila",
+      "lat": 2.87417,
+      "lon": -75.715
+    },
+    {
+      "name": "Paramillo de Santa Rosa",
+      "altitude_m": 4600,
+      "type": "Estratovolcán",
+      "last_eruption": "",
+      "department": "Risaralda",
+      "lat": 4.7877722,
+      "lon": -75.4652472
+    }
+  ],
+  "meta": {
+    "title": "Volcanes de Colombia - Free Download",
+    "description": "Volcanes de Colombia con su altura sobre el nivel del mar, tipo, última erupción conocida, departamento y coordenadas. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Volcanes de Colombia | ListBase",
+    "seo_description": "Download Volcanes de Colombia — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Volcanes_de_Colombia"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-19T02:19:16.463Z",
-  "total_datasets": 585,
-  "total_records": 435911,
+  "generated": "2026-11-19T02:19:25.310Z",
+  "total_datasets": 586,
+  "total_records": 435942,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "society",
@@ -16726,6 +16726,34 @@
         "xlsx": {
           "name": "es-volcanes-de-chile_ES.xlsx",
           "size": 14440
+        }
+      }
+    },
+    {
+      "id": "es-volcanes-de-colombia",
+      "name": "Volcanes de Colombia",
+      "category": "science",
+      "record_count": 31,
+      "columns": [
+        "name",
+        "altitude_m",
+        "type",
+        "last_eruption",
+        "department",
+        "lat",
+        "lon"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Volcanes_de_Colombia",
+      "updated": "2026-11",
+      "size": 8578,
+      "files": {
+        "csv": {
+          "name": "es-volcanes-de-colombia_ES.csv",
+          "size": 2865
+        },
+        "xlsx": {
+          "name": "es-volcanes-de-colombia_ES.xlsx",
+          "size": 8734
         }
       }
     },
