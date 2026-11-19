@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-19T02:19:25.310Z",
-  "total_datasets": 586,
-  "total_records": 435942,
+  "generated": "2026-11-19T02:19:33.978Z",
+  "total_datasets": 587,
+  "total_records": 435972,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "health",
@@ -2249,6 +2249,33 @@
         "xlsx": {
           "name": "es-estaciones-de-ferrocarril_ES.xlsx",
           "size": 412833
+        }
+      }
+    },
+    {
+      "id": "es-montanas-de-colombia",
+      "name": "Montañas más altas de Colombia",
+      "category": "geography",
+      "record_count": 30,
+      "columns": [
+        "name",
+        "altitude_m",
+        "range",
+        "location",
+        "lat",
+        "lon"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Montañas_de_Colombia",
+      "updated": "2026-11",
+      "size": 7315,
+      "files": {
+        "csv": {
+          "name": "es-montanas-de-colombia_ES.csv",
+          "size": 2506
+        },
+        "xlsx": {
+          "name": "es-montanas-de-colombia_ES.xlsx",
+          "size": 8295
         }
       }
     },
