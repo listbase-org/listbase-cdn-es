@@ -1,0 +1,236 @@
+{
+  "id": "es-museos-mas-visitados-de-espana",
+  "name": "Museos más visitados de España",
+  "title": "Museos más visitados de España",
+  "description": "Los museos más visitados de España con su ciudad y número de visitantes anuales de 2019 a 2024.",
+  "category": "tourism",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Museos_más_visitados_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Museos_más_visitados_de_España",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "museum",
+      "label": "Museum",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "visitors_2019",
+      "label": "Visitors 2019",
+      "type": "number"
+    },
+    {
+      "key": "visitors_2020",
+      "label": "Visitors 2020",
+      "type": "number"
+    },
+    {
+      "key": "visitors_2021",
+      "label": "Visitors 2021",
+      "type": "number"
+    },
+    {
+      "key": "visitors_2022",
+      "label": "Visitors 2022",
+      "type": "number"
+    },
+    {
+      "key": "visitors_2023",
+      "label": "Visitors 2023",
+      "type": "number"
+    },
+    {
+      "key": "visitors_2024",
+      "label": "Visitors 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "museum": "Museo Nacional Centro de Arte Reina Sofía",
+      "city": "Madrid",
+      "visitors_2019": 4425699,
+      "visitors_2020": 1248486,
+      "visitors_2021": 1643108,
+      "visitors_2022": 3063092,
+      "visitors_2023": 2530560,
+      "visitors_2024": 1960249
+    },
+    {
+      "rank": 2,
+      "museum": "Museo del Prado",
+      "city": "Madrid",
+      "visitors_2019": 3497345,
+      "visitors_2020": 852161,
+      "visitors_2021": 1175078,
+      "visitors_2022": 2456724,
+      "visitors_2023": 3337550,
+      "visitors_2024": 3457057
+    },
+    {
+      "rank": 3,
+      "museum": "Museo del Fútbol Club Barcelona",
+      "city": "Barcelona",
+      "visitors_2019": 1661156,
+      "visitors_2020": 226555,
+      "visitors_2021": 378691,
+      "visitors_2022": 1298502,
+      "visitors_2023": 1186120,
+      "visitors_2024": 783987
+    },
+    {
+      "rank": 4,
+      "museum": "Museo Guggenheim Bilbao",
+      "city": "Bilbao",
+      "visitors_2019": 1170669,
+      "visitors_2020": 315908,
+      "visitors_2021": 530967,
+      "visitors_2022": 1289147,
+      "visitors_2023": 1324211,
+      "visitors_2024": 1301343
+    },
+    {
+      "rank": 5,
+      "museum": "Borne Centro de Cultura y Memoria",
+      "city": "Barcelona",
+      "visitors_2019": 1170255,
+      "visitors_2020": 295566,
+      "visitors_2021": 403821,
+      "visitors_2022": 752121,
+      "visitors_2023": 926092,
+      "visitors_2024": 970885
+    },
+    {
+      "rank": 6,
+      "museum": "Museo Picasso Barcelona",
+      "city": "Barcelona",
+      "visitors_2019": 1073718,
+      "visitors_2020": 194017,
+      "visitors_2021": 297242,
+      "visitors_2022": 794806,
+      "visitors_2023": 1047073,
+      "visitors_2024": 1128140
+    },
+    {
+      "rank": 7,
+      "museum": "Museo Thyssen-Bornemisza",
+      "city": "Madrid",
+      "visitors_2019": 1034941,
+      "visitors_2020": 341008,
+      "visitors_2021": 671078,
+      "visitors_2022": 1072003,
+      "visitors_2023": 1012660,
+      "visitors_2024": 951821
+    },
+    {
+      "rank": 8,
+      "museum": "CosmoCaixa Barcelona",
+      "city": "Barcelona",
+      "visitors_2019": 1002965,
+      "visitors_2020": 358480,
+      "visitors_2021": 543164,
+      "visitors_2022": 818940,
+      "visitors_2023": 1266989,
+      "visitors_2024": 1181600
+    },
+    {
+      "rank": 9,
+      "museum": "Museo de las Ciencias",
+      "city": "Valencia",
+      "visitors_2019": 891645,
+      "visitors_2020": "",
+      "visitors_2021": "",
+      "visitors_2022": 821718,
+      "visitors_2023": 1079521,
+      "visitors_2024": 1125954
+    },
+    {
+      "rank": 10,
+      "museum": "Museo Nacional de Arte de Cataluña",
+      "city": "Barcelona",
+      "visitors_2019": 835164,
+      "visitors_2020": 210465,
+      "visitors_2021": 296179,
+      "visitors_2022": 549890,
+      "visitors_2023": 570993,
+      "visitors_2024": 826199
+    },
+    {
+      "rank": 11,
+      "museum": "Parque de las Ciencias de Granada",
+      "city": "Granada",
+      "visitors_2019": 757515,
+      "visitors_2020": 252331,
+      "visitors_2021": 323892,
+      "visitors_2022": 681676,
+      "visitors_2023": 900000,
+      "visitors_2024": 954126
+    },
+    {
+      "rank": 12,
+      "museum": "CaixaForum Madrid",
+      "city": "Madrid",
+      "visitors_2019": 719584,
+      "visitors_2020": 230891,
+      "visitors_2021": 307100,
+      "visitors_2022": 695797,
+      "visitors_2023": 655422,
+      "visitors_2024": 940000
+    },
+    {
+      "rank": 13,
+      "museum": "Museo Picasso Málaga",
+      "city": "Málaga",
+      "visitors_2019": 703807,
+      "visitors_2020": 111818,
+      "visitors_2021": 254133,
+      "visitors_2022": 641216,
+      "visitors_2023": 779279,
+      "visitors_2024": 792353
+    },
+    {
+      "rank": 14,
+      "museum": "CaixaForum Barcelona",
+      "city": "Barcelona",
+      "visitors_2019": 674594,
+      "visitors_2020": 213478,
+      "visitors_2021": 390239,
+      "visitors_2022": 518809,
+      "visitors_2023": 483852,
+      "visitors_2024": 508796
+    },
+    {
+      "rank": 15,
+      "museum": "Museo Arqueológico Nacional",
+      "city": "Madrid",
+      "visitors_2019": 499300,
+      "visitors_2020": 260000,
+      "visitors_2021": 329714,
+      "visitors_2022": 455909,
+      "visitors_2023": 506873,
+      "visitors_2024": 627334
+    }
+  ],
+  "meta": {
+    "title": "Museos más visitados de España - Free Download",
+    "description": "Los museos más visitados de España con su ciudad y número de visitantes anuales de 2019 a 2024. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Museos más visitados de España | ListBase",
+    "seo_description": "Download Museos más visitados de España — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Museos_más_visitados_de_España"
+    ]
+  }
+}
