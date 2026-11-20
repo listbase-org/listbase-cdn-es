@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-20T02:10:50.018Z",
-  "total_datasets": 588,
-  "total_records": 436005,
+  "generated": "2026-11-20T02:11:00.754Z",
+  "total_datasets": 589,
+  "total_records": 436064,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -17839,6 +17839,31 @@
         "xlsx": {
           "name": "es-castillos-por-provincia_ES.xlsx",
           "size": 7921
+        }
+      }
+    },
+    {
+      "id": "es-destinos-turisticos-mas-visitados-mexico",
+      "name": "Destinos turísticos más visitados de México (ocupación hotelera 2024)",
+      "category": "tourism",
+      "record_count": 59,
+      "columns": [
+        "destination",
+        "rooms_occupied_2024",
+        "rooms_available_2024",
+        "hotel_occupancy_pct_2024"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Destinos_más_visitados_de_México",
+      "updated": "2026-11",
+      "size": 11305,
+      "files": {
+        "csv": {
+          "name": "es-destinos-turisticos-mas-visitados-mexico_ES.csv",
+          "size": 2137
+        },
+        "xlsx": {
+          "name": "es-destinos-turisticos-mas-visitados-mexico_ES.xlsx",
+          "size": 8797
         }
       }
     },

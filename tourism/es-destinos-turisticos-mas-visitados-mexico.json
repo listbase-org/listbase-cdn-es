@@ -1,0 +1,400 @@
+{
+  "id": "es-destinos-turisticos-mas-visitados-mexico",
+  "name": "Destinos turísticos más visitados de México (ocupación hotelera 2024)",
+  "title": "Destinos turísticos más visitados de México (ocupación hotelera 2024)",
+  "description": "Destinos turísticos de México con cuartos de hotel ocupados y disponibles (promedio) y porcentaje de ocupación hotelera en 2024.",
+  "category": "tourism",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Destinos_más_visitados_de_México",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Destinos_más_visitados_de_México",
+  "updated": "2026-11",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "destination",
+      "label": "Destination",
+      "type": "string"
+    },
+    {
+      "key": "rooms_occupied_2024",
+      "label": "Rooms Occupied 2024",
+      "type": "number"
+    },
+    {
+      "key": "rooms_available_2024",
+      "label": "Rooms Available 2024",
+      "type": "number"
+    },
+    {
+      "key": "hotel_occupancy_pct_2024",
+      "label": "Hotel Occupancy Pct 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "destination": "Riviera Maya",
+      "rooms_occupied_2024": 39354,
+      "rooms_available_2024": 52172,
+      "hotel_occupancy_pct_2024": 75.4
+    },
+    {
+      "destination": "Ciudad de México",
+      "rooms_occupied_2024": 36510,
+      "rooms_available_2024": 61371,
+      "hotel_occupancy_pct_2024": 59.5
+    },
+    {
+      "destination": "Cancún",
+      "rooms_occupied_2024": 26299,
+      "rooms_available_2024": 35511,
+      "hotel_occupancy_pct_2024": 74.1
+    },
+    {
+      "destination": "Los Cabos",
+      "rooms_occupied_2024": 16224,
+      "rooms_available_2024": 22146,
+      "hotel_occupancy_pct_2024": 73.3
+    },
+    {
+      "destination": "Guadalajara",
+      "rooms_occupied_2024": 11839,
+      "rooms_available_2024": 22407,
+      "hotel_occupancy_pct_2024": 52.8
+    },
+    {
+      "destination": "Monterrey",
+      "rooms_occupied_2024": 11056,
+      "rooms_available_2024": 17295,
+      "hotel_occupancy_pct_2024": 63.9
+    },
+    {
+      "destination": "Puerto Vallarta",
+      "rooms_occupied_2024": 9477,
+      "rooms_available_2024": 13381,
+      "hotel_occupancy_pct_2024": 70.8
+    },
+    {
+      "destination": "Nuevo Nayarit",
+      "rooms_occupied_2024": 8278,
+      "rooms_available_2024": 10903,
+      "hotel_occupancy_pct_2024": 75.9
+    },
+    {
+      "destination": "Mazatlán",
+      "rooms_occupied_2024": 6164,
+      "rooms_available_2024": 10091,
+      "hotel_occupancy_pct_2024": 61.1
+    },
+    {
+      "destination": "Puebla",
+      "rooms_occupied_2024": 6141,
+      "rooms_available_2024": 10386,
+      "hotel_occupancy_pct_2024": 59.1
+    },
+    {
+      "destination": "Acapulco",
+      "rooms_occupied_2024": 6082,
+      "rooms_available_2024": 17676,
+      "hotel_occupancy_pct_2024": 34.4
+    },
+    {
+      "destination": "Veracruz - Boca del Río",
+      "rooms_occupied_2024": 5475,
+      "rooms_available_2024": 10507,
+      "hotel_occupancy_pct_2024": 52.1
+    },
+    {
+      "destination": "Mérida",
+      "rooms_occupied_2024": 4691,
+      "rooms_available_2024": 8276,
+      "hotel_occupancy_pct_2024": 56.7
+    },
+    {
+      "destination": "Querétaro",
+      "rooms_occupied_2024": 4470,
+      "rooms_available_2024": 7422,
+      "hotel_occupancy_pct_2024": 60.2
+    },
+    {
+      "destination": "Tijuana",
+      "rooms_occupied_2024": 4108,
+      "rooms_available_2024": 6359,
+      "hotel_occupancy_pct_2024": 64.6
+    },
+    {
+      "destination": "Ixtapa - Zihuatanejo",
+      "rooms_occupied_2024": 4085,
+      "rooms_available_2024": 6803,
+      "hotel_occupancy_pct_2024": 60.1
+    },
+    {
+      "destination": "Oaxaca",
+      "rooms_occupied_2024": 3350,
+      "rooms_available_2024": 6045,
+      "hotel_occupancy_pct_2024": 55.4
+    },
+    {
+      "destination": "San Luis Potosí",
+      "rooms_occupied_2024": 3268,
+      "rooms_available_2024": 6116,
+      "hotel_occupancy_pct_2024": 53.4
+    },
+    {
+      "destination": "Aguascalientes",
+      "rooms_occupied_2024": 3072,
+      "rooms_available_2024": 6340,
+      "hotel_occupancy_pct_2024": 48.5
+    },
+    {
+      "destination": "León",
+      "rooms_occupied_2024": 3024,
+      "rooms_available_2024": 6648,
+      "hotel_occupancy_pct_2024": 45.5
+    },
+    {
+      "destination": "Chihuahua",
+      "rooms_occupied_2024": 3006,
+      "rooms_available_2024": 4904,
+      "hotel_occupancy_pct_2024": 61.3
+    },
+    {
+      "destination": "Ciudad Juárez",
+      "rooms_occupied_2024": 2950,
+      "rooms_available_2024": 4542,
+      "hotel_occupancy_pct_2024": 65
+    },
+    {
+      "destination": "Villahermosa",
+      "rooms_occupied_2024": 2916,
+      "rooms_available_2024": 5215,
+      "hotel_occupancy_pct_2024": 55.9
+    },
+    {
+      "destination": "Huatulco",
+      "rooms_occupied_2024": 2837,
+      "rooms_available_2024": 4345,
+      "hotel_occupancy_pct_2024": 65.3
+    },
+    {
+      "destination": "Cozumel",
+      "rooms_occupied_2024": 2590,
+      "rooms_available_2024": 5147,
+      "hotel_occupancy_pct_2024": 50.3
+    },
+    {
+      "destination": "Manzanillo",
+      "rooms_occupied_2024": 2360,
+      "rooms_available_2024": 4313,
+      "hotel_occupancy_pct_2024": 54.7
+    },
+    {
+      "destination": "Morelia",
+      "rooms_occupied_2024": 2020,
+      "rooms_available_2024": 3965,
+      "hotel_occupancy_pct_2024": 51
+    },
+    {
+      "destination": "Tuxtla Gutiérrez",
+      "rooms_occupied_2024": 1780,
+      "rooms_available_2024": 4152,
+      "hotel_occupancy_pct_2024": 42.9
+    },
+    {
+      "destination": "Toluca",
+      "rooms_occupied_2024": 1780,
+      "rooms_available_2024": 4152,
+      "hotel_occupancy_pct_2024": 42.9
+    },
+    {
+      "destination": "La Paz",
+      "rooms_occupied_2024": 1779,
+      "rooms_available_2024": 2682,
+      "hotel_occupancy_pct_2024": 66.4
+    },
+    {
+      "destination": "Hermosillo",
+      "rooms_occupied_2024": 1695,
+      "rooms_available_2024": 3094,
+      "hotel_occupancy_pct_2024": 54.8
+    },
+    {
+      "destination": "Mexicali",
+      "rooms_occupied_2024": 1648,
+      "rooms_available_2024": 2835,
+      "hotel_occupancy_pct_2024": 58.1
+    },
+    {
+      "destination": "Xalapa",
+      "rooms_occupied_2024": 1568,
+      "rooms_available_2024": 3163,
+      "hotel_occupancy_pct_2024": 49.6
+    },
+    {
+      "destination": "San Juan de los Lagos",
+      "rooms_occupied_2024": 1286,
+      "rooms_available_2024": 3676,
+      "hotel_occupancy_pct_2024": 35
+    },
+    {
+      "destination": "Puerto Escondido",
+      "rooms_occupied_2024": 1206,
+      "rooms_available_2024": 2629,
+      "hotel_occupancy_pct_2024": 45.9
+    },
+    {
+      "destination": "San Miguel de Allende",
+      "rooms_occupied_2024": 1203,
+      "rooms_available_2024": 3071,
+      "hotel_occupancy_pct_2024": 39.2
+    },
+    {
+      "destination": "Guanajuato",
+      "rooms_occupied_2024": 1078,
+      "rooms_available_2024": 3353,
+      "hotel_occupancy_pct_2024": 32.2
+    },
+    {
+      "destination": "Campeche",
+      "rooms_occupied_2024": 1061,
+      "rooms_available_2024": 2054,
+      "hotel_occupancy_pct_2024": 51.6
+    },
+    {
+      "destination": "Rosarito",
+      "rooms_occupied_2024": 1028,
+      "rooms_available_2024": 2629,
+      "hotel_occupancy_pct_2024": 39.1
+    },
+    {
+      "destination": "Pachuca",
+      "rooms_occupied_2024": 1006,
+      "rooms_available_2024": 1664,
+      "hotel_occupancy_pct_2024": 60.5
+    },
+    {
+      "destination": "Durango",
+      "rooms_occupied_2024": 993,
+      "rooms_available_2024": 1933,
+      "hotel_occupancy_pct_2024": 51.4
+    },
+    {
+      "destination": "Zacatecas",
+      "rooms_occupied_2024": 985,
+      "rooms_available_2024": 3002,
+      "hotel_occupancy_pct_2024": 32.8
+    },
+    {
+      "destination": "Celaya",
+      "rooms_occupied_2024": 947,
+      "rooms_available_2024": 2675,
+      "hotel_occupancy_pct_2024": 35.4
+    },
+    {
+      "destination": "Coatzacoalcos",
+      "rooms_occupied_2024": 937,
+      "rooms_available_2024": 1943,
+      "hotel_occupancy_pct_2024": 48.2
+    },
+    {
+      "destination": "Irapuato",
+      "rooms_occupied_2024": 933,
+      "rooms_available_2024": 2616,
+      "hotel_occupancy_pct_2024": 35.7
+    },
+    {
+      "destination": "San Cristóbal de Las Casas",
+      "rooms_occupied_2024": 842,
+      "rooms_available_2024": 3286,
+      "hotel_occupancy_pct_2024": 25.6
+    },
+    {
+      "destination": "Isla Mujeres",
+      "rooms_occupied_2024": 796,
+      "rooms_available_2024": 1639,
+      "hotel_occupancy_pct_2024": 48.6
+    },
+    {
+      "destination": "Palenque",
+      "rooms_occupied_2024": 762,
+      "rooms_available_2024": 2073,
+      "hotel_occupancy_pct_2024": 36.8
+    },
+    {
+      "destination": "Piedras Negras",
+      "rooms_occupied_2024": 711,
+      "rooms_available_2024": 1249,
+      "hotel_occupancy_pct_2024": 57
+    },
+    {
+      "destination": "Colima",
+      "rooms_occupied_2024": 513,
+      "rooms_available_2024": 1164,
+      "hotel_occupancy_pct_2024": 44
+    },
+    {
+      "destination": "Tecate",
+      "rooms_occupied_2024": 402,
+      "rooms_available_2024": 601,
+      "hotel_occupancy_pct_2024": 66.8
+    },
+    {
+      "destination": "Salamanca",
+      "rooms_occupied_2024": 370,
+      "rooms_available_2024": 1031,
+      "hotel_occupancy_pct_2024": 35.9
+    },
+    {
+      "destination": "Comitán",
+      "rooms_occupied_2024": 305,
+      "rooms_available_2024": 1381,
+      "hotel_occupancy_pct_2024": 22.1
+    },
+    {
+      "destination": "San Felipe",
+      "rooms_occupied_2024": 245,
+      "rooms_available_2024": 827,
+      "hotel_occupancy_pct_2024": 29.6
+    },
+    {
+      "destination": "Valle de Bravo",
+      "rooms_occupied_2024": 244,
+      "rooms_available_2024": 1271,
+      "hotel_occupancy_pct_2024": 19.2
+    },
+    {
+      "destination": "Tonalá - Puerto Arista",
+      "rooms_occupied_2024": 235,
+      "rooms_available_2024": 725,
+      "hotel_occupancy_pct_2024": 32.4
+    },
+    {
+      "destination": "Tlaxcala",
+      "rooms_occupied_2024": 212,
+      "rooms_available_2024": 684,
+      "hotel_occupancy_pct_2024": 31.1
+    },
+    {
+      "destination": "Taxco",
+      "rooms_occupied_2024": 212,
+      "rooms_available_2024": 890,
+      "hotel_occupancy_pct_2024": 23.8
+    },
+    {
+      "destination": "Centros DataTur",
+      "rooms_occupied_2024": 263090,
+      "rooms_available_2024": 443965,
+      "hotel_occupancy_pct_2024": 59.3
+    }
+  ],
+  "meta": {
+    "title": "Destinos turísticos más visitados de México (ocupación hotelera 2024) - Free Download",
+    "description": "Destinos turísticos de México con cuartos de hotel ocupados y disponibles (promedio) y porcentaje de ocupación hotelera en 2024. Contains 59 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Destinos turísticos más visitados de México (ocupación hotelera 2024) | ListBase",
+    "seo_description": "Download Destinos turísticos más visitados de México (ocupación hotelera 2024) — 59 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 59 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Destinos_más_visitados_de_México"
+    ]
+  }
+}
