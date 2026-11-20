@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-19T02:19:33.978Z",
-  "total_datasets": 587,
-  "total_records": 435972,
+  "generated": "2026-11-20T02:10:50.018Z",
+  "total_datasets": 588,
+  "total_records": 436005,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -469,6 +469,33 @@
         "xlsx": {
           "name": "es-premio-planeta-de-novela_ES.xlsx",
           "size": 11914
+        }
+      }
+    },
+    {
+      "id": "es-departamentos-colombia-pib-per-capita",
+      "name": "Departamentos de Colombia por PIB per cápita (2022)",
+      "category": "economy",
+      "record_count": 33,
+      "columns": [
+        "rank",
+        "department",
+        "gdp_per_capita_cop",
+        "gdp_per_capita_usd",
+        "pct_of_national_avg",
+        "comparable_country"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Departamentos_de_Colombia_por_PIB_per_cápita_(nominal)",
+      "updated": "2026-11",
+      "size": 9059,
+      "files": {
+        "csv": {
+          "name": "es-departamentos-colombia-pib-per-capita_ES.csv",
+          "size": 1888
+        },
+        "xlsx": {
+          "name": "es-departamentos-colombia-pib-per-capita_ES.xlsx",
+          "size": 8475
         }
       }
     },

@@ -1,0 +1,320 @@
+{
+  "id": "es-departamentos-colombia-pib-per-capita",
+  "name": "Departamentos de Colombia por PIB per cápita (2022)",
+  "title": "Departamentos de Colombia por PIB per cápita (2022)",
+  "description": "PIB per cápita nominal de los departamentos de Colombia en 2022, en pesos colombianos y dólares, con el porcentaje respecto al promedio nacional.",
+  "category": "economy",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Departamentos_de_Colombia_por_PIB_per_cápita_(nominal)",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Departamentos_de_Colombia_por_PIB_per_cápita_(nominal)",
+  "updated": "2026-11",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "department",
+      "label": "Department",
+      "type": "string"
+    },
+    {
+      "key": "gdp_per_capita_cop",
+      "label": "Gdp Per Capita Cop",
+      "type": "number"
+    },
+    {
+      "key": "gdp_per_capita_usd",
+      "label": "Gdp Per Capita Usd",
+      "type": "number"
+    },
+    {
+      "key": "pct_of_national_avg",
+      "label": "Pct Of National Avg",
+      "type": "number"
+    },
+    {
+      "key": "comparable_country",
+      "label": "Comparable Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "department": "Meta",
+      "gdp_per_capita_cop": 52468105,
+      "gdp_per_capita_usd": 12327,
+      "pct_of_national_avg": 185.4,
+      "comparable_country": "Malasia"
+    },
+    {
+      "rank": 2,
+      "department": "Casanare",
+      "gdp_per_capita_cop": 51439231,
+      "gdp_per_capita_usd": 12086,
+      "pct_of_national_avg": 181.8,
+      "comparable_country": "Malasia"
+    },
+    {
+      "rank": 3,
+      "department": "Bogotá D. C.",
+      "gdp_per_capita_cop": 45375877,
+      "gdp_per_capita_usd": 10661,
+      "pct_of_national_avg": 160.3,
+      "comparable_country": "Turquía"
+    },
+    {
+      "rank": 4,
+      "department": "Santander",
+      "gdp_per_capita_cop": 39514892,
+      "gdp_per_capita_usd": 9284,
+      "pct_of_national_avg": 139.6,
+      "comparable_country": "San Vicente y las Granadinas"
+    },
+    {
+      "rank": 5,
+      "department": "San Andrés y Providencia",
+      "gdp_per_capita_cop": 34140396,
+      "gdp_per_capita_usd": 8021,
+      "pct_of_national_avg": 120.6,
+      "comparable_country": "Bielorrusia"
+    },
+    {
+      "rank": 6,
+      "department": "Antioquia",
+      "gdp_per_capita_cop": 31308158,
+      "gdp_per_capita_usd": 7356,
+      "pct_of_national_avg": 110.6,
+      "comparable_country": "Guinea Ecuatorial"
+    },
+    {
+      "rank": 7,
+      "department": "Boyacá",
+      "gdp_per_capita_cop": 30238991,
+      "gdp_per_capita_usd": 7105,
+      "pct_of_national_avg": 106.9,
+      "comparable_country": "Perú"
+    },
+    {
+      "rank": 8,
+      "department": "Valle del Cauca",
+      "gdp_per_capita_cop": 30233726,
+      "gdp_per_capita_usd": 7103,
+      "pct_of_national_avg": 106.8,
+      "comparable_country": "Perú"
+    },
+    {
+      "rank": 9,
+      "department": "Cesar",
+      "gdp_per_capita_cop": 27812760,
+      "gdp_per_capita_usd": 6535,
+      "pct_of_national_avg": 98.3,
+      "comparable_country": "Macedonia del Norte"
+    },
+    {
+      "rank": 10,
+      "department": "Arauca",
+      "gdp_per_capita_cop": 27787180,
+      "gdp_per_capita_usd": 6529,
+      "pct_of_national_avg": 98.2,
+      "comparable_country": "Macedonia del Norte"
+    },
+    {
+      "rank": 11,
+      "department": "Cundinamarca",
+      "gdp_per_capita_cop": 27572999,
+      "gdp_per_capita_usd": 6478,
+      "pct_of_national_avg": 97.4,
+      "comparable_country": "Ecuador"
+    },
+    {
+      "rank": 12,
+      "department": "Risaralda",
+      "gdp_per_capita_cop": 24518535,
+      "gdp_per_capita_usd": 5761,
+      "pct_of_national_avg": 83.3,
+      "comparable_country": "Moldavia"
+    },
+    {
+      "rank": 13,
+      "department": "Caldas",
+      "gdp_per_capita_cop": 23162103,
+      "gdp_per_capita_usd": 5442,
+      "pct_of_national_avg": 86.6,
+      "comparable_country": "Guatemala"
+    },
+    {
+      "rank": 14,
+      "department": "Bolívar",
+      "gdp_per_capita_cop": 23080425,
+      "gdp_per_capita_usd": 5423,
+      "pct_of_national_avg": 81.6,
+      "comparable_country": "Guatemala"
+    },
+    {
+      "rank": 15,
+      "department": "Atlántico",
+      "gdp_per_capita_cop": 22978644,
+      "gdp_per_capita_usd": 5399,
+      "pct_of_national_avg": 81.2,
+      "comparable_country": "Fiyi"
+    },
+    {
+      "rank": 16,
+      "department": "Tolima",
+      "gdp_per_capita_cop": 22253353,
+      "gdp_per_capita_usd": 5228,
+      "pct_of_national_avg": 78.6,
+      "comparable_country": "Tuvalu"
+    },
+    {
+      "rank": 17,
+      "department": "La Guajira",
+      "gdp_per_capita_cop": 21887834,
+      "gdp_per_capita_usd": 5143,
+      "pct_of_national_avg": 77.3,
+      "comparable_country": "El Salvador"
+    },
+    {
+      "rank": 18,
+      "department": "Quindío",
+      "gdp_per_capita_cop": 21331602,
+      "gdp_per_capita_usd": 5012,
+      "pct_of_national_avg": 75.4,
+      "comparable_country": "Namibia"
+    },
+    {
+      "rank": 19,
+      "department": "Huila",
+      "gdp_per_capita_cop": 20620334,
+      "gdp_per_capita_usd": 4845,
+      "pct_of_national_avg": 72.9,
+      "comparable_country": "Indonesia"
+    },
+    {
+      "rank": 20,
+      "department": "Cauca",
+      "gdp_per_capita_cop": 16712345,
+      "gdp_per_capita_usd": 3927,
+      "pct_of_national_avg": 59.1,
+      "comparable_country": "Suazilandia"
+    },
+    {
+      "rank": 21,
+      "department": "Putumayo",
+      "gdp_per_capita_cop": 14894279,
+      "gdp_per_capita_usd": 3499,
+      "pct_of_national_avg": 52.6,
+      "comparable_country": "Filipinas"
+    },
+    {
+      "rank": 22,
+      "department": "Norte de Santander",
+      "gdp_per_capita_cop": 13732708,
+      "gdp_per_capita_usd": 3227,
+      "pct_of_national_avg": 48.5,
+      "comparable_country": "Vanuatu"
+    },
+    {
+      "rank": 23,
+      "department": "Magdalena",
+      "gdp_per_capita_cop": 13369596,
+      "gdp_per_capita_usd": 3141,
+      "pct_of_national_avg": 47.2,
+      "comparable_country": "Yibuti"
+    },
+    {
+      "rank": 24,
+      "department": "Córdoba",
+      "gdp_per_capita_cop": 13277977,
+      "gdp_per_capita_usd": 3120,
+      "pct_of_national_avg": 46.9,
+      "comparable_country": "Papúa Nueva Guinea"
+    },
+    {
+      "rank": 25,
+      "department": "Caquetá",
+      "gdp_per_capita_cop": 12947856,
+      "gdp_per_capita_usd": 3042,
+      "pct_of_national_avg": 45.8,
+      "comparable_country": "Honduras"
+    },
+    {
+      "rank": 26,
+      "department": "Nariño",
+      "gdp_per_capita_cop": 12892481,
+      "gdp_per_capita_usd": 3029,
+      "pct_of_national_avg": 45.6,
+      "comparable_country": "Honduras"
+    },
+    {
+      "rank": 27,
+      "department": "Amazonas",
+      "gdp_per_capita_cop": 12759657,
+      "gdp_per_capita_usd": 2998,
+      "pct_of_national_avg": 45.1,
+      "comparable_country": "Angola"
+    },
+    {
+      "rank": 28,
+      "department": "Guaviare",
+      "gdp_per_capita_cop": 11876694,
+      "gdp_per_capita_usd": 2790,
+      "pct_of_national_avg": 42,
+      "comparable_country": "Bangladés"
+    },
+    {
+      "rank": 29,
+      "department": "Sucre",
+      "gdp_per_capita_cop": 11740012,
+      "gdp_per_capita_usd": 2758,
+      "pct_of_national_avg": 41.5,
+      "comparable_country": "Bangladés"
+    },
+    {
+      "rank": 30,
+      "department": "Chocó",
+      "gdp_per_capita_cop": 10267971,
+      "gdp_per_capita_usd": 2412,
+      "pct_of_national_avg": 36.3,
+      "comparable_country": "India"
+    },
+    {
+      "rank": 31,
+      "department": "Guainía",
+      "gdp_per_capita_cop": 9034216,
+      "gdp_per_capita_usd": 2123,
+      "pct_of_national_avg": 31.9,
+      "comparable_country": "Kenia"
+    },
+    {
+      "rank": 32,
+      "department": "Vaupés",
+      "gdp_per_capita_cop": 8377799,
+      "gdp_per_capita_usd": 1968,
+      "pct_of_national_avg": 29.6,
+      "comparable_country": "Laos"
+    },
+    {
+      "rank": 33,
+      "department": "Vichada",
+      "gdp_per_capita_cop": 7909384,
+      "gdp_per_capita_usd": 1858,
+      "pct_of_national_avg": 28,
+      "comparable_country": "Camboya"
+    }
+  ],
+  "meta": {
+    "title": "Departamentos de Colombia por PIB per cápita (2022) - Free Download",
+    "description": "PIB per cápita nominal de los departamentos de Colombia en 2022, en pesos colombianos y dólares, con el porcentaje respecto al promedio nacional. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Departamentos de Colombia por PIB per cápita (2022) | ListBase",
+    "seo_description": "Download Departamentos de Colombia por PIB per cápita (2022) — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Departamentos_de_Colombia_por_PIB_per_cápita_(nominal)"
+    ]
+  }
+}
