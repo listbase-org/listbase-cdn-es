@@ -1,0 +1,198 @@
+{
+  "id": "es-calendario-fiestas-civicas-religiosas-peru",
+  "name": "Calendario de fiestas cívicas y religiosas del Perú",
+  "title": "Calendario de fiestas cívicas y religiosas del Perú",
+  "description": "Fechas de las principales fiestas cívicas y religiosas del Perú, con su fecha base, la regla de cálculo (fecha fija, lunes siguiente o días respecto a la Pascua) y el tipo de fiesta.",
+  "category": "time",
+  "source": "https://es.wikipedia.org/wiki/Fiestas_del_Perú",
+  "source_url": "https://es.wikipedia.org/wiki/Fiestas_del_Perú",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "fecha_base",
+      "label": "Fecha Base",
+      "type": "string"
+    },
+    {
+      "key": "calculo_dias",
+      "label": "Calculo Dias",
+      "type": "string"
+    },
+    {
+      "key": "calculo_dia_semana",
+      "label": "Calculo Dia Semana",
+      "type": "string"
+    },
+    {
+      "key": "fiesta",
+      "label": "Fiesta",
+      "type": "string"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "fecha_base": "1 de enero",
+      "calculo_dias": "fecha fija",
+      "calculo_dia_semana": "fecha fija",
+      "fiesta": "Año Nuevo",
+      "tipo": "Cívico"
+    },
+    {
+      "fecha_base": "19 de marzo",
+      "calculo_dias": "primer lunes del mes",
+      "calculo_dia_semana": "primer lunes del mes",
+      "fiesta": "San José",
+      "tipo": "Religioso"
+    },
+    {
+      "fecha_base": "Pascua",
+      "calculo_dias": "- 7",
+      "calculo_dia_semana": "domingo anterior",
+      "fiesta": "Domingo de Ramos",
+      "tipo": "Religioso"
+    },
+    {
+      "fecha_base": "Pascua",
+      "calculo_dias": "- 3",
+      "calculo_dia_semana": "jueves anterior",
+      "fiesta": "Jueves Santo",
+      "tipo": "Religioso"
+    },
+    {
+      "fecha_base": "Pascua",
+      "calculo_dias": "- 2",
+      "calculo_dia_semana": "viernes anterior",
+      "fiesta": "Viernes Santo",
+      "tipo": "Religioso"
+    },
+    {
+      "fecha_base": "Pascua",
+      "calculo_dias": "fecha fija",
+      "calculo_dia_semana": "fecha fija",
+      "fiesta": "Domingo de Pascua",
+      "tipo": "Religioso"
+    },
+    {
+      "fecha_base": "1 de mayo",
+      "calculo_dias": "fecha fija",
+      "calculo_dia_semana": "fecha fija",
+      "fiesta": "Día del Trabajo",
+      "tipo": "Cívico"
+    },
+    {
+      "fecha_base": "Pascua",
+      "calculo_dias": "+ 43",
+      "calculo_dia_semana": "séptimo lunes",
+      "fiesta": "Ascensión de Jesús",
+      "tipo": "Religioso"
+    },
+    {
+      "fecha_base": "Pascua",
+      "calculo_dias": "+ 64",
+      "calculo_dia_semana": "décimo lunes",
+      "fiesta": "Corpus Christi",
+      "tipo": "Religioso"
+    },
+    {
+      "fecha_base": "Pascua",
+      "calculo_dias": "+ 71",
+      "calculo_dia_semana": "undécimo lunes",
+      "fiesta": "Sagrado Corazón",
+      "tipo": "Religioso"
+    },
+    {
+      "fecha_base": "7 de junio",
+      "calculo_dias": "fecha fija",
+      "calculo_dia_semana": "fecha fija",
+      "fiesta": "Batalla de Arica y Día de la Bandera",
+      "tipo": "Cívico"
+    },
+    {
+      "fecha_base": "29 de junio",
+      "calculo_dias": "primer lunes del mes",
+      "calculo_dia_semana": "primer lunes del mes",
+      "fiesta": "San Pedro y San Pablo",
+      "tipo": "Religioso"
+    },
+    {
+      "fecha_base": "23 de julio",
+      "calculo_dias": "fecha fija",
+      "calculo_dia_semana": "fecha fija",
+      "fiesta": "Día de la Fuerza Aérea",
+      "tipo": "Cívico"
+    },
+    {
+      "fecha_base": "28 de julio",
+      "calculo_dias": "fecha fija",
+      "calculo_dia_semana": "fecha fija",
+      "fiesta": "Proclamación de Independencia - Fiestas Patrias",
+      "tipo": "Cívico"
+    },
+    {
+      "fecha_base": "30 de agosto",
+      "calculo_dias": "fecha fija",
+      "calculo_dia_semana": "fecha fija",
+      "fiesta": "Santa Rosa de Lima",
+      "tipo": "Religioso"
+    },
+    {
+      "fecha_base": "8 de octubre",
+      "calculo_dias": "fecha fija",
+      "calculo_dia_semana": "fecha fija",
+      "fiesta": "Combate de Angamos",
+      "tipo": "Cívico"
+    },
+    {
+      "fecha_base": "12 de octubre",
+      "calculo_dias": "fecha fija",
+      "calculo_dia_semana": "fecha fija",
+      "fiesta": "Día del descubrimiento de América",
+      "tipo": "Cívico"
+    },
+    {
+      "fecha_base": "1 de noviembre",
+      "calculo_dias": "fecha fija",
+      "calculo_dia_semana": "fecha fija",
+      "fiesta": "Todos los Santos",
+      "tipo": "Religioso"
+    },
+    {
+      "fecha_base": "8 de diciembre",
+      "calculo_dias": "fecha fija",
+      "calculo_dia_semana": "fecha fija",
+      "fiesta": "Inmaculada Concepción",
+      "tipo": "Religioso"
+    },
+    {
+      "fecha_base": "9 de diciembre",
+      "calculo_dias": "fecha fija",
+      "calculo_dia_semana": "fecha fija",
+      "fiesta": "Batalla de Ayacucho",
+      "tipo": "Cívico"
+    },
+    {
+      "fecha_base": "25 de diciembre",
+      "calculo_dias": "fecha fija",
+      "calculo_dia_semana": "fecha fija",
+      "fiesta": "Navidad",
+      "tipo": "Religioso"
+    }
+  ],
+  "meta": {
+    "title": "Calendario de fiestas cívicas y religiosas del Perú - Free Download",
+    "description": "Fechas de las principales fiestas cívicas y religiosas del Perú, con su fecha base, la regla de cálculo (fecha fija, lunes siguiente o días respecto a la Pascua) y el tipo de fiesta. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Calendario de fiestas cívicas y religiosas del Perú | ListBase",
+    "seo_description": "Download Calendario de fiestas cívicas y religiosas del Perú — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Fiestas_del_Perú"
+    ]
+  }
+}

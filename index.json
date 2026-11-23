@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-23T02:21:25.221Z",
-  "total_datasets": 591,
-  "total_records": 436312,
+  "generated": "2026-11-23T02:21:36.064Z",
+  "total_datasets": 592,
+  "total_records": 436333,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tourism",
@@ -17655,6 +17655,32 @@
         "xlsx": {
           "name": "es-nombres-de-emoji_ES.xlsx",
           "size": 92630
+        }
+      }
+    },
+    {
+      "id": "es-calendario-fiestas-civicas-religiosas-peru",
+      "name": "Calendario de fiestas cívicas y religiosas del Perú",
+      "category": "time",
+      "record_count": 21,
+      "columns": [
+        "fecha_base",
+        "calculo_dias",
+        "calculo_dia_semana",
+        "fiesta",
+        "tipo"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Fiestas_del_Perú",
+      "updated": "2026-11",
+      "size": 5916,
+      "files": {
+        "csv": {
+          "name": "es-calendario-fiestas-civicas-religiosas-peru_ES.csv",
+          "size": 1622
+        },
+        "xlsx": {
+          "name": "es-calendario-fiestas-civicas-religiosas-peru_ES.xlsx",
+          "size": 7687
         }
       }
     },
