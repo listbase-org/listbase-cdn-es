@@ -1,0 +1,322 @@
+{
+  "id": "es-premio-princesa-de-asturias-de-las-letras",
+  "name": "Premio Princesa de Asturias de las Letras — galardonados",
+  "title": "Premio Princesa de Asturias de las Letras — galardonados",
+  "description": "Galardonados con el Premio Príncipe/Princesa de Asturias de las Letras desde 1981, con año, ocupación y nacionalidad de cada premiado.",
+  "category": "culture",
+  "source": "https://es.wikipedia.org/wiki/Premio_Princesa_de_Asturias_de_las_Letras",
+  "source_url": "https://es.wikipedia.org/wiki/Premio_Princesa_de_Asturias_de_las_Letras",
+  "updated": "2026-11",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "anio",
+      "label": "Anio",
+      "type": "number"
+    },
+    {
+      "key": "premiado",
+      "label": "Premiado",
+      "type": "string"
+    },
+    {
+      "key": "ocupacion",
+      "label": "Ocupacion",
+      "type": "string"
+    },
+    {
+      "key": "nacionalidad",
+      "label": "Nacionalidad",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "anio": 1981,
+      "premiado": "José Hierro",
+      "ocupacion": "Poeta",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1982,
+      "premiado": "Gonzalo Torrente Ballester / Miguel Delibes",
+      "ocupacion": "Profesor, escritor, periodista y crítico / Novelista",
+      "nacionalidad": "España / España"
+    },
+    {
+      "anio": 1983,
+      "premiado": "Juan Rulfo",
+      "ocupacion": "Novelista",
+      "nacionalidad": "México"
+    },
+    {
+      "anio": 1984,
+      "premiado": "Pablo García Baena",
+      "ocupacion": "Poeta",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1985,
+      "premiado": "Ángel González",
+      "ocupacion": "Poeta y ensayista",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1986,
+      "premiado": "Mario Vargas Llosa / Rafael Lapesa",
+      "ocupacion": "Novelista, periodista y ensayista / Filólogo y escritor",
+      "nacionalidad": "Perú / España"
+    },
+    {
+      "anio": 1987,
+      "premiado": "Camilo José Cela",
+      "ocupacion": "Escritor y novelista",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1988,
+      "premiado": "Carmen Martín Gaite / José Ángel Valente",
+      "ocupacion": "Novelista, poeta, y guionista / Poeta, ensayista y traductor",
+      "nacionalidad": "España / España"
+    },
+    {
+      "anio": 1989,
+      "premiado": "Ricardo Gullón",
+      "ocupacion": "Ensayista y crítico literario",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1990,
+      "premiado": "Arturo Uslar Pietri",
+      "ocupacion": "Periodista, novelista y ensayista",
+      "nacionalidad": "Venezuela"
+    },
+    {
+      "anio": 1991,
+      "premiado": "Pueblo de Puerto Rico",
+      "ocupacion": "Población",
+      "nacionalidad": "Puerto Rico"
+    },
+    {
+      "anio": 1992,
+      "premiado": "Francisco Nieva",
+      "ocupacion": "Autor y director teatral, escenógrafo y novelista",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1993,
+      "premiado": "Claudio Rodríguez",
+      "ocupacion": "Poeta",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1994,
+      "premiado": "Carlos Fuentes",
+      "ocupacion": "Escritor, novelista y ensayista",
+      "nacionalidad": "México"
+    },
+    {
+      "anio": 1995,
+      "premiado": "Carlos Bousoño",
+      "ocupacion": "Poeta y crítico literario",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1996,
+      "premiado": "Francisco Umbral",
+      "ocupacion": "Periodista, novelista, ensayista y poeta",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1997,
+      "premiado": "Álvaro Mutis",
+      "ocupacion": "Novelista y poeta",
+      "nacionalidad": "Colombia"
+    },
+    {
+      "anio": 1998,
+      "premiado": "Francisco Ayala",
+      "ocupacion": "Escritor, ensayista y traductor",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 1999,
+      "premiado": "Günter Grass",
+      "ocupacion": "Escritor y artista",
+      "nacionalidad": "Alemania"
+    },
+    {
+      "anio": 2000,
+      "premiado": "Augusto Monterroso",
+      "ocupacion": "Escritor y ensayista",
+      "nacionalidad": "Honduras / Guatemala"
+    },
+    {
+      "anio": 2001,
+      "premiado": "Doris Lessing",
+      "ocupacion": "Escritora y novelista",
+      "nacionalidad": "Reino Unido"
+    },
+    {
+      "anio": 2002,
+      "premiado": "Arthur Miller",
+      "ocupacion": "Dramaturgo y guionista",
+      "nacionalidad": "Estados Unidos"
+    },
+    {
+      "anio": 2003,
+      "premiado": "Fatima Mernissi / Susan Sontag",
+      "ocupacion": "Historiadora, ensayista, socióloga y profesora / Novelista y ensayista",
+      "nacionalidad": "Marruecos / Estados Unidos"
+    },
+    {
+      "anio": 2004,
+      "premiado": "Claudio Magris",
+      "ocupacion": "Escritor, novelista, profesor y traductor",
+      "nacionalidad": "Italia"
+    },
+    {
+      "anio": 2005,
+      "premiado": "Nélida Piñón",
+      "ocupacion": "Escritora y novelista",
+      "nacionalidad": "Brasil"
+    },
+    {
+      "anio": 2006,
+      "premiado": "Paul Auster",
+      "ocupacion": "Poeta, novelista y guionista de cine",
+      "nacionalidad": "Estados Unidos"
+    },
+    {
+      "anio": 2007,
+      "premiado": "Amos Oz",
+      "ocupacion": "Escritor, novelista y periodista",
+      "nacionalidad": "Israel"
+    },
+    {
+      "anio": 2008,
+      "premiado": "Margaret Atwood",
+      "ocupacion": "Poetisa, novelista y crítica literaria",
+      "nacionalidad": "Canadá"
+    },
+    {
+      "anio": 2009,
+      "premiado": "Ismail Kadare",
+      "ocupacion": "Escritor, novelista y poeta",
+      "nacionalidad": "Albania"
+    },
+    {
+      "anio": 2010,
+      "premiado": "Amin Maalouf",
+      "ocupacion": "Escritor",
+      "nacionalidad": "Líbano"
+    },
+    {
+      "anio": 2011,
+      "premiado": "Leonard Cohen",
+      "ocupacion": "Poeta y cantante",
+      "nacionalidad": "Canadá"
+    },
+    {
+      "anio": 2012,
+      "premiado": "Philip Roth",
+      "ocupacion": "Novelista",
+      "nacionalidad": "Estados Unidos"
+    },
+    {
+      "anio": 2013,
+      "premiado": "Antonio Muñoz Molina",
+      "ocupacion": "Novelista",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 2014,
+      "premiado": "John Banville",
+      "ocupacion": "Novelista",
+      "nacionalidad": "Irlanda"
+    },
+    {
+      "anio": 2015,
+      "premiado": "Leonardo Padura",
+      "ocupacion": "Escritor",
+      "nacionalidad": "Cuba"
+    },
+    {
+      "anio": 2016,
+      "premiado": "Richard Ford",
+      "ocupacion": "Novelista",
+      "nacionalidad": "Estados Unidos"
+    },
+    {
+      "anio": 2017,
+      "premiado": "Adam Zagajewski",
+      "ocupacion": "Poeta",
+      "nacionalidad": "Polonia"
+    },
+    {
+      "anio": 2018,
+      "premiado": "Fred Vargas",
+      "ocupacion": "Novelista",
+      "nacionalidad": "Francia"
+    },
+    {
+      "anio": 2019,
+      "premiado": "Siri Hustvedt",
+      "ocupacion": "Novelista",
+      "nacionalidad": "Estados Unidos"
+    },
+    {
+      "anio": 2020,
+      "premiado": "Anne Carson",
+      "ocupacion": "Poeta",
+      "nacionalidad": "Canadá"
+    },
+    {
+      "anio": 2021,
+      "premiado": "Emmanuel Carrère",
+      "ocupacion": "Escritor, guionista y realizador",
+      "nacionalidad": "Francia"
+    },
+    {
+      "anio": 2022,
+      "premiado": "Juan Mayorga",
+      "ocupacion": "Dramaturgo",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 2023,
+      "premiado": "Haruki Murakami",
+      "ocupacion": "Novelista",
+      "nacionalidad": "Japón"
+    },
+    {
+      "anio": 2024,
+      "premiado": "Ana Blandiana",
+      "ocupacion": "Poeta y ensayista",
+      "nacionalidad": "Rumania"
+    },
+    {
+      "anio": 2025,
+      "premiado": "Eduardo Mendoza",
+      "ocupacion": "Escritor",
+      "nacionalidad": "España"
+    },
+    {
+      "anio": 2026,
+      "premiado": "Julian Barnes",
+      "ocupacion": "Escritor",
+      "nacionalidad": "Reino Unido"
+    }
+  ],
+  "meta": {
+    "title": "Premio Princesa de Asturias de las Letras — galardonados - Free Download",
+    "description": "Galardonados con el Premio Príncipe/Princesa de Asturias de las Letras desde 1981, con año, ocupación y nacionalidad de cada premiado. Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Premio Princesa de Asturias de las Letras — galardonados | ListBase",
+    "seo_description": "Download Premio Princesa de Asturias de las Letras — galardonados — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Premio_Princesa_de_Asturias_de_las_Letras"
+    ]
+  }
+}

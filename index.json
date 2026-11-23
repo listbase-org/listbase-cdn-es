@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-23T02:21:36.064Z",
-  "total_datasets": 592,
-  "total_records": 436333,
+  "generated": "2026-11-23T02:21:45.757Z",
+  "total_datasets": 593,
+  "total_records": 436379,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "economy",
@@ -495,6 +495,31 @@
         "xlsx": {
           "name": "es-premio-planeta-de-novela_ES.xlsx",
           "size": 11914
+        }
+      }
+    },
+    {
+      "id": "es-premio-princesa-de-asturias-de-las-letras",
+      "name": "Premio Princesa de Asturias de las Letras — galardonados",
+      "category": "culture",
+      "record_count": 46,
+      "columns": [
+        "anio",
+        "premiado",
+        "ocupacion",
+        "nacionalidad"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Premio_Princesa_de_Asturias_de_las_Letras",
+      "updated": "2026-11",
+      "size": 8738,
+      "files": {
+        "csv": {
+          "name": "es-premio-princesa-de-asturias-de-las-letras_ES.csv",
+          "size": 2984
+        },
+        "xlsx": {
+          "name": "es-premio-princesa-de-asturias-de-las-letras_ES.xlsx",
+          "size": 8761
         }
       }
     },
