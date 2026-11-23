@@ -1,0 +1,1682 @@
+{
+  "id": "es-argentina-produccion-agricola-por-provincia-2024-2025",
+  "name": "Producción agrícola de Argentina por provincia y cultivo (campaña 2024/2025)",
+  "title": "Producción agrícola de Argentina por provincia y cultivo (campaña 2024/2025)",
+  "description": "Superficie sembrada y cosechada (ha) y producción (toneladas) de soja, maíz, trigo, girasol, cebada y otros cultivos en cada provincia argentina durante la campaña 2024/2025, según las estimaciones agrícolas del Ministerio de Agricultura, Ganadería y Pesca (sumadas por departamento).",
+  "category": "agriculture",
+  "source": "https://datos.gob.ar/dataset/agroindustria-agricultura---estimaciones-agricolas",
+  "source_url": "https://datos.gob.ar/dataset/agroindustria-agricultura---estimaciones-agricolas",
+  "updated": "2026-11",
+  "record_count": 233,
+  "columns": [
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "cultivo",
+      "label": "Cultivo",
+      "type": "string"
+    },
+    {
+      "key": "superficie_sembrada_ha",
+      "label": "Superficie Sembrada Ha",
+      "type": "number"
+    },
+    {
+      "key": "superficie_cosechada_ha",
+      "label": "Superficie Cosechada Ha",
+      "type": "number"
+    },
+    {
+      "key": "produccion_t",
+      "label": "Produccion T",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "maíz",
+      "superficie_sembrada_ha": 3130724,
+      "superficie_cosechada_ha": 2401205,
+      "produccion_t": 17196317
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "soja total",
+      "superficie_sembrada_ha": 5487037,
+      "superficie_cosechada_ha": 5397466,
+      "produccion_t": 15533596
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "soja 1ra",
+      "superficie_sembrada_ha": 3270695,
+      "superficie_cosechada_ha": 3207534,
+      "produccion_t": 10369117
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "trigo total",
+      "superficie_sembrada_ha": 2620117,
+      "superficie_cosechada_ha": 2614970,
+      "produccion_t": 9265428
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "soja 2da",
+      "superficie_sembrada_ha": 2216342,
+      "superficie_cosechada_ha": 2189932,
+      "produccion_t": 5164479
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "cebada total",
+      "superficie_sembrada_ha": 1502660,
+      "superficie_cosechada_ha": 1201963,
+      "produccion_t": 4590520
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "girasol",
+      "superficie_sembrada_ha": 1173852,
+      "superficie_cosechada_ha": 1163461,
+      "produccion_t": 2774333
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "avena",
+      "superficie_sembrada_ha": 912681,
+      "superficie_cosechada_ha": 205451,
+      "produccion_t": 429815
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "maní",
+      "superficie_sembrada_ha": 84979,
+      "superficie_cosechada_ha": 84799,
+      "produccion_t": 315761
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "sorgo",
+      "superficie_sembrada_ha": 116248,
+      "superficie_cosechada_ha": 66276,
+      "produccion_t": 305594
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "trigo candeal",
+      "superficie_sembrada_ha": 99348,
+      "superficie_cosechada_ha": 99312,
+      "produccion_t": 296820
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "arveja",
+      "superficie_sembrada_ha": 72250,
+      "superficie_cosechada_ha": 72223,
+      "produccion_t": 199489
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "centeno",
+      "superficie_sembrada_ha": 131551,
+      "superficie_cosechada_ha": 50385,
+      "produccion_t": 116569
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "alpiste",
+      "superficie_sembrada_ha": 30296,
+      "superficie_cosechada_ha": 30296,
+      "produccion_t": 39135
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "colza",
+      "superficie_sembrada_ha": 10212,
+      "superficie_cosechada_ha": 10184,
+      "produccion_t": 22575
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "lenteja",
+      "superficie_sembrada_ha": 6084,
+      "superficie_cosechada_ha": 6084,
+      "produccion_t": 8140
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "poroto otros",
+      "superficie_sembrada_ha": 3191,
+      "superficie_cosechada_ha": 3191,
+      "produccion_t": 6991
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "poroto total",
+      "superficie_sembrada_ha": 3191,
+      "superficie_cosechada_ha": 3191,
+      "produccion_t": 6991
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "mijo",
+      "superficie_sembrada_ha": 8099,
+      "superficie_cosechada_ha": 2514,
+      "produccion_t": 3369
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "garbanzo",
+      "superficie_sembrada_ha": 578,
+      "superficie_cosechada_ha": 553,
+      "produccion_t": 1043
+    },
+    {
+      "provincia": "Buenos Aires",
+      "cultivo": "lino",
+      "superficie_sembrada_ha": 100,
+      "superficie_cosechada_ha": 100,
+      "produccion_t": 85
+    },
+    {
+      "provincia": "Catamarca",
+      "cultivo": "soja total",
+      "superficie_sembrada_ha": 41450,
+      "superficie_cosechada_ha": 40770,
+      "produccion_t": 101766
+    },
+    {
+      "provincia": "Catamarca",
+      "cultivo": "soja 1ra",
+      "superficie_sembrada_ha": 21450,
+      "superficie_cosechada_ha": 21020,
+      "produccion_t": 52391
+    },
+    {
+      "provincia": "Catamarca",
+      "cultivo": "soja 2da",
+      "superficie_sembrada_ha": 20000,
+      "superficie_cosechada_ha": 19750,
+      "produccion_t": 49375
+    },
+    {
+      "provincia": "Catamarca",
+      "cultivo": "maíz",
+      "superficie_sembrada_ha": 8450,
+      "superficie_cosechada_ha": 7480,
+      "produccion_t": 36988
+    },
+    {
+      "provincia": "Catamarca",
+      "cultivo": "trigo total",
+      "superficie_sembrada_ha": 20400,
+      "superficie_cosechada_ha": 19690,
+      "produccion_t": 19703
+    },
+    {
+      "provincia": "Catamarca",
+      "cultivo": "sorgo",
+      "superficie_sembrada_ha": 2480,
+      "superficie_cosechada_ha": 2050,
+      "produccion_t": 4895
+    },
+    {
+      "provincia": "Catamarca",
+      "cultivo": "garbanzo",
+      "superficie_sembrada_ha": 3070,
+      "superficie_cosechada_ha": 2958,
+      "produccion_t": 2958
+    },
+    {
+      "provincia": "Catamarca",
+      "cultivo": "poroto negro",
+      "superficie_sembrada_ha": 4850,
+      "superficie_cosechada_ha": 4310,
+      "produccion_t": 2586
+    },
+    {
+      "provincia": "Catamarca",
+      "cultivo": "poroto total",
+      "superficie_sembrada_ha": 4850,
+      "superficie_cosechada_ha": 4310,
+      "produccion_t": 2586
+    },
+    {
+      "provincia": "Catamarca",
+      "cultivo": "maní",
+      "superficie_sembrada_ha": 1200,
+      "superficie_cosechada_ha": 1200,
+      "produccion_t": 2280
+    },
+    {
+      "provincia": "Catamarca",
+      "cultivo": "algodón",
+      "superficie_sembrada_ha": 400,
+      "superficie_cosechada_ha": 400,
+      "produccion_t": 1080
+    },
+    {
+      "provincia": "Catamarca",
+      "cultivo": "centeno",
+      "superficie_sembrada_ha": 300,
+      "superficie_cosechada_ha": 280,
+      "produccion_t": 336
+    },
+    {
+      "provincia": "Catamarca",
+      "cultivo": "trigo candeal",
+      "superficie_sembrada_ha": 300,
+      "superficie_cosechada_ha": 270,
+      "produccion_t": 297
+    },
+    {
+      "provincia": "Catamarca",
+      "cultivo": "colza",
+      "superficie_sembrada_ha": 250,
+      "superficie_cosechada_ha": 235,
+      "produccion_t": 259
+    },
+    {
+      "provincia": "Catamarca",
+      "cultivo": "girasol",
+      "superficie_sembrada_ha": 100,
+      "superficie_cosechada_ha": 100,
+      "produccion_t": 250
+    },
+    {
+      "provincia": "Chaco",
+      "cultivo": "soja total",
+      "superficie_sembrada_ha": 639350,
+      "superficie_cosechada_ha": 402980,
+      "produccion_t": 403337
+    },
+    {
+      "provincia": "Chaco",
+      "cultivo": "soja 1ra",
+      "superficie_sembrada_ha": 550950,
+      "superficie_cosechada_ha": 348000,
+      "produccion_t": 357753
+    },
+    {
+      "provincia": "Chaco",
+      "cultivo": "girasol",
+      "superficie_sembrada_ha": 148150,
+      "superficie_cosechada_ha": 147020,
+      "produccion_t": 316577
+    },
+    {
+      "provincia": "Chaco",
+      "cultivo": "maíz",
+      "superficie_sembrada_ha": 236600,
+      "superficie_cosechada_ha": 120010,
+      "produccion_t": 226844
+    },
+    {
+      "provincia": "Chaco",
+      "cultivo": "algodón",
+      "superficie_sembrada_ha": 195960,
+      "superficie_cosechada_ha": 153920,
+      "produccion_t": 193856
+    },
+    {
+      "provincia": "Chaco",
+      "cultivo": "trigo total",
+      "superficie_sembrada_ha": 97980,
+      "superficie_cosechada_ha": 93290,
+      "produccion_t": 107811
+    },
+    {
+      "provincia": "Chaco",
+      "cultivo": "sorgo",
+      "superficie_sembrada_ha": 99350,
+      "superficie_cosechada_ha": 58860,
+      "produccion_t": 94462
+    },
+    {
+      "provincia": "Chaco",
+      "cultivo": "soja 2da",
+      "superficie_sembrada_ha": 88400,
+      "superficie_cosechada_ha": 54980,
+      "produccion_t": 45584
+    },
+    {
+      "provincia": "Chaco",
+      "cultivo": "arroz",
+      "superficie_sembrada_ha": 7500,
+      "superficie_cosechada_ha": 7500,
+      "produccion_t": 30750
+    },
+    {
+      "provincia": "Chaco",
+      "cultivo": "garbanzo",
+      "superficie_sembrada_ha": 720,
+      "superficie_cosechada_ha": 720,
+      "produccion_t": 1006
+    },
+    {
+      "provincia": "Chaco",
+      "cultivo": "poroto otros",
+      "superficie_sembrada_ha": 1770,
+      "superficie_cosechada_ha": 1700,
+      "produccion_t": 956
+    },
+    {
+      "provincia": "Chaco",
+      "cultivo": "poroto total",
+      "superficie_sembrada_ha": 1770,
+      "superficie_cosechada_ha": 1700,
+      "produccion_t": 956
+    },
+    {
+      "provincia": "Chaco",
+      "cultivo": "cártamo",
+      "superficie_sembrada_ha": 240,
+      "superficie_cosechada_ha": 240,
+      "produccion_t": 264
+    },
+    {
+      "provincia": "Chaco",
+      "cultivo": "colza",
+      "superficie_sembrada_ha": 66,
+      "superficie_cosechada_ha": 66,
+      "produccion_t": 73
+    },
+    {
+      "provincia": "Corrientes",
+      "cultivo": "arroz",
+      "superficie_sembrada_ha": 110600,
+      "superficie_cosechada_ha": 110600,
+      "produccion_t": 785100
+    },
+    {
+      "provincia": "Corrientes",
+      "cultivo": "maíz",
+      "superficie_sembrada_ha": 9590,
+      "superficie_cosechada_ha": 8520,
+      "produccion_t": 55380
+    },
+    {
+      "provincia": "Corrientes",
+      "cultivo": "trigo total",
+      "superficie_sembrada_ha": 4700,
+      "superficie_cosechada_ha": 4700,
+      "produccion_t": 14100
+    },
+    {
+      "provincia": "Corrientes",
+      "cultivo": "sorgo",
+      "superficie_sembrada_ha": 6000,
+      "superficie_cosechada_ha": 2800,
+      "produccion_t": 9800
+    },
+    {
+      "provincia": "Corrientes",
+      "cultivo": "soja total",
+      "superficie_sembrada_ha": 7100,
+      "superficie_cosechada_ha": 5550,
+      "produccion_t": 8010
+    },
+    {
+      "provincia": "Corrientes",
+      "cultivo": "soja 2da",
+      "superficie_sembrada_ha": 4000,
+      "superficie_cosechada_ha": 4000,
+      "produccion_t": 5920
+    },
+    {
+      "provincia": "Corrientes",
+      "cultivo": "girasol",
+      "superficie_sembrada_ha": 1820,
+      "superficie_cosechada_ha": 1820,
+      "produccion_t": 3458
+    },
+    {
+      "provincia": "Corrientes",
+      "cultivo": "soja 1ra",
+      "superficie_sembrada_ha": 3100,
+      "superficie_cosechada_ha": 1550,
+      "produccion_t": 2090
+    },
+    {
+      "provincia": "Corrientes",
+      "cultivo": "avena",
+      "superficie_sembrada_ha": 2600,
+      "superficie_cosechada_ha": 0,
+      "produccion_t": 0
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "maíz",
+      "superficie_sembrada_ha": 2563297,
+      "superficie_cosechada_ha": 2256817,
+      "produccion_t": 17971562
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "soja total",
+      "superficie_sembrada_ha": 4614734,
+      "superficie_cosechada_ha": 4599374,
+      "produccion_t": 14628596
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "soja 1ra",
+      "superficie_sembrada_ha": 3796154,
+      "superficie_cosechada_ha": 3786094,
+      "produccion_t": 12332339
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "soja 2da",
+      "superficie_sembrada_ha": 818580,
+      "superficie_cosechada_ha": 813280,
+      "produccion_t": 2296258
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "trigo total",
+      "superficie_sembrada_ha": 959999,
+      "superficie_cosechada_ha": 881126,
+      "produccion_t": 2280460
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "maní",
+      "superficie_sembrada_ha": 374483,
+      "superficie_cosechada_ha": 373983,
+      "produccion_t": 1268363
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "sorgo",
+      "superficie_sembrada_ha": 191632,
+      "superficie_cosechada_ha": 167291,
+      "produccion_t": 878262
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "girasol",
+      "superficie_sembrada_ha": 277203,
+      "superficie_cosechada_ha": 277083,
+      "produccion_t": 693727
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "garbanzo",
+      "superficie_sembrada_ha": 46803,
+      "superficie_cosechada_ha": 46803,
+      "produccion_t": 85235
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "centeno",
+      "superficie_sembrada_ha": 454730,
+      "superficie_cosechada_ha": 33282,
+      "produccion_t": 58098
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "avena",
+      "superficie_sembrada_ha": 176919,
+      "superficie_cosechada_ha": 27490,
+      "produccion_t": 47576
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "cebada total",
+      "superficie_sembrada_ha": 26364,
+      "superficie_cosechada_ha": 17165,
+      "produccion_t": 38940
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "trigo candeal",
+      "superficie_sembrada_ha": 4674,
+      "superficie_cosechada_ha": 4674,
+      "produccion_t": 11530
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "poroto total",
+      "superficie_sembrada_ha": 6200,
+      "superficie_cosechada_ha": 6200,
+      "produccion_t": 10298
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "poroto alubia",
+      "superficie_sembrada_ha": 3020,
+      "superficie_cosechada_ha": 3020,
+      "produccion_t": 5534
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "algodón",
+      "superficie_sembrada_ha": 2300,
+      "superficie_cosechada_ha": 2300,
+      "produccion_t": 4600
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "poroto negro",
+      "superficie_sembrada_ha": 2480,
+      "superficie_cosechada_ha": 2480,
+      "produccion_t": 4095
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "colza",
+      "superficie_sembrada_ha": 2517,
+      "superficie_cosechada_ha": 2317,
+      "produccion_t": 3061
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "mijo",
+      "superficie_sembrada_ha": 2928,
+      "superficie_cosechada_ha": 1360,
+      "produccion_t": 2368
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "arveja",
+      "superficie_sembrada_ha": 1125,
+      "superficie_cosechada_ha": 1125,
+      "produccion_t": 1872
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "lenteja",
+      "superficie_sembrada_ha": 595,
+      "superficie_cosechada_ha": 595,
+      "produccion_t": 805
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "lino",
+      "superficie_sembrada_ha": 535,
+      "superficie_cosechada_ha": 535,
+      "produccion_t": 732
+    },
+    {
+      "provincia": "Córdoba",
+      "cultivo": "poroto otros",
+      "superficie_sembrada_ha": 700,
+      "superficie_cosechada_ha": 700,
+      "produccion_t": 670
+    },
+    {
+      "provincia": "Entre Ríos",
+      "cultivo": "soja total",
+      "superficie_sembrada_ha": 1251450,
+      "superficie_cosechada_ha": 1251450,
+      "produccion_t": 3372215
+    },
+    {
+      "provincia": "Entre Ríos",
+      "cultivo": "maíz",
+      "superficie_sembrada_ha": 359700,
+      "superficie_cosechada_ha": 341500,
+      "produccion_t": 2254760
+    },
+    {
+      "provincia": "Entre Ríos",
+      "cultivo": "trigo total",
+      "superficie_sembrada_ha": 712200,
+      "superficie_cosechada_ha": 691600,
+      "produccion_t": 2217630
+    },
+    {
+      "provincia": "Entre Ríos",
+      "cultivo": "soja 1ra",
+      "superficie_sembrada_ha": 608100,
+      "superficie_cosechada_ha": 608100,
+      "produccion_t": 1723930
+    },
+    {
+      "provincia": "Entre Ríos",
+      "cultivo": "soja 2da",
+      "superficie_sembrada_ha": 643350,
+      "superficie_cosechada_ha": 643350,
+      "produccion_t": 1648285
+    },
+    {
+      "provincia": "Entre Ríos",
+      "cultivo": "arroz",
+      "superficie_sembrada_ha": 67420,
+      "superficie_cosechada_ha": 67420,
+      "produccion_t": 524948
+    },
+    {
+      "provincia": "Entre Ríos",
+      "cultivo": "sorgo",
+      "superficie_sembrada_ha": 108500,
+      "superficie_cosechada_ha": 97770,
+      "produccion_t": 437182
+    },
+    {
+      "provincia": "Entre Ríos",
+      "cultivo": "girasol",
+      "superficie_sembrada_ha": 27320,
+      "superficie_cosechada_ha": 27320,
+      "produccion_t": 60392
+    },
+    {
+      "provincia": "Entre Ríos",
+      "cultivo": "cebada total",
+      "superficie_sembrada_ha": 8500,
+      "superficie_cosechada_ha": 7200,
+      "produccion_t": 24130
+    },
+    {
+      "provincia": "Entre Ríos",
+      "cultivo": "colza",
+      "superficie_sembrada_ha": 15100,
+      "superficie_cosechada_ha": 15100,
+      "produccion_t": 24010
+    },
+    {
+      "provincia": "Entre Ríos",
+      "cultivo": "arveja",
+      "superficie_sembrada_ha": 12900,
+      "superficie_cosechada_ha": 6300,
+      "produccion_t": 11970
+    },
+    {
+      "provincia": "Entre Ríos",
+      "cultivo": "avena",
+      "superficie_sembrada_ha": 56300,
+      "superficie_cosechada_ha": 4080,
+      "produccion_t": 8380
+    },
+    {
+      "provincia": "Entre Ríos",
+      "cultivo": "lino",
+      "superficie_sembrada_ha": 8300,
+      "superficie_cosechada_ha": 8300,
+      "produccion_t": 7960
+    },
+    {
+      "provincia": "Entre Ríos",
+      "cultivo": "alpiste",
+      "superficie_sembrada_ha": 400,
+      "superficie_cosechada_ha": 400,
+      "produccion_t": 560
+    },
+    {
+      "provincia": "Entre Ríos",
+      "cultivo": "lenteja",
+      "superficie_sembrada_ha": 150,
+      "superficie_cosechada_ha": 150,
+      "produccion_t": 180
+    },
+    {
+      "provincia": "Formosa",
+      "cultivo": "arroz",
+      "superficie_sembrada_ha": 15800,
+      "superficie_cosechada_ha": 15800,
+      "produccion_t": 64780
+    },
+    {
+      "provincia": "Formosa",
+      "cultivo": "maíz",
+      "superficie_sembrada_ha": 37060,
+      "superficie_cosechada_ha": 12020,
+      "produccion_t": 45673
+    },
+    {
+      "provincia": "Formosa",
+      "cultivo": "soja total",
+      "superficie_sembrada_ha": 22000,
+      "superficie_cosechada_ha": 22000,
+      "produccion_t": 38800
+    },
+    {
+      "provincia": "Formosa",
+      "cultivo": "soja 1ra",
+      "superficie_sembrada_ha": 18000,
+      "superficie_cosechada_ha": 18000,
+      "produccion_t": 32400
+    },
+    {
+      "provincia": "Formosa",
+      "cultivo": "trigo total",
+      "superficie_sembrada_ha": 5174,
+      "superficie_cosechada_ha": 5174,
+      "produccion_t": 8930
+    },
+    {
+      "provincia": "Formosa",
+      "cultivo": "girasol",
+      "superficie_sembrada_ha": 2860,
+      "superficie_cosechada_ha": 2860,
+      "produccion_t": 6578
+    },
+    {
+      "provincia": "Formosa",
+      "cultivo": "soja 2da",
+      "superficie_sembrada_ha": 4000,
+      "superficie_cosechada_ha": 4000,
+      "produccion_t": 6400
+    },
+    {
+      "provincia": "Formosa",
+      "cultivo": "algodón",
+      "superficie_sembrada_ha": 2365,
+      "superficie_cosechada_ha": 2365,
+      "produccion_t": 2774
+    },
+    {
+      "provincia": "Formosa",
+      "cultivo": "sorgo",
+      "superficie_sembrada_ha": 5100,
+      "superficie_cosechada_ha": 765,
+      "produccion_t": 2678
+    },
+    {
+      "provincia": "Formosa",
+      "cultivo": "cártamo",
+      "superficie_sembrada_ha": 1019,
+      "superficie_cosechada_ha": 1019,
+      "produccion_t": 1223
+    },
+    {
+      "provincia": "Formosa",
+      "cultivo": "garbanzo",
+      "superficie_sembrada_ha": 150,
+      "superficie_cosechada_ha": 150,
+      "produccion_t": 180
+    },
+    {
+      "provincia": "Jujuy",
+      "cultivo": "poroto total",
+      "superficie_sembrada_ha": 28018,
+      "superficie_cosechada_ha": 28018,
+      "produccion_t": 33622
+    },
+    {
+      "provincia": "Jujuy",
+      "cultivo": "maíz",
+      "superficie_sembrada_ha": 7598,
+      "superficie_cosechada_ha": 6604,
+      "produccion_t": 26412
+    },
+    {
+      "provincia": "Jujuy",
+      "cultivo": "poroto alubia",
+      "superficie_sembrada_ha": 20350,
+      "superficie_cosechada_ha": 20350,
+      "produccion_t": 24420
+    },
+    {
+      "provincia": "Jujuy",
+      "cultivo": "soja total",
+      "superficie_sembrada_ha": 7259,
+      "superficie_cosechada_ha": 7198,
+      "produccion_t": 14396
+    },
+    {
+      "provincia": "Jujuy",
+      "cultivo": "soja 2da",
+      "superficie_sembrada_ha": 4206,
+      "superficie_cosechada_ha": 4178,
+      "produccion_t": 8357
+    },
+    {
+      "provincia": "Jujuy",
+      "cultivo": "sorgo",
+      "superficie_sembrada_ha": 2252,
+      "superficie_cosechada_ha": 2137,
+      "produccion_t": 7693
+    },
+    {
+      "provincia": "Jujuy",
+      "cultivo": "soja 1ra",
+      "superficie_sembrada_ha": 3053,
+      "superficie_cosechada_ha": 3020,
+      "produccion_t": 6039
+    },
+    {
+      "provincia": "Jujuy",
+      "cultivo": "poroto negro",
+      "superficie_sembrada_ha": 4018,
+      "superficie_cosechada_ha": 4018,
+      "produccion_t": 4822
+    },
+    {
+      "provincia": "Jujuy",
+      "cultivo": "poroto otros",
+      "superficie_sembrada_ha": 3650,
+      "superficie_cosechada_ha": 3650,
+      "produccion_t": 4380
+    },
+    {
+      "provincia": "Jujuy",
+      "cultivo": "trigo total",
+      "superficie_sembrada_ha": 2945,
+      "superficie_cosechada_ha": 2844,
+      "produccion_t": 4152
+    },
+    {
+      "provincia": "Jujuy",
+      "cultivo": "avena",
+      "superficie_sembrada_ha": 810,
+      "superficie_cosechada_ha": 810,
+      "produccion_t": 1134
+    },
+    {
+      "provincia": "Jujuy",
+      "cultivo": "maní",
+      "superficie_sembrada_ha": 400,
+      "superficie_cosechada_ha": 400,
+      "produccion_t": 520
+    },
+    {
+      "provincia": "Jujuy",
+      "cultivo": "garbanzo",
+      "superficie_sembrada_ha": 120,
+      "superficie_cosechada_ha": 120,
+      "produccion_t": 120
+    },
+    {
+      "provincia": "Jujuy",
+      "cultivo": "cártamo",
+      "superficie_sembrada_ha": 60,
+      "superficie_cosechada_ha": 60,
+      "produccion_t": 48
+    },
+    {
+      "provincia": "La Pampa",
+      "cultivo": "maíz",
+      "superficie_sembrada_ha": 706000,
+      "superficie_cosechada_ha": 453200,
+      "produccion_t": 2831135
+    },
+    {
+      "provincia": "La Pampa",
+      "cultivo": "soja total",
+      "superficie_sembrada_ha": 406900,
+      "superficie_cosechada_ha": 400200,
+      "produccion_t": 1008942
+    },
+    {
+      "provincia": "La Pampa",
+      "cultivo": "soja 1ra",
+      "superficie_sembrada_ha": 364750,
+      "superficie_cosechada_ha": 358750,
+      "produccion_t": 933199
+    },
+    {
+      "provincia": "La Pampa",
+      "cultivo": "girasol",
+      "superficie_sembrada_ha": 290900,
+      "superficie_cosechada_ha": 287400,
+      "produccion_t": 711188
+    },
+    {
+      "provincia": "La Pampa",
+      "cultivo": "trigo total",
+      "superficie_sembrada_ha": 268200,
+      "superficie_cosechada_ha": 262200,
+      "produccion_t": 459370
+    },
+    {
+      "provincia": "La Pampa",
+      "cultivo": "maní",
+      "superficie_sembrada_ha": 37100,
+      "superficie_cosechada_ha": 36570,
+      "produccion_t": 127986
+    },
+    {
+      "provincia": "La Pampa",
+      "cultivo": "cebada total",
+      "superficie_sembrada_ha": 108400,
+      "superficie_cosechada_ha": 47528,
+      "produccion_t": 106389
+    },
+    {
+      "provincia": "La Pampa",
+      "cultivo": "soja 2da",
+      "superficie_sembrada_ha": 42150,
+      "superficie_cosechada_ha": 41450,
+      "produccion_t": 75743
+    },
+    {
+      "provincia": "La Pampa",
+      "cultivo": "avena",
+      "superficie_sembrada_ha": 172700,
+      "superficie_cosechada_ha": 46900,
+      "produccion_t": 51470
+    },
+    {
+      "provincia": "La Pampa",
+      "cultivo": "sorgo",
+      "superficie_sembrada_ha": 26390,
+      "superficie_cosechada_ha": 13365,
+      "produccion_t": 44178
+    },
+    {
+      "provincia": "La Pampa",
+      "cultivo": "centeno",
+      "superficie_sembrada_ha": 177150,
+      "superficie_cosechada_ha": 27213,
+      "produccion_t": 27607
+    },
+    {
+      "provincia": "La Pampa",
+      "cultivo": "trigo candeal",
+      "superficie_sembrada_ha": 1130,
+      "superficie_cosechada_ha": 1130,
+      "produccion_t": 2260
+    },
+    {
+      "provincia": "La Pampa",
+      "cultivo": "alpiste",
+      "superficie_sembrada_ha": 1510,
+      "superficie_cosechada_ha": 690,
+      "produccion_t": 690
+    },
+    {
+      "provincia": "La Pampa",
+      "cultivo": "mijo",
+      "superficie_sembrada_ha": 9500,
+      "superficie_cosechada_ha": 390,
+      "produccion_t": 349
+    },
+    {
+      "provincia": "Misiones",
+      "cultivo": "maíz",
+      "superficie_sembrada_ha": 31510,
+      "superficie_cosechada_ha": 26664,
+      "produccion_t": 133318
+    },
+    {
+      "provincia": "Misiones",
+      "cultivo": "soja 1ra",
+      "superficie_sembrada_ha": 4324,
+      "superficie_cosechada_ha": 4324,
+      "produccion_t": 15135
+    },
+    {
+      "provincia": "Misiones",
+      "cultivo": "soja total",
+      "superficie_sembrada_ha": 4324,
+      "superficie_cosechada_ha": 4324,
+      "produccion_t": 15135
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "maíz",
+      "superficie_sembrada_ha": 284391,
+      "superficie_cosechada_ha": 255991,
+      "produccion_t": 1570901
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "soja total",
+      "superficie_sembrada_ha": 308223,
+      "superficie_cosechada_ha": 307973,
+      "produccion_t": 740812
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "soja 1ra",
+      "superficie_sembrada_ha": 282120,
+      "superficie_cosechada_ha": 281870,
+      "produccion_t": 678163
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "poroto total",
+      "superficie_sembrada_ha": 484000,
+      "superficie_cosechada_ha": 458950,
+      "produccion_t": 545292
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "poroto alubia",
+      "superficie_sembrada_ha": 186569,
+      "superficie_cosechada_ha": 184569,
+      "produccion_t": 204926
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "poroto otros",
+      "superficie_sembrada_ha": 167672,
+      "superficie_cosechada_ha": 149282,
+      "produccion_t": 177299
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "poroto negro",
+      "superficie_sembrada_ha": 129759,
+      "superficie_cosechada_ha": 125099,
+      "produccion_t": 163067
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "sorgo",
+      "superficie_sembrada_ha": 36075,
+      "superficie_cosechada_ha": 31386,
+      "produccion_t": 79240
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "trigo total",
+      "superficie_sembrada_ha": 57903,
+      "superficie_cosechada_ha": 57883,
+      "produccion_t": 78665
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "garbanzo",
+      "superficie_sembrada_ha": 59675,
+      "superficie_cosechada_ha": 59675,
+      "produccion_t": 65697
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "soja 2da",
+      "superficie_sembrada_ha": 26103,
+      "superficie_cosechada_ha": 26103,
+      "produccion_t": 62648
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "algodón",
+      "superficie_sembrada_ha": 12550,
+      "superficie_cosechada_ha": 12550,
+      "produccion_t": 32540
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "cártamo",
+      "superficie_sembrada_ha": 15827,
+      "superficie_cosechada_ha": 15827,
+      "produccion_t": 16379
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "trigo candeal",
+      "superficie_sembrada_ha": 8133,
+      "superficie_cosechada_ha": 8133,
+      "produccion_t": 10423
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "maní",
+      "superficie_sembrada_ha": 2584,
+      "superficie_cosechada_ha": 2584,
+      "produccion_t": 2593
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "centeno",
+      "superficie_sembrada_ha": 2420,
+      "superficie_cosechada_ha": 2420,
+      "produccion_t": 2262
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "avena",
+      "superficie_sembrada_ha": 911,
+      "superficie_cosechada_ha": 911,
+      "produccion_t": 899
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "colza",
+      "superficie_sembrada_ha": 635,
+      "superficie_cosechada_ha": 635,
+      "produccion_t": 609
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "mijo",
+      "superficie_sembrada_ha": 540,
+      "superficie_cosechada_ha": 540,
+      "produccion_t": 540
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "girasol",
+      "superficie_sembrada_ha": 459,
+      "superficie_cosechada_ha": 459,
+      "produccion_t": 494
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "lenteja",
+      "superficie_sembrada_ha": 698,
+      "superficie_cosechada_ha": 698,
+      "produccion_t": 456
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "alpiste",
+      "superficie_sembrada_ha": 85,
+      "superficie_cosechada_ha": 85,
+      "produccion_t": 68
+    },
+    {
+      "provincia": "Salta",
+      "cultivo": "cebada total",
+      "superficie_sembrada_ha": 50,
+      "superficie_cosechada_ha": 50,
+      "produccion_t": 50
+    },
+    {
+      "provincia": "San Luis",
+      "cultivo": "maíz",
+      "superficie_sembrada_ha": 463850,
+      "superficie_cosechada_ha": 425720,
+      "produccion_t": 2243830
+    },
+    {
+      "provincia": "San Luis",
+      "cultivo": "soja total",
+      "superficie_sembrada_ha": 215850,
+      "superficie_cosechada_ha": 215850,
+      "produccion_t": 410091
+    },
+    {
+      "provincia": "San Luis",
+      "cultivo": "soja 1ra",
+      "superficie_sembrada_ha": 214050,
+      "superficie_cosechada_ha": 214050,
+      "produccion_t": 407621
+    },
+    {
+      "provincia": "San Luis",
+      "cultivo": "girasol",
+      "superficie_sembrada_ha": 111000,
+      "superficie_cosechada_ha": 111000,
+      "produccion_t": 200290
+    },
+    {
+      "provincia": "San Luis",
+      "cultivo": "sorgo",
+      "superficie_sembrada_ha": 22150,
+      "superficie_cosechada_ha": 12940,
+      "produccion_t": 44125
+    },
+    {
+      "provincia": "San Luis",
+      "cultivo": "trigo total",
+      "superficie_sembrada_ha": 13350,
+      "superficie_cosechada_ha": 12150,
+      "produccion_t": 39525
+    },
+    {
+      "provincia": "San Luis",
+      "cultivo": "maní",
+      "superficie_sembrada_ha": 11720,
+      "superficie_cosechada_ha": 11720,
+      "produccion_t": 36338
+    },
+    {
+      "provincia": "San Luis",
+      "cultivo": "trigo candeal",
+      "superficie_sembrada_ha": 4600,
+      "superficie_cosechada_ha": 4600,
+      "produccion_t": 19150
+    },
+    {
+      "provincia": "San Luis",
+      "cultivo": "algodón",
+      "superficie_sembrada_ha": 4150,
+      "superficie_cosechada_ha": 4150,
+      "produccion_t": 14810
+    },
+    {
+      "provincia": "San Luis",
+      "cultivo": "centeno",
+      "superficie_sembrada_ha": 150100,
+      "superficie_cosechada_ha": 6500,
+      "produccion_t": 5070
+    },
+    {
+      "provincia": "San Luis",
+      "cultivo": "soja 2da",
+      "superficie_sembrada_ha": 1800,
+      "superficie_cosechada_ha": 1800,
+      "produccion_t": 2470
+    },
+    {
+      "provincia": "San Luis",
+      "cultivo": "avena",
+      "superficie_sembrada_ha": 16500,
+      "superficie_cosechada_ha": 1550,
+      "produccion_t": 2100
+    },
+    {
+      "provincia": "San Luis",
+      "cultivo": "poroto otros",
+      "superficie_sembrada_ha": 870,
+      "superficie_cosechada_ha": 870,
+      "produccion_t": 1131
+    },
+    {
+      "provincia": "San Luis",
+      "cultivo": "poroto total",
+      "superficie_sembrada_ha": 870,
+      "superficie_cosechada_ha": 870,
+      "produccion_t": 1131
+    },
+    {
+      "provincia": "San Luis",
+      "cultivo": "garbanzo",
+      "superficie_sembrada_ha": 400,
+      "superficie_cosechada_ha": 400,
+      "produccion_t": 640
+    },
+    {
+      "provincia": "San Luis",
+      "cultivo": "mijo",
+      "superficie_sembrada_ha": 1800,
+      "superficie_cosechada_ha": 0,
+      "produccion_t": 0
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "soja total",
+      "superficie_sembrada_ha": 3389223,
+      "superficie_cosechada_ha": 3362223,
+      "produccion_t": 11463852
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "soja 1ra",
+      "superficie_sembrada_ha": 2166545,
+      "superficie_cosechada_ha": 2153545,
+      "produccion_t": 7955089
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "maíz",
+      "superficie_sembrada_ha": 781643,
+      "superficie_cosechada_ha": 637144,
+      "produccion_t": 5219638
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "soja 2da",
+      "superficie_sembrada_ha": 1222678,
+      "superficie_cosechada_ha": 1208678,
+      "produccion_t": 3508764
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "trigo total",
+      "superficie_sembrada_ha": 1263491,
+      "superficie_cosechada_ha": 1221341,
+      "produccion_t": 3494812
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "girasol",
+      "superficie_sembrada_ha": 341647,
+      "superficie_cosechada_ha": 341097,
+      "produccion_t": 751489
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "sorgo",
+      "superficie_sembrada_ha": 222702,
+      "superficie_cosechada_ha": 128802,
+      "produccion_t": 584775
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "algodón",
+      "superficie_sembrada_ha": 237300,
+      "superficie_cosechada_ha": 228400,
+      "produccion_t": 410269
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "arroz",
+      "superficie_sembrada_ha": 32400,
+      "superficie_cosechada_ha": 32400,
+      "produccion_t": 220720
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "maní",
+      "superficie_sembrada_ha": 18275,
+      "superficie_cosechada_ha": 18275,
+      "produccion_t": 51170
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "cebada total",
+      "superficie_sembrada_ha": 23094,
+      "superficie_cosechada_ha": 20794,
+      "produccion_t": 48143
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "arveja",
+      "superficie_sembrada_ha": 20877,
+      "superficie_cosechada_ha": 20877,
+      "produccion_t": 44554
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "lenteja",
+      "superficie_sembrada_ha": 24000,
+      "superficie_cosechada_ha": 24000,
+      "produccion_t": 21240
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "avena",
+      "superficie_sembrada_ha": 76361,
+      "superficie_cosechada_ha": 6526,
+      "produccion_t": 12062
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "colza",
+      "superficie_sembrada_ha": 4647,
+      "superficie_cosechada_ha": 4647,
+      "produccion_t": 6354
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "garbanzo",
+      "superficie_sembrada_ha": 1000,
+      "superficie_cosechada_ha": 1000,
+      "produccion_t": 1300
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "trigo candeal",
+      "superficie_sembrada_ha": 1200,
+      "superficie_cosechada_ha": 1200,
+      "produccion_t": 720
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "alpiste",
+      "superficie_sembrada_ha": 250,
+      "superficie_cosechada_ha": 250,
+      "produccion_t": 375
+    },
+    {
+      "provincia": "Santa Fe",
+      "cultivo": "centeno",
+      "superficie_sembrada_ha": 5844,
+      "superficie_cosechada_ha": 650,
+      "produccion_t": 340
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "soja total",
+      "superficie_sembrada_ha": 1415045,
+      "superficie_cosechada_ha": 1254863,
+      "produccion_t": 2895235
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "soja 1ra",
+      "superficie_sembrada_ha": 1072995,
+      "superficie_cosechada_ha": 936988,
+      "produccion_t": 2067079
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "maíz",
+      "superficie_sembrada_ha": 550700,
+      "superficie_cosechada_ha": 413985,
+      "produccion_t": 1612241
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "soja 2da",
+      "superficie_sembrada_ha": 342050,
+      "superficie_cosechada_ha": 317875,
+      "produccion_t": 828156
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "algodón",
+      "superficie_sembrada_ha": 232900,
+      "superficie_cosechada_ha": 217700,
+      "produccion_t": 440033
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "trigo total",
+      "superficie_sembrada_ha": 441340,
+      "superficie_cosechada_ha": 394965,
+      "produccion_t": 433058
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "sorgo",
+      "superficie_sembrada_ha": 148920,
+      "superficie_cosechada_ha": 109995,
+      "produccion_t": 325826
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "poroto total",
+      "superficie_sembrada_ha": 116210,
+      "superficie_cosechada_ha": 112814,
+      "produccion_t": 193944
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "poroto negro",
+      "superficie_sembrada_ha": 108360,
+      "superficie_cosechada_ha": 105213,
+      "produccion_t": 180586
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "girasol",
+      "superficie_sembrada_ha": 37520,
+      "superficie_cosechada_ha": 37295,
+      "produccion_t": 73052
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "garbanzo",
+      "superficie_sembrada_ha": 23230,
+      "superficie_cosechada_ha": 20595,
+      "produccion_t": 19326
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "cebada total",
+      "superficie_sembrada_ha": 21390,
+      "superficie_cosechada_ha": 19519,
+      "produccion_t": 15334
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "poroto otros",
+      "superficie_sembrada_ha": 7850,
+      "superficie_cosechada_ha": 7601,
+      "produccion_t": 13359
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "centeno",
+      "superficie_sembrada_ha": 34230,
+      "superficie_cosechada_ha": 5205,
+      "produccion_t": 4079
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "trigo candeal",
+      "superficie_sembrada_ha": 3200,
+      "superficie_cosechada_ha": 3050,
+      "produccion_t": 3316
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "avena",
+      "superficie_sembrada_ha": 15460,
+      "superficie_cosechada_ha": 1650,
+      "produccion_t": 1305
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "colza",
+      "superficie_sembrada_ha": 1500,
+      "superficie_cosechada_ha": 1440,
+      "produccion_t": 1199
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "cártamo",
+      "superficie_sembrada_ha": 1086,
+      "superficie_cosechada_ha": 1086,
+      "produccion_t": 1195
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "cultivo": "maní",
+      "superficie_sembrada_ha": 300,
+      "superficie_cosechada_ha": 285,
+      "produccion_t": 627
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "soja total",
+      "superficie_sembrada_ha": 185020,
+      "superficie_cosechada_ha": 182895,
+      "produccion_t": 473056
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "soja 1ra",
+      "superficie_sembrada_ha": 106800,
+      "superficie_cosechada_ha": 105730,
+      "produccion_t": 272456
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "maíz",
+      "superficie_sembrada_ha": 62930,
+      "superficie_cosechada_ha": 55640,
+      "produccion_t": 265954
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "soja 2da",
+      "superficie_sembrada_ha": 78220,
+      "superficie_cosechada_ha": 77165,
+      "produccion_t": 200601
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "trigo total",
+      "superficie_sembrada_ha": 82370,
+      "superficie_cosechada_ha": 79370,
+      "produccion_t": 86636
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "sorgo",
+      "superficie_sembrada_ha": 18000,
+      "superficie_cosechada_ha": 14450,
+      "produccion_t": 34440
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "garbanzo",
+      "superficie_sembrada_ha": 15750,
+      "superficie_cosechada_ha": 15320,
+      "produccion_t": 16132
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "poroto total",
+      "superficie_sembrada_ha": 20770,
+      "superficie_cosechada_ha": 19230,
+      "produccion_t": 15395
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "poroto negro",
+      "superficie_sembrada_ha": 19500,
+      "superficie_cosechada_ha": 18070,
+      "produccion_t": 14475
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "trigo candeal",
+      "superficie_sembrada_ha": 4950,
+      "superficie_cosechada_ha": 4600,
+      "produccion_t": 5442
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "maní",
+      "superficie_sembrada_ha": 2050,
+      "superficie_cosechada_ha": 2050,
+      "produccion_t": 3899
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "avena",
+      "superficie_sembrada_ha": 1390,
+      "superficie_cosechada_ha": 1280,
+      "produccion_t": 1319
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "centeno",
+      "superficie_sembrada_ha": 890,
+      "superficie_cosechada_ha": 890,
+      "produccion_t": 1008
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "poroto alubia",
+      "superficie_sembrada_ha": 1250,
+      "superficie_cosechada_ha": 1140,
+      "produccion_t": 892
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "girasol",
+      "superficie_sembrada_ha": 250,
+      "superficie_cosechada_ha": 250,
+      "produccion_t": 625
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "colza",
+      "superficie_sembrada_ha": 220,
+      "superficie_cosechada_ha": 220,
+      "produccion_t": 242
+    },
+    {
+      "provincia": "Tucumán",
+      "cultivo": "poroto otros",
+      "superficie_sembrada_ha": 20,
+      "superficie_cosechada_ha": 20,
+      "produccion_t": 28
+    }
+  ],
+  "meta": {
+    "title": "Producción agrícola de Argentina por provincia y cultivo (campaña 2024/2025) - Free Download",
+    "description": "Superficie sembrada y cosechada (ha) y producción (toneladas) de soja, maíz, trigo, girasol, cebada y otros cultivos en cada provincia argentina durante la campaña 2024/2025, según las estimaciones agrícolas del Ministerio de Agricultura, Ganadería y Pesca (sumadas por departamento). Contains 233 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Producción agrícola de Argentina por provincia y cultivo (campaña 2024/2025) | ListBase",
+    "seo_description": "Download Producción agrícola de Argentina por provincia y cultivo (campaña 2024/2025) — 233 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 233 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://datos.gob.ar/dataset/agroindustria-agricultura---estimaciones-agricolas"
+    ]
+  }
+}

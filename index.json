@@ -1,12 +1,12 @@
 {
   "lang": "es",
-  "generated": "2026-11-20T02:11:10.723Z",
-  "total_datasets": 590,
-  "total_records": 436079,
+  "generated": "2026-11-23T02:21:25.221Z",
+  "total_datasets": 591,
+  "total_records": 436312,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -177,6 +177,32 @@
         "xlsx": {
           "name": "es-alimentos-protegidos-galicia_ES.xlsx",
           "size": 7973
+        }
+      }
+    },
+    {
+      "id": "es-argentina-produccion-agricola-por-provincia-2024-2025",
+      "name": "Producción agrícola de Argentina por provincia y cultivo (campaña 2024/2025)",
+      "category": "agriculture",
+      "record_count": 233,
+      "columns": [
+        "provincia",
+        "cultivo",
+        "superficie_sembrada_ha",
+        "superficie_cosechada_ha",
+        "produccion_t"
+      ],
+      "source": "https://datos.gob.ar/dataset/agroindustria-agricultura---estimaciones-agricolas",
+      "updated": "2026-11",
+      "size": 44374,
+      "files": {
+        "csv": {
+          "name": "es-argentina-produccion-agricola-por-provincia-2024-2025_ES.csv",
+          "size": 10836
+        },
+        "xlsx": {
+          "name": "es-argentina-produccion-agricola-por-provincia-2024-2025_ES.xlsx",
+          "size": 13478
         }
       }
     },
