@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-23T02:21:45.757Z",
-  "total_datasets": 593,
-  "total_records": 436379,
+  "generated": "2026-11-24T02:18:02.775Z",
+  "total_datasets": 594,
+  "total_records": 436411,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 23
+      "dataset_count": 24
     },
     {
       "id": "history",
@@ -2850,6 +2850,33 @@
         "xlsx": {
           "name": "es-comunitat-valenciana-hospitales-diagnosticos_ES.xlsx",
           "size": 19296
+        }
+      }
+    },
+    {
+      "id": "es-entidades-mexico-esperanza-de-vida-2024",
+      "name": "Entidades federativas de México por esperanza de vida (2024)",
+      "category": "health",
+      "record_count": 32,
+      "columns": [
+        "posicion",
+        "entidad",
+        "esperanza_vida_total",
+        "esperanza_vida_hombres",
+        "esperanza_vida_mujeres",
+        "indice_de_salud"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Entidades_federativas_de_México_por_esperanza_de_vida",
+      "updated": "2026-11",
+      "size": 8775,
+      "files": {
+        "csv": {
+          "name": "es-entidades-mexico-esperanza-de-vida-2024_ES.csv",
+          "size": 1571
+        },
+        "xlsx": {
+          "name": "es-entidades-mexico-esperanza-de-vida-2024_ES.xlsx",
+          "size": 8085
         }
       }
     },
