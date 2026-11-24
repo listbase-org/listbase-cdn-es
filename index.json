@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-24T02:18:11.400Z",
-  "total_datasets": 595,
-  "total_records": 436624,
+  "generated": "2026-11-24T02:18:20.017Z",
+  "total_datasets": 596,
+  "total_records": 436671,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "education",
@@ -751,6 +751,34 @@
         "xlsx": {
           "name": "es-provincias-renta-per-capita_ES.xlsx",
           "size": 10825
+        }
+      }
+    },
+    {
+      "id": "es-salario-minimo-colombia-historico",
+      "name": "Salario mínimo en Colombia por año (1950–2026)",
+      "category": "economy",
+      "record_count": 47,
+      "columns": [
+        "anio",
+        "salario_minimo_mensual_cop",
+        "salario_minimo_diario_cop",
+        "variacion_anual_pct",
+        "inflacion_anual_pct",
+        "auxilio_transporte_cop",
+        "salario_mas_auxilio_cop"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Salario_mínimo_en_Colombia",
+      "updated": "2026-11",
+      "size": 14811,
+      "files": {
+        "csv": {
+          "name": "es-salario-minimo-colombia-historico_ES.csv",
+          "size": 2614
+        },
+        "xlsx": {
+          "name": "es-salario-minimo-colombia-historico_ES.xlsx",
+          "size": 8807
         }
       }
     },

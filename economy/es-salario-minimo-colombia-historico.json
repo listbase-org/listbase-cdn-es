@@ -1,0 +1,484 @@
+{
+  "id": "es-salario-minimo-colombia-historico",
+  "name": "Salario mínimo en Colombia por año (1950–2026)",
+  "title": "Salario mínimo en Colombia por año (1950–2026)",
+  "description": "Evolución del salario mínimo legal en Colombia: salario mensual y diario en pesos, variación anual, inflación anual, auxilio de transporte y total salario más auxilio, según decretos del Gobierno nacional.",
+  "category": "economy",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Salario_mínimo_en_Colombia",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Salario_mínimo_en_Colombia",
+  "updated": "2026-11",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "anio",
+      "label": "Anio",
+      "type": "number"
+    },
+    {
+      "key": "salario_minimo_mensual_cop",
+      "label": "Salario Minimo Mensual Cop",
+      "type": "number"
+    },
+    {
+      "key": "salario_minimo_diario_cop",
+      "label": "Salario Minimo Diario Cop",
+      "type": "number"
+    },
+    {
+      "key": "variacion_anual_pct",
+      "label": "Variacion Anual Pct",
+      "type": "number"
+    },
+    {
+      "key": "inflacion_anual_pct",
+      "label": "Inflacion Anual Pct",
+      "type": "number"
+    },
+    {
+      "key": "auxilio_transporte_cop",
+      "label": "Auxilio Transporte Cop",
+      "type": "number"
+    },
+    {
+      "key": "salario_mas_auxilio_cop",
+      "label": "Salario Mas Auxilio Cop",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "anio": 1950,
+      "salario_minimo_mensual_cop": 90,
+      "salario_minimo_diario_cop": 2,
+      "variacion_anual_pct": "",
+      "inflacion_anual_pct": 20.5,
+      "auxilio_transporte_cop": "",
+      "salario_mas_auxilio_cop": ""
+    },
+    {
+      "anio": 1960,
+      "salario_minimo_mensual_cop": 198,
+      "salario_minimo_diario_cop": 6.6,
+      "variacion_anual_pct": 27.4,
+      "inflacion_anual_pct": 7.35,
+      "auxilio_transporte_cop": "",
+      "salario_mas_auxilio_cop": ""
+    },
+    {
+      "anio": 1970,
+      "salario_minimo_mensual_cop": 519,
+      "salario_minimo_diario_cop": 17.3,
+      "variacion_anual_pct": 0,
+      "inflacion_anual_pct": 6.58,
+      "auxilio_transporte_cop": "",
+      "salario_mas_auxilio_cop": ""
+    },
+    {
+      "anio": 1980,
+      "salario_minimo_mensual_cop": 4500,
+      "salario_minimo_diario_cop": 150,
+      "variacion_anual_pct": 30.4,
+      "inflacion_anual_pct": 25.85,
+      "auxilio_transporte_cop": "",
+      "salario_mas_auxilio_cop": ""
+    },
+    {
+      "anio": 1984,
+      "salario_minimo_mensual_cop": 11298,
+      "salario_minimo_diario_cop": 376.6,
+      "variacion_anual_pct": "",
+      "inflacion_anual_pct": 18.28,
+      "auxilio_transporte_cop": "",
+      "salario_mas_auxilio_cop": ""
+    },
+    {
+      "anio": 1985,
+      "salario_minimo_mensual_cop": 13558,
+      "salario_minimo_diario_cop": 451.92,
+      "variacion_anual_pct": 20,
+      "inflacion_anual_pct": 22.45,
+      "auxilio_transporte_cop": "",
+      "salario_mas_auxilio_cop": ""
+    },
+    {
+      "anio": 1986,
+      "salario_minimo_mensual_cop": 16811,
+      "salario_minimo_diario_cop": 560.38,
+      "variacion_anual_pct": 24,
+      "inflacion_anual_pct": 20.95,
+      "auxilio_transporte_cop": "",
+      "salario_mas_auxilio_cop": ""
+    },
+    {
+      "anio": 1987,
+      "salario_minimo_mensual_cop": 20510,
+      "salario_minimo_diario_cop": 683.66,
+      "variacion_anual_pct": 22,
+      "inflacion_anual_pct": 24.02,
+      "auxilio_transporte_cop": "",
+      "salario_mas_auxilio_cop": ""
+    },
+    {
+      "anio": 1988,
+      "salario_minimo_mensual_cop": 25637,
+      "salario_minimo_diario_cop": 854.58,
+      "variacion_anual_pct": 25,
+      "inflacion_anual_pct": 28.12,
+      "auxilio_transporte_cop": "",
+      "salario_mas_auxilio_cop": ""
+    },
+    {
+      "anio": 1989,
+      "salario_minimo_mensual_cop": 32560,
+      "salario_minimo_diario_cop": 1085.32,
+      "variacion_anual_pct": 27,
+      "inflacion_anual_pct": 26.12,
+      "auxilio_transporte_cop": 3063,
+      "salario_mas_auxilio_cop": 35623
+    },
+    {
+      "anio": 1990,
+      "salario_minimo_mensual_cop": 41025,
+      "salario_minimo_diario_cop": 1367.5,
+      "variacion_anual_pct": 26,
+      "inflacion_anual_pct": 32.36,
+      "auxilio_transporte_cop": 3798,
+      "salario_mas_auxilio_cop": 44823
+    },
+    {
+      "anio": 1991,
+      "salario_minimo_mensual_cop": 51720,
+      "salario_minimo_diario_cop": 1724,
+      "variacion_anual_pct": 26.07,
+      "inflacion_anual_pct": 26.82,
+      "auxilio_transporte_cop": 4787,
+      "salario_mas_auxilio_cop": 56507
+    },
+    {
+      "anio": 1992,
+      "salario_minimo_mensual_cop": 65190,
+      "salario_minimo_diario_cop": 2173,
+      "variacion_anual_pct": 26.04,
+      "inflacion_anual_pct": 25.14,
+      "auxilio_transporte_cop": 6033,
+      "salario_mas_auxilio_cop": 71223
+    },
+    {
+      "anio": 1993,
+      "salario_minimo_mensual_cop": 81510,
+      "salario_minimo_diario_cop": 2717,
+      "variacion_anual_pct": 25.03,
+      "inflacion_anual_pct": 22.61,
+      "auxilio_transporte_cop": 7542,
+      "salario_mas_auxilio_cop": 89052
+    },
+    {
+      "anio": 1994,
+      "salario_minimo_mensual_cop": 98700,
+      "salario_minimo_diario_cop": 3290,
+      "variacion_anual_pct": 21.09,
+      "inflacion_anual_pct": 22.6,
+      "auxilio_transporte_cop": 8705,
+      "salario_mas_auxilio_cop": 107405
+    },
+    {
+      "anio": 1995,
+      "salario_minimo_mensual_cop": 118394,
+      "salario_minimo_diario_cop": 3964.47,
+      "variacion_anual_pct": 20.5,
+      "inflacion_anual_pct": 19.47,
+      "auxilio_transporte_cop": 10815,
+      "salario_mas_auxilio_cop": 129209
+    },
+    {
+      "anio": 1996,
+      "salario_minimo_mensual_cop": 142125,
+      "salario_minimo_diario_cop": 4737.5,
+      "variacion_anual_pct": 19.5,
+      "inflacion_anual_pct": 21.64,
+      "auxilio_transporte_cop": 13567,
+      "salario_mas_auxilio_cop": 155692
+    },
+    {
+      "anio": 1997,
+      "salario_minimo_mensual_cop": 172005,
+      "salario_minimo_diario_cop": 5733.5,
+      "variacion_anual_pct": 21.02,
+      "inflacion_anual_pct": 17.68,
+      "auxilio_transporte_cop": 17250,
+      "salario_mas_auxilio_cop": 189255
+    },
+    {
+      "anio": 1998,
+      "salario_minimo_mensual_cop": 203825,
+      "salario_minimo_diario_cop": 6794.2,
+      "variacion_anual_pct": 18.5,
+      "inflacion_anual_pct": 16.7,
+      "auxilio_transporte_cop": 20700,
+      "salario_mas_auxilio_cop": 224525
+    },
+    {
+      "anio": 1999,
+      "salario_minimo_mensual_cop": 236460,
+      "salario_minimo_diario_cop": 7882,
+      "variacion_anual_pct": 16.01,
+      "inflacion_anual_pct": 9.23,
+      "auxilio_transporte_cop": 24012,
+      "salario_mas_auxilio_cop": 260472
+    },
+    {
+      "anio": 2000,
+      "salario_minimo_mensual_cop": 260100,
+      "salario_minimo_diario_cop": 8670,
+      "variacion_anual_pct": 10,
+      "inflacion_anual_pct": 8.75,
+      "auxilio_transporte_cop": 26413,
+      "salario_mas_auxilio_cop": 286513
+    },
+    {
+      "anio": 2001,
+      "salario_minimo_mensual_cop": 286000,
+      "salario_minimo_diario_cop": 9533.33,
+      "variacion_anual_pct": 9.96,
+      "inflacion_anual_pct": 7.76,
+      "auxilio_transporte_cop": 30000,
+      "salario_mas_auxilio_cop": 316000
+    },
+    {
+      "anio": 2002,
+      "salario_minimo_mensual_cop": 309000,
+      "salario_minimo_diario_cop": 10300,
+      "variacion_anual_pct": 8.04,
+      "inflacion_anual_pct": 6.99,
+      "auxilio_transporte_cop": 34000,
+      "salario_mas_auxilio_cop": 343000
+    },
+    {
+      "anio": 2003,
+      "salario_minimo_mensual_cop": 332000,
+      "salario_minimo_diario_cop": 11066.67,
+      "variacion_anual_pct": 7.44,
+      "inflacion_anual_pct": 6.49,
+      "auxilio_transporte_cop": 37500,
+      "salario_mas_auxilio_cop": 369500
+    },
+    {
+      "anio": 2004,
+      "salario_minimo_mensual_cop": 358000,
+      "salario_minimo_diario_cop": 11933.33,
+      "variacion_anual_pct": 7.83,
+      "inflacion_anual_pct": 5.5,
+      "auxilio_transporte_cop": 41600,
+      "salario_mas_auxilio_cop": 399600
+    },
+    {
+      "anio": 2005,
+      "salario_minimo_mensual_cop": 381500,
+      "salario_minimo_diario_cop": 12716.67,
+      "variacion_anual_pct": 6.56,
+      "inflacion_anual_pct": 4.85,
+      "auxilio_transporte_cop": 44500,
+      "salario_mas_auxilio_cop": 426000
+    },
+    {
+      "anio": 2006,
+      "salario_minimo_mensual_cop": 408000,
+      "salario_minimo_diario_cop": 13600,
+      "variacion_anual_pct": 6.95,
+      "inflacion_anual_pct": 4.48,
+      "auxilio_transporte_cop": 47700,
+      "salario_mas_auxilio_cop": 455700
+    },
+    {
+      "anio": 2007,
+      "salario_minimo_mensual_cop": 433700,
+      "salario_minimo_diario_cop": 14456.67,
+      "variacion_anual_pct": 6.3,
+      "inflacion_anual_pct": 5.69,
+      "auxilio_transporte_cop": 50800,
+      "salario_mas_auxilio_cop": 484500
+    },
+    {
+      "anio": 2008,
+      "salario_minimo_mensual_cop": 461500,
+      "salario_minimo_diario_cop": 15383.33,
+      "variacion_anual_pct": 6.41,
+      "inflacion_anual_pct": 7.67,
+      "auxilio_transporte_cop": 55000,
+      "salario_mas_auxilio_cop": 516500
+    },
+    {
+      "anio": 2009,
+      "salario_minimo_mensual_cop": 496900,
+      "salario_minimo_diario_cop": 16563.33,
+      "variacion_anual_pct": 7.67,
+      "inflacion_anual_pct": 2,
+      "auxilio_transporte_cop": 59300,
+      "salario_mas_auxilio_cop": 556200
+    },
+    {
+      "anio": 2010,
+      "salario_minimo_mensual_cop": 515000,
+      "salario_minimo_diario_cop": 17166.66,
+      "variacion_anual_pct": 3.64,
+      "inflacion_anual_pct": 3.17,
+      "auxilio_transporte_cop": 61500,
+      "salario_mas_auxilio_cop": 576500
+    },
+    {
+      "anio": 2011,
+      "salario_minimo_mensual_cop": 535600,
+      "salario_minimo_diario_cop": 17853.33,
+      "variacion_anual_pct": 4,
+      "inflacion_anual_pct": 3.73,
+      "auxilio_transporte_cop": 63600,
+      "salario_mas_auxilio_cop": 599200
+    },
+    {
+      "anio": 2012,
+      "salario_minimo_mensual_cop": 566700,
+      "salario_minimo_diario_cop": 18890,
+      "variacion_anual_pct": 5.8,
+      "inflacion_anual_pct": 2.44,
+      "auxilio_transporte_cop": 67800,
+      "salario_mas_auxilio_cop": 634500
+    },
+    {
+      "anio": 2013,
+      "salario_minimo_mensual_cop": 589500,
+      "salario_minimo_diario_cop": 19633.33,
+      "variacion_anual_pct": 4.02,
+      "inflacion_anual_pct": 1.94,
+      "auxilio_transporte_cop": 70500,
+      "salario_mas_auxilio_cop": 659500
+    },
+    {
+      "anio": 2014,
+      "salario_minimo_mensual_cop": 616000,
+      "salario_minimo_diario_cop": 20534,
+      "variacion_anual_pct": 4.5,
+      "inflacion_anual_pct": 3.66,
+      "auxilio_transporte_cop": 72000,
+      "salario_mas_auxilio_cop": 688000
+    },
+    {
+      "anio": 2015,
+      "salario_minimo_mensual_cop": 644350,
+      "salario_minimo_diario_cop": 21478,
+      "variacion_anual_pct": 4.6,
+      "inflacion_anual_pct": 6.77,
+      "auxilio_transporte_cop": 74000,
+      "salario_mas_auxilio_cop": 718350
+    },
+    {
+      "anio": 2016,
+      "salario_minimo_mensual_cop": 689455,
+      "salario_minimo_diario_cop": 22966,
+      "variacion_anual_pct": 7,
+      "inflacion_anual_pct": 5.75,
+      "auxilio_transporte_cop": 77700,
+      "salario_mas_auxilio_cop": 767155
+    },
+    {
+      "anio": 2017,
+      "salario_minimo_mensual_cop": 737717,
+      "salario_minimo_diario_cop": 24590.56,
+      "variacion_anual_pct": 7,
+      "inflacion_anual_pct": 4.09,
+      "auxilio_transporte_cop": 83140,
+      "salario_mas_auxilio_cop": 820857
+    },
+    {
+      "anio": 2018,
+      "salario_minimo_mensual_cop": 781242,
+      "salario_minimo_diario_cop": 26041,
+      "variacion_anual_pct": 5.9,
+      "inflacion_anual_pct": 3.18,
+      "auxilio_transporte_cop": 88211,
+      "salario_mas_auxilio_cop": 869453
+    },
+    {
+      "anio": 2019,
+      "salario_minimo_mensual_cop": 828116,
+      "salario_minimo_diario_cop": 27603,
+      "variacion_anual_pct": 6,
+      "inflacion_anual_pct": 3.8,
+      "auxilio_transporte_cop": 97032,
+      "salario_mas_auxilio_cop": 925148
+    },
+    {
+      "anio": 2020,
+      "salario_minimo_mensual_cop": 877803,
+      "salario_minimo_diario_cop": 29260,
+      "variacion_anual_pct": 6,
+      "inflacion_anual_pct": 1.61,
+      "auxilio_transporte_cop": 102854,
+      "salario_mas_auxilio_cop": 980657
+    },
+    {
+      "anio": 2021,
+      "salario_minimo_mensual_cop": 908526,
+      "salario_minimo_diario_cop": 30284,
+      "variacion_anual_pct": 3.5,
+      "inflacion_anual_pct": 5.62,
+      "auxilio_transporte_cop": 106454,
+      "salario_mas_auxilio_cop": 1014980
+    },
+    {
+      "anio": 2022,
+      "salario_minimo_mensual_cop": 1000000,
+      "salario_minimo_diario_cop": 33333,
+      "variacion_anual_pct": 10.07,
+      "inflacion_anual_pct": 12.53,
+      "auxilio_transporte_cop": 117172,
+      "salario_mas_auxilio_cop": 1117172
+    },
+    {
+      "anio": 2023,
+      "salario_minimo_mensual_cop": 1160000,
+      "salario_minimo_diario_cop": 38666,
+      "variacion_anual_pct": 16,
+      "inflacion_anual_pct": 9.3,
+      "auxilio_transporte_cop": 140606,
+      "salario_mas_auxilio_cop": 1300606
+    },
+    {
+      "anio": 2024,
+      "salario_minimo_mensual_cop": 1300000,
+      "salario_minimo_diario_cop": 43333,
+      "variacion_anual_pct": 12.07,
+      "inflacion_anual_pct": 5.2,
+      "auxilio_transporte_cop": 162000,
+      "salario_mas_auxilio_cop": 1462000
+    },
+    {
+      "anio": 2025,
+      "salario_minimo_mensual_cop": 1423500,
+      "salario_minimo_diario_cop": 46800,
+      "variacion_anual_pct": 9.54,
+      "inflacion_anual_pct": 5.1,
+      "auxilio_transporte_cop": 200000,
+      "salario_mas_auxilio_cop": 1623500
+    },
+    {
+      "anio": 2026,
+      "salario_minimo_mensual_cop": 1750905,
+      "salario_minimo_diario_cop": "",
+      "variacion_anual_pct": "",
+      "inflacion_anual_pct": "",
+      "auxilio_transporte_cop": 249095,
+      "salario_mas_auxilio_cop": 2000000
+    }
+  ],
+  "meta": {
+    "title": "Salario mínimo en Colombia por año (1950–2026) - Free Download",
+    "description": "Evolución del salario mínimo legal en Colombia: salario mensual y diario en pesos, variación anual, inflación anual, auxilio de transporte y total salario más auxilio, según decretos del Gobierno nacional. Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Salario mínimo en Colombia por año (1950–2026) | ListBase",
+    "seo_description": "Download Salario mínimo en Colombia por año (1950–2026) — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Salario_mínimo_en_Colombia"
+    ]
+  }
+}
