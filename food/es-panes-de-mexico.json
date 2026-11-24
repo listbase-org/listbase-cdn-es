@@ -1,0 +1,888 @@
+{
+  "id": "es-panes-de-mexico",
+  "name": "Panes tradicionales de México (pan dulce y salado)",
+  "title": "Panes tradicionales de México (pan dulce y salado)",
+  "description": "Lista de panes tradicionales mexicanos —pan dulce de panadería y panes salados como bolillo, telera o cemita—, con su origen regional cuando se conoce.",
+  "category": "food",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Panes_de_México",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Panes_de_México",
+  "updated": "2026-11",
+  "record_count": 213,
+  "columns": [
+    {
+      "key": "nombre",
+      "label": "Nombre",
+      "type": "string"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nombre": "Baguette",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Birote",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Bolillo",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Cáscara de mantequilla",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Cemita",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Ciabatta o Chapata",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Cocotazo",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Cuernito (salado)",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Empanada (salada)",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Hojaldra (salada)",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Mollete (salado)",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Pambazo (estilo Ciudad de México)",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Pambazo (estilo Xalapa, Veracruz)",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Pan de agua",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Pan de caja",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Pan de sal",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Pan de petate (de Axochiapan, Morelos)",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Pan para Chancla poblana",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Pan pita",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Pañal o pañalito (salado)",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Pan de Pomuch o Pan de Pichón",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Paste (salado)",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Telera",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Volován (salado)",
+      "tipo": "salado"
+    },
+    {
+      "nombre": "Aguacata (de Tingüindín, Michoacán)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Abanico",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Acambarita (o Pan de Acámbaro), de Guanajuato",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Alcatraz",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Almohada",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Almeja",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Armadillo",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Alamar",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Arracada o cachucha (también llamado Mordida o Herradura)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Astorga",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Abrazo de Crema",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Banderilla",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Beso o yo-yo",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Bicicleta o Burra (de Tulancingo, Hidalgo)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Bigote",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Bisquet",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Bolita de queso",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Borrego",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Broca",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Buñuelo",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Cacahuate",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Calabaza o pollo (también llamado Perico)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Calvo",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Campechana",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Canasta",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Cañón",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Capote o pan tapado",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Caracol",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Carioca",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Cartera",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Cazuela",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Cazueleja de Chiapas",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Cerillo",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Cisne",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Cocol",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Colchón de naranja",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Colorado",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Concha",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Conde",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Concha elote (pan de Concha en forma de elote)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Condoche (de Trancoso, Zacatecas)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Corbata o moño",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Corneta o barquillo (también llamado Cono de Crema)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Cortadillo o bombón (también llamado Dominó)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Coyota de Sonora",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Cubilete",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Cuelga de Hidalgo",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Cuernito (dulce)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Chamuco",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Chamberina",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Chancacuda",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Chilindrina",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Chimistlán o chimisclán",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Chirimoya",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Chivo",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Chocolatín",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Chorreada",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Churro",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Chus",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Dona",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Duque",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Elote o elotito",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Empanada (dulce)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Empanochada",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Engrane",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Espejo",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Estribo",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Estropajo",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Flor de queso",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Galleta de carita feliz",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Galleta de grageas o chochitos de colores",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Gallina o gallinita",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Garibaldi",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Gendarme",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Girasol",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Gordita de nata",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Gordita de horno",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Granada",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Gusano o gusanito",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Hebilla",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Hojaldra (dulce)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Hojarasca",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Huacal",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Huarache",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Hueso o canilla",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Jaiba",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Ladrillo",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Laurel o cuello (también llamado Rosca apastelada o Ciudadela)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Libro o acordeón",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Lima",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Limón",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Magdalena",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Mamón",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Mano o manita",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Mantecada",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Mantecado",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Manteconcha",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Marquesote",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Mollete (dulce)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Monja",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Muela",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Mestiza de Sinaloa",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Multi",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Nevado o panadero",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Nido de danés",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Niño envuelto",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Novia",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Nuez",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Nube",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Ojo de buey",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Ojo de Pancha",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Ombligo o chichi de monja",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Oreja o orejita",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pachuco",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Paloma o pañuelo",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan de elote",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan de muerto",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Panqué",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan menonita de Chihuahua",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan de mujer (o Pan de vieja), de Sinaloa",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan de fiesta o pan de feria",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan de pulque",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Panqué chino o estrella",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Panqué encuerado o borrachito",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan Ranchero de Guanajuato",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan Tallado de Guanajuato",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan de queso (de Zacatlán, Puebla)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan de cajita de Guerrero",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan de plátano de Nayarit",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan amarillo de Oaxaca",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan Resobado de Oaxaca",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan de cazuela de Oaxaca",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan de nata o Cuernanata (de Cuernavaca, Morelos)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan borracho o payaso de Oaxaca",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan de riñón de Campeche",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan de cocodrilo o Juancho (de Tampico, Tamaulipas)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pan de yema de Oaxaca (también llamado Pan de carita)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pañal o pañalito (dulce)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Paste (dulce)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pechuga",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Peine o peineta",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pepino",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Perla",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Piedra o terrón",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Piñón",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Puerquito o marranito",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Picón",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pierna",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Piojosa",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Pluma",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Polvorón",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Puro de canela",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Riel",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Rayada de Parral, Chihuahua",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Rebanada de mantequilla",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Regañada",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Reja de manteca",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Rehilete",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Reina",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Revolcada",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Rollo o espiral de queso crema (de Bernal, Querétaro)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Rosca de canela",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Rosca de reyes",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Saramuyo",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Sargento",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Semita",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Sordo de mantequilla",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Tabasqueña",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Taco",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Tachihual",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Tapado",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Tomate",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Toquera de maíz de Michoacán",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Torcido",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Tornillo",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Torta de garbanzo de Jalisco",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Torta de queso de Veracruz",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Tortuga",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Tostada o lengua",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Tronco o leño",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Trenza",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Turulete",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Tuti",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Vidrio",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Viuda",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Volcán",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Volován (dulce)",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Yolanda",
+      "tipo": "dulce"
+    },
+    {
+      "nombre": "Zapote",
+      "tipo": "dulce"
+    }
+  ],
+  "meta": {
+    "title": "Panes tradicionales de México (pan dulce y salado) - Free Download",
+    "description": "Lista de panes tradicionales mexicanos —pan dulce de panadería y panes salados como bolillo, telera o cemita—, con su origen regional cuando se conoce. Contains 213 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Panes tradicionales de México (pan dulce y salado) | ListBase",
+    "seo_description": "Download Panes tradicionales de México (pan dulce y salado) — 213 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 213 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Panes_de_México"
+    ]
+  }
+}

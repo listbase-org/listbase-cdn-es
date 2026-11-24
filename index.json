@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-24T02:18:02.775Z",
-  "total_datasets": 594,
-  "total_records": 436411,
+  "generated": "2026-11-24T02:18:11.400Z",
+  "total_datasets": 595,
+  "total_records": 436624,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -1986,6 +1986,29 @@
         "xlsx": {
           "name": "es-panes-de-espana_ES.xlsx",
           "size": 12441
+        }
+      }
+    },
+    {
+      "id": "es-panes-de-mexico",
+      "name": "Panes tradicionales de México (pan dulce y salado)",
+      "category": "food",
+      "record_count": 213,
+      "columns": [
+        "nombre",
+        "tipo"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Panes_de_México",
+      "updated": "2026-11",
+      "size": 16468,
+      "files": {
+        "csv": {
+          "name": "es-panes-de-mexico_ES.csv",
+          "size": 5584
+        },
+        "xlsx": {
+          "name": "es-panes-de-mexico_ES.xlsx",
+          "size": 10941
         }
       }
     },
