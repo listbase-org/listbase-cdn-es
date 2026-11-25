@@ -1,0 +1,5134 @@
+{
+  "id": "es-participacion-elecciones-generales-por-circunscripcion",
+  "name": "Participación en las elecciones generales de España por circunscripción (1977–2023)",
+  "title": "Participación en las elecciones generales de España por circunscripción (1977–2023)",
+  "description": "Porcentaje de participación en cada una de las 52 circunscripciones (provincias y ciudades autónomas) en las elecciones generales al Congreso de los Diputados desde 1977.",
+  "category": "politics",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Resultados_de_las_elecciones_generales_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Resultados_de_las_elecciones_generales_de_España",
+  "updated": "2026-11",
+  "record_count": 848,
+  "columns": [
+    {
+      "key": "circunscripcion",
+      "label": "Circunscripcion",
+      "type": "string"
+    },
+    {
+      "key": "comunidad_autonoma",
+      "label": "Comunidad Autonoma",
+      "type": "string"
+    },
+    {
+      "key": "eleccion",
+      "label": "Eleccion",
+      "type": "number"
+    },
+    {
+      "key": "participacion_pct",
+      "label": "Participacion Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "circunscripcion": "Álava",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1977",
+      "participacion_pct": 82.9
+    },
+    {
+      "circunscripcion": "Álava",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1979",
+      "participacion_pct": 68.8
+    },
+    {
+      "circunscripcion": "Álava",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1982",
+      "participacion_pct": 81.8
+    },
+    {
+      "circunscripcion": "Álava",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1986",
+      "participacion_pct": 69.9
+    },
+    {
+      "circunscripcion": "Álava",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1989",
+      "participacion_pct": 66.7
+    },
+    {
+      "circunscripcion": "Álava",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1993",
+      "participacion_pct": 71.1
+    },
+    {
+      "circunscripcion": "Álava",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1996",
+      "participacion_pct": 72.3
+    },
+    {
+      "circunscripcion": "Álava",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2000",
+      "participacion_pct": 70.3
+    },
+    {
+      "circunscripcion": "Álava",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2004",
+      "participacion_pct": 77.2
+    },
+    {
+      "circunscripcion": "Álava",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2008",
+      "participacion_pct": 69.6
+    },
+    {
+      "circunscripcion": "Álava",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2011",
+      "participacion_pct": 68.7
+    },
+    {
+      "circunscripcion": "Álava",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2015",
+      "participacion_pct": 71.2
+    },
+    {
+      "circunscripcion": "Álava",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2016",
+      "participacion_pct": 66.5
+    },
+    {
+      "circunscripcion": "Álava",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 69.5
+    },
+    {
+      "circunscripcion": "Álava",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 66.62
+    },
+    {
+      "circunscripcion": "Álava",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2023",
+      "participacion_pct": 67.2
+    },
+    {
+      "circunscripcion": "Albacete",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1977",
+      "participacion_pct": 81.3
+    },
+    {
+      "circunscripcion": "Albacete",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1979",
+      "participacion_pct": 71.5
+    },
+    {
+      "circunscripcion": "Albacete",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1982",
+      "participacion_pct": 82
+    },
+    {
+      "circunscripcion": "Albacete",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1986",
+      "participacion_pct": 73
+    },
+    {
+      "circunscripcion": "Albacete",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1989",
+      "participacion_pct": 76.6
+    },
+    {
+      "circunscripcion": "Albacete",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1993",
+      "participacion_pct": 82.4
+    },
+    {
+      "circunscripcion": "Albacete",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1996",
+      "participacion_pct": 83.5
+    },
+    {
+      "circunscripcion": "Albacete",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2000",
+      "participacion_pct": 75.6
+    },
+    {
+      "circunscripcion": "Albacete",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2004",
+      "participacion_pct": 79.3
+    },
+    {
+      "circunscripcion": "Albacete",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2008",
+      "participacion_pct": 79.7
+    },
+    {
+      "circunscripcion": "Albacete",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2011",
+      "participacion_pct": 76.1
+    },
+    {
+      "circunscripcion": "Albacete",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2015",
+      "participacion_pct": 75.3
+    },
+    {
+      "circunscripcion": "Albacete",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2016",
+      "participacion_pct": 71.5
+    },
+    {
+      "circunscripcion": "Albacete",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 76.5
+    },
+    {
+      "circunscripcion": "Albacete",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 69.97
+    },
+    {
+      "circunscripcion": "Albacete",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2023",
+      "participacion_pct": 74.3
+    },
+    {
+      "circunscripcion": "Alicante",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1977",
+      "participacion_pct": 82.2
+    },
+    {
+      "circunscripcion": "Alicante",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1979",
+      "participacion_pct": 73.5
+    },
+    {
+      "circunscripcion": "Alicante",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1982",
+      "participacion_pct": 84.4
+    },
+    {
+      "circunscripcion": "Alicante",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1986",
+      "participacion_pct": 74.8
+    },
+    {
+      "circunscripcion": "Alicante",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1989",
+      "participacion_pct": 74.1
+    },
+    {
+      "circunscripcion": "Alicante",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1993",
+      "participacion_pct": 81.8
+    },
+    {
+      "circunscripcion": "Alicante",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1996",
+      "participacion_pct": 81.9
+    },
+    {
+      "circunscripcion": "Alicante",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2000",
+      "participacion_pct": 73.3
+    },
+    {
+      "circunscripcion": "Alicante",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2004",
+      "participacion_pct": 77.5
+    },
+    {
+      "circunscripcion": "Alicante",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2008",
+      "participacion_pct": 78.7
+    },
+    {
+      "circunscripcion": "Alicante",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2011",
+      "participacion_pct": 73.5
+    },
+    {
+      "circunscripcion": "Alicante",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2015",
+      "participacion_pct": 72.9
+    },
+    {
+      "circunscripcion": "Alicante",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2016",
+      "participacion_pct": 70.4
+    },
+    {
+      "circunscripcion": "Alicante",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 72.9
+    },
+    {
+      "circunscripcion": "Alicante",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 67.37
+    },
+    {
+      "circunscripcion": "Alicante",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2023",
+      "participacion_pct": 71.7
+    },
+    {
+      "circunscripcion": "Almería",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1977",
+      "participacion_pct": 77.7
+    },
+    {
+      "circunscripcion": "Almería",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1979",
+      "participacion_pct": 66.3
+    },
+    {
+      "circunscripcion": "Almería",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1982",
+      "participacion_pct": 76.8
+    },
+    {
+      "circunscripcion": "Almería",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1986",
+      "participacion_pct": 67.8
+    },
+    {
+      "circunscripcion": "Almería",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1989",
+      "participacion_pct": 68
+    },
+    {
+      "circunscripcion": "Almería",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1993",
+      "participacion_pct": 75.8
+    },
+    {
+      "circunscripcion": "Almería",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1996",
+      "participacion_pct": 77.2
+    },
+    {
+      "circunscripcion": "Almería",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2000",
+      "participacion_pct": 68.1
+    },
+    {
+      "circunscripcion": "Almería",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2004",
+      "participacion_pct": 71.9
+    },
+    {
+      "circunscripcion": "Almería",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2008",
+      "participacion_pct": 72.8
+    },
+    {
+      "circunscripcion": "Almería",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2011",
+      "participacion_pct": 67.2
+    },
+    {
+      "circunscripcion": "Almería",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2015",
+      "participacion_pct": 63.7
+    },
+    {
+      "circunscripcion": "Almería",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2016",
+      "participacion_pct": 62.9
+    },
+    {
+      "circunscripcion": "Almería",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 66.1
+    },
+    {
+      "circunscripcion": "Almería",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 60.76
+    },
+    {
+      "circunscripcion": "Almería",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2023",
+      "participacion_pct": 68.1
+    },
+    {
+      "circunscripcion": "Asturias",
+      "comunidad_autonoma": "AST",
+      "eleccion": "1977",
+      "participacion_pct": 74.6
+    },
+    {
+      "circunscripcion": "Asturias",
+      "comunidad_autonoma": "AST",
+      "eleccion": "1979",
+      "participacion_pct": 62.7
+    },
+    {
+      "circunscripcion": "Asturias",
+      "comunidad_autonoma": "AST",
+      "eleccion": "1982",
+      "participacion_pct": 77.6
+    },
+    {
+      "circunscripcion": "Asturias",
+      "comunidad_autonoma": "AST",
+      "eleccion": "1986",
+      "participacion_pct": 67.8
+    },
+    {
+      "circunscripcion": "Asturias",
+      "comunidad_autonoma": "AST",
+      "eleccion": "1989",
+      "participacion_pct": 68.9
+    },
+    {
+      "circunscripcion": "Asturias",
+      "comunidad_autonoma": "AST",
+      "eleccion": "1993",
+      "participacion_pct": 75.4
+    },
+    {
+      "circunscripcion": "Asturias",
+      "comunidad_autonoma": "AST",
+      "eleccion": "1996",
+      "participacion_pct": 75.9
+    },
+    {
+      "circunscripcion": "Asturias",
+      "comunidad_autonoma": "AST",
+      "eleccion": "2000",
+      "participacion_pct": 67
+    },
+    {
+      "circunscripcion": "Asturias",
+      "comunidad_autonoma": "AST",
+      "eleccion": "2004",
+      "participacion_pct": 71.7
+    },
+    {
+      "circunscripcion": "Asturias",
+      "comunidad_autonoma": "AST",
+      "eleccion": "2008",
+      "participacion_pct": 71.3
+    },
+    {
+      "circunscripcion": "Asturias",
+      "comunidad_autonoma": "AST",
+      "eleccion": "2011",
+      "participacion_pct": 64.6
+    },
+    {
+      "circunscripcion": "Asturias",
+      "comunidad_autonoma": "AST",
+      "eleccion": "2015",
+      "participacion_pct": 63.8
+    },
+    {
+      "circunscripcion": "Asturias",
+      "comunidad_autonoma": "AST",
+      "eleccion": "2016",
+      "participacion_pct": 61.1
+    },
+    {
+      "circunscripcion": "Asturias",
+      "comunidad_autonoma": "AST",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 65
+    },
+    {
+      "circunscripcion": "Asturias",
+      "comunidad_autonoma": "AST",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 58.12
+    },
+    {
+      "circunscripcion": "Asturias",
+      "comunidad_autonoma": "AST",
+      "eleccion": "2023",
+      "participacion_pct": 71.1
+    },
+    {
+      "circunscripcion": "Ávila",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1977",
+      "participacion_pct": 81
+    },
+    {
+      "circunscripcion": "Ávila",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1979",
+      "participacion_pct": 70.5
+    },
+    {
+      "circunscripcion": "Ávila",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1982",
+      "participacion_pct": 82.2
+    },
+    {
+      "circunscripcion": "Ávila",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1986",
+      "participacion_pct": 76.7
+    },
+    {
+      "circunscripcion": "Ávila",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1989",
+      "participacion_pct": 77
+    },
+    {
+      "circunscripcion": "Ávila",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1993",
+      "participacion_pct": 80
+    },
+    {
+      "circunscripcion": "Ávila",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1996",
+      "participacion_pct": 81.1
+    },
+    {
+      "circunscripcion": "Ávila",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2000",
+      "participacion_pct": 74.7
+    },
+    {
+      "circunscripcion": "Ávila",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2004",
+      "participacion_pct": 79.9
+    },
+    {
+      "circunscripcion": "Ávila",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2008",
+      "participacion_pct": 80.4
+    },
+    {
+      "circunscripcion": "Ávila",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2011",
+      "participacion_pct": 75.4
+    },
+    {
+      "circunscripcion": "Ávila",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2015",
+      "participacion_pct": 73.8
+    },
+    {
+      "circunscripcion": "Ávila",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2016",
+      "participacion_pct": 71.9
+    },
+    {
+      "circunscripcion": "Ávila",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 75.5
+    },
+    {
+      "circunscripcion": "Ávila",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 69.34
+    },
+    {
+      "circunscripcion": "Ávila",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2023",
+      "participacion_pct": 76.5
+    },
+    {
+      "circunscripcion": "Badajoz",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "1977",
+      "participacion_pct": 78
+    },
+    {
+      "circunscripcion": "Badajoz",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "1979",
+      "participacion_pct": 72
+    },
+    {
+      "circunscripcion": "Badajoz",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "1982",
+      "participacion_pct": 80.7
+    },
+    {
+      "circunscripcion": "Badajoz",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "1986",
+      "participacion_pct": 74.5
+    },
+    {
+      "circunscripcion": "Badajoz",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "1989",
+      "participacion_pct": 76.1
+    },
+    {
+      "circunscripcion": "Badajoz",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "1993",
+      "participacion_pct": 81.3
+    },
+    {
+      "circunscripcion": "Badajoz",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "1996",
+      "participacion_pct": 83.1
+    },
+    {
+      "circunscripcion": "Badajoz",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2000",
+      "participacion_pct": 75.2
+    },
+    {
+      "circunscripcion": "Badajoz",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2004",
+      "participacion_pct": 79.3
+    },
+    {
+      "circunscripcion": "Badajoz",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2008",
+      "participacion_pct": 78.6
+    },
+    {
+      "circunscripcion": "Badajoz",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2011",
+      "participacion_pct": 74.3
+    },
+    {
+      "circunscripcion": "Badajoz",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2015",
+      "participacion_pct": 72.3
+    },
+    {
+      "circunscripcion": "Badajoz",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2016",
+      "participacion_pct": 68.6
+    },
+    {
+      "circunscripcion": "Badajoz",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 74.7
+    },
+    {
+      "circunscripcion": "Badajoz",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 67.92
+    },
+    {
+      "circunscripcion": "Badajoz",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2023",
+      "participacion_pct": 73.6
+    },
+    {
+      "circunscripcion": "Baleares, Islas",
+      "comunidad_autonoma": "IBA",
+      "eleccion": "1977",
+      "participacion_pct": 78.8
+    },
+    {
+      "circunscripcion": "Baleares, Islas",
+      "comunidad_autonoma": "IBA",
+      "eleccion": "1979",
+      "participacion_pct": 69.7
+    },
+    {
+      "circunscripcion": "Baleares, Islas",
+      "comunidad_autonoma": "IBA",
+      "eleccion": "1982",
+      "participacion_pct": 79.7
+    },
+    {
+      "circunscripcion": "Baleares, Islas",
+      "comunidad_autonoma": "IBA",
+      "eleccion": "1986",
+      "participacion_pct": 66
+    },
+    {
+      "circunscripcion": "Baleares, Islas",
+      "comunidad_autonoma": "IBA",
+      "eleccion": "1989",
+      "participacion_pct": 63.5
+    },
+    {
+      "circunscripcion": "Baleares, Islas",
+      "comunidad_autonoma": "IBA",
+      "eleccion": "1993",
+      "participacion_pct": 72.6
+    },
+    {
+      "circunscripcion": "Baleares, Islas",
+      "comunidad_autonoma": "IBA",
+      "eleccion": "1996",
+      "participacion_pct": 71.6
+    },
+    {
+      "circunscripcion": "Baleares, Islas",
+      "comunidad_autonoma": "IBA",
+      "eleccion": "2000",
+      "participacion_pct": 61.4
+    },
+    {
+      "circunscripcion": "Baleares, Islas",
+      "comunidad_autonoma": "IBA",
+      "eleccion": "2004",
+      "participacion_pct": 68.8
+    },
+    {
+      "circunscripcion": "Baleares, Islas",
+      "comunidad_autonoma": "IBA",
+      "eleccion": "2008",
+      "participacion_pct": 67.6
+    },
+    {
+      "circunscripcion": "Baleares, Islas",
+      "comunidad_autonoma": "IBA",
+      "eleccion": "2011",
+      "participacion_pct": 61
+    },
+    {
+      "circunscripcion": "Baleares, Islas",
+      "comunidad_autonoma": "IBA",
+      "eleccion": "2015",
+      "participacion_pct": 63.4
+    },
+    {
+      "circunscripcion": "Baleares, Islas",
+      "comunidad_autonoma": "IBA",
+      "eleccion": "2016",
+      "participacion_pct": 60.7
+    },
+    {
+      "circunscripcion": "Baleares, Islas",
+      "comunidad_autonoma": "IBA",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 65.4
+    },
+    {
+      "circunscripcion": "Baleares, Islas",
+      "comunidad_autonoma": "IBA",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 56.81
+    },
+    {
+      "circunscripcion": "Baleares, Islas",
+      "comunidad_autonoma": "IBA",
+      "eleccion": "2023",
+      "participacion_pct": 63.6
+    },
+    {
+      "circunscripcion": "Barcelona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1977",
+      "participacion_pct": 79.6
+    },
+    {
+      "circunscripcion": "Barcelona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1979",
+      "participacion_pct": 67.4
+    },
+    {
+      "circunscripcion": "Barcelona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1982",
+      "participacion_pct": 81.5
+    },
+    {
+      "circunscripcion": "Barcelona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1986",
+      "participacion_pct": 68.8
+    },
+    {
+      "circunscripcion": "Barcelona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1989",
+      "participacion_pct": 67.9
+    },
+    {
+      "circunscripcion": "Barcelona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1993",
+      "participacion_pct": 75.8
+    },
+    {
+      "circunscripcion": "Barcelona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1996",
+      "participacion_pct": 76.7
+    },
+    {
+      "circunscripcion": "Barcelona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2000",
+      "participacion_pct": 63.8
+    },
+    {
+      "circunscripcion": "Barcelona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2004",
+      "participacion_pct": 76.2
+    },
+    {
+      "circunscripcion": "Barcelona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2008",
+      "participacion_pct": 70.7
+    },
+    {
+      "circunscripcion": "Barcelona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2011",
+      "participacion_pct": 65.9
+    },
+    {
+      "circunscripcion": "Barcelona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2015",
+      "participacion_pct": 69.6
+    },
+    {
+      "circunscripcion": "Barcelona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2016",
+      "participacion_pct": 64.4
+    },
+    {
+      "circunscripcion": "Barcelona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 75
+    },
+    {
+      "circunscripcion": "Barcelona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 70.04
+    },
+    {
+      "circunscripcion": "Barcelona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2023",
+      "participacion_pct": 66.2
+    },
+    {
+      "circunscripcion": "Burgos",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1977",
+      "participacion_pct": 79.3
+    },
+    {
+      "circunscripcion": "Burgos",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1979",
+      "participacion_pct": 68
+    },
+    {
+      "circunscripcion": "Burgos",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1982",
+      "participacion_pct": 79.2
+    },
+    {
+      "circunscripcion": "Burgos",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1986",
+      "participacion_pct": 71.5
+    },
+    {
+      "circunscripcion": "Burgos",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1989",
+      "participacion_pct": 72.3
+    },
+    {
+      "circunscripcion": "Burgos",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1993",
+      "participacion_pct": 77.8
+    },
+    {
+      "circunscripcion": "Burgos",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1996",
+      "participacion_pct": 78.1
+    },
+    {
+      "circunscripcion": "Burgos",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2000",
+      "participacion_pct": 73.6
+    },
+    {
+      "circunscripcion": "Burgos",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2004",
+      "participacion_pct": 78.3
+    },
+    {
+      "circunscripcion": "Burgos",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2008",
+      "participacion_pct": 77.4
+    },
+    {
+      "circunscripcion": "Burgos",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2011",
+      "participacion_pct": 71.7
+    },
+    {
+      "circunscripcion": "Burgos",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2015",
+      "participacion_pct": 72.4
+    },
+    {
+      "circunscripcion": "Burgos",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2016",
+      "participacion_pct": 69.7
+    },
+    {
+      "circunscripcion": "Burgos",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 74.4
+    },
+    {
+      "circunscripcion": "Burgos",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 67.45
+    },
+    {
+      "circunscripcion": "Burgos",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2023",
+      "participacion_pct": 73
+    },
+    {
+      "circunscripcion": "Cáceres",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "1977",
+      "participacion_pct": 76
+    },
+    {
+      "circunscripcion": "Cáceres",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "1979",
+      "participacion_pct": 67.3
+    },
+    {
+      "circunscripcion": "Cáceres",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "1982",
+      "participacion_pct": 78.8
+    },
+    {
+      "circunscripcion": "Cáceres",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "1986",
+      "participacion_pct": 72.3
+    },
+    {
+      "circunscripcion": "Cáceres",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "1989",
+      "participacion_pct": 74.7
+    },
+    {
+      "circunscripcion": "Cáceres",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "1993",
+      "participacion_pct": 79.2
+    },
+    {
+      "circunscripcion": "Cáceres",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "1996",
+      "participacion_pct": 81.2
+    },
+    {
+      "circunscripcion": "Cáceres",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2000",
+      "participacion_pct": 75.8
+    },
+    {
+      "circunscripcion": "Cáceres",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2004",
+      "participacion_pct": 79.2
+    },
+    {
+      "circunscripcion": "Cáceres",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2008",
+      "participacion_pct": 78.5
+    },
+    {
+      "circunscripcion": "Cáceres",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2011",
+      "participacion_pct": 73.3
+    },
+    {
+      "circunscripcion": "Cáceres",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2015",
+      "participacion_pct": 71.9
+    },
+    {
+      "circunscripcion": "Cáceres",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2016",
+      "participacion_pct": 68.7
+    },
+    {
+      "circunscripcion": "Cáceres",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 73.3
+    },
+    {
+      "circunscripcion": "Cáceres",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 66.08
+    },
+    {
+      "circunscripcion": "Cáceres",
+      "comunidad_autonoma": "EXT",
+      "eleccion": "2023",
+      "participacion_pct": 73.7
+    },
+    {
+      "circunscripcion": "Cádiz",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1977",
+      "participacion_pct": 75.3
+    },
+    {
+      "circunscripcion": "Cádiz",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1979",
+      "participacion_pct": 65.6
+    },
+    {
+      "circunscripcion": "Cádiz",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1982",
+      "participacion_pct": 75.7
+    },
+    {
+      "circunscripcion": "Cádiz",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1986",
+      "participacion_pct": 66.3
+    },
+    {
+      "circunscripcion": "Cádiz",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1989",
+      "participacion_pct": 63.1
+    },
+    {
+      "circunscripcion": "Cádiz",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1993",
+      "participacion_pct": 70.8
+    },
+    {
+      "circunscripcion": "Cádiz",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1996",
+      "participacion_pct": 73.3
+    },
+    {
+      "circunscripcion": "Cádiz",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2000",
+      "participacion_pct": 63.1
+    },
+    {
+      "circunscripcion": "Cádiz",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2004",
+      "participacion_pct": 69.9
+    },
+    {
+      "circunscripcion": "Cádiz",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2008",
+      "participacion_pct": 67.4
+    },
+    {
+      "circunscripcion": "Cádiz",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2011",
+      "participacion_pct": 63.8
+    },
+    {
+      "circunscripcion": "Cádiz",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2015",
+      "participacion_pct": 65.7
+    },
+    {
+      "circunscripcion": "Cádiz",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2016",
+      "participacion_pct": 62.6
+    },
+    {
+      "circunscripcion": "Cádiz",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 67.6
+    },
+    {
+      "circunscripcion": "Cádiz",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 62.28
+    },
+    {
+      "circunscripcion": "Cádiz",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2023",
+      "participacion_pct": 65
+    },
+    {
+      "circunscripcion": "Cantabria",
+      "comunidad_autonoma": "CAN",
+      "eleccion": "1977",
+      "participacion_pct": 80.7
+    },
+    {
+      "circunscripcion": "Cantabria",
+      "comunidad_autonoma": "CAN",
+      "eleccion": "1979",
+      "participacion_pct": 70.5
+    },
+    {
+      "circunscripcion": "Cantabria",
+      "comunidad_autonoma": "CAN",
+      "eleccion": "1982",
+      "participacion_pct": 82.7
+    },
+    {
+      "circunscripcion": "Cantabria",
+      "comunidad_autonoma": "CAN",
+      "eleccion": "1986",
+      "participacion_pct": 73.4
+    },
+    {
+      "circunscripcion": "Cantabria",
+      "comunidad_autonoma": "CAN",
+      "eleccion": "1989",
+      "participacion_pct": 74.3
+    },
+    {
+      "circunscripcion": "Cantabria",
+      "comunidad_autonoma": "CAN",
+      "eleccion": "1993",
+      "participacion_pct": 79
+    },
+    {
+      "circunscripcion": "Cantabria",
+      "comunidad_autonoma": "CAN",
+      "eleccion": "1996",
+      "participacion_pct": 79.3
+    },
+    {
+      "circunscripcion": "Cantabria",
+      "comunidad_autonoma": "CAN",
+      "eleccion": "2000",
+      "participacion_pct": 71.8
+    },
+    {
+      "circunscripcion": "Cantabria",
+      "comunidad_autonoma": "CAN",
+      "eleccion": "2004",
+      "participacion_pct": 77.2
+    },
+    {
+      "circunscripcion": "Cantabria",
+      "comunidad_autonoma": "CAN",
+      "eleccion": "2008",
+      "participacion_pct": 76.4
+    },
+    {
+      "circunscripcion": "Cantabria",
+      "comunidad_autonoma": "CAN",
+      "eleccion": "2011",
+      "participacion_pct": 71.6
+    },
+    {
+      "circunscripcion": "Cantabria",
+      "comunidad_autonoma": "CAN",
+      "eleccion": "2015",
+      "participacion_pct": 71
+    },
+    {
+      "circunscripcion": "Cantabria",
+      "comunidad_autonoma": "CAN",
+      "eleccion": "2016",
+      "participacion_pct": 68.5
+    },
+    {
+      "circunscripcion": "Cantabria",
+      "comunidad_autonoma": "CAN",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 72.4
+    },
+    {
+      "circunscripcion": "Cantabria",
+      "comunidad_autonoma": "CAN",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 65.74
+    },
+    {
+      "circunscripcion": "Cantabria",
+      "comunidad_autonoma": "CAN",
+      "eleccion": "2023",
+      "participacion_pct": 75.3
+    },
+    {
+      "circunscripcion": "Castellón",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1977",
+      "participacion_pct": 85.5
+    },
+    {
+      "circunscripcion": "Castellón",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1979",
+      "participacion_pct": 78.7
+    },
+    {
+      "circunscripcion": "Castellón",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1982",
+      "participacion_pct": 85.9
+    },
+    {
+      "circunscripcion": "Castellón",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1986",
+      "participacion_pct": 77.8
+    },
+    {
+      "circunscripcion": "Castellón",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1989",
+      "participacion_pct": 75.3
+    },
+    {
+      "circunscripcion": "Castellón",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1993",
+      "participacion_pct": 81.1
+    },
+    {
+      "circunscripcion": "Castellón",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1996",
+      "participacion_pct": 81.6
+    },
+    {
+      "circunscripcion": "Castellón",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2000",
+      "participacion_pct": 73.7
+    },
+    {
+      "circunscripcion": "Castellón",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2004",
+      "participacion_pct": 78.4
+    },
+    {
+      "circunscripcion": "Castellón",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2008",
+      "participacion_pct": 77.8
+    },
+    {
+      "circunscripcion": "Castellón",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2011",
+      "participacion_pct": 72.7
+    },
+    {
+      "circunscripcion": "Castellón",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2015",
+      "participacion_pct": 75
+    },
+    {
+      "circunscripcion": "Castellón",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2016",
+      "participacion_pct": 75.6
+    },
+    {
+      "circunscripcion": "Castellón",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 75.6
+    },
+    {
+      "circunscripcion": "Castellón",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 70.71
+    },
+    {
+      "circunscripcion": "Castellón",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2023",
+      "participacion_pct": 73.8
+    },
+    {
+      "circunscripcion": "Ceuta",
+      "comunidad_autonoma": "CEU",
+      "eleccion": "1977",
+      "participacion_pct": 77.6
+    },
+    {
+      "circunscripcion": "Ceuta",
+      "comunidad_autonoma": "CEU",
+      "eleccion": "1979",
+      "participacion_pct": 65.4
+    },
+    {
+      "circunscripcion": "Ceuta",
+      "comunidad_autonoma": "CEU",
+      "eleccion": "1982",
+      "participacion_pct": 72.3
+    },
+    {
+      "circunscripcion": "Ceuta",
+      "comunidad_autonoma": "CEU",
+      "eleccion": "1986",
+      "participacion_pct": 56.7
+    },
+    {
+      "circunscripcion": "Ceuta",
+      "comunidad_autonoma": "CEU",
+      "eleccion": "1989",
+      "participacion_pct": 55.9
+    },
+    {
+      "circunscripcion": "Ceuta",
+      "comunidad_autonoma": "CEU",
+      "eleccion": "1993",
+      "participacion_pct": 62.1
+    },
+    {
+      "circunscripcion": "Ceuta",
+      "comunidad_autonoma": "CEU",
+      "eleccion": "1996",
+      "participacion_pct": 63.8
+    },
+    {
+      "circunscripcion": "Ceuta",
+      "comunidad_autonoma": "CEU",
+      "eleccion": "2000",
+      "participacion_pct": 55.2
+    },
+    {
+      "circunscripcion": "Ceuta",
+      "comunidad_autonoma": "CEU",
+      "eleccion": "2004",
+      "participacion_pct": 63.5
+    },
+    {
+      "circunscripcion": "Ceuta",
+      "comunidad_autonoma": "CEU",
+      "eleccion": "2008",
+      "participacion_pct": 63.3
+    },
+    {
+      "circunscripcion": "Ceuta",
+      "comunidad_autonoma": "CEU",
+      "eleccion": "2011",
+      "participacion_pct": 53.2
+    },
+    {
+      "circunscripcion": "Ceuta",
+      "comunidad_autonoma": "CEU",
+      "eleccion": "2015",
+      "participacion_pct": 54.4
+    },
+    {
+      "circunscripcion": "Ceuta",
+      "comunidad_autonoma": "CEU",
+      "eleccion": "2016",
+      "participacion_pct": 50.7
+    },
+    {
+      "circunscripcion": "Ceuta",
+      "comunidad_autonoma": "CEU",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 61.4
+    },
+    {
+      "circunscripcion": "Ceuta",
+      "comunidad_autonoma": "CEU",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 53.98
+    },
+    {
+      "circunscripcion": "Ceuta",
+      "comunidad_autonoma": "CEU",
+      "eleccion": "2023",
+      "participacion_pct": 55.6
+    },
+    {
+      "circunscripcion": "Ciudad Real",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1977",
+      "participacion_pct": 80.9
+    },
+    {
+      "circunscripcion": "Ciudad Real",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1979",
+      "participacion_pct": 68.2
+    },
+    {
+      "circunscripcion": "Ciudad Real",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1982",
+      "participacion_pct": 83.4
+    },
+    {
+      "circunscripcion": "Ciudad Real",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1986",
+      "participacion_pct": 73.4
+    },
+    {
+      "circunscripcion": "Ciudad Real",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1989",
+      "participacion_pct": 75.1
+    },
+    {
+      "circunscripcion": "Ciudad Real",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1993",
+      "participacion_pct": 80.8
+    },
+    {
+      "circunscripcion": "Ciudad Real",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1996",
+      "participacion_pct": 82.3
+    },
+    {
+      "circunscripcion": "Ciudad Real",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2000",
+      "participacion_pct": 74.8
+    },
+    {
+      "circunscripcion": "Ciudad Real",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2004",
+      "participacion_pct": 78.6
+    },
+    {
+      "circunscripcion": "Ciudad Real",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2008",
+      "participacion_pct": 78.5
+    },
+    {
+      "circunscripcion": "Ciudad Real",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2011",
+      "participacion_pct": 74.8
+    },
+    {
+      "circunscripcion": "Ciudad Real",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2015",
+      "participacion_pct": 74.4
+    },
+    {
+      "circunscripcion": "Ciudad Real",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2016",
+      "participacion_pct": 70.6
+    },
+    {
+      "circunscripcion": "Ciudad Real",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 75.2
+    },
+    {
+      "circunscripcion": "Ciudad Real",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 68.84
+    },
+    {
+      "circunscripcion": "Ciudad Real",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2023",
+      "participacion_pct": 74.3
+    },
+    {
+      "circunscripcion": "Córdoba",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1977",
+      "participacion_pct": 81
+    },
+    {
+      "circunscripcion": "Córdoba",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1979",
+      "participacion_pct": 72.9
+    },
+    {
+      "circunscripcion": "Córdoba",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1982",
+      "participacion_pct": 84.6
+    },
+    {
+      "circunscripcion": "Córdoba",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1986",
+      "participacion_pct": 76.4
+    },
+    {
+      "circunscripcion": "Córdoba",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1989",
+      "participacion_pct": 75.2
+    },
+    {
+      "circunscripcion": "Córdoba",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1993",
+      "participacion_pct": 80.5
+    },
+    {
+      "circunscripcion": "Córdoba",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1996",
+      "participacion_pct": 82.3
+    },
+    {
+      "circunscripcion": "Córdoba",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2000",
+      "participacion_pct": 74.8
+    },
+    {
+      "circunscripcion": "Córdoba",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2004",
+      "participacion_pct": 78.5
+    },
+    {
+      "circunscripcion": "Córdoba",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2008",
+      "participacion_pct": 75.8
+    },
+    {
+      "circunscripcion": "Córdoba",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2011",
+      "participacion_pct": 72.7
+    },
+    {
+      "circunscripcion": "Córdoba",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2015",
+      "participacion_pct": 72.5
+    },
+    {
+      "circunscripcion": "Córdoba",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2016",
+      "participacion_pct": 69.4
+    },
+    {
+      "circunscripcion": "Córdoba",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 74.1
+    },
+    {
+      "circunscripcion": "Córdoba",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 69.68
+    },
+    {
+      "circunscripcion": "Córdoba",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2023",
+      "participacion_pct": 72.3
+    },
+    {
+      "circunscripcion": "Coruña, La",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1977",
+      "participacion_pct": 63.1
+    },
+    {
+      "circunscripcion": "Coruña, La",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1979",
+      "participacion_pct": 53.3
+    },
+    {
+      "circunscripcion": "Coruña, La",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1982",
+      "participacion_pct": 65
+    },
+    {
+      "circunscripcion": "Coruña, La",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1986",
+      "participacion_pct": 59.6
+    },
+    {
+      "circunscripcion": "Coruña, La",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1989",
+      "participacion_pct": 59.8
+    },
+    {
+      "circunscripcion": "Coruña, La",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1993",
+      "participacion_pct": 69.7
+    },
+    {
+      "circunscripcion": "Coruña, La",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1996",
+      "participacion_pct": 70.8
+    },
+    {
+      "circunscripcion": "Coruña, La",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2000",
+      "participacion_pct": 63.8
+    },
+    {
+      "circunscripcion": "Coruña, La",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2004",
+      "participacion_pct": 70.6
+    },
+    {
+      "circunscripcion": "Coruña, La",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2008",
+      "participacion_pct": 70
+    },
+    {
+      "circunscripcion": "Coruña, La",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2011",
+      "participacion_pct": 62.4
+    },
+    {
+      "circunscripcion": "Coruña, La",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2015",
+      "participacion_pct": 62.7
+    },
+    {
+      "circunscripcion": "Coruña, La",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2016",
+      "participacion_pct": 59.9
+    },
+    {
+      "circunscripcion": "Coruña, La",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 63.1
+    },
+    {
+      "circunscripcion": "Coruña, La",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 57.04
+    },
+    {
+      "circunscripcion": "Coruña, La",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2023",
+      "participacion_pct": 72.9
+    },
+    {
+      "circunscripcion": "Cuenca",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1977",
+      "participacion_pct": 84.9
+    },
+    {
+      "circunscripcion": "Cuenca",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1979",
+      "participacion_pct": 74.1
+    },
+    {
+      "circunscripcion": "Cuenca",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1982",
+      "participacion_pct": 83.1
+    },
+    {
+      "circunscripcion": "Cuenca",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1986",
+      "participacion_pct": 74.9
+    },
+    {
+      "circunscripcion": "Cuenca",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1989",
+      "participacion_pct": 76
+    },
+    {
+      "circunscripcion": "Cuenca",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1993",
+      "participacion_pct": 82.4
+    },
+    {
+      "circunscripcion": "Cuenca",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1996",
+      "participacion_pct": 83.1
+    },
+    {
+      "circunscripcion": "Cuenca",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2000",
+      "participacion_pct": 78.6
+    },
+    {
+      "circunscripcion": "Cuenca",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2004",
+      "participacion_pct": 81.5
+    },
+    {
+      "circunscripcion": "Cuenca",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2008",
+      "participacion_pct": 81.5
+    },
+    {
+      "circunscripcion": "Cuenca",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2011",
+      "participacion_pct": 77.6
+    },
+    {
+      "circunscripcion": "Cuenca",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2015",
+      "participacion_pct": 77.1
+    },
+    {
+      "circunscripcion": "Cuenca",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2016",
+      "participacion_pct": 74.2
+    },
+    {
+      "circunscripcion": "Cuenca",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 78.1
+    },
+    {
+      "circunscripcion": "Cuenca",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 71.57
+    },
+    {
+      "circunscripcion": "Cuenca",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2023",
+      "participacion_pct": 76.8
+    },
+    {
+      "circunscripcion": "Gerona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1977",
+      "participacion_pct": 82.1
+    },
+    {
+      "circunscripcion": "Gerona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1979",
+      "participacion_pct": 71.5
+    },
+    {
+      "circunscripcion": "Gerona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1982",
+      "participacion_pct": 80.3
+    },
+    {
+      "circunscripcion": "Gerona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1986",
+      "participacion_pct": 71.7
+    },
+    {
+      "circunscripcion": "Gerona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1989",
+      "participacion_pct": 67.3
+    },
+    {
+      "circunscripcion": "Gerona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1993",
+      "participacion_pct": 74.5
+    },
+    {
+      "circunscripcion": "Gerona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1996",
+      "participacion_pct": 77
+    },
+    {
+      "circunscripcion": "Gerona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2000",
+      "participacion_pct": 65
+    },
+    {
+      "circunscripcion": "Gerona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2004",
+      "participacion_pct": 76
+    },
+    {
+      "circunscripcion": "Gerona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2008",
+      "participacion_pct": 68.8
+    },
+    {
+      "circunscripcion": "Gerona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2011",
+      "participacion_pct": 62.4
+    },
+    {
+      "circunscripcion": "Gerona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2015",
+      "participacion_pct": 65.6
+    },
+    {
+      "circunscripcion": "Gerona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2016",
+      "participacion_pct": 60.6
+    },
+    {
+      "circunscripcion": "Gerona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 73.5
+    },
+    {
+      "circunscripcion": "Gerona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 68.16
+    },
+    {
+      "circunscripcion": "Gerona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2023",
+      "participacion_pct": 62.1
+    },
+    {
+      "circunscripcion": "Granada",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1977",
+      "participacion_pct": 76.9
+    },
+    {
+      "circunscripcion": "Granada",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1979",
+      "participacion_pct": 68.7
+    },
+    {
+      "circunscripcion": "Granada",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1982",
+      "participacion_pct": 76.8
+    },
+    {
+      "circunscripcion": "Granada",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1986",
+      "participacion_pct": 69.4
+    },
+    {
+      "circunscripcion": "Granada",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1989",
+      "participacion_pct": 69.1
+    },
+    {
+      "circunscripcion": "Granada",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1993",
+      "participacion_pct": 76
+    },
+    {
+      "circunscripcion": "Granada",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1996",
+      "participacion_pct": 78.7
+    },
+    {
+      "circunscripcion": "Granada",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2000",
+      "participacion_pct": 69.6
+    },
+    {
+      "circunscripcion": "Granada",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2004",
+      "participacion_pct": 75.7
+    },
+    {
+      "circunscripcion": "Granada",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2008",
+      "participacion_pct": 74.3
+    },
+    {
+      "circunscripcion": "Granada",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2011",
+      "participacion_pct": 69.9
+    },
+    {
+      "circunscripcion": "Granada",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2015",
+      "participacion_pct": 68.8
+    },
+    {
+      "circunscripcion": "Granada",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2016",
+      "participacion_pct": 66
+    },
+    {
+      "circunscripcion": "Granada",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 70.6
+    },
+    {
+      "circunscripcion": "Granada",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 65.02
+    },
+    {
+      "circunscripcion": "Granada",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2023",
+      "participacion_pct": 70.8
+    },
+    {
+      "circunscripcion": "Guadalajara",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1977",
+      "participacion_pct": 85.8
+    },
+    {
+      "circunscripcion": "Guadalajara",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1979",
+      "participacion_pct": 72.5
+    },
+    {
+      "circunscripcion": "Guadalajara",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1982",
+      "participacion_pct": 84.3
+    },
+    {
+      "circunscripcion": "Guadalajara",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1986",
+      "participacion_pct": 76.1
+    },
+    {
+      "circunscripcion": "Guadalajara",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1989",
+      "participacion_pct": 75.6
+    },
+    {
+      "circunscripcion": "Guadalajara",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1993",
+      "participacion_pct": 80.9
+    },
+    {
+      "circunscripcion": "Guadalajara",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1996",
+      "participacion_pct": 81.2
+    },
+    {
+      "circunscripcion": "Guadalajara",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2000",
+      "participacion_pct": 75.5
+    },
+    {
+      "circunscripcion": "Guadalajara",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2004",
+      "participacion_pct": 80.1
+    },
+    {
+      "circunscripcion": "Guadalajara",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2008",
+      "participacion_pct": 79.9
+    },
+    {
+      "circunscripcion": "Guadalajara",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2011",
+      "participacion_pct": 74.8
+    },
+    {
+      "circunscripcion": "Guadalajara",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2015",
+      "participacion_pct": 75.6
+    },
+    {
+      "circunscripcion": "Guadalajara",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2016",
+      "participacion_pct": 72.9
+    },
+    {
+      "circunscripcion": "Guadalajara",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 77.5
+    },
+    {
+      "circunscripcion": "Guadalajara",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 71.41
+    },
+    {
+      "circunscripcion": "Guadalajara",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2023",
+      "participacion_pct": 74
+    },
+    {
+      "circunscripcion": "Guipúzcoa",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1977",
+      "participacion_pct": 76.7
+    },
+    {
+      "circunscripcion": "Guipúzcoa",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1979",
+      "participacion_pct": 66
+    },
+    {
+      "circunscripcion": "Guipúzcoa",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1982",
+      "participacion_pct": 78.1
+    },
+    {
+      "circunscripcion": "Guipúzcoa",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1986",
+      "participacion_pct": 65.5
+    },
+    {
+      "circunscripcion": "Guipúzcoa",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1989",
+      "participacion_pct": 66.3
+    },
+    {
+      "circunscripcion": "Guipúzcoa",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1993",
+      "participacion_pct": 66.9
+    },
+    {
+      "circunscripcion": "Guipúzcoa",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1996",
+      "participacion_pct": 69.6
+    },
+    {
+      "circunscripcion": "Guipúzcoa",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2000",
+      "participacion_pct": 55.9
+    },
+    {
+      "circunscripcion": "Guipúzcoa",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2004",
+      "participacion_pct": 72.6
+    },
+    {
+      "circunscripcion": "Guipúzcoa",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2008",
+      "participacion_pct": 57.4
+    },
+    {
+      "circunscripcion": "Guipúzcoa",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2011",
+      "participacion_pct": 65.5
+    },
+    {
+      "circunscripcion": "Guipúzcoa",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2015",
+      "participacion_pct": 67.4
+    },
+    {
+      "circunscripcion": "Guipúzcoa",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2016",
+      "participacion_pct": 63.3
+    },
+    {
+      "circunscripcion": "Guipúzcoa",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 71
+    },
+    {
+      "circunscripcion": "Guipúzcoa",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 65.79
+    },
+    {
+      "circunscripcion": "Guipúzcoa",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2023",
+      "participacion_pct": 67.3
+    },
+    {
+      "circunscripcion": "Huelva",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1977",
+      "participacion_pct": 74.3
+    },
+    {
+      "circunscripcion": "Huelva",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1979",
+      "participacion_pct": 66.1
+    },
+    {
+      "circunscripcion": "Huelva",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1982",
+      "participacion_pct": 77.4
+    },
+    {
+      "circunscripcion": "Huelva",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1986",
+      "participacion_pct": 67.8
+    },
+    {
+      "circunscripcion": "Huelva",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1989",
+      "participacion_pct": 66.1
+    },
+    {
+      "circunscripcion": "Huelva",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1993",
+      "participacion_pct": 73
+    },
+    {
+      "circunscripcion": "Huelva",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1996",
+      "participacion_pct": 75.3
+    },
+    {
+      "circunscripcion": "Huelva",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2000",
+      "participacion_pct": 66.6
+    },
+    {
+      "circunscripcion": "Huelva",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2004",
+      "participacion_pct": 73.2
+    },
+    {
+      "circunscripcion": "Huelva",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2008",
+      "participacion_pct": 69.9
+    },
+    {
+      "circunscripcion": "Huelva",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2011",
+      "participacion_pct": 67.9
+    },
+    {
+      "circunscripcion": "Huelva",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2015",
+      "participacion_pct": 66.1
+    },
+    {
+      "circunscripcion": "Huelva",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2016",
+      "participacion_pct": 62.9
+    },
+    {
+      "circunscripcion": "Huelva",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 67.7
+    },
+    {
+      "circunscripcion": "Huelva",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 63.99
+    },
+    {
+      "circunscripcion": "Huelva",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2023",
+      "participacion_pct": 65.8
+    },
+    {
+      "circunscripcion": "Huesca",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1977",
+      "participacion_pct": 81.7
+    },
+    {
+      "circunscripcion": "Huesca",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1979",
+      "participacion_pct": 71.2
+    },
+    {
+      "circunscripcion": "Huesca",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1982",
+      "participacion_pct": 81.2
+    },
+    {
+      "circunscripcion": "Huesca",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1986",
+      "participacion_pct": 70.1
+    },
+    {
+      "circunscripcion": "Huesca",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1989",
+      "participacion_pct": 70.1
+    },
+    {
+      "circunscripcion": "Huesca",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1993",
+      "participacion_pct": 77.4
+    },
+    {
+      "circunscripcion": "Huesca",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1996",
+      "participacion_pct": 77.4
+    },
+    {
+      "circunscripcion": "Huesca",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2000",
+      "participacion_pct": 70.8
+    },
+    {
+      "circunscripcion": "Huesca",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2004",
+      "participacion_pct": 76.6
+    },
+    {
+      "circunscripcion": "Huesca",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2008",
+      "participacion_pct": 75.5
+    },
+    {
+      "circunscripcion": "Huesca",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2011",
+      "participacion_pct": 69.8
+    },
+    {
+      "circunscripcion": "Huesca",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2015",
+      "participacion_pct": 70.8
+    },
+    {
+      "circunscripcion": "Huesca",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2016",
+      "participacion_pct": 68
+    },
+    {
+      "circunscripcion": "Huesca",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 73.4
+    },
+    {
+      "circunscripcion": "Huesca",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 66.46
+    },
+    {
+      "circunscripcion": "Huesca",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2023",
+      "participacion_pct": 72.7
+    },
+    {
+      "circunscripcion": "Jaén",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1977",
+      "participacion_pct": 78.5
+    },
+    {
+      "circunscripcion": "Jaén",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1979",
+      "participacion_pct": 71.5
+    },
+    {
+      "circunscripcion": "Jaén",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1982",
+      "participacion_pct": 81.9
+    },
+    {
+      "circunscripcion": "Jaén",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1986",
+      "participacion_pct": 75.9
+    },
+    {
+      "circunscripcion": "Jaén",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1989",
+      "participacion_pct": 76.4
+    },
+    {
+      "circunscripcion": "Jaén",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1993",
+      "participacion_pct": 81
+    },
+    {
+      "circunscripcion": "Jaén",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1996",
+      "participacion_pct": 83.7
+    },
+    {
+      "circunscripcion": "Jaén",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2000",
+      "participacion_pct": 76.7
+    },
+    {
+      "circunscripcion": "Jaén",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2004",
+      "participacion_pct": 80.4
+    },
+    {
+      "circunscripcion": "Jaén",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2008",
+      "participacion_pct": 78.6
+    },
+    {
+      "circunscripcion": "Jaén",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2011",
+      "participacion_pct": 75.9
+    },
+    {
+      "circunscripcion": "Jaén",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2015",
+      "participacion_pct": 73.3
+    },
+    {
+      "circunscripcion": "Jaén",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2016",
+      "participacion_pct": 70.5
+    },
+    {
+      "circunscripcion": "Jaén",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 74.4
+    },
+    {
+      "circunscripcion": "Jaén",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 70.45
+    },
+    {
+      "circunscripcion": "Jaén",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2023",
+      "participacion_pct": 73.7
+    },
+    {
+      "circunscripcion": "León",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1977",
+      "participacion_pct": 75.2
+    },
+    {
+      "circunscripcion": "León",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1979",
+      "participacion_pct": 63.7
+    },
+    {
+      "circunscripcion": "León",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1982",
+      "participacion_pct": 77
+    },
+    {
+      "circunscripcion": "León",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1986",
+      "participacion_pct": 68.5
+    },
+    {
+      "circunscripcion": "León",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1989",
+      "participacion_pct": 69.1
+    },
+    {
+      "circunscripcion": "León",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1993",
+      "participacion_pct": 75.6
+    },
+    {
+      "circunscripcion": "León",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1996",
+      "participacion_pct": 77
+    },
+    {
+      "circunscripcion": "León",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2000",
+      "participacion_pct": 69.6
+    },
+    {
+      "circunscripcion": "León",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2004",
+      "participacion_pct": 74.8
+    },
+    {
+      "circunscripcion": "León",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2008",
+      "participacion_pct": 74.7
+    },
+    {
+      "circunscripcion": "León",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2011",
+      "participacion_pct": 66.5
+    },
+    {
+      "circunscripcion": "León",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2015",
+      "participacion_pct": 66.9
+    },
+    {
+      "circunscripcion": "León",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2016",
+      "participacion_pct": 64.5
+    },
+    {
+      "circunscripcion": "León",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 68.2
+    },
+    {
+      "circunscripcion": "León",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 61.5
+    },
+    {
+      "circunscripcion": "León",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2023",
+      "participacion_pct": 73.1
+    },
+    {
+      "circunscripcion": "Lérida",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1977",
+      "participacion_pct": 77.9
+    },
+    {
+      "circunscripcion": "Lérida",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1979",
+      "participacion_pct": 65.3
+    },
+    {
+      "circunscripcion": "Lérida",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1982",
+      "participacion_pct": 75.8
+    },
+    {
+      "circunscripcion": "Lérida",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1986",
+      "participacion_pct": 67.6
+    },
+    {
+      "circunscripcion": "Lérida",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1989",
+      "participacion_pct": 65.2
+    },
+    {
+      "circunscripcion": "Lérida",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1993",
+      "participacion_pct": 73
+    },
+    {
+      "circunscripcion": "Lérida",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1996",
+      "participacion_pct": 75.4
+    },
+    {
+      "circunscripcion": "Lérida",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2000",
+      "participacion_pct": 64.5
+    },
+    {
+      "circunscripcion": "Lérida",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2004",
+      "participacion_pct": 75
+    },
+    {
+      "circunscripcion": "Lérida",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2008",
+      "participacion_pct": 69
+    },
+    {
+      "circunscripcion": "Lérida",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2011",
+      "participacion_pct": 62.5
+    },
+    {
+      "circunscripcion": "Lérida",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2015",
+      "participacion_pct": 63.9
+    },
+    {
+      "circunscripcion": "Lérida",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2016",
+      "participacion_pct": 58.4
+    },
+    {
+      "circunscripcion": "Lérida",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 72.2
+    },
+    {
+      "circunscripcion": "Lérida",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 66.38
+    },
+    {
+      "circunscripcion": "Lérida",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2023",
+      "participacion_pct": 61.9
+    },
+    {
+      "circunscripcion": "Lugo",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1977",
+      "participacion_pct": 56.8
+    },
+    {
+      "circunscripcion": "Lugo",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1979",
+      "participacion_pct": 49.3
+    },
+    {
+      "circunscripcion": "Lugo",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1982",
+      "participacion_pct": 60.8
+    },
+    {
+      "circunscripcion": "Lugo",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1986",
+      "participacion_pct": 56.4
+    },
+    {
+      "circunscripcion": "Lugo",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1989",
+      "participacion_pct": 60.8
+    },
+    {
+      "circunscripcion": "Lugo",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1993",
+      "participacion_pct": 69.9
+    },
+    {
+      "circunscripcion": "Lugo",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1996",
+      "participacion_pct": 72.1
+    },
+    {
+      "circunscripcion": "Lugo",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2000",
+      "participacion_pct": 67.7
+    },
+    {
+      "circunscripcion": "Lugo",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2004",
+      "participacion_pct": 72.3
+    },
+    {
+      "circunscripcion": "Lugo",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2008",
+      "participacion_pct": 72
+    },
+    {
+      "circunscripcion": "Lugo",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2011",
+      "participacion_pct": 62.8
+    },
+    {
+      "circunscripcion": "Lugo",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2015",
+      "participacion_pct": 59.2
+    },
+    {
+      "circunscripcion": "Lugo",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2016",
+      "participacion_pct": 56.3
+    },
+    {
+      "circunscripcion": "Lugo",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 59.1
+    },
+    {
+      "circunscripcion": "Lugo",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 53.17
+    },
+    {
+      "circunscripcion": "Lugo",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2023",
+      "participacion_pct": 73.2
+    },
+    {
+      "circunscripcion": "Madrid",
+      "comunidad_autonoma": "MAD",
+      "eleccion": "1977",
+      "participacion_pct": 85
+    },
+    {
+      "circunscripcion": "Madrid",
+      "comunidad_autonoma": "MAD",
+      "eleccion": "1979",
+      "participacion_pct": 73.3
+    },
+    {
+      "circunscripcion": "Madrid",
+      "comunidad_autonoma": "MAD",
+      "eleccion": "1982",
+      "participacion_pct": 86
+    },
+    {
+      "circunscripcion": "Madrid",
+      "comunidad_autonoma": "MAD",
+      "eleccion": "1986",
+      "participacion_pct": 73.9
+    },
+    {
+      "circunscripcion": "Madrid",
+      "comunidad_autonoma": "MAD",
+      "eleccion": "1989",
+      "participacion_pct": 72.7
+    },
+    {
+      "circunscripcion": "Madrid",
+      "comunidad_autonoma": "MAD",
+      "eleccion": "1993",
+      "participacion_pct": 78.9
+    },
+    {
+      "circunscripcion": "Madrid",
+      "comunidad_autonoma": "MAD",
+      "eleccion": "1996",
+      "participacion_pct": 79.6
+    },
+    {
+      "circunscripcion": "Madrid",
+      "comunidad_autonoma": "MAD",
+      "eleccion": "2000",
+      "participacion_pct": 72.1
+    },
+    {
+      "circunscripcion": "Madrid",
+      "comunidad_autonoma": "MAD",
+      "eleccion": "2004",
+      "participacion_pct": 78.9
+    },
+    {
+      "circunscripcion": "Madrid",
+      "comunidad_autonoma": "MAD",
+      "eleccion": "2008",
+      "participacion_pct": 79.1
+    },
+    {
+      "circunscripcion": "Madrid",
+      "comunidad_autonoma": "MAD",
+      "eleccion": "2011",
+      "participacion_pct": 73.3
+    },
+    {
+      "circunscripcion": "Madrid",
+      "comunidad_autonoma": "MAD",
+      "eleccion": "2015",
+      "participacion_pct": 74.1
+    },
+    {
+      "circunscripcion": "Madrid",
+      "comunidad_autonoma": "MAD",
+      "eleccion": "2016",
+      "participacion_pct": 70.8
+    },
+    {
+      "circunscripcion": "Madrid",
+      "comunidad_autonoma": "MAD",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 75.5
+    },
+    {
+      "circunscripcion": "Madrid",
+      "comunidad_autonoma": "MAD",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 70.59
+    },
+    {
+      "circunscripcion": "Madrid",
+      "comunidad_autonoma": "MAD",
+      "eleccion": "2023",
+      "participacion_pct": 74.1
+    },
+    {
+      "circunscripcion": "Málaga",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1977",
+      "participacion_pct": 77.4
+    },
+    {
+      "circunscripcion": "Málaga",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1979",
+      "participacion_pct": 64.3
+    },
+    {
+      "circunscripcion": "Málaga",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1982",
+      "participacion_pct": 74.7
+    },
+    {
+      "circunscripcion": "Málaga",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1986",
+      "participacion_pct": 67
+    },
+    {
+      "circunscripcion": "Málaga",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1989",
+      "participacion_pct": 65.5
+    },
+    {
+      "circunscripcion": "Málaga",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1993",
+      "participacion_pct": 73
+    },
+    {
+      "circunscripcion": "Málaga",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1996",
+      "participacion_pct": 74.8
+    },
+    {
+      "circunscripcion": "Málaga",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2000",
+      "participacion_pct": 65
+    },
+    {
+      "circunscripcion": "Málaga",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2004",
+      "participacion_pct": 71.9
+    },
+    {
+      "circunscripcion": "Málaga",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2008",
+      "participacion_pct": 71.4
+    },
+    {
+      "circunscripcion": "Málaga",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2011",
+      "participacion_pct": 65.1
+    },
+    {
+      "circunscripcion": "Málaga",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2015",
+      "participacion_pct": 67.5
+    },
+    {
+      "circunscripcion": "Málaga",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2016",
+      "participacion_pct": 64.6
+    },
+    {
+      "circunscripcion": "Málaga",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 69.3
+    },
+    {
+      "circunscripcion": "Málaga",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 64.02
+    },
+    {
+      "circunscripcion": "Málaga",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2023",
+      "participacion_pct": 67.2
+    },
+    {
+      "circunscripcion": "Melilla",
+      "comunidad_autonoma": "MEL",
+      "eleccion": "1977",
+      "participacion_pct": 76
+    },
+    {
+      "circunscripcion": "Melilla",
+      "comunidad_autonoma": "MEL",
+      "eleccion": "1979",
+      "participacion_pct": 60.7
+    },
+    {
+      "circunscripcion": "Melilla",
+      "comunidad_autonoma": "MEL",
+      "eleccion": "1982",
+      "participacion_pct": 70.5
+    },
+    {
+      "circunscripcion": "Melilla",
+      "comunidad_autonoma": "MEL",
+      "eleccion": "1986",
+      "participacion_pct": 60
+    },
+    {
+      "circunscripcion": "Melilla",
+      "comunidad_autonoma": "MEL",
+      "eleccion": "1989",
+      "participacion_pct": 51.9
+    },
+    {
+      "circunscripcion": "Melilla",
+      "comunidad_autonoma": "MEL",
+      "eleccion": "1993",
+      "participacion_pct": 66.1
+    },
+    {
+      "circunscripcion": "Melilla",
+      "comunidad_autonoma": "MEL",
+      "eleccion": "1996",
+      "participacion_pct": 62
+    },
+    {
+      "circunscripcion": "Melilla",
+      "comunidad_autonoma": "MEL",
+      "eleccion": "2000",
+      "participacion_pct": 54
+    },
+    {
+      "circunscripcion": "Melilla",
+      "comunidad_autonoma": "MEL",
+      "eleccion": "2004",
+      "participacion_pct": 55.8
+    },
+    {
+      "circunscripcion": "Melilla",
+      "comunidad_autonoma": "MEL",
+      "eleccion": "2008",
+      "participacion_pct": 63.7
+    },
+    {
+      "circunscripcion": "Melilla",
+      "comunidad_autonoma": "MEL",
+      "eleccion": "2011",
+      "participacion_pct": 49.4
+    },
+    {
+      "circunscripcion": "Melilla",
+      "comunidad_autonoma": "MEL",
+      "eleccion": "2015",
+      "participacion_pct": 49.4
+    },
+    {
+      "circunscripcion": "Melilla",
+      "comunidad_autonoma": "MEL",
+      "eleccion": "2016",
+      "participacion_pct": 47.6
+    },
+    {
+      "circunscripcion": "Melilla",
+      "comunidad_autonoma": "MEL",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 57.5
+    },
+    {
+      "circunscripcion": "Melilla",
+      "comunidad_autonoma": "MEL",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 52.39
+    },
+    {
+      "circunscripcion": "Melilla",
+      "comunidad_autonoma": "MEL",
+      "eleccion": "2023",
+      "participacion_pct": 49.8
+    },
+    {
+      "circunscripcion": "Murcia",
+      "comunidad_autonoma": "MUR",
+      "eleccion": "1977",
+      "participacion_pct": 81.8
+    },
+    {
+      "circunscripcion": "Murcia",
+      "comunidad_autonoma": "MUR",
+      "eleccion": "1979",
+      "participacion_pct": 72.5
+    },
+    {
+      "circunscripcion": "Murcia",
+      "comunidad_autonoma": "MUR",
+      "eleccion": "1982",
+      "participacion_pct": 82.5
+    },
+    {
+      "circunscripcion": "Murcia",
+      "comunidad_autonoma": "MUR",
+      "eleccion": "1986",
+      "participacion_pct": 74.7
+    },
+    {
+      "circunscripcion": "Murcia",
+      "comunidad_autonoma": "MUR",
+      "eleccion": "1989",
+      "participacion_pct": 74.3
+    },
+    {
+      "circunscripcion": "Murcia",
+      "comunidad_autonoma": "MUR",
+      "eleccion": "1993",
+      "participacion_pct": 81.6
+    },
+    {
+      "circunscripcion": "Murcia",
+      "comunidad_autonoma": "MUR",
+      "eleccion": "1996",
+      "participacion_pct": 82
+    },
+    {
+      "circunscripcion": "Murcia",
+      "comunidad_autonoma": "MUR",
+      "eleccion": "2000",
+      "participacion_pct": 73.5
+    },
+    {
+      "circunscripcion": "Murcia",
+      "comunidad_autonoma": "MUR",
+      "eleccion": "2004",
+      "participacion_pct": 77.1
+    },
+    {
+      "circunscripcion": "Murcia",
+      "comunidad_autonoma": "MUR",
+      "eleccion": "2008",
+      "participacion_pct": 79.6
+    },
+    {
+      "circunscripcion": "Murcia",
+      "comunidad_autonoma": "MUR",
+      "eleccion": "2011",
+      "participacion_pct": 74.1
+    },
+    {
+      "circunscripcion": "Murcia",
+      "comunidad_autonoma": "MUR",
+      "eleccion": "2015",
+      "participacion_pct": 71.1
+    },
+    {
+      "circunscripcion": "Murcia",
+      "comunidad_autonoma": "MUR",
+      "eleccion": "2016",
+      "participacion_pct": 69.6
+    },
+    {
+      "circunscripcion": "Murcia",
+      "comunidad_autonoma": "MUR",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 73.5
+    },
+    {
+      "circunscripcion": "Murcia",
+      "comunidad_autonoma": "MUR",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 68.03
+    },
+    {
+      "circunscripcion": "Murcia",
+      "comunidad_autonoma": "MUR",
+      "eleccion": "2023",
+      "participacion_pct": 70.7
+    },
+    {
+      "circunscripcion": "Navarra",
+      "comunidad_autonoma": "NAV",
+      "eleccion": "1977",
+      "participacion_pct": 82.2
+    },
+    {
+      "circunscripcion": "Navarra",
+      "comunidad_autonoma": "NAV",
+      "eleccion": "1979",
+      "participacion_pct": 70.7
+    },
+    {
+      "circunscripcion": "Navarra",
+      "comunidad_autonoma": "NAV",
+      "eleccion": "1982",
+      "participacion_pct": 81.3
+    },
+    {
+      "circunscripcion": "Navarra",
+      "comunidad_autonoma": "NAV",
+      "eleccion": "1986",
+      "participacion_pct": 69.8
+    },
+    {
+      "circunscripcion": "Navarra",
+      "comunidad_autonoma": "NAV",
+      "eleccion": "1989",
+      "participacion_pct": 68.5
+    },
+    {
+      "circunscripcion": "Navarra",
+      "comunidad_autonoma": "NAV",
+      "eleccion": "1993",
+      "participacion_pct": 73.5
+    },
+    {
+      "circunscripcion": "Navarra",
+      "comunidad_autonoma": "NAV",
+      "eleccion": "1996",
+      "participacion_pct": 73.5
+    },
+    {
+      "circunscripcion": "Navarra",
+      "comunidad_autonoma": "NAV",
+      "eleccion": "2000",
+      "participacion_pct": 66.1
+    },
+    {
+      "circunscripcion": "Navarra",
+      "comunidad_autonoma": "NAV",
+      "eleccion": "2004",
+      "participacion_pct": 76.2
+    },
+    {
+      "circunscripcion": "Navarra",
+      "comunidad_autonoma": "NAV",
+      "eleccion": "2008",
+      "participacion_pct": 72.1
+    },
+    {
+      "circunscripcion": "Navarra",
+      "comunidad_autonoma": "NAV",
+      "eleccion": "2011",
+      "participacion_pct": 68.9
+    },
+    {
+      "circunscripcion": "Navarra",
+      "comunidad_autonoma": "NAV",
+      "eleccion": "2015",
+      "participacion_pct": 70.9
+    },
+    {
+      "circunscripcion": "Navarra",
+      "comunidad_autonoma": "NAV",
+      "eleccion": "2016",
+      "participacion_pct": 67.4
+    },
+    {
+      "circunscripcion": "Navarra",
+      "comunidad_autonoma": "NAV",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 72.5
+    },
+    {
+      "circunscripcion": "Navarra",
+      "comunidad_autonoma": "NAV",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 65.91
+    },
+    {
+      "circunscripcion": "Navarra",
+      "comunidad_autonoma": "NAV",
+      "eleccion": "2023",
+      "participacion_pct": 69.4
+    },
+    {
+      "circunscripcion": "Orense",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1977",
+      "participacion_pct": 52
+    },
+    {
+      "circunscripcion": "Orense",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1979",
+      "participacion_pct": 41.4
+    },
+    {
+      "circunscripcion": "Orense",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1982",
+      "participacion_pct": 55
+    },
+    {
+      "circunscripcion": "Orense",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1986",
+      "participacion_pct": 50.8
+    },
+    {
+      "circunscripcion": "Orense",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1989",
+      "participacion_pct": 55.7
+    },
+    {
+      "circunscripcion": "Orense",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1993",
+      "participacion_pct": 66.3
+    },
+    {
+      "circunscripcion": "Orense",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1996",
+      "participacion_pct": 70.9
+    },
+    {
+      "circunscripcion": "Orense",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2000",
+      "participacion_pct": 65.2
+    },
+    {
+      "circunscripcion": "Orense",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2004",
+      "participacion_pct": 68
+    },
+    {
+      "circunscripcion": "Orense",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2008",
+      "participacion_pct": 68.6
+    },
+    {
+      "circunscripcion": "Orense",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2011",
+      "participacion_pct": 57.1
+    },
+    {
+      "circunscripcion": "Orense",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2015",
+      "participacion_pct": 53.5
+    },
+    {
+      "circunscripcion": "Orense",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2016",
+      "participacion_pct": 51.7
+    },
+    {
+      "circunscripcion": "Orense",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 54
+    },
+    {
+      "circunscripcion": "Orense",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 48.18
+    },
+    {
+      "circunscripcion": "Orense",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2023",
+      "participacion_pct": 72.1
+    },
+    {
+      "circunscripcion": "Palencia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1977",
+      "participacion_pct": 82.8
+    },
+    {
+      "circunscripcion": "Palencia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1979",
+      "participacion_pct": 71.1
+    },
+    {
+      "circunscripcion": "Palencia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1982",
+      "participacion_pct": 83.8
+    },
+    {
+      "circunscripcion": "Palencia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1986",
+      "participacion_pct": 76.1
+    },
+    {
+      "circunscripcion": "Palencia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1989",
+      "participacion_pct": 76.5
+    },
+    {
+      "circunscripcion": "Palencia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1993",
+      "participacion_pct": 80.6
+    },
+    {
+      "circunscripcion": "Palencia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1996",
+      "participacion_pct": 81
+    },
+    {
+      "circunscripcion": "Palencia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2000",
+      "participacion_pct": 75.3
+    },
+    {
+      "circunscripcion": "Palencia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2004",
+      "participacion_pct": 79.4
+    },
+    {
+      "circunscripcion": "Palencia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2008",
+      "participacion_pct": 79.2
+    },
+    {
+      "circunscripcion": "Palencia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2011",
+      "participacion_pct": 73.2
+    },
+    {
+      "circunscripcion": "Palencia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2015",
+      "participacion_pct": 72.4
+    },
+    {
+      "circunscripcion": "Palencia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2016",
+      "participacion_pct": 70.8
+    },
+    {
+      "circunscripcion": "Palencia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 75.8
+    },
+    {
+      "circunscripcion": "Palencia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 68.66
+    },
+    {
+      "circunscripcion": "Palencia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2023",
+      "participacion_pct": 74.7
+    },
+    {
+      "circunscripcion": "Palmas, Las",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "1977",
+      "participacion_pct": 79.2
+    },
+    {
+      "circunscripcion": "Palmas, Las",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "1979",
+      "participacion_pct": 70.5
+    },
+    {
+      "circunscripcion": "Palmas, Las",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "1982",
+      "participacion_pct": 76.8
+    },
+    {
+      "circunscripcion": "Palmas, Las",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "1986",
+      "participacion_pct": 71
+    },
+    {
+      "circunscripcion": "Palmas, Las",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "1989",
+      "participacion_pct": 63.5
+    },
+    {
+      "circunscripcion": "Palmas, Las",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "1993",
+      "participacion_pct": 71
+    },
+    {
+      "circunscripcion": "Palmas, Las",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "1996",
+      "participacion_pct": 71.2
+    },
+    {
+      "circunscripcion": "Palmas, Las",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2000",
+      "participacion_pct": 61.6
+    },
+    {
+      "circunscripcion": "Palmas, Las",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2004",
+      "participacion_pct": 67.7
+    },
+    {
+      "circunscripcion": "Palmas, Las",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2008",
+      "participacion_pct": 66.8
+    },
+    {
+      "circunscripcion": "Palmas, Las",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2011",
+      "participacion_pct": 60.5
+    },
+    {
+      "circunscripcion": "Palmas, Las",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2015",
+      "participacion_pct": 62.5
+    },
+    {
+      "circunscripcion": "Palmas, Las",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2016",
+      "participacion_pct": 60.4
+    },
+    {
+      "circunscripcion": "Palmas, Las",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 63.6
+    },
+    {
+      "circunscripcion": "Palmas, Las",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 56.14
+    },
+    {
+      "circunscripcion": "Palmas, Las",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2023",
+      "participacion_pct": 63.1
+    },
+    {
+      "circunscripcion": "Pontevedra",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1977",
+      "participacion_pct": 64.7
+    },
+    {
+      "circunscripcion": "Pontevedra",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1979",
+      "participacion_pct": 48.1
+    },
+    {
+      "circunscripcion": "Pontevedra",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1982",
+      "participacion_pct": 68.1
+    },
+    {
+      "circunscripcion": "Pontevedra",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1986",
+      "participacion_pct": 60
+    },
+    {
+      "circunscripcion": "Pontevedra",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1989",
+      "participacion_pct": 62.5
+    },
+    {
+      "circunscripcion": "Pontevedra",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1993",
+      "participacion_pct": 71
+    },
+    {
+      "circunscripcion": "Pontevedra",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "1996",
+      "participacion_pct": 72
+    },
+    {
+      "circunscripcion": "Pontevedra",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2000",
+      "participacion_pct": 65.3
+    },
+    {
+      "circunscripcion": "Pontevedra",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2004",
+      "participacion_pct": 72.1
+    },
+    {
+      "circunscripcion": "Pontevedra",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2008",
+      "participacion_pct": 71.3
+    },
+    {
+      "circunscripcion": "Pontevedra",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2011",
+      "participacion_pct": 63.9
+    },
+    {
+      "circunscripcion": "Pontevedra",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2015",
+      "participacion_pct": 64.3
+    },
+    {
+      "circunscripcion": "Pontevedra",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2016",
+      "participacion_pct": 61.2
+    },
+    {
+      "circunscripcion": "Pontevedra",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 64.6
+    },
+    {
+      "circunscripcion": "Pontevedra",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 58.5
+    },
+    {
+      "circunscripcion": "Pontevedra",
+      "comunidad_autonoma": "GAL",
+      "eleccion": "2023",
+      "participacion_pct": 73.6
+    },
+    {
+      "circunscripcion": "Rioja, La",
+      "comunidad_autonoma": "RIO",
+      "eleccion": "1977",
+      "participacion_pct": 84.1
+    },
+    {
+      "circunscripcion": "Rioja, La",
+      "comunidad_autonoma": "RIO",
+      "eleccion": "1979",
+      "participacion_pct": 73.3
+    },
+    {
+      "circunscripcion": "Rioja, La",
+      "comunidad_autonoma": "RIO",
+      "eleccion": "1982",
+      "participacion_pct": 84.1
+    },
+    {
+      "circunscripcion": "Rioja, La",
+      "comunidad_autonoma": "RIO",
+      "eleccion": "1986",
+      "participacion_pct": 74.3
+    },
+    {
+      "circunscripcion": "Rioja, La",
+      "comunidad_autonoma": "RIO",
+      "eleccion": "1989",
+      "participacion_pct": 72
+    },
+    {
+      "circunscripcion": "Rioja, La",
+      "comunidad_autonoma": "RIO",
+      "eleccion": "1993",
+      "participacion_pct": 80
+    },
+    {
+      "circunscripcion": "Rioja, La",
+      "comunidad_autonoma": "RIO",
+      "eleccion": "1996",
+      "participacion_pct": 80.9
+    },
+    {
+      "circunscripcion": "Rioja, La",
+      "comunidad_autonoma": "RIO",
+      "eleccion": "2000",
+      "participacion_pct": 74.2
+    },
+    {
+      "circunscripcion": "Rioja, La",
+      "comunidad_autonoma": "RIO",
+      "eleccion": "2004",
+      "participacion_pct": 79.5
+    },
+    {
+      "circunscripcion": "Rioja, La",
+      "comunidad_autonoma": "RIO",
+      "eleccion": "2008",
+      "participacion_pct": 79.3
+    },
+    {
+      "circunscripcion": "Rioja, La",
+      "comunidad_autonoma": "RIO",
+      "eleccion": "2011",
+      "participacion_pct": 72.8
+    },
+    {
+      "circunscripcion": "Rioja, La",
+      "comunidad_autonoma": "RIO",
+      "eleccion": "2015",
+      "participacion_pct": 72.4
+    },
+    {
+      "circunscripcion": "Rioja, La",
+      "comunidad_autonoma": "RIO",
+      "eleccion": "2016",
+      "participacion_pct": 70.6
+    },
+    {
+      "circunscripcion": "Rioja, La",
+      "comunidad_autonoma": "RIO",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 73.4
+    },
+    {
+      "circunscripcion": "Rioja, La",
+      "comunidad_autonoma": "RIO",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 66.96
+    },
+    {
+      "circunscripcion": "Rioja, La",
+      "comunidad_autonoma": "RIO",
+      "eleccion": "2023",
+      "participacion_pct": 74.8
+    },
+    {
+      "circunscripcion": "Salamanca",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1977",
+      "participacion_pct": 82.6
+    },
+    {
+      "circunscripcion": "Salamanca",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1979",
+      "participacion_pct": 71.6
+    },
+    {
+      "circunscripcion": "Salamanca",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1982",
+      "participacion_pct": 81
+    },
+    {
+      "circunscripcion": "Salamanca",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1986",
+      "participacion_pct": 75.1
+    },
+    {
+      "circunscripcion": "Salamanca",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1989",
+      "participacion_pct": 75.3
+    },
+    {
+      "circunscripcion": "Salamanca",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1993",
+      "participacion_pct": 79.1
+    },
+    {
+      "circunscripcion": "Salamanca",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1996",
+      "participacion_pct": 79.1
+    },
+    {
+      "circunscripcion": "Salamanca",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2000",
+      "participacion_pct": 71.2
+    },
+    {
+      "circunscripcion": "Salamanca",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2004",
+      "participacion_pct": 76.6
+    },
+    {
+      "circunscripcion": "Salamanca",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2008",
+      "participacion_pct": 76.5
+    },
+    {
+      "circunscripcion": "Salamanca",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2011",
+      "participacion_pct": 69.7
+    },
+    {
+      "circunscripcion": "Salamanca",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2015",
+      "participacion_pct": 68.5
+    },
+    {
+      "circunscripcion": "Salamanca",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2016",
+      "participacion_pct": 66.3
+    },
+    {
+      "circunscripcion": "Salamanca",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 69.7
+    },
+    {
+      "circunscripcion": "Salamanca",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 64.7
+    },
+    {
+      "circunscripcion": "Salamanca",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2023",
+      "participacion_pct": 73.9
+    },
+    {
+      "circunscripcion": "Santa Cruz de Tenerife",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "1977",
+      "participacion_pct": 67.4
+    },
+    {
+      "circunscripcion": "Santa Cruz de Tenerife",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "1979",
+      "participacion_pct": 52.8
+    },
+    {
+      "circunscripcion": "Santa Cruz de Tenerife",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "1982",
+      "participacion_pct": 75.1
+    },
+    {
+      "circunscripcion": "Santa Cruz de Tenerife",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "1986",
+      "participacion_pct": 65.6
+    },
+    {
+      "circunscripcion": "Santa Cruz de Tenerife",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "1989",
+      "participacion_pct": 60.7
+    },
+    {
+      "circunscripcion": "Santa Cruz de Tenerife",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "1993",
+      "participacion_pct": 66.8
+    },
+    {
+      "circunscripcion": "Santa Cruz de Tenerife",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "1996",
+      "participacion_pct": 67
+    },
+    {
+      "circunscripcion": "Santa Cruz de Tenerife",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2000",
+      "participacion_pct": 59.7
+    },
+    {
+      "circunscripcion": "Santa Cruz de Tenerife",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2004",
+      "participacion_pct": 65.7
+    },
+    {
+      "circunscripcion": "Santa Cruz de Tenerife",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2008",
+      "participacion_pct": 64.9
+    },
+    {
+      "circunscripcion": "Santa Cruz de Tenerife",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2011",
+      "participacion_pct": 58.7
+    },
+    {
+      "circunscripcion": "Santa Cruz de Tenerife",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2015",
+      "participacion_pct": 58.2
+    },
+    {
+      "circunscripcion": "Santa Cruz de Tenerife",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2016",
+      "participacion_pct": 57.8
+    },
+    {
+      "circunscripcion": "Santa Cruz de Tenerife",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 61.3
+    },
+    {
+      "circunscripcion": "Santa Cruz de Tenerife",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 54.73
+    },
+    {
+      "circunscripcion": "Santa Cruz de Tenerife",
+      "comunidad_autonoma": "ICA",
+      "eleccion": "2023",
+      "participacion_pct": 64
+    },
+    {
+      "circunscripcion": "Segovia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1977",
+      "participacion_pct": 87.6
+    },
+    {
+      "circunscripcion": "Segovia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1979",
+      "participacion_pct": 75.7
+    },
+    {
+      "circunscripcion": "Segovia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1982",
+      "participacion_pct": 84.3
+    },
+    {
+      "circunscripcion": "Segovia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1986",
+      "participacion_pct": 79.2
+    },
+    {
+      "circunscripcion": "Segovia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1989",
+      "participacion_pct": 75.7
+    },
+    {
+      "circunscripcion": "Segovia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1993",
+      "participacion_pct": 79.3
+    },
+    {
+      "circunscripcion": "Segovia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1996",
+      "participacion_pct": 80.2
+    },
+    {
+      "circunscripcion": "Segovia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2000",
+      "participacion_pct": 75.6
+    },
+    {
+      "circunscripcion": "Segovia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2004",
+      "participacion_pct": 81.1
+    },
+    {
+      "circunscripcion": "Segovia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2008",
+      "participacion_pct": 81.1
+    },
+    {
+      "circunscripcion": "Segovia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2011",
+      "participacion_pct": 76.3
+    },
+    {
+      "circunscripcion": "Segovia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2015",
+      "participacion_pct": 76.7
+    },
+    {
+      "circunscripcion": "Segovia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2016",
+      "participacion_pct": 74.2
+    },
+    {
+      "circunscripcion": "Segovia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 78.6
+    },
+    {
+      "circunscripcion": "Segovia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 72.35
+    },
+    {
+      "circunscripcion": "Segovia",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2023",
+      "participacion_pct": 76.9
+    },
+    {
+      "circunscripcion": "Sevilla",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1977",
+      "participacion_pct": 82.3
+    },
+    {
+      "circunscripcion": "Sevilla",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1979",
+      "participacion_pct": 71.4
+    },
+    {
+      "circunscripcion": "Sevilla",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1982",
+      "participacion_pct": 81.2
+    },
+    {
+      "circunscripcion": "Sevilla",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1986",
+      "participacion_pct": 73.6
+    },
+    {
+      "circunscripcion": "Sevilla",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1989",
+      "participacion_pct": 71.5
+    },
+    {
+      "circunscripcion": "Sevilla",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1993",
+      "participacion_pct": 79
+    },
+    {
+      "circunscripcion": "Sevilla",
+      "comunidad_autonoma": "AND",
+      "eleccion": "1996",
+      "participacion_pct": 79.7
+    },
+    {
+      "circunscripcion": "Sevilla",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2000",
+      "participacion_pct": 69.7
+    },
+    {
+      "circunscripcion": "Sevilla",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2004",
+      "participacion_pct": 77.1
+    },
+    {
+      "circunscripcion": "Sevilla",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2008",
+      "participacion_pct": 73.8
+    },
+    {
+      "circunscripcion": "Sevilla",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2011",
+      "participacion_pct": 71.2
+    },
+    {
+      "circunscripcion": "Sevilla",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2015",
+      "participacion_pct": 72.2
+    },
+    {
+      "circunscripcion": "Sevilla",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2016",
+      "participacion_pct": 68.2
+    },
+    {
+      "circunscripcion": "Sevilla",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 73.7
+    },
+    {
+      "circunscripcion": "Sevilla",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 69.21
+    },
+    {
+      "circunscripcion": "Sevilla",
+      "comunidad_autonoma": "AND",
+      "eleccion": "2023",
+      "participacion_pct": 70.1
+    },
+    {
+      "circunscripcion": "Soria",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1977",
+      "participacion_pct": 82.8
+    },
+    {
+      "circunscripcion": "Soria",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1979",
+      "participacion_pct": 69.6
+    },
+    {
+      "circunscripcion": "Soria",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1982",
+      "participacion_pct": 80.5
+    },
+    {
+      "circunscripcion": "Soria",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1986",
+      "participacion_pct": 72.1
+    },
+    {
+      "circunscripcion": "Soria",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1989",
+      "participacion_pct": 71.3
+    },
+    {
+      "circunscripcion": "Soria",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1993",
+      "participacion_pct": 74.5
+    },
+    {
+      "circunscripcion": "Soria",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1996",
+      "participacion_pct": 74.7
+    },
+    {
+      "circunscripcion": "Soria",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2000",
+      "participacion_pct": 69.3
+    },
+    {
+      "circunscripcion": "Soria",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2004",
+      "participacion_pct": 75.2
+    },
+    {
+      "circunscripcion": "Soria",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2008",
+      "participacion_pct": 74.2
+    },
+    {
+      "circunscripcion": "Soria",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2011",
+      "participacion_pct": 67.5
+    },
+    {
+      "circunscripcion": "Soria",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2015",
+      "participacion_pct": 68.2
+    },
+    {
+      "circunscripcion": "Soria",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2016",
+      "participacion_pct": 65.5
+    },
+    {
+      "circunscripcion": "Soria",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 68.8
+    },
+    {
+      "circunscripcion": "Soria",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 61.5
+    },
+    {
+      "circunscripcion": "Soria",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2023",
+      "participacion_pct": 73.7
+    },
+    {
+      "circunscripcion": "Tarragona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1977",
+      "participacion_pct": 77.6
+    },
+    {
+      "circunscripcion": "Tarragona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1979",
+      "participacion_pct": 67.6
+    },
+    {
+      "circunscripcion": "Tarragona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1982",
+      "participacion_pct": 78.6
+    },
+    {
+      "circunscripcion": "Tarragona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1986",
+      "participacion_pct": 68.9
+    },
+    {
+      "circunscripcion": "Tarragona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1989",
+      "participacion_pct": 67
+    },
+    {
+      "circunscripcion": "Tarragona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1993",
+      "participacion_pct": 74.5
+    },
+    {
+      "circunscripcion": "Tarragona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "1996",
+      "participacion_pct": 75.7
+    },
+    {
+      "circunscripcion": "Tarragona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2000",
+      "participacion_pct": 64.6
+    },
+    {
+      "circunscripcion": "Tarragona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2004",
+      "participacion_pct": 74.9
+    },
+    {
+      "circunscripcion": "Tarragona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2008",
+      "participacion_pct": 69.9
+    },
+    {
+      "circunscripcion": "Tarragona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2011",
+      "participacion_pct": 63.7
+    },
+    {
+      "circunscripcion": "Tarragona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2015",
+      "participacion_pct": 66.9
+    },
+    {
+      "circunscripcion": "Tarragona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2016",
+      "participacion_pct": 61.8
+    },
+    {
+      "circunscripcion": "Tarragona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 73.6
+    },
+    {
+      "circunscripcion": "Tarragona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 67.51
+    },
+    {
+      "circunscripcion": "Tarragona",
+      "comunidad_autonoma": "CAT",
+      "eleccion": "2023",
+      "participacion_pct": 64.4
+    },
+    {
+      "circunscripcion": "Teruel",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1977",
+      "participacion_pct": 84.6
+    },
+    {
+      "circunscripcion": "Teruel",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1979",
+      "participacion_pct": 69.7
+    },
+    {
+      "circunscripcion": "Teruel",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1982",
+      "participacion_pct": 80.1
+    },
+    {
+      "circunscripcion": "Teruel",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1986",
+      "participacion_pct": 70.4
+    },
+    {
+      "circunscripcion": "Teruel",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1989",
+      "participacion_pct": 70.9
+    },
+    {
+      "circunscripcion": "Teruel",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1993",
+      "participacion_pct": 75.8
+    },
+    {
+      "circunscripcion": "Teruel",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1996",
+      "participacion_pct": 77.5
+    },
+    {
+      "circunscripcion": "Teruel",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2000",
+      "participacion_pct": 72.2
+    },
+    {
+      "circunscripcion": "Teruel",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2004",
+      "participacion_pct": 76.4
+    },
+    {
+      "circunscripcion": "Teruel",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2008",
+      "participacion_pct": 76.6
+    },
+    {
+      "circunscripcion": "Teruel",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2011",
+      "participacion_pct": 70.3
+    },
+    {
+      "circunscripcion": "Teruel",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2015",
+      "participacion_pct": 71.6
+    },
+    {
+      "circunscripcion": "Teruel",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2016",
+      "participacion_pct": 69.4
+    },
+    {
+      "circunscripcion": "Teruel",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 73.7
+    },
+    {
+      "circunscripcion": "Teruel",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 69.47
+    },
+    {
+      "circunscripcion": "Teruel",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2023",
+      "participacion_pct": 75.1
+    },
+    {
+      "circunscripcion": "Toledo",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1977",
+      "participacion_pct": 86.6
+    },
+    {
+      "circunscripcion": "Toledo",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1979",
+      "participacion_pct": 77.8
+    },
+    {
+      "circunscripcion": "Toledo",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1982",
+      "participacion_pct": 86.6
+    },
+    {
+      "circunscripcion": "Toledo",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1986",
+      "participacion_pct": 78
+    },
+    {
+      "circunscripcion": "Toledo",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1989",
+      "participacion_pct": 78.1
+    },
+    {
+      "circunscripcion": "Toledo",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1993",
+      "participacion_pct": 83.5
+    },
+    {
+      "circunscripcion": "Toledo",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "1996",
+      "participacion_pct": 84.1
+    },
+    {
+      "circunscripcion": "Toledo",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2000",
+      "participacion_pct": 77.6
+    },
+    {
+      "circunscripcion": "Toledo",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2004",
+      "participacion_pct": 80.8
+    },
+    {
+      "circunscripcion": "Toledo",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2008",
+      "participacion_pct": 81
+    },
+    {
+      "circunscripcion": "Toledo",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2011",
+      "participacion_pct": 76.1
+    },
+    {
+      "circunscripcion": "Toledo",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2015",
+      "participacion_pct": 75.2
+    },
+    {
+      "circunscripcion": "Toledo",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2016",
+      "participacion_pct": 71.8
+    },
+    {
+      "circunscripcion": "Toledo",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 76.8
+    },
+    {
+      "circunscripcion": "Toledo",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 70.11
+    },
+    {
+      "circunscripcion": "Toledo",
+      "comunidad_autonoma": "CLM",
+      "eleccion": "2023",
+      "participacion_pct": 73.9
+    },
+    {
+      "circunscripcion": "Valencia",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1977",
+      "participacion_pct": 84.7
+    },
+    {
+      "circunscripcion": "Valencia",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1979",
+      "participacion_pct": 74.8
+    },
+    {
+      "circunscripcion": "Valencia",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1982",
+      "participacion_pct": 83.4
+    },
+    {
+      "circunscripcion": "Valencia",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1986",
+      "participacion_pct": 77
+    },
+    {
+      "circunscripcion": "Valencia",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1989",
+      "participacion_pct": 75.1
+    },
+    {
+      "circunscripcion": "Valencia",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1993",
+      "participacion_pct": 81.8
+    },
+    {
+      "circunscripcion": "Valencia",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "1996",
+      "participacion_pct": 81.6
+    },
+    {
+      "circunscripcion": "Valencia",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2000",
+      "participacion_pct": 72.1
+    },
+    {
+      "circunscripcion": "Valencia",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2004",
+      "participacion_pct": 77.7
+    },
+    {
+      "circunscripcion": "Valencia",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2008",
+      "participacion_pct": 79.1
+    },
+    {
+      "circunscripcion": "Valencia",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2011",
+      "participacion_pct": 74.9
+    },
+    {
+      "circunscripcion": "Valencia",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2015",
+      "participacion_pct": 76
+    },
+    {
+      "circunscripcion": "Valencia",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2016",
+      "participacion_pct": 73.6
+    },
+    {
+      "circunscripcion": "Valencia",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 74.9
+    },
+    {
+      "circunscripcion": "Valencia",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 71.18
+    },
+    {
+      "circunscripcion": "Valencia",
+      "comunidad_autonoma": "CVA",
+      "eleccion": "2023",
+      "participacion_pct": 74.7
+    },
+    {
+      "circunscripcion": "Valladolid",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1977",
+      "participacion_pct": 84.4
+    },
+    {
+      "circunscripcion": "Valladolid",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1979",
+      "participacion_pct": 73.9
+    },
+    {
+      "circunscripcion": "Valladolid",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1982",
+      "participacion_pct": 84.5
+    },
+    {
+      "circunscripcion": "Valladolid",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1986",
+      "participacion_pct": 73.7
+    },
+    {
+      "circunscripcion": "Valladolid",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1989",
+      "participacion_pct": 74.9
+    },
+    {
+      "circunscripcion": "Valladolid",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1993",
+      "participacion_pct": 80.5
+    },
+    {
+      "circunscripcion": "Valladolid",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1996",
+      "participacion_pct": 81.5
+    },
+    {
+      "circunscripcion": "Valladolid",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2000",
+      "participacion_pct": 75.2
+    },
+    {
+      "circunscripcion": "Valladolid",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2004",
+      "participacion_pct": 81.2
+    },
+    {
+      "circunscripcion": "Valladolid",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2008",
+      "participacion_pct": 81
+    },
+    {
+      "circunscripcion": "Valladolid",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2011",
+      "participacion_pct": 76
+    },
+    {
+      "circunscripcion": "Valladolid",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2015",
+      "participacion_pct": 76.5
+    },
+    {
+      "circunscripcion": "Valladolid",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2016",
+      "participacion_pct": 73.7
+    },
+    {
+      "circunscripcion": "Valladolid",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 78.7
+    },
+    {
+      "circunscripcion": "Valladolid",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 72.76
+    },
+    {
+      "circunscripcion": "Valladolid",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2023",
+      "participacion_pct": 76.1
+    },
+    {
+      "circunscripcion": "Vizcaya",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1977",
+      "participacion_pct": 76.4
+    },
+    {
+      "circunscripcion": "Vizcaya",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1979",
+      "participacion_pct": 65.3
+    },
+    {
+      "circunscripcion": "Vizcaya",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1982",
+      "participacion_pct": 79.5
+    },
+    {
+      "circunscripcion": "Vizcaya",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1986",
+      "participacion_pct": 68.3
+    },
+    {
+      "circunscripcion": "Vizcaya",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1989",
+      "participacion_pct": 67.3
+    },
+    {
+      "circunscripcion": "Vizcaya",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1993",
+      "participacion_pct": 71.1
+    },
+    {
+      "circunscripcion": "Vizcaya",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "1996",
+      "participacion_pct": 72.5
+    },
+    {
+      "circunscripcion": "Vizcaya",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2000",
+      "participacion_pct": 67
+    },
+    {
+      "circunscripcion": "Vizcaya",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2004",
+      "participacion_pct": 75.8
+    },
+    {
+      "circunscripcion": "Vizcaya",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2008",
+      "participacion_pct": 66.6
+    },
+    {
+      "circunscripcion": "Vizcaya",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2011",
+      "participacion_pct": 68.1
+    },
+    {
+      "circunscripcion": "Vizcaya",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2015",
+      "participacion_pct": 69.4
+    },
+    {
+      "circunscripcion": "Vizcaya",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2016",
+      "participacion_pct": 66
+    },
+    {
+      "circunscripcion": "Vizcaya",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 72.9
+    },
+    {
+      "circunscripcion": "Vizcaya",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 66.76
+    },
+    {
+      "circunscripcion": "Vizcaya",
+      "comunidad_autonoma": "PVA",
+      "eleccion": "2023",
+      "participacion_pct": 67.8
+    },
+    {
+      "circunscripcion": "Zamora",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1977",
+      "participacion_pct": 81
+    },
+    {
+      "circunscripcion": "Zamora",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1979",
+      "participacion_pct": 68.6
+    },
+    {
+      "circunscripcion": "Zamora",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1982",
+      "participacion_pct": 77.2
+    },
+    {
+      "circunscripcion": "Zamora",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1986",
+      "participacion_pct": 70.1
+    },
+    {
+      "circunscripcion": "Zamora",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1989",
+      "participacion_pct": 72.1
+    },
+    {
+      "circunscripcion": "Zamora",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1993",
+      "participacion_pct": 76.6
+    },
+    {
+      "circunscripcion": "Zamora",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "1996",
+      "participacion_pct": 77.2
+    },
+    {
+      "circunscripcion": "Zamora",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2000",
+      "participacion_pct": 69.7
+    },
+    {
+      "circunscripcion": "Zamora",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2004",
+      "participacion_pct": 74.4
+    },
+    {
+      "circunscripcion": "Zamora",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2008",
+      "participacion_pct": 74.9
+    },
+    {
+      "circunscripcion": "Zamora",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2011",
+      "participacion_pct": 67.1
+    },
+    {
+      "circunscripcion": "Zamora",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2015",
+      "participacion_pct": 65.8
+    },
+    {
+      "circunscripcion": "Zamora",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2016",
+      "participacion_pct": 63.7
+    },
+    {
+      "circunscripcion": "Zamora",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 66.4
+    },
+    {
+      "circunscripcion": "Zamora",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 60.22
+    },
+    {
+      "circunscripcion": "Zamora",
+      "comunidad_autonoma": "CYL",
+      "eleccion": "2023",
+      "participacion_pct": 72.7
+    },
+    {
+      "circunscripcion": "Zaragoza",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1977",
+      "participacion_pct": 80.9
+    },
+    {
+      "circunscripcion": "Zaragoza",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1979",
+      "participacion_pct": 70.8
+    },
+    {
+      "circunscripcion": "Zaragoza",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1982",
+      "participacion_pct": 83.2
+    },
+    {
+      "circunscripcion": "Zaragoza",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1986",
+      "participacion_pct": 70.7
+    },
+    {
+      "circunscripcion": "Zaragoza",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1989",
+      "participacion_pct": 70.1
+    },
+    {
+      "circunscripcion": "Zaragoza",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1993",
+      "participacion_pct": 78.8
+    },
+    {
+      "circunscripcion": "Zaragoza",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "1996",
+      "participacion_pct": 77.5
+    },
+    {
+      "circunscripcion": "Zaragoza",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2000",
+      "participacion_pct": 71.4
+    },
+    {
+      "circunscripcion": "Zaragoza",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2004",
+      "participacion_pct": 77.2
+    },
+    {
+      "circunscripcion": "Zaragoza",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2008",
+      "participacion_pct": 75.9
+    },
+    {
+      "circunscripcion": "Zaragoza",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2011",
+      "participacion_pct": 71.4
+    },
+    {
+      "circunscripcion": "Zaragoza",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2015",
+      "participacion_pct": 73.1
+    },
+    {
+      "circunscripcion": "Zaragoza",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2016",
+      "participacion_pct": 70.5
+    },
+    {
+      "circunscripcion": "Zaragoza",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 75.8
+    },
+    {
+      "circunscripcion": "Zaragoza",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 69.99
+    },
+    {
+      "circunscripcion": "Zaragoza",
+      "comunidad_autonoma": "ARA",
+      "eleccion": "2023",
+      "participacion_pct": 72.7
+    },
+    {
+      "circunscripcion": "Total Nacional",
+      "comunidad_autonoma": "ESP",
+      "eleccion": "1977",
+      "participacion_pct": 78.8
+    },
+    {
+      "circunscripcion": "Total Nacional",
+      "comunidad_autonoma": "ESP",
+      "eleccion": "1979",
+      "participacion_pct": 68
+    },
+    {
+      "circunscripcion": "Total Nacional",
+      "comunidad_autonoma": "ESP",
+      "eleccion": "1982",
+      "participacion_pct": 80
+    },
+    {
+      "circunscripcion": "Total Nacional",
+      "comunidad_autonoma": "ESP",
+      "eleccion": "1986",
+      "participacion_pct": 70.5
+    },
+    {
+      "circunscripcion": "Total Nacional",
+      "comunidad_autonoma": "ESP",
+      "eleccion": "1989",
+      "participacion_pct": 69.7
+    },
+    {
+      "circunscripcion": "Total Nacional",
+      "comunidad_autonoma": "ESP",
+      "eleccion": "1993",
+      "participacion_pct": 76.4
+    },
+    {
+      "circunscripcion": "Total Nacional",
+      "comunidad_autonoma": "ESP",
+      "eleccion": "1996",
+      "participacion_pct": 77.4
+    },
+    {
+      "circunscripcion": "Total Nacional",
+      "comunidad_autonoma": "ESP",
+      "eleccion": "2000",
+      "participacion_pct": 68.7
+    },
+    {
+      "circunscripcion": "Total Nacional",
+      "comunidad_autonoma": "ESP",
+      "eleccion": "2004",
+      "participacion_pct": 75.7
+    },
+    {
+      "circunscripcion": "Total Nacional",
+      "comunidad_autonoma": "ESP",
+      "eleccion": "2008",
+      "participacion_pct": 73.8
+    },
+    {
+      "circunscripcion": "Total Nacional",
+      "comunidad_autonoma": "ESP",
+      "eleccion": "2011",
+      "participacion_pct": 68.9
+    },
+    {
+      "circunscripcion": "Total Nacional",
+      "comunidad_autonoma": "ESP",
+      "eleccion": "2015",
+      "participacion_pct": 69.7
+    },
+    {
+      "circunscripcion": "Total Nacional",
+      "comunidad_autonoma": "ESP",
+      "eleccion": "2016",
+      "participacion_pct": 66.5
+    },
+    {
+      "circunscripcion": "Total Nacional",
+      "comunidad_autonoma": "ESP",
+      "eleccion": "2019 (I)",
+      "participacion_pct": 71.8
+    },
+    {
+      "circunscripcion": "Total Nacional",
+      "comunidad_autonoma": "ESP",
+      "eleccion": "2019 (II)",
+      "participacion_pct": 66.23
+    },
+    {
+      "circunscripcion": "Total Nacional",
+      "comunidad_autonoma": "ESP",
+      "eleccion": "2023",
+      "participacion_pct": 70.4
+    }
+  ],
+  "meta": {
+    "title": "Participación en las elecciones generales de España por circunscripción (1977–2023) - Free Download",
+    "description": "Porcentaje de participación en cada una de las 52 circunscripciones (provincias y ciudades autónomas) en las elecciones generales al Congreso de los Diputados desde 1977. Contains 848 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Participación en las elecciones generales de España por circunscripción (1977–2023) | ListBase",
+    "seo_description": "Download Participación en las elecciones generales de España por circunscripción (1977–2023) — 848 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 848 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Resultados_de_las_elecciones_generales_de_España"
+    ]
+  }
+}
