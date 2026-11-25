@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-25T02:23:15.022Z",
-  "total_datasets": 597,
-  "total_records": 436746,
+  "generated": "2026-11-25T02:23:23.492Z",
+  "total_datasets": 598,
+  "total_records": 436771,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "music",
@@ -3821,6 +3821,33 @@
         "xlsx": {
           "name": "es-leyes-de-venezuela_ES.xlsx",
           "size": 31158
+        }
+      }
+    },
+    {
+      "id": "es-leyes-lgbti-y-trans-autonomicas",
+      "name": "Leyes LGTBI y leyes trans autonómicas de España",
+      "category": "law",
+      "record_count": 25,
+      "columns": [
+        "comunidad_autonoma",
+        "anio",
+        "tipo",
+        "titulo",
+        "estado",
+        "enlace_boe"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Leyes_LGBTI_autonómicas_de_España",
+      "updated": "2026-11",
+      "size": 11479,
+      "files": {
+        "csv": {
+          "name": "es-leyes-lgbti-y-trans-autonomicas_ES.csv",
+          "size": 6471
+        },
+        "xlsx": {
+          "name": "es-leyes-lgbti-y-trans-autonomicas_ES.xlsx",
+          "size": 8761
         }
       }
     },
