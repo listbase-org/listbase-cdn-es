@@ -1,0 +1,816 @@
+{
+  "id": "es-embalses-de-andalucia",
+  "name": "Embalses de Andalucía",
+  "title": "Embalses de Andalucía",
+  "description": "Embalses de Andalucía con su capacidad (hm³), superficie de cuenca, año de construcción, río, localidad, provincia y propietario.",
+  "category": "environment",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Embalses_de_Andalucía",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Embalses_de_Andalucía",
+  "updated": "2026-11",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "embalse",
+      "label": "Embalse",
+      "type": "string"
+    },
+    {
+      "key": "capacidad_hm3",
+      "label": "Capacidad Hm3",
+      "type": "number"
+    },
+    {
+      "key": "superficie_cuenca_km2",
+      "label": "Superficie Cuenca Km2",
+      "type": "number"
+    },
+    {
+      "key": "construccion",
+      "label": "Construccion",
+      "type": "number"
+    },
+    {
+      "key": "rio",
+      "label": "Rio",
+      "type": "string"
+    },
+    {
+      "key": "localidad",
+      "label": "Localidad",
+      "type": "string"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "propietario",
+      "label": "Propietario",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "embalse": "Embalse de Arcos",
+      "capacidad_hm3": 14,
+      "superficie_cuenca_km2": 25,
+      "construccion": "1965",
+      "rio": "Río Guadalete",
+      "localidad": "Arcos de la Frontera",
+      "provincia": "Cádiz",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Almodóvar",
+      "capacidad_hm3": 5.7,
+      "superficie_cuenca_km2": 16.5,
+      "construccion": "1997",
+      "rio": "Río Almodóvar",
+      "localidad": "Tarifa",
+      "provincia": "Cádiz",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Barbate",
+      "capacidad_hm3": 228.1,
+      "superficie_cuenca_km2": 355,
+      "construccion": "1992",
+      "rio": "Río Barbate",
+      "localidad": "Alcalá de los Gazules",
+      "provincia": "Cádiz",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Bornos",
+      "capacidad_hm3": 215.4,
+      "superficie_cuenca_km2": 1344,
+      "construccion": "1961",
+      "rio": "Río Guadalete",
+      "localidad": "Bornos",
+      "provincia": "Cádiz",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Celemín",
+      "capacidad_hm3": 44.8,
+      "superficie_cuenca_km2": 95,
+      "construccion": "1972",
+      "rio": "Río Celemín",
+      "localidad": "Medina Sidonia",
+      "provincia": "Cádiz",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Guadalcacín",
+      "capacidad_hm3": 853.4,
+      "superficie_cuenca_km2": 353,
+      "construccion": "1989-93",
+      "rio": "Río Majaceite",
+      "localidad": "San José del Valle, Paterna de Rivera, Algar, Arcos de la Frontera",
+      "provincia": "Cádiz",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Los Hurones",
+      "capacidad_hm3": 135.32,
+      "superficie_cuenca_km2": 288,
+      "construccion": "1964",
+      "rio": "Río Majaceite",
+      "localidad": "Jerez de la Frontera, Algar",
+      "provincia": "Cádiz",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Zahara-El Gastor",
+      "capacidad_hm3": 222.7,
+      "superficie_cuenca_km2": 128.54,
+      "construccion": "1988-1995",
+      "rio": "Río Guadalete",
+      "localidad": "Zahara de la Sierra",
+      "provincia": "Cádiz",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Arenoso",
+      "capacidad_hm3": 167,
+      "superficie_cuenca_km2": 4000,
+      "construccion": "2006",
+      "rio": "Río Arenoso",
+      "localidad": "Montoro",
+      "provincia": "Córdoba",
+      "propietario": "Aquavir"
+    },
+    {
+      "embalse": "Embalse de Bembézar",
+      "capacidad_hm3": 342.1,
+      "superficie_cuenca_km2": 1078.5,
+      "construccion": "1963",
+      "rio": "Río Bembezar",
+      "localidad": "Hornachuelos",
+      "provincia": "Córdoba",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Guadalmellato",
+      "capacidad_hm3": 146.6,
+      "superficie_cuenca_km2": 1209,
+      "construccion": "1928",
+      "rio": "Río Guadalmellato",
+      "localidad": "Adamuz",
+      "provincia": "Córdoba",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Guadanuño",
+      "capacidad_hm3": 1.6,
+      "superficie_cuenca_km2": 28,
+      "construccion": "1967",
+      "rio": "Río Guadanuño",
+      "localidad": "Córdoba, Obejo, Villaviciosa de Córdoba",
+      "provincia": "Córdoba",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Iznájar",
+      "capacidad_hm3": 981.1,
+      "superficie_cuenca_km2": 5000,
+      "construccion": "1969",
+      "rio": "Río Genil",
+      "localidad": "Rute, Cuevas de San Marcos",
+      "provincia": "Córdoba",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de la Breña II",
+      "capacidad_hm3": 823,
+      "superficie_cuenca_km2": 6250,
+      "construccion": "2008",
+      "rio": "Río Guadiato",
+      "localidad": "Almodóvar del Río",
+      "provincia": "Córdoba",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Martín Gonzalo",
+      "capacidad_hm3": 17.8,
+      "superficie_cuenca_km2": 48.26,
+      "construccion": "1989",
+      "rio": "Arroyo Martín Gonzalo",
+      "localidad": "Montoro",
+      "provincia": "Córdoba",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Puente Nuevo",
+      "capacidad_hm3": 281.7,
+      "superficie_cuenca_km2": 980,
+      "construccion": "1972",
+      "rio": "Río Guadiato",
+      "localidad": "Villaviciosa de Córdoba",
+      "provincia": "Córdoba",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Retortillo",
+      "capacidad_hm3": 61.2,
+      "superficie_cuenca_km2": 311,
+      "construccion": "1970",
+      "rio": "Río Retortillo",
+      "localidad": "Hornachuelos, Puebla de los Infantes",
+      "provincia": "Córdoba",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de San Rafael de Navallana",
+      "capacidad_hm3": 156.5,
+      "superficie_cuenca_km2": 1287,
+      "construccion": "1991",
+      "rio": "Río Guadalmellato",
+      "localidad": "Córdoba",
+      "provincia": "Córdoba",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Sierra Boyera",
+      "capacidad_hm3": 40.9,
+      "superficie_cuenca_km2": 439,
+      "construccion": "1973",
+      "rio": "Río Guadiato",
+      "localidad": "Belmez",
+      "provincia": "Córdoba",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Yeguas",
+      "capacidad_hm3": 228.7,
+      "superficie_cuenca_km2": 790,
+      "construccion": "1989",
+      "rio": "Río Yeguas",
+      "localidad": "Montoro",
+      "provincia": "Córdoba",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Canales",
+      "capacidad_hm3": 70,
+      "superficie_cuenca_km2": 176,
+      "construccion": "1988",
+      "rio": "Río Genil",
+      "localidad": "Güéjar Sierra",
+      "provincia": "Granada",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Colomera",
+      "capacidad_hm3": 40.2,
+      "superficie_cuenca_km2": 245,
+      "construccion": "1990",
+      "rio": "Río Colomera",
+      "localidad": "Colomera",
+      "provincia": "Granada",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Cubillas",
+      "capacidad_hm3": 18.7,
+      "superficie_cuenca_km2": 626,
+      "construccion": "1956",
+      "rio": "Río Cubillas",
+      "localidad": "Albolote, Chaparral",
+      "provincia": "Granada",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de El Portillo",
+      "capacidad_hm3": 32.9,
+      "superficie_cuenca_km2": 110,
+      "construccion": "1999",
+      "rio": "Río Castril",
+      "localidad": "Castril",
+      "provincia": "Granada",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Francisco Abellán",
+      "capacidad_hm3": 58.2,
+      "superficie_cuenca_km2": 184.4,
+      "construccion": "1996",
+      "rio": "Río Fardes",
+      "localidad": "La Peza",
+      "provincia": "Granada",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Los Bermejales",
+      "capacidad_hm3": 102.6,
+      "superficie_cuenca_km2": 307,
+      "construccion": "1958",
+      "rio": "Río Cacín",
+      "localidad": "Arenas del Rey",
+      "provincia": "Granada",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse del Negratín",
+      "capacidad_hm3": 567.1,
+      "superficie_cuenca_km2": 3870,
+      "construccion": "1984",
+      "rio": "Río Guadiana Menor",
+      "localidad": "Freila",
+      "provincia": "Granada",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Quéntar",
+      "capacidad_hm3": 13.5,
+      "superficie_cuenca_km2": 101.5,
+      "construccion": "1975",
+      "rio": "Río Aguas Blancas",
+      "localidad": "Quéntar",
+      "provincia": "Granada",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de San Clemente",
+      "capacidad_hm3": 117.9,
+      "superficie_cuenca_km2": 152,
+      "construccion": "1990",
+      "rio": "Río Guardal",
+      "localidad": "Huéscar",
+      "provincia": "Granada",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Aracena",
+      "capacidad_hm3": 126.8,
+      "superficie_cuenca_km2": 408,
+      "construccion": "1969",
+      "rio": "Rivera de Huelva",
+      "localidad": "Puerto Moral, Aracena, Zufre",
+      "provincia": "Huelva",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Zufre",
+      "capacidad_hm3": 175.3,
+      "superficie_cuenca_km2": 850,
+      "construccion": "1991",
+      "rio": "Rivera de Huelva",
+      "localidad": "Zufre",
+      "provincia": "Huelva",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Aguascebas",
+      "capacidad_hm3": 6.4,
+      "superficie_cuenca_km2": 18,
+      "construccion": "1967",
+      "rio": "Río Aguascebas",
+      "localidad": "Villacarrillo",
+      "provincia": "Jaén",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Dañador",
+      "capacidad_hm3": 4.1,
+      "superficie_cuenca_km2": 62.59,
+      "construccion": "1968",
+      "rio": "Río Dañador",
+      "localidad": "Montizón",
+      "provincia": "Jaén",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Giribaile",
+      "capacidad_hm3": 475.1,
+      "superficie_cuenca_km2": 2932,
+      "construccion": "1996",
+      "rio": "Río Guadalimar",
+      "localidad": "Ibros",
+      "provincia": "Jaén",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse del Guadalén",
+      "capacidad_hm3": 168,
+      "superficie_cuenca_km2": 1330,
+      "construccion": "1954",
+      "rio": "Río Guadalén",
+      "localidad": "Arquillos, Vilches",
+      "provincia": "Jaén",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Guadalmena",
+      "capacidad_hm3": 346.5,
+      "superficie_cuenca_km2": 1323,
+      "construccion": "1969",
+      "rio": "Río Guadalmena",
+      "localidad": "Chiclana de Segura, Segura de la Sierra",
+      "provincia": "Jaén",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse del Jándula",
+      "capacidad_hm3": 322,
+      "superficie_cuenca_km2": 2300,
+      "construccion": "1932",
+      "rio": "Río Jándula",
+      "localidad": "Andújar",
+      "provincia": "Jaén",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de La Bolera",
+      "capacidad_hm3": 53.2,
+      "superficie_cuenca_km2": 163,
+      "construccion": "1967",
+      "rio": "Río Guadaletín",
+      "localidad": "Pozo Alcón",
+      "provincia": "Jaén",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de La Fernandina",
+      "capacidad_hm3": 244.5,
+      "superficie_cuenca_km2": 663,
+      "construccion": "1991",
+      "rio": "Río Guarrizas",
+      "localidad": "Vilches",
+      "provincia": "Jaén",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse del Quiebrajano",
+      "capacidad_hm3": 31.6,
+      "superficie_cuenca_km2": 99,
+      "construccion": "1976",
+      "rio": "Río Quiebrajano",
+      "localidad": "Jaén, Valdepeñas de Jaén, Campillo de Arenas",
+      "provincia": "Jaén",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse del Rumblar",
+      "capacidad_hm3": 126,
+      "superficie_cuenca_km2": 550,
+      "construccion": "1941",
+      "rio": "Río Rumblar",
+      "localidad": "Baños de la Encina",
+      "provincia": "Jaén",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Tranco de Beas",
+      "capacidad_hm3": 498.2,
+      "superficie_cuenca_km2": 550,
+      "construccion": "1944",
+      "rio": "Río Guadalquivir",
+      "localidad": "Santiago-Pontones, Hornos de Segura",
+      "provincia": "Jaén",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Vadomojón",
+      "capacidad_hm3": 163.2,
+      "superficie_cuenca_km2": 1185,
+      "construccion": "1997",
+      "rio": "Río Guadajoz",
+      "localidad": "Baena, Alcaudete",
+      "provincia": "Jaén",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Víboras",
+      "capacidad_hm3": 19.1,
+      "superficie_cuenca_km2": 182.2,
+      "construccion": "1997",
+      "rio": "Río Víboras",
+      "localidad": "Martos",
+      "provincia": "Jaén",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Cala",
+      "capacidad_hm3": 58.8,
+      "superficie_cuenca_km2": 525,
+      "construccion": "1927",
+      "rio": "Rivera de Cala",
+      "localidad": "El Ronquillo",
+      "provincia": "Sevilla",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de El Agrio",
+      "capacidad_hm3": 20.3,
+      "superficie_cuenca_km2": 228,
+      "construccion": "1977",
+      "rio": "Río Agrio",
+      "localidad": "Aznalcóllar",
+      "provincia": "Sevilla",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de El Pintado",
+      "capacidad_hm3": 212.8,
+      "superficie_cuenca_km2": 1100,
+      "construccion": "1948",
+      "rio": "Río Viar",
+      "localidad": "Cazalla de la Sierra",
+      "provincia": "Sevilla",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Gergal",
+      "capacidad_hm3": 35,
+      "superficie_cuenca_km2": 1755,
+      "construccion": "1979",
+      "rio": "Rivera de Huelva",
+      "localidad": "Guillena",
+      "provincia": "Sevilla",
+      "propietario": "EMASESA"
+    },
+    {
+      "embalse": "Embalse de Huesna",
+      "capacidad_hm3": 134.6,
+      "superficie_cuenca_km2": 459,
+      "construccion": "1990",
+      "rio": "Río Huesna",
+      "localidad": "Constantina, El Pedroso",
+      "provincia": "Sevilla",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de José Torán",
+      "capacidad_hm3": 113.2,
+      "superficie_cuenca_km2": 243,
+      "construccion": "1992",
+      "rio": "Río Guadalbarcar",
+      "localidad": "Lora del Río",
+      "provincia": "Sevilla",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de La Minilla",
+      "capacidad_hm3": 57.8,
+      "superficie_cuenca_km2": 1032,
+      "construccion": "1956",
+      "rio": "Rivera de Huelva",
+      "localidad": "El Garrobo",
+      "provincia": "Sevilla",
+      "propietario": "EMASESA"
+    },
+    {
+      "embalse": "Embalse de Puebla de Cazalla",
+      "capacidad_hm3": 73.7,
+      "superficie_cuenca_km2": 297.6,
+      "construccion": "1994",
+      "rio": "Río Corbones",
+      "localidad": "La Puebla de Cazalla",
+      "provincia": "Sevilla",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de Torre del Águila",
+      "capacidad_hm3": 64.4,
+      "superficie_cuenca_km2": 460,
+      "construccion": "1947",
+      "rio": "Río Salado de Morón",
+      "localidad": "Utrera",
+      "provincia": "Sevilla",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse de la Colada",
+      "capacidad_hm3": 58,
+      "superficie_cuenca_km2": 395.15,
+      "construccion": "2009",
+      "rio": "Río Guadamatilla",
+      "localidad": "El Viso, Belalcázar",
+      "provincia": "Córdoba",
+      "propietario": "AGE"
+    },
+    {
+      "embalse": "Embalse del Andévalo",
+      "capacidad_hm3": 205.6,
+      "superficie_cuenca_km2": 1970,
+      "construccion": "2003",
+      "rio": "Rivera de Malagón Rivera Cobica",
+      "localidad": "Puebla de Guzmán",
+      "provincia": "Huelva",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse del Chanza",
+      "capacidad_hm3": 341.4,
+      "superficie_cuenca_km2": 173.85,
+      "construccion": "1989",
+      "rio": "Río Chanza",
+      "localidad": "El Granado",
+      "provincia": "Huelva",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Benínar",
+      "capacidad_hm3": 63,
+      "superficie_cuenca_km2": 521,
+      "construccion": "1983",
+      "rio": "Río Adra",
+      "localidad": "Berja (Benínar)",
+      "provincia": "Almería",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Cuevas del Almanzora",
+      "capacidad_hm3": 168,
+      "superficie_cuenca_km2": 2122,
+      "construccion": "1986",
+      "rio": "Río Almanzora",
+      "localidad": "Cuevas de Almanzora",
+      "provincia": "Almería",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse del Charco Redondo",
+      "capacidad_hm3": 73,
+      "superficie_cuenca_km2": 95.18,
+      "construccion": "1983",
+      "rio": "Río Palmones",
+      "localidad": "Los Barrios",
+      "provincia": "Cádiz",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Guadarranque",
+      "capacidad_hm3": 78,
+      "superficie_cuenca_km2": 143,
+      "construccion": "1965",
+      "rio": "Río Guadarranque",
+      "localidad": "Los Barrios, Castellar de la Frontera, San Roque",
+      "provincia": "Cádiz",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Béznar",
+      "capacidad_hm3": 56,
+      "superficie_cuenca_km2": 485,
+      "construccion": "1986",
+      "rio": "Río Ízbor",
+      "localidad": "El Pinar, Béznar",
+      "provincia": "Granada",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Rules",
+      "capacidad_hm3": 111.1,
+      "superficie_cuenca_km2": 1070,
+      "construccion": "2003",
+      "rio": "Río Guadalfeo",
+      "localidad": "Vélez de Benaudalla",
+      "provincia": "Granada",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse del Conde de Guadalhorce",
+      "capacidad_hm3": 70,
+      "superficie_cuenca_km2": 166,
+      "construccion": "1921",
+      "rio": "Río Turón",
+      "localidad": "Ardales",
+      "provincia": "Málaga",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de El Limonero",
+      "capacidad_hm3": 25,
+      "superficie_cuenca_km2": 185,
+      "construccion": "1983",
+      "rio": "Río Guadalmedina",
+      "localidad": "Málaga",
+      "provincia": "Málaga",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Casasola",
+      "capacidad_hm3": 10.9,
+      "superficie_cuenca_km2": 417,
+      "construccion": "2007",
+      "rio": "Río Campanillas",
+      "localidad": "Almogía",
+      "provincia": "Málaga",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Guadalteba",
+      "capacidad_hm3": 156,
+      "superficie_cuenca_km2": 1014,
+      "construccion": "1973",
+      "rio": "Río Guadalhorce",
+      "localidad": "Campillos, Teba",
+      "provincia": "Málaga",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Guadalhorce",
+      "capacidad_hm3": 126,
+      "superficie_cuenca_km2": 142,
+      "construccion": "1973",
+      "rio": "Río Guadalhorce",
+      "localidad": "Campillos, Antequera",
+      "provincia": "Málaga",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de La Concepción",
+      "capacidad_hm3": 56,
+      "superficie_cuenca_km2": 119,
+      "construccion": "1971",
+      "rio": "Río Verde",
+      "localidad": "Istán, Marbella",
+      "provincia": "Málaga",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de La Viñuela",
+      "capacidad_hm3": 170,
+      "superficie_cuenca_km2": 738,
+      "construccion": "1986",
+      "rio": "Río Guaro",
+      "localidad": "La Viñuela",
+      "provincia": "Málaga",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Corumbel Bajo",
+      "capacidad_hm3": 18,
+      "superficie_cuenca_km2": 160,
+      "construccion": "1987",
+      "rio": "Río Corumbel",
+      "localidad": "La Palma del Condado",
+      "provincia": "Huelva",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Jarrama",
+      "capacidad_hm3": 42.6,
+      "superficie_cuenca_km2": 83.75,
+      "construccion": "1999",
+      "rio": "Río Jarrama",
+      "localidad": "Nerva, El Madroño",
+      "provincia": "Huelva",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de los Machos",
+      "capacidad_hm3": 12,
+      "superficie_cuenca_km2": 200,
+      "construccion": "1987",
+      "rio": "Río Piedras",
+      "localidad": "Lepe, Cartaya",
+      "provincia": "Huelva",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de Piedras",
+      "capacidad_hm3": 59.5,
+      "superficie_cuenca_km2": 187,
+      "construccion": "1987",
+      "rio": "Río Piedras",
+      "localidad": "Lepe, Cartaya",
+      "provincia": "Huelva",
+      "propietario": "Consejería de Medio Ambiente Junta de Andalucía"
+    },
+    {
+      "embalse": "Embalse de las Anchuricas",
+      "capacidad_hm3": 6,
+      "superficie_cuenca_km2": 264,
+      "construccion": "1957",
+      "rio": "Río Segura",
+      "localidad": "Santiago de la Espada",
+      "provincia": "Jaén",
+      "propietario": "Iberdrola Generación S.A."
+    },
+    {
+      "embalse": "Embalse de la Novia o de la Vieja",
+      "capacidad_hm3": 1,
+      "superficie_cuenca_km2": 264,
+      "construccion": "1959",
+      "rio": "Río Zumeta",
+      "localidad": "Santiago de la Espada",
+      "provincia": "Jaén",
+      "propietario": "Iberdrola Generación S.A."
+    }
+  ],
+  "meta": {
+    "title": "Embalses de Andalucía - Free Download",
+    "description": "Embalses de Andalucía con su capacidad (hm³), superficie de cuenca, año de construcción, río, localidad, provincia y propietario. Contains 75 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Embalses de Andalucía | ListBase",
+    "seo_description": "Download Embalses de Andalucía — 75 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 75 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Embalses_de_Andalucía"
+    ]
+  }
+}

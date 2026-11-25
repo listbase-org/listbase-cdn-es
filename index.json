@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-24T02:18:20.017Z",
-  "total_datasets": 596,
-  "total_records": 436671,
+  "generated": "2026-11-25T02:23:15.022Z",
+  "total_datasets": 597,
+  "total_records": 436746,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "finance",
@@ -1280,6 +1280,35 @@
         "xlsx": {
           "name": "es-centrales-nucleares_ES.xlsx",
           "size": 7765
+        }
+      }
+    },
+    {
+      "id": "es-embalses-de-andalucia",
+      "name": "Embalses de Andalucía",
+      "category": "environment",
+      "record_count": 75,
+      "columns": [
+        "embalse",
+        "capacidad_hm3",
+        "superficie_cuenca_km2",
+        "construccion",
+        "rio",
+        "localidad",
+        "provincia",
+        "propietario"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Embalses_de_Andalucía",
+      "updated": "2026-11",
+      "size": 24101,
+      "files": {
+        "csv": {
+          "name": "es-embalses-de-andalucia_ES.csv",
+          "size": 8687
+        },
+        "xlsx": {
+          "name": "es-embalses-de-andalucia_ES.xlsx",
+          "size": 11697
         }
       }
     },
