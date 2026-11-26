@@ -1,0 +1,216 @@
+{
+  "id": "es-divorcios-separaciones-por-comunidad-autonoma-2025",
+  "name": "Divorcios, separaciones y nulidades por comunidad autónoma (2025)",
+  "title": "Divorcios, separaciones y nulidades por comunidad autónoma (2025)",
+  "description": "Número de nulidades, separaciones y divorcios registrados en 2025 en cada comunidad y ciudad autónoma de España, con la tasa total por 1.000 habitantes (INE, Estadística de Nulidades, Separaciones y Divorcios).",
+  "category": "society",
+  "source": "https://www.ine.es/jaxiT3/Tabla.htm?t=20171",
+  "source_url": "https://www.ine.es/jaxiT3/Tabla.htm?t=20171",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "comunidad_autonoma",
+      "label": "Comunidad Autonoma",
+      "type": "string"
+    },
+    {
+      "key": "total_disoluciones",
+      "label": "Total Disoluciones",
+      "type": "number"
+    },
+    {
+      "key": "nulidades",
+      "label": "Nulidades",
+      "type": "number"
+    },
+    {
+      "key": "separaciones",
+      "label": "Separaciones",
+      "type": "number"
+    },
+    {
+      "key": "divorcios",
+      "label": "Divorcios",
+      "type": "number"
+    },
+    {
+      "key": "tasa_por_mil_habitantes",
+      "label": "Tasa Por Mil Habitantes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "comunidad_autonoma": "Total Nacional",
+      "total_disoluciones": 83683,
+      "nulidades": 27,
+      "separaciones": 2872,
+      "divorcios": 80785,
+      "tasa_por_mil_habitantes": 1.7
+    },
+    {
+      "comunidad_autonoma": "Andalucía",
+      "total_disoluciones": 15428,
+      "nulidades": 11,
+      "separaciones": 700,
+      "divorcios": 14718,
+      "tasa_por_mil_habitantes": 1.77
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "total_disoluciones": 2036,
+      "nulidades": 0,
+      "separaciones": 72,
+      "divorcios": 1965,
+      "tasa_por_mil_habitantes": 1.48
+    },
+    {
+      "comunidad_autonoma": "Asturias, Principado de",
+      "total_disoluciones": 1868,
+      "nulidades": 0,
+      "separaciones": 69,
+      "divorcios": 1799,
+      "tasa_por_mil_habitantes": 1.84
+    },
+    {
+      "comunidad_autonoma": "Balears, Illes",
+      "total_disoluciones": 2267,
+      "nulidades": 0,
+      "separaciones": 56,
+      "divorcios": 2211,
+      "tasa_por_mil_habitantes": 1.8
+    },
+    {
+      "comunidad_autonoma": "Canarias",
+      "total_disoluciones": 4197,
+      "nulidades": 4,
+      "separaciones": 121,
+      "divorcios": 4072,
+      "tasa_por_mil_habitantes": 1.85
+    },
+    {
+      "comunidad_autonoma": "Cantabria",
+      "total_disoluciones": 998,
+      "nulidades": 0,
+      "separaciones": 20,
+      "divorcios": 978,
+      "tasa_por_mil_habitantes": 1.68
+    },
+    {
+      "comunidad_autonoma": "Castilla y León",
+      "total_disoluciones": 3282,
+      "nulidades": 1,
+      "separaciones": 110,
+      "divorcios": 3171,
+      "tasa_por_mil_habitantes": 1.36
+    },
+    {
+      "comunidad_autonoma": "Castilla - La Mancha",
+      "total_disoluciones": 3457,
+      "nulidades": 0,
+      "separaciones": 88,
+      "divorcios": 3369,
+      "tasa_por_mil_habitantes": 1.62
+    },
+    {
+      "comunidad_autonoma": "Cataluña",
+      "total_disoluciones": 13563,
+      "nulidades": 3,
+      "separaciones": 423,
+      "divorcios": 13137,
+      "tasa_por_mil_habitantes": 1.66
+    },
+    {
+      "comunidad_autonoma": "Comunitat Valenciana",
+      "total_disoluciones": 10121,
+      "nulidades": 2,
+      "separaciones": 351,
+      "divorcios": 9768,
+      "tasa_por_mil_habitantes": 1.85
+    },
+    {
+      "comunidad_autonoma": "Extremadura",
+      "total_disoluciones": 1512,
+      "nulidades": 2,
+      "separaciones": 74,
+      "divorcios": 1436,
+      "tasa_por_mil_habitantes": 1.44
+    },
+    {
+      "comunidad_autonoma": "Galicia",
+      "total_disoluciones": 4495,
+      "nulidades": 2,
+      "separaciones": 90,
+      "divorcios": 4403,
+      "tasa_por_mil_habitantes": 1.65
+    },
+    {
+      "comunidad_autonoma": "Madrid, Comunidad de",
+      "total_disoluciones": 12253,
+      "nulidades": 0,
+      "separaciones": 423,
+      "divorcios": 11830,
+      "tasa_por_mil_habitantes": 1.71
+    },
+    {
+      "comunidad_autonoma": "Murcia, Región de",
+      "total_disoluciones": 2922,
+      "nulidades": 0,
+      "separaciones": 104,
+      "divorcios": 2818,
+      "tasa_por_mil_habitantes": 1.83
+    },
+    {
+      "comunidad_autonoma": "Navarra, Comunidad Foral de",
+      "total_disoluciones": 1033,
+      "nulidades": 0,
+      "separaciones": 46,
+      "divorcios": 987,
+      "tasa_por_mil_habitantes": 1.5
+    },
+    {
+      "comunidad_autonoma": "País Vasco",
+      "total_disoluciones": 3278,
+      "nulidades": 1,
+      "separaciones": 105,
+      "divorcios": 3172,
+      "tasa_por_mil_habitantes": 1.46
+    },
+    {
+      "comunidad_autonoma": "Rioja, La",
+      "total_disoluciones": 626,
+      "nulidades": 0,
+      "separaciones": 16,
+      "divorcios": 610,
+      "tasa_por_mil_habitantes": 1.91
+    },
+    {
+      "comunidad_autonoma": "Ceuta",
+      "total_disoluciones": 211,
+      "nulidades": 0,
+      "separaciones": 1,
+      "divorcios": 210,
+      "tasa_por_mil_habitantes": 2.52
+    },
+    {
+      "comunidad_autonoma": "Melilla",
+      "total_disoluciones": 135,
+      "nulidades": 0,
+      "separaciones": 3,
+      "divorcios": 132,
+      "tasa_por_mil_habitantes": 1.55
+    }
+  ],
+  "meta": {
+    "title": "Divorcios, separaciones y nulidades por comunidad autónoma (2025) - Free Download",
+    "description": "Número de nulidades, separaciones y divorcios registrados en 2025 en cada comunidad y ciudad autónoma de España, con la tasa total por 1.000 habitantes (INE, Estadística de Nulidades, Separaciones y Divorcios). Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Divorcios, separaciones y nulidades por comunidad autónoma (2025) | ListBase",
+    "seo_description": "Download Divorcios, separaciones y nulidades por comunidad autónoma (2025) — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ine.es/jaxiT3/Tabla.htm?t=20171"
+    ]
+  }
+}

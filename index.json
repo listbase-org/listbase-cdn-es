@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-25T02:23:31.971Z",
-  "total_datasets": 599,
-  "total_records": 437619,
+  "generated": "2026-11-26T02:09:15.348Z",
+  "total_datasets": 600,
+  "total_records": 437639,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "sports",
@@ -17156,6 +17156,33 @@
         "xlsx": {
           "name": "es-comunidades-autonomas-idh_ES.xlsx",
           "size": 7598
+        }
+      }
+    },
+    {
+      "id": "es-divorcios-separaciones-por-comunidad-autonoma-2025",
+      "name": "Divorcios, separaciones y nulidades por comunidad autónoma (2025)",
+      "category": "society",
+      "record_count": 20,
+      "columns": [
+        "comunidad_autonoma",
+        "total_disoluciones",
+        "nulidades",
+        "separaciones",
+        "divorcios",
+        "tasa_por_mil_habitantes"
+      ],
+      "source": "https://www.ine.es/jaxiT3/Tabla.htm?t=20171",
+      "updated": "2026-11",
+      "size": 6246,
+      "files": {
+        "csv": {
+          "name": "es-divorcios-separaciones-por-comunidad-autonoma-2025_ES.csv",
+          "size": 1041
+        },
+        "xlsx": {
+          "name": "es-divorcios-separaciones-por-comunidad-autonoma-2025_ES.xlsx",
+          "size": 7684
         }
       }
     },
