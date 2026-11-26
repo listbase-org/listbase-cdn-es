@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-26T02:09:15.348Z",
-  "total_datasets": 600,
-  "total_records": 437639,
+  "generated": "2026-11-26T02:09:24.282Z",
+  "total_datasets": 601,
+  "total_records": 437655,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "politics",
@@ -4099,6 +4099,33 @@
         "xlsx": {
           "name": "es-grammy-latino-grabacion-del-ano_ES.xlsx",
           "size": 9215
+        }
+      }
+    },
+    {
+      "id": "es-himnos-de-las-comunidades-autonomas",
+      "name": "Himnos de las comunidades y ciudades autónomas de España",
+      "category": "music",
+      "record_count": 16,
+      "columns": [
+        "comunidad_autonoma",
+        "himno",
+        "primer_verso",
+        "fecha_adopcion",
+        "autor_letra",
+        "compositor"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Himnos_de_las_Comunidades_autónomas_de_España",
+      "updated": "2026-11",
+      "size": 6518,
+      "files": {
+        "csv": {
+          "name": "es-himnos-de-las-comunidades-autonomas_ES.csv",
+          "size": 2149
+        },
+        "xlsx": {
+          "name": "es-himnos-de-las-comunidades-autonomas_ES.xlsx",
+          "size": 8258
         }
       }
     },

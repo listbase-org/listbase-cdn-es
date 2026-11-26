@@ -1,0 +1,184 @@
+{
+  "id": "es-himnos-de-las-comunidades-autonomas",
+  "name": "Himnos de las comunidades y ciudades autónomas de España",
+  "title": "Himnos de las comunidades y ciudades autónomas de España",
+  "description": "Himnos oficiales de las 17 comunidades autónomas y de Ceuta y Melilla: título, primer verso, fecha de adopción, autor de la letra y compositor de la música.",
+  "category": "music",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Himnos_de_las_Comunidades_autónomas_de_España",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Himnos_de_las_Comunidades_autónomas_de_España",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "comunidad_autonoma",
+      "label": "Comunidad Autonoma",
+      "type": "string"
+    },
+    {
+      "key": "himno",
+      "label": "Himno",
+      "type": "string"
+    },
+    {
+      "key": "primer_verso",
+      "label": "Primer Verso",
+      "type": "string"
+    },
+    {
+      "key": "fecha_adopcion",
+      "label": "Fecha Adopcion",
+      "type": "string"
+    },
+    {
+      "key": "autor_letra",
+      "label": "Autor Letra",
+      "type": "string"
+    },
+    {
+      "key": "compositor",
+      "label": "Compositor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "comunidad_autonoma": "Andalucía",
+      "himno": "La bandera blanca y verde",
+      "primer_verso": "La bandera blanca y verde...",
+      "fecha_adopcion": "21 de diciembre de 1982",
+      "autor_letra": "Blas Infante",
+      "compositor": "José Castillo y Díaz"
+    },
+    {
+      "comunidad_autonoma": "Aragón",
+      "himno": "Himno de Aragón",
+      "primer_verso": "Nos ha llevado el tiempo...",
+      "fecha_adopcion": "21 de abril de 1989",
+      "autor_letra": "Ildefonso Manuel Gil, Ángel Guinda, Rosendo Tello y Manuel Vilas",
+      "compositor": "Antón García Abril"
+    },
+    {
+      "comunidad_autonoma": "Asturias",
+      "himno": "Asturias, patria querida",
+      "primer_verso": "Asturias, patria querida...",
+      "fecha_adopcion": "4 de mayo de 1984",
+      "autor_letra": "Ignacio Piñeiro",
+      "compositor": ""
+    },
+    {
+      "comunidad_autonoma": "Islas Baleares",
+      "himno": "La Balanguera",
+      "primer_verso": "La balanguera misteriosa...",
+      "fecha_adopcion": "1996",
+      "autor_letra": "Joan Alcover",
+      "compositor": "Amadeo Vives"
+    },
+    {
+      "comunidad_autonoma": "País Vasco",
+      "himno": "Eusko Abendaren Ereserkia",
+      "primer_verso": "Sin letra oficial",
+      "fecha_adopcion": "1936 y 14 de abril de 1983",
+      "autor_letra": "Sabino Arana Goiri",
+      "compositor": ""
+    },
+    {
+      "comunidad_autonoma": "Canarias",
+      "himno": "Himno de Canarias",
+      "primer_verso": "Soy la sombra de un almendro...",
+      "fecha_adopcion": "28 de abril de 2003",
+      "autor_letra": "Benito Cabrera",
+      "compositor": "Teobaldo Power"
+    },
+    {
+      "comunidad_autonoma": "Cantabria",
+      "himno": "Himno a La Montaña",
+      "primer_verso": "Cantabria querida...",
+      "fecha_adopcion": "8 de mayo de 1987",
+      "autor_letra": "Juan Guerrero Urresti",
+      "compositor": "Juan Guerrero Urresti"
+    },
+    {
+      "comunidad_autonoma": "Cataluña",
+      "himno": "Els Segadors",
+      "primer_verso": "Catalunya triomfant...",
+      "fecha_adopcion": "1993",
+      "autor_letra": "Emili Guanyavents",
+      "compositor": "Francesc Alió"
+    },
+    {
+      "comunidad_autonoma": "Extremadura",
+      "himno": "Himno de Extremadura",
+      "primer_verso": "Nuestras voces se alzan...",
+      "fecha_adopcion": "3 de junio de 1985",
+      "autor_letra": "José Rodríguez Pinilla",
+      "compositor": "Miguel del Barco Gallego"
+    },
+    {
+      "comunidad_autonoma": "Galicia",
+      "himno": "Os Pinos",
+      "primer_verso": "Que din os rumorosos...",
+      "fecha_adopcion": "29 de mayo de 1984",
+      "autor_letra": "Eduardo Pondal",
+      "compositor": "Pascual Veiga"
+    },
+    {
+      "comunidad_autonoma": "La Rioja",
+      "himno": "Himno de La Rioja",
+      "primer_verso": "Sin letra oficial",
+      "fecha_adopcion": "31 de mayo de 1985",
+      "autor_letra": "",
+      "compositor": ""
+    },
+    {
+      "comunidad_autonoma": "Comunidad de Madrid",
+      "himno": "Himno de la Comunidad de Madrid",
+      "primer_verso": "Yo estaba en el medio...",
+      "fecha_adopcion": "23 de diciembre de 1983",
+      "autor_letra": "Agustín García Calvo",
+      "compositor": "Pablo Sorozábal Serrano"
+    },
+    {
+      "comunidad_autonoma": "Navarra",
+      "himno": "Himno de las Cortes",
+      "primer_verso": "Por Navarra, tierra brava y noble / Nafarroa, lur haundi ta azkar",
+      "fecha_adopcion": "26 de mayo de 1986",
+      "autor_letra": "Manuel Iribarren Paternáin",
+      "compositor": "Pasaclaustros del siglo XVIII"
+    },
+    {
+      "comunidad_autonoma": "Comunidad Valenciana",
+      "himno": "Himne de la Comunitat Valenciana",
+      "primer_verso": "Per a ofrenar noves glòries a Espanya...",
+      "fecha_adopcion": "4 de diciembre de 1984",
+      "autor_letra": "Maximiliano Thous",
+      "compositor": "José Serrano"
+    },
+    {
+      "comunidad_autonoma": "Ceuta",
+      "himno": "Himno de Ceuta",
+      "primer_verso": "Salud, noble ciudad...",
+      "fecha_adopcion": "24 de agosto de 1934",
+      "autor_letra": "Luis García Rodríguez",
+      "compositor": "Ángel García Ruiz y Matilde Tavera"
+    },
+    {
+      "comunidad_autonoma": "Melilla",
+      "himno": "Himno de Melilla",
+      "primer_verso": "Entonemos un himno delante...",
+      "fecha_adopcion": "",
+      "autor_letra": "Ana Riaño López",
+      "compositor": "Aurelia Eulalia López Martín"
+    }
+  ],
+  "meta": {
+    "title": "Himnos de las comunidades y ciudades autónomas de España - Free Download",
+    "description": "Himnos oficiales de las 17 comunidades autónomas y de Ceuta y Melilla: título, primer verso, fecha de adopción, autor de la letra y compositor de la música. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Himnos de las comunidades y ciudades autónomas de España | ListBase",
+    "seo_description": "Download Himnos de las comunidades y ciudades autónomas de España — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Himnos_de_las_Comunidades_autónomas_de_España"
+    ]
+  }
+}
