@@ -1,0 +1,296 @@
+{
+  "id": "es-tuteo-voseo-y-nombres-de-letras-por-pais",
+  "name": "Tuteo, voseo y nombres de las letras b, v, w e y por país hispanohablante",
+  "title": "Tuteo, voseo y nombres de las letras b, v, w e y por país hispanohablante",
+  "description": "Formas de tratamiento usadas en cada país hispanohablante (tú, vos, usted, vosotros, ustedes) y cómo se llaman allí las letras b, v, w e y (be larga, ve corta, uve, doble ve, i griega, ye…). En todos los países el singular de respeto es «usted».",
+  "category": "language",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Diferencias_de_vocabulario_estándar_entre_países_hispanohablantes",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Diferencias_de_vocabulario_estándar_entre_países_hispanohablantes",
+  "updated": "2026-11",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "pais",
+      "label": "Pais",
+      "type": "string"
+    },
+    {
+      "key": "tratamiento_singular_confianza",
+      "label": "Tratamiento Singular Confianza",
+      "type": "string"
+    },
+    {
+      "key": "tratamiento_plural_confianza",
+      "label": "Tratamiento Plural Confianza",
+      "type": "string"
+    },
+    {
+      "key": "tratamiento_plural_respeto",
+      "label": "Tratamiento Plural Respeto",
+      "type": "string"
+    },
+    {
+      "key": "nombre_letra_b",
+      "label": "Nombre Letra B",
+      "type": "string"
+    },
+    {
+      "key": "nombre_letra_v",
+      "label": "Nombre Letra V",
+      "type": "string"
+    },
+    {
+      "key": "nombre_letra_w",
+      "label": "Nombre Letra W",
+      "type": "string"
+    },
+    {
+      "key": "nombre_letra_y",
+      "label": "Nombre Letra Y",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pais": "Argentina",
+      "tratamiento_singular_confianza": "vos, tú (Salta y Jujuy)",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be larga, be de burro (informal), be alta (San Juan)",
+      "nombre_letra_v": "ve corta, ve de vaca (informal), ve baja (San Juan)",
+      "nombre_letra_w": "doble ve",
+      "nombre_letra_y": "i griega"
+    },
+    {
+      "pais": "Belice",
+      "tratamiento_singular_confianza": "tú, vos",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be labial",
+      "nombre_letra_v": "ve dental",
+      "nombre_letra_w": "doble u",
+      "nombre_letra_y": "i griega"
+    },
+    {
+      "pais": "Bolivia",
+      "tratamiento_singular_confianza": "tú, vos (informal)",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be labial, be grande",
+      "nombre_letra_v": "ve chica, ve de vaca, ve dentilabial",
+      "nombre_letra_w": "ve doble, doble ve",
+      "nombre_letra_y": "ye, i griega"
+    },
+    {
+      "pais": "Chile",
+      "tratamiento_singular_confianza": "tú, vos (coloquial)",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be, be larga, be de burro (informal), be alta, be grande",
+      "nombre_letra_v": "ve corta, uve, ve de vaca",
+      "nombre_letra_w": "doble ve, doble uve",
+      "nombre_letra_y": "i griega"
+    },
+    {
+      "pais": "Colombia",
+      "tratamiento_singular_confianza": "tú, vos (Valle del Cauca, Antioquia, Nariño), usted",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be larga, be de burro, be grande (Pasto), be, be labial",
+      "nombre_letra_v": "ve corta, uve, uvé, ve, ve labiodental, ve de vaca",
+      "nombre_letra_w": "doble u, doble ve",
+      "nombre_letra_y": "ye, i griega"
+    },
+    {
+      "pais": "Costa Rica",
+      "tratamiento_singular_confianza": "usted, vos, tú (por escrito; en forma hablada connota pedantería)",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be",
+      "nombre_letra_v": "uve",
+      "nombre_letra_w": "doble u",
+      "nombre_letra_y": "i griega, ye"
+    },
+    {
+      "pais": "Cuba",
+      "tratamiento_singular_confianza": "tú",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be",
+      "nombre_letra_v": "ve corta, ve de vaca",
+      "nombre_letra_w": "doble ve",
+      "nombre_letra_y": "i griega"
+    },
+    {
+      "pais": "Ecuador",
+      "tratamiento_singular_confianza": "tú, vos",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be grande, be de burro",
+      "nombre_letra_v": "uve",
+      "nombre_letra_w": "doble ve",
+      "nombre_letra_y": "ye"
+    },
+    {
+      "pais": "El Salvador",
+      "tratamiento_singular_confianza": "vos (más popular), tú",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be de burro, be labial",
+      "nombre_letra_v": "uve, ve de vaca, ve labiodental",
+      "nombre_letra_w": "doble ve",
+      "nombre_letra_y": "i griega, ye"
+    },
+    {
+      "pais": "España",
+      "tratamiento_singular_confianza": "tú",
+      "tratamiento_plural_confianza": "vosotros (ustedes en Andalucía Occidental y Canarias)",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be, be de burro (informal)",
+      "nombre_letra_v": "uve",
+      "nombre_letra_w": "uve doble",
+      "nombre_letra_y": "i griega"
+    },
+    {
+      "pais": "Filipinas",
+      "tratamiento_singular_confianza": "tú, vos (en lugares donde se habla chabacano)",
+      "tratamiento_plural_confianza": "vosotros",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be grande",
+      "nombre_letra_v": "ve chica",
+      "nombre_letra_w": "doble u",
+      "nombre_letra_y": "i griega, ye"
+    },
+    {
+      "pais": "Guatemala",
+      "tratamiento_singular_confianza": "tú, vos",
+      "tratamiento_plural_confianza": "ustedes, muchá",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be grande, be labial",
+      "nombre_letra_v": "ve pequeña, uve, ve de vaca",
+      "nombre_letra_w": "doble ve",
+      "nombre_letra_y": "i griega"
+    },
+    {
+      "pais": "Guinea Ecuatorial",
+      "tratamiento_singular_confianza": "tú",
+      "tratamiento_plural_confianza": "vosotros, ustedes",
+      "tratamiento_plural_respeto": "ustedes, vosotros",
+      "nombre_letra_b": "be",
+      "nombre_letra_v": "uve",
+      "nombre_letra_w": "uve doble, doble uve, doble u",
+      "nombre_letra_y": "i griega"
+    },
+    {
+      "pais": "Honduras",
+      "tratamiento_singular_confianza": "vos, tú",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be labial, be de burro, be grande",
+      "nombre_letra_v": "ve dental",
+      "nombre_letra_w": "doble ve",
+      "nombre_letra_y": "i griega, ye"
+    },
+    {
+      "pais": "México",
+      "tratamiento_singular_confianza": "tú, vos (Tabasco y Chiapas)",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be, be larga, be de burro (informal), be grande",
+      "nombre_letra_v": "ve corta, ve chica, ve de vaca, uvé, ve chiquita",
+      "nombre_letra_w": "doble u, doble ve",
+      "nombre_letra_y": "i griega, ye"
+    },
+    {
+      "pais": "Nicaragua",
+      "tratamiento_singular_confianza": "vos, tú (por escrito)",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be de burro",
+      "nombre_letra_v": "ve de vaca, ve pequeña",
+      "nombre_letra_w": "doble ve",
+      "nombre_letra_y": "ye"
+    },
+    {
+      "pais": "Panamá",
+      "tratamiento_singular_confianza": "tú, vos (Azuero)",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be",
+      "nombre_letra_v": "uve",
+      "nombre_letra_w": "doble u",
+      "nombre_letra_y": "i griega"
+    },
+    {
+      "pais": "Paraguay",
+      "tratamiento_singular_confianza": "tú, vos",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be larga",
+      "nombre_letra_v": "ve corta",
+      "nombre_letra_w": "ve doble, doble ve",
+      "nombre_letra_y": "i griega"
+    },
+    {
+      "pais": "Perú",
+      "tratamiento_singular_confianza": "tú",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be, be grande",
+      "nombre_letra_v": "ve chica",
+      "nombre_letra_w": "ve doble",
+      "nombre_letra_y": "i griega"
+    },
+    {
+      "pais": "Puerto Rico",
+      "tratamiento_singular_confianza": "tú",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be, be larga, be de burro",
+      "nombre_letra_v": "uve, ve de vaca",
+      "nombre_letra_w": "doble u",
+      "nombre_letra_y": "i griega, ye"
+    },
+    {
+      "pais": "Rep. Dominicana",
+      "tratamiento_singular_confianza": "tú",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be, be larga, be alta, be de burro",
+      "nombre_letra_v": "ve corta",
+      "nombre_letra_w": "doble u",
+      "nombre_letra_y": "i griega, ye"
+    },
+    {
+      "pais": "Uruguay",
+      "tratamiento_singular_confianza": "tú (Maldonado y Rocha), vos",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be larga, be de burro (informal)",
+      "nombre_letra_v": "ve corta, uve",
+      "nombre_letra_w": "doble ve",
+      "nombre_letra_y": "i griega, ye"
+    },
+    {
+      "pais": "Venezuela",
+      "tratamiento_singular_confianza": "tú, usted (Los Andes), vos (véase Voseo en Venezuela) (Zulia, Falcón y Trujillo)",
+      "tratamiento_plural_confianza": "ustedes",
+      "tratamiento_plural_respeto": "ustedes",
+      "nombre_letra_b": "be grande, be alta, be de burro (informal)",
+      "nombre_letra_v": "ve de vaca, ve labiodental, ve de Venezuela, ve pequeña",
+      "nombre_letra_w": "doble ve",
+      "nombre_letra_y": "ye, i griega"
+    }
+  ],
+  "meta": {
+    "title": "Tuteo, voseo y nombres de las letras b, v, w e y por país hispanohablante - Free Download",
+    "description": "Formas de tratamiento usadas en cada país hispanohablante (tú, vos, usted, vosotros, ustedes) y cómo se llaman allí las letras b, v, w e y (be larga, ve corta, uve, doble ve, i griega, ye…). En todos los países el singular de respeto es «usted». Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tuteo, voseo y nombres de las letras b, v, w e y por país hispanohablante | ListBase",
+    "seo_description": "Download Tuteo, voseo y nombres de las letras b, v, w e y por país hispanohablante — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Diferencias_de_vocabulario_estándar_entre_países_hispanohablantes"
+    ]
+  }
+}

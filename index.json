@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-26T02:09:24.282Z",
-  "total_datasets": 601,
-  "total_records": 437655,
+  "generated": "2026-11-26T02:09:33.542Z",
+  "total_datasets": 602,
+  "total_records": 437678,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "law",
@@ -3745,6 +3745,35 @@
         "xlsx": {
           "name": "es-sistemas-de-escritura_ES.xlsx",
           "size": 10380
+        }
+      }
+    },
+    {
+      "id": "es-tuteo-voseo-y-nombres-de-letras-por-pais",
+      "name": "Tuteo, voseo y nombres de las letras b, v, w e y por país hispanohablante",
+      "category": "language",
+      "record_count": 23,
+      "columns": [
+        "pais",
+        "tratamiento_singular_confianza",
+        "tratamiento_plural_confianza",
+        "tratamiento_plural_respeto",
+        "nombre_letra_b",
+        "nombre_letra_v",
+        "nombre_letra_w",
+        "nombre_letra_y"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Diferencias_de_vocabulario_estándar_entre_países_hispanohablantes",
+      "updated": "2026-11",
+      "size": 11436,
+      "files": {
+        "csv": {
+          "name": "es-tuteo-voseo-y-nombres-de-letras-por-pais_ES.csv",
+          "size": 3275
+        },
+        "xlsx": {
+          "name": "es-tuteo-voseo-y-nombres-de-letras-por-pais_ES.xlsx",
+          "size": 8424
         }
       }
     },
