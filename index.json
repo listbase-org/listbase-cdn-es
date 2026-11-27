@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-27T02:12:58.516Z",
-  "total_datasets": 603,
-  "total_records": 437699,
+  "generated": "2026-11-27T02:13:08.009Z",
+  "total_datasets": 604,
+  "total_records": 437803,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tech",
@@ -17493,6 +17493,31 @@
         "xlsx": {
           "name": "es-estadios-de-futbol_ES.xlsx",
           "size": 18882
+        }
+      }
+    },
+    {
+      "id": "es-maximos-goleadores-copa-libertadores-por-edicion",
+      "name": "Máximos goleadores de la Copa Libertadores por edición (1960–2025)",
+      "category": "sports",
+      "record_count": 104,
+      "columns": [
+        "edicion",
+        "jugador",
+        "equipo",
+        "goles"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Anexo:Estadísticas_de_la_Copa_Libertadores_de_América",
+      "updated": "2026-11",
+      "size": 14207,
+      "files": {
+        "csv": {
+          "name": "es-maximos-goleadores-copa-libertadores-por-edicion_ES.csv",
+          "size": 4327
+        },
+        "xlsx": {
+          "name": "es-maximos-goleadores-copa-libertadores-por-edicion_ES.xlsx",
+          "size": 10078
         }
       }
     },

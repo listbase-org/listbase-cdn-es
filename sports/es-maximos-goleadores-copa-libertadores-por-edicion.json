@@ -1,0 +1,670 @@
+{
+  "id": "es-maximos-goleadores-copa-libertadores-por-edicion",
+  "name": "Máximos goleadores de la Copa Libertadores por edición (1960–2025)",
+  "title": "Máximos goleadores de la Copa Libertadores por edición (1960–2025)",
+  "description": "Goleador o goleadores de cada edición de la Copa Libertadores de América desde 1960, con su equipo y el número de goles marcados en el torneo.",
+  "category": "sports",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Estadísticas_de_la_Copa_Libertadores_de_América",
+  "source_url": "https://es.wikipedia.org/wiki/Anexo:Estadísticas_de_la_Copa_Libertadores_de_América",
+  "updated": "2026-11",
+  "record_count": 104,
+  "columns": [
+    {
+      "key": "edicion",
+      "label": "Edicion",
+      "type": "number"
+    },
+    {
+      "key": "jugador",
+      "label": "Jugador",
+      "type": "string"
+    },
+    {
+      "key": "equipo",
+      "label": "Equipo",
+      "type": "string"
+    },
+    {
+      "key": "goles",
+      "label": "Goles",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "edicion": 1960,
+      "jugador": "Alberto Spencer",
+      "equipo": "Peñarol",
+      "goles": 7
+    },
+    {
+      "edicion": 1961,
+      "jugador": "Osvaldo Panzutto",
+      "equipo": "Santa Fe",
+      "goles": 4
+    },
+    {
+      "edicion": 1962,
+      "jugador": "Coutinho",
+      "equipo": "Santos",
+      "goles": 6
+    },
+    {
+      "edicion": 1962,
+      "jugador": "Enrique Raymondi",
+      "equipo": "Emelec",
+      "goles": 6
+    },
+    {
+      "edicion": 1962,
+      "jugador": "Alberto Spencer",
+      "equipo": "Peñarol",
+      "goles": 6
+    },
+    {
+      "edicion": 1963,
+      "jugador": "José Sanfilippo",
+      "equipo": "Boca Juniors",
+      "goles": 7
+    },
+    {
+      "edicion": 1964,
+      "jugador": "Mario Rodríguez",
+      "equipo": "Independiente",
+      "goles": 6
+    },
+    {
+      "edicion": 1965,
+      "jugador": "Pelé",
+      "equipo": "Santos",
+      "goles": 8
+    },
+    {
+      "edicion": 1966,
+      "jugador": "Daniel Onega",
+      "equipo": "River Plate",
+      "goles": 17
+    },
+    {
+      "edicion": 1967,
+      "jugador": "Norberto Raffo",
+      "equipo": "Racing Club",
+      "goles": 13
+    },
+    {
+      "edicion": 1968,
+      "jugador": "Tupãzinho",
+      "equipo": "Palmeiras",
+      "goles": 11
+    },
+    {
+      "edicion": 1969,
+      "jugador": "Alberto Ferrero",
+      "equipo": "Santiago Wanderers",
+      "goles": 8
+    },
+    {
+      "edicion": 1969,
+      "jugador": "Miguel Loayza",
+      "equipo": "Deportivo Cali",
+      "goles": 8
+    },
+    {
+      "edicion": 1970,
+      "jugador": "Francisco Bertocchi",
+      "equipo": "Liga de Quito",
+      "goles": 9
+    },
+    {
+      "edicion": 1971,
+      "jugador": "Raúl Castronovo",
+      "equipo": "Peñarol",
+      "goles": 10
+    },
+    {
+      "edicion": 1971,
+      "jugador": "Luis Artime",
+      "equipo": "Nacional",
+      "goles": 10
+    },
+    {
+      "edicion": 1972,
+      "jugador": "Oswaldo Ramírez",
+      "equipo": "Universitario",
+      "goles": 6
+    },
+    {
+      "edicion": 1972,
+      "jugador": "Percy Rojas",
+      "equipo": "Universitario",
+      "goles": 6
+    },
+    {
+      "edicion": 1972,
+      "jugador": "Teófilo Cubillas",
+      "equipo": "Alianza Lima",
+      "goles": 6
+    },
+    {
+      "edicion": 1972,
+      "jugador": "Toninho",
+      "equipo": "São Paulo",
+      "goles": 6
+    },
+    {
+      "edicion": 1973,
+      "jugador": "Carlos Caszely",
+      "equipo": "Colo-Colo",
+      "goles": 9
+    },
+    {
+      "edicion": 1974,
+      "jugador": "Fernando Morena",
+      "equipo": "Peñarol",
+      "goles": 7
+    },
+    {
+      "edicion": 1974,
+      "jugador": "Pedro Virgilio Rocha",
+      "equipo": "São Paulo",
+      "goles": 7
+    },
+    {
+      "edicion": 1974,
+      "jugador": "Terto",
+      "equipo": "São Paulo",
+      "goles": 7
+    },
+    {
+      "edicion": 1975,
+      "jugador": "Fernando Morena",
+      "equipo": "Peñarol",
+      "goles": 8
+    },
+    {
+      "edicion": 1975,
+      "jugador": "Oswaldo Ramírez",
+      "equipo": "Universitario",
+      "goles": 8
+    },
+    {
+      "edicion": 1976,
+      "jugador": "Palhinha",
+      "equipo": "Cruzeiro",
+      "goles": 13
+    },
+    {
+      "edicion": 1977,
+      "jugador": "Néstor Scotta",
+      "equipo": "Deportivo Cali",
+      "goles": 5
+    },
+    {
+      "edicion": 1978,
+      "jugador": "Néstor Scotta",
+      "equipo": "Deportivo Cali",
+      "goles": 8
+    },
+    {
+      "edicion": 1978,
+      "jugador": "Guillermo La Rosa",
+      "equipo": "Alianza Lima",
+      "goles": 8
+    },
+    {
+      "edicion": 1979,
+      "jugador": "Miltão",
+      "equipo": "Guarani",
+      "goles": 6
+    },
+    {
+      "edicion": 1979,
+      "jugador": "Juan José Oré",
+      "equipo": "Universitario",
+      "goles": 6
+    },
+    {
+      "edicion": 1980,
+      "jugador": "Waldemar Victorino",
+      "equipo": "Nacional",
+      "goles": 6
+    },
+    {
+      "edicion": 1981,
+      "jugador": "Zico",
+      "equipo": "Flamengo",
+      "goles": 11
+    },
+    {
+      "edicion": 1982,
+      "jugador": "Fernando Morena",
+      "equipo": "Peñarol",
+      "goles": 7
+    },
+    {
+      "edicion": 1983,
+      "jugador": "Arsenio Luzardo",
+      "equipo": "Nacional",
+      "goles": 8
+    },
+    {
+      "edicion": 1984,
+      "jugador": "Tita",
+      "equipo": "Flamengo",
+      "goles": 8
+    },
+    {
+      "edicion": 1985,
+      "jugador": "Juan Carlos Sánchez",
+      "equipo": "Blooming",
+      "goles": 11
+    },
+    {
+      "edicion": 1986,
+      "jugador": "Juan Carlos de Lima",
+      "equipo": "Deportivo Quito",
+      "goles": 9
+    },
+    {
+      "edicion": 1987,
+      "jugador": "Ricardo Gareca",
+      "equipo": "América de Cali",
+      "goles": 7
+    },
+    {
+      "edicion": 1988,
+      "jugador": "Arnoldo Iguarán",
+      "equipo": "Millonarios",
+      "goles": 5
+    },
+    {
+      "edicion": 1989,
+      "jugador": "Carlos Aguilera",
+      "equipo": "Peñarol",
+      "goles": 10
+    },
+    {
+      "edicion": 1989,
+      "jugador": "Raúl Vicente Amarilla",
+      "equipo": "Olimpia",
+      "goles": 10
+    },
+    {
+      "edicion": 1990,
+      "jugador": "Adriano Samaniego",
+      "equipo": "Olimpia",
+      "goles": 7
+    },
+    {
+      "edicion": 1991,
+      "jugador": "Gaúcho",
+      "equipo": "Flamengo",
+      "goles": 8
+    },
+    {
+      "edicion": 1992,
+      "jugador": "Palhinha",
+      "equipo": "São Paulo",
+      "goles": 7
+    },
+    {
+      "edicion": 1993,
+      "jugador": "Juan Carlos Almada",
+      "equipo": "Universidad Católica",
+      "goles": 9
+    },
+    {
+      "edicion": 1994,
+      "jugador": "Stalin Rivas",
+      "equipo": "Minerven",
+      "goles": 7
+    },
+    {
+      "edicion": 1995,
+      "jugador": "Mário Jardel",
+      "equipo": "Grêmio",
+      "goles": 12
+    },
+    {
+      "edicion": 1996,
+      "jugador": "Antony de Ávila",
+      "equipo": "América de Cali",
+      "goles": 11
+    },
+    {
+      "edicion": 1997,
+      "jugador": "Alberto Acosta",
+      "equipo": "Universidad Católica",
+      "goles": 11
+    },
+    {
+      "edicion": 1998,
+      "jugador": "Sérgio João",
+      "equipo": "Bolívar",
+      "goles": 10
+    },
+    {
+      "edicion": 1999,
+      "jugador": "Víctor Bonilla",
+      "equipo": "Deportivo Cali",
+      "goles": 6
+    },
+    {
+      "edicion": 1999,
+      "jugador": "Fernando Baiano",
+      "equipo": "Corinthians",
+      "goles": 6
+    },
+    {
+      "edicion": 1999,
+      "jugador": "Gauchinho",
+      "equipo": "Cerro Porteño",
+      "goles": 6
+    },
+    {
+      "edicion": 1999,
+      "jugador": "Ruberth Morán",
+      "equipo": "Estudiantes de Mérida",
+      "goles": 6
+    },
+    {
+      "edicion": 1999,
+      "jugador": "Rubén Sosa",
+      "equipo": "Nacional",
+      "goles": 6
+    },
+    {
+      "edicion": 1999,
+      "jugador": "Martín Zapata",
+      "equipo": "Deportivo Cali",
+      "goles": 6
+    },
+    {
+      "edicion": 2000,
+      "jugador": "Luizão",
+      "equipo": "Corinthians",
+      "goles": 15
+    },
+    {
+      "edicion": 2001,
+      "jugador": "Lopes",
+      "equipo": "Palmeiras",
+      "goles": 9
+    },
+    {
+      "edicion": 2002,
+      "jugador": "Rodrigo Mendes",
+      "equipo": "Grêmio",
+      "goles": 10
+    },
+    {
+      "edicion": 2003,
+      "jugador": "Marcelo Delgado",
+      "equipo": "Boca Juniors",
+      "goles": 9
+    },
+    {
+      "edicion": 2003,
+      "jugador": "Ricardo Oliveira",
+      "equipo": "Santos",
+      "goles": 9
+    },
+    {
+      "edicion": 2004,
+      "jugador": "Luís Fabiano",
+      "equipo": "São Paulo",
+      "goles": 8
+    },
+    {
+      "edicion": 2005,
+      "jugador": "Santiago Salcedo",
+      "equipo": "Cerro Porteño",
+      "goles": 9
+    },
+    {
+      "edicion": 2006,
+      "jugador": "Jorge Quinteros",
+      "equipo": "Universidad Católica",
+      "goles": 5
+    },
+    {
+      "edicion": 2006,
+      "jugador": "Nilmar",
+      "equipo": "Corinthians",
+      "goles": 5
+    },
+    {
+      "edicion": 2006,
+      "jugador": "José Luis Calderón",
+      "equipo": "Estudiantes",
+      "goles": 5
+    },
+    {
+      "edicion": 2006,
+      "jugador": "Mariano Pavone",
+      "equipo": "Estudiantes",
+      "goles": 5
+    },
+    {
+      "edicion": 2006,
+      "jugador": "Aloísio",
+      "equipo": "São Paulo",
+      "goles": 5
+    },
+    {
+      "edicion": 2006,
+      "jugador": "Agustín Delgado",
+      "equipo": "Liga de Quito",
+      "goles": 5
+    },
+    {
+      "edicion": 2006,
+      "jugador": "Patricio Urrutia",
+      "equipo": "Liga de Quito",
+      "goles": 5
+    },
+    {
+      "edicion": 2006,
+      "jugador": "Sebastián Ereros",
+      "equipo": "Vélez Sarsfield",
+      "goles": 5
+    },
+    {
+      "edicion": 2006,
+      "jugador": "Washington",
+      "equipo": "Palmeiras",
+      "goles": 5
+    },
+    {
+      "edicion": 2006,
+      "jugador": "Marcinho",
+      "equipo": "Palmeiras",
+      "goles": 5
+    },
+    {
+      "edicion": 2006,
+      "jugador": "Félix Borja",
+      "equipo": "El Nacional",
+      "goles": 5
+    },
+    {
+      "edicion": 2006,
+      "jugador": "Ernesto Farías",
+      "equipo": "River Plate",
+      "goles": 5
+    },
+    {
+      "edicion": 2006,
+      "jugador": "Daniel Montenegro",
+      "equipo": "River Plate",
+      "goles": 5
+    },
+    {
+      "edicion": 2006,
+      "jugador": "Fernandão",
+      "equipo": "Internacional",
+      "goles": 5
+    },
+    {
+      "edicion": 2007,
+      "jugador": "Salvador Cabañas",
+      "equipo": "América",
+      "goles": 10
+    },
+    {
+      "edicion": 2008,
+      "jugador": "Salvador Cabañas",
+      "equipo": "América",
+      "goles": 8
+    },
+    {
+      "edicion": 2008,
+      "jugador": "Marcelo Martins",
+      "equipo": "Cruzeiro",
+      "goles": 8
+    },
+    {
+      "edicion": 2009,
+      "jugador": "Mauro Boselli",
+      "equipo": "Estudiantes",
+      "goles": 8
+    },
+    {
+      "edicion": 2010,
+      "jugador": "Thiago Ribeiro",
+      "equipo": "Cruzeiro",
+      "goles": 8
+    },
+    {
+      "edicion": 2011,
+      "jugador": "Roberto Nanni",
+      "equipo": "Cerro Porteño",
+      "goles": 7
+    },
+    {
+      "edicion": 2011,
+      "jugador": "Wallyson",
+      "equipo": "Cruzeiro",
+      "goles": 7
+    },
+    {
+      "edicion": 2012,
+      "jugador": "Matías Alustiza",
+      "equipo": "Deportivo Quito",
+      "goles": 8
+    },
+    {
+      "edicion": 2012,
+      "jugador": "Neymar",
+      "equipo": "Santos",
+      "goles": 8
+    },
+    {
+      "edicion": 2013,
+      "jugador": "Jô",
+      "equipo": "Atlético Mineiro",
+      "goles": 7
+    },
+    {
+      "edicion": 2014,
+      "jugador": "Nicolás Olivera",
+      "equipo": "Defensor Sporting",
+      "goles": 5
+    },
+    {
+      "edicion": 2014,
+      "jugador": "Julio Dos Santos",
+      "equipo": "Cerro Porteño",
+      "goles": 5
+    },
+    {
+      "edicion": 2015,
+      "jugador": "Gustavo Bou",
+      "equipo": "Racing Club",
+      "goles": 8
+    },
+    {
+      "edicion": 2016,
+      "jugador": "Jonathan Calleri",
+      "equipo": "São Paulo",
+      "goles": 9
+    },
+    {
+      "edicion": 2017,
+      "jugador": "José Sand",
+      "equipo": "Lanús",
+      "goles": 9
+    },
+    {
+      "edicion": 2018,
+      "jugador": "Wilson Morelo",
+      "equipo": "Santa Fe",
+      "goles": 9
+    },
+    {
+      "edicion": 2018,
+      "jugador": "Miguel Borja",
+      "equipo": "Palmeiras",
+      "goles": 9
+    },
+    {
+      "edicion": 2019,
+      "jugador": "Gabriel Barbosa",
+      "equipo": "Flamengo",
+      "goles": 9
+    },
+    {
+      "edicion": 2020,
+      "jugador": "Fidel Martínez",
+      "equipo": "Barcelona",
+      "goles": 8
+    },
+    {
+      "edicion": 2021,
+      "jugador": "Gabriel Barbosa",
+      "equipo": "Flamengo",
+      "goles": 11
+    },
+    {
+      "edicion": 2022,
+      "jugador": "Pedro",
+      "equipo": "Flamengo",
+      "goles": 12
+    },
+    {
+      "edicion": 2023,
+      "jugador": "Germán Cano",
+      "equipo": "Fluminense",
+      "goles": 13
+    },
+    {
+      "edicion": 2024,
+      "jugador": "Júnior Santos",
+      "equipo": "Botafogo",
+      "goles": 10
+    },
+    {
+      "edicion": 2025,
+      "jugador": "José Manuel López",
+      "equipo": "Palmeiras",
+      "goles": 7
+    },
+    {
+      "edicion": 2025,
+      "jugador": "Adrián Martínez",
+      "equipo": "Racing Club",
+      "goles": 7
+    }
+  ],
+  "meta": {
+    "title": "Máximos goleadores de la Copa Libertadores por edición (1960–2025) - Free Download",
+    "description": "Goleador o goleadores de cada edición de la Copa Libertadores de América desde 1960, con su equipo y el número de goles marcados en el torneo. Contains 104 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Máximos goleadores de la Copa Libertadores por edición (1960–2025) | ListBase",
+    "seo_description": "Download Máximos goleadores de la Copa Libertadores por edición (1960–2025) — 104 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 104 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Anexo:Estadísticas_de_la_Copa_Libertadores_de_América"
+    ]
+  }
+}
