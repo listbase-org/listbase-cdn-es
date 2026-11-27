@@ -1,0 +1,625 @@
+{
+  "id": "es-premio-nadal-ganadores",
+  "name": "Premio Nadal: ganadores y finalistas (1944–2026)",
+  "title": "Premio Nadal: ganadores y finalistas (1944–2026)",
+  "description": "Ganadores del Premio Nadal de novela (Ediciones Destino) desde 1944 con la obra premiada, y el finalista y su obra en las ediciones en que se anunció (hasta 2010).",
+  "category": "culture",
+  "source": "https://es.wikipedia.org/wiki/Premio_Nadal",
+  "source_url": "https://es.wikipedia.org/wiki/Premio_Nadal",
+  "updated": "2026-11",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "edicion",
+      "label": "Edicion",
+      "type": "number"
+    },
+    {
+      "key": "ganador",
+      "label": "Ganador",
+      "type": "string"
+    },
+    {
+      "key": "obra_ganadora",
+      "label": "Obra Ganadora",
+      "type": "string"
+    },
+    {
+      "key": "finalista",
+      "label": "Finalista",
+      "type": "string"
+    },
+    {
+      "key": "obra_finalista",
+      "label": "Obra Finalista",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edicion": "1944",
+      "ganador": "Carmen Laforet",
+      "obra_ganadora": "Nada",
+      "finalista": "José María Álvarez Blázquez",
+      "obra_finalista": "En el pueblo hay caras nuevas"
+    },
+    {
+      "edicion": "1945",
+      "ganador": "José Félix Tapia",
+      "obra_ganadora": "La luna ha entrado en casa",
+      "finalista": "Francisco García Pavón",
+      "obra_finalista": "Cerca de Oviedo"
+    },
+    {
+      "edicion": "1946",
+      "ganador": "José María Gironella",
+      "obra_ganadora": "Un hombre",
+      "finalista": "Eulalia Galvarriato",
+      "obra_finalista": "Cinco sombras"
+    },
+    {
+      "edicion": "1947",
+      "ganador": "Miguel Delibes",
+      "obra_ganadora": "La sombra del ciprés es alargada",
+      "finalista": "Manuel Pombo Angulo",
+      "obra_finalista": "Hospital General"
+    },
+    {
+      "edicion": "1948",
+      "ganador": "Sebastián Juan Arbó",
+      "obra_ganadora": "Sobre las piedras grises",
+      "finalista": "Manuel Mur Oti",
+      "obra_finalista": "Destino negro"
+    },
+    {
+      "edicion": "1949",
+      "ganador": "José Suárez Carreño",
+      "obra_ganadora": "Las últimas horas",
+      "finalista": "Carlos de Santiago",
+      "obra_finalista": "El huerto de Pisadiel"
+    },
+    {
+      "edicion": "1950",
+      "ganador": "Elena Quiroga",
+      "obra_ganadora": "Viento del Norte",
+      "finalista": "Francisco Montero Galvache",
+      "obra_finalista": "El mar está solo"
+    },
+    {
+      "edicion": "1951",
+      "ganador": "Luis Romero",
+      "obra_ganadora": "La noria",
+      "finalista": "Tomás Salvador",
+      "obra_finalista": "Historias de Valcanillo"
+    },
+    {
+      "edicion": "1952",
+      "ganador": "Dolores Medio",
+      "obra_ganadora": "Nosotros, los Rivero",
+      "finalista": "Severiano Fernández Nicolás",
+      "obra_finalista": "La ciudad sin horizonte"
+    },
+    {
+      "edicion": "1953",
+      "ganador": "Lluïsa Forrellad",
+      "obra_ganadora": "Siempre en capilla",
+      "finalista": "Alejandro Núñez Alonso",
+      "obra_finalista": "La gota de Mercurio"
+    },
+    {
+      "edicion": "1954",
+      "ganador": "Francisco José Alcántara",
+      "obra_ganadora": "La muerte le sienta bien a Villalobos",
+      "finalista": "Ángel Oliver",
+      "obra_finalista": "Días turbulentos"
+    },
+    {
+      "edicion": "1955",
+      "ganador": "Rafael Sánchez Ferlosio",
+      "obra_ganadora": "El Jarama",
+      "finalista": "Héctor Vázquez-Azpiri",
+      "obra_finalista": "Víbora"
+    },
+    {
+      "edicion": "1956",
+      "ganador": "José Luis Martín Descalzo",
+      "obra_ganadora": "La frontera de Dios",
+      "finalista": "Jesús López Pacheco",
+      "obra_finalista": "Central eléctrica"
+    },
+    {
+      "edicion": "1957",
+      "ganador": "Carmen Martín Gaite",
+      "obra_ganadora": "Entre visillos",
+      "finalista": "Lauro Olmo",
+      "obra_finalista": "Ayer, 27 de octubre"
+    },
+    {
+      "edicion": "1958",
+      "ganador": "José Vidal Cadellans",
+      "obra_ganadora": "No era de los nuestros",
+      "finalista": "Claudio Bassols",
+      "obra_finalista": "El carnaval de los gigantes"
+    },
+    {
+      "edicion": "1959",
+      "ganador": "Ana María Matute",
+      "obra_ganadora": "Primera memoria",
+      "finalista": "Armando López Salinas",
+      "obra_finalista": "La mina"
+    },
+    {
+      "edicion": "1960",
+      "ganador": "Ramiro Pinilla",
+      "obra_ganadora": "Las ciegas hormigas",
+      "finalista": "Gonzalo Torrente Malvido",
+      "obra_finalista": "Hombres varados"
+    },
+    {
+      "edicion": "1961",
+      "ganador": "Juan Antonio Payno",
+      "obra_ganadora": "El curso",
+      "finalista": "Pablo Antoñana",
+      "obra_finalista": "La cuerda rota"
+    },
+    {
+      "edicion": "1962",
+      "ganador": "José María Mendiola",
+      "obra_ganadora": "Muerte por fusilamiento",
+      "finalista": "Manuel Barrios",
+      "obra_finalista": "El crimen"
+    },
+    {
+      "edicion": "1963",
+      "ganador": "Manuel Mejía Vallejo",
+      "obra_ganadora": "El día señalado",
+      "finalista": "Mariano Viguera",
+      "obra_finalista": "Coral"
+    },
+    {
+      "edicion": "1964",
+      "ganador": "Alfonso Martínez Garrido",
+      "obra_ganadora": "El miedo y la esperanza",
+      "finalista": "Manuel Barrios",
+      "obra_finalista": "La espuela"
+    },
+    {
+      "edicion": "1965",
+      "ganador": "Eduardo Caballero Calderón",
+      "obra_ganadora": "El buen salvaje",
+      "finalista": "Juan Farias",
+      "obra_finalista": "Los buscadores de agua"
+    },
+    {
+      "edicion": "1966",
+      "ganador": "Vicente Soto",
+      "obra_ganadora": "La zancada",
+      "finalista": "Carmelo M. Lozano",
+      "obra_finalista": "Gambito de alfil de rey"
+    },
+    {
+      "edicion": "1967",
+      "ganador": "José María Sanjuán",
+      "obra_ganadora": "Réquiem por todos nosotros",
+      "finalista": "Francisco García Pavón",
+      "obra_finalista": "El reinado de Witiza"
+    },
+    {
+      "edicion": "1968",
+      "ganador": "Álvaro Cunqueiro",
+      "obra_ganadora": "Un hombre que se parecía a Orestes",
+      "finalista": "Eduardo García",
+      "obra_finalista": "Sede vacante"
+    },
+    {
+      "edicion": "1969",
+      "ganador": "Francisco García Pavón",
+      "obra_ganadora": "Las Hermanas Coloradas",
+      "finalista": "Luis Ricardo Alonso",
+      "obra_finalista": "El candidato"
+    },
+    {
+      "edicion": "1970",
+      "ganador": "Jesús Fernández Santos",
+      "obra_ganadora": "Libro de las memorias de las cosas",
+      "finalista": "Gabriel García-Badell",
+      "obra_finalista": "De las armas a Montemolín"
+    },
+    {
+      "edicion": "1971",
+      "ganador": "José María Requena",
+      "obra_ganadora": "El cuajarón",
+      "finalista": "Gustavo Álvarez Gardeazábal",
+      "obra_finalista": "Dabeiba"
+    },
+    {
+      "edicion": "1972",
+      "ganador": "José María Carrascal",
+      "obra_ganadora": "Groovy",
+      "finalista": "Gabriel García-Badell",
+      "obra_finalista": "Las cartas cayeron boca abajo"
+    },
+    {
+      "edicion": "1973",
+      "ganador": "José Antonio García Blázquez",
+      "obra_ganadora": "El rito",
+      "finalista": "Aquilino Duque",
+      "obra_finalista": "El mono azul"
+    },
+    {
+      "edicion": "1974",
+      "ganador": "Luis Gasulla",
+      "obra_ganadora": "Culminación de Montoya",
+      "finalista": "Guillermo A. R. Carrizo",
+      "obra_finalista": "Crónica sin héroes"
+    },
+    {
+      "edicion": "1975",
+      "ganador": "Francisco Umbral",
+      "obra_ganadora": "Las ninfas",
+      "finalista": "Manuel Villar Raso",
+      "obra_finalista": "Mar ligeramente sur"
+    },
+    {
+      "edicion": "1976",
+      "ganador": "Raúl Guerra Garrido",
+      "obra_ganadora": "Lectura insólita de \"El Capital\"",
+      "finalista": "Emilio Mansera Conde",
+      "obra_finalista": "La crisopa"
+    },
+    {
+      "edicion": "1977",
+      "ganador": "José Asenjo Sedano",
+      "obra_ganadora": "Conversación sobre la guerra",
+      "finalista": "Gabriel García-Badell",
+      "obra_finalista": "La zarabanda"
+    },
+    {
+      "edicion": "1978",
+      "ganador": "Germán Sánchez Espeso",
+      "obra_ganadora": "Narciso",
+      "finalista": "Rocío Vélez de Piedrahíta",
+      "obra_finalista": "Terrateniente"
+    },
+    {
+      "edicion": "1979",
+      "ganador": "Carlos Rojas",
+      "obra_ganadora": "El ingenioso hidalgo y poeta Federico García Lorca asciende a los infiernos",
+      "finalista": "Gabriel García-Badell",
+      "obra_finalista": "Nuevo auto de fe"
+    },
+    {
+      "edicion": "1980",
+      "ganador": "Juan Ramón Zaragoza",
+      "obra_ganadora": "Concerto grosso",
+      "finalista": "Ramón Eiroa",
+      "obra_finalista": "Notas para la aclaración de un suicidio"
+    },
+    {
+      "edicion": "1981",
+      "ganador": "Carmen Gómez Ojea",
+      "obra_ganadora": "Cantiga de agüero",
+      "finalista": "Alfonso Zapater Juan Luis González-Ripoll",
+      "obra_finalista": "El accidente El dandy del lunar"
+    },
+    {
+      "edicion": "1982",
+      "ganador": "Fernando Arrabal",
+      "obra_ganadora": "La torre herida por el rayo",
+      "finalista": "José Luis Aguirre",
+      "obra_finalista": "La excursión"
+    },
+    {
+      "edicion": "1983",
+      "ganador": "Salvador García Aguilar",
+      "obra_ganadora": "Regocijo en el hombre",
+      "finalista": "José Avello",
+      "obra_finalista": "La subversión de Beti García"
+    },
+    {
+      "edicion": "1984",
+      "ganador": "José Luis de Tomás García",
+      "obra_ganadora": "La otra orilla de la droga",
+      "finalista": "Telmo Herrera",
+      "obra_finalista": "Papá murió hoy"
+    },
+    {
+      "edicion": "1985",
+      "ganador": "Pau Faner",
+      "obra_ganadora": "Flor de sal",
+      "finalista": "Vicente Sánchez Pinto",
+      "obra_finalista": "Los desiertos del amor"
+    },
+    {
+      "edicion": "1986",
+      "ganador": "Manuel Vicent",
+      "obra_ganadora": "Balada de Caín",
+      "finalista": "Horacio Vázquez-Rial",
+      "obra_finalista": "Historia del Triste"
+    },
+    {
+      "edicion": "1987",
+      "ganador": "Juan José Saer",
+      "obra_ganadora": "La ocasión",
+      "finalista": "José Ferrater Mora",
+      "obra_finalista": "El juego de la verdad"
+    },
+    {
+      "edicion": "1988",
+      "ganador": "Juan Pedro Aparicio",
+      "obra_ganadora": "Retratos de ambigú",
+      "finalista": "Jesús Carazo",
+      "obra_finalista": "Los límites del paraíso"
+    },
+    {
+      "edicion": "1989-90",
+      "ganador": "Juan José Millás",
+      "obra_ganadora": "La soledad era esto",
+      "finalista": "Pedro Crespo",
+      "obra_finalista": "El cuaderno de Forster"
+    },
+    {
+      "edicion": "1991",
+      "ganador": "Alfredo Conde",
+      "obra_ganadora": "Los otros días",
+      "finalista": "Mariano Arias",
+      "obra_finalista": "El silencio de las palabras"
+    },
+    {
+      "edicion": "1992",
+      "ganador": "Alejandro Gándara",
+      "obra_ganadora": "Ciegas esperanzas",
+      "finalista": "Jesús Díaz",
+      "obra_finalista": "Las palabras perdidas"
+    },
+    {
+      "edicion": "1993",
+      "ganador": "Rafael Argullol",
+      "obra_ganadora": "La razón del mal",
+      "finalista": "Jorge Ordaz",
+      "obra_finalista": "La Perla del Oriente"
+    },
+    {
+      "edicion": "1994",
+      "ganador": "Rosa Regàs",
+      "obra_ganadora": "Azul",
+      "finalista": "José Ángel Mañas",
+      "obra_finalista": "Historias del Kronen"
+    },
+    {
+      "edicion": "1995",
+      "ganador": "Ignacio Carrión",
+      "obra_ganadora": "Cruzar el Danubio",
+      "finalista": "Félix Bayón",
+      "obra_finalista": "Adosados"
+    },
+    {
+      "edicion": "1996",
+      "ganador": "Pedro Maestre",
+      "obra_ganadora": "Matando dinosaurios con tirachinas",
+      "finalista": "Juana Salabert",
+      "obra_finalista": "Arde lo que será"
+    },
+    {
+      "edicion": "1997",
+      "ganador": "Carlos Cañeque Solá",
+      "obra_ganadora": "Quién",
+      "finalista": "Lorenzo Silva",
+      "obra_finalista": "La flaqueza del bolchevique"
+    },
+    {
+      "edicion": "1998",
+      "ganador": "Lucía Etxebarria",
+      "obra_ganadora": "Beatriz y los cuerpos celestes",
+      "finalista": "Ignacio García-Valiño",
+      "obra_finalista": "La caricia del escorpión"
+    },
+    {
+      "edicion": "1999",
+      "ganador": "Gustavo Martín Garzo",
+      "obra_ganadora": "Las historias de Marta y Fernando",
+      "finalista": "Lilian Neuman",
+      "obra_finalista": "Levantar ciudades"
+    },
+    {
+      "edicion": "2000",
+      "ganador": "Lorenzo Silva",
+      "obra_ganadora": "El alquimista impaciente",
+      "finalista": "José Carlos Somoza",
+      "obra_finalista": "Dafne desvanecida"
+    },
+    {
+      "edicion": "2001",
+      "ganador": "Fernando Marías",
+      "obra_ganadora": "El niño de los coroneles",
+      "finalista": "Lola Beccaria",
+      "obra_finalista": "La luna en Jorge"
+    },
+    {
+      "edicion": "2002",
+      "ganador": "Ángela Vallvey",
+      "obra_ganadora": "Los estados carenciales",
+      "finalista": "José Luis de Juan",
+      "obra_finalista": "Kaleidoscopio"
+    },
+    {
+      "edicion": "2003",
+      "ganador": "Andrés Trapiello",
+      "obra_ganadora": "Los amigos del crimen perfecto",
+      "finalista": "David Torres",
+      "obra_finalista": "El gran silencio"
+    },
+    {
+      "edicion": "2004",
+      "ganador": "Antonio Soler",
+      "obra_ganadora": "El camino de los ingleses",
+      "finalista": "Javier Puebla",
+      "obra_finalista": "Sonríe Delgado"
+    },
+    {
+      "edicion": "2005",
+      "ganador": "Pedro Zarraluki",
+      "obra_ganadora": "Un encargo difícil",
+      "finalista": "Nicolás Casariego",
+      "obra_finalista": "Cazadores de luz"
+    },
+    {
+      "edicion": "2006",
+      "ganador": "Eduardo Lago",
+      "obra_ganadora": "Llámame Brooklyn",
+      "finalista": "Marta Sanz",
+      "obra_finalista": "Susana y los viejos"
+    },
+    {
+      "edicion": "2007",
+      "ganador": "Felipe Benítez Reyes",
+      "obra_ganadora": "Mercado de espejismos",
+      "finalista": "Carmen Amoraga",
+      "obra_finalista": "Algo tan parecido al amor [ cita requerida ]"
+    },
+    {
+      "edicion": "2008",
+      "ganador": "Francisco Casavella",
+      "obra_ganadora": "Lo que sé de los vampiros",
+      "finalista": "Eva Díaz Pérez",
+      "obra_finalista": "El Club de la Memoria"
+    },
+    {
+      "edicion": "2009",
+      "ganador": "Maruja Torres",
+      "obra_ganadora": "Esperadme en el cielo",
+      "finalista": "Rubén Abella",
+      "obra_finalista": "El libro del amor esquivo"
+    },
+    {
+      "edicion": "2010",
+      "ganador": "Clara Sánchez",
+      "obra_ganadora": "Lo que esconde tu nombre",
+      "finalista": "Se suspende la categoría de finalista",
+      "obra_finalista": "Se suspende la categoría de finalista"
+    },
+    {
+      "edicion": "2011",
+      "ganador": "Alicia Giménez Bartlett",
+      "obra_ganadora": "Donde nadie te encuentre",
+      "finalista": "",
+      "obra_finalista": ""
+    },
+    {
+      "edicion": "2012",
+      "ganador": "Álvaro Pombo",
+      "obra_ganadora": "El temblor del héroe",
+      "finalista": "",
+      "obra_finalista": ""
+    },
+    {
+      "edicion": "2013",
+      "ganador": "Sergio Vila-Sanjuán",
+      "obra_ganadora": "Estaba en el aire",
+      "finalista": "",
+      "obra_finalista": ""
+    },
+    {
+      "edicion": "2014",
+      "ganador": "Carmen Amoraga",
+      "obra_ganadora": "La vida era eso",
+      "finalista": "",
+      "obra_finalista": ""
+    },
+    {
+      "edicion": "2015",
+      "ganador": "José C. Vales",
+      "obra_ganadora": "Cabaret Biarritz",
+      "finalista": "",
+      "obra_finalista": ""
+    },
+    {
+      "edicion": "2016",
+      "ganador": "Víctor del Árbol",
+      "obra_ganadora": "La víspera de casi todo",
+      "finalista": "",
+      "obra_finalista": ""
+    },
+    {
+      "edicion": "2017",
+      "ganador": "Care Santos",
+      "obra_ganadora": "Media vida",
+      "finalista": "",
+      "obra_finalista": ""
+    },
+    {
+      "edicion": "2018",
+      "ganador": "Alejandro Palomas",
+      "obra_ganadora": "Un amor",
+      "finalista": "",
+      "obra_finalista": ""
+    },
+    {
+      "edicion": "2019",
+      "ganador": "Guillermo Martínez",
+      "obra_ganadora": "Los crímenes de Alicia",
+      "finalista": "",
+      "obra_finalista": ""
+    },
+    {
+      "edicion": "2020",
+      "ganador": "Ana Merino",
+      "obra_ganadora": "El mapa de los afectos",
+      "finalista": "",
+      "obra_finalista": ""
+    },
+    {
+      "edicion": "2021",
+      "ganador": "Najat el Hachmi",
+      "obra_ganadora": "El lunes nos querrán",
+      "finalista": "",
+      "obra_finalista": ""
+    },
+    {
+      "edicion": "2022",
+      "ganador": "Inés Martín Rodrigo",
+      "obra_ganadora": "Las formas del querer",
+      "finalista": "",
+      "obra_finalista": ""
+    },
+    {
+      "edicion": "2023",
+      "ganador": "Manuel Vilas",
+      "obra_ganadora": "Nosotros",
+      "finalista": "",
+      "obra_finalista": ""
+    },
+    {
+      "edicion": "2024",
+      "ganador": "César Pérez Gellida",
+      "obra_ganadora": "Bajo tierra seca",
+      "finalista": "",
+      "obra_finalista": ""
+    },
+    {
+      "edicion": "2025",
+      "ganador": "Jorge Fernández Díaz",
+      "obra_ganadora": "El secreto de Marcial",
+      "finalista": "",
+      "obra_finalista": ""
+    },
+    {
+      "edicion": "2026",
+      "ganador": "David Uclés",
+      "obra_ganadora": "La ciudad de las luces muertas",
+      "finalista": "",
+      "obra_finalista": ""
+    }
+  ],
+  "meta": {
+    "title": "Premio Nadal: ganadores y finalistas (1944–2026) - Free Download",
+    "description": "Ganadores del Premio Nadal de novela (Ediciones Destino) desde 1944 con la obra premiada, y el finalista y su obra en las ediciones en que se anunció (hasta 2010). Contains 82 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Premio Nadal: ganadores y finalistas (1944–2026) | ListBase",
+    "seo_description": "Download Premio Nadal: ganadores y finalistas (1944–2026) — 82 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 82 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Premio_Nadal"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-27T02:13:08.009Z",
-  "total_datasets": 604,
-  "total_records": 437803,
+  "generated": "2026-11-27T02:13:16.650Z",
+  "total_datasets": 605,
+  "total_records": 437885,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "economy",
@@ -469,6 +469,32 @@
         "xlsx": {
           "name": "es-premio-nacional-literatura-chile_ES.xlsx",
           "size": 11058
+        }
+      }
+    },
+    {
+      "id": "es-premio-nadal-ganadores",
+      "name": "Premio Nadal: ganadores y finalistas (1944–2026)",
+      "category": "culture",
+      "record_count": 82,
+      "columns": [
+        "edicion",
+        "ganador",
+        "obra_ganadora",
+        "finalista",
+        "obra_finalista"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Premio_Nadal",
+      "updated": "2026-11",
+      "size": 18520,
+      "files": {
+        "csv": {
+          "name": "es-premio-nadal-ganadores_ES.csv",
+          "size": 7180
+        },
+        "xlsx": {
+          "name": "es-premio-nadal-ganadores_ES.xlsx",
+          "size": 12146
         }
       }
     },
