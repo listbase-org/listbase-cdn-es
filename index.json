@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "generated": "2026-11-26T02:09:33.542Z",
-  "total_datasets": 602,
-  "total_records": 437678,
+  "generated": "2026-11-27T02:12:58.516Z",
+  "total_datasets": 603,
+  "total_records": 437699,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tourism",
@@ -18107,6 +18107,34 @@
         "xlsx": {
           "name": "es-dias-trimestres-eras_ES.xlsx",
           "size": 7556
+        }
+      }
+    },
+    {
+      "id": "es-horario-de-verano-paises-hispanohablantes",
+      "name": "Horario de verano en los países hispanohablantes",
+      "category": "time",
+      "record_count": 21,
+      "columns": [
+        "pais",
+        "region",
+        "usa_horario_de_verano",
+        "hemisferio_verano",
+        "inicio",
+        "fin",
+        "notas"
+      ],
+      "source": "https://es.wikipedia.org/wiki/Horario_de_verano_en_el_mundo",
+      "updated": "2026-11",
+      "size": 8281,
+      "files": {
+        "csv": {
+          "name": "es-horario-de-verano-paises-hispanohablantes_ES.csv",
+          "size": 3090
+        },
+        "xlsx": {
+          "name": "es-horario-de-verano-paises-hispanohablantes_ES.xlsx",
+          "size": 8320
         }
       }
     },

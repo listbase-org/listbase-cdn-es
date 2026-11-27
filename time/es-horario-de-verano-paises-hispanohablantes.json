@@ -1,0 +1,250 @@
+{
+  "id": "es-horario-de-verano-paises-hispanohablantes",
+  "name": "Horario de verano en los países hispanohablantes",
+  "title": "Horario de verano en los países hispanohablantes",
+  "description": "Uso actual del horario de verano en los países y territorios de habla hispana: si se aplica, fechas de inicio y fin, y notas sobre su historia (abolición, años de uso, excepciones regionales).",
+  "category": "time",
+  "source": "https://es.wikipedia.org/wiki/Horario_de_verano_en_el_mundo",
+  "source_url": "https://es.wikipedia.org/wiki/Horario_de_verano_en_el_mundo",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "pais",
+      "label": "Pais",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "usa_horario_de_verano",
+      "label": "Usa Horario De Verano",
+      "type": "string"
+    },
+    {
+      "key": "hemisferio_verano",
+      "label": "Hemisferio Verano",
+      "type": "string"
+    },
+    {
+      "key": "inicio",
+      "label": "Inicio",
+      "type": "string"
+    },
+    {
+      "key": "fin",
+      "label": "Fin",
+      "type": "string"
+    },
+    {
+      "key": "notas",
+      "label": "Notas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pais": "Argentina",
+      "region": "Sudamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "Lo usó desde 1930, hasta el año 2009"
+    },
+    {
+      "pais": "Bolivia",
+      "region": "Sudamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "Lo usó de 1931 a 1932"
+    },
+    {
+      "pais": "Chile",
+      "region": "Sudamérica",
+      "usa_horario_de_verano": "Sí",
+      "hemisferio_verano": "Austral/Sur",
+      "inicio": "Primer sábado de septiembre",
+      "fin": "Primer sábado de abril",
+      "notas": "En uso entre noviembre y marzo en 1968 y 1969, desde octubre a partir de 1970. Tras el terremoto de 2010, desde ese año hasta 2014 el fin del horario de verano se pospone hasta abril. Tras mantenerlo durante todo 2015, en 2016 se reintrodujo el horario estándar entre mayo y agosto, volviendo a usarse entre abril y septiembre a partir de 2019. La región de Magallanes usa el horario de verano permanentemente desde diciembre de 2016 y la región de Aysén desde marzo de 2025."
+    },
+    {
+      "pais": "Colombia",
+      "region": "Sudamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "Utilizó el horario de verano entre 1992 y 1993; desde entonces no ha vuelto a recurrir a esta medida."
+    },
+    {
+      "pais": "Costa Rica",
+      "region": "Centroamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "Lo empleó entre 1954, 1979, 1980, 1991 y 1992; desde entonces no ha vuelto a recurrir a esta medida."
+    },
+    {
+      "pais": "Cuba",
+      "region": "Centroamérica",
+      "usa_horario_de_verano": "Sí",
+      "hemisferio_verano": "Boreal/Norte",
+      "inicio": "Segundo domingo de marzo",
+      "fin": "Primer domingo de noviembre",
+      "notas": ""
+    },
+    {
+      "pais": "Ecuador",
+      "region": "Sudamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "Usó el horario de verano entre 1992 y 1993; desde entonces no ha vuelto a recurrir a esta medida."
+    },
+    {
+      "pais": "El Salvador",
+      "region": "Centroamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "Lo empleó entre 1987 y 1988, desde entonces no se ha vuelto a recurrir a esta medida."
+    },
+    {
+      "pais": "España",
+      "region": "Europa",
+      "usa_horario_de_verano": "Sí",
+      "hemisferio_verano": "Boreal/Norte",
+      "inicio": "Último domingo de marzo",
+      "fin": "Último domingo de octubre",
+      "notas": "Una hora menos para las Islas Canarias."
+    },
+    {
+      "pais": "Guatemala",
+      "region": "Centroamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "Lo empleó en varias ocasiones entre 1973 y 2006; desde ese entonces no se ha vuelto a utilizar esta medida."
+    },
+    {
+      "pais": "Guinea Ecuatorial",
+      "region": "África",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "No usa el horario de verano"
+    },
+    {
+      "pais": "Honduras",
+      "region": "Centroamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "Lo empleó entre 1987 y 1988 y luego en 2006; desde entonces no se ha vuelto a aplicar esta medida."
+    },
+    {
+      "pais": "México",
+      "region": "Norteamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "Canceló el horario de verano en 2022. Las ciudades de la frontera norte utilizan las normas del horario de verano de Estados Unidos. El 26 de octubre de 2022 el Senado ratificó la eliminación del horario de verano para el 30 de octubre de dicho año."
+    },
+    {
+      "pais": "Nicaragua",
+      "region": "Centroamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "Lo utilizó en varias ocasiones entre 1973 y 2006; desde entonces no ha vuelto a recurrir a esta medida."
+    },
+    {
+      "pais": "Panamá",
+      "region": "Centroamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "No usa el horario de verano"
+    },
+    {
+      "pais": "Paraguay",
+      "region": "Sudamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "Canceló el horario de verano en 2024, haciéndolo permanente."
+    },
+    {
+      "pais": "Perú",
+      "region": "Sudamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "Lo utilizó en pocas ocasiones entre 1938 y 1994; desde entonces no ha vuelto a recurrir a esta medida."
+    },
+    {
+      "pais": "Puerto Rico (U.S.A.)",
+      "region": "Centroamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "Lo utilizó de 1942 a 1945."
+    },
+    {
+      "pais": "República Dominicana",
+      "region": "Centroamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "Canceló el horario de verano en 1974"
+    },
+    {
+      "pais": "Uruguay",
+      "region": "Sudamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "Canceló el horario de verano en junio de 2015"
+    },
+    {
+      "pais": "Venezuela",
+      "region": "Sudamérica",
+      "usa_horario_de_verano": "No",
+      "hemisferio_verano": "",
+      "inicio": "",
+      "fin": "",
+      "notas": "No usa el horario de verano"
+    }
+  ],
+  "meta": {
+    "title": "Horario de verano en los países hispanohablantes - Free Download",
+    "description": "Uso actual del horario de verano en los países y territorios de habla hispana: si se aplica, fechas de inicio y fin, y notas sobre su historia (abolición, años de uso, excepciones regionales). Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Horario de verano en los países hispanohablantes | ListBase",
+    "seo_description": "Download Horario de verano en los países hispanohablantes — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://es.wikipedia.org/wiki/Horario_de_verano_en_el_mundo"
+    ]
+  }
+}
